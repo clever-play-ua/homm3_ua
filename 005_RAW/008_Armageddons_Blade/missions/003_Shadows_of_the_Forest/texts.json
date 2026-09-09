@@ -1,0 +1,332 @@
+[
+  {
+    "var": "AB_M3_prolog",
+    "field": "wrapper_prolog",
+    "en": "Gelu, the half-Vori elf leader of Erathia's elite unit known as the Forestguard, has been ordered to wage a shadow war along the Avlee-Eeofol border.  This area is rife with small garrisons and outposts.  It is from these levies that Gelu shall draw his guerilla force.",
+    "ua": "Напівельф Ґело, ватажок Ерафійскої елітної частини, відомої як \"Лісова варта\", був покликаний вести таємну війну на кордоні Ав-Лі з Еофолом. У цих краях безліч маленьких поселень. Гело доведеться набирати партизанську армію з їх мешканців."
+  },
+  {
+    "var": "AB_M3_epilog",
+    "field": "wrapper_epilog",
+    "en": "Messengers inform me Queen Catherine and Roland Ironfist are retreating to the Erathian border.  Avlee has chosen to turn a blind eye toward the war, but have purposely left local heroes to their own will.  Under the Queen's orders we are to wage a 'hit-and-run' war along the Avlee border.  Our only support will be local militia hostile toward the Kreegans.  Should we be captured, Erathia and Avlee will disavow any knowledge of our actions.  Otherwise... this task is no different than before.",
+    "ua": "Посланці приносять звістки про те, що війська королеви Катерини і Роланда відступають назад до кордону. Офіційно Ав-Лі робить вигляд, що ніякої війни немає. Однак нашим полководцям навмисне оголошено, що вони вільні чинити, як їм заманеться. За наказом королеви ми ведемо партизанську війну в прикордонній зоні. Ми можемо розраховувати лише на місцеве населення, що живить до криганців ненависть. Якщо нас захоплять у полон, Ерафія й Ав-Лі відречуться від нас і від наших дій. А в іншому - ця війна нічим не відрізняється від тих, до яких ми звикли."
+  },
+  {
+    "var": "AB_M3_map_name",
+    "field": "map_map_name",
+    "en": "Shadows of the Forest",
+    "ua": "Тіні лісу"
+  },
+  {
+    "var": "AB_M3_map_desc",
+    "field": "map_map_desc",
+    "en": "Gelu must defeat all enemies in this area using guerilla tactics.  He is the only one with the skills to lead this raid, for without him all is lost.  Gelu will be allowed to advance to 12th Level and carry over his skills, experience, and spells to the next scenario.",
+    "ua": "Ґело повинен перемогти всіх ворогів в партизанській війні. Якщо він загине, все пропало: партизанський рух буде обезголовлено. Ґело обмежений 12 рівнем. Якщо він переможе, його досвід, первинні та вторинні навички, а також Чарівна книга перейдуть у наступний сценарій разом з ним."
+  },
+  {
+    "var": "AB_M3_rumor0_name",
+    "field": "map_rumor0_name",
+    "en": "Birth",
+    "ua": "Birth"
+  },
+  {
+    "var": "AB_M3_rumor0_desc",
+    "field": "map_rumor0_desc",
+    "en": "Gelu was a foundling child discovered by a member of the Talon Brigade under Captain Catherine Gryphonheart.  That member is now a General in Erathia's army.",
+    "ua": "Колись маленького знайду виявив у лісі воїн загону кігтя під командуванням Катерини Грифонхарт. За ці роки воїн піднісся до звання генерала ерафійської армії."
+  },
+  {
+    "var": "AB_M3_rumor1_name",
+    "field": "map_rumor1_name",
+    "en": "Homeland",
+    "ua": "Homeland"
+  },
+  {
+    "var": "AB_M3_rumor1_desc",
+    "field": "map_rumor1_desc",
+    "en": "The leader of the Forest Guard is said to be a half-breed child of Human and Vori Elf descent.",
+    "ua": "Кажуть, батьками Ґело були людина й ельф народності Ворі."
+  },
+  {
+    "var": "AB_M3_rumor2_name",
+    "field": "map_rumor2_name",
+    "en": "Hair",
+    "ua": "Hair"
+  },
+  {
+    "var": "AB_M3_rumor2_desc",
+    "field": "map_rumor2_desc",
+    "en": "Gelu's flame-red hair is not a color found in Vori Elves normally.",
+    "ua": "Вогненно-руде волосся ватажка Лісової варти відрізняють його від інших ельфів Ворі."
+  },
+  {
+    "var": "AB_M3_rumor3_name",
+    "field": "map_rumor3_name",
+    "en": "Kendal",
+    "ua": "Kendal"
+  },
+  {
+    "var": "AB_M3_rumor3_desc",
+    "field": "map_rumor3_desc",
+    "en": "General Morgan Kendal once served in the Talon Brigade.",
+    "ua": "Сам генерал Морган Кендал колись бився в загоні Кігтя."
+  },
+  {
+    "var": "AB_M3_rumor4_name",
+    "field": "map_rumor4_name",
+    "en": "Catherine",
+    "ua": "Catherine"
+  },
+  {
+    "var": "AB_M3_rumor4_desc",
+    "field": "map_rumor4_desc",
+    "en": "Queen Catherine was once a Captain in the Talon Brigade.",
+    "ua": "Сама королева Катерина колись була капітаном загону Кігтя."
+  },
+  {
+    "var": "AB_M3_rumor5_name",
+    "field": "map_rumor5_name",
+    "en": "Talon Brigade",
+    "ua": "Talon Brigade"
+  },
+  {
+    "var": "AB_M3_rumor5_desc",
+    "field": "map_rumor5_desc",
+    "en": "The Talon Brigade is an elite unit in the Erathian Army.",
+    "ua": "Загін Кігтя - елітний підрозділ ерафійської армії."
+  },
+  {
+    "var": "AB_M3_rumor6_name",
+    "field": "map_rumor6_name",
+    "en": "Gelu's Skill",
+    "ua": "Gelu's Skill"
+  },
+  {
+    "var": "AB_M3_rumor6_desc",
+    "field": "map_rumor6_desc",
+    "en": "Gelu was born with a knack for the bow.  He is an expert shot.",
+    "ua": "Чудовий стрілець, Ґело ніби народився з луком в руках."
+  },
+  {
+    "var": "AB_M3_rumor7_name",
+    "field": "map_rumor7_name",
+    "en": "Forest Guard",
+    "ua": "Forest Guard"
+  },
+  {
+    "var": "AB_M3_rumor7_desc",
+    "field": "map_rumor7_desc",
+    "en": "The Forest Guard are Erathia's eyes and ears before a battle.  Stealth is their greatest weapon.",
+    "ua": "Лісова варта - очі й вуха Ерафії. Скритність - їх головна зброя."
+  },
+  {
+    "var": "AB_M3_rumor8_name",
+    "field": "map_rumor8_name",
+    "en": "Diasamere",
+    "ua": "Diasamere"
+  },
+  {
+    "var": "AB_M3_rumor8_desc",
+    "field": "map_rumor8_desc",
+    "en": "The town of Diasamere is a great place to work and live.",
+    "ua": "У місті Діасамир кожен знайде притулок і роботу до душі."
+  },
+  {
+    "var": "AB_M3_rumor9_name",
+    "field": "map_rumor9_name",
+    "en": "Diasamere 2",
+    "ua": "Diasamere 2"
+  },
+  {
+    "var": "AB_M3_rumor9_desc",
+    "field": "map_rumor9_desc",
+    "en": "In Diasamere, there is a wealth of information on things like the Kreegan demons.",
+    "ua": "У Діасамирі кожен чув про криганських демонів."
+  },
+  {
+    "var": "AB_M3_rumor10_name",
+    "field": "map_rumor10_name",
+    "en": "Kreegans",
+    "ua": "Kreegans"
+  },
+  {
+    "var": "AB_M3_rumor10_desc",
+    "field": "map_rumor10_desc",
+    "en": "The Kreegan demons first appeared during the Night of Shooting Stars.",
+    "ua": "Криганські демони з'явились у Ніч Падучих Зірок."
+  },
+  {
+    "var": "AB_M3_rumor11_name",
+    "field": "map_rumor11_name",
+    "en": "Childhood",
+    "ua": "Childhood"
+  },
+  {
+    "var": "AB_M3_rumor11_desc",
+    "field": "map_rumor11_desc",
+    "en": "Gelu was raised by a noted Erathian General.",
+    "ua": "Вітчимом і наставником Ґело був прославлений ерафійський генерал."
+  },
+  {
+    "var": "AB_M3_obj58_town_name",
+    "field": "map_obj58_town_name",
+    "en": "Dova Saera",
+    "ua": "Дова Сера"
+  },
+  {
+    "var": "AB_M3_obj107_town_name",
+    "field": "map_obj107_town_name",
+    "en": "Diasamere",
+    "ua": "Діасамир"
+  },
+  {
+    "var": "AB_M3_obj107_event_name",
+    "field": "map_obj107_event_name",
+    "en": "Join ups",
+    "ua": "Join ups"
+  },
+  {
+    "var": "AB_M3_obj107_event_mesg",
+    "field": "map_obj107_event_mesg",
+    "en": "Several new recruits have arrived.",
+    "ua": "Надійшли нові війська."
+  },
+  {
+    "var": "AB_M3_obj381_town_name",
+    "field": "map_obj381_town_name",
+    "en": "Jakta",
+    "ua": "Якта"
+  },
+  {
+    "var": "AB_M3_obj382_town_name",
+    "field": "map_obj382_town_name",
+    "en": "Moribund",
+    "ua": "Морибунд"
+  },
+  {
+    "var": "AB_M3_obj383_town_name",
+    "field": "map_obj383_town_name",
+    "en": "Reavers Gate",
+    "ua": "Ріверс-Ґейт"
+  },
+  {
+    "var": "AB_M3_obj386_town_name",
+    "field": "map_obj386_town_name",
+    "en": "Dragonbane",
+    "ua": "Драконбейн"
+  },
+  {
+    "var": "AB_M3_obj823_guardian_mesg",
+    "field": "map_obj823_guardian_mesg",
+    "en": "Half buried in the ground near the edge of the ore pit, there appears to be a small tube.  Uncovering it, you see the magical writing swimming before your eyes.  A sage rushes over to tell you what spell it is.",
+    "ua": "У відвалі рудника блищить невелика трубка. Ви піднімаєте її. Перед очима проносяться чарівні руни. Підоспілий мудрець допомагає вам зрозуміти нове заклинання."
+  },
+  {
+    "var": "AB_M3_obj885_town_name",
+    "field": "map_obj885_town_name",
+    "en": "Whitespire",
+    "ua": "Уайт-Спайр"
+  },
+  {
+    "var": "AB_M3_obj908_monster_mesg",
+    "field": "map_obj908_monster_mesg",
+    "en": "A smiling band of little fairies stand milling about looking for something to do.  As you approach, they beam and flock to your side.  It seems these are pixies and they are eager to fight against the evil beings that have come.",
+    "ua": "Маленькі феї вертять головками й посміхаються. Схоже, їм не сидиться на місці. Ура, на горизонті з'явився хоробрий воїн! Вони без слів приєднуються до вашої армії. Схоже, крихітки піксі готові битися зі злом."
+  },
+  {
+    "var": "AB_M3_obj1409_guardian_mesg",
+    "field": "map_obj1409_guardian_mesg",
+    "en": "What manner of oddity is this?  The architecture matches nothing seen in Erathia, Avlee or any other place, save maybe Bracada.  But what would a Bracadan city be doing so far from its homeland?  Worse still, how did it get here when it was not here a few months ago?  All good questions, perhaps going inside will net some answers.",
+    "ua": "Що за дивне місто? Примхлива архітектура невідома ні Ерафії, ні Ав-Лі - хіба що Бракаді. Але звідки взятися місту Бракади далеко від улюблених пустель? Гірше того, як встиг він виникнути тут за лічені місяці? Хороші запитання. Можливо, відповіді чекають всередині."
+  },
+  {
+    "var": "AB_M3_obj1426_monster_mesg",
+    "field": "map_obj1426_monster_mesg",
+    "en": "\"We found these gauntlets.  We thought you might like to have them.\"",
+    "ua": "\"Мілорд, ми знайшли незвичайні рукавички. Ми подумали, вони вам можуть стати в нагоді\"."
+  },
+  {
+    "var": "AB_M3_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Opening",
+    "ua": "Opening"
+  },
+  {
+    "var": "AB_M3_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "Gelu, early this morning you received word your special skills are needed for a daring plan.  While Catherine and the Erathian forces keep the Eeofol army locked in conflict on the western border, you have been ordered to slip in through Avlee with a small guerilla force to harry the enemy there.\n\nYou have also been instructed to recruit allies from the local populace.  To that end, you have set up your base camp in the city of Diasamere along the Avlee-Eeofol border.  The elves there have offered shelter and aid in the coming fight.  The region is dotted with small garrisons and outposts.  A large number of mercenaries, some of whom fought in the recent wars, call this area home.  Many are loyal to Avlee, but there are those who prefer to remain neutral and will fight for that choice.\n\nMovement, stealth, and cunning tactics will win this Shadow War, not brute force, for the enemy is indeed powerful.  Good luck!",
+    "ua": "Цим ранком прибуло послання від Катерини. Знову Ерафія потребує вашої спритності і зухвалості. Поки Катерина зі своїми військами стримує натиск Еофола біля західного кордону, вам належить перетнути Ав-Лі, вийти демонам в тил і вимотати противника партизанськими набігами.\n\nВам доведеться шукати союзників серед місцевих жителів. Ви влаштували базу в місті Діасамир на кордоні Еофола й Ав-Лі. Місцеві ельфи пообіцяли вам притулок і допомогу в битві. У навколишніх землях зосереджено чимало сторожових веж і аванпостів. Тут знайшли дім численні найманці, загартовані в недавніх боях. Багато з них зберігають вірність Ав-Лі; інші вірні лише собі та готові відстоювати свою свободу з мечем у руках.\n\nНе силою, але хитрістю, спритністю, стрімким натиском ми здолаємо грізного ворога у Війні Тіней. Успіху!"
+  },
+  {
+    "var": "AB_M3_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Guerilla Raids",
+    "ua": "Guerilla Raids"
+  },
+  {
+    "var": "AB_M3_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "The men you sent in to raid the enemy supply lines have returned with a healthy take.",
+    "ua": "Загін, посланий грабувати ворожі обози, повернувся зі здобиччю."
+  },
+  {
+    "var": "AB_M3_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "A Message From Ciele",
+    "ua": "A Message From Ciele"
+  },
+  {
+    "var": "AB_M3_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "As you pass a small puddle, you hear a voice call out to you, gentle and soft.  The voice is that of a woman, or so it sounds.  You kneel down beside the tiny pool and peer into its stillness.  To your surprise there is a face of a beauteous woman.  She is beckoning you to her, whispering your name on warm winds blowing across the puddle causing slight ripples on it's surface.\n\n\"I am Ciele the Waverider.  I represent the Elemental Plane of Water and am one of many called here to protect this world from those who would see it harmed.  I am sending this message to you, Gelu, because your destiny lies along a similar path to ours.  Beware the Dark Lord, for he is assembling a weapon of near immeasurable power.\"\n\nAt that point a stiff wind comes up and scatters the water about, sending the image of Ciele away.  Confused at this warning, yet drawn to this woman somehow, you mount your horse and continue on with your mission.  Figuring out the cryptic message will have to wait, time is of the essence.",
+    "ua": "Проходячи повз калюжі, ви чуєте ніжний, тихий жіночий поклик. Ви нахиляєтеся нижче. З калюжки дивиться... особа чарівної незнайомки. Вона кличе вас нахилитися ще ближче і тихо шепоче ваше ім'я. Легкий вітерець колише водну гладь.\n\n\"Я Сійла, що-біжить-по-хвилях, я посол Виміру Води і покликана захищати ваш світ від зла. Ґело, шлях твій схожий з нашим, тому я й кличу тебе Остерігатися Темного Володаря. Він кує зброю неймовірної сили\".\n\nРаптовий порив вітру розпліскує калюжку - і лик прекрасної діви зникає. Дивне попередження - і все ж у словах Сійли правда вам чується. Ви скачете далі. Таємничі послання можуть почекати, але час - час не чекає."
+  },
+  {
+    "var": "AB_M3_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "Gypsy Fortuneteller",
+    "ua": "Gypsy Fortuneteller"
+  },
+  {
+    "var": "AB_M3_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "A travelling caravan of gypsies passes near your encampment and several of the men decide to have their fortunes told.  As this is a time of great strife and with the possibility of death being quite high, you agree to let your men partake of this little distraction.  You even decide to join them.  \n\nThe gypsy, a woman calling herself Nayestra the Oracle, reads their futures, one by one, some good, some not so good.  Eventually she reaches you.  Upon seeing your pale complexion, solid jet black eyes, and flame-red hair, she backs away, startled.  Your odd appearance and striking presence both intrigue and frighten her, but she is a professional.   She takes your hand, sits you down at her table and begins to read your palm.  What she sees is very strange.  Your lifeline is uncertain and yet your destiny is clear.  Your are to be a widely known figure, one of great import, yet there is a dark road as well.  Something in your future gives her pause.  She sees great evil in your future, yet cannot be sure if it is an outside force influencing your destiny or something from within.  A strange dichotomy to be sure, this Gelu is.  Both where you came from and where you were going are blurred, something Nayestra has never seen before.  Each one of these things is told to you in turn and you listen in rapt attention, hanging on her every word.\n\nAs you get up to exit her tent, you press a gem and several gold coins into her palm and leave, bowing deeply as if she were royalty.  She glows at the overpayment, for normally all she asks is a few silver coins and a promise to live up to one's potential.  You are indeed a hero, at least to her.",
+    "ua": "Повз табір тягнуться вози бродячих циган. Солдати просять поворожити їм на руці. Настав час великої біди, багатьох чекає смерть. Чому б не дозволити людям трохи відпочити душею? Може, і самому сходити до циганки.\n\nЦиганка, яка назвала себе віщункою Наїстрою, читає долоню за долонею, пророкує радості й прикрості. Приходить ваша черга. Циганка в страху відсахується. Бліда шкіра, вугільно-чорні провали очей і вогненно-руде волосся ватажка лякають. Їй і цікаво, і боязко, але таке вже її ремесло. Вона саджає вас за стіл, бере простягнуту долоню і починає говорити. Вона бачить двоїсту долю. Ваше призначення вже відоме, але лінія життя смутна. Вам належить стати живою легендою - але чи світла, чи темряви? Щось у вашій долі змушує її замовкнути. Вона бачить, як навколо згущується страшне зло, але не може зрозуміти, звідки воно виходить - ззовні чи зсередини вас. Куди не глянеш - скрізь два шляхи. Ваше минуле і майбутнє губляться в тумані, ні, з таким вона безумовно не стикалася. Ви ловите кожне слово з найбільшою увагою.\n\nВорожіння закінчено. Ви даєте циганці самоцвіт і жменю золотих, потім відважуєте низький уклін. Циганка не вірить своїм очам: зазвичай вона бере за труди пару мідяків і обіцянка жити на повну силу. Ось ви і герой - принаймні для однієї циганки."
+  },
+  {
+    "var": "AB_M3_mapevent4_name",
+    "field": "map_mapevent4_name",
+    "en": "Talon Brigade Member Found",
+    "ua": "Talon Brigade Member Found"
+  },
+  {
+    "var": "AB_M3_mapevent4_mesg",
+    "field": "map_mapevent4_mesg",
+    "en": "A pair of warriors dragging a third enters the encampment early in the morning.  The dragged man is gravely wounded and appears near death.  Healers rush for the man and begin their work as you approach.\n\nAs he gets closer, you can see that this man is a member of the Talon Brigade.  How he has gotten this far north, you cannot understand, but the fact remains he is here.  As you kneel beside him, the swordsman grasps you by the edges of your cloak and in a raspy voice speaks his warning.\n\n\"There is one out there milord, a devil named Xeron ..cough.. who is the one seeking Armageddon's Blade.  ..cough..  My unit was sent here by  ..cough.. General Kendal to aid you.  ..choke.. I am all that is left of us.  Xeron is close to ..choke.. completing the Blade.  He is going to use ..choke.. it to destroy ..cough.. us aaalllll.\"  \n\nHis words trail off into silence as he collapses into death.  His body limp and lifeless, the man's last words hang in your mind.  What is this Armageddon's Blade and who is this Xeron you keep hearing about?  Answers are needed and needed quickly, for Erathia is running out of time.",
+    "ua": "Вранці двоє воїнів вносять на плечах пораненого. Він ледве дихає. Цілителі безуспішно чаклують над ним.\n\nВи одразу впізнаєте нашивки загону кігтя. Але як відважному воїнові вдалося проникнути так далеко на північ? Ви опускаєтеся на коліна. Поранений мечник хапає вас за полу плаща і хрипить:\n\n\"Мілорд, я бачив своїми очима... диявол на ім'я Зерон... кх... він шукає Клинок Армагеддону... кхх... нас надіслав на допомогу... генерал Кендал. Ох... я один вижив. Зерон майже... зібрав Клинок... Він знищить... нас... всі-і-іхх... \"\n\nЕхо його голосу затихає, настає тиша. Воїн мертвий. Його слова не виходять у вас з голови. Що за Клинок Армагеддону? Що за Зерон? Схоже, весь світ збожеволів на них. Потрібні відповіді - і як можна швидше. Ерафія не може чекати."
+  },
+  {
+    "var": "AB_M3_mapevent5_name",
+    "field": "map_mapevent5_name",
+    "en": "A Message From Erdamon",
+    "ua": "A Message From Erdamon"
+  },
+  {
+    "var": "AB_M3_mapevent5_mesg",
+    "field": "map_mapevent5_mesg",
+    "en": "You are awoken to an odd feeling in the back of your neck, a tingling sensation warning of danger.  You spin; blade in hand faster than the eye can catch, and are faced with a small figure grown from the earth itself.  This figure is vaguely humanoid and stands approximately two feet tall.  \n\nThe figure bows deeply, introduces itself as a minion of Erdamon, and claims he bears a message for the ears of Gelu alone.  Confused, you agree, albeit warily.\n\n\"You are the one known as Gelu, are you not?  Very well, I am Erdamon the Earthshaper.  I have come from the Elemental Plane of Earth and have been sent to protect this world from those who would see it harm.  Ciele told me you have spoken to her.  I trust you have already met the minions of the Dark Lord?  Excellent.\n\nThe Dark Lord has many names and many minions, the worst of which is Xeron, he who was born of man and demon.  Be wary of this one, for he is most skilled in the dark arts as well as having an affinity for devilkin.\"  Then the small figure melded back into the ground as if it never had been.  Thinking you were merely dreaming, you lay back down and contemplate what this Erdamon has told you.",
+    "ua": "Ви прокинулися від того, що волоски на шиї стали дибки. Поруч бродить небезпека. Ви схоплюєтеся на ноги, в одну мить вихоплюєте меч, і бачите перед собою півметрова істота, що зростає прямо із землі, людини - не людини, не розбереш.\n\nГість низько кланяється: він вірний вартовий Ердамона і готовий передати послання тільки Ґело наодинці. Ви здивовано киваєте у відповідь.\n\n\"Ах, отже ви і є Ґело? Моє ім'я Ердамон, Провідник Землі. Я прибув з іншого виміру, щоб захистити ваш світ від зла. Сійла сказала, що вже говорила з вами, чи не так? А з воїнами Темного Володаря ви вже зіткнулися? Так-так.\n\nУ Темного Лорда безліч імен і безліч поплічників, і найгірший з них - Зерон, породження людини і демона. Бійтеся його: він краще інших володіє чорною магією і наділений мистецтвом веліти диявольським поріддям\"- Чоловічок зникає - як крізь землю провалюється. Може, вам все це здалося? Може, це був сон? Напевно. Ви лежите в темряві, розмірковуючи над словами Ердамона."
+  },
+  {
+    "var": "AB_M3_mapevent6_name",
+    "field": "map_mapevent6_name",
+    "en": "A Message From Fiur",
+    "ua": "A Message From Fiur"
+  },
+  {
+    "var": "AB_M3_mapevent6_mesg",
+    "field": "map_mapevent6_mesg",
+    "en": "Sitting around the campfire last night, you and several of your most trusted advisors were knocked off your feet when the flames suddenly exploded outward.  The flames licked skyward and coalesced into a humanoid shape, it's eyes glowing a brilliant green.\n\n\"I come to speak to the half-human warrior known as Gelu, he with eyes of obsidian darkness, skin of alabaster white, and hair the color of flame.  I am called Fiur the Flamewalker.  I am he, born of fire, come here to protect this world from those who would harm it.  A tide of growing darkness is flowing across this world, gaining momentum with every day.  The one known as Xeron is a servant to the Dark Lord and is even now seeking the tools needed to build a weapon of terrible destructive power, Armageddon's Blade.   My fellow Conflux heroes, Ciele and Erdamon, have secreted these tools away in a far off land.  Yet this Xeron has located us anyway.  He is powerful and we shall attempt to stop him, but we now fear that we cannot stop the weapon's creation.  We can, however, let you know the wielder of the Blade is not invincible.\"\n\nThat said, the flames form into a great fiery phoenix which gouts its breath into the sky, shoving aside the darkness of night for the merest of moments.  It then poured back down into the firepit and returned to being a simple campfire, as if nothing had happened.",
+    "ua": "Минулої ночі багаття спалахнуло так, що кількох радників збило з ніг. Полум'я злетіло до небес і обернулося подобою людини. Засяяли смарагдові очі.\n\n\"Я прийшов говорити з напівлюдиною Ґело, чиї очі чорні, як обсидіан, шкіра біла, як алебастр, а волосся палає як полум'я. Мене звуть Фіур, Вогненний Мандрівник. Я народжений полум'ям і покликаний у ваш світ, щоб захистити його від зла. Хвиля пітьми з кожним днем набирає силу і готується захлеснути світ. Зерон, слуга Темного Володаря, шукає артефакти, щоб викувати зброю величезної сили, відому як Клинок Армагеддону. Мої добрі соратники, Сійла й Ердамон, зберігають свої частини Клинка в далеких краях. Але Зерону вдалося нас відшукати. Він могутній, ми будемо намагатися зупинити його, але, боюся, Клинок Армагеддону приречений вирватися на свободу. Відкрию тобі секрет: носій Клинка вразливий, як будь-хто інший.\"\n\nЗ цими словами полум'я звертається до величного фенікса. Птах злітає в небо - і пітьма на мить відступає. Мирно світить багаття. Ніби нічого й не сталося."
+  }
+]

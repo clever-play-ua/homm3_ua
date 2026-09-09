@@ -1,0 +1,74 @@
+[
+  {
+    "var": "SANDRO_M4_prolog",
+    "field": "wrapper_prolog",
+    "en": "All Finneas or Sandro must do is remove the Duke of this area.  Once he is gone, they will be literally a step away from the throne.  The new king is still not settled into his throne and will be easily replaced.  With any luck, he will suffer an accident in the future.",
+    "ua": "Фінеас і Сандро повинні повалити місцевого герцога. Це буде їх останнім кроком до трону. Новий король ще не зайняв свого місця на троні і буде легко усунутий в разі потреби."
+  },
+  {
+    "var": "SANDRO_M4_epilog",
+    "field": "wrapper_epilog",
+    "en": "Soon Duke Alarice will find himself permanently among the dead.  Right now our plans go well as we prepare to launch an assault.  Finneas does not agree with my tactics, but I know that his tactics are certain death.  It is only a matter of time before he realizes his error and follows my direction.  Soon he will come to see that he cannot survive without my guidance.",
+    "ua": "Скоро герцог Аларіс назавжди піде в царство мертвих. У нас все йде за планом, і ми готуємося перейти в наступ. Фінеас не згоден з моєю тактикою, але те, що пропонує він, прирече нас на вірну погибель. Рано чи пізно він усвідомить свої помилки, і буде слідувати моїм наказам. Скоро він зрозуміє, що без мого керівництва йому просто не вижити."
+  },
+  {
+    "var": "SANDRO_M4_map_name",
+    "field": "map_map_name",
+    "en": "Duke Alarice",
+    "ua": "Герцог Аларіс"
+  },
+  {
+    "var": "SANDRO_M4_map_desc",
+    "field": "map_map_desc",
+    "en": "Defeat Duke Alarice and all his allies to win the campaign.  However, if Sandro or Finneas are defeated in combat, the scenario is lost.  Sandro and Finneas are limited to level 25 but will carry their experience, skills and spells on to their next campaign.",
+    "ua": "Щоб виграти, необхідно перемогти герцога Аларіса і всі його армії. Якщо Сандро або Фінеас будуть переможені в битві, ви програєте. Герої обмежені 25 рівнем. Якщо вони переможуть, їх досвід, первинні та вторинні навички, а також Чарівна книга перейдуть у наступний сценарій разом з ними."
+  },
+  {
+    "var": "SANDRO_M4_p1_owned_hero_name",
+    "field": "map_p1_owned_hero_name",
+    "en": "Duke Alarice",
+    "ua": "Герцог Аларіс"
+  },
+  {
+    "var": "SANDRO_M4_obj1885_monster_mesg",
+    "field": "map_obj1885_monster_mesg",
+    "en": "You are forbidden to pass here.",
+    "ua": "Ви тут не пройдете."
+  },
+  {
+    "var": "SANDRO_M4_obj1955_quest_proposal",
+    "field": "map_obj1955_quest_proposal",
+    "en": "This town is very dangerous.  The guards eye you dubiously but agree to let you by when you have achieved the experience level 25.",
+    "ua": "Це місто дуже небезпечне. Вартові з сумнівом оглядають вас, але погоджуються впустити вас, коли ви досягнете 25 рівня."
+  },
+  {
+    "var": "SANDRO_M4_obj1955_quest_completion",
+    "field": "map_obj1955_quest_completion",
+    "en": "The guards acknowledge that you have indeed reached level 25.  Do you wish to enter the town at this time?",
+    "ua": "Вартові визнають, що ви досягли 25 рівня. Ви хочете увійти в місто?"
+  },
+  {
+    "var": "SANDRO_M4_obj2058_hero_name",
+    "field": "map_obj2058_hero_name",
+    "en": "Duke Alarice",
+    "ua": "Аларіс"
+  },
+  {
+    "var": "SANDRO_M4_obj2074_monster_mesg",
+    "field": "map_obj2074_monster_mesg",
+    "en": "Our knowledge has been stored here, and we will not share it with anyone!",
+    "ua": "Тут зберігаються наші знання, і ми не збираємось ділитись ними аби з ким!"
+  },
+  {
+    "var": "SANDRO_M4_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Day 1",
+    "ua": "Day 1"
+  },
+  {
+    "var": "SANDRO_M4_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "Soon the Duke Alarice will find himself among the dead.  Your plans are going well as you prepare to launch an assault.  Finneas does not agree with your tactics, but you know his are certain death.  He suffers from the delusion that he is a tactical genius.  Soon he will come to see that he cannot survive without your guidance.",
+    "ua": "Скоро герцог Аларіс буде мертвий. Ваші справи просуваються непогано, і ви плануєте напад. Фінеас не згоден з вашою стратегією, але ви знаєте, що його пропозиція буде ще гіршою, хоч він і вважає себе генієм тактики. Незабаром він дізнається, що без вашого керівництва він не зможе вижити."
+  }
+]

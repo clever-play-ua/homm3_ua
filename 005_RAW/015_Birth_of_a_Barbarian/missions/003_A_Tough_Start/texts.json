@@ -1,0 +1,260 @@
+[
+  {
+    "var": "YOG_M3_prolog",
+    "field": "wrapper_prolog",
+    "en": "You left the meeting with Boragus in a very happy mood.  Wanting to prove yourself, you hurry off to Tatalia to deliver the first two pieces of the Armor of the Angelic.  At first you thought this would be an easy task: you would walk into town and give the first two pieces of the Angelic Alliance to Alendora.  After a few days ride from the border, you discover that Tatalians aren't going to make it that easy for you.",
+    "ua": "Ви залишилися дуже задоволені зустріччю з Вінстоном Борагусом. Бажаючи виправдати довіру, ви поспішаєте в Таталію, щоб доставити перші дві частини Ангельського союзу. Спочатку це здалося вам простим завданням: вам треба було прийти в місто і віддати артефакти Алендорі. Через кілька днів після перетину кордону ви виявили, що таталійці не дуже вітають вашу присутність тут."
+  },
+  {
+    "var": "YOG_M3_epilog",
+    "field": "wrapper_epilog",
+    "en": "When I confronted Winston Boragus, he admitted to setting Krewlod's armies against me to test my worthiness to join them.  At first I was angry at this deception until the Duke pointed out that it was I who wanted to be a fighter.  The Barbarian within me saw his point.  But Boragus has a test designed to see whether I am truly ready to part with the Wizards of Bracada.  I must take the magical Angelic Alliance sword, break it apart and distribute the pieces throughout Tatalia, Erathia and Bracada.",
+    "ua": "Коли я дістався до Вїнстона Борагуса, він зізнався, що кинув проти мене свої війська, щоб перевірити, чи гідний я служити в армії Крюлода. Спочатку я вважав це зрадою і розлютився, але герцог справедливо зауважив, що я сам хотів стати воїном! Варвар у мені визнав його правоту. Але Борагусу цього мало, він придумав випробування, яке покаже, чи готовий я назавжди порвати з чарівниками Бракади. Я повинен взяти меч Ангельський Союз, розділити його на кілька частин і доставити їх в Таталію, Ерафію і Бракаду."
+  },
+  {
+    "var": "YOG_M3_map_name",
+    "field": "map_map_name",
+    "en": "A Tough Start",
+    "ua": "Важкий початок"
+  },
+  {
+    "var": "YOG_M3_map_desc",
+    "field": "map_map_desc",
+    "en": "Take the Sandals of the Saint and the Armor of Wonder to Alendora to win the scenario.  However, if Yog is defeated in combat or you lose either component of the Angelic Alliance, the scenario is lost.  Yog is limited to level 18 but will carry his experience and skills on to the next scenario.",
+    "ua": "Щоб виграти, необхідно доставити Сандалії святого і Дивний обладунок Алендорі. Якщо Йоґ буде переможений у битві або втратить будь-який елемент Ангельського союзу, він програє. Герой обмежений 18 рівнем. Якщо він переможе, його досвід, первинні та вторинні навички перейдуть у наступний сценарій."
+  },
+  {
+    "var": "YOG_M3_obj180_event_name",
+    "field": "map_obj180_event_name",
+    "en": "Give Comp Hydras",
+    "ua": "Give Comp Hydras"
+  },
+  {
+    "var": "YOG_M3_obj180_event_name",
+    "field": "map_obj180_event_name",
+    "en": "Give Comp Upg Hydras",
+    "ua": "Give Comp Hydras"
+  },
+  {
+    "var": "YOG_M3_obj180_event_name",
+    "field": "map_obj180_event_name",
+    "en": "Give Comp Creatures",
+    "ua": "Give Comp Hydras"
+  },
+  {
+    "var": "YOG_M3_obj422_quest_proposal",
+    "field": "map_obj422_quest_proposal",
+    "en": "I seek the Orb of the Firmament, Orb of Silt, Orb of Tempestuous Fire and Orb of Driving Rain.  If you bring those four to me I will give you the Orb of Inhibition.  You will need the Orb of Inhibition in order to get the Sword of Hellfire, and I hear that is what you are looking for to complete a mission.",
+    "ua": "Я шукаю Сферу небесної тверді, Сферу земної тверді, Сферу буйного полум'я і Сферу дощу. Якщо ти принесеш їх всі, я дам тобі Сферу стримування. Вона знадобиться тобі, аби отримати Меч пекельного полум'я, а я чув, що це як раз те, що потрібно тобі для виконання завдання."
+  },
+  {
+    "var": "YOG_M3_obj422_quest_completion",
+    "field": "map_obj422_quest_completion",
+    "en": "Wonderful doing business with you.  Give me the four orbs and I will give you the Orb of Inhibition.  Now don't lose it or you won't be able to get the Sword of Hellfire and complete your mission.",
+    "ua": "З тобою приємно мати справи. Дай мені чотири сфери, і я дам тобі Сферу стримування. Дивись же, не загуби її, інакше без неї не заволодієш Мечем пекельного вогню і виконати завдання."
+  },
+  {
+    "var": "YOG_M3_obj541_quest_proposal",
+    "field": "map_obj541_quest_proposal",
+    "en": "I need the Orb of Inhibition and if you give it to me I will give you the Sword of Hellfire.  I know you will need the sword in order to open the Quest Gate that guards the Subterranean Gate.",
+    "ua": "Мені потрібна Сфера стримування, і якщо ти принесеш її мені, я дам тобі Меч пекельного полум'я. Він знадобиться тобі, щоб відкрити Врата завдання, які перекривають шлях до Підземної брами."
+  },
+  {
+    "var": "YOG_M3_obj541_quest_completion",
+    "field": "map_obj541_quest_completion",
+    "en": "Excellent!  Give me the Orb and I will give you the Sword of Hellfire so you can open the Quest Gate that guards the Subterranean Gate.  Remember, if you lose the Sword of Hellfire you will be unable to go below and finish your mission.",
+    "ua": "Прекрасно! Дай мені сферу, і я дам тобі Меч пекельного полум'я, яким ти відкриєш Ворота завдання, що охороняють Підземну браму. Пам'ятай, якщо ти втратиш Меч пекельного полум'я, ти не зможеш виконати завдання."
+  },
+  {
+    "var": "YOG_M3_obj1245_guardian_mesg",
+    "field": "map_obj1245_guardian_mesg",
+    "en": "You have found the Orb of Tempestuous Fire.  If you lose the orb you will be unable to complete your quest.",
+    "ua": "Ви знайшли Сферу буйного полум'я. Якщо загубите її, ви не зможете виконати завдання."
+  },
+  {
+    "var": "YOG_M3_obj1246_quest_proposal",
+    "field": "map_obj1246_quest_proposal",
+    "en": "The guards here say they have orders to only let Yog pass.",
+    "ua": "Вартові кажуть, що у них є наказ пропустити лише Йоґа."
+  },
+  {
+    "var": "YOG_M3_obj1246_quest_progress",
+    "field": "map_obj1246_quest_progress",
+    "en": "The guards here will only let Yog pass.",
+    "ua": "Вартові пропустять тільки Йоґа."
+  },
+  {
+    "var": "YOG_M3_obj1246_quest_completion",
+    "field": "map_obj1246_quest_completion",
+    "en": "At last, it is Yog.  Do you wish to pass?",
+    "ua": "Нарешті ви прийшли, Йоґ. Ви хочете пройти?"
+  },
+  {
+    "var": "YOG_M3_obj1247_guardian_mesg",
+    "field": "map_obj1247_guardian_mesg",
+    "en": "You have found the Orb of Silt.  If you lose this item you will not be able to complete your quest.  ",
+    "ua": "Ви знайшли Сферу земної тверді. Якщо загубите її, ви не зможете виконати завдання."
+  },
+  {
+    "var": "YOG_M3_obj1250_guardian_mesg",
+    "field": "map_obj1250_guardian_mesg",
+    "en": "You have found the Orb of Driving Rain.  If you lose this item you will not be able to complete your quest.  ",
+    "ua": "Ви знайшли Сферу дощу. Якщо загубите її, ви не зможете виконати завдання."
+  },
+  {
+    "var": "YOG_M3_obj1285_guardian_mesg",
+    "field": "map_obj1285_guardian_mesg",
+    "en": "You have found the Orb of Firmament.  If you lose this item you will not be able to complete your quest.  ",
+    "ua": "Ви знайшли Сферу небесної тверді. Якщо загубите її, ви не зможете виконати завдання."
+  },
+  {
+    "var": "YOG_M3_obj1293_quest_proposal",
+    "field": "map_obj1293_quest_proposal",
+    "en": "The guards here say they have orders to only let Yog pass.",
+    "ua": "Вартові кажуть, що у них є наказ пропустити лише Йоґа."
+  },
+  {
+    "var": "YOG_M3_obj1293_quest_progress",
+    "field": "map_obj1293_quest_progress",
+    "en": "The guards here will only let Yog pass.",
+    "ua": "Вартові пропустять тільки Йоґа."
+  },
+  {
+    "var": "YOG_M3_obj1293_quest_completion",
+    "field": "map_obj1293_quest_completion",
+    "en": "At last, it is Yog.  Do you wish to pass?",
+    "ua": "Нарешті ви прийшли, Йоґ. Ви хочете пройти?"
+  },
+  {
+    "var": "YOG_M3_obj1294_quest_proposal",
+    "field": "map_obj1294_quest_proposal",
+    "en": "The guards here say they have orders to only let Yog pass.",
+    "ua": "Вартові кажуть, що у них є наказ пропустити лише Йоґа."
+  },
+  {
+    "var": "YOG_M3_obj1294_quest_progress",
+    "field": "map_obj1294_quest_progress",
+    "en": "The guards here will only let Yog pass.",
+    "ua": "Вартові пропустять тільки Йоґа."
+  },
+  {
+    "var": "YOG_M3_obj1294_quest_completion",
+    "field": "map_obj1294_quest_completion",
+    "en": "At last, it is Yog.  Do you wish to pass?",
+    "ua": "Нарешті ви прийшли, Йоґ. Ви хочете пройти?"
+  },
+  {
+    "var": "YOG_M3_obj1295_quest_proposal",
+    "field": "map_obj1295_quest_proposal",
+    "en": "The guards here say they have orders to only let Yog pass.",
+    "ua": "Вартові кажуть, що у них є наказ пропустити лише Йоґа."
+  },
+  {
+    "var": "YOG_M3_obj1295_quest_progress",
+    "field": "map_obj1295_quest_progress",
+    "en": "The guards here will only let Yog pass.",
+    "ua": "Вартові пропустять тільки Йоґа."
+  },
+  {
+    "var": "YOG_M3_obj1295_quest_completion",
+    "field": "map_obj1295_quest_completion",
+    "en": "At last, it is Yog.  Do you wish to pass?",
+    "ua": "Нарешті ви прийшли, Йоґ. Ви хочете пройти?"
+  },
+  {
+    "var": "YOG_M3_obj1323_quest_proposal",
+    "field": "map_obj1323_quest_proposal",
+    "en": "Ah, there you are.  I have been waiting for you.  I am Alendora.  Winston Boragus told me of your coming.  I was also told you have the Armor of Wonder and the Sandals of the Saint to give me.",
+    "ua": "А, ось і ти. Я чекав на тебе. Мене звуть Алендора. Вінстон Борагус говорив мені про твій прихід. Він також сказав, що ти передаси мені Дивний обладунок і Сандалії святого."
+  },
+  {
+    "var": "YOG_M3_obj1323_quest_completion",
+    "field": "map_obj1323_quest_completion",
+    "en": "Here is the Pendant of Courage.  Send it to Winston Boragus, and he will know that you have completed the first part of your quest.  ",
+    "ua": "Це Кулон мужності. Передай його Вінстону Борагусу - це знак того, що ти виконав першу частину завдання."
+  },
+  {
+    "var": "YOG_M3_obj1333_quest_proposal",
+    "field": "map_obj1333_quest_proposal",
+    "en": "The guards here say they have orders to only let Yog pass.",
+    "ua": "Вартові кажуть, що у них є наказ пропустити лише Йоґа."
+  },
+  {
+    "var": "YOG_M3_obj1333_quest_progress",
+    "field": "map_obj1333_quest_progress",
+    "en": "The guards here will only let Yog pass.",
+    "ua": "Вартові пропустять тільки Йоґа."
+  },
+  {
+    "var": "YOG_M3_obj1333_quest_completion",
+    "field": "map_obj1333_quest_completion",
+    "en": "At last, it is Yog.  Do you wish to pass?",
+    "ua": "Нарешті ви прийшли, Йоґ. Ви хочете пройти?"
+  },
+  {
+    "var": "YOG_M3_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Intro",
+    "ua": "Intro"
+  },
+  {
+    "var": "YOG_M3_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "After a few days travel into Tatalia, you discovered the Tatalians really don't want you in their territory.  Since it will probably take some time to find Alendora, you are fortifying your army inside a little valley before beginning the search.",
+    "ua": "Через кілька днів подорожі Таталією ви зрозуміли, що її жителі не хочуть бачити вас на своїй території. Оскільки на пошуки Алендори знадобиться якийсь час, ви зміцнюєте свої війська в невеликій долині, перш ніж почати пошуки."
+  },
+  {
+    "var": "YOG_M3_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Journal Entry 12",
+    "ua": "Journal Entry 12"
+  },
+  {
+    "var": "YOG_M3_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "Journal Entry 12:  I sent my scouts out yesterday to search the countryside while I search the town, but we haven't found any sign of Alendora.",
+    "ua": "Запис 12: Вчора я відіслав розвідників, щоб вони обшукали місцевість, а сам в цей час зайнявся пошуками в місті. Однак ми не знайшли жодних слідів Алендори."
+  },
+  {
+    "var": "YOG_M3_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Journal Entry 13",
+    "ua": "Journal Entry 13"
+  },
+  {
+    "var": "YOG_M3_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "Journal Entry 13:  All but one of my scouts have returned to report they have been unable to locate Alendora.  Hopefully the last scout is delayed because he is having better luck.",
+    "ua": "Запис 13: Повернулися майже всі мої розвідники і повідомили, що не знайшли Алендори. Сподіваюся, що останній буде більш вдачливим у пошуках."
+  },
+  {
+    "var": "YOG_M3_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "Journal Entry 14",
+    "ua": "Journal Entry 14"
+  },
+  {
+    "var": "YOG_M3_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "Journal Entry 14:  Just when I was beginning to fear that my last scout had been killed, he returned with the news that he found Alendora.  Unfortunately, the man was so exhausted from his travels he managed only to blurt out something about a cave before collapsing.  I ordered him to get some sleep and report to me first thing in the morning. ",
+    "ua": "Запис 14: Коли я вже став турбуватися про останнього розвідника, він повернувся і повідомив, що знайшов Алендору. На жаль, він настільки виснажений мандрівкою, що встиг сказати тільки щось про печеру, перш ніж знепритомнів. Я наказав подбати про нього і повідомити, коли він буде в нормі."
+  },
+  {
+    "var": "YOG_M3_mapevent4_name",
+    "field": "map_mapevent4_name",
+    "en": "Journal Entry 15",
+    "ua": "Journal Entry 15"
+  },
+  {
+    "var": "YOG_M3_mapevent4_mesg",
+    "field": "map_mapevent4_mesg",
+    "en": "Journal Entry 15:  I had the scout who located Alendora brought before me after he had a proper rest.  His more detailed report gave the exact location of the cave, North off the main road.",
+    "ua": "Запис 15: Відпочивши, розвідник зміг надати більш докладну інформацію про місцезнаходження Алендори. Він сказав, що печера знаходиться на північ від головної дороги."
+  },
+  {
+    "var": "YOG_M3_mapevent5_name",
+    "field": "map_mapevent5_name",
+    "en": "Comp Resources",
+    "ua": "Comp Resources"
+  }
+]

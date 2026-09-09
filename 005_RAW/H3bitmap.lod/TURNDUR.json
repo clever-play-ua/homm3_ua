@@ -1,0 +1,57 @@
+[
+  {
+    "var": "TURNDUR_1",
+    "en": "1 Minute",
+    "ua": "1 хвилина"
+  },
+  {
+    "var": "TURNDUR_2",
+    "en": "2 Minutes",
+    "ua": "2 хвилини"
+  },
+  {
+    "var": "TURNDUR_3",
+    "en": "4 Minutes",
+    "ua": "4 хвилини"
+  },
+  {
+    "var": "TURNDUR_4",
+    "en": "6 Minutes",
+    "ua": "6 хвилин"
+  },
+  {
+    "var": "TURNDUR_5",
+    "en": "8 Minutes",
+    "ua": "8 хвилин"
+  },
+  {
+    "var": "TURNDUR_6",
+    "en": "10 Minutes",
+    "ua": "10 хвилин"
+  },
+  {
+    "var": "TURNDUR_7",
+    "en": "15 Minutes",
+    "ua": "15 хвилин"
+  },
+  {
+    "var": "TURNDUR_8",
+    "en": "20 Minutes",
+    "ua": "20 хвилин"
+  },
+  {
+    "var": "TURNDUR_9",
+    "en": "25 Minutes",
+    "ua": "25 хвилин"
+  },
+  {
+    "var": "TURNDUR_10",
+    "en": "30 Minutes",
+    "ua": "30 хвилин"
+  },
+  {
+    "var": "TURNDUR_11",
+    "en": "Unlimited",
+    "ua": "Без обмежень"
+  }
+]

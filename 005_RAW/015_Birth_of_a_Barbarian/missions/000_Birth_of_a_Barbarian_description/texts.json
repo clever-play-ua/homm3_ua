@@ -1,0 +1,20 @@
+[
+  {
+    "var": "YOG_campaign_name",
+    "field": "wrapper_campaign_name",
+    "en": "Birth of a Barbarian",
+    "ua": "Народження варвара"
+  },
+  {
+    "var": "YOG_campaign_desc",
+    "field": "wrapper_campaign_desc",
+    "en": "Yog has been at the Bracada magic academy learning to be a Wizard, but his Barbarian heritage beckons him to follow the path of a warrior.  Yog accepts Duke Winston Boragus' offer to join him in Krewlod.  Unfortunately, the Wizards of Bracada will use all their powers to prevent him from leaving.",
+    "ua": "Йоґ навчався в академії магів в Бракаді, але спадщина варварів направила його шляхом воїна. Йоґ приймає пропозицію герцога Вінстона Борагуса приєднатися до нього в Крюлоді. На нещастя, маги Бракади використовують всю свою силу, щоб зупинити початківця варвара."
+  },
+  {
+    "var": "YOG_campaign_epilogue",
+    "field": "wrapper_campaign_epilogue",
+    "en": "I have passed all the Duke's tests, proving I have given up magic forever, and he has accepted me into his Barbarian horde!  My mother would no doubt be disappointed in me, but now my new Krewlod family welcomes me with raised tankards and promises of many adventures to come!",
+    "ua": "Я з успіхом пройшов усі випробування, призначені герцогом. Я довів, що назавжди порвав з магією, і він прийняв мене до лав варварів! Звичайно, мати мене засудить, але зате моя нова сім'я витязів Крюлода вітає мене дзвоном кубків, і попереду мене чекає безліч славних пригод!"
+  }
+]

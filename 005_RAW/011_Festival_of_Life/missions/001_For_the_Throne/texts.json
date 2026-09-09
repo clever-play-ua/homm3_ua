@@ -1,0 +1,152 @@
+[
+  {
+    "var": "FESTIVAL_M1_prolog",
+    "field": "wrapper_prolog",
+    "en": "You have risen through the ranks quickly, proving your worth and capabilities as a warrior and leader.  Now you challenge King Boragus for the Throne of Krewlod itself.  If you can defeat the powerful Boragus it will prove your battle skills and determination are unrivaled in all of Krewlod.  This one is to the death.  The winner rules.",
+    "ua": "Ви швидко піднімалися службовими сходах, показуючи свою спроможність як лідера. Тепер настала черга кинути виклик самому королю Бораґусу і поборотися за трон. Якщо ви зможете перемогти самого Бораґуса - ця перемога прославить вас у віках, зробивши правителем всього Крюлода. Живим залишиться тільки один. І він буде правителем!"
+  },
+  {
+    "var": "FESTIVAL_M1_epilog",
+    "field": "wrapper_epilog",
+    "en": "Many respect King Boragus.  Many feel he is one of the greatest rulers Krewlod has ever known.  I do not know this king personally and I find his accomplishments unimpressive.  If he is to earn my respect, he will do so only when he stands over my grave.",
+    "ua": "Люди шанують короля Борагуса. Багато хто вважає його одним з найбільших правителів Крюлода. Сам я з ним не зустрічався, його діяння мене не вражають. Щоб заслужити мою повагу, йому доведеться здолати мене у чесному бою."
+  },
+  {
+    "var": "FESTIVAL_M1_map_name",
+    "field": "map_map_name",
+    "en": "For the Throne",
+    "ua": "Битва за трон"
+  },
+  {
+    "var": "FESTIVAL_M1_map_desc",
+    "field": "map_map_desc",
+    "en": "You have three months to depose the king while keeping Kilgor alive.  This is for the throne of Krewlod so do not fail.",
+    "ua": "У вас є три місяці, щоб скинути короля, не втративши при цьому Кілґора. Це битва за трон Крюлода, то ж не програйте її."
+  },
+  {
+    "var": "FESTIVAL_M1_p1_hero_name",
+    "field": "map_p1_hero_name",
+    "en": "Duke Boragus",
+    "ua": "Бораґус"
+  },
+  {
+    "var": "FESTIVAL_M1_p1_owned_hero_name",
+    "field": "map_p1_owned_hero_name",
+    "en": "Duke Boragus",
+    "ua": "Герцог Бораґус"
+  },
+  {
+    "var": "FESTIVAL_M1_rumor0_name",
+    "field": "map_rumor0_name",
+    "en": "Back way in.",
+    "ua": "Back way in."
+  },
+  {
+    "var": "FESTIVAL_M1_rumor0_desc",
+    "field": "map_rumor0_desc",
+    "en": "There is a back way in to the king's castle, but its heavily guarded.",
+    "ua": "У замок короля веде чорний хід, але його добре охороняють."
+  },
+  {
+    "var": "FESTIVAL_M1_obj16_hero_name",
+    "field": "map_obj16_hero_name",
+    "en": "Duke Boragus",
+    "ua": "Бораґус"
+  },
+  {
+    "var": "FESTIVAL_M1_obj16_hero_bio",
+    "field": "map_obj16_hero_bio",
+    "en": "Duke Winston Boragus grew to fame after single handedly slaying the Chieftain (and the Chieftains guards) of his village.  He quickly united other tribes under his through brutality and a quick wit. Shortly after his rise to power he easily won the Festival of Life thirty years ago.  Duke Boragus has an affinity for controlling ogres in battle so gets a bonus with them. ",
+    "ua": "Герцог Уінстон Бораґус прославився після того, як він один вбив старосту свого селища разом з охороною. Хитрощами і жорстокістю він об'єднав навколишні племена. Більш ніж тридцять років назад він отримав владу і переміг на Фестивалі Життя. Герцог Бораґус дивну владу над ограми, і тому під його керівництвом вони стають сильнішими і краще б'ються."
+  },
+  {
+    "var": "FESTIVAL_M1_obj72_quest_proposal",
+    "field": "map_obj72_quest_proposal",
+    "en": "The guard at the post states that his favorite fishing hole has been invaded by a group of water elementals.  He will let the first person to clear out these elementals to pass through the gate.",
+    "ua": "Вартовий каже, що його улюблене місце риболовлі захоплено водними елементалями. Він пропустить будь-кого, хто вирішить цю проблему."
+  },
+  {
+    "var": "FESTIVAL_M1_obj1595_monster_mesg",
+    "field": "map_obj1595_monster_mesg",
+    "en": "You laugh and point at the peasant horde guarding their measly earnings.",
+    "ua": "Ви смієтесь, вказуючи на толпу селян, які охороняють свої жалкі володіння."
+  },
+  {
+    "var": "FESTIVAL_M1_obj1608_guardian_mesg",
+    "field": "map_obj1608_guardian_mesg",
+    "en": "This is a special bonus for the King of Krewlod.",
+    "ua": "Це особлива нагорода для короля Крюлода."
+  },
+  {
+    "var": "FESTIVAL_M1_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Day 1 event.",
+    "ua": "Day 1 event."
+  },
+  {
+    "var": "FESTIVAL_M1_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "All your opponents except Duke Boragus lie at your feet.  The final test in the Festival of Life begins for the throne of Krewlod.  This is it, the defeat of Duke Boragus will signal the rise of Kilgor the Mighty, King by his own sword.  Failure is not an option.",
+    "ua": "Всі ваші супротивники, крім герцога Бораґуса, розтрощені. Останнє випробування Фестивалю Життя починається з битви за трон Крюлода. Розгром герцога Бораґуса буде означати, що Кілґор Могутній проклав собі мечем дорогу до влади і став королем. У вас немає права на поразку."
+  },
+  {
+    "var": "FESTIVAL_M1_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Day 1 cont",
+    "ua": "Day 1 cont"
+  },
+  {
+    "var": "FESTIVAL_M1_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "You only have 3 months to defeat the Duke or he wins by default (He is the leader of Krewlod you know).  Hurry, for time is also the enemy!",
+    "ua": "У вас є тільки три місяці, щоб розгромити герцога Бораґуса, повелителя Крюлода. Поспішайте, час працює проти вас!"
+  },
+  {
+    "var": "FESTIVAL_M1_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Duke sends a message.",
+    "ua": "Duke sends a message."
+  },
+  {
+    "var": "FESTIVAL_M1_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "Duke Boragus sends a message \"May the mightier warrior win, young one.  I will try not to humble you overmuch, if my three comrades don't do it first\"",
+    "ua": "Послання герцога Бораґуса говорить: \"Нехай переможе найсильніший воїн. Можливо, я і не буду вбивати тебе, а от за те, що цього не зробить хто-небудь з моїх трьох товаришів, я не ручаюся.\""
+  },
+  {
+    "var": "FESTIVAL_M1_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "Second message.",
+    "ua": "Second message."
+  },
+  {
+    "var": "FESTIVAL_M1_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "Duke Boragus sends another message \"Cowardice is not so bad in one such as you, suicide is always an option\"",
+    "ua": "Герцог Бораґус шле другу депешу: \"Якщо ти так вже боїшся мене, можеш покінчити з собою, щоб не мучитися.\""
+  },
+  {
+    "var": "FESTIVAL_M1_mapevent4_name",
+    "field": "map_mapevent4_name",
+    "en": "Rebuttal.",
+    "ua": "Rebuttal."
+  },
+  {
+    "var": "FESTIVAL_M1_mapevent4_mesg",
+    "field": "map_mapevent4_mesg",
+    "en": "You send back a rather scalding message to Duke Boragus telling him what he can do with his threats; hopefully this will keep him quiet.",
+    "ua": "Ви посилаєте у відповідь герцогу Бораґусу зухвале повідомлення, в якому розповідаєте, що він може зробити зі своїми порожніми погрозами, можливо, це втихомирить його на якийсь час."
+  },
+  {
+    "var": "FESTIVAL_M1_mapevent5_name",
+    "field": "map_mapevent5_name",
+    "en": "no messages.",
+    "ua": "no messages."
+  },
+  {
+    "var": "FESTIVAL_M1_mapevent5_mesg",
+    "field": "map_mapevent5_mesg",
+    "en": "No more messages seem forthcoming, good. Now you can concentrate on taking the fool down.",
+    "ua": "Від герцога Бораґуса немає звісток, і це добре. Тепер ви можете зосередитися на розгромі армії цього дурня."
+  }
+]

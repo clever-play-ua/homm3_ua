@@ -1,0 +1,13 @@
+{
+  "sequences": [
+    {
+      "group": 0,
+      "frames": [
+        "SOLOAD.dir\\00_00.png",
+        "SOLOAD.dir\\00_01.png"
+      ]
+    }
+  ],
+  "type": 71,
+  "format": 1
+}

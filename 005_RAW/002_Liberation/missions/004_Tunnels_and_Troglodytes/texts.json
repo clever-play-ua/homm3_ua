@@ -1,0 +1,98 @@
+[
+  {
+    "var": "GOOD2_M4_prolog",
+    "field": "wrapper_prolog",
+    "en": "We now know how Erathia fell to Nighon and Eeofol. They literally tunneled their way under the Nighon Straits, breaking into the Dwarven Tunnels along Erathia's coast. We must now force them to use the tunnels again - this time as an escape route as we drive them from Erathia's lands forever!",
+    "ua": "Тепер ми знаємо, яким чином Ніґону й Еофолу вдалося захопити країну. Вони буквально прорили собі шлях під Ніґонською протокою та вломилися у ходи гномів вздовж берегів Ерафії. Доведеться змусити їх пройти цим шляхом ще раз - але тепер гнати їх будуть наші війська! Загарбники мають назавжди покинути наші землі."
+  },
+  {
+    "var": "GOOD2_M4_epilog",
+    "field": "wrapper_epilog",
+    "en": "We now know how Erathia fell to Nighon and Eeofol. Through an extensive network of underground tunnels dug by the Overlord’s armies, they struck simultaneously in many areas with overwhelming numbers. Credit the military for holding the invasion to half the country.  We have discovered the main artery for transporting forces from Nighon to Erathia; it is under the ocean, connecting the Nighon underworld to the Erathian mainland. Bracada and Avlee have sent armies to join the fight.  First we must eliminate the remaining Kreegans and Nighon forces from the mainland, then pursue them underground, and drive them back to the shores of Nighon.",
+    "ua": "Тепер ми знаємо, яким чином Ніґону й Еофолу вдалося захопити Ерафію. Пройшовши через мережу підземних тунелів, виритих воїнами Верховного лорда, вони одночасно вдарили переважаючими силами по кількох містах. Тільки завдяки народному ополченню півкраїни уникнуло захоплення. Ми визначили головний рукав, через який їх війська рухаються з Ніґона в Ерафію. Він проритий під океаном і виходить на берег в наших землях. Бракада й Ав-Лі відправили нам на допомогу своїх солдатів. Треба розгромити криганців і ніґонців на землі Ерафії, і вигнати їх через тунелі назад, на береги Ніґона - назавжди."
+  },
+  {
+    "var": "GOOD2_M4_map_name",
+    "field": "map_map_name",
+    "en": "Tunnels and Troglodytes",
+    "ua": "Тунелі та троглодити"
+  },
+  {
+    "var": "GOOD2_M4_map_desc",
+    "field": "map_map_desc",
+    "en": "To win, you must capture all enemy towns and castles and defeat all enemy heroes. Some Border Guards can only be passed if a Hero carries a Quest Artifact from a previous scenario, but the reward is great indeed.",
+    "ua": "Щоб перемогти, вам потрібно захопити всі ворожі міста і замки і розгромити всіх героїв противника. Минути деяких Вартових Кордону можна тільки, якщо у Героя є Артефакт \"Пошук пригод\" з попереднього сценарію. Але якщо вдасться це зробити, нагорода буде щедрою."
+  },
+  {
+    "var": "GOOD2_M4_obj558_sign_mesg",
+    "field": "map_obj558_sign_mesg",
+    "en": "Cyclops Isle",
+    "ua": "Острів циклопів"
+  },
+  {
+    "var": "GOOD2_M4_obj2381_guardian_mesg",
+    "field": "map_obj2381_guardian_mesg",
+    "en": "Before you lies the fabled Sentinel's Shield, which the Seer so long ago had foreseen you to possess. Do you wish to claim it as yours?",
+    "ua": "Перед вами славетний Щит Стража. Давним-давно Провидець передбачив, що колись він буде вашим. Чи хочете ви заявити про своє право на нього?"
+  },
+  {
+    "var": "GOOD2_M4_obj2382_guardian_mesg",
+    "field": "map_obj2382_guardian_mesg",
+    "en": "Before you lies the fabled Thunder Helmet, which the Seer so long ago had foreseen you to possess. Do you wish to claim it as yours?",
+    "ua": "Перед вами прославлений Шолом Грому. Давним-давно Провидець передбачив, що колись він буде вашим. Чи хочете ви заявити про своє право на нього?"
+  },
+  {
+    "var": "GOOD2_M4_obj3109_sign_mesg",
+    "field": "map_obj3109_sign_mesg",
+    "en": "Library of the Damned",
+    "ua": "Бібліотека проклятих"
+  },
+  {
+    "var": "GOOD2_M4_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Intro part 1",
+    "ua": "Intro part 1"
+  },
+  {
+    "var": "GOOD2_M4_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "The Dungeon Overlords are clever. While the Devils of Eeofol attacked Erathia's borders, the forces of Nighon tunneled nearly the entire distance to Steadwick, launching surprise attacks almost simultaneously across the nation.",
+    "ua": "Володарі Підземелля досить хитрі. Поки еофольські дияволи атакували кордони Ерафії, війська Ніґона прорили тунель майже до самого Стедвіка. Пробираючись під землею, вони майже одночасно робили раптові вилазки по всій країні."
+  },
+  {
+    "var": "GOOD2_M4_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Intro part 2",
+    "ua": "Intro part 2"
+  },
+  {
+    "var": "GOOD2_M4_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "We should credit the Royal Erathian Military Command for holding the invasion to just the eastern half Erathia. Regardless, we now have the Dungeon Overlords on the run. Your job is to pursue them back under the Nighon Straits and establish a foothold in THEIR home.",
+    "ua": "Ми повинні дякувати королівським збройним силам Ерафії за те, що вони утримували нападників на східній половині території Ерафії. Попри це, нам зараз потрібно зайнятися повелителями Підземелля. Ваше завдання - переслідувати їх до Ніґонської протоки і створити плацдарм на ЇХ території."
+  },
+  {
+    "var": "GOOD2_M4_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Intro part 3",
+    "ua": "Intro part 3"
+  },
+  {
+    "var": "GOOD2_M4_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "Forces from AvLee and Bracada will assist us in this final push. No Nighon or Eeofol outposts can be permitted to survive in the tunnels. We must teach the Dungeon Overlords a lesson they will never forget. Good luck.",
+    "ua": "Допомогти вам в цьому остаточному кидку підтягнуться війська з Ав-Лі і Баркади. Не можна залишити жодної сторожової застави Ніґона або Еофола в тунелях. Ми повинні дати Володарям Підземелля урок, який запам'ятається їм назавжди. Успіху!"
+  },
+  {
+    "var": "GOOD2_M4_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "Sailing away",
+    "ua": "Sailing away"
+  },
+  {
+    "var": "GOOD2_M4_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "You might be able to take a large force to Nighon by sea, attacking them from above, but you must use caution as the reef-filled Straits are both wide and treacherous.",
+    "ua": "Ви можете перекинути великі підрозділи в Ніґон морем, напавши на них зверху. Але будьте обережні: протока широка, сповнена рифів і не дуже надійна."
+  }
+]

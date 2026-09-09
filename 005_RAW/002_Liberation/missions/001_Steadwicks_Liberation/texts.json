@@ -1,0 +1,122 @@
+[
+  {
+    "var": "GOOD2_M1_prolog",
+    "field": "wrapper_prolog",
+    "en": "The first step in our fight to free Erathia is to liberate the capital of Steadwick from Nighon occupation. This will not be an easy task, as the Dungeon Overlords have blocked the mountain passes leading into the Steadwick Valley.",
+    "ua": "Першою фазою боротьби за визволення Ерафії повинна стати битва за Стедвік, її столицю, яка знаходиться в руках ніґонських загарбників. Це буде непросто, тому що Верховні лорди підземель завалили гірські перевали, що ведуть у Стедвікську долину."
+  },
+  {
+    "var": "GOOD2_M1_epilog",
+    "field": "wrapper_epilog",
+    "en": "Early intelligence reports forces from Nighon and Eeofol have barricaded themselves inside Steadwick. All land access to the capitol has been blocked. Their reinforcements arrive via underground tunnels. Armies from the west will meet us on the field of battle. There is little else to say. We do not stop until Steadwick is liberated.",
+    "ua": "За першими повідомленнями розвідки, війська Ніґона й Еофола тримають оборону Стедвіка. По суші шлях до столиці відрізаний. Вороже підкріплення приходить по підземних тунелях. Західні армії зустрінуть нас біля поля битви. Більше мені нічого додати. Ми не зупинимося, поки не звільнимо Стедвік!"
+  },
+  {
+    "var": "GOOD2_M1_map_name",
+    "field": "map_map_name",
+    "en": "Steadwick's Liberation",
+    "ua": "Визволення Стедвіка"
+  },
+  {
+    "var": "GOOD2_M1_map_desc",
+    "field": "map_map_desc",
+    "en": "To win, you must capture the city of Steadwick. Seek out the Seer - completing the Seer's Quest will allow you to carry the reward to the next scenario.",
+    "ua": "Для перемоги вам потрібно захопити місто Стедвік. Шукайте провидця. Виконавши його прохання, ви зможете взяти винагороду з собою в наступний сценарій."
+  },
+  {
+    "var": "GOOD2_M1_rumor0_name",
+    "field": "map_rumor0_name",
+    "en": "Game Hint 1",
+    "ua": "Game Hint 1"
+  },
+  {
+    "var": "GOOD2_M1_rumor0_desc",
+    "field": "map_rumor0_desc",
+    "en": "Supposedly the Dungeon Overlords are supplying Steadwick through underground tunnels.",
+    "ua": "Ймовірно, правителі Підземелля доставляють припаси в Стедвік по підземних тунелях."
+  },
+  {
+    "var": "GOOD2_M1_rumor1_name",
+    "field": "map_rumor1_name",
+    "en": "Game Hint 2",
+    "ua": "Game Hint 2"
+  },
+  {
+    "var": "GOOD2_M1_rumor1_desc",
+    "field": "map_rumor1_desc",
+    "en": "The Dungeon Overlords have two subterranean gates outside of the Steadwick Valley.",
+    "ua": "У правителів Підземелля є два входи в підземні ворота за межами Стедвікської Долини."
+  },
+  {
+    "var": "GOOD2_M1_rumor2_name",
+    "field": "map_rumor2_name",
+    "en": "Game Hint 3",
+    "ua": "Game Hint 3"
+  },
+  {
+    "var": "GOOD2_M1_rumor2_desc",
+    "field": "map_rumor2_desc",
+    "en": "General Morgan Kendal is being held captive in a prison to the northwest.",
+    "ua": "Генерала Моргана Кендала утримують в полоні у в'язниці на північному заході."
+  },
+  {
+    "var": "GOOD2_M1_obj902_hero_name",
+    "field": "map_obj902_hero_name",
+    "en": "Gen. Kendal",
+    "ua": "Ген. Кендал"
+  },
+  {
+    "var": "GOOD2_M1_obj1894_town_name",
+    "field": "map_obj1894_town_name",
+    "en": "Steadwick",
+    "ua": "Стедвік"
+  },
+  {
+    "var": "GOOD2_M1_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Intro 1",
+    "ua": "Intro 1"
+  },
+  {
+    "var": "GOOD2_M1_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "Early intelligence reports indicate that forces from Nighon and Eeofol have barricaded themselves inside the Steadwick Valley. With all land access blocked, they must be receiving supplies through underground tunnels.",
+    "ua": "Перші матеріали розвідки свідчать, що війська з Ніґона й Еофола забарикадувалися в Стедвікській Долині. Враховуючи, що всі наземні підходи перекриті, ймовірно, вони отримують припаси через підземні тунелі."
+  },
+  {
+    "var": "GOOD2_M1_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Intro 2",
+    "ua": "Intro 2"
+  },
+  {
+    "var": "GOOD2_M1_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "You will either need to find the passage they are using to enter the valley or find a way over the mountains. The good news is that we have the assistance of Bracada, and if we can reach them, AvLee as well. There is little else to say. We do not stop until Steadwick is liberated.",
+    "ua": "Ви повинні або знайти прохід, який вони використовують, щоб потрапити в долину, або прокласти дорогу через гори. Гарні новини: нам допомагає Бракада, а якщо встигнемо дійти до Ав-Лі, то і вони на нашому боці. Більше додати нічого. Ми не зупинимося, поки не звільнимо Стедвік."
+  },
+  {
+    "var": "GOOD2_M1_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "News of General Kendal part 1",
+    "ua": "News of General Kendal part 1"
+  },
+  {
+    "var": "GOOD2_M1_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "Word from the survivors of the Steadwick seige is that after King Gryphonheart's death, command of Erathia fell to Morgan Kendal, General of the Royal Erathian Military Command.",
+    "ua": "Від тих, що вижили в блокаді Стедвіка, стало відомо, що після смерті Короля Гріфонхарта влада в Ерафії перейшла в руки Моргана Кендала, генерала королівських збройних сил Ерафії."
+  },
+  {
+    "var": "GOOD2_M1_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "News of General Kendal part 2",
+    "ua": "News of General Kendal part 2"
+  },
+  {
+    "var": "GOOD2_M1_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "According to witnesses, Gen. Kendal was captured during the fighting, and many believe that he is being held in a prison to the northwest. We would be wise to attempt to free him, as he is a brilliant military leader.",
+    "ua": "Свідки повідомляють, що генерал Кендал був узятий в полон під час бою. Багато хто вважає, що його тримають у в'язниці на північному заході. Нам варто спробувати звільнити його, адже це блискучий полководець."
+  }
+]

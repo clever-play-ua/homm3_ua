@@ -1,0 +1,927 @@
+[
+  {
+    "var": "CRTRAITS_Name",
+    "en": "Name\t\tCost\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tDamage\t\t\t\tAdv. Map\t\t\t",
+    "ua": "Name\t\tCost\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tDamage\t\t\t\tAdv. Map\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_Singular",
+    "en": "Singular\tPlural\tWood\tMercury\tOre\tSulfur\tCrystal\tGems\tGold\tFight Value\tAI Value\tGrowth\tHorde Growth\tHit Points\tSpeed\tAttack\tDefense\tLow\tHigh\tShots\tSpells\tLow\tHigh\tAbility Text\t\"Attributes (Reference only, do not change these values)\"",
+    "ua": "Singular\tPlural\tWood\tMercury\tOre\tSulfur\tCrystal\tGems\tGold\tFight Value\tAI Value\tGrowth\tHorde Growth\tHit Points\tSpeed\tAttack\tDefense\tLow\tHigh\tShots\tSpells\tLow\tHigh\tAbility Text\t\"Attributes (Reference only, do not change these values)\""
+  },
+  {
+    "var": "CRTRAITS_Pikeman",
+    "en": "Pikeman\tPikemen\t0\t0\t0\t0\t0\t0\t60\t100\t80\t14\t0\t10\t4\t4\t5\t1\t3\t0\t0\t20\t50\t\t0",
+    "ua": "Списник\tСписників\t0\t0\t0\t0\t0\t0\t60\t100\t80\t14\t0\t10\t4\t4\t5\t1\t3\t0\t0\t20\t50\t\t0"
+  },
+  {
+    "var": "CRTRAITS_Halberdier",
+    "en": "Halberdier\tHalberdiers\t0\t0\t0\t0\t0\t0\t75\t115\t115\t14\t0\t10\t5\t6\t5\t2\t3\t0\t0\t20\t30\t\t0",
+    "ua": "Алебардник\tАлебардників\t0\t0\t0\t0\t0\t0\t75\t115\t115\t14\t0\t10\t5\t6\t5\t2\t3\t0\t0\t20\t30\t\t0"
+  },
+  {
+    "var": "CRTRAITS_Archer",
+    "en": "Archer\tArchers\t0\t0\t0\t0\t0\t0\t100\t115\t126\t9\t0\t10\t4\t6\t3\t2\t3\t12\t0\t16\t30\t\tSHOOTING_ARMY",
+    "ua": "Лучник\tЛучників\t0\t0\t0\t0\t0\t0\t100\t115\t126\t9\t0\t10\t4\t6\t3\t2\t3\t12\t0\t16\t30\t\tSHOOTING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Marksman",
+    "en": "Marksman\tMarksmen\t0\t0\t0\t0\t0\t0\t150\t115\t184\t9\t0\t10\t6\t6\t3\t2\t3\t24\t0\t16\t25\tShoots twice.\tconst_two_attacks | SHOOTING_ARMY",
+    "ua": "Стрілець\tСтрільців\t0\t0\t0\t0\t0\t0\t150\t115\t184\t9\t0\t10\t6\t6\t3\t2\t3\t24\t0\t16\t25\tСтріляє двічі.\tconst_two_attacks | SHOOTING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Griffin",
+    "en": "Griffin\tGriffins\t0\t0\t0\t0\t0\t0\t200\t324\t351\t7\t3\t25\t6\t8\t8\t3\t6\t0\t0\t12\t25\tRetaliates twice.\tDOUBLE_WIDE | FLYING_ARMY",
+    "ua": "Грифон\tГрифонів\t0\t0\t0\t0\t0\t0\t200\t324\t351\t7\t3\t25\t6\t8\t8\t3\t6\t0\t0\t12\t25\tВідповідає двічі.\tDOUBLE_WIDE | FLYING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Royal Griffin",
+    "en": "Royal Griffin\tRoyal Griffins\t0\t0\t0\t0\t0\t0\t240\t364\t448\t7\t3\t25\t9\t9\t9\t3\t6\t0\t0\t12\t20\tUnlimited retaliations.\tDOUBLE_WIDE|FLYING_ARMY",
+    "ua": "Королівський грифон\tКоролівських грифонів\t0\t0\t0\t0\t0\t0\t240\t364\t448\t7\t3\t25\t9\t9\t9\t3\t6\t0\t0\t12\t20\tЗавжди відповідає.\tDOUBLE_WIDE|FLYING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Swordsman",
+    "en": "Swordsman\tSwordsmen\t0\t0\t0\t0\t0\t0\t300\t445\t445\t4\t0\t35\t5\t10\t12\t6\t9\t0\t0\t10\t20\t\t0",
+    "ua": "Мечник\tМечників\t0\t0\t0\t0\t0\t0\t300\t445\t445\t4\t0\t35\t5\t10\t12\t6\t9\t0\t0\t10\t20\t\t0"
+  },
+  {
+    "var": "CRTRAITS_Crusader",
+    "en": "Crusader\tCrusaders\t0\t0\t0\t0\t0\t0\t400\t588\t588\t4\t0\t35\t6\t12\t12\t7\t10\t0\t0\t10\t16\tStrikes twice.\tconst_two_attacks",
+    "ua": "Хрестоносець\tХрестоносців\t0\t0\t0\t0\t0\t0\t400\t588\t588\t4\t0\t35\t6\t12\t12\t7\t10\t0\t0\t10\t16\tБ'є двічі.\tconst_two_attacks"
+  },
+  {
+    "var": "CRTRAITS_Monk",
+    "en": "Monk\tMonks\t0\t0\t0\t0\t0\t0\t400\t485\t485\t3\t0\t30\t5\t12\t7\t10\t12\t12\t0\t8\t16\t\tSHOOTING_ARMY",
+    "ua": "Монах\tМонахів\t0\t0\t0\t0\t0\t0\t400\t485\t485\t3\t0\t30\t5\t12\t7\t10\t12\t12\t0\t8\t16\t\tSHOOTING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Zealot",
+    "en": "Zealot\tZealots\t0\t0\t0\t0\t0\t0\t450\t500\t750\t3\t0\t30\t7\t12\t10\t10\t12\t24\t0\t8\t12\tNo melee penalty.\tSHOOTING_ARMY | const_no_melee_penalty",
+    "ua": "Фанатик\tФанатиків\t0\t0\t0\t0\t0\t0\t450\t500\t750\t3\t0\t30\t7\t12\t10\t10\t12\t24\t0\t8\t12\tНемає штрафу за ближній бій.\tSHOOTING_ARMY | const_no_melee_penalty"
+  },
+  {
+    "var": "CRTRAITS_Cavalier",
+    "en": "Cavalier\tCavaliers\t0\t0\t0\t0\t0\t0\t1000\t1668\t1946\t2\t0\t100\t7\t15\t15\t15\t25\t0\t0\t5\t12\tJousting bonus.\tDOUBLE_WIDE | const_jousting",
+    "ua": "Вершник\tВершників\t0\t0\t0\t0\t0\t0\t1000\t1668\t1946\t2\t0\t100\t7\t15\t15\t15\t25\t0\t0\t5\t12\tТурнірна перевага.\tDOUBLE_WIDE | const_jousting"
+  },
+  {
+    "var": "CRTRAITS_Champion",
+    "en": "Champion\tChampions\t0\t0\t0\t0\t0\t0\t1200\t1800\t2100\t2\t0\t100\t9\t16\t16\t20\t25\t0\t0\t5\t10\tJousting bonus.\tDOUBLE_WIDE | const_jousting",
+    "ua": "Чемпіон\tЧемпіонів\t0\t0\t0\t0\t0\t0\t1200\t1800\t2100\t2\t0\t100\t9\t16\t16\t20\t25\t0\t0\t5\t10\tТурнірна перевага.\tDOUBLE_WIDE | const_jousting"
+  },
+  {
+    "var": "CRTRAITS_Angel",
+    "en": "Angel\tAngels\t0\t0\t0\t0\t0\t1\t3000\t3585\t5019\t1\t0\t200\t12\t20\t20\t50\t50\t0\t0\t4\t10\tHates Devils.\tFLYING_ARMY | const_raises_morale | KING_2",
+    "ua": "Ангел\tАнгелів\t0\t0\t0\t0\t0\t1\t3000\t3585\t5019\t1\t0\t200\t12\t20\t20\t50\t50\t0\t0\t4\t10\tНенавидить дияволів.\tFLYING_ARMY | const_raises_morale | KING_2"
+  },
+  {
+    "var": "CRTRAITS_Archangel",
+    "en": "Archangel\tArchangels\t0\t0\t0\t0\t0\t3\t5000\t6033\t8776\t1\t0\t250\t18\t30\t30\t50\t50\t0\t1\t3\t8\t\"+1 morale.  Hates Devils.\nResurrects allies.\"\tDOUBLE_WIDE | FLYING_ARMY | const_raises_morale | KING_2",
+    "ua": "Архангел\tАрхангелів\t0\t0\t0\t0\t0\t3\t5000\t6033\t8776\t1\t0\t250\t18\t30\t30\t50\t50\t0\t1\t3\t8\t\"+1 до моралі.  Ненавидить дияволів.\nВідродження союз-ків.\"\tDOUBLE_WIDE | FLYING_ARMY | const_raises_morale | KING_2"
+  },
+  {
+    "var": "CRTRAITS_17",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_18",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_19",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_Centaur",
+    "en": "Centaur\tCentaurs\t0\t0\t0\t0\t0\t0\t70\t100\t100\t14\t0\t8\t6\t5\t3\t2\t3\t0\t0\t20\t50\t\tDOUBLE_WIDE",
+    "ua": "Кентавр\tКентаврів\t0\t0\t0\t0\t0\t0\t70\t100\t100\t14\t0\t8\t6\t5\t3\t2\t3\t0\t0\t20\t50\t\tDOUBLE_WIDE"
+  },
+  {
+    "var": "CRTRAITS_Centaur Captain",
+    "en": "Centaur Captain\tCentaur Captains\t0\t0\t0\t0\t0\t0\t90\t115\t138\t14\t0\t10\t8\t6\t3\t2\t3\t0\t0\t20\t30\t\tDOUBLE_WIDE",
+    "ua": "Капітан кентаврів\tКапітанів кентаврів\t0\t0\t0\t0\t0\t0\t90\t115\t138\t14\t0\t10\t8\t6\t3\t2\t3\t0\t0\t20\t30\t\tDOUBLE_WIDE"
+  },
+  {
+    "var": "CRTRAITS_Dwarf",
+    "en": "Dwarf\tDwarves\t0\t0\t0\t0\t0\t0\t120\t194\t138\t8\t4\t20\t3\t6\t7\t2\t4\t0\t0\t16\t30\t20% magic resistance.\t0",
+    "ua": "Гном\tГномів\t0\t0\t0\t0\t0\t0\t120\t194\t138\t8\t4\t20\t3\t6\t7\t2\t4\t0\t0\t16\t30\t20% опір магії.\t0"
+  },
+  {
+    "var": "CRTRAITS_Battle Dwarf",
+    "en": "Battle Dwarf\tBattle Dwarves\t0\t0\t0\t0\t0\t0\t150\t209\t209\t8\t4\t20\t5\t7\t7\t2\t4\t0\t0\t16\t25\t40% magic resistance.\t0",
+    "ua": "Бойовий гном\tБойових гномів\t0\t0\t0\t0\t0\t0\t150\t209\t209\t8\t4\t20\t5\t7\t7\t2\t4\t0\t0\t16\t25\t40% опір магії.\t0"
+  },
+  {
+    "var": "CRTRAITS_Wood Elf",
+    "en": "Wood Elf\tWood Elves\t0\t0\t0\t0\t0\t0\t200\t195\t234\t7\t0\t15\t6\t9\t5\t3\t5\t24\t0\t12\t25\t\tSHOOTING_ARMY",
+    "ua": "Лісовий ельф\tЛісових ельфів\t0\t0\t0\t0\t0\t0\t200\t195\t234\t7\t0\t15\t6\t9\t5\t3\t5\t24\t0\t12\t25\t\tSHOOTING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Grand Elf",
+    "en": "Grand Elf\tGrand Elves\t0\t0\t0\t0\t0\t0\t225\t195\t331\t7\t0\t15\t7\t9\t5\t3\t5\t24\t0\t12\t20\tShoots twice.\tSHOOTING_ARMY | const_two_attacks",
+    "ua": "Вищий ельф\tВищих ельфів\t0\t0\t0\t0\t0\t0\t225\t195\t331\t7\t0\t15\t7\t9\t5\t3\t5\t24\t0\t12\t20\tСтріляє двічі.\tSHOOTING_ARMY | const_two_attacks"
+  },
+  {
+    "var": "CRTRAITS_Pegasus",
+    "en": "Pegasus\tPegasi\t0\t0\t0\t0\t0\t0\t250\t407\t518\t5\t0\t30\t8\t9\t8\t5\t9\t0\t0\t10\t20\tMagic damper.\tDOUBLE_WIDE | FLYING_ARMY",
+    "ua": "Пегас\tПегасів\t0\t0\t0\t0\t0\t0\t250\t407\t518\t5\t0\t30\t8\t9\t8\t5\t9\t0\t0\t10\t20\tГлушитель магії.\tDOUBLE_WIDE | FLYING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Silver Pegasus",
+    "en": "Silver Pegasus\tSilver Pegasi\t0\t0\t0\t0\t0\t0\t275\t418\t532\t5\t0\t30\t12\t9\t10\t5\t9\t0\t0\t10\t16\tMagic damper.\tDOUBLE_WIDE | FLYING_ARMY",
+    "ua": "Срібний пегас\tСрібних пегасів\t0\t0\t0\t0\t0\t0\t275\t418\t532\t5\t0\t30\t12\t9\t10\t5\t9\t0\t0\t10\t16\tГлушитель магії.\tDOUBLE_WIDE | FLYING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Dendroid Guard",
+    "en": "Dendroid Guard\tDendroid Guards\t0\t0\t0\t0\t0\t0\t350\t690\t517\t3\t2\t55\t3\t9\t12\t10\t14\t0\t0\t8\t16\tBinds enemies in place.\t0",
+    "ua": "Вартовий дендроідів\tВартових дендроідів\t0\t0\t0\t0\t0\t0\t350\t690\t517\t3\t2\t55\t3\t9\t12\t10\t14\t0\t0\t8\t16\tЗнерухомлює ворога.\t0"
+  },
+  {
+    "var": "CRTRAITS_Dendroid Soldier",
+    "en": "Dendroid Soldier\tDendroid Soldiers\t0\t0\t0\t0\t0\t0\t425\t765\t803\t3\t2\t65\t4\t9\t12\t10\t14\t0\t0\t8\t12\tBinds enemies in place.\t0",
+    "ua": "Солдат дендроідів\tСолдатів дендроідів\t0\t0\t0\t0\t0\t0\t425\t765\t803\t3\t2\t65\t4\t9\t12\t10\t14\t0\t0\t8\t12\tЗнерухомлює ворога.\t0"
+  },
+  {
+    "var": "CRTRAITS_Unicorn",
+    "en": "Unicorn\tUnicorns\t0\t0\t0\t0\t0\t0\t850\t1548\t1806\t2\t0\t90\t7\t15\t14\t18\t22\t0\t0\t5\t12\tAura of magic resistance.  Blinding attack.\tDOUBLE_WIDE",
+    "ua": "Єдиноріг\tЄдинорогів\t0\t0\t0\t0\t0\t0\t850\t1548\t1806\t2\t0\t90\t7\t15\t14\t18\t22\t0\t0\t5\t12\tАура опору магії. Осліплююча атака.\tDOUBLE_WIDE"
+  },
+  {
+    "var": "CRTRAITS_War Unicorn",
+    "en": "War Unicorn\tWar Unicorns\t0\t0\t0\t0\t0\t0\t950\t1740\t2030\t2\t0\t110\t9\t15\t14\t18\t22\t0\t0\t5\t10\tAura of magic resistance. Blinding attack.\tDOUBLE_WIDE",
+    "ua": "Войовничий єдиноріг\tВойовничих єдинорогів\t0\t0\t0\t0\t0\t0\t950\t1740\t2030\t2\t0\t110\t9\t15\t14\t18\t22\t0\t0\t5\t10\tАура опору магії. Осліплююча атака.\tDOUBLE_WIDE"
+  },
+  {
+    "var": "CRTRAITS_Green Dragon",
+    "en": "Green Dragon\tGreen Dragons\t0\t0\t0\t0\t1\t0\t2400\t3654\t4872\t1\t0\t180\t10\t18\t18\t40\t50\t0\t0\t4\t10\tImmune to spell levels 1-3.\tDOUBLE_WIDE | FLYING_ARMY | KING_1",
+    "ua": "Зелений дракон\tЗелених драконів\t0\t0\t0\t0\t1\t0\t2400\t3654\t4872\t1\t0\t180\t10\t18\t18\t40\t50\t0\t0\t4\t10\tІмунітет до заклять 1-3 рівня.\tDOUBLE_WIDE | FLYING_ARMY | KING_1"
+  },
+  {
+    "var": "CRTRAITS_Gold Dragon",
+    "en": "Gold Dragon\tGold Dragons\t0\t0\t0\t0\t2\t0\t4000\t6220\t8613\t1\t0\t250\t16\t27\t27\t40\t50\t0\t0\t3\t8\tImmune to spell levels 1-4.\tDOUBLE_WIDE | FLYING_ARMY | KING_1",
+    "ua": "Золотий дракон\tЗолотих драконів\t0\t0\t0\t0\t2\t0\t4000\t6220\t8613\t1\t0\t250\t16\t27\t27\t40\t50\t0\t0\t3\t8\tІмунітет до заклять 1-4 рівня.\tDOUBLE_WIDE | FLYING_ARMY | KING_1"
+  },
+  {
+    "var": "CRTRAITS_34",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_35",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_36",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_Gremlin",
+    "en": "Gremlin\tGremlins\t0\t0\t0\t0\t0\t0\t30\t55\t44\t16\t0\t4\t4\t3\t3\t1\t2\t0\t0\t20\t50\t\t0",
+    "ua": "Гремлін\tГремлінів\t0\t0\t0\t0\t0\t0\t30\t55\t44\t16\t0\t4\t4\t3\t3\t1\t2\t0\t0\t20\t50\t\t0"
+  },
+  {
+    "var": "CRTRAITS_Master Gremlin",
+    "en": "Master Gremlin\tMaster Gremlins\t0\t0\t0\t0\t0\t0\t40\t55\t66\t16\t0\t4\t5\t4\t4\t1\t2\t8\t0\t20\t30\tRanged attacker.\tSHOOTING_ARMY",
+    "ua": "Майстер гремлінів\tМайстрів гремлінів\t0\t0\t0\t0\t0\t0\t40\t55\t66\t16\t0\t4\t5\t4\t4\t1\t2\t8\t0\t20\t30\tАтакує на відстані.\tSHOOTING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Stone Gargoyle",
+    "en": "Stone Gargoyle\tStone Gargoyles\t0\t0\t0\t0\t0\t0\t130\t150\t165\t9\t4\t16\t6\t6\t6\t2\t3\t0\t0\t16\t30\t\tFLYING_ARMY",
+    "ua": "Кам'яна горгулія\tКам'яних горгулій\t0\t0\t0\t0\t0\t0\t130\t150\t165\t9\t4\t16\t6\t6\t6\t2\t3\t0\t0\t16\t30\t\tFLYING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Obsidian Gargoyle",
+    "en": "Obsidian Gargoyle\tObsidian Gargoyles\t0\t0\t0\t0\t0\t0\t160\t155\t201\t9\t4\t16\t9\t7\t7\t2\t3\t0\t0\t16\t25\t\tFLYING_ARMY",
+    "ua": "Обсидіанова горгулія\tОбсидіанових горгулій\t0\t0\t0\t0\t0\t0\t160\t155\t201\t9\t4\t16\t9\t7\t7\t2\t3\t0\t0\t16\t25\t\tFLYING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Stone Golem",
+    "en": "Stone Golem\tStone Golems\t0\t0\t0\t0\t0\t0\t150\t339\t250\t6\t0\t30\t3\t7\t10\t4\t5\t0\t0\t12\t25\tDamage from spells reduced 50%.\t0",
+    "ua": "Кам'яний голем\tКам'яних големів\t0\t0\t0\t0\t0\t0\t150\t339\t250\t6\t0\t30\t3\t7\t10\t4\t5\t0\t0\t12\t25\tОтримує на 50% менше пошкоджень від магії.\t0"
+  },
+  {
+    "var": "CRTRAITS_Iron Golem",
+    "en": "Iron Golem\tIron Golems\t0\t0\t0\t0\t0\t0\t200\t412\t412\t6\t0\t35\t5\t9\t10\t4\t5\t0\t0\t12\t20\tDamage from spells reduced 75%.\t0",
+    "ua": "Залізний голем\tЗалізних големів\t0\t0\t0\t0\t0\t0\t200\t412\t412\t6\t0\t35\t5\t9\t10\t4\t5\t0\t0\t12\t20\tОтримує на 75% менше пошкоджень від магії.\t0"
+  },
+  {
+    "var": "CRTRAITS_Mage",
+    "en": "Mage\tMagi\t0\t0\t0\t0\t0\t0\t350\t418\t570\t4\t0\t25\t5\t11\t8\t7\t9\t24\t0\t10\t20\t\"No melee penalty.\nHero spells cost less.\"\tSHOOTING_ARMY | const_no_melee_penalty",
+    "ua": "Маг\tМагів\t0\t0\t0\t0\t0\t0\t350\t418\t570\t4\t0\t25\t5\t11\t8\t7\t9\t24\t0\t10\t20\t\"Немає штрафу за ближній бій.\nЗакляття героя коштують менше.\"\tSHOOTING_ARMY | const_no_melee_penalty"
+  },
+  {
+    "var": "CRTRAITS_Arch Mage",
+    "en": "Arch Mage\tArch Magi\t0\t0\t0\t0\t0\t0\t450\t467\t680\t4\t0\t30\t7\t12\t9\t7\t9\t24\t0\t10\t16\t\"No melee penalty.\nHero spells cost less.\"\tSHOOTING_ARMY | const_no_melee_penalty | const_no_wall_penalty",
+    "ua": "Архімаг\tАрхімагів\t0\t0\t0\t0\t0\t0\t450\t467\t680\t4\t0\t30\t7\t12\t9\t7\t9\t24\t0\t10\t16\t\"Немає штрафу за ближній бій.\nЗакляття героя коштують менше.\"\tSHOOTING_ARMY | const_no_melee_penalty | const_no_wall_penalty"
+  },
+  {
+    "var": "CRTRAITS_Genie",
+    "en": "Genie\tGenies\t0\t0\t0\t0\t0\t0\t550\t680\t884\t3\t0\t40\t7\t12\t12\t13\t16\t0\t0\t8\t16\tHates Efreet.\tFLYING_ARMY",
+    "ua": "Джин\tДжинів\t0\t0\t0\t0\t0\t0\t550\t680\t884\t3\t0\t40\t7\t12\t12\t13\t16\t0\t0\t8\t16\tНенавидить іфритів.\tFLYING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Master Genie",
+    "en": "Master Genie\tMaster Genies\t0\t0\t0\t0\t0\t0\t600\t748\t942\t3\t0\t40\t11\t12\t12\t13\t16\t0\t3\t8\t12\t\"Spellcaster: Random benefit.\nHates Efreet.\"\tFLYING_ARMY",
+    "ua": "Майстер джинів\tМайстрів джинів\t0\t0\t0\t0\t0\t0\t600\t748\t942\t3\t0\t40\t11\t12\t12\t13\t16\t0\t3\t8\t12\t\"Випадкове заклинання.\nНенавидить іфритів.\"\tFLYING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Naga",
+    "en": "Naga\tNagas\t0\t0\t0\t0\t0\t0\t1100\t2016\t2016\t2\t0\t110\t5\t16\t13\t20\t20\t0\t0\t5\t12\tNo enemy retaliation.\tDOUBLE_WIDE",
+    "ua": "Нага\tНаг\t0\t0\t0\t0\t0\t0\t1100\t2016\t2016\t2\t0\t110\t5\t16\t13\t20\t20\t0\t0\t5\t12\tВорог не відповідає.\tDOUBLE_WIDE"
+  },
+  {
+    "var": "CRTRAITS_Naga Queen",
+    "en": "Naga Queen\tNaga Queens\t0\t0\t0\t0\t0\t0\t1600\t2485\t2840\t2\t0\t110\t7\t16\t13\t30\t30\t0\t0\t5\t10\tNo enemy retaliation.\tDOUBLE_WIDE",
+    "ua": "Королева наг\tКоролев наг\t0\t0\t0\t0\t0\t0\t1600\t2485\t2840\t2\t0\t110\t7\t16\t13\t30\t30\t0\t0\t5\t10\tВорог не відповідає.\tDOUBLE_WIDE"
+  },
+  {
+    "var": "CRTRAITS_Giant",
+    "en": "Giant\tGiants\t0\t0\t0\t0\t0\t1\t2000\t3146\t3718\t1\t0\t150\t7\t19\t16\t40\t60\t0\t0\t4\t10\tMind spell immunity\tKING_3",
+    "ua": "Гігант\tГігантів\t0\t0\t0\t0\t0\t1\t2000\t3146\t3718\t1\t0\t150\t7\t19\t16\t40\t60\t0\t0\t4\t10\tІмунітет до розумових заклять\tKING_3"
+  },
+  {
+    "var": "CRTRAITS_Titan",
+    "en": "Titan\tTitans\t0\t0\t0\t0\t0\t2\t5000\t5000\t7500\t1\t0\t300\t11\t24\t24\t40\t60\t24\t0\t3\t8\tNo melee penalty. Mind spell immunity.  Hates Black Dragons.\tSHOOTING_ARMY | const_no_melee_penalty | KING_3",
+    "ua": "Титан\tТитанів\t0\t0\t0\t0\t0\t2\t5000\t5000\t7500\t1\t0\t300\t11\t24\t24\t40\t60\t24\t0\t3\t8\t\"Немає штрафу за ближній бій. Імунітет до розумових заклять. Ненавидить Чорних Драконів.\"\tSHOOTING_ARMY | const_no_melee_penalty | KING_3"
+  },
+  {
+    "var": "CRTRAITS_51",
+    "en": "                                   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "                                   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_52",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_53",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_Imp",
+    "en": "Imp\tImps\t0\t0\t0\t0\t0\t0\t50\t50\t50\t15\t8\t4\t5\t2\t3\t1\t2\t0\t0\t20\t50\t\t0",
+    "ua": "Бісеня\tБісенят\t0\t0\t0\t0\t0\t0\t50\t50\t50\t15\t8\t4\t5\t2\t3\t1\t2\t0\t0\t20\t50\t\t0"
+  },
+  {
+    "var": "CRTRAITS_Familiar",
+    "en": "Familiar\tFamiliars\t0\t0\t0\t0\t0\t0\t60\t60\t60\t15\t8\t4\t7\t4\t4\t1\t2\t0\t0\t20\t30\tMagic channel.\t0",
+    "ua": "Чортеня\tЧортенят\t0\t0\t0\t0\t0\t0\t60\t60\t60\t15\t8\t4\t7\t4\t4\t1\t2\t0\t0\t20\t30\tМагічний канал.\t0"
+  },
+  {
+    "var": "CRTRAITS_Gog",
+    "en": "Gog\tGogs\t0\t0\t0\t0\t0\t0\t125\t145\t159\t8\t0\t13\t4\t6\t4\t2\t4\t12\t0\t16\t30\t\tSHOOTING_ARMY",
+    "ua": "Гог\tГогів\t0\t0\t0\t0\t0\t0\t125\t145\t159\t8\t0\t13\t4\t6\t4\t2\t4\t12\t0\t16\t30\t\tSHOOTING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Magog",
+    "en": "Magog\tMagogs\t0\t0\t0\t0\t0\t0\t175\t210\t240\t8\t0\t13\t6\t7\t4\t2\t4\t24\t0\t16\t25\tFireball attack.\tSHOOTING_ARMY",
+    "ua": "Магог\tМагогів\t0\t0\t0\t0\t0\t0\t175\t210\t240\t8\t0\t13\t6\t7\t4\t2\t4\t24\t0\t16\t25\tСтріляє вогненною кулею.\tSHOOTING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Hell Hound",
+    "en": "Hell Hound\tHell Hounds\t0\t0\t0\t0\t0\t0\t200\t275\t357\t5\t3\t25\t7\t10\t6\t2\t7\t0\t0\t12\t25\t\tDOUBLE_WIDE | FLYING_ARMY",
+    "ua": "Пекельний пес\tПекельних псів\t0\t0\t0\t0\t0\t0\t200\t275\t357\t5\t3\t25\t7\t10\t6\t2\t7\t0\t0\t12\t25\t\tDOUBLE_WIDE | FLYING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Cerberus",
+    "en": "Cerberus\tCerberi\t0\t0\t0\t0\t0\t0\t250\t308\t392\t5\t3\t25\t8\t10\t8\t2\t7\t0\t0\t12\t20\t\"3-headed attack.\nEnemies cannot retaliate.\"\tDOUBLE_WIDE | FLYING_ARMY",
+    "ua": "Цербер\tЦерберів\t0\t0\t0\t0\t0\t0\t250\t308\t392\t5\t3\t25\t8\t10\t8\t2\t7\t0\t0\t12\t20\t\"Трьохголова атака.\nВороги не відповідають.\"\tDOUBLE_WIDE | FLYING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Demon",
+    "en": "Demon\tDemons\t0\t0\t0\t0\t0\t0\t250\t445\t445\t4\t0\t35\t5\t10\t10\t7\t9\t0\t0\t10\t20\t\t0",
+    "ua": "Демон\tДемонів\t0\t0\t0\t0\t0\t0\t250\t445\t445\t4\t0\t35\t5\t10\t10\t7\t9\t0\t0\t10\t20\t\t0"
+  },
+  {
+    "var": "CRTRAITS_Horned Demon",
+    "en": "Horned Demon\tHorned Demons\t0\t0\t0\t0\t0\t0\t270\t480\t480\t4\t0\t40\t6\t10\t10\t7\t9\t0\t0\t10\t16\t\t0",
+    "ua": "Рогатий демон\tРогатих демонів\t0\t0\t0\t0\t0\t0\t270\t480\t480\t4\t0\t40\t6\t10\t10\t7\t9\t0\t0\t10\t16\t\t0"
+  },
+  {
+    "var": "CRTRAITS_Pit Fiend",
+    "en": "Pit Fiend\tPit Fiends\t0\t0\t0\t0\t0\t0\t500\t765\t765\t3\t0\t45\t6\t13\t13\t13\t17\t0\t0\t8\t16\t\t0",
+    "ua": "Демон безодні\tДемонів безодні\t0\t0\t0\t0\t0\t0\t500\t765\t765\t3\t0\t45\t6\t13\t13\t13\t17\t0\t0\t8\t16\t\t0"
+  },
+  {
+    "var": "CRTRAITS_Pit Lord",
+    "en": "Pit Lord\tPit Lords\t0\t0\t0\t0\t0\t0\t700\t1071\t1224\t3\t0\t45\t7\t13\t13\t13\t17\t0\t1\t8\t12\t\"Summon demons from\na dead ally.\"\t0",
+    "ua": "Володар безодні\tВолодарів безодні\t0\t0\t0\t0\t0\t0\t700\t1071\t1224\t3\t0\t45\t7\t13\t13\t13\t17\t0\t1\t8\t12\t\"Піднімає демонів \nз мертвих воїнів.\"\t0"
+  },
+  {
+    "var": "CRTRAITS_Efreeti",
+    "en": "Efreeti\tEfreet\t0\t0\t0\t0\t0\t0\t900\t1413\t1670\t2\t0\t90\t9\t16\t12\t16\t24\t0\t0\t5\t12\tImmune to fire.  Hates Genies.\t0",
+    "ua": "Іфрит\tІфритів\t0\t0\t0\t0\t0\t0\t900\t1413\t1670\t2\t0\t90\t9\t16\t12\t16\t24\t0\t0\t5\t12\tІмунітет до вогню. Ненавидить джинів.\t0"
+  },
+  {
+    "var": "CRTRAITS_Efreet Sultan",
+    "en": "Efreet Sultan\tEfreet Sultans\t0\t0\t0\t0\t0\t0\t1100\t1584\t1848\t2\t0\t90\t13\t16\t14\t16\t24\t0\t0\t5\t10\tFire shield.  Immune to fire.  Hates Genies.\t0",
+    "ua": "Султан іфритів\tСултанів іфритів\t0\t0\t0\t0\t0\t0\t1100\t1584\t1848\t2\t0\t90\t13\t16\t14\t16\t24\t0\t0\t5\t10\tВогненний щит.  Імунітет до Вогню. Ненавидить джинів.\t0"
+  },
+  {
+    "var": "CRTRAITS_Devil",
+    "en": "Devil\tDevils\t0\t1\t0\t0\t0\t0\t2700\t3759\t5101\t1\t0\t160\t11\t19\t21\t30\t40\t0\t0\t4\t10\t-1 enemy luck. No enemy retaliation. Hates Angels.\tFLYING_ARMY | KING_2",
+    "ua": "Диявол\tДияволів\t0\t1\t0\t0\t0\t0\t2700\t3759\t5101\t1\t0\t160\t11\t19\t21\t30\t40\t0\t0\t4\t10\t-1 до ворожої удачі. Ворог не відповідає. Ненавидить Ангелів.\tFLYING_ARMY | KING_2"
+  },
+  {
+    "var": "CRTRAITS_Arch Devil",
+    "en": "Arch Devil\tArch Devils\t0\t2\t0\t0\t0\t0\t4500\t5243\t7115\t1\t0\t200\t17\t26\t28\t30\t40\t0\t0\t3\t8\t-1 enemy luck. No enemy retaliation. Hates Angels.\tFLYING_ARMY | KING_2",
+    "ua": "Архідиявол\tАрхідияволів\t0\t2\t0\t0\t0\t0\t4500\t5243\t7115\t1\t0\t200\t17\t26\t28\t30\t40\t0\t0\t3\t8\t-1 до ворожої удачі. Ворог не відповідає. Ненавидить Ангелів.\tFLYING_ARMY | KING_2"
+  },
+  {
+    "var": "CRTRAITS_68",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_69",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_70",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_Skeleton",
+    "en": "Skeleton\tSkeletons\t0\t0\t0\t0\t0\t0\t60\t75\t60\t12\t6\t6\t4\t5\t4\t1\t3\t0\t0\t20\t50\tUndead.\tIS_UNDEAD",
+    "ua": "Скелет\tСкелетів\t0\t0\t0\t0\t0\t0\t60\t75\t60\t12\t6\t6\t4\t5\t4\t1\t3\t0\t0\t20\t50\tНежить.\tIS_UNDEAD"
+  },
+  {
+    "var": "CRTRAITS_Skeleton Warrior",
+    "en": "Skeleton Warrior\tSkeleton Warriors\t0\t0\t0\t0\t0\t0\t70\t85\t85\t12\t6\t6\t5\t6\t6\t1\t3\t0\t0\t20\t30\tUndead.\tIS_UNDEAD",
+    "ua": "Скелет воїн\tСкелетів воїнів\t0\t0\t0\t0\t0\t0\t70\t85\t85\t12\t6\t6\t5\t6\t6\t1\t3\t0\t0\t20\t30\tНежить.\tIS_UNDEAD"
+  },
+  {
+    "var": "CRTRAITS_Walking Dead",
+    "en": "Walking Dead\tWalking Dead\t0\t0\t0\t0\t0\t0\t100\t140\t98\t8\t0\t15\t3\t5\t5\t2\t3\t0\t0\t16\t30\tUndead.\tIS_UNDEAD",
+    "ua": "Ходячий мрець\tХодячих мерців\t0\t0\t0\t0\t0\t0\t100\t140\t98\t8\t0\t15\t3\t5\t5\t2\t3\t0\t0\t16\t30\tНежить.\tIS_UNDEAD"
+  },
+  {
+    "var": "CRTRAITS_Zombie",
+    "en": "Zombie\tZombies\t0\t0\t0\t0\t0\t0\t125\t160\t128\t8\t0\t20\t4\t5\t5\t2\t3\t0\t0\t16\t25\t\"Undead.\nDisease.\"\tIS_UNDEAD",
+    "ua": "Зомбі\tЗомбі\t0\t0\t0\t0\t0\t0\t125\t160\t128\t8\t0\t20\t4\t5\t5\t2\t3\t0\t0\t16\t25\t\"Нежить, \nзараза.\"\tIS_UNDEAD"
+  },
+  {
+    "var": "CRTRAITS_Wight",
+    "en": "Wight\tWights\t0\t0\t0\t0\t0\t0\t200\t231\t252\t7\t0\t18\t5\t7\t7\t3\t5\t0\t0\t12\t25\tUndead.  Regenerating.\tFLYING_ARMY | IS_UNDEAD",
+    "ua": "Примара\tПримар\t0\t0\t0\t0\t0\t0\t200\t231\t252\t7\t0\t18\t5\t7\t7\t3\t5\t0\t0\t12\t25\tНежить. Відновлення здоров'я.\tFLYING_ARMY | IS_UNDEAD"
+  },
+  {
+    "var": "CRTRAITS_Wraith",
+    "en": "Wraith\tWraiths\t0\t0\t0\t0\t0\t0\t230\t252\t315\t7\t0\t18\t7\t7\t7\t3\t5\t0\t0\t12\t20\t\"Undead.  Regenerating.\nDrains enemy mana.\"\tFLYING_ARMY | IS_UNDEAD",
+    "ua": "Привид\tПривидів\t0\t0\t0\t0\t0\t0\t230\t252\t315\t7\t0\t18\t7\t7\t7\t3\t5\t0\t0\t12\t20\t\"Нежить. Відновлення здоров'я. \nВикрадання мани.\"\tFLYING_ARMY | IS_UNDEAD"
+  },
+  {
+    "var": "CRTRAITS_Vampire",
+    "en": "Vampire\tVampires\t0\t0\t0\t0\t0\t0\t360\t518\t555\t4\t0\t30\t6\t10\t9\t5\t8\t0\t0\t10\t20\t\"Undead.\nNo enemy retaliation.\"\tFLYING_ARMY | IS_UNDEAD",
+    "ua": "Вампір\tВампірів\t0\t0\t0\t0\t0\t0\t360\t518\t555\t4\t0\t30\t6\t10\t9\t5\t8\t0\t0\t10\t20\t\"Нежить. \nВорог не відповідає.\"\tFLYING_ARMY | IS_UNDEAD"
+  },
+  {
+    "var": "CRTRAITS_Vampire Lord",
+    "en": "Vampire Lord\tVampire Lords\t0\t0\t0\t0\t0\t0\t500\t652\t783\t4\t0\t40\t9\t10\t10\t5\t8\t0\t0\t10\t16\t\"Undead.  Drains life.\nNo enemy retaliation.\"\tFLYING_ARMY | IS_UNDEAD",
+    "ua": "Лорд вампірів\tЛордів вампірів\t0\t0\t0\t0\t0\t0\t500\t652\t783\t4\t0\t40\t9\t10\t10\t5\t8\t0\t0\t10\t16\t\"Нежить. Висмоктує життя. \nВорог не відповідає.\"\tFLYING_ARMY | IS_UNDEAD"
+  },
+  {
+    "var": "CRTRAITS_Lich",
+    "en": "Lich\tLiches\t0\t0\t0\t0\t0\t0\t550\t742\t848\t3\t0\t30\t6\t13\t10\t11\t13\t12\t0\t8\t16\tUndead.  Death cloud attack.\tSHOOTING_ARMY | IS_UNDEAD",
+    "ua": "Ліч\tЛічів\t0\t0\t0\t0\t0\t0\t550\t742\t848\t3\t0\t30\t6\t13\t10\t11\t13\t12\t0\t8\t16\tНежить. Атакує хмарою смерті.\tSHOOTING_ARMY | IS_UNDEAD"
+  },
+  {
+    "var": "CRTRAITS_Power Lich",
+    "en": "Power Lich\tPower Liches\t0\t0\t0\t0\t0\t0\t600\t889\t1079\t3\t0\t40\t7\t13\t10\t11\t15\t24\t0\t8\t12\tUndead.  Death cloud attack.\tSHOOTING_ARMY | IS_UNDEAD",
+    "ua": "Архіліч\tАрхілічів\t0\t0\t0\t0\t0\t0\t600\t889\t1079\t3\t0\t40\t7\t13\t10\t11\t15\t24\t0\t8\t12\tНежить. Атакує хмарою смерті.\tSHOOTING_ARMY | IS_UNDEAD"
+  },
+  {
+    "var": "CRTRAITS_Black Knight",
+    "en": "Black Knight\tBlack Knights\t0\t0\t0\t0\t0\t0\t1200\t1753\t2087\t2\t0\t120\t7\t16\t16\t15\t30\t0\t0\t5\t12\tUndead.  Curses enemies.\tDOUBLE_WIDE | IS_UNDEAD",
+    "ua": "Чорний лицар\tЧорних лицарів\t0\t0\t0\t0\t0\t0\t1200\t1753\t2087\t2\t0\t120\t7\t16\t16\t15\t30\t0\t0\t5\t12\tНежить. Прокляття.\tDOUBLE_WIDE | IS_UNDEAD"
+  },
+  {
+    "var": "CRTRAITS_Dread Knight",
+    "en": "Dread Knight\tDread Knights\t0\t0\t0\t0\t0\t0\t1500\t2029\t2382\t2\t0\t120\t9\t18\t18\t15\t30\t0\t0\t5\t10\t\"Undead.  Curses enemies.  \nDeath Blow attack.\"\tDOUBLE_WIDE | IS_UNDEAD",
+    "ua": "Лицар страху\tЛицарів страху\t0\t0\t0\t0\t0\t0\t1500\t2029\t2382\t2\t0\t120\t9\t18\t18\t15\t30\t0\t0\t5\t10\t\"Нежить. Прокляття. \nСмертельний удар.\"\tDOUBLE_WIDE | IS_UNDEAD"
+  },
+  {
+    "var": "CRTRAITS_Bone Dragon",
+    "en": "Bone Dragon\tBone Dragons\t0\t0\t0\t0\t0\t0\t1800\t2420\t3388\t1\t0\t150\t9\t17\t15\t25\t50\t0\t0\t4\t10\tUndead.  -1 to enemy morale.\tDOUBLE_WIDE | IS_UNDEAD | const_lowers_morale | FLYING_ARMY | KING_1",
+    "ua": "Кістяний дракон\tКістяних драконів\t0\t0\t0\t0\t0\t0\t1800\t2420\t3388\t1\t0\t150\t9\t17\t15\t25\t50\t0\t0\t4\t10\tНежить. -1 до моралі ворога.\tDOUBLE_WIDE | IS_UNDEAD | const_lowers_morale | FLYING_ARMY | KING_1"
+  },
+  {
+    "var": "CRTRAITS_Ghost Dragon",
+    "en": "Ghost Dragon\tGhost Dragons\t0\t1\t0\t0\t0\t0\t3000\t3228\t4696\t1\t0\t200\t14\t19\t17\t25\t50\t0\t0\t3\t8\tUndead.  -1 to enemy morale.  Attack ages enemies.\tDOUBLE_WIDE | IS_UNDEAD | const_lowers_morale | FLYING_ARMY | KING_1",
+    "ua": "Дракон привид\tДраконів привидів\t0\t1\t0\t0\t0\t0\t3000\t3228\t4696\t1\t0\t200\t14\t19\t17\t25\t50\t0\t0\t3\t8\t\"Нежить. -1 до моралі ворога. Атака зістарює ворогів.\"\tDOUBLE_WIDE | IS_UNDEAD | const_lowers_morale | FLYING_ARMY | KING_1"
+  },
+  {
+    "var": "CRTRAITS_85",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_86",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_87",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_Troglodyte",
+    "en": "Troglodyte\tTroglodytes\t0\t0\t0\t0\t0\t0\t50\t73\t59\t14\t7\t5\t4\t4\t3\t1\t3\t0\t0\t20\t50\tImmune to Blinding.\t0",
+    "ua": "Троглодит\tТроглодитів\t0\t0\t0\t0\t0\t0\t50\t73\t59\t14\t7\t5\t4\t4\t3\t1\t3\t0\t0\t20\t50\tІмунітет до сліпоти.\t0"
+  },
+  {
+    "var": "CRTRAITS_Infernal Troglodyte",
+    "en": "Infernal Troglodyte\tInfernal Troglodytes\t0\t0\t0\t0\t0\t0\t65\t84\t84\t14\t7\t6\t5\t5\t4\t1\t3\t0\t0\t20\t30\tImmune to Blinding.\t0",
+    "ua": "Пекельний троглодит\tПекельних троглодитів\t0\t0\t0\t0\t0\t0\t65\t84\t84\t14\t7\t6\t5\t5\t4\t1\t3\t0\t0\t20\t30\tІмунітет до сліпоти.\t0"
+  },
+  {
+    "var": "CRTRAITS_Harpy",
+    "en": "Harpy\tHarpies\t0\t0\t0\t0\t0\t0\t130\t140\t154\t8\t0\t14\t6\t6\t5\t1\t4\t0\t0\t16\t30\tStrike and return.\tFLYING_ARMY",
+    "ua": "Гарпія\tГарпій\t0\t0\t0\t0\t0\t0\t130\t140\t154\t8\t0\t14\t6\t6\t5\t1\t4\t0\t0\t16\t30\tБ'є та повертається.\tFLYING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Harpy Hag",
+    "en": "Harpy Hag\tHarpy Hags\t0\t0\t0\t0\t0\t0\t170\t196\t238\t8\t0\t14\t9\t6\t6\t1\t4\t0\t0\t16\t25\t\"Strike and return.\nNo enemy retaliation.\"\tFLYING_ARMY",
+    "ua": "Фурія\tФурій\t0\t0\t0\t0\t0\t0\t170\t196\t238\t8\t0\t14\t9\t6\t6\t1\t4\t0\t0\t16\t25\t\"Б'є та повертається.\nВорог не відповідає.\"\tFLYING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Beholder",
+    "en": "Beholder\tBeholders\t0\t0\t0\t0\t0\t0\t250\t240\t336\t7\t0\t22\t5\t9\t7\t3\t5\t12\t0\t12\t25\tNo melee penalty.\tSHOOTING_ARMY | const_no_melee_penalty",
+    "ua": "Спостерігач\tСпостерігачів\t0\t0\t0\t0\t0\t0\t250\t240\t336\t7\t0\t22\t5\t9\t7\t3\t5\t12\t0\t12\t25\tНемає штрафу за ближній бій.\tSHOOTING_ARMY | const_no_melee_penalty"
+  },
+  {
+    "var": "CRTRAITS_Evil Eye",
+    "en": "Evil Eye\tEvil Eyes\t0\t0\t0\t0\t0\t0\t280\t245\t367\t7\t0\t22\t7\t10\t8\t3\t5\t24\t0\t12\t20\tNo melee penalty.\tSHOOTING_ARMY | const_no_melee_penalty",
+    "ua": "Зле око\tЗлих очей\t0\t0\t0\t0\t0\t0\t280\t245\t367\t7\t0\t22\t7\t10\t8\t3\t5\t24\t0\t12\t20\tНемає штрафу за ближній бій.\tSHOOTING_ARMY | const_no_melee_penalty"
+  },
+  {
+    "var": "CRTRAITS_Medusa",
+    "en": "Medusa\tMedusas\t0\t0\t0\t0\t0\t0\t300\t379\t517\t4\t0\t25\t5\t9\t9\t6\t8\t4\t0\t10\t20\t\"No melee penalty.\nStone gaze.\"\tDOUBLE_WIDE | SHOOTING_ARMY | const_no_melee_penalty",
+    "ua": "Медуза\tМедуз\t0\t0\t0\t0\t0\t0\t300\t379\t517\t4\t0\t25\t5\t9\t9\t6\t8\t4\t0\t10\t20\t\"Немає штрафу за ближній бій.\nКам'яний погляд.\"\tDOUBLE_WIDE | SHOOTING_ARMY | const_no_melee_penalty"
+  },
+  {
+    "var": "CRTRAITS_Medusa Queen",
+    "en": "Medusa Queen\tMedusa Queens\t0\t0\t0\t0\t0\t0\t330\t423\t577\t4\t0\t30\t6\t10\t10\t6\t8\t8\t0\t10\t16\t\"No melee penalty.\nStone gaze.\"\tDOUBLE_WIDE | SHOOTING_ARMY | const_no_melee_penalty",
+    "ua": "Королева медуз\tКоролев медуз\t0\t0\t0\t0\t0\t0\t330\t423\t577\t4\t0\t30\t6\t10\t10\t6\t8\t8\t0\t10\t16\t\"Немає штрафу за ближній бій.\nКам'яний погляд.\"\tDOUBLE_WIDE | SHOOTING_ARMY | const_no_melee_penalty"
+  },
+  {
+    "var": "CRTRAITS_Minotaur",
+    "en": "Minotaur\tMinotaurs\t0\t0\t0\t0\t0\t0\t500\t835\t835\t3\t0\t50\t6\t14\t12\t12\t20\t0\t0\t8\t16\tGood morale.\t0",
+    "ua": "Мінотавр\tМінотаврів\t0\t0\t0\t0\t0\t0\t500\t835\t835\t3\t0\t50\t6\t14\t12\t12\t20\t0\t0\t8\t16\tВисока мораль.\t0"
+  },
+  {
+    "var": "CRTRAITS_Minotaur King",
+    "en": "Minotaur King\tMinotaur Kings\t0\t0\t0\t0\t0\t0\t575\t890\t1068\t3\t0\t50\t8\t15\t15\t12\t20\t0\t0\t8\t12\tGood morale.\t0",
+    "ua": "Король мінотаврів\tКоролів мінотаврів\t0\t0\t0\t0\t0\t0\t575\t890\t1068\t3\t0\t50\t8\t15\t15\t12\t20\t0\t0\t8\t12\tВисока мораль.\t0"
+  },
+  {
+    "var": "CRTRAITS_Manticore",
+    "en": "Manticore\tManticores\t0\t0\t0\t0\t0\t0\t850\t1215\t1547\t2\t0\t80\t7\t15\t13\t14\t20\t0\t0\t5\t12\t\tDOUBLE_WIDE | FLYING_ARMY",
+    "ua": "Мантикор\tМантикорів\t0\t0\t0\t0\t0\t0\t850\t1215\t1547\t2\t0\t80\t7\t15\t13\t14\t20\t0\t0\t5\t12\t\tDOUBLE_WIDE | FLYING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Scorpicore",
+    "en": "Scorpicore\tScorpicores\t0\t0\t0\t0\t0\t0\t1050\t1248\t1589\t2\t0\t80\t11\t16\t14\t14\t20\t0\t0\t5\t10\tParalyzing venom.\tDOUBLE_WIDE | FLYING_ARMY",
+    "ua": "Скорпікор\tСкорпікорів\t0\t0\t0\t0\t0\t0\t1050\t1248\t1589\t2\t0\t80\t11\t16\t14\t14\t20\t0\t0\t5\t10\tПаралізуюча отрута.\tDOUBLE_WIDE | FLYING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Red Dragon",
+    "en": "Red Dragon\tRed Dragons\t0\t0\t0\t1\t0\t0\t2500\t3762\t4702\t1\t0\t180\t11\t19\t19\t40\t50\t0\t0\t4\t10\tImmune to spell levels 1-3.\tDOUBLE_WIDE | FLYING_ARMY | KING_1",
+    "ua": "Червоний дракон\tЧервоних драконів\t0\t0\t0\t1\t0\t0\t2500\t3762\t4702\t1\t0\t180\t11\t19\t19\t40\t50\t0\t0\t4\t10\tІмунітет до заклять 1-3 рівня.\tDOUBLE_WIDE | FLYING_ARMY | KING_1"
+  },
+  {
+    "var": "CRTRAITS_Black Dragon",
+    "en": "Black Dragon\tBlack Dragons\t0\t0\t0\t2\t0\t0\t4000\t6783\t8721\t1\t0\t300\t15\t25\t25\t40\t50\t0\t0\t3\t8\tImmune to all spells.\tDOUBLE_WIDE | FLYING_ARMY | KING_1",
+    "ua": "Чорний дракон\tЧорних драконів\t0\t0\t0\t2\t0\t0\t4000\t6783\t8721\t1\t0\t300\t15\t25\t25\t40\t50\t0\t0\t3\t8\tІмунітет до всіх заклять.\tDOUBLE_WIDE | FLYING_ARMY | KING_1"
+  },
+  {
+    "var": "CRTRAITS_102",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_103",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_104",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_Goblin",
+    "en": "Goblin\tGoblins\t0\t0\t0\t0\t0\t0\t40\t60\t60\t15\t8\t5\t5\t4\t2\t1\t2\t0\t0\t20\t50\t\t0",
+    "ua": "Гоблін\tГоблінів\t0\t0\t0\t0\t0\t0\t40\t60\t60\t15\t8\t5\t5\t4\t2\t1\t2\t0\t0\t20\t50\t\t0"
+  },
+  {
+    "var": "CRTRAITS_Hobgoblin",
+    "en": "Hobgoblin\tHobgoblins\t0\t0\t0\t0\t0\t0\t50\t65\t78\t15\t8\t5\t7\t5\t3\t1\t2\t0\t0\t20\t30\t\t0",
+    "ua": "Хобгоблін\tХобгоблінів\t0\t0\t0\t0\t0\t0\t50\t65\t78\t15\t8\t5\t7\t5\t3\t1\t2\t0\t0\t20\t30\t\t0"
+  },
+  {
+    "var": "CRTRAITS_Wolf Rider",
+    "en": "Wolf Rider\tWolf Riders\t0\t0\t0\t0\t0\t0\t100\t130\t130\t9\t0\t10\t6\t7\t5\t2\t4\t0\t0\t16\t30\t\tDOUBLE_WIDE",
+    "ua": "Вовчий вершник\tВовчих вершників\t0\t0\t0\t0\t0\t0\t100\t130\t130\t9\t0\t10\t6\t7\t5\t2\t4\t0\t0\t16\t30\t\tDOUBLE_WIDE"
+  },
+  {
+    "var": "CRTRAITS_Wolf Raider",
+    "en": "Wolf Raider\tWolf Raiders\t0\t0\t0\t0\t0\t0\t140\t174\t203\t9\t0\t10\t8\t8\t5\t3\t4\t0\t0\t16\t25\tStrikes twice\tDOUBLE_WIDE",
+    "ua": "Вовчий рейдер\tВовчих рейдерів\t0\t0\t0\t0\t0\t0\t140\t174\t203\t9\t0\t10\t8\t8\t5\t3\t4\t0\t0\t16\t25\tБ'є двічі\tDOUBLE_WIDE"
+  },
+  {
+    "var": "CRTRAITS_Orc",
+    "en": "Orc\tOrcs\t0\t0\t0\t0\t0\t0\t150\t175\t192\t7\t0\t15\t4\t8\t4\t2\t5\t12\t0\t12\t25\t\tSHOOTING_ARMY",
+    "ua": "Орк\tОрків\t0\t0\t0\t0\t0\t0\t150\t175\t192\t7\t0\t15\t4\t8\t4\t2\t5\t12\t0\t12\t25\t\tSHOOTING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Orc Chieftain",
+    "en": "Orc Chieftain\tOrc Chieftains\t0\t0\t0\t0\t0\t0\t165\t200\t240\t7\t0\t20\t5\t8\t4\t2\t5\t24\t0\t12\t20\t\tSHOOTING_ARMY",
+    "ua": "Вождь орків\tВождів орків\t0\t0\t0\t0\t0\t0\t165\t200\t240\t7\t0\t20\t5\t8\t4\t2\t5\t24\t0\t12\t20\t\tSHOOTING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Ogre",
+    "en": "Ogre\tOgres\t0\t0\t0\t0\t0\t0\t300\t520\t416\t4\t0\t40\t4\t13\t7\t6\t12\t0\t0\t10\t20\t\t0",
+    "ua": "Огр\tОгрів\t0\t0\t0\t0\t0\t0\t300\t520\t416\t4\t0\t40\t4\t13\t7\t6\t12\t0\t0\t10\t20\t\t0"
+  },
+  {
+    "var": "CRTRAITS_Ogre Mage",
+    "en": "Ogre Mage\tOgre Magi\t0\t0\t0\t0\t0\t0\t400\t672\t672\t4\t0\t60\t5\t13\t7\t6\t12\t0\t3\t10\t16\tSpellcaster: Bloodlust.\t0",
+    "ua": "Маг огрів\tМагів огрів\t0\t0\t0\t0\t0\t0\t400\t672\t672\t4\t0\t60\t5\t13\t7\t6\t12\t0\t3\t10\t16\tМагія: жага крові.\t0"
+  },
+  {
+    "var": "CRTRAITS_Roc",
+    "en": "Roc\tRocs\t0\t0\t0\t0\t0\t0\t600\t790\t1027\t3\t0\t60\t7\t13\t11\t11\t15\t0\t0\t8\t16\t\tFLYING_ARMY | DOUBLE_WIDE",
+    "ua": "Птах Рух\tПтахів Рух\t0\t0\t0\t0\t0\t0\t600\t790\t1027\t3\t0\t60\t7\t13\t11\t11\t15\t0\t0\t8\t16\t\tFLYING_ARMY | DOUBLE_WIDE"
+  },
+  {
+    "var": "CRTRAITS_Thunderbird",
+    "en": "Thunderbird\tThunderbirds\t0\t0\t0\t0\t0\t0\t700\t869\t1106\t3\t0\t60\t11\t13\t11\t11\t15\t0\t0\t8\t12\tLightning strike.\tFLYING_ARMY | DOUBLE_WIDE",
+    "ua": "Буревісник\tБуревісників\t0\t0\t0\t0\t0\t0\t700\t869\t1106\t3\t0\t60\t11\t13\t11\t11\t15\t0\t0\t8\t12\tБлискавка.\tFLYING_ARMY | DOUBLE_WIDE"
+  },
+  {
+    "var": "CRTRAITS_Cyclops",
+    "en": "Cyclops\tCyclopes\t0\t0\t0\t0\t0\t0\t750\t1055\t1266\t2\t0\t70\t6\t15\t12\t16\t20\t16\t0\t5\t12\tAttacks siege walls.\tSHOOTING_ARMY | CATAPULT",
+    "ua": "Циклоп\tЦиклопів\t0\t0\t0\t0\t0\t0\t750\t1055\t1266\t2\t0\t70\t6\t15\t12\t16\t20\t16\t0\t5\t12\tАтакує стіни фортеці.\tSHOOTING_ARMY | CATAPULT"
+  },
+  {
+    "var": "CRTRAITS_Cyclops King",
+    "en": "Cyclops King\tCyclops Kings\t0\t0\t0\t0\t0\t0\t1100\t1110\t1443\t2\t0\t70\t8\t17\t13\t16\t20\t24\t0\t5\t10\tAttacks siege walls.\tSHOOTING_ARMY | CATAPULT",
+    "ua": "Король циклопів\tКоролів циклопів\t0\t0\t0\t0\t0\t0\t1100\t1110\t1443\t2\t0\t70\t8\t17\t13\t16\t20\t24\t0\t5\t10\tАтакує стіни фортеці.\tSHOOTING_ARMY | CATAPULT"
+  },
+  {
+    "var": "CRTRAITS_Behemoth",
+    "en": "Behemoth\tBehemoths\t0\t0\t0\t0\t0\t0\t1500\t3162\t3162\t1\t0\t160\t6\t17\t17\t30\t50\t0\t0\t4\t10\tTarget enemy's defense is reduced 40%.\tDOUBLE_WIDE | KING_1",
+    "ua": "Чудовисько\tЧудовиськ\t0\t0\t0\t0\t0\t0\t1500\t3162\t3162\t1\t0\t160\t6\t17\t17\t30\t50\t0\t0\t4\t10\tЗахист обраного ворога зменшується на 40%.\tDOUBLE_WIDE | KING_1"
+  },
+  {
+    "var": "CRTRAITS_Ancient Behemoth",
+    "en": "Ancient Behemoth\tAncient Behemoths\t0\t0\t0\t0\t1\t0\t3000\t5397\t6168\t1\t0\t300\t9\t19\t19\t30\t50\t0\t0\t3\t8\tTarget enemy's defense is reduced 80%.\tDOUBLE_WIDE | KING_1",
+    "ua": "Древнє чудовисько\tДревніх чудовиськ\t0\t0\t0\t0\t1\t0\t3000\t5397\t6168\t1\t0\t300\t9\t19\t19\t30\t50\t0\t0\t3\t8\tЗахист обраного ворога зменшується на 80%.\tDOUBLE_WIDE | KING_1"
+  },
+  {
+    "var": "CRTRAITS_119",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_120",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_121",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_Gnoll",
+    "en": "Gnoll\tGnolls\t0\t0\t0\t0\t0\t0\t50\t70\t56\t12\t6\t6\t4\t3\t5\t2\t3\t0\t0\t20\t50\t\t0",
+    "ua": "Гнол\tГнолів\t0\t0\t0\t0\t0\t0\t50\t70\t56\t12\t6\t6\t4\t3\t5\t2\t3\t0\t0\t20\t50\t\t0"
+  },
+  {
+    "var": "CRTRAITS_Gnoll Marauder",
+    "en": "Gnoll Marauder\tGnoll Marauders\t0\t0\t0\t0\t0\t0\t70\t90\t90\t12\t6\t6\t5\t4\t6\t2\t3\t0\t0\t20\t30\t\t0",
+    "ua": "Гнол мародер\tГнолів мародерів\t0\t0\t0\t0\t0\t0\t70\t90\t90\t12\t6\t6\t5\t4\t6\t2\t3\t0\t0\t20\t30\t\t0"
+  },
+  {
+    "var": "CRTRAITS_Lizardman",
+    "en": "Lizardman\tLizardmen\t0\t0\t0\t0\t0\t0\t110\t115\t126\t9\t0\t14\t4\t5\t6\t2\t3\t12\t0\t16\t30\t\tSHOOTING_ARMY",
+    "ua": "Ящір\tЯщірів\t0\t0\t0\t0\t0\t0\t110\t115\t126\t9\t0\t14\t4\t5\t6\t2\t3\t12\t0\t16\t30\t\tSHOOTING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Lizard Warrior",
+    "en": "Lizard Warrior\tLizard Warriors\t0\t0\t0\t0\t0\t0\t140\t130\t156\t9\t0\t15\t5\t6\t8\t2\t5\t24\t0\t16\t25\t\tSHOOTING_ARMY",
+    "ua": "Ящір воїн\tЯщірів воїнів\t0\t0\t0\t0\t0\t0\t140\t130\t156\t9\t0\t15\t5\t6\t8\t2\t5\t24\t0\t16\t25\t\tSHOOTING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Gorgon",
+    "en": "Gorgon\tGorgons\t0\t0\t0\t0\t0\t0\t525\t890\t890\t3\t0\t70\t5\t10\t14\t12\t16\t0\t0\t12\t25\t\tDOUBLE_WIDE",
+    "ua": "Горгона\tГоргон\t0\t0\t0\t0\t0\t0\t525\t890\t890\t3\t0\t70\t5\t10\t14\t12\t16\t0\t0\t12\t25\t\tDOUBLE_WIDE"
+  },
+  {
+    "var": "CRTRAITS_Mighty Gorgon",
+    "en": "Mighty Gorgon\tMighty Gorgons\t0\t0\t0\t0\t0\t0\t600\t1028\t1028\t3\t0\t70\t6\t11\t16\t12\t16\t0\t0\t12\t20\tDeath stare.\tDOUBLE_WIDE",
+    "ua": "Могутня горгона\tМогутніх горгон\t0\t0\t0\t0\t0\t0\t600\t1028\t1028\t3\t0\t70\t6\t11\t16\t12\t16\t0\t0\t12\t20\tСмертельний погляд.\tDOUBLE_WIDE"
+  },
+  {
+    "var": "CRTRAITS_Serpent Fly",
+    "en": "Serpent Fly\tSerpent Flies\t0\t0\t0\t0\t0\t0\t220\t215\t268\t8\t0\t20\t9\t7\t9\t2\t5\t0\t0\t10\t20\tDispels beneficial spells.\tFLYING_ARMY",
+    "ua": "Зміємуха\tЗміємух\t0\t0\t0\t0\t0\t0\t220\t215\t268\t8\t0\t20\t9\t7\t9\t2\t5\t0\t0\t10\t20\tРозсіює корисні закляття.\tFLYING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Dragon Fly",
+    "en": "Dragon Fly\tDragon Flies\t0\t0\t0\t0\t0\t0\t240\t250\t312\t8\t0\t20\t13\t8\t10\t2\t5\t0\t0\t10\t16\tDispels beneficial spells.  Weakens enemies.\tFLYING_ARMY",
+    "ua": "Дракомуха\tДракомух\t0\t0\t0\t0\t0\t0\t240\t250\t312\t8\t0\t20\t13\t8\t10\t2\t5\t0\t0\t10\t16\tРозсіює корисні закляття.\tFLYING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Basilisk",
+    "en": "Basilisk\tBasilisks\t0\t0\t0\t0\t0\t0\t325\t506\t552\t4\t0\t35\t5\t11\t11\t6\t10\t0\t0\t8\t16\tPetrifying attack.\tDOUBLE_WIDE",
+    "ua": "Василіск\tВасилісків\t0\t0\t0\t0\t0\t0\t325\t506\t552\t4\t0\t35\t5\t11\t11\t6\t10\t0\t0\t8\t16\tПаралізуюча атака.\tDOUBLE_WIDE"
+  },
+  {
+    "var": "CRTRAITS_Greater Basilisk",
+    "en": "Greater Basilisk\tGreater Basilisks\t0\t0\t0\t0\t0\t0\t400\t561\t714\t4\t0\t40\t7\t12\t12\t6\t10\t0\t0\t8\t12\tPetrifying attack.\tDOUBLE_WIDE",
+    "ua": "Старший василіск\tСтарших василісків\t0\t0\t0\t0\t0\t0\t400\t561\t714\t4\t0\t40\t7\t12\t12\t6\t10\t0\t0\t8\t12\tПаралізуюча атака.\tDOUBLE_WIDE"
+  },
+  {
+    "var": "CRTRAITS_Wyvern",
+    "en": "Wyvern\tWyverns\t0\t0\t0\t0\t0\t0\t800\t1050\t1350\t2\t0\t70\t7\t14\t14\t14\t18\t0\t0\t5\t12\t\tDOUBLE_WIDE | FLYING_ARMY",
+    "ua": "Виверна\tВиверн\t0\t0\t0\t0\t0\t0\t800\t1050\t1350\t2\t0\t70\t7\t14\t14\t14\t18\t0\t0\t5\t12\t\tDOUBLE_WIDE | FLYING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Wyvern Monarch",
+    "en": "Wyvern Monarch\tWyvern Monarchs\t0\t0\t0\t0\t0\t0\t1100\t1181\t1518\t2\t0\t70\t11\t14\t14\t18\t22\t0\t0\t5\t10\tPoisonous.\tDOUBLE_WIDE | FLYING_ARMY",
+    "ua": "Виверна монарх\tВиверн монархів\t0\t0\t0\t0\t0\t0\t1100\t1181\t1518\t2\t0\t70\t11\t14\t14\t18\t22\t0\t0\t5\t10\tОтруйний.\tDOUBLE_WIDE | FLYING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Hydra",
+    "en": "Hydra\tHydras\t0\t0\t0\t0\t0\t0\t2200\t4120\t4120\t1\t0\t175\t5\t16\t18\t25\t45\t0\t0\t4\t10\tAttacks all adjacent enemies.  Enemies cannot retaliate.\tDOUBLE_WIDE | KING_1",
+    "ua": "Гідра\tГідр\t0\t0\t0\t0\t0\t0\t2200\t4120\t4120\t1\t0\t175\t5\t16\t18\t25\t45\t0\t0\t4\t10\tАтакує усіх ворогів, що стоять поруч. Ворог не відповідає.\tDOUBLE_WIDE | KING_1"
+  },
+  {
+    "var": "CRTRAITS_Chaos Hydra",
+    "en": "Chaos Hydra\tChaos Hydras\t0\t0\t0\t1\t0\t0\t3500\t5272\t5931\t1\t0\t250\t7\t18\t20\t25\t45\t0\t0\t3\t8\tAttacks all adjacent enemies.  Enemies cannot retaliate.\tDOUBLE_WIDE | KING_1",
+    "ua": "Гідра хаосу\tГідр хаосу\t0\t0\t0\t1\t0\t0\t3500\t5272\t5931\t1\t0\t250\t7\t18\t20\t25\t45\t0\t0\t3\t8\tАтакує усіх ворогів, що стоять поруч. Ворог не відповідає.\tDOUBLE_WIDE | KING_1"
+  },
+  {
+    "var": "CRTRAITS_136",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_137",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_138",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_Air Elemental",
+    "en": "Air Elemental\tAir Elementals\t0\t0\t0\t0\t0\t0\t250\t324\t356\t6\t0\t25\t7\t9\t9\t2\t8\t0\t0\t8\t12\tLightning and firestorm vulnerability.\t0",
+    "ua": "Повітряний елементаль\tПовітряних елементалів\t0\t0\t0\t0\t0\t0\t250\t324\t356\t6\t0\t25\t7\t9\t9\t2\t8\t0\t0\t8\t12\tВразливість до блискавки та вогню.\t0"
+  },
+  {
+    "var": "CRTRAITS_Earth Elemental",
+    "en": "Earth Elemental\tEarth Elementals\t0\t0\t0\t0\t0\t0\t400\t415\t330\t4\t0\t40\t4\t10\t10\t4\t8\t0\t0\t16\t30\tMeteor shower vulnerability.\t0",
+    "ua": "Земний елементаль\tЗемних елементалів\t0\t0\t0\t0\t0\t0\t400\t415\t330\t4\t0\t40\t4\t10\t10\t4\t8\t0\t0\t16\t30\tВразливість до метеоритного дощу.\t0"
+  },
+  {
+    "var": "CRTRAITS_Fire Elemental",
+    "en": "Fire Elemental\tFire Elementals\t0\t0\t0\t0\t0\t0\t350\t345\t345\t5\t0\t35\t6\t10\t8\t4\t6\t0\t0\t16\t25\t\"Immune to fire.\nVulnerable to ice.\"\t0",
+    "ua": "Вогненний елементаль\tВогненних елементалів\t0\t0\t0\t0\t0\t0\t350\t345\t345\t5\t0\t35\t6\t10\t8\t4\t6\t0\t0\t16\t25\t\"Імунітет до вогню. \nВразливісь до заморожування.\"\t0"
+  },
+  {
+    "var": "CRTRAITS_Water Elemental",
+    "en": "Water Elemental\tWater Elementals\t0\t0\t0\t0\t0\t0\t300\t315\t315\t6\t0\t30\t5\t8\t10\t3\t7\t0\t0\t12\t25\t\"Immune to ice.\nVulnerable to fire.\"\t0",
+    "ua": "Водний елементаль\tВодних елементалів\t0\t0\t0\t0\t0\t0\t300\t315\t315\t6\t0\t30\t5\t8\t10\t3\t7\t0\t0\t12\t25\t\"Імунітет до заморожування. \nВразливість до вогню.\"\t0"
+  },
+  {
+    "var": "CRTRAITS_Gold Golem",
+    "en": "Gold Golem\tGold Golems\t0\t0\t0\t0\t0\t0\t500\t600\t600\t3\t0\t50\t5\t11\t12\t8\t10\t0\t0\t10\t16\tDamage from spells reduced 85%.\t0",
+    "ua": "Золотий голем\tЗолотих големів\t0\t0\t0\t0\t0\t0\t500\t600\t600\t3\t0\t50\t5\t11\t12\t8\t10\t0\t0\t10\t16\tПошкодження від заклять зменшений на 85%.\t0"
+  },
+  {
+    "var": "CRTRAITS_Diamond Golem",
+    "en": "Diamond Golem\tDiamond Golems\t0\t0\t0\t0\t0\t0\t750\t775\t775\t2\t0\t60\t5\t13\t12\t10\t14\t0\t0\t8\t12\tDamage from spells reduced 95%.\t0",
+    "ua": "Діамантовий голем\tДіамантових големів\t0\t0\t0\t0\t0\t0\t750\t775\t775\t2\t0\t60\t5\t13\t12\t10\t14\t0\t0\t8\t12\tПошкодження від заклять зменшений на 95%.\t0"
+  },
+  {
+    "var": "CRTRAITS_145",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_146",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_147",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_Pixie",
+    "en": "Pixie\tPixies\t0\t0\t0\t0\t0\t0\t25\t40\t55\t20\t10\t3\t7\t2\t2\t1\t2\t0\t0\t20\t50\t\tFLYING_ARMY",
+    "ua": "Піксі\tПіксі\t0\t0\t0\t0\t0\t0\t25\t40\t55\t20\t10\t3\t7\t2\t2\t1\t2\t0\t0\t20\t50\t\tFLYING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Sprite",
+    "en": "Sprite\tSprites\t0\t0\t0\t0\t0\t0\t30\t70\t95\t20\t10\t3\t9\t2\t2\t1\t3\t0\t0\t20\t30\tNo enemy retaliation.\tFLYING_ARMY | const_free_attack",
+    "ua": "Фея\tФей\t0\t0\t0\t0\t0\t0\t30\t70\t95\t20\t10\t3\t9\t2\t2\t1\t3\t0\t0\t20\t30\tВорог не відповідає.\tFLYING_ARMY | const_free_attack"
+  },
+  {
+    "var": "CRTRAITS_Psychic Elemental",
+    "en": "Psychic Elemental\tPsychic Elementals\t0\t0\t0\t0\t0\t0\t750\t1431\t1669\t2\t0\t75\t7\t15\t13\t10\t20\t0\t0\t8\t16\tAttacks all adjacent enemies w/o retaliation. Mind spell immunity.\tIMMUNE_TO_MIND_SPELLS | DOUBLE_WIDE | const_free_attack | MULTI_HEADED",
+    "ua": "Психічний елементаль\tПсихічних елементалів\t0\t0\t0\t0\t0\t0\t750\t1431\t1669\t2\t0\t75\t7\t15\t13\t10\t20\t0\t0\t8\t16\t\"Атакує усіх ворогів, що стоять поруч, не отримуючи відповіді. Імунітет до розумових заклять.\"\tIMMUNE_TO_MIND_SPELLS | DOUBLE_WIDE | const_free_attack | MULTI_HEADED"
+  },
+  {
+    "var": "CRTRAITS_Magic Elemental",
+    "en": "Magic Elemental\tMagic Elementals\t0\t0\t0\t0\t0\t0\t800\t1724\t2012\t2\t0\t80\t9\t15\t13\t15\t25\t0\t0\t8\t12\tAttacks all adjacent enemies w/o retaliation. Spell immunity.\tIMMUNE_TO_MIND_SPELLS | DOUBLE_WIDE | const_free_attack | MULTI_HEADED",
+    "ua": "Магічний елементаль\tМагічних елементалів\t0\t0\t0\t0\t0\t0\t800\t1724\t2012\t2\t0\t80\t9\t15\t13\t15\t25\t0\t0\t8\t12\t\"Атакує усіх ворогів, що стоять поруч, не отримуючи відповіді. Імунітет до розумових заклять.\"\tIMMUNE_TO_MIND_SPELLS | DOUBLE_WIDE | const_free_attack | MULTI_HEADED"
+  },
+  {
+    "var": "CRTRAITS_NOT USED (1)",
+    "en": "NOT USED (1)\tNOT USED (1)\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t",
+    "ua": "NOT USED (1)\tNOT USED (1)\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t"
+  },
+  {
+    "var": "CRTRAITS_Ice Elemental",
+    "en": "Ice Elemental\tIce Elementals\t0\t0\t0\t0\t0\t0\t375\t315\t380\t6\t0\t30\t6\t8\t10\t3\t7\t24\t3\t12\t20\tMind spell immunity. Ice immunity. Fire vulnerability.\tIMMUNE_TO_MIND_SPELLS | SHOOTING_ARMY",
+    "ua": "Крижаний елементаль\tКрижаних елементалів\t0\t0\t0\t0\t0\t0\t375\t315\t380\t6\t0\t30\t6\t8\t10\t3\t7\t24\t3\t12\t20\t\"Імунітет до розумових заклять. Імунітет до заморожування. Вразливість до вогню.\"\tIMMUNE_TO_MIND_SPELLS | SHOOTING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_NOT USED (2)",
+    "en": "NOT USED (2) \tNOT USED (2)\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t",
+    "ua": "NOT USED (2) \tNOT USED (2)\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t"
+  },
+  {
+    "var": "CRTRAITS_Magma Elemental",
+    "en": "Magma Elemental\tMagma Elementals\t0\t0\t0\t0\t0\t0\t500\t490\t490\t4\t0\t40\t6\t11\t11\t6\t10\t0\t3\t16\t25\tMind spell immunity.  Casts protection from Earth.\tIMMUNE_TO_MIND_SPELLS",
+    "ua": "Магмовий елементаль\tМагмових елементалів\t0\t0\t0\t0\t0\t0\t500\t490\t490\t4\t0\t40\t6\t11\t11\t6\t10\t0\t3\t16\t25\t\"Імунітет до розумових заклять. Створює захист від Землі.\"\tIMMUNE_TO_MIND_SPELLS"
+  },
+  {
+    "var": "CRTRAITS_NOT USED (3)",
+    "en": "NOT USED (3)\tNOT USED (3)\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t",
+    "ua": "NOT USED (3)\tNOT USED (3)\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t"
+  },
+  {
+    "var": "CRTRAITS_Storm Elemental",
+    "en": "Storm Elemental\tStorm Elementals\t0\t0\t0\t0\t0\t0\t275\t324\t486\t6\t0\t25\t8\t9\t9\t2\t8\t24\t3\t6\t12\tNo melee penalty.  Lightning and firestorm vulnerability.\tIMMUNE_TO_MIND_SPELLS | SHOOTING_ARMY",
+    "ua": "Штормовий елементаль\tШтормових елементалів\t0\t0\t0\t0\t0\t0\t275\t324\t486\t6\t0\t25\t8\t9\t9\t2\t8\t24\t3\t6\t12\t\"Немає штрафу за ближній бій. Вразливість до блискавки та вогненного шторму.\"\tIMMUNE_TO_MIND_SPELLS | SHOOTING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_NOT USED (4)",
+    "en": "NOT USED (4)\tNOT USED (4)\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t",
+    "ua": "NOT USED (4)\tNOT USED (4)\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t"
+  },
+  {
+    "var": "CRTRAITS_Energy Elemental",
+    "en": "Energy Elemental\tEnergy Elementals\t0\t0\t0\t0\t0\t0\t400\t360\t470\t5\t0\t35\t8\t12\t8\t4\t6\t0\t3\t12\t25\t\"Casts Protect from Fire. Mind & fire immunity, cold vulnerability.\"\tIMMUNE_TO_MIND_SPELLS | IMMUNE_TO_FIRE_SPELLS | FLYING_ARMY",
+    "ua": "Енергетичний елемнталь\tЕнергетичних елементалів\t0\t0\t0\t0\t0\t0\t400\t360\t470\t5\t0\t35\t8\t12\t8\t4\t6\t0\t3\t12\t25\t\"Створює захист від Вогню. Імунітет до вогненних і розумових заклять, вразливість до заморожування.\"\tIMMUNE_TO_MIND_SPELLS | IMMUNE_TO_FIRE_SPELLS | FLYING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Firebird",
+    "en": "Firebird\tFirebirds\t0\t0\t0\t0\t0\t0\t1500\t3248\t4547\t2\t0\t150\t15\t18\t18\t30\t40\t0\t0\t4\t10\tBreath attack.  Fire spell immunity.\tIMMUNE_TO_FIRE_SPELLS | DOUBLE_WIDE | FLYING_ARMY | KING_1 | HAS_EXTENDED_ATTACK",
+    "ua": "Жарптиця\tЖарптиць\t0\t0\t0\t0\t0\t0\t1500\t3248\t4547\t2\t0\t150\t15\t18\t18\t30\t40\t0\t0\t4\t10\t\"Вогненний подих. Імунітет до вогненних заклять.\"\tIMMUNE_TO_FIRE_SPELLS | DOUBLE_WIDE | FLYING_ARMY | KING_1 | HAS_EXTENDED_ATTACK"
+  },
+  {
+    "var": "CRTRAITS_Phoenix",
+    "en": "Phoenix\tPhoenixes\t0\t1\t0\t0\t0\t0\t2000\t4929\t6721\t2\t0\t200\t21\t21\t18\t30\t40\t0\t1\t4\t10\tBreath attack.  Fire spell immunity.  Rebirth.\tIMMUNE_TO_FIRE_SPELLS | DOUBLE_WIDE | FLYING_ARMY | KING_1 | HAS_EXTENDED_ATTACK",
+    "ua": "Фенікс\tФеніксів\t0\t1\t0\t0\t0\t0\t2000\t4929\t6721\t2\t0\t200\t21\t21\t18\t30\t40\t0\t1\t4\t10\t\"Вогненний подих. Імунітет до вогненних заклять. Переродження.\"\tIMMUNE_TO_FIRE_SPELLS | DOUBLE_WIDE | FLYING_ARMY | KING_1 | HAS_EXTENDED_ATTACK"
+  },
+  {
+    "var": "CRTRAITS_162",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_163",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_164",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_Azure Dragon",
+    "en": "Azure Dragon\tAzure Dragons\t0\t20\t0\t0\t0\t0\t30000\t56315\t78845\t1\t0\t1000\t19\t50\t50\t70\t80\t0\t0\t1\t3\tFear.\tDOUBLE_WIDE | FLYING_ARMY | KING_1",
+    "ua": "Лазуровий дракон\tЛазурових драконів\t0\t20\t0\t0\t0\t0\t30000\t56315\t78845\t1\t0\t1000\t19\t50\t50\t70\t80\t0\t0\t1\t3\tСтрах.\tDOUBLE_WIDE | FLYING_ARMY | KING_1"
+  },
+  {
+    "var": "CRTRAITS_Crystal Dragon",
+    "en": "Crystal Dragon\tCrystal Dragons\t0\t0\t0\t0\t10\t0\t20000\t30260\t39338\t1\t0\t800\t16\t40\t40\t60\t75\t0\t0\t1\t3\tCrystal generation.\tDOUBLE_WIDE | FLYING_ARMY | KING_1",
+    "ua": "Кришталевий дракон\tКришталевих драконів\t0\t0\t0\t0\t10\t0\t20000\t30260\t39338\t1\t0\t800\t16\t40\t40\t60\t75\t0\t0\t1\t3\tПриносить кристали.\tDOUBLE_WIDE | FLYING_ARMY | KING_1"
+  },
+  {
+    "var": "CRTRAITS_Faerie Dragon",
+    "en": "Faerie Dragon\tFaerie Dragons\t0\t0\t0\t0\t0\t8\t10000\t16317\t19580\t1\t0\t500\t15\t20\t20\t20\t30\t0\t5\t1\t3\tOffensive spell caster.\tDOUBLE_WIDE | FLYING_ARMY | KING_1",
+    "ua": "Казковий дракон\tКазкових драконів\t0\t0\t0\t0\t0\t8\t10000\t16317\t19580\t1\t0\t500\t15\t20\t20\t20\t30\t0\t5\t1\t3\tВолодіє атакувальними закляттями.\tDOUBLE_WIDE | FLYING_ARMY | KING_1"
+  },
+  {
+    "var": "CRTRAITS_Rust Dragon",
+    "en": "Rust Dragon\tRust Dragons\t0\t0\t0\t14\t0\t0\t15000\t24030\t26433\t1\t0\t750\t17\t30\t30\t50\t50\t0\t0\t1\t3\tSpits acid.\tDOUBLE_WIDE | FLYING_ARMY | KING_1",
+    "ua": "Іржавий дракон\tІржавих драконів\t0\t0\t0\t14\t0\t0\t15000\t24030\t26433\t1\t0\t750\t17\t30\t30\t50\t50\t0\t0\t1\t3\tПлює кислотою.\tDOUBLE_WIDE | FLYING_ARMY | KING_1"
+  },
+  {
+    "var": "CRTRAITS_Enchanter",
+    "en": "Enchanter\tEnchanters\t0\t0\t0\t0\t0\t0\t750\t805\t1210\t2\t0\t30\t9\t17\t12\t14\t14\t32\t0\t5\t12\t\"No melee penalty.\nGroup spell casters.\"\tSHOOTING_ARMY | const_no_melee_penalty",
+    "ua": "Чародій\tЧародіїв\t0\t0\t0\t0\t0\t0\t750\t805\t1210\t2\t0\t30\t9\t17\t12\t14\t14\t32\t0\t5\t12\t\"Немає штрафу за ближній бій.\nВолодіє закляттями.\"\tSHOOTING_ARMY | const_no_melee_penalty"
+  },
+  {
+    "var": "CRTRAITS_Sharpshooter",
+    "en": "Sharpshooter\tSharpshooters\t0\t0\t0\t0\t0\t0\t400\t415\t585\t4\t0\t15\t9\t12\t10\t8\t10\t32\t0\t5\t12\tNo Range or Barrier penalties.\tSHOOTING_ARMY",
+    "ua": "Снайпер\tСнайперів\t0\t0\t0\t0\t0\t0\t400\t415\t585\t4\t0\t15\t9\t12\t10\t8\t10\t32\t0\t5\t12\tНемає штрафу за відстань чи перешкоди.\tSHOOTING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Halfling",
+    "en": "Halfling\tHalflings\t0\t0\t0\t0\t0\t0\t40\t60\t75\t15\t0\t4\t5\t4\t2\t1\t3\t24\t0\t20\t50\tPositive luck.\tSHOOTING_ARMY",
+    "ua": "Халфлінг\tХалфлінгів\t0\t0\t0\t0\t0\t0\t40\t60\t75\t15\t0\t4\t5\t4\t2\t1\t3\t24\t0\t20\t50\tПозитивна удача.\tSHOOTING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Peasant",
+    "en": "Peasant\tPeasants\t0\t0\t0\t0\t0\t0\t10\t15\t15\t25\t0\t1\t3\t1\t1\t1\t1\t0\t0\t20\t50\t\t",
+    "ua": "Селянин\tСелян\t0\t0\t0\t0\t0\t0\t10\t15\t15\t25\t0\t1\t3\t1\t1\t1\t1\t0\t0\t20\t50\t\t"
+  },
+  {
+    "var": "CRTRAITS_Boar",
+    "en": "Boar\tBoars\t0\t0\t0\t0\t0\t0\t150\t145\t145\t8\t0\t15\t6\t6\t5\t2\t3\t0\t0\t16\t30\t\t",
+    "ua": "Кабан\tКабанів\t0\t0\t0\t0\t0\t0\t150\t145\t145\t8\t0\t15\t6\t6\t5\t2\t3\t0\t0\t16\t30\t\t"
+  },
+  {
+    "var": "CRTRAITS_Mummy",
+    "en": "Mummy\tMummies\t0\t0\t0\t0\t0\t0\t300\t270\t270\t7\t0\t30\t5\t7\t7\t3\t5\t0\t0\t12\t25\tCurse.\t",
+    "ua": "Мумія\tМумій\t0\t0\t0\t0\t0\t0\t300\t270\t270\t7\t0\t30\t5\t7\t7\t3\t5\t0\t0\t12\t25\tПрокляття.\t"
+  },
+  {
+    "var": "CRTRAITS_Nomad",
+    "en": "Nomad\tNomads\t0\t0\t0\t0\t0\t0\t200\t285\t345\t7\t0\t30\t7\t9\t8\t2\t6\t0\t0\t12\t25\tSandwalkers.\t",
+    "ua": "Кочівник\tКочівників\t0\t0\t0\t0\t0\t0\t200\t285\t345\t7\t0\t30\t7\t9\t8\t2\t6\t0\t0\t12\t25\tШвидкий рух пустелею.\t"
+  },
+  {
+    "var": "CRTRAITS_Rogue",
+    "en": "Rogue\tRogues\t0\t0\t0\t0\t0\t0\t100\t135\t135\t8\t0\t10\t6\t8\t3\t2\t4\t0\t0\t16\t30\tSpying.\t",
+    "ua": "Розбійник\tРозбійників\t0\t0\t0\t0\t0\t0\t100\t135\t135\t8\t0\t10\t6\t8\t3\t2\t4\t0\t0\t16\t30\tШпигування.\t"
+  },
+  {
+    "var": "CRTRAITS_Troll",
+    "en": "Troll\tTrolls\t0\t0\t0\t0\t0\t0\t500\t1024\t1024\t3\t0\t40\t7\t14\t7\t10\t15\t0\t0\t8\t12\tRegenerating.\t",
+    "ua": "Троль\tТролів\t0\t0\t0\t0\t0\t0\t500\t1024\t1024\t3\t0\t40\t7\t14\t7\t10\t15\t0\t0\t8\t12\tРегенерація.\t"
+  },
+  {
+    "var": "CRTRAITS_178",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_179",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_180",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_Catapult",
+    "en": "Catapult\tCatapults\t0\t0\t0\t0\t0\t0\t1\t10\t500\t0\t0\t1000\t0\t10\t10\t0\t0\t24\t0\t0\t0\tAttacks siege walls.\tDOUBLE_WIDE | SHOOTING_ARMY | CATAPULT | SIEGE_WEAPON",
+    "ua": "Катапульта\tКатапульт\t0\t0\t0\t0\t0\t0\t1\t10\t500\t0\t0\t1000\t0\t10\t10\t0\t0\t24\t0\t0\t0\tАтакує стіни фортеці.\tDOUBLE_WIDE | SHOOTING_ARMY | CATAPULT | SIEGE_WEAPON"
+  },
+  {
+    "var": "CRTRAITS_Ballista",
+    "en": "Ballista\tBallistas\t0\t0\t0\t0\t0\t0\t2500\t650\t600\t0\t0\t250\t0\t10\t10\t2\t3\t24\t0\t0\t0\t\tDOUBLE_WIDE | SHOOTING_ARMY | SIEGE_WEAPON",
+    "ua": "Баліста\tБаліст\t0\t0\t0\t0\t0\t0\t2500\t650\t600\t0\t0\t250\t0\t10\t10\t2\t3\t24\t0\t0\t0\t\tDOUBLE_WIDE | SHOOTING_ARMY | SIEGE_WEAPON"
+  },
+  {
+    "var": "CRTRAITS_First Aid Tent",
+    "en": "First Aid Tent\tFirst Aid Tents\t0\t0\t0\t0\t0\t0\t750\t10\t300\t0\t0\t75\t0\t0\t0\t0\t0\t0\t0\t0\t0\tHeals troops.\tDOUBLE_WIDE | SIEGE_WEAPON",
+    "ua": "Намет допомоги\tНаметів допомоги\t0\t0\t0\t0\t0\t0\t750\t10\t300\t0\t0\t75\t0\t0\t0\t0\t0\t0\t0\t0\t0\tЛікує війська.\tDOUBLE_WIDE | SIEGE_WEAPON"
+  },
+  {
+    "var": "CRTRAITS_Ammo Cart",
+    "en": "Ammo Cart\tAmmo Carts\t0\t0\t0\t0\t0\t0\t1000\t5\t400\t0\t0\t100\t0\t0\t5\t0\t0\t0\t0\t0\t0\tUnlimited ammunition.\tSIEGE_WEAPON",
+    "ua": "Візок боєприпасів\tВізків боєприпасів\t0\t0\t0\t0\t0\t0\t1000\t5\t400\t0\t0\t100\t0\t0\t5\t0\t0\t0\t0\t0\t0\tНескінченні боєприпаси.\tSIEGE_WEAPON"
+  },
+  {
+    "var": "CRTRAITS_Arrow Tower",
+    "en": "Arrow Tower\tArrow Towers\t0\t0\t0\t0\t0\t0\t1000\t5\t400\t0\t0\t100\t0\t10\t5\t2\t4\t99\t0\t0\t0\tUnlimited ammunition.\tSIEGE_WEAPON",
+    "ua": "Стрілецька вежа\tСтрілецьких веж\t0\t0\t0\t0\t0\t0\t1000\t5\t400\t0\t0\t100\t0\t10\t5\t2\t4\t99\t0\t0\t0\tНескінченні боєприпаси.\tSIEGE_WEAPON"
+  }
+]

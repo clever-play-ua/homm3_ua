@@ -1,0 +1,147 @@
+[
+  {
+    "var": "BLDGNEUT_Mage Guild Level 1",
+    "en": "Mage Guild Level 1\tEntering the Mage Guild will allow a visiting hero to learn the spells kept within.",
+    "ua": "Гільдія Магів Рівень 1\tСтворення Гільдії Магів дозволить героєві відвідати її, для вивчення нових заклинань."
+  },
+  {
+    "var": "BLDGNEUT_Mage Guild Level 2",
+    "en": "Mage Guild Level 2\tEntering the Mage Guild will allow a visiting hero to learn the spells kept within.",
+    "ua": "Гільдія Магів Рівень 2\tСтворення Гільдії Магів дозволить героєві, який відвідає її, вивчити нові заклинання."
+  },
+  {
+    "var": "BLDGNEUT_Mage Guild Level 3",
+    "en": "Mage Guild Level 3\tEntering the Mage Guild will allow a visiting hero to learn the spells kept within.",
+    "ua": "Гільдія Магів Рівень 3\tСтворення Гільдії Магів дозволить героєві, який відвідає її, вивчити нові заклинання."
+  },
+  {
+    "var": "BLDGNEUT_Mage Guild Level 4",
+    "en": "Mage Guild Level 4\tEntering the Mage Guild will allow a visiting hero to learn the spells kept within.",
+    "ua": "Гільдія Магів Рівень 4\tСтворення Гільдії Магів дозволить героєві, який відвідає її, вивчити нові заклинання."
+  },
+  {
+    "var": "BLDGNEUT_Mage Guild Level 5",
+    "en": "Mage Guild Level 5\tEntering the Mage Guild will allow a visiting hero to learn the spells kept within.",
+    "ua": "Гільдія Магів Рівень 5\tСтворення Гільдії Магів дозволить героєві, який відвідає її, вивчити нові заклинання."
+  },
+  {
+    "var": "BLDGNEUT_Tavern",
+    "en": "Tavern\tThe Tavern increases morale for troops defending the city.",
+    "ua": "Таверна\tТаверна збільшує бойовий дух війська, яке стоїть на захисті міста."
+  },
+  {
+    "var": "BLDGNEUT_Shipyard",
+    "en": "Shipyard\tThe Shipyard allows you to purchase ships.",
+    "ua": "Верф\tВерф дозволяє будувати корабель в місті."
+  },
+  {
+    "var": "BLDGNEUT_Fort",
+    "en": "Fort\tThe Fort provides your town with defensive walls.",
+    "ua": "Форт\tФорт забезпечує ваше місто з фортечними стінами."
+  },
+  {
+    "var": "BLDGNEUT_Citadel",
+    "en": "Citadel\t\"Including a 50% increase to base creature growth, the Citadel adds a keep, and other terrain obstacles, to a town's defenses.\"",
+    "ua": "Цитадель\t\"Додаткові 50% до базового приросту населення. Цитадель додає укріплення для захисту міста.\""
+  },
+  {
+    "var": "BLDGNEUT_Castle",
+    "en": "Castle\t\"The Castle adds two arrow towers, fortifies your town's defenses, and doubles base creature growth.\"",
+    "ua": "Замок\t\"Замок додає дві стрілецькі вежі, зміцнює оборону вашого міста, і подвоює базовий приріст істот.\""
+  },
+  {
+    "var": "BLDGNEUT_Village Hall",
+    "en": "Village Hall\tThe Village Hall allows you to purchase town structures and earns your kingdom 500 gold per day.",
+    "ua": "Дім старійшин\tДім старійшин дозволяє будувати нові міські структури і приносить для вашого королівства 500 золотих на день."
+  },
+  {
+    "var": "BLDGNEUT_Town Hall",
+    "en": "Town Hall\tThe Town Hall allows you to purchase town structures and earns your kingdom 1000 gold per day.",
+    "ua": "Міська рада\tМіська Рада дозволяє будувати нові міські структури і приносить для вашого королівства 1000 золотих на день."
+  },
+  {
+    "var": "BLDGNEUT_City Hall",
+    "en": "City Hall\tThe City Hall allows you to purchase town structures and earns your kingdom 2000 gold per day.",
+    "ua": "Мерія\tМерія дозволяє будувати нові міські структури і приносить для вашого королівства 2000 золотих на день."
+  },
+  {
+    "var": "BLDGNEUT_Capitol",
+    "en": "Capitol\tThe Capitol earns your kingdom 4000 gold per day.",
+    "ua": "Столиця\tСтатус Столиці додає до вашої казни 4000 золотих на день."
+  },
+  {
+    "var": "BLDGNEUT_Marketplace",
+    "en": "Marketplace\t\"With the Marketplace, you can buy and sell resources (exchange rates increase with each Marketplace you own).\"",
+    "ua": "Ринок\t\"На Ринку ви можете купувати і продавати ресурси (обмінний курс стає вигіднішим, в залежності від кількості Ринків).\""
+  },
+  {
+    "var": "BLDGNEUT_16",
+    "en": "\t",
+    "ua": "\t"
+  },
+  {
+    "var": "BLDGNEUT_Blacksmith",
+    "en": "Blacksmith\tThe Blacksmith provides your armies with %s.",
+    "ua": "Кузня\tКоваль забезпечує вашу армію %s."
+  },
+  {
+    "var": "BLDGNEUT_Moat",
+    "en": "Moat\tThe Moat slows attacking units.  Any unit entering the moat must end its turn there and becomes more vulnerable to attack.",
+    "ua": "Рів\tРів уповільнює атакуючих.  Будь-який солдат припиняє свій хід і стає вразливим для атак."
+  },
+  {
+    "var": "BLDGNEUT_Shipyard with ship",
+    "en": "Shipyard with ship\tThe Shipyard allows you to purchase ships.",
+    "ua": "Док з кораблем\tДок дозволяє будувати корабель."
+  },
+  {
+    "var": "BLDGNEUT_Blacksmith",
+    "en": "Blacksmith\tThe Blacksmith provides your armies with Ballistas.",
+    "ua": "Кузня\tКузня забезпечує вашу армію балістами."
+  },
+  {
+    "var": "BLDGNEUT_Blacksmith",
+    "en": "Blacksmith\tThe Blacksmith provides your armies with First Aid Tents.",
+    "ua": "Кузня\tКузня забезпечує вашу армію наметами першої допомоги."
+  },
+  {
+    "var": "BLDGNEUT_Blacksmith",
+    "en": "Blacksmith\tThe Blacksmith provides your armies with Ammo Carts.",
+    "ua": "Кузня\tКузня забезпечує вашу армію балістами."
+  },
+  {
+    "var": "BLDGNEUT_Blacksmith",
+    "en": "Blacksmith\tThe Blacksmith provides your armies with Ammo Carts.",
+    "ua": "Кузня\tКузня забезпечує вашу армію візками з боєприпасами."
+  },
+  {
+    "var": "BLDGNEUT_Blacksmith",
+    "en": "Blacksmith\tThe Blacksmith provides your armies with First Aid Tents.",
+    "ua": "Кузня\tКузня забезпечує вашу армію наметами першої допомоги."
+  },
+  {
+    "var": "BLDGNEUT_Blacksmith",
+    "en": "Blacksmith\tThe Blacksmith provides your armies with Ballistas.",
+    "ua": "Кузня\tКузня забезпечує вашу армію балістами."
+  },
+  {
+    "var": "BLDGNEUT_Blacksmith",
+    "en": "Blacksmith\tThe Blacksmith provides your armies with Ammo Carts.",
+    "ua": "Кузня\tКузня забезпечує вашу армію візками з боєприпасами."
+  },
+  {
+    "var": "BLDGNEUT_Blacksmith",
+    "en": "Blacksmith\tThe Blacksmith provides your armies with First Aid Tents.",
+    "ua": "Кузня\tКузня забезпечує вашу армію наметами першої допомоги."
+  },
+  {
+    "var": "BLDGNEUT_Blacksmith",
+    "en": "Blacksmith\tThe Blacksmith provides your armies with Ballistas.",
+    "ua": "Кузня\tКузня забезпечує вашу армію балістами."
+  },
+  {
+    "var": "BLDGNEUT_Blacksmith",
+    "en": "Blacksmith\tThe Blacksmith provides your armies with War Machines.",
+    "ua": "Кузня\tКузня забезпечує вашу армію військовими машинами."
+  }
+]

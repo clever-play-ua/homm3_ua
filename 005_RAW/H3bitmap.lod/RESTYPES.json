@@ -1,0 +1,42 @@
+[
+  {
+    "var": "RESTYPES_1",
+    "en": "Wood",
+    "ua": "Деревина"
+  },
+  {
+    "var": "RESTYPES_2",
+    "en": "Mercury",
+    "ua": "Ртуть"
+  },
+  {
+    "var": "RESTYPES_3",
+    "en": "Ore",
+    "ua": "Руда"
+  },
+  {
+    "var": "RESTYPES_4",
+    "en": "Sulfur",
+    "ua": "Сірка"
+  },
+  {
+    "var": "RESTYPES_5",
+    "en": "Crystal",
+    "ua": "Кристали"
+  },
+  {
+    "var": "RESTYPES_6",
+    "en": "Gems",
+    "ua": "Самоцвіти"
+  },
+  {
+    "var": "RESTYPES_7",
+    "en": "Gold",
+    "ua": "Золото"
+  },
+  {
+    "var": "RESTYPES_8",
+    "en": "Abandoned",
+    "ua": "Закинута"
+  }
+]

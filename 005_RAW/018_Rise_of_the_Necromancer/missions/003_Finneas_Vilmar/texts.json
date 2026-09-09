@@ -1,0 +1,140 @@
+[
+  {
+    "var": "SANDRO_M3_prolog",
+    "field": "wrapper_prolog",
+    "en": "Sandro and Finneas Vilmar are going to wipe out Lord Alarice before he can tell the others of Finneas' transgressions against the old King of Deyja.  Once they have completed this trivial task, they will be able to work on removing other bothersome lords from the Deyja court.",
+    "ua": "Сандро і Фінеас збираються стерти з лиця землі лорда Аларіса, перш ніж він повідомить іншим лордам про плани Фінеаса вбити старого короля Деї. Після того, як вони виконають це просте завдання, вони зможуть зайнятися іншими незручними їм лордами Деї."
+  },
+  {
+    "var": "SANDRO_M3_epilog",
+    "field": "wrapper_epilog",
+    "en": "Traveling to Deyja, I met Finneas Vilmar, an ambitious but slightly foolish Necromancer.  He has some holdings here and is trying to increase his realm of power.  With my skills of persuasion he should soon find himself in the position he craves.  Of course, I will be the shadow whispering orders into his ear.",
+    "ua": "На шляху в Дею я зустрів честолюбного, але дурнуватого некроманта на ім'я Фінеас Вілмар. У нього тут є невеликі володіння, і йому дуже хочеться розширити їх за рахунок сусідів. Переконувати я вмію, і з моєю допомогою він скоро отримає те, чого прагне. Зрозуміло, нашіптувати йому накази буду я, і тільки я!"
+  },
+  {
+    "var": "SANDRO_M3_map_name",
+    "field": "map_map_name",
+    "en": "Finneas Vilmar",
+    "ua": "Фінеас Вілмар"
+  },
+  {
+    "var": "SANDRO_M3_map_desc",
+    "field": "map_map_desc",
+    "en": "Defeat all of Sandro and Finneas' enemies to win the scenario.  However, if Sandro or Finneas is defeated in combat, the scenario is lost.  Sandro and Finneas are limited to level 20 but will carry their experience, skills and spells on to the next scenario.",
+    "ua": "Щоб виграти, необхідно перемогти всіх ворогів Сандро і Фінеаса. Якщо Сандро або Фінеас будуть переможені в битві, ви програєте. Герої обмежені 20 рівнем. Якщо вони переможуть, їх досвід, первинні та вторинні навички, а також Чарівна книга перейдуть у наступний сценарій разом з ними."
+  },
+  {
+    "var": "SANDRO_M3_p0_hero_name",
+    "field": "map_p0_hero_name",
+    "en": "Finneas ",
+    "ua": "Фінеас"
+  },
+  {
+    "var": "SANDRO_M3_p0_owned_hero_name",
+    "field": "map_p0_owned_hero_name",
+    "en": "Finneas ",
+    "ua": "Фінеас"
+  },
+  {
+    "var": "SANDRO_M3_p1_hero_name",
+    "field": "map_p1_hero_name",
+    "en": "Lord Alarice",
+    "ua": "Лорд Аларіс"
+  },
+  {
+    "var": "SANDRO_M3_p1_owned_hero_name",
+    "field": "map_p1_owned_hero_name",
+    "en": "Lord Alarice",
+    "ua": "Лорд Аларіс"
+  },
+  {
+    "var": "SANDRO_M3_obj1548_sign_mesg",
+    "field": "map_obj1548_sign_mesg",
+    "en": "What are you doing in the water?",
+    "ua": "Я ти сюди доплив?"
+  },
+  {
+    "var": "SANDRO_M3_obj1864_hero_name",
+    "field": "map_obj1864_hero_name",
+    "en": "Lord Alarice",
+    "ua": "Лорд Аларіс"
+  },
+  {
+    "var": "SANDRO_M3_obj1975_guardian_mesg",
+    "field": "map_obj1975_guardian_mesg",
+    "en": "You are greeted with sharpened sticks pointed directly at your face.  A stout dwarf passes between his tribesmen and approaches.  \"Who goes there?\" he demands.  Before he can see your face, an illusion covers your bones with flesh.\n\n\"No one of consequence,\" you answer meekly.  \"Why do you stop us from passing through?  We mean you no harm.\"\n\n\"We are on the look out for a criminal named Sandro.\"\n\n\"Criminal?  What crime has he committed?\"\n\n\"He has slain our brethren, and we intend to exact vengeance upon him.  They stood opposed to the evil he created but fell beneath his mighty sword,\" the dwarf replies.\n\n\"You certainly look prepared.  What makes you think this Sandro might be near?\"\n\n\"We've received warning from Lord Alarice.  He may be a Necromancer as well, but he too wishes Sandro to be stopped.  We will allow his armies to be depleted and then defeat the both of them, removing the evil artifacts from possession of the Necromancers.\"\n\n\"Well, I wish you luck.  It sounds like you're going to need it.  By the way, do you have any idea who I am?\"\n\n\"You?  I don't believe we've met before.\"\n\n\"Then allow me to introduce myself.  My name is Sandro, and I take great pleasure in ridding the world of stupid, boastful Dwarves like yourself.\"  You wave to your army.  \"Attack!\"",
+    "ua": "Гострі кілки, спрямовані просто вам в обличчя - перше, що ви бачите. До вас підходить кремезний гном. \"Хто ви?\" - Запитує він. Перш ніж він може побачити ваше обличчя, чари покривають ваші кістки плоттю.\n\n- Ніхто з тих, кого варто було б затримувати, - лагідно відповідаєте ви, - Чому ви не даєте нам пройти? Ми вам нічого не зробили, і не збираємося.\n\n- Ми шукаємо злочинця на ім'я Сандро.\n\n- Злочинця? Що ж він накоїв?\n\n- Він убив наших братів, і ми помстимося йому. Вони стали проти створеного ним зла, але впали під його могутнім мечем, - відповідає гном.\n\n- Ви, здається, непогано підготувалися. Чому ви думаєте, що Сандро десь тут?\n\n- Ми отримали попередження від лорда Аларіса. Можливо, він і некромант, але він теж хоче зупинити Сандро. Ми виснажимо їх сили, і потім захопимо їх обох і заберемо в них артефакти.\n\n- Ну, тоді успіху вам. Схоже, він вам знадобиться. До речі, а ви знаєте, хто я?\n\n- Ви? Здається, ми раніше не зустрічалися.\n\n- Тоді дозвольте відрекомендуватися. Мене звуть Сандро, і мені доставить величезне задоволення позбавити світ від такого дурного і хвалькуватого гнома, - Ви подаєте знак армії: \"В атаку!\""
+  },
+  {
+    "var": "SANDRO_M3_obj1982_guardian_mesg",
+    "field": "map_obj1982_guardian_mesg",
+    "en": "Your spies inform you there are three tribes of dwarves in this area.  None of them are allied with Alarice, but all have gained much information from him.  Two are here to avenge the death of their family members.  Apparently, those dwarves you slaughtered on the way here have some big brothers or cousins who want to use your bones for toothpicks.  Like the others, they will soon join your undead armies.",
+    "ua": "Ваші шпигуни повідомляють, що в даній місцевості є три племені гномів. Ніхто з них не приєднався до Аларіса, але вони отримали від нього багато інформації. Два з них тут, щоб помститися за смерть їхніх родичів. Досить імовірно, що у цих гномів, яких ви щойно повністю розгромили, є численні брати, які захочуть використати ваші кістки як зубочистки. Як і всі інші, скоро вони приєднаються до вашої армії нежиті."
+  },
+  {
+    "var": "SANDRO_M3_obj1986_guardian_mesg",
+    "field": "map_obj1986_guardian_mesg",
+    "en": "A contingent of skeletons blocks your way, refusing to let you pass.  Grabbing one by its sternum and jerking its whole body, you growl, \"Tell me what you are guarding!\"\n\n\"W-we've been ordered to keep any intruders from entering Lord Alarice's territory.\"\n\nYou rattle his bones, and he decides no lord is worth this treatment.  The skeleton tells you everything.  \"Alarice plans to wipe you out and take the Armor of the Damned and the Cloak of the Undead King for himself.  Anything else he may have said about these artifacts is a pack of lies.\"\n\nTossing the skeleton aside, you prepare to kill the entire contingent.",
+    "ua": "Група скелетів перегороджує ваш шлях. Схопивши одного з них за груди, ви струшуєте його і гарчите: \"Що ви охороняєте?\"\n\n\"М-ми.. Нам наказали не пускати нікого не територію лорда Аларіса.\"\n\nВи добре струшуєте його, і він вирішує, що жоден лорд не вартий того, щоб терпіти це. Він розповідає вам все. \"Аларіс хоче знищити вас і забрати собі Обладунок проклятого і Накидку мертвого короля. Все інше, що він говорив про ці артефакти, звичайна брехня.\"\n\nКинувши скелета в бік, ви готуєтеся знищити їх усіх."
+  },
+  {
+    "var": "SANDRO_M3_obj1989_hero_name",
+    "field": "map_obj1989_hero_name",
+    "en": "Finneas ",
+    "ua": "Фінеас"
+  },
+  {
+    "var": "SANDRO_M3_obj1989_hero_bio",
+    "field": "map_obj1989_hero_bio",
+    "en": "Though Finneas Vilmar's thirst for power makes him a virtually unstoppable Necromancer, the ability of political manipulation and battle tactics elude him.  He has joined with Sandro so he can use his skills to move himself through the ranks.",
+    "ua": "Хоча в погоні за владою некромант Фінеас Вілмар не зупиниться не перед чим, політичні інтриги і військова тактика - його слабкі сторони. Він приєднався до Сандро, так що він може використовувати його здібності, аби просунутись вище."
+  },
+  {
+    "var": "SANDRO_M3_obj2629_guardian_mesg",
+    "field": "map_obj2629_guardian_mesg",
+    "en": "\"Stop where you are!\" shouts a voice out of nowhere.\n\n\"Why do you stop us?\" you shout back.\n\n\"We already told you, Lord Alarice, we will not join you!\"\n\n\"I'm not Lord Alarice,\" you explain.\n\n\"Oh,\" the voice says, relieved.  A dwarf appears from the top of the building before you.  \"Greetings.  I am Taruzdandu.  Thank goodness you are not Lord Alarice.  That man is so exasperating!\"\n\n\"Oh?  Why do you say that?\"\n\n\"He never gives up,\" the dwarf sighs.  \"He wants us to provide him with gold so he can fund a take-over or some such nonsense.  But the fact is, we don't give a hoot about aboveground politics.  We just want to mine in peace.\"\n\n\"Oh, really?  What mine are you referring to?\"\n\n\"There is a good gold mine not too far from, produces more than any other mine.  We can't get to it until they stop trying to raid this area for resources.  Apparently, this Sandro fellow is also after all of our gold, not just Alarice.\"  The dwarf looks closely at you.  \"Hey, you're not that Sandro fellow, are you?  I've heard some bad things about you.  People say you just go about killing everyone so you can get bigger armies.\"\n\n\"I would be glad to have such intelligent servants within my army.  It is true, I am Sandro, and to me you are simply recruits who don't know it yet.\"\n\nHaving said that, you push forward and attempt to take over the town.",
+    "ua": "\"Стійте там, де стоїте!\" - лунає голос невідомо звідки.\n\n\"Чому це?\" - кричите ви у відповідь.\n\n- Ми вже говорили вам, лорд Аларіс, ми не приєднаємося до вас!\n\n\"Я не лорд Аларіс\", - пояснюєте ви.\n\n\"Он як\", - з полегшенням відповідає голос. З верха будівлі, розташованої перед вами, визирає гном: \"Вітаю вас! Мене звуть Тарузданду. Слава богу, ви не лорд Аларіс. Цей чоловік просто нестерпний.\"\n\n- Так? Чому ж?\n\n\"Він ніколи не здається\", - гном зітхає. \"Він хоче, щоб ми забезпечували його золотом, щоб він міг фінансувати захоплення або щось у цьому роді. Але річ у тім, що ми не надаємо ніякого значення політиці тут, на поверхні. Все, що нам потрібно - спокійно займатися шахтарським ремеслом.\"\n\n- Справді? А в якій шахті ви працюєте?\n\n\"Тут недалеко. Це відмінна золота шахта, і вона приносить більше золота, ніж інші. Але ми не можемо повернутися туди, поки вони не припинять шукати ресурси тут. Судячи з усього, цей Сандро теж полює за нашим золотом.\" Гном дивиться на вас уважніше. \"Гей, а цей Сандро - не ви? Я чув про вас погані речі. Кажуть, що ви вбиваєте всіх підряд, збільшуючи таким чином чисельність своєї армії.\"\n\n\"Для мене буде великим задоволенням мати такого розумного воїна у своєму підпорядкуванні. Ви маєте рацію, я Сандро, і для мене всі ви - рекрути, які про це поки не знають.\" З цими словами ви починаєте битву."
+  },
+  {
+    "var": "SANDRO_M3_obj2706_guardian_mesg",
+    "field": "map_obj2706_guardian_mesg",
+    "en": "Out of nowhere, a contingent of Wood Elves attacks!",
+    "ua": "З нізвідки з'являється загін лісових ельфів, які атакують вас!"
+  },
+  {
+    "var": "SANDRO_M3_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Day 1",
+    "ua": "Day 1"
+  },
+  {
+    "var": "SANDRO_M3_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "Finneas Vilmar is a young lord who desires power.  With such a greedy appetite but a poor head for tactics and political manipulations, he has quickly taken to your direction.  He is a prime candidate for becoming a puppet; he just doesn't know it yet.  You decide to make him very dependent upon you and get him promoted through the ranks.",
+    "ua": "Фінеас Вілмар - юний лорд, спраглий влади. Володіючи величезними амбіціями і досить слабким розумом, коли справа стосувалася тактики чи політики, він швидко потрапив у ваші сіті. Він - найкраща кандидатура, щоб стати пішаком, правда, він про це поки не здогадується. Ви вирішуєте прив'язати його до себе і просунути по службі."
+  },
+  {
+    "var": "SANDRO_M3_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Underground Dwarves",
+    "ua": "Underground Dwarves"
+  },
+  {
+    "var": "SANDRO_M3_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "Reports confirm that two separate groups of AvLee forces have tunneled underground and intend to launch surprise attacks.  Unfortunately for them, you will be prepared for their paltry attempt, and they will rise as members of your undead army.",
+    "ua": "Повідомлення підтвердили, що дві окремі групи сил Ав-Лі спорудили підземні тунелі і мають намір раптово атакувати. На нещастя для них, ви будете готові до їх жалюгідної спроби, і після битви вони приєднаються до вашої армії нежиті."
+  },
+  {
+    "var": "SANDRO_M3_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Duke Alarice",
+    "ua": "Duke Alarice"
+  },
+  {
+    "var": "SANDRO_M3_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "Duke Alarice has a problem with Finneas Vilmar and with you waltzing into Deyja with a full army... not to mention you possessing two powerful combination artifacts the Duke wouldn't mind getting his hands on.  Reports have confirmed that Duke Alarice warned nearby AvLee lords about your powerful standing army, and they are preparing for war.",
+    "ua": "Негаразди навалилися на герцога Аларіса, коли ви з Фінеас Вілмар увійшов у Дею на чолі величезної армії, та ще й з могутніми артефактами, які і сам герцог не відмовився б роздобути. Повідомлення підтвердили, що герцог Аларіс попередив сусідніх лордів Ав-Лі про ваші армії, і тепер вони готуються до війни."
+  }
+]

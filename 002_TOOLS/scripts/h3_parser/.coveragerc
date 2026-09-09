@@ -1,0 +1,9 @@
+[run]
+# Coverage of the LIBRARY code is what's meaningful here - the tests
+# themselves are trivially "100% covered" by definition (every test line
+# runs when the test runs), so including them just dilutes the number.
+omit =
+    tests/*
+
+[report]
+show_missing = True

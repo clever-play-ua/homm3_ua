@@ -1,0 +1,218 @@
+[
+  {
+    "var": "BLOOD_M4_prolog",
+    "field": "wrapper_prolog",
+    "en": "Ordwald lied to three powerful Nighon Lords.  He told them, if they were to drink your blood they would also transform into dragons.  Now your old opponent Ordwald and three powerful lords block your access to the upper tunnels.  They want to kill you and drink your blood.  You plan to drink theirs.",
+    "ua": "Орвальд збрехав трьом могутнім ніґонським лордам. Він сказав їм, що якщо вони вип'ють вашої крові, то теж стануть драконами. Тепер Орвальд і три інших лорди перегороджують вам дорогу до заповітної мети. Вони хочуть вбити вас і випити вашу кров. Що ж, ви хочете того ж, тільки вам потрібна ЇХНЯ кров!"
+  },
+  {
+    "var": "BLOOD_M4_epilog",
+    "field": "wrapper_epilog",
+    "en": "I am successful.  Now Ordwald and his lacky's seek to slay me and drink my blood.  They believe it will transform them as the vial transformed me.  They will never drink my blood.  I will be the one to drink their blood.",
+    "ua": "Я виграла цю сутичку. Тепер Орвальд зі своїми дармоїдами жадають випити моєї крові. Вони сподіваються, вона перетворить їх на драконів, як вміст Фіала перетворив мене. У них нічого не вийде. Це я скуштую їх крові."
+  },
+  {
+    "var": "BLOOD_M4_map_name",
+    "field": "map_map_name",
+    "en": "Blood Thirsty",
+    "ua": "Жага крові"
+  },
+  {
+    "var": "BLOOD_M4_map_desc",
+    "field": "map_map_desc",
+    "en": "Once again you must crush your enemies before they crush you.  If Mutare dies then all is lost.  With your two best aides this will still be a difficult battle.",
+    "ua": "І знову ви повинні знищити ваших ворогів до того, як вони розтрощать вас. Якщо Мутар загине - все втрачено. Навіть із двома вашими кращими помічниками це все одно буде важка битва."
+  },
+  {
+    "var": "BLOOD_M4_p1_hero_name",
+    "field": "map_p1_hero_name",
+    "en": "Ordwald",
+    "ua": "Орвальд"
+  },
+  {
+    "var": "BLOOD_M4_p1_owned_hero_name",
+    "field": "map_p1_owned_hero_name",
+    "en": "Ordwald",
+    "ua": "Орвальд"
+  },
+  {
+    "var": "BLOOD_M4_obj184_sign_mesg",
+    "field": "map_obj184_sign_mesg",
+    "en": "To the Surface Tunnels",
+    "ua": "До тунелів на поверхню"
+  },
+  {
+    "var": "BLOOD_M4_obj545_sign_mesg",
+    "field": "map_obj545_sign_mesg",
+    "en": "To Upper Tunnels",
+    "ua": "До верхніх тунелів"
+  },
+  {
+    "var": "BLOOD_M4_obj1745_hero_name",
+    "field": "map_obj1745_hero_name",
+    "en": "Ordwald",
+    "ua": "Орвальд"
+  },
+  {
+    "var": "BLOOD_M4_obj1769_town_name",
+    "field": "map_obj1769_town_name",
+    "en": "Bat Fang",
+    "ua": "Бетфанг"
+  },
+  {
+    "var": "BLOOD_M4_obj2006_guardian_mesg",
+    "field": "map_obj2006_guardian_mesg",
+    "en": "Reinforcements arrive from your lands in the Deep Caverns.",
+    "ua": "Прибуло підкріплення з ваших володінь в Глибоких печерах."
+  },
+  {
+    "var": "BLOOD_M4_obj2388_sign_mesg",
+    "field": "map_obj2388_sign_mesg",
+    "en": "To the Deep Caverns",
+    "ua": "До Глибоких печер"
+  },
+  {
+    "var": "BLOOD_M4_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Intro",
+    "ua": "Intro"
+  },
+  {
+    "var": "BLOOD_M4_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "Defeating the Lords blocking your access to the surface tunnels and the Nighon borderlands will prove my power to the rest of the Nighon Lords.  You find yourself laughing with glee at the thought of the battles to come.  You pause to admire your beautiful new claws, and then roar for messagers to summon your best two Heroes from the prior campaign.  It's time to show the doubters I'm worthy to join the ranks of Nighon's powerful nobles.  So they want to drink my blood, do they?  I'll drink theirs!",
+    "ua": "Перемога над лордами, які закривають вам доступ до тунелів на поверхню і кордонів Ніґона, змусить ніґонську аристократію сприймати вас серйозно. Ви ловите себе на тому, що смієтеся від щастя при думці про майбутні битви. Перериваєтеся, щоб помилуватися вашими новими кігтями, а потім гарчите гінцям, щоб вони викликали двох ваших героїв, які найкраще проявили себе в попередніх боях. Прийшов час довести тим, хто сумнівається, що я гідна зайняти місце у лавах могутньої аристократії Ніґона. Вони хочуть покуштувати моєї крові, чи не так? Я сама вип'ю їх кров!"
+  },
+  {
+    "var": "BLOOD_M4_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Campaign Journal 1",
+    "ua": "Campaign Journal 1"
+  },
+  {
+    "var": "BLOOD_M4_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "War Diary:  Things are going according to plan.  I have established a base in the tunnels below my enemies and I don't believe they know I am here.  Locals say there are two more castles nearby.  I plan to quickly take them and then launch a surprise assault up through the subterranean gates.",
+    "ua": "Військовий щоденник: Все іде згідно з планом. Я розташувалася в тунелях під моїми ворогами, і я не думаю, що вони знають про моє місце перебування. Місцеві кажуть, що тут є ще пара замків поблизу. Я збираюся швидко захопити їх, а потім несподівано напасти на ворога через підземну браму."
+  },
+  {
+    "var": "BLOOD_M4_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Scout Report NW Castle",
+    "ua": "Scout Report NW Castle"
+  },
+  {
+    "var": "BLOOD_M4_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "War Diary:  Today the Master of Scouts reported his scouts found a neutral castle in the caverns to the northwest of our starting castle.   They're still searching for other castles.",
+    "ua": "Військовий щоденник: Сьогодні начальник розвідки доповів, що його підлеглі знайшли нейтральний замок у печерах на північний захід від замку нашого першого. Вони продовжують пошуки інших замків."
+  },
+  {
+    "var": "BLOOD_M4_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "Scout report SE Castle",
+    "ua": "Scout report SE Castle"
+  },
+  {
+    "var": "BLOOD_M4_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "War Diary:  My scouts have located another neutral castle to the southeast from my starting castle.",
+    "ua": "Військовий щоденник: Мої розвідники виявили нейтральний замок на південному сході від замку мого першого."
+  },
+  {
+    "var": "BLOOD_M4_mapevent4_name",
+    "field": "map_mapevent4_name",
+    "en": "Campaign Journal 2",
+    "ua": "Campaign Journal 2"
+  },
+  {
+    "var": "BLOOD_M4_mapevent4_mesg",
+    "field": "map_mapevent4_mesg",
+    "en": "War Diary:  A messager from General Miah, arrived today.  He has obtained information, which he believes to be true, that at least two of the lords blocking my access into Nighon have formed an alliance.  I would not be surprised if this is true.  None of the lords I'm fighting now are fools.  I'll beat them anyway.  It will just be harder and victory will be sweeter.",
+    "ua": "Військовий щоденник: Сьогодні прибув гонець від генерала Травня. Він отримав інформацію з перевіреного, за його словами, джерела, що принаймні двоє лордів, що перекрили мені шлях у Ніґон, уклали союз. Я не здивуюся, якщо це правда. Жодного з лордів, що протистоять мені, не назвеш дурнем. Все одно я розіб'ю їх. Просто це буде складніше - і тим перемога солодше буде."
+  },
+  {
+    "var": "BLOOD_M4_mapevent5_name",
+    "field": "map_mapevent5_name",
+    "en": "Campaign Journal 3",
+    "ua": "Campaign Journal 3"
+  },
+  {
+    "var": "BLOOD_M4_mapevent5_mesg",
+    "field": "map_mapevent5_mesg",
+    "en": "War Diary:  I'm going to have to counter Ordwald's lies.  If people actually believe they can turn into a sentient dragon by drinking my blood, every Lord in the world is going to try to kill me.  The cleverest lies are the ones people want to hear.",
+    "ua": "Військовий щоденник: Відчуваю, що доведеться мені якось нейтралізувати брехню Орвальда. Якщо люди і справді повірять, що, випивши моєї крові, можна перетворитися на мислячого дракона, всі лорди світу будуть намагатися вбити мене. Наймудріша брехня - та, яку люди хочуть почути."
+  },
+  {
+    "var": "BLOOD_M4_mapevent6_name",
+    "field": "map_mapevent6_name",
+    "en": "Scout report Dragon Utopias",
+    "ua": "Scout report Dragon Utopias"
+  },
+  {
+    "var": "BLOOD_M4_mapevent6_mesg",
+    "field": "map_mapevent6_mesg",
+    "en": "War Diary:  A while back scouts located a Dragon Utopia to the northwest, near a subterranean gate.  A few days ago they found another Dragon Utopia located through a subterranean gate to the southwest.  The Dragon Utopia is a day or so east of the gate.",
+    "ua": "Військовий щоденник: Щойно розвідники виявили ідеальне місто драконів на північному заході, поряд з підземною брамою. Кілька днів тому було знайдено ще одне місто драконів - за підземною брамою на південному заході. Від підземної брами до нього близько дня шляху на схід."
+  },
+  {
+    "var": "BLOOD_M4_mapevent7_name",
+    "field": "map_mapevent7_name",
+    "en": "Campaign Journal 4",
+    "ua": "Campaign Journal 4"
+  },
+  {
+    "var": "BLOOD_M4_mapevent7_mesg",
+    "field": "map_mapevent7_mesg",
+    "en": "War Diary:  Today I sent a message to General Miah to leak word to the borderlands that drinking my blood just makes people sick.  He's to spread rumors that I had some of my heroes' drink some of my blood and all it did was make them sick for a week or so.  The rumors will spread from borderlands to the rest of Nighon.  Hopefully they will make me less of a target.",
+    "ua": "Військовий щоденник: Сьогодні я відправила генералу Травню наказ поширити на кордонах чутку про те, що люди від моєї крові тільки хворіють. Він повинен пустити слух, що я примушувала своїх героїв пити мою кров - і у них це не викликало нічого, крім нудоти, що тривала десь тиждень. Від кордонів чутки повинні розповзтися по всьому Ніґону. Сподіваюся, мисливців на мене поменшає."
+  },
+  {
+    "var": "BLOOD_M4_mapevent8_name",
+    "field": "map_mapevent8_name",
+    "en": "Campaign Journal 5",
+    "ua": "Campaign Journal 5"
+  },
+  {
+    "var": "BLOOD_M4_mapevent8_mesg",
+    "field": "map_mapevent8_mesg",
+    "en": "War Diary:  Today I sent a messager to the Sage by Sinkhole Castle.  I asked him to do some research to prove that you have to drink the blood of the Dragon Father, NOT my blood, to turn into a sentient dragon.  I offered him enough gold, he better prove it.",
+    "ua": "Військовий щоденник: Сьогодні я відправила гінця до мудреця у замку Сток. Я просила його провести деякі дослідження, щоб довести, що лише кров Отця драконів, а не МОЯ, перетворює того, хто її вип'є, в розумного дракона. Я послала йому досить золота - і краще б йому погодитися."
+  },
+  {
+    "var": "BLOOD_M4_mapevent9_name",
+    "field": "map_mapevent9_name",
+    "en": "Campaign Journal 6",
+    "ua": "Campaign Journal 6"
+  },
+  {
+    "var": "BLOOD_M4_mapevent9_mesg",
+    "field": "map_mapevent9_mesg",
+    "en": "War Diary:  I got a message back from the sage agreeing to do the research. Unfortunately, he requires some additional precious resources to conduct the research, blah, blah, blah.  FINE, he can have them!  If he asks for anything else, though, I will have him for supper!  My other lands can pay the gold, I'll pay the resource cost.",
+    "ua": "Військовий щоденник: Я отримала відповідь послання від мудреця - він погоджується провести дослідження. На жаль, йому «не вистачає для цього необхідних дорогоцінних ресурсів ». ГАРАЗД, так вже й буде! Однак якщо він ще хоч що-небудь попросить, я з'їм його на вечерю! Золото дадуть інші мої провінції, я ж виділю ресурси."
+  },
+  {
+    "var": "BLOOD_M4_mapevent10_name",
+    "field": "map_mapevent10_name",
+    "en": "Scout Report Gold and Leprechaun",
+    "ua": "Scout Report Gold and Leprechaun"
+  },
+  {
+    "var": "BLOOD_M4_mapevent10_mesg",
+    "field": "map_mapevent10_mesg",
+    "en": "War Diary:  My Master of Scouts reported the Subterranean Gate near Castle Bat Fang leads to an enchanted area with a Leprechaun and Gold Mine.",
+    "ua": "Військовий щоденник: Мій начальник розвідки повідомив, що підземні ворота біля замку Бетфанг ведуть в зачаровану землю, на якій знаходиться лепрекон і золота шахта."
+  },
+  {
+    "var": "BLOOD_M4_mapevent11_name",
+    "field": "map_mapevent11_name",
+    "en": "Scout Reinforcements from Deep Caverns",
+    "ua": "Scout Reinforcements from Deep Caverns"
+  },
+  {
+    "var": "BLOOD_M4_mapevent11_mesg",
+    "field": "map_mapevent11_mesg",
+    "en": "War Diary:  My Master of Scouts had good news and bad news today.  The good news was a group of my forces from the Deep Caverns have arrived nearby to reinforce me.  The bad news is they can't reach me 'til some monsters are cleared from the road to the Deep Caverns.  Fortunately the road ends near Castle Bat Fang.",
+    "ua": "Військовий щоденник: Сьогодні начальник розвідки приніс дві новини: хорошу і погану. Хороша новина в тому, що з Глибоких печер прибуло підкріплення. Погана новина - вони не зможуть до мене дістатися, поки дорога в Глибокі печери не буде очищена від монстрів. На щастя, дорога закінчується поруч із замком Бетфанг."
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "var": "GOOD2_M3_prolog",
+    "field": "wrapper_prolog",
+    "en": "An ambassador from Bracada brings a message from his leader, Gavin Magnus, offering aid in reclaiming Western Erathia from the marauding Tatalian and Krewlish forces. It is time to remind your neighbors of where their borders belong.",
+    "ua": "До двору прибув посол Бракади зі звісткою від короля Ґевіна Магнуса: Бракада готова надати Ерафії військову допомогу, щоб повернути західні землі, захоплені мародерами Таталії та Крюлода. Пора поставити сусідів на місце."
+  },
+  {
+    "var": "GOOD2_M3_epilog",
+    "field": "wrapper_epilog",
+    "en": "My name is Winstan Langer, ambassador from Bracada, ruled by Grand Vizier Gavin Magnus. Forces from Tatalia and Krewlod are fighting in west Erathia. After months of conflict, the battle still rages.  Though weary of yet another war, my king sends reinforcements to aid your efforts.  Brilliant tactics will not win this battle. Body count will determine the victor. Good luck.",
+    "ua": "Я Вінстон Лангер, посол Ґевіна Магнуса, великого візира Бракади. У західній Ерафії кипить битва між військами Таталії і Крюлода. Їх суперечка спалахнула багато місяців тому і з тих пір не вщухає. Мій повелитель, втомлений від воєн, посилає вам підкріплення. Цю битву не виграти за допомогою найблискучішої тактики. Щоб перемогти, ви повинні перевершувати суперника чисельно. Успіху вам."
+  },
+  {
+    "var": "GOOD2_M3_map_name",
+    "field": "map_map_name",
+    "en": "Neutral Affairs",
+    "ua": "Нейтралітет"
+  },
+  {
+    "var": "GOOD2_M3_map_desc",
+    "field": "map_map_desc",
+    "en": "To win, you must capture all enemy towns and castles and defeat all enemy heroes. Some Border Guards can only be passed if a Hero carries a Quest Artifact from a previous scenario, but the artifact beyond the Border Guard will travel with you to the next scenario.",
+    "ua": "Вам потрібно захопити всі ворожі міста і замки та розгромити всіх героїв противника. Пройти деяких Вартових Кордону можна, тільки якщо у героя є з собою ключовий артефакт з попереднього сценарію. Але якщо ви минули Вартових з цим артефактом, він перейде з вами в наступний сценарій."
+  },
+  {
+    "var": "GOOD2_M3_obj398_monster_mesg",
+    "field": "map_obj398_monster_mesg",
+    "en": "The water elementals don't seem to want to let you use their boat.",
+    "ua": "Схоже, що водяні елементали не сильно в захваті від того, що ви користуєтесь їхнім кораблем."
+  },
+  {
+    "var": "GOOD2_M3_obj1793_monster_mesg",
+    "field": "map_obj1793_monster_mesg",
+    "en": "The water elementals don't seem to want to let you use their boat.",
+    "ua": "Схоже, що водяні елементали не сильно в захваті від того, що ви користуєтесь їхнім кораблем."
+  },
+  {
+    "var": "GOOD2_M3_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Refugees",
+    "ua": "Intro part 3"
+  },
+  {
+    "var": "GOOD2_M3_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "A scout reports that there are many refugee camps along the border, populated with creatures who where forced from their homes by the continuous fighting in this area.",
+    "ua": "Завдайте блискавичного удару і покінчіть з будь-якими проявами опозиції на цих землях. Ми повинні дати урок нашим сусідам, щоб вони зрозуміли, наскільки нерозумно з їхнього боку було намагатися скористатися слабкістю Ерафії."
+  },
+  {
+    "var": "GOOD2_M3_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Intro part 1",
+    "ua": "Refugees"
+  },
+  {
+    "var": "GOOD2_M3_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "For months, Tatalia and Krewlod have fought with Erathia and with each other in a series of border disputes. Normally, the Wizards of Bracada would be content to remain out of any fighting, but with all that Erathia has been through recently, they have chosen to assist us.",
+    "ua": "Розвідник повідомляє, що вздовж кордону побудовано багато таборів для біженців. У них живуть істоти, змушені залишити домівки через безперервну тут війну."
+  },
+  {
+    "var": "GOOD2_M3_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Intro part 2",
+    "ua": "Intro part 1"
+  },
+  {
+    "var": "GOOD2_M3_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "The Wizards have set up a modest outpost on the shared Erathian/Tatalian/Krewlod border. Forces from our own military have been sent to the area to join them. Between us, we should be able to not only stop the fighting between Tatalia and Krewlod, but to re-establish the Erathian border as well.",
+    "ua": "Вже кілька місяців тут і там спалахують прикордонні конфлікти між Таталією, Крюлодом та Ерафією. Зазвичай чарівники Бракади не втручаються в конфлікти. Але враховуючи все, що довелося пережити Ерафії за останній час, вони вирішили допомогти нам."
+  },
+  {
+    "var": "GOOD2_M3_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "Intro part 3",
+    "ua": "Intro part 2"
+  },
+  {
+    "var": "GOOD2_M3_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "Strike quickly, and eliminate all opposition in the area. We must teach our neighbors that it was unwise for them to think they could take advantage of a weakened Erathia.",
+    "ua": "Чародії побудували невелику сторожову заставу на кордоні Ерафії, Таталії та Крюлода. Ми вже направили туди свої збройні загони. Між нами кажучи, ми постараємося не тільки зупинити кровопролиття між Таталією й Крюлодом, але ще й відновити кордон Ерафії."
+  }
+]

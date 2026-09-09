@@ -1,0 +1,386 @@
+[
+  {
+    "var": "FOOL_M1_prolog",
+    "field": "wrapper_prolog",
+    "en": "While on a three-hour sight seeing tour Sir Christian's ship was blown off course by a sudden summer storm. When the storm cleared the captain and crew had no idea what their position might be. For nearly a week they sailed under an overcast sky, completely unable to determine their heading. Finally, a small rocky island was spotted. While landing their ship a large rock found it's way into the hull making the craft irreapirable.The curious natives seemed friendly in meeting with Sir Christian. They agreed to help him get off the island if he built them a capitol.",
+    "ua": "Сер Крістіан хотів усього лише зробити розважальну прогулянку на своєму кораблі, але раптово потрапив у шторм. Коли шторм припинився, ніхто не міг визначити місце, куди їх занесло. Майже тиждень ходили вони під небом, затягнутим хмарами, все більше гублячись у здогадах. Врешті-решт вони виявили скелястий острів. Намагаючись причалити до берега, корабель напоровся на рифи і затонув. Однак мирні жителі привітно зустріли сера Крістіана. Вони пообіцяли допомогти йому, якщо він відбудує їм столицю."
+  },
+  {
+    "var": "FOOL_M1_epilog",
+    "field": "wrapper_epilog",
+    "en": "All I wanted was a simple vacation.  One hurriance later and I am here on this island with these foul smelling natives.  Perhaps my father was right when I told him about my dream to become a fragrance alchemist.  Maybe my military training can help me get off this forsaken sand prision.",
+    "ua": "Я хотів невеликої морської прогулянки, але налетів ураган - і ось я тут, на Богом забутому острові, серед місцевих аборигенів. Як же від них смердить! Ні, правильно батько, дав мені прочуханки, коли я сказав, що хочу стати алхіміком-парфумером! Може, військове мистецтво допоможе мені втекти з цього проклятого піщаного полону."
+  },
+  {
+    "var": "FOOL_M1_map_name",
+    "field": "map_map_name",
+    "en": "Lost at Sea",
+    "ua": "Загублений у морі"
+  },
+  {
+    "var": "FOOL_M1_map_desc",
+    "field": "map_map_desc",
+    "en": "Sir Christian must build the town on the southeastern peninsula of the island up to a capitol. He is limited to level 8. If he completes his quest, he will carry over his experience, primary skills, secondary skills and a spell book with him to the next scenario. If defeated, his quest is over.",
+    "ua": "Сер Крістіан повинен звести Капітолій у місті, що знаходиться в південно-східній частині острова. Герой обмежений 8 рівнем. Якщо він переможе, його досвід, первинні та вторинні навички, а також Чарівна книга перейдуть у наступний сценарій разом з ним. Якщо Крістіан буде переможений, ви програєте."
+  },
+  {
+    "var": "FOOL_M1_obj3_monster_mesg",
+    "field": "map_obj3_monster_mesg",
+    "en": "You lance my boils and I'll lance yours.",
+    "ua": "\"Почави мої прищі, а я за це почавлю твої\"."
+  },
+  {
+    "var": "FOOL_M1_obj253_sign_mesg",
+    "field": "map_obj253_sign_mesg",
+    "en": "Venice II",
+    "ua": "Венеція II"
+  },
+  {
+    "var": "FOOL_M1_obj254_sign_mesg",
+    "field": "map_obj254_sign_mesg",
+    "en": "Venice I",
+    "ua": "Венеція I"
+  },
+  {
+    "var": "FOOL_M1_obj256_sign_mesg",
+    "field": "map_obj256_sign_mesg",
+    "en": "Venice III",
+    "ua": "Венеція III"
+  },
+  {
+    "var": "FOOL_M1_obj260_sign_mesg",
+    "field": "map_obj260_sign_mesg",
+    "en": "Malibu I",
+    "ua": "Малібу I"
+  },
+  {
+    "var": "FOOL_M1_obj267_sign_mesg",
+    "field": "map_obj267_sign_mesg",
+    "en": "Muscle Beach I",
+    "ua": "Масл-біч I"
+  },
+  {
+    "var": "FOOL_M1_obj268_sign_mesg",
+    "field": "map_obj268_sign_mesg",
+    "en": "Muscle Beach II",
+    "ua": "Масл-біч II"
+  },
+  {
+    "var": "FOOL_M1_obj270_sign_mesg",
+    "field": "map_obj270_sign_mesg",
+    "en": "Muscle Beach IV",
+    "ua": "Масл-біч IV"
+  },
+  {
+    "var": "FOOL_M1_obj273_sign_mesg",
+    "field": "map_obj273_sign_mesg",
+    "en": "Zuma III",
+    "ua": "Зума-біч III"
+  },
+  {
+    "var": "FOOL_M1_obj274_sign_mesg",
+    "field": "map_obj274_sign_mesg",
+    "en": "Zuma V",
+    "ua": "Зума-біч V"
+  },
+  {
+    "var": "FOOL_M1_obj275_sign_mesg",
+    "field": "map_obj275_sign_mesg",
+    "en": "Zuma II",
+    "ua": "Зума-біч II"
+  },
+  {
+    "var": "FOOL_M1_obj276_sign_mesg",
+    "field": "map_obj276_sign_mesg",
+    "en": "Malibu V",
+    "ua": "Малібу V"
+  },
+  {
+    "var": "FOOL_M1_obj277_sign_mesg",
+    "field": "map_obj277_sign_mesg",
+    "en": "Malibu IV",
+    "ua": "Малібу IV"
+  },
+  {
+    "var": "FOOL_M1_obj278_sign_mesg",
+    "field": "map_obj278_sign_mesg",
+    "en": "Malibu III",
+    "ua": "Малібу III"
+  },
+  {
+    "var": "FOOL_M1_obj282_sign_mesg",
+    "field": "map_obj282_sign_mesg",
+    "en": "Waikiki II",
+    "ua": "Вайкики II"
+  },
+  {
+    "var": "FOOL_M1_obj296_guardian_mesg",
+    "field": "map_obj296_guardian_mesg",
+    "en": "Though no one is around to see, you have proven that you are worthy to have the Inexhaustible Cart of Ore. Do you wish to take it at this time?",
+    "ua": "Хоча ніхто цього не бачив, але ви довели, що гідні володіти Невичерпною вагонеткою руди. Заберете її прямо зараз?"
+  },
+  {
+    "var": "FOOL_M1_obj316_sign_mesg",
+    "field": "map_obj316_sign_mesg",
+    "en": "Zuma IV",
+    "ua": "Зума-біч IV"
+  },
+  {
+    "var": "FOOL_M1_obj371_monster_mesg",
+    "field": "map_obj371_monster_mesg",
+    "en": "\"Ya ain't from around here are ya?\"",
+    "ua": "\"Ти не місцевий, як я бачу?\""
+  },
+  {
+    "var": "FOOL_M1_obj387_quest_proposal",
+    "field": "map_obj387_quest_proposal",
+    "en": "You are wet behind the ears. The guard eyes you dubiously, but agrees to let you by when you have achieved the experience level 7.",
+    "ua": "Страж із сумнівом оглядає вас, але погоджується пропустити, якщо ви досягнете рівня 7. Поки ви ще недосвідчені."
+  },
+  {
+    "var": "FOOL_M1_obj387_quest_progress",
+    "field": "map_obj387_quest_progress",
+    "en": "\"Level 7 you are not. When level 7 you reach permit to pass I will.\"",
+    "ua": "\"Рівня сьомого не досяг ти. Коли рівня сьомого досягнеш, пройти тобі дозволю я.\""
+  },
+  {
+    "var": "FOOL_M1_obj387_quest_completion",
+    "field": "map_obj387_quest_completion",
+    "en": "The short green guard acknowledges that you have indeed reached level 7.  Do you wish to pass at this time?",
+    "ua": "Низенький зелений страж пересвідчується, що ви дійсно досягли рівня 7. Хочете пройти тут?"
+  },
+  {
+    "var": "FOOL_M1_obj523_sign_mesg",
+    "field": "map_obj523_sign_mesg",
+    "en": "Beware of Area 51.",
+    "ua": "Не ходіть в зону 51."
+  },
+  {
+    "var": "FOOL_M1_obj536_guardian_mesg",
+    "field": "map_obj536_guardian_mesg",
+    "en": "Feeling bad about being so short tempered to the poor merchant your conscience gets the best of you and you go back to apologize. You arrive only to find a huge disgusting monster in the merchant's place.",
+    "ua": "Совість, що нещодавно прокинулась, говорить вам, що ви погано обійшлися з бідним торговцем. Ви вирішуєте вибачитися перед ним. Однак, повернувшись, ви знаходите на місці торговця жахливе чудовисько."
+  },
+  {
+    "var": "FOOL_M1_obj537_guardian_mesg",
+    "field": "map_obj537_guardian_mesg",
+    "en": "You come across a lowly merchant who looks as if he has not seen any business all day. The pale and desperate looking man gives his best sales spiel. \"Find all your treasures with this! A map to few refer to as the Market of Time.\" You look at the crumpled remains of a scroll and laugh. You toss a few gold coins at the poor soul and say \"The Market of Time? This place you speak of was pulled out of existence during the restoration of Erathia. Anybody who tells you differently is trying to sell you something.\" You walked away satisfied with your statement.",
+    "ua": "Ви натрапили на бідного торговця, справи якого йдуть з рук геть погано. Блідий і зневірений, він з останніх сил розхвалює свій товар: \"Усі скарби на одній карті. Ця карта приведе вас в секретне місце, яке посвячені називають \"Ярмарком століть\" Поглянувши на затертий сувій, ви мимоволі розреготалися. Кинувши бідоласі кілька золотих, ви вимовляєте: \"Ярмарок століть\" Так це місце вже давно не існує, ще з часів відродження Ерафії. А якщо хтось намагається переконати тебе в протилежному, то він хоче продати тобі яку-небудь нісенітницю. Задоволений своєю мовою, ви залишаєте торговця."
+  },
+  {
+    "var": "FOOL_M1_obj541_guardian_mesg",
+    "field": "map_obj541_guardian_mesg",
+    "en": "A drunken fool staggers his way out of the tavern and with slurred words begins hollering at you. Trying not to laugh, you listen intently to the man's words. \"Thou mustith enter yon tavern...nnn. Blessed are the minstrels in the tavern!\" He paused to belch loudly and continued. \"They call themselves Smashing Melons...sss\" ",
+    "ua": "З таверни вивалюється п'яний відвідувач. Стримуючи сміх, ви слухаєте його бурмотіння. \"Ні, обов'язково зайди в цю таверну! Що за мен-нестрелі в ній грають! Чудо!\" Він переривається, щоб знудити, після чого продовжує: \"Вони звуться\" Смешин Памперс-с... \""
+  },
+  {
+    "var": "FOOL_M1_obj542_guardian_mesg",
+    "field": "map_obj542_guardian_mesg",
+    "en": "Another fork in the road! Now very testy, you are getting tired of all the forks in the road. From now on you will leave the decision up to your advisors. After all, that is their job.",
+    "ua": "Чергова розвилка на дорозі. Як ви втомилися від цих розвилок! Все, з цього моменту вибором шляху будуть займатися ваші радники. Зрештою, на те вони і радники!"
+  },
+  {
+    "var": "FOOL_M1_obj552_guardian_mesg",
+    "field": "map_obj552_guardian_mesg",
+    "en": "While traveling, you see a tired peasant woman carrying large, heavy looking bags. Being kindly you ask the woman if she needs some assistance. \"You just want to help me because I'm a woman!\" she snaps. \"Oh no,\" you say, \"I wanted to help you because of your age.\"",
+    "ua": "Ви зустріли втомлену селянку, яка несе на плечах великий мішок, важкий на вигляд. Пропонуючи підвезти її, ви мимохідь цікавитеся, що в мішку. \"Овес\", - похмуро відповідає вона. \"Овес?\" - перепитує ви, - \"Навіщо?\" - \"Знаю я вас, лицарів - як доїдете до найближчого ліска, відразу у коня овес кінчається\". Засоромившись, ви пришпорюєте коня і продовжуєте шлях."
+  },
+  {
+    "var": "FOOL_M1_obj553_guardian_mesg",
+    "field": "map_obj553_guardian_mesg",
+    "en": "Another fork in the road! You yawn and wonder what you are going to do with all these forks. Your backpack is getting quite full and quite heavy. Which way to go, on the other hand, well, that's something entirely different. ",
+    "ua": "Ще одна розвилка на дорозі. Позіхнувши, ви замислюєтеся над тим, чому вам жодного разу не зустрілася розложка. І в черговий раз - над тим, куди повернути."
+  },
+  {
+    "var": "FOOL_M1_obj554_guardian_mesg",
+    "field": "map_obj554_guardian_mesg",
+    "en": "Two! Two forks in the road! Slightly annoyed you wonder why this fork in the road reminds you of some counting vampire. You put the salad fork and the dinner fork into your backpack and travel on.",
+    "ua": "Дві! Відразу дві розвилки! Або одна розвилка і одна розвилка - це вже два-вилка? Ви складаєте виделку для салату і обідню виделку в свою торбу і продовжуєте шлях."
+  },
+  {
+    "var": "FOOL_M1_obj555_guardian_mesg",
+    "field": "map_obj555_guardian_mesg",
+    "en": "You tiptoe up to the box lying in the patch of grass between the trees. You are a little gun shy because the last time he opened up a mystery box you woke up nude behind a brothel with a tattoo on your bum. Carefully you open the box.",
+    "ua": "Ви навшпиньки підходите до ящика, який лежить на галявині серед дерев. Вам трохи не по собі, адже востаннє, відкривши таємничу скриньку, ви прокинулися голяком в борделі, з татуюванням на сідниці. Ви обережно відкриваєте ящик."
+  },
+  {
+    "var": "FOOL_M1_obj557_sign_mesg",
+    "field": "map_obj557_sign_mesg",
+    "en": "Malibu II",
+    "ua": "Малібу II"
+  },
+  {
+    "var": "FOOL_M1_obj576_guardian_mesg",
+    "field": "map_obj576_guardian_mesg",
+    "en": "A toll guard abruptly stops you and your troops at the fork in the road. The longhaired troll guard demands that you fork over 147 gold pieces in order to pass. You don't see things his way and reach for your sword when all of a sudden from the trees comes...",
+    "ua": "На перехресті вас зупиняє митник. Волосатий троль вимагає 147 золотих за прохід. Ви хочете вирішити ситуацію по-іншому і вже простягаєте руку до меча, як раптом з-за дерев з'являються..."
+  },
+  {
+    "var": "FOOL_M1_obj580_guardian_mesg",
+    "field": "map_obj580_guardian_mesg",
+    "en": "You are confronted by a bunch of short odorous goblins. They all line up in front of you and begin singing in unison, \"Follow the cobblestone road, follow the cobblestone road. Follow, follow, follow, follow, follow the cobblestone road. Follow the cobblestone, follow the cobblestone, follow the cobblestone road. \" You are convinced that you are delusional from swallowing too much ocean water.",
+    "ua": "Звідки не візьмись, з'являється зграя низькорослих смердючих гоблінів. Вони шикуються перед вами в шеренгу і співають: \"По дорозі, вимощеній каменем, знову зачарований підеш! По дорозі, по дорозі, вимощеній каменем! По дорозі, по дорозі, по дорозі!\". Схоже, від морської води у вас галюцинації."
+  },
+  {
+    "var": "FOOL_M1_obj608_guardian_mesg",
+    "field": "map_obj608_guardian_mesg",
+    "en": "At a fork in the road you stop and ask the nearest creature for directions on how to get to a tavern. You look at him more closely. He looks strangely familiar but you dismiss the thought. The creature looks you dead in the eye and replies \"You got a lot of nerve comin' back here after what you pulled. You innocently point to yourself innocently, mouthing, \"Me?\" He walks towards you threateningly. Suddenly he throws his arm around you and shouts \"How ya doin' my old friend? I haven't seen you in ages.  Don't you remember me?\" You realize you have no idea who or what this creature is but you play along. He gives you directions to the tavern and a few gold pieces for a drink. \"Take this my friend. Get yourself a New World Long Neck Pale Ale. Perhaps I may join you?\"",
+    "ua": "Ви зупиняєтеся на дорожній розвилці і питаєте у найближчої істоти, як дістатися до таверни. Придивившись, ви про себе відзначаєте, що істота здається вам смутно знайомої, але тут же женете геть цю думку. Дивлячись вам прямо в очі, істота відповідає: \"Та ти хоробрий! Це треба ж - повернутися сюди після того, що ти тут замутив!\". Ви як ні в чому не бувало перепитує: \"Я?\" Істота загрозливо насувається на вас, і раптом, ляскаючи вас по плечу, кричить: \"Як справи, старий друже! Сто років не бачилися! Не впізнаєш?\" Ви розумієте, що цей тип вам абсолютно не знайомий, але покірно граєте свою роль \"старого друга \". Зрештою невідомий показує вам дорогу до таверни, та до того ж дає грошей на випивку: \"А може, і я до тебе приєднаюсь?\". Візьми, один. Вип'єш світлого елю \"Нью Ворлд Лонг Нек\""
+  },
+  {
+    "var": "FOOL_M1_obj610_sign_mesg",
+    "field": "map_obj610_sign_mesg",
+    "en": "Waikiki I",
+    "ua": "Вайкікі I"
+  },
+  {
+    "var": "FOOL_M1_obj612_guardian_mesg",
+    "field": "map_obj612_guardian_mesg",
+    "en": "Blessed is the artless dizzy-eyed coxcomb who contrived these roads. You are becoming very dreary-eyed as you are again faced with which way to go. You pull out a gold piece and shout to your troops: \"Call it in the air! You point, \"Heads we go that way. Tails we go that way,\" you say pointing in the other direction. You flip the coin. \"TAILS!\" the group shouts.",
+    "ua": "Блаженний косоокий ремісник, який будував ці дороги! Схоже, скоро і ваші очі збіжаться в купку від постійних роздумів, який шлях обрати. Ви дістаєте золоту монету і командуєте військам: \"Загадуйте, поки не впало Орел - йдемо туди, решка - йдемо сюди!\". Ви підкидаєте монету. \"Решка!\" - Дружно кричать воїни."
+  },
+  {
+    "var": "FOOL_M1_obj616_guardian_mesg",
+    "field": "map_obj616_guardian_mesg",
+    "en": "Standing at a divergence in the road was a family of tattered peasants and their decrepit cart pulled by a one-eyed, partially lame horse. You bend down to offer aid, but the pudgy, balding man is too busy trying to contain his four unruly children to notice.  The man's wife winks seductively at you. Your face begins to blush.  You run off as quickly as your dignity can carry you.",
+    "ua": "На цьому перехресті ви зустрічаєте сім'ю селян-голодранців. Їх візок тягне одноокий кульгаючий кінь. Ви спішується, щоб запропонувати допомогу, але татусь, лисіючий товстун, дуже зайнятий спробами втихомирити своїх чотирьох дітей, щоб звертати на вас увагу. А ось його дружина підморгує вам з явним натяком... Ви червонієте, схоплюєтеся на коня і щодуху несетеся геть."
+  },
+  {
+    "var": "FOOL_M1_obj618_guardian_mesg",
+    "field": "map_obj618_guardian_mesg",
+    "en": "While deep in the woods you stumble onto a hidden, moss-covered, wooden chest that has been revealed from a previous rain.  After many hours of prying and beating on the chest, it wouldn't budge. A very fat member of your army offers his body weight and body-slams the chest and it bursts open.",
+    "ua": "У лісовій глушині ви набрели на дерев'яну скриню, покриту мохом. Мабуть, нещодавно пройшов дощ і змив з нього бруд і виставив на божий світ. Кілька годин йде на спроби розкрити скриню, але все без толку. Один з найогрядніших воїнів пропонує зламати скриню вагою свого тіла. Він з розбігу стрибає на скриню і легко розламує її."
+  },
+  {
+    "var": "FOOL_M1_obj636_guardian_mesg",
+    "field": "map_obj636_guardian_mesg",
+    "en": "Several hobgoblins surround you. Suddenly there is an outburst of song.  \" We represent the War Hammers guild, the War Hammers guild, the War Hammers guild, And in the name of the War Hammers Guild........We wish to welcome you to Truncheon Land.\"",
+    "ua": "Вас оточують кілька хобгоблінов. Раптом вони заводять пісню, в якій запрошують вас в чарівну й таємничу подорож."
+  },
+  {
+    "var": "FOOL_M1_obj1273_guardian_mesg",
+    "field": "map_obj1273_guardian_mesg",
+    "en": "You begin complaining to your troops. \"How are we supposed to follow the cobblestone road when there are so many forks in it? And whose idea was it for all passersby to get a fork at EVERY FORK IN THE ROAD!\" You lick your finger and stick it in the air. You determine the direction of the wind and travel in that direction.",
+    "ua": "Звернувшись до військ, ви обурюєтеся: \"Як же нам йти цією дорогою, якщо вона просто втикана розвилками? І що це за роздача вилок на кожній розвилці?\" Подивувавшись божевіллям своєї останньої фрази, ви плюєте на палець і піднімаєте його вгору, щоб визначити напрям вітру. Дізнавшись, куди дме вітер, ви продовжуєте шлях у цьому напрямку."
+  },
+  {
+    "var": "FOOL_M1_obj1274_guardian_mesg",
+    "field": "map_obj1274_guardian_mesg",
+    "en": "You come to yet another parting in the road. Low and behold another fork for you to toss into his backpack. You grit your teeth.  An advisor then reminds you that you wouldn't have to worry about Christmas shopping.",
+    "ua": "Дорога знову розходиться - ще одна розвилка вам в суму. Ви стискаєте зуби, і тут радник зауважує, що тепер вам можна не турбуватися про різдвяні подарунки для ваших близьких."
+  },
+  {
+    "var": "FOOL_M1_obj1275_guardian_mesg",
+    "field": "map_obj1275_guardian_mesg",
+    "en": "For a long time you have followed the straight and narrow path. But now you have no idea which way to turn. All these forks in the road would drive anyone to the nut house. You begin to laugh and then cry and then laugh again because he was crying and cry because he was laughing.",
+    "ua": "Ви пройшли чимало по вузькій прямій стежинці, і ось перед вами знову розвилка. Куди ж повернути? Ні, ці розвилки доведуть до божевілля. Ви починаєте плакати, потім сміятися, потім шкодувати себе, кликати на допомогу і знову плакати."
+  },
+  {
+    "var": "FOOL_M1_obj1276_guardian_mesg",
+    "field": "map_obj1276_guardian_mesg",
+    "en": "You let out a big sigh, bite your bottom lip, and mindlessly gaze up both paths that lay before you.  Will you claim the sawmill just ahead or continue around the bend on the other road? You hope that there was a tavern near by. A tall, stiff ale sounds good right about now.",
+    "ua": "Зітхнувши, ви закусили нижню губу, бездумно дивлячись на дві дороги, що лежать перед вами. Піти прямо, щоб захопити млин, чи звернути? Вам дуже хочеться вірити, що за поворотом ви знайдете таверну. Кружка доброго елю - це саме те, що вам потрібно зараз."
+  },
+  {
+    "var": "FOOL_M1_obj1278_sign_mesg",
+    "field": "map_obj1278_sign_mesg",
+    "en": "Muscle Beach III",
+    "ua": "Масл-біч III"
+  },
+  {
+    "var": "FOOL_M1_obj1298_guardian_mesg",
+    "field": "map_obj1298_guardian_mesg",
+    "en": "A large boulder obstructs the road. You send one of your troops ahead to see what is on the other side. \"Sire!\" he yelled, \"You'll never guess...Another fork in the road!\" You glance at the huge rock and notice it that has inscriptions on it. In search of profound intellect, you read. \"Eat at Craig Hack's.\" \"The best way to a man's heart is to hack his breastplate open.\" \n\"Catherine Gryphonheart slept here\" \"S.W.M. seeks S.W.F. for F.U.N.A.S.A.P.\" \"Kilgore was here.\"",
+    "ua": "Дорогу вам перегороджує величезний камінь. Ви посилаєте одного зі своїх воїнів в розвідку - з'ясувати, що лежить на іншій стороні. \"Сер!\" - Кричить він, - \"Ні за що не вгадаєте... нова розвилка!\" Поглянувши на камінь, ви помічаєте, що він поцяткований написами. Думаючи знайти велику мудрість, ви починаєте читати. \"Обідайте у Краґа Хака Біг Хак - 15 Золотих\". \"Щоб знайти шлях до серця чоловіка, розрубай нагрудник його збруї\".\n\"Тут спала Катерина Гріфонхарт\". \"Самотній чоловік бажає познайомитися\". \"Тут був Кілґор\"."
+  },
+  {
+    "var": "FOOL_M1_obj1372_guardian_mesg",
+    "field": "map_obj1372_guardian_mesg",
+    "en": "You begin to weep. Your troops begin to mock you. There you stand in front of the refuse heap where you are to build a capitol.",
+    "ua": "Сльози виступають у вас на очах, і ви навіть не помічаєте насмішок ваших солдатів. Невже з цієї купи сміття вам доведеться відбудувати Капітолій?"
+  },
+  {
+    "var": "FOOL_M1_obj1380_guardian_mesg",
+    "field": "map_obj1380_guardian_mesg",
+    "en": "You come upon two roads that fork in a yellow wood.  Travelers have worn them really about the same but the one on the left seemed a little grassier and perhaps was not so heavily traveled. You look down both roads and then make a decision.",
+    "ua": "Ви підійшли до розвилки двох доріг, що йдуть в жовтий ліс. Обидві вони виходжені подорожніми майже однаково, але ліва трохи сильніше заросла травою - можливо, нею користувалися не так часто. Ви оглянули обидві дороги і зробили свій вибір."
+  },
+  {
+    "var": "FOOL_M1_obj1386_sign_mesg",
+    "field": "map_obj1386_sign_mesg",
+    "en": "Zuma I",
+    "ua": "Зума-біч I"
+  },
+  {
+    "var": "FOOL_M1_obj1395_guardian_mesg",
+    "field": "map_obj1395_guardian_mesg",
+    "en": "Gasp! A fork in the road!  What will you do? After long hours of heated debate and consulting with several of your learned counselors you promise to keep the fork to bestow upon your loving father's grave.",
+    "ua": "Ой! Розвилка! Що ж робити? Після довгих суперечок з вашими радниками ви вирішуєте забрати розвилку з собою, щоб встановити її на могилі вашого улюбленого батька."
+  },
+  {
+    "var": "FOOL_M1_obj1396_monster_mesg",
+    "field": "map_obj1396_monster_mesg",
+    "en": "Do you have a daughter? ",
+    "ua": "\"Ей, а доньки у тебе немає?\""
+  },
+  {
+    "var": "FOOL_M1_obj1397_monster_mesg",
+    "field": "map_obj1397_monster_mesg",
+    "en": "Go to the stronghold town girly-man.",
+    "ua": "\"Йди в Цитадель, друже\"."
+  },
+  {
+    "var": "FOOL_M1_obj1421_guardian_mesg",
+    "field": "map_obj1421_guardian_mesg",
+    "en": "You took the road less traveled, and that has made all the difference.",
+    "ua": "Ти вибрав незайману стежку, без сліду - ось у чому ключове рішення."
+  },
+  {
+    "var": "FOOL_M1_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Intro 1",
+    "ua": "Intro 1"
+  },
+  {
+    "var": "FOOL_M1_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "While on a three-hour sight seeing tour, the mighty Sir Christian's ship was blown off course by a sudden summer storm. When the storm cleared, the captain and crew had no idea what their position might be. For nearly a week they sailed under an overcast sky, completely unable to determine their heading. Finally, a small rocky island was spotted. During the attempts at beaching the craft, a large rock slammed its way into the hull of the boat. Fortunately no one was injured and they were able to get to the shore safely. The curious natives seemed friendly. In meeting with the humble Sir Christian they agreed to help him get off the island if he built them a capitol.",
+    "ua": "Під час розважальної морської прогулянки раптово почалася буря, і корабель сера Крістіана збився з курсу. Коли шторм стих, мореплавці виявилися в невідомих водах. Майже тиждень ходили вони по хвилях, нездатні навіть визначити, в якому напрямку пливуть - небо було затягнуте хмарами. Нарешті, вони помітили маленький скелястий острівець. При спробі причалити корабель напоровшись на великий камінь. На щастя, ніхто не постраждав, і всім вдалося зійти на берег. Аборигени спостерігали за прибульцями з цікавістю, але без ворожості. Після переговорів з сером Крістіаном вони домовилися, що допоможуть йому покинути острів, якщо він побудує їм Капітолій."
+  },
+  {
+    "var": "FOOL_M1_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Day 2",
+    "ua": "Day 2"
+  },
+  {
+    "var": "FOOL_M1_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "The leader of the natives meets with you. The jolly old fellow seems very excited and says; \"Our prayers have been answered! You are the one who will help us. There is a town in ruins east of here owned and heavily guarded by our tribe. We don't want those raiders from the north taking this town away from us because it would go to their heads and then we'd have to go to war and that's just a big headache. But it'd be great fun.\" You stare at him blankly. He continues. \"If you would be so kind to help us build a capitol in that town we will gladly help you repair your boat so that you can be on your way. To get there you MUST follow the cobblestone road.\" After you thank him for his generosity you agree to the deal. ",
+    "ua": "Сьогодні у вас зустріч з місцевим вождем. Дідок виглядає зраділим: \"Боги почули наші молитви! Ти - той, хто повинен допомогти нам! На схід звідси мої воїни охороняють руїни нашого міста. Нам не хотілося б, щоб північні розбійники забрали це місто, адже тоді нам доведеться напасти на них, а це означає початок війни, а війна означає великий головний біль. Хоча і велику розвагу теж.\" Ви байдуже дивитеся на нього. Він продовжує: \"Якщо ти зробиш нам люб'язність і допоможеш побудувати в цьому місті Капітолій, то ми з радістю допоможемо тобі полагодити твій човен, щоб ти міг продовжити шлях. Щоб потрапити в місто, йди по дорозі, мощеній кругляком\". Ви дякуєте вождю за доброту і погоджуєтеся на операцію."
+  },
+  {
+    "var": "FOOL_M1_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Day 7",
+    "ua": "Day 7"
+  },
+  {
+    "var": "FOOL_M1_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "Terrible news has reached you. A messenger from the natives delivers you the news. \"Sire, Last evening our town was ransacked. The foolish thieves took all of our wood but left the chests of gold nearby. There was trace of who it may have been. One of the townspeople found a note that read:",
+    "ua": "Гонець з місцевих приніс вам жахливу новину: \"Сір, сьогодні вночі наше місто було розграбоване! Злодії забрали всі запаси деревини, але скрині із золотом їм далеко винести не вдалося. У нас є доказ - один з городян знайшов записку, в якій йдеться:"
+  },
+  {
+    "var": "FOOL_M1_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "Day 7b",
+    "ua": "Day 7b"
+  },
+  {
+    "var": "FOOL_M1_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "There is a severe toothpick shortage. Trust no one. We'll be back for more when you least expect it.  SINcerely yours, Prince Woody Sparkly Face",
+    "ua": "\"Катастрофічно не вистачає зубочисток. Нікому не довіряйте. Ми повернемося, коли ви найменше очікуєте, і заберемо все, що залишилося.\nЩиро ваш, принц Вуді Місяцеликий\""
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "var": "GOOD3_M1_prolog",
+    "field": "wrapper_prolog",
+    "en": "A Necromancer is attempting to reach an Erathian outpost with proof of who killed King Gryphonheart. He is currently safe, but his way is blocked by undead loyal to their new King. You must escort him on the last leg of the journey.",
+    "ua": "Один некромант намагається пробитися до аванпосту ерафійців. Він везе їм докази, що викривають вбивцю короля Гріфонхарта. Поки посланець в безпеці, але нежить, вірна новому королю, перегороджує йому шлях. Вам належить супроводжувати його на останньому відрізку шляху."
+  },
+  {
+    "var": "GOOD3_M1_epilog",
+    "field": "wrapper_epilog",
+    "en": "Upon liberating Steadwick, my fears were confirmed.  My father did not die of natural causes.  He was poisoned. Investigations conducted by General Morgan Kendal prior to the war yielded no suspects. Now I learn the necromancers, seeking a military tactician equal to myself, have ressurrected my father, King Gryphonheart. After killing King Vilmar, he took command of their military and their throne.  Now they come to us.  They cannot stop the monster they have created.  As a gesture of good faith, they send a messenger to speak only to me. He will tell me who killed my father. Find this hero and deliver him to me safely.",
+    "ua": "Стедвік звільнений. Мої побоювання підтвердилися. Батько помер не своєю смертю. Його отруїли. Довоєнне розслідування генерала Моргана Кендала не виявило жодного підозрюваного. Тепер стало відомо, що некроманти, підшукуючи стратега, рівного мені, пробудили з мертвих мого батька - короля Гріфонхарта. Убивши їх правителя Вілмара, він захопив командування армією і трон. І ось некроманти біля моїх ніг з проханням про допомогу. Їм не зупинити чудовисько, яке вони створили. Як жест доброї волі вони шлють до мене посланця. Він розповість мені, хто вбив мого батька, а ти мусиш відшукати вбивцю і привести до мене живим."
+  },
+  {
+    "var": "GOOD3_M1_map_name",
+    "field": "map_map_name",
+    "en": "Safe Passage",
+    "ua": "Безпечний шлях"
+  },
+  {
+    "var": "GOOD3_M1_map_desc",
+    "field": "map_map_desc",
+    "en": "To win, the Necromancer, Nimbus, must reach the town of Highcastle with the Statesman's Medal. At the end of this scenario, Nimbus and your 7 strongest Heroes will travel with you to the next scenario of this campaign.",
+    "ua": "Для перемоги некромант Німбус повинен дійти до міста Хайкасл з Медаллю дипломата. Наприкінці цього сценарію Німбус і сім ваших найсильніших героїв перейдуть з вами в наступний сценарій цієї кампанії."
+  },
+  {
+    "var": "GOOD3_M1_obj15_town_name",
+    "field": "map_obj15_town_name",
+    "en": "Highcastle",
+    "ua": "Хайкасл"
+  },
+  {
+    "var": "GOOD3_M1_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Intro",
+    "ua": "Intro"
+  },
+  {
+    "var": "GOOD3_M1_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "The Necromancer, Nimbus, bears proof of who killed King Gryphonheart. He must reach our outpost safely or we may never know the truth. Clear the road for him and get him to our castle!",
+    "ua": "У некроманта Німбуса є докази, що свідчать, хто вбив Короля Гріфонхарта. Він повинен дістатися до нашої сторожової застави живим, інакше ми ніколи не дізнаємося правду. Розчистіть йому шлях і проведіть його в наш Замок!"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "var": "AB_campaign_name",
+    "field": "wrapper_campaign_name",
+    "en": "Armageddon's Blade",
+    "ua": "Клинок Армагеддону"
+  },
+  {
+    "var": "AB_campaign_desc",
+    "field": "wrapper_campaign_desc",
+    "en": "Queen Catherine, her husband King Roland, and Gelu, a warrior in Erathia's elite Forestguard, must work together to defeat the insane King Lucifer of Eeofol who will create Armageddon's Blade.  With it he plans to set the world on fire.",
+    "ua": "Королева Катерина, її чоловік Роланд і Гело повинні об'єднати свої зусилля, щоб розгромити божевільного короля Еофола - Люцифера, який готується створити Клинок Армагеддону. За допомогою Клинка Люцифер може спалити весь світ."
+  },
+  {
+    "var": "AB_campaign_epilogue",
+    "field": "wrapper_campaign_epilogue",
+    "en": "Lucifer Kreegan is dead.  The few remaining Kreegan clans have gone into hiding.   All but a few of the elemental Confluxes have disappeared.  I am sure we will see them again... if needed.  As for myself and Roland, we will soon depart for Enroth and I will see my son again.  As for Gelu, I left Armageddon's Blade in his hands.   Following our victory, he and his guerilla army vanished into the Erathian forests.   I do not know if he intends to destroy the weapon... or keep it for himself.   In time, I am sure we will all know.",
+    "ua": "Люцифер Криган мертвий. Ті демони, що вижили бігли і розсіялися по країні. Зникли й Колонії Елементалів - майже всі. Я впевнена, ми ще зустрінемося, якщо вони вирішать, що нам знову потрібна допомога. А ми... ми з Роландом пливемо в Енрот. Скоро знову побачу сина... Клинок Армагеддону ми передали Ґело. Відразу після перемоги його партизанський загін пішов у ліси. Не знаю, чи замислив він знищити меч, чи залишити його собі. Я впевнена, ми ще почуємо про це.\n"
+  }
+]

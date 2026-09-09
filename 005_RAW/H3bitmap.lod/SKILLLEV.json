@@ -1,0 +1,32 @@
+[
+  {
+    "var": "SKILLLEV_1",
+    "en": "Basic",
+    "ua": "1-й рівень"
+  },
+  {
+    "var": "SKILLLEV_2",
+    "en": "Advanced",
+    "ua": "2-й рівень"
+  },
+  {
+    "var": "SKILLLEV_3",
+    "en": "Expert",
+    "ua": "3-й рівень"
+  },
+  {
+    "var": "SKILLLEV_4",
+    "en": "Bas",
+    "ua": "1 р."
+  },
+  {
+    "var": "SKILLLEV_5",
+    "en": "Adv",
+    "ua": "2 р."
+  },
+  {
+    "var": "SKILLLEV_6",
+    "en": "Exp",
+    "ua": "3 р."
+  }
+]

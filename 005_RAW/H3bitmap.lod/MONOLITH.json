@@ -1,0 +1,82 @@
+[
+  {
+    "var": "MONOLITH_1",
+    "en": "green",
+    "ua": "зелений"
+  },
+  {
+    "var": "MONOLITH_2",
+    "en": "orange",
+    "ua": "оранжевий"
+  },
+  {
+    "var": "MONOLITH_3",
+    "en": "purple",
+    "ua": "бордовий"
+  },
+  {
+    "var": "MONOLITH_4",
+    "en": "four",
+    "ua": "четвертий"
+  },
+  {
+    "var": "MONOLITH_5",
+    "en": "five",
+    "ua": "п'ятий"
+  },
+  {
+    "var": "MONOLITH_6",
+    "en": "six",
+    "ua": "шостий"
+  },
+  {
+    "var": "MONOLITH_7",
+    "en": "seven",
+    "ua": "сьомий"
+  },
+  {
+    "var": "MONOLITH_8",
+    "en": "eight",
+    "ua": "восьмий"
+  },
+  {
+    "var": "MONOLITH_9",
+    "en": "blue",
+    "ua": "синій"
+  },
+  {
+    "var": "MONOLITH_10",
+    "en": "red",
+    "ua": "червоний"
+  },
+  {
+    "var": "MONOLITH_11",
+    "en": "yellow",
+    "ua": "жовтий"
+  },
+  {
+    "var": "MONOLITH_12",
+    "en": "four",
+    "ua": "четвертий"
+  },
+  {
+    "var": "MONOLITH_13",
+    "en": "five",
+    "ua": "п'ятий"
+  },
+  {
+    "var": "MONOLITH_14",
+    "en": "six",
+    "ua": "шостий"
+  },
+  {
+    "var": "MONOLITH_15",
+    "en": "seven",
+    "ua": "сьомий"
+  },
+  {
+    "var": "MONOLITH_16",
+    "en": "eight",
+    "ua": "восьмий"
+  }
+]

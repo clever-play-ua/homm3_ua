@@ -1,0 +1,338 @@
+[
+  {
+    "var": "FINAL_M8_prolog",
+    "field": "wrapper_prolog",
+    "en": "The battle is half over.  Now you and Finneas must simultaneously invade AvLee and Erathia.  Concentrating your troops on one of the countries will give the other a great tactical advantage.  Therefore, your troops must be divided.  Some call AvLee's armies \"the Wall of Destruction,\" and everyone knows Erathia's defenders are just shy of invincible.  This will be no easy task.",
+    "ua": "Війна майже виграна. Тепер ви і Фінеас повинні одночасно захопити Ав-Лі й Ерафію. Зосередження ваших військ у цих країнах дасть велику тактичну перевагу, однак це означає, що ваші війська необхідно розділити. Деякі називають армію Ав-Лі \"Руйнуючою стіною\", і всі знають, що захисники Ерафії безстрашні. Це буде нелегке завдання."
+  },
+  {
+    "var": "FINAL_M8_epilog",
+    "field": "wrapper_epilog",
+    "en": "It was easy to remove the AvLee, Erathian and Krewlod troops from Deyja, but the invasion itself will be much more difficult.  To launch an offensive that will not leave one border open, we must assault both borders simultaneously.  Once again, Finneas wishes me to handle the matter personally.  His faith in my abilities is touching, but even a puppet King must someday learn how to command if he is to be an effective tool.",
+    "ua": "Видворити загони Ав-Лі, Ерафії і Крюлода з Деї було нескладно, набагато важче організувати вторгнення. Ми повинні напасти одночасно на обох супротивників. Фінеас знову хоче, щоб я особисто очолив похід. Його віра в мої здібності розчулює, але навіть маріонетковий король, якщо він хоче залишатися корисним інструментом у моїх руках, повинен збагнути хоча б ази стратегії."
+  },
+  {
+    "var": "FINAL_M8_map_name",
+    "field": "map_map_name",
+    "en": "Invasion",
+    "ua": "Нашестя"
+  },
+  {
+    "var": "FINAL_M8_map_desc",
+    "field": "map_map_desc",
+    "en": "Defeat the Rangers and Barbarians against Sandro and his forces of undead to win the scenario.  However, if Sandro is defeated in combat, the scenario is lost.  Sandro is limited to level 40 but will carry his experience, skills and spells on to his next scenario.",
+    "ua": "Для того щоб отримати перемогу в цьому сценарії, Сандро і його нежить повинні знищити вільних стрільців і варварів. Якщо ж Сандро буде переможений у бою, сценарій закінчиться поразкою. Сандро обмежений 40 рівнем, але він переходить у наступний сценарій з усім досвідом, навичками і заклинаннями."
+  },
+  {
+    "var": "FINAL_M8_obj1539_town_name",
+    "field": "map_obj1539_town_name",
+    "en": "Soaring Height",
+    "ua": "Сорінг-Хейт"
+  },
+  {
+    "var": "FINAL_M8_obj1539_event_name",
+    "field": "map_obj1539_event_name",
+    "en": "Troops",
+    "ua": "Troops"
+  },
+  {
+    "var": "FINAL_M8_obj1539_event_mesg",
+    "field": "map_obj1539_event_mesg",
+    "en": "Here are some troops for the computer.",
+    "ua": "Прибули війська для комп'ютерного гравця."
+  },
+  {
+    "var": "FINAL_M8_obj1540_town_name",
+    "field": "map_obj1540_town_name",
+    "en": "Meadow Brook",
+    "ua": "Мідоу-Брук"
+  },
+  {
+    "var": "FINAL_M8_obj1540_event_name",
+    "field": "map_obj1540_event_name",
+    "en": "Troops",
+    "ua": "Troops"
+  },
+  {
+    "var": "FINAL_M8_obj1540_event_mesg",
+    "field": "map_obj1540_event_mesg",
+    "en": "Here are some troops for the computer",
+    "ua": "Прибули війська для комп'ютерного гравця."
+  },
+  {
+    "var": "FINAL_M8_obj1540_event_name",
+    "field": "map_obj1540_event_name",
+    "en": "resources",
+    "ua": "Troops"
+  },
+  {
+    "var": "FINAL_M8_obj1540_event_mesg",
+    "field": "map_obj1540_event_mesg",
+    "en": "have some resources",
+    "ua": "Прибули війська для комп'ютерного гравця."
+  },
+  {
+    "var": "FINAL_M8_obj1541_town_name",
+    "field": "map_obj1541_town_name",
+    "en": "Forestdale",
+    "ua": "Форестдейл"
+  },
+  {
+    "var": "FINAL_M8_obj1541_event_name",
+    "field": "map_obj1541_event_name",
+    "en": "Troops",
+    "ua": "Troops"
+  },
+  {
+    "var": "FINAL_M8_obj1541_event_mesg",
+    "field": "map_obj1541_event_mesg",
+    "en": "Here are some creatures for the computer.",
+    "ua": "Прибули нові монстри для комп'ютерного гравця."
+  },
+  {
+    "var": "FINAL_M8_obj1545_town_name",
+    "field": "map_obj1545_town_name",
+    "en": "Crag's Place",
+    "ua": "Замок Краґа"
+  },
+  {
+    "var": "FINAL_M8_obj1545_event_name",
+    "field": "map_obj1545_event_name",
+    "en": "resources",
+    "ua": "resources"
+  },
+  {
+    "var": "FINAL_M8_obj1552_town_name",
+    "field": "map_obj1552_town_name",
+    "en": "Hudson Falls",
+    "ua": "Гудзон-Фолс"
+  },
+  {
+    "var": "FINAL_M8_obj1552_event_name",
+    "field": "map_obj1552_event_name",
+    "en": "Troops",
+    "ua": "Troops"
+  },
+  {
+    "var": "FINAL_M8_obj1552_event_mesg",
+    "field": "map_obj1552_event_mesg",
+    "en": "Here are some creatures for the computer.",
+    "ua": "Прибули нові монстри для комп'ютерного гравця."
+  },
+  {
+    "var": "FINAL_M8_obj1553_town_name",
+    "field": "map_obj1553_town_name",
+    "en": "Silver Falls",
+    "ua": "Сілвер-Фолс"
+  },
+  {
+    "var": "FINAL_M8_obj1555_town_name",
+    "field": "map_obj1555_town_name",
+    "en": "Worthington",
+    "ua": "Ворсингтон"
+  },
+  {
+    "var": "FINAL_M8_obj1555_event_name",
+    "field": "map_obj1555_event_name",
+    "en": "Troops",
+    "ua": "Troops"
+  },
+  {
+    "var": "FINAL_M8_obj1555_event_mesg",
+    "field": "map_obj1555_event_mesg",
+    "en": "Here are some creatures for the computer.",
+    "ua": "Прибули нові монстри для комп'ютерного гравця."
+  },
+  {
+    "var": "FINAL_M8_obj1558_town_name",
+    "field": "map_obj1558_town_name",
+    "en": "Thestlemore",
+    "ua": "Тістлмор"
+  },
+  {
+    "var": "FINAL_M8_obj1558_event_name",
+    "field": "map_obj1558_event_name",
+    "en": "Troops",
+    "ua": "Troops"
+  },
+  {
+    "var": "FINAL_M8_obj1558_event_mesg",
+    "field": "map_obj1558_event_mesg",
+    "en": "Here are some creatures for the computer.",
+    "ua": "Прибули нові монстри для комп'ютерного гравця."
+  },
+  {
+    "var": "FINAL_M8_obj1559_guardian_mesg",
+    "field": "map_obj1559_guardian_mesg",
+    "en": "Wanting to take over production of the Ore Mine, you fail to see the Forest Guard quietly closing in and preparing for an ambush.  With no options available, you defend yourself.",
+    "ua": "Захопившись захопленням рудної шахти, ви не помітили Лісову варту, яка оточила вас і приготувалася до нападу. Вам нічого не залишається, як захищатися."
+  },
+  {
+    "var": "FINAL_M8_obj1560_guardian_mesg",
+    "field": "map_obj1560_guardian_mesg",
+    "en": "The town of Silver Falls lies ahead, and as you pass through the rocky pass, it becomes quite evident the town was better defended than you hoped.  The Forest Guard is patrolling here, and they ambush you from all sides.",
+    "ua": "Попереду показалося місто Сілвер-Фолс, і, наблизившись до нього по кам'янистій стежці, ви виявляєте, що воно захищене набагато краще, ніж вам уявлялося. Вас оточують загони Лісової варти і нападають на ваше військо одразу з усіх напрямків."
+  },
+  {
+    "var": "FINAL_M8_obj1561_guardian_mesg",
+    "field": "map_obj1561_guardian_mesg",
+    "en": "While moving your troops through the area, the slightest noise catches your attention.  It is too late!  The Forest Guard attacks!",
+    "ua": "Обережно просуваючись з військом вперед незнайомою місцевістю, ви раптом чуєте тихий шурхіт. Але вже пізно! Лісові вартові кидаються в бій!"
+  },
+  {
+    "var": "FINAL_M8_obj1562_guardian_mesg",
+    "field": "map_obj1562_guardian_mesg",
+    "en": "Rushing for the gold this mill has to offer, you fail to notice the quiet sneaking of Elves closing behind your ranks.  Unable to escape, you turn and face your attackers.",
+    "ua": "Засліплені блиском золота, яке пропонує вам мірошник, ви не помічаєте ельфів, які зайшли в тил вашого війська. Шлях до порятунку відрізаний, і вам залишається тільки захищатися."
+  },
+  {
+    "var": "FINAL_M8_obj1563_guardian_mesg",
+    "field": "map_obj1563_guardian_mesg",
+    "en": "With hopes of gaining more sulfur, you push aside the foliage, but find only Forest Guard in your face.  With nowhere to run, you are attacked by the elite fighting force.",
+    "ua": "Сподіваючись розжитися сіркою, ви розсовуєте листя і... бачите перед собою Лісових вартових, готових до бою. Бігти вам нікуди, і залишається тільки відбиватися від умілих воїнів, що нападають звідусіль."
+  },
+  {
+    "var": "FINAL_M8_obj1564_guardian_mesg",
+    "field": "map_obj1564_guardian_mesg",
+    "en": "Protecting Thestlemore are a few elves, and you suspect a trap.  Unable to see anyone else in the vicinity, you are completely surprised when they spring up from the very ground itself and surround your troops.  Once again you are facing the Forest Guard!",
+    "ua": "Гарнізон Тістлмора складається всього з декількох ельфів, і ви чуєте нутром, що це - пастка. Однак навколо нікого не видно, і ви обережно рухаєтеся вперед. Яке ж ваше здивування, коли вороги починають з'являтися прямо з-під землі і оточують ваше військо. Ви знову потрапили в засідку Лісової варти!"
+  },
+  {
+    "var": "FINAL_M8_obj1566_guardian_mesg",
+    "field": "map_obj1566_guardian_mesg",
+    "en": "The few Forest Guard located here are no match for your forces.  Before engaging you in battle, one of them runs off and sends in for reinforcements.  It may not be a good idea to return to this spot once you have dealt with this group.",
+    "ua": "Ви бачите перед собою кількох Лісових вартових, яким не встояти проти вашого війська. Однак перш ніж вступити в бій, один з них кидається за підкріпленнями. Схоже, коли ви розправитеся з цією купкою ворогів, вам не варто приходити сюди ще раз."
+  },
+  {
+    "var": "FINAL_M8_obj1568_guardian_mesg",
+    "field": "map_obj1568_guardian_mesg",
+    "en": "After successfully getting through the garrison, you find yourself surrounded by even more forces.  It seems the Forest Guard must call this little place home.  One of the Elves steps forward and shouts, \"I am Caleb.  You will not defeat me!\"  With a grin, you push forward to rid this world of him.",
+    "ua": "Успішно розібравшись з гарнізоном, ви раптом опиняєтеся в оточенні ще більш численних ворогів. Схоже, перед вами база Лісової варти. Один з ельфів виступає вперед і голосно заявляє: «Я - Калеб. Тобі мене не перемогти!» З посмішкою на губах ви виступаєте вперед, щоб позбавити світ від цього нахаби."
+  },
+  {
+    "var": "FINAL_M8_obj1569_guardian_mesg",
+    "field": "map_obj1569_guardian_mesg",
+    "en": "Seeking the mercury made in the Alchemist's Lab, you ignore the possibility of enemy activity.  Unfortunately, you should have listened to your scout because the Forest Guard is attacking you!",
+    "ua": "Бажаючи отримати ртуть, яку виробляє алхімік у своїй лабораторії, ви пропустили повз вуха повідомлення про те, що ці місця кишать ворогами. Даремно ви не послухали свого розвідника, бо тепер вам належить битися з Лісовими вартовими!"
+  },
+  {
+    "var": "FINAL_M8_obj1817_town_name",
+    "field": "map_obj1817_town_name",
+    "en": "Radstone",
+    "ua": "Радстон"
+  },
+  {
+    "var": "FINAL_M8_obj1817_event_name",
+    "field": "map_obj1817_event_name",
+    "en": "Resources",
+    "ua": "Resources"
+  },
+  {
+    "var": "FINAL_M8_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Day 1",
+    "ua": "Day 1"
+  },
+  {
+    "var": "FINAL_M8_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "Removing the AvLee, Erathia, and Krewlod troops from Deyja was easier than you thought.  Your new task will be more difficult.  To launch an attack that will not leave one border open, both borders must be assaulted.  Finneas wishes you to pursue this matter personally.  His faith in your abilities is touching, but there will come a time when you will not wish to lead these battles personally.",
+    "ua": "Вигнати війська країни Ав-Лі, Ерафії і Крюлода з меж Деї виявилося легше, ніж ви припускали. Однак тепер перед вами завдання важче. Для того щоб атакувати і при цьому не залишити кордону без захисту, доведеться завдавати ударів відразу в двох напрямах. Фінеас бажає, щоб ви особисто зайнялися цією справою. Його віра у ваші сили не може залишити вас байдужим, але прийде час, коли вам більше не захочеться самому водити війська в атаку."
+  },
+  {
+    "var": "FINAL_M8_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Day 10",
+    "ua": "Day 10"
+  },
+  {
+    "var": "FINAL_M8_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "Finneas sent you a message; his tone was pushy and bossy as if he was in control of the situation.  You leave for a few months, and he suddenly believes he is running the show!  The nonsense those court lords whisper into his ear must have somehow gotten into his hollow head.  This sort of behavior is not welcome, nor will it be allowed.  Fortunately, your presence is required in court, so you must take a quick transport there in order to fulfill certain obligations.  Finneas will be reminded who is really in power.",
+    "ua": "Фінеас прислав вам депешу, і написана вона в такому нахабному тоні, ніби саме він тут найголовніший. Варто було вам відлучитися на декілька місяців, а він, дурник, і повірив, що немає командира важливішого за нього! Напевно, це улесливі промови придворних запаморочили його порожню голову. Ні, друже, такі дурниці з нами не пройдуть! На щастя, у вас є справи при дворі, і ви, не зволікаючи, прямуєте туди, щоб заодно владнати і це діло. Ви нагадаєте Фінеасу, хто з вас двох командує парадом."
+  },
+  {
+    "var": "FINAL_M8_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Day 17",
+    "ua": "Day 17"
+  },
+  {
+    "var": "FINAL_M8_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "It was a pleasure to appear in the midst of court and rattle Finneas' bones.  He was quite disturbed to see you and had to dismiss court early to collect himself.  The rumors floating about the castle were not good ones.  You reminded Finneas in his private chambers it was you who put him on the throne and it was you who could remove him from it.  The impression of your bony fingertips is now permanently emblazoned on his chest, a small spell you picked up years ago.  Finneas will not soon cross you again.",
+    "ua": "Як приємно було з'явитися при дворі і начистити Фінеасу холку. Побачивши вас, він дуже розхвилювався і рано відпустив придворних, щоб вони не заважали йому зібратися з думками. По замку поповзли погані чутки. Усамітнившись з Фінеасом в його особистих апартаментах, ви нагадали йому, що той, хто посадив його на трон, може з такою ж легкістю сколупнути його з престолу. Заодно, як нагадування, ви назавжди залишили на його грудях відбитки ваших кістлявих пальців - цьому простому заклинанню ви навчилися ще в роки юності. Тепер Фінеас двічі подумає, перш ніж робити або говорити всякі дурниці."
+  },
+  {
+    "var": "FINAL_M8_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "Day 25",
+    "ua": "Day 25"
+  },
+  {
+    "var": "FINAL_M8_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "Spies have confirmed your fears.  Yog the Barbarian has encouraged his comrades to search for the Angelic Alliance.  As soon as the reinforcements arrive they will be off looking for the pieces necessary.  AvLee is suspected to be able to provide more troops as early as two weeks from now.  Gryphonheart is concerned and has dispatched men to find out how many they need and why Barbarians are defending the Erathian border.  With so many forces on the move, you will need to conquer this realm quickly.  If those four heroes succeed in gaining all the pieces for the Angelic Alliance, you could lose.",
+    "ua": "Шпигуни підтвердили ваші побоювання. Варвар на ім'я Йоґ умовив своїх товаришів взятися за пошуки Ангельського союзу. Як тільки прибудуть підкріплення, вони відправляться шукати необхідні компоненти. Схоже, країна Ав-Лі зможе виставити додаткові загони вже через два тижні. Гріфонхарт особисто перейнявся цим питанням і послав з'ясувати, скільки людей їм потрібно, і чому варвари захищають кордони Ерафії. Раз така прірва військ прийшла в рух, вам просто необхідно захопити ці області як можна швидше. Якщо вашим чотирьом противникам вдасться зібрати всі частини Ангельського союзу, над вами нависне реальна загроза знищення."
+  },
+  {
+    "var": "FINAL_M8_mapevent4_name",
+    "field": "map_mapevent4_name",
+    "en": "Day 39",
+    "ua": "Day 39"
+  },
+  {
+    "var": "FINAL_M8_mapevent4_mesg",
+    "field": "map_mapevent4_mesg",
+    "en": "The troops for AvLee have arrived and are going to create a problem.  It would be wise to secure this area soon so you can push their lines back and keep them at bay using less forces.  Prolonging this battle is not a wise idea.",
+    "ua": "Війська з Ав-Лі прибули на місце, і тепер будуть псувати вам життя. Було б дуже корисно закріпитися в цій області і відсунути лінію фронту подалі звідси, щоб утримувати ворогів на відстані меншими силами. Затягувати бій не в ваших інтересах."
+  },
+  {
+    "var": "FINAL_M8_mapevent5_name",
+    "field": "map_mapevent5_name",
+    "en": "Day 53",
+    "ua": "Day 53"
+  },
+  {
+    "var": "FINAL_M8_mapevent5_mesg",
+    "field": "map_mapevent5_mesg",
+    "en": "You may not win if this keeps up.  Troops from Erathia have arrived, and they are already in the castles.  Too many more reinforcements and the Angelic Alliance will not be necessary.",
+    "ua": "Якщо ситуація залишиться без змін, ви можете зазнати поразки. Війська, які прибули з Ерафії, вже зайняли фортеці. Якщо підкріплення будуть і далі поступати з такою ж швидкістю, Ангельський союз вже не знадобиться."
+  },
+  {
+    "var": "FINAL_M8_mapevent6_name",
+    "field": "map_mapevent6_name",
+    "en": "Day 4",
+    "ua": "Day 4"
+  },
+  {
+    "var": "FINAL_M8_mapevent6_mesg",
+    "field": "map_mapevent6_mesg",
+    "en": "Bad news has arrived in a package of dust and bones.  While checking out the AvLee territory, your scouts ran into the elite group known as the Forest Guard.  You know that Gelu, the half Vori elf, is a member of this group, but you are certain another leads these.  Who is the question, but you do not know whom to ask.",
+    "ua": "Ваші кістляві шпигуни принесли погані вісті. Прочісуючи прикордонні області країни Ав-Лі, вони натрапили на особливий загін, який називають Лісовою вартою. Відомо, що Ґело, той самий напівельф із країни Ворі, числиться в їх рядах, але ви впевнені, що командує ними хтось інший. Хто б це міг бути? І кого про це можна запитати?"
+  },
+  {
+    "var": "FINAL_M8_mapevent7_name",
+    "field": "map_mapevent7_name",
+    "en": "Day 20",
+    "ua": "Day 20"
+  },
+  {
+    "var": "FINAL_M8_mapevent7_mesg",
+    "field": "map_mapevent7_mesg",
+    "en": "The Captain of the Forest Guard is Caleb, an elf of surpassing skill.  If you were to kill him, these raiding parties might disappear.  They keep getting bolder and bolder with each passing week, as if desperation is a driving force.  Remove the leader and the rest will fall apart.",
+    "ua": "Капітана Лісової варти звуть Калеб, він ельф і відрізняється неймовірними здібностями. Якщо вам вдасться його вбити, набіги його стрільців можуть припинитися. З кожним тижнем вони стають все сміливішими, наче відчай додає їм сил. Треба усунути ватажка, і тоді підлеглі розбіжаться самі собою."
+  },
+  {
+    "var": "FINAL_M8_mapevent8_name",
+    "field": "map_mapevent8_name",
+    "en": "Day 30",
+    "ua": "Day 30"
+  },
+  {
+    "var": "FINAL_M8_mapevent8_mesg",
+    "field": "map_mapevent8_mesg",
+    "en": "You suspect Caleb is located near Forestdale, an AvLee town located to the north and east of your main castles.  With any luck you should catch him there, possibly napping.  It is rumored he carries the Bow of the Sharpshooter, and that powerful bow that could be very useful if you got your hands on it.",
+    "ua": "Схоже, база Калеба знаходиться недалеко від Форестдейлу - авлійского міста, розташованого на північний схід від головних твердинь цієї країни. Якщо вам пощастить, ви знайдете його на місці, і, можливо, навіть мирно сплячим. Кажуть, у нього є Лук снайпера, який міг би вам дуже і дуже стати в нагоді."
+  }
+]

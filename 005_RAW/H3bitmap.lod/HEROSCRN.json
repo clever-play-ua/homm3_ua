@@ -1,0 +1,167 @@
+[
+  {
+    "var": "HEROSCRN_1",
+    "en": "View Quest Log",
+    "ua": "Переглянути щоденник завдань"
+  },
+  {
+    "var": "HEROSCRN_2",
+    "en": "View %s Info",
+    "ua": "Переглянути інформацію по %s"
+  },
+  {
+    "var": "HEROSCRN_3",
+    "en": "Additional Hero Characteristics",
+    "ua": "Додаткові характеристики героя"
+  },
+  {
+    "var": "HEROSCRN_4",
+    "en": "View Good Morale Info",
+    "ua": "Інформація про хорошу мораль"
+  },
+  {
+    "var": "HEROSCRN_5",
+    "en": "View Neutral Morale Info",
+    "ua": "Інформація про нейтральну мораль"
+  },
+  {
+    "var": "HEROSCRN_6",
+    "en": "View Bad Morale Info",
+    "ua": "Інформація про погану мораль"
+  },
+  {
+    "var": "HEROSCRN_7",
+    "en": "View Good Luck Info",
+    "ua": "Інформація про позитивну удачу"
+  },
+  {
+    "var": "HEROSCRN_8",
+    "en": "View Neutral Luck Info",
+    "ua": "Інформація про нейтральну удачу"
+  },
+  {
+    "var": "HEROSCRN_9",
+    "en": "View Bad Luck Info",
+    "ua": "Інформація про негативну удачу"
+  },
+  {
+    "var": "HEROSCRN_10",
+    "en": "View Experience Info",
+    "ua": "Інформація про кількість досвіду"
+  },
+  {
+    "var": "HEROSCRN_11",
+    "en": "Select %s",
+    "ua": "Вибрати загін %s"
+  },
+  {
+    "var": "HEROSCRN_12",
+    "en": "Empty",
+    "ua": "Пусто"
+  },
+  {
+    "var": "HEROSCRN_13",
+    "en": "Move %s",
+    "ua": "Помістити %s"
+  },
+  {
+    "var": "HEROSCRN_14",
+    "en": "Exchange %s with %s",
+    "ua": "Обміняти %s на %s"
+  },
+  {
+    "var": "HEROSCRN_15",
+    "en": "View Spells",
+    "ua": "Заклинання"
+  },
+  {
+    "var": "HEROSCRN_16",
+    "en": "View %s Info",
+    "ua": "%s"
+  },
+  {
+    "var": "HEROSCRN_17",
+    "en": "Dismiss %s the %s",
+    "ua": "%s %s буде звільнений(а)."
+  },
+  {
+    "var": "HEROSCRN_18",
+    "en": "Exit Hero Screen",
+    "ua": "Вийти з екрана героя"
+  },
+  {
+    "var": "HEROSCRN_19",
+    "en": "Hero Screen",
+    "ua": "Екран героя"
+  },
+  {
+    "var": "HEROSCRN_20",
+    "en": "Combine %s",
+    "ua": "Об'єднати %s"
+  },
+  {
+    "var": "HEROSCRN_21",
+    "en": "Split %s",
+    "ua": "Розділити %s"
+  },
+  {
+    "var": "HEROSCRN_22",
+    "en": "View %s %s Info",
+    "ua": "Інформація про навичку \"\"%s %s\"\""
+  },
+  {
+    "var": "HEROSCRN_23",
+    "en": "View Spell Points Info",
+    "ua": "Інформація про кількість очків магії"
+  },
+  {
+    "var": "HEROSCRN_24",
+    "en": "Set army combat formation to 'Loose'",
+    "ua": "Вільні ряди"
+  },
+  {
+    "var": "HEROSCRN_25",
+    "en": "Set army combat formation to 'Tight'",
+    "ua": "Щільні ряди"
+  },
+  {
+    "var": "HEROSCRN_26",
+    "en": "Disable Tactics formation",
+    "ua": "Відмінити тактичне розташування"
+  },
+  {
+    "var": "HEROSCRN_27",
+    "en": "Enable Tactics formation",
+    "ua": "Застосувати тактичне розташування"
+  },
+  {
+    "var": "HEROSCRN_28",
+    "en": "View Special Ability Info",
+    "ua": "Інформація про спеціальні можливості"
+  },
+  {
+    "var": "HEROSCRN_29",
+    "en": "Click to dismiss this hero",
+    "ua": "Звільнити героя"
+  },
+  {
+    "var": "HEROSCRN_30",
+    "en": "Setting combat formation to 'Loose' will spread your troops across your side of the battlefield at the start of combat",
+    "ua": "Ваші загони будуть розміщені на вашій стороні поля на початку бою."
+  },
+  {
+    "var": "HEROSCRN_31",
+    "en": "Setting combat formation to 'Tight' will group your troops together on your side of the battlefield at the start of combat",
+    "ua": "Ваші загони будуть розміщені близько один до одного на початку бою."
+  },
+  {
+    "var": "HEROSCRN_32",
+    "en": "Enabling Tactics formation will allow you to arrange your troops prior to combat (must have the Tactics skill)",
+    "ua": "Тактиче розташування дозволить вам розмістити війська перед початком бою. Необхідна навичка \"\"Тактика\"\"."
+  },
+  {
+    "var": "HEROSCRN_33",
+    "en": "Click to divide these creatures into two stacks",
+    "ua": "Клацніть тут, щоб розділити заданий загін на два."
+  }
+]

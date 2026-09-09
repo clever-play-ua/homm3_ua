@@ -1,0 +1,792 @@
+[
+  {
+    "var": "HOTRAITS_1",
+    "en": "\t1st Creature Stack\t\t\t2nd Creature Stack\t\t\t3rd Creature Stack\t\t",
+    "ua": "\t1st Creature Stack\t\t\t2nd Creature Stack\t\t\t3rd Creature Stack\t\t"
+  },
+  {
+    "var": "HOTRAITS_Name",
+    "en": "Name\tLow\tHigh\tType (reference only)\tLow\tHigh\tType (reference only)\tLow\tHigh\tType (reference only)",
+    "ua": "Name\tLow\tHigh\tType (reference only)\tLow\tHigh\tType (reference only)\tLow\tHigh\tType (reference only)"
+  },
+  {
+    "var": "HOTRAITS_Îðð³í",
+    "en": "Îðð³í\t10\t20\tPikeman\t4\t7\tLightCrossbowman\t2\t3\tGriffin",
+    "ua": "Оррін\t10\t20\tPikeman\t4\t7\tLightCrossbowman\t2\t3\tGriffin"
+  },
+  {
+    "var": "HOTRAITS_Âàëåñêà",
+    "en": "Âàëåñêà\t4\t7\tLightCrossbowman\t4\t7\tLightCrossbowman\t4\t7\tLightCrossbowman",
+    "ua": "Валеска\t4\t7\tLightCrossbowman\t4\t7\tLightCrossbowman\t4\t7\tLightCrossbowman"
+  },
+  {
+    "var": "HOTRAITS_Åäð³ê",
+    "en": "Åäð³ê\t10\t20\tPikeman\t2\t3\tGriffin\t2\t3\tGriffin",
+    "ua": "Едрік\t10\t20\tPikeman\t2\t3\tGriffin\t2\t3\tGriffin"
+  },
+  {
+    "var": "HOTRAITS_Ñèëüâ³ÿ",
+    "en": "Ñèëüâ³ÿ\t10\t20\tPikeman\t4\t7\tLightCrossbowman\t2\t3\tGriffin",
+    "ua": "Сильвія\t10\t20\tPikeman\t4\t7\tLightCrossbowman\t2\t3\tGriffin"
+  },
+  {
+    "var": "HOTRAITS_Ëîðä Õààðò",
+    "en": "Ëîðä Õààðò\t10\t20\tPikeman\t4\t7\tLightCrossbowman\t2\t3\tGriffin",
+    "ua": "Лорд Хаарт\t10\t20\tPikeman\t4\t7\tLightCrossbowman\t2\t3\tGriffin"
+  },
+  {
+    "var": "HOTRAITS_Ñîðøà",
+    "en": "Ñîðøà\t10\t20\tPikeman\t4\t7\tLightCrossbowman\t2\t3\tGriffin",
+    "ua": "Сорша\t10\t20\tPikeman\t4\t7\tLightCrossbowman\t2\t3\tGriffin"
+  },
+  {
+    "var": "HOTRAITS_Êð³ñò³àí",
+    "en": "Êð³ñò³àí\t10\t20\tPikeman\t1\t1\tBallista\t2\t3\tGriffin",
+    "ua": "Крістіан\t10\t20\tPikeman\t1\t1\tBallista\t2\t3\tGriffin"
+  },
+  {
+    "var": "HOTRAITS_Ò³ð³ñ",
+    "en": "Ò³ð³ñ\t10\t20\tPikeman\t4\t7\tLightCrossbowman\t2\t3\tGriffin",
+    "ua": "Тіріс\t10\t20\tPikeman\t4\t7\tLightCrossbowman\t2\t3\tGriffin"
+  },
+  {
+    "var": "HOTRAITS_Ð³îí",
+    "en": "Ð³îí\t10\t20\tPikeman\t1\t1\tFirstAidTent\t2\t3\tGriffin",
+    "ua": "Ріон\t10\t20\tPikeman\t1\t1\tFirstAidTent\t2\t3\tGriffin"
+  },
+  {
+    "var": "HOTRAITS_Àäåëà",
+    "en": "Àäåëà\t10\t20\tPikeman\t4\t7\tLightCrossbowman\t2\t3\tGriffin",
+    "ua": "Адела\t10\t20\tPikeman\t4\t7\tLightCrossbowman\t2\t3\tGriffin"
+  },
+  {
+    "var": "HOTRAITS_Êóñáåðò",
+    "en": "Êóñáåðò\t10\t20\tPikeman\t4\t7\tLightCrossbowman\t2\t3\tGriffin",
+    "ua": "Кусберт\t10\t20\tPikeman\t4\t7\tLightCrossbowman\t2\t3\tGriffin"
+  },
+  {
+    "var": "HOTRAITS_Àäåëà¿äà",
+    "en": "Àäåëà¿äà\t10\t20\tPikeman\t4\t7\tLightCrossbowman\t2\t3\tGriffin",
+    "ua": "Аделаїда\t10\t20\tPikeman\t4\t7\tLightCrossbowman\t2\t3\tGriffin"
+  },
+  {
+    "var": "HOTRAITS_²í´õàì",
+    "en": "²í´õàì\t10\t20\tPikeman\t4\t7\tLightCrossbowman\t2\t3\tGriffin",
+    "ua": "Інґхам\t10\t20\tPikeman\t4\t7\tLightCrossbowman\t2\t3\tGriffin"
+  },
+  {
+    "var": "HOTRAITS_Ñàí³ÿ",
+    "en": "Ñàí³ÿ\t10\t20\tPikeman\t4\t7\tLightCrossbowman\t2\t3\tGriffin",
+    "ua": "Санія\t10\t20\tPikeman\t4\t7\tLightCrossbowman\t2\t3\tGriffin"
+  },
+  {
+    "var": "HOTRAITS_Ëîéí³ñ",
+    "en": "Ëîéí³ñ\t10\t20\tPikeman\t4\t7\tLightCrossbowman\t2\t3\tGriffin",
+    "ua": "Лойніс\t10\t20\tPikeman\t4\t7\tLightCrossbowman\t2\t3\tGriffin"
+  },
+  {
+    "var": "HOTRAITS_Êà³òë³í",
+    "en": "Êà³òë³í\t10\t20\tPikeman\t4\t7\tLightCrossbowman\t2\t3\tGriffin",
+    "ua": "Каітлін\t10\t20\tPikeman\t4\t7\tLightCrossbowman\t2\t3\tGriffin"
+  },
+  {
+    "var": "HOTRAITS_Ìåôàëà",
+    "en": "Ìåôàëà\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf",
+    "ua": "Мефала\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf"
+  },
+  {
+    "var": "HOTRAITS_Óôðåò³í",
+    "en": "Óôðåò³í\t3\t5\tDwarf\t3\t5\tDwarf\t3\t5\tDwarf",
+    "ua": "Уфретін\t3\t5\tDwarf\t3\t5\tDwarf\t3\t5\tDwarf"
+  },
+  {
+    "var": "HOTRAITS_Äæåíîâà",
+    "en": "Äæåíîâà\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf",
+    "ua": "Дженова\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf"
+  },
+  {
+    "var": "HOTRAITS_Ð³ëàíä",
+    "en": "Ð³ëàíä\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf",
+    "ua": "Ріланд\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf"
+  },
+  {
+    "var": "HOTRAITS_Òõîð´ð³ì",
+    "en": "Òõîð´ð³ì\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf",
+    "ua": "Тхорґрім\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf"
+  },
+  {
+    "var": "HOTRAITS_²âîð",
+    "en": "²âîð\t12\t24\tCentaur\t3\t6\tWoodElf\t3\t6\tWoodElf",
+    "ua": "Івор\t12\t24\tCentaur\t3\t6\tWoodElf\t3\t6\tWoodElf"
+  },
+  {
+    "var": "HOTRAITS_Êëåíñ³",
+    "en": "Êëåíñ³\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf",
+    "ua": "Кленсі\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf"
+  },
+  {
+    "var": "HOTRAITS_Ê³ððå",
+    "en": "Ê³ððå\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf",
+    "ua": "Кірре\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf"
+  },
+  {
+    "var": "HOTRAITS_Êîðîí³óñ",
+    "en": "Êîðîí³óñ\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf",
+    "ua": "Короніус\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf"
+  },
+  {
+    "var": "HOTRAITS_Óëàíä",
+    "en": "Óëàíä\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf",
+    "ua": "Уланд\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf"
+  },
+  {
+    "var": "HOTRAITS_Åëëåøàð",
+    "en": "Åëëåøàð\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf",
+    "ua": "Еллешар\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf"
+  },
+  {
+    "var": "HOTRAITS_¥åì",
+    "en": "¥åì\t12\t24\tCentaur\t1\t1\tFirstAidTent\t3\t6\tWoodElf",
+    "ua": "Ґем\t12\t24\tCentaur\t1\t1\tFirstAidTent\t3\t6\tWoodElf"
+  },
+  {
+    "var": "HOTRAITS_Ìàëêîì",
+    "en": "Ìàëêîì\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf",
+    "ua": "Малком\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf"
+  },
+  {
+    "var": "HOTRAITS_Ìåëîä³ÿ",
+    "en": "Ìåëîä³ÿ\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf",
+    "ua": "Мелодія\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf"
+  },
+  {
+    "var": "HOTRAITS_Àëà´àð",
+    "en": "Àëà´àð\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf",
+    "ua": "Алаґар\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf"
+  },
+  {
+    "var": "HOTRAITS_Àåð³ñ",
+    "en": "Àåð³ñ\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf",
+    "ua": "Аеріс\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf"
+  },
+  {
+    "var": "HOTRAITS_Ï³êâåäðàì",
+    "en": "Ï³êâåäðàì\t3\t5\tStoneGargoyle\t3\t5\tStoneGargoyle\t3\t5\tStoneGargoyle",
+    "ua": "Пікведрам\t3\t5\tStoneGargoyle\t3\t5\tStoneGargoyle\t3\t5\tStoneGargoyle"
+  },
+  {
+    "var": "HOTRAITS_Òàí",
+    "en": "Òàí\t30\t40\tApprenticeGremlin\t3\t5\tStoneGargoyle\t2\t3\tIronGolem",
+    "ua": "Тан\t30\t40\tApprenticeGremlin\t3\t5\tStoneGargoyle\t2\t3\tIronGolem"
+  },
+  {
+    "var": "HOTRAITS_Äæîçåô³íà",
+    "en": "Äæîçåô³íà\t30\t40\tApprenticeGremlin\t2\t2\tIronGolem\t2\t3\tIronGolem",
+    "ua": "Джозефіна\t30\t40\tApprenticeGremlin\t2\t2\tIronGolem\t2\t3\tIronGolem"
+  },
+  {
+    "var": "HOTRAITS_Íååëà",
+    "en": "Íååëà\t30\t40\tApprenticeGremlin\t4\t4\tStoneGargoyle\t2\t3\tIronGolem",
+    "ua": "Неела\t30\t40\tApprenticeGremlin\t4\t4\tStoneGargoyle\t2\t3\tIronGolem"
+  },
+  {
+    "var": "HOTRAITS_Òîðîñàð",
+    "en": "Òîðîñàð\t30\t40\tApprenticeGremlin\t1\t1\tBallista\t2\t3\tIronGolem",
+    "ua": "Торосар\t30\t40\tApprenticeGremlin\t1\t1\tBallista\t2\t3\tIronGolem"
+  },
+  {
+    "var": "HOTRAITS_Ôàôíåð",
+    "en": "Ôàôíåð\t30\t40\tApprenticeGremlin\t3\t5\tStoneGargoyle\t2\t3\tIronGolem",
+    "ua": "Фафнер\t30\t40\tApprenticeGremlin\t3\t5\tStoneGargoyle\t2\t3\tIronGolem"
+  },
+  {
+    "var": "HOTRAITS_Ð³ññà",
+    "en": "Ð³ññà\t30\t40\tApprenticeGremlin\t3\t5\tStoneGargoyle\t2\t3\tIronGolem",
+    "ua": "Рісса\t30\t40\tApprenticeGremlin\t3\t5\tStoneGargoyle\t2\t3\tIronGolem"
+  },
+  {
+    "var": "HOTRAITS_²îíà",
+    "en": "²îíà\t30\t40\tApprenticeGremlin\t3\t5\tStoneGargoyle\t2\t3\tIronGolem",
+    "ua": "Іона\t30\t40\tApprenticeGremlin\t3\t5\tStoneGargoyle\t2\t3\tIronGolem"
+  },
+  {
+    "var": "HOTRAITS_Àñòðàë",
+    "en": "Àñòðàë\t30\t40\tApprenticeGremlin\t3\t5\tStoneGargoyle\t2\t3\tIronGolem",
+    "ua": "Астрал\t30\t40\tApprenticeGremlin\t3\t5\tStoneGargoyle\t2\t3\tIronGolem"
+  },
+  {
+    "var": "HOTRAITS_Õàëîí",
+    "en": "Õàëîí\t30\t40\tApprenticeGremlin\t3\t5\tStoneGargoyle\t2\t3\tIronGolem",
+    "ua": "Халон\t30\t40\tApprenticeGremlin\t3\t5\tStoneGargoyle\t2\t3\tIronGolem"
+  },
+  {
+    "var": "HOTRAITS_Ñåðåíà",
+    "en": "Ñåðåíà\t30\t40\tApprenticeGremlin\t3\t5\tStoneGargoyle\t2\t3\tIronGolem",
+    "ua": "Серена\t30\t40\tApprenticeGremlin\t3\t5\tStoneGargoyle\t2\t3\tIronGolem"
+  },
+  {
+    "var": "HOTRAITS_Äàðåì³ò",
+    "en": "Äàðåì³ò\t30\t40\tApprenticeGremlin\t3\t5\tStoneGargoyle\t2\t3\tIronGolem",
+    "ua": "Дареміт\t30\t40\tApprenticeGremlin\t3\t5\tStoneGargoyle\t2\t3\tIronGolem"
+  },
+  {
+    "var": "HOTRAITS_Òåîäîð",
+    "en": "Òåîäîð\t30\t40\tApprenticeGremlin\t3\t5\tStoneGargoyle\t2\t3\tIronGolem",
+    "ua": "Теодор\t30\t40\tApprenticeGremlin\t3\t5\tStoneGargoyle\t2\t3\tIronGolem"
+  },
+  {
+    "var": "HOTRAITS_Ñîëì³ð",
+    "en": "Ñîëì³ð\t30\t40\tApprenticeGremlin\t3\t5\tStoneGargoyle\t2\t3\tIronGolem",
+    "ua": "Солмір\t30\t40\tApprenticeGremlin\t3\t5\tStoneGargoyle\t2\t3\tIronGolem"
+  },
+  {
+    "var": "HOTRAITS_Ê³ðà",
+    "en": "Ê³ðà\t30\t40\tApprenticeGremlin\t3\t5\tStoneGargoyle\t2\t3\tIronGolem",
+    "ua": "Кіра\t30\t40\tApprenticeGremlin\t3\t5\tStoneGargoyle\t2\t3\tIronGolem"
+  },
+  {
+    "var": "HOTRAITS_Àéí",
+    "en": "Àéí\t30\t40\tApprenticeGremlin\t3\t5\tStoneGargoyle\t2\t3\tIronGolem",
+    "ua": "Айн\t30\t40\tApprenticeGremlin\t3\t5\tStoneGargoyle\t2\t3\tIronGolem"
+  },
+  {
+    "var": "HOTRAITS_Ô³îíà",
+    "en": "Ô³îíà\t15\t25\tImp\t3\t4\tHellHound\t3\t4\tHellHound",
+    "ua": "Фіона\t15\t25\tImp\t3\t4\tHellHound\t3\t4\tHellHound"
+  },
+  {
+    "var": "HOTRAITS_Ðàøêà",
+    "en": "Ðàøêà\t15\t25\tImp\t4\t7\tGog\t3\t4\tHellHound",
+    "ua": "Рашка\t15\t25\tImp\t4\t7\tGog\t3\t4\tHellHound"
+  },
+  {
+    "var": "HOTRAITS_Ìàð³óñ",
+    "en": "Ìàð³óñ\t15\t25\tImp\t4\t7\tGog\t3\t4\tHellHound",
+    "ua": "Маріус\t15\t25\tImp\t4\t7\tGog\t3\t4\tHellHound"
+  },
+  {
+    "var": "HOTRAITS_²ãíàò³óñ",
+    "en": "²ãíàò³óñ\t15\t25\tImp\t15\t25\tImp\t15\t25\tImp",
+    "ua": "Ігнатіус\t15\t25\tImp\t15\t25\tImp\t15\t25\tImp"
+  },
+  {
+    "var": "HOTRAITS_Îêòàâ³ÿ",
+    "en": "Îêòàâ³ÿ\t15\t25\tImp\t4\t7\tGog\t3\t4\tHellHound",
+    "ua": "Октавія\t15\t25\tImp\t4\t7\tGog\t3\t4\tHellHound"
+  },
+  {
+    "var": "HOTRAITS_Êàëõ",
+    "en": "Êàëõ\t4\t7\tGog\t4\t7\tGog\t4\t7\tGog",
+    "ua": "Калх\t4\t7\tGog\t4\t7\tGog\t4\t7\tGog"
+  },
+  {
+    "var": "HOTRAITS_Ï³ð",
+    "en": "Ï³ð\t15\t25\tImp\t1\t1\tBallista\t3\t4\tHellHound",
+    "ua": "Пір\t15\t25\tImp\t1\t1\tBallista\t3\t4\tHellHound"
+  },
+  {
+    "var": "HOTRAITS_Í³ìóñ",
+    "en": "Í³ìóñ\t15\t25\tImp\t4\t7\tGog\t3\t4\tHellHound",
+    "ua": "Німус\t15\t25\tImp\t4\t7\tGog\t3\t4\tHellHound"
+  },
+  {
+    "var": "HOTRAITS_Àéäåí",
+    "en": "Àéäåí\t15\t25\tImp\t4\t7\tGog\t3\t4\tHellHound",
+    "ua": "Айден\t15\t25\tImp\t4\t7\tGog\t3\t4\tHellHound"
+  },
+  {
+    "var": "HOTRAITS_Êñàéðîí",
+    "en": "Êñàéðîí\t15\t25\tImp\t4\t7\tGog\t3\t4\tHellHound",
+    "ua": "Ксайрон\t15\t25\tImp\t4\t7\tGog\t3\t4\tHellHound"
+  },
+  {
+    "var": "HOTRAITS_Àêñ³ñ",
+    "en": "Àêñ³ñ\t15\t25\tImp\t4\t7\tGog\t3\t4\tHellHound",
+    "ua": "Аксіс\t15\t25\tImp\t4\t7\tGog\t3\t4\tHellHound"
+  },
+  {
+    "var": "HOTRAITS_Îëåìà",
+    "en": "Îëåìà\t15\t25\tImp\t4\t7\tGog\t3\t4\tHellHound",
+    "ua": "Олема\t15\t25\tImp\t4\t7\tGog\t3\t4\tHellHound"
+  },
+  {
+    "var": "HOTRAITS_Êàë³ä",
+    "en": "Êàë³ä\t15\t25\tImp\t4\t7\tGog\t3\t4\tHellHound",
+    "ua": "Калід\t15\t25\tImp\t4\t7\tGog\t3\t4\tHellHound"
+  },
+  {
+    "var": "HOTRAITS_Àø",
+    "en": "Àø\t15\t25\tImp\t4\t7\tGog\t3\t4\tHellHound",
+    "ua": "Аш\t15\t25\tImp\t4\t7\tGog\t3\t4\tHellHound"
+  },
+  {
+    "var": "HOTRAITS_Ç³äàð",
+    "en": "Ç³äàð\t15\t25\tImp\t4\t7\tGog\t3\t4\tHellHound",
+    "ua": "Зідар\t15\t25\tImp\t4\t7\tGog\t3\t4\tHellHound"
+  },
+  {
+    "var": "HOTRAITS_Êñàðôàêñ",
+    "en": "Êñàðôàêñ\t15\t25\tImp\t4\t7\tGog\t3\t4\tHellHound",
+    "ua": "Ксарфакс\t15\t25\tImp\t4\t7\tGog\t3\t4\tHellHound"
+  },
+  {
+    "var": "HOTRAITS_Ñòðàêåð",
+    "en": "Ñòðàêåð\t4\t6\tZombie\t4\t6\tZombie\t4\t6\tZombie",
+    "ua": "Стракер\t4\t6\tZombie\t4\t6\tZombie\t4\t6\tZombie"
+  },
+  {
+    "var": "HOTRAITS_Âîê'ÿë",
+    "en": "Âîê'ÿë\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight",
+    "ua": "Вок'ял\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight"
+  },
+  {
+    "var": "HOTRAITS_Ìîàíäîð",
+    "en": "Ìîàíäîð\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight",
+    "ua": "Моандор\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight"
+  },
+  {
+    "var": "HOTRAITS_×àðíà",
+    "en": "×àðíà\t20\t30\tSkeleton\t4\t6\tWight\t4\t6\tWight",
+    "ua": "Чарна\t20\t30\tSkeleton\t4\t6\tWight\t4\t6\tWight"
+  },
+  {
+    "var": "HOTRAITS_Òàì³êà",
+    "en": "Òàì³êà\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight",
+    "ua": "Таміка\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight"
+  },
+  {
+    "var": "HOTRAITS_²ñðà",
+    "en": "²ñðà\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight",
+    "ua": "Ісра\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight"
+  },
+  {
+    "var": "HOTRAITS_Êëàâ³óñ",
+    "en": "Êëàâ³óñ\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight",
+    "ua": "Клавіус\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight"
+  },
+  {
+    "var": "HOTRAITS_¥àëòðàí",
+    "en": "¥àëòðàí\t20\t30\tSkeleton\t20\t30\tSkeleton\t20\t30\tSkeleton",
+    "ua": "Ґалтран\t20\t30\tSkeleton\t20\t30\tSkeleton\t20\t30\tSkeleton"
+  },
+  {
+    "var": "HOTRAITS_Ñåïòåííà",
+    "en": "Ñåïòåííà\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight",
+    "ua": "Септенна\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight"
+  },
+  {
+    "var": "HOTRAITS_À³ñë³íí",
+    "en": "À³ñë³íí\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight",
+    "ua": "Аіслінн\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight"
+  },
+  {
+    "var": "HOTRAITS_Ñàíäðî",
+    "en": "Ñàíäðî\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight",
+    "ua": "Сандро\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight"
+  },
+  {
+    "var": "HOTRAITS_Í³ìáóñ",
+    "en": "Í³ìáóñ\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight",
+    "ua": "Німбус\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight"
+  },
+  {
+    "var": "HOTRAITS_Òàíò",
+    "en": "Òàíò\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight",
+    "ua": "Тант\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight"
+  },
+  {
+    "var": "HOTRAITS_Êñ³",
+    "en": "Êñ³\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight",
+    "ua": "Ксі\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight"
+  },
+  {
+    "var": "HOTRAITS_Â³äîì³íà",
+    "en": "Â³äîì³íà\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight",
+    "ua": "Відоміна\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight"
+  },
+  {
+    "var": "HOTRAITS_Íàãàø",
+    "en": "Íàãàø\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight",
+    "ua": "Нагаш\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight"
+  },
+  {
+    "var": "HOTRAITS_Ëîðåëåÿ",
+    "en": "Ëîðåëåÿ\t4\t6\tHarpy\t4\t6\tHarpy\t4\t6\tHarpy",
+    "ua": "Лорелея\t4\t6\tHarpy\t4\t6\tHarpy\t4\t6\tHarpy"
+  },
+  {
+    "var": "HOTRAITS_Àðëàõ",
+    "en": "Àðëàõ\t30\t40\tTroglodyte\t1\t1\tBallista\t3\t4\tBeholder",
+    "ua": "Арлах\t30\t40\tTroglodyte\t1\t1\tBallista\t3\t4\tBeholder"
+  },
+  {
+    "var": "HOTRAITS_Äàñ",
+    "en": "Äàñ\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder",
+    "ua": "Дас\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder"
+  },
+  {
+    "var": "HOTRAITS_Àäæèò",
+    "en": "Àäæèò\t30\t40\tTroglodyte\t3\t4\tBeholder\t3\t4\tBeholder",
+    "ua": "Аджит\t30\t40\tTroglodyte\t3\t4\tBeholder\t3\t4\tBeholder"
+  },
+  {
+    "var": "HOTRAITS_Äàìàêîí",
+    "en": "Äàìàêîí\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder",
+    "ua": "Дамакон\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder"
+  },
+  {
+    "var": "HOTRAITS_¥óííàð",
+    "en": "¥óííàð\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder",
+    "ua": "Ґуннар\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder"
+  },
+  {
+    "var": "HOTRAITS_Ñ³íêà",
+    "en": "Ñ³íêà\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder",
+    "ua": "Сінка\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder"
+  },
+  {
+    "var": "HOTRAITS_Øàêò³",
+    "en": "Øàêò³\t30\t40\tTroglodyte\t30\t40\tTroglodyte\t30\t40\tTroglodyte",
+    "ua": "Шакті\t30\t40\tTroglodyte\t30\t40\tTroglodyte\t30\t40\tTroglodyte"
+  },
+  {
+    "var": "HOTRAITS_Àëàìàð",
+    "en": "Àëàìàð\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder",
+    "ua": "Аламар\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder"
+  },
+  {
+    "var": "HOTRAITS_Äæà´àð",
+    "en": "Äæà´àð\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder",
+    "ua": "Джаґар\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder"
+  },
+  {
+    "var": "HOTRAITS_Ìàëåê³ò",
+    "en": "Ìàëåê³ò\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder",
+    "ua": "Малекіт\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder"
+  },
+  {
+    "var": "HOTRAITS_Äæåää³ò",
+    "en": "Äæåää³ò\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder",
+    "ua": "Джеддіт\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder"
+  },
+  {
+    "var": "HOTRAITS_¥åîò",
+    "en": "¥åîò\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder",
+    "ua": "Ґеот\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder"
+  },
+  {
+    "var": "HOTRAITS_Ä³ìåð",
+    "en": "Ä³ìåð\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder",
+    "ua": "Дімер\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder"
+  },
+  {
+    "var": "HOTRAITS_Ñåô³íðîò",
+    "en": "Ñåô³íðîò\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder",
+    "ua": "Сефінрот\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder"
+  },
+  {
+    "var": "HOTRAITS_Äàðêñòîðí",
+    "en": "Äàðêñòîðí\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder",
+    "ua": "Дарксторн\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder"
+  },
+  {
+    "var": "HOTRAITS_Éî´",
+    "en": "Éî´\t15\t25\tGoblin\t5\t7\tGoblinWolfRider\t4\t6\tOrc",
+    "ua": "Йоґ\t15\t25\tGoblin\t5\t7\tGoblinWolfRider\t4\t6\tOrc"
+  },
+  {
+    "var": "HOTRAITS_¥àðí³ñîí",
+    "en": "¥àðí³ñîí\t15\t25\tGoblin\t1\t1\tBallista\t4\t6\tOrc",
+    "ua": "Ґарнісон\t15\t25\tGoblin\t1\t1\tBallista\t4\t6\tOrc"
+  },
+  {
+    "var": "HOTRAITS_Äæàáàðêàñ",
+    "en": "Äæàáàðêàñ\t15\t25\tGoblin\t4\t6\tOrc\t4\t6\tOrc",
+    "ua": "Джабаркас\t15\t25\tGoblin\t4\t6\tOrc\t4\t6\tOrc"
+  },
+  {
+    "var": "HOTRAITS_Øèâà",
+    "en": "Øèâà\t15\t25\tGoblin\t5\t7\tGoblinWolfRider\t4\t6\tOrc",
+    "ua": "Шива\t15\t25\tGoblin\t5\t7\tGoblinWolfRider\t4\t6\tOrc"
+  },
+  {
+    "var": "HOTRAITS_¥ðåò÷³í",
+    "en": "¥ðåò÷³í\t15\t25\tGoblin\t15\t25\tGoblin\t15\t25\tGoblin",
+    "ua": "Ґретчін\t15\t25\tGoblin\t15\t25\tGoblin\t15\t25\tGoblin"
+  },
+  {
+    "var": "HOTRAITS_Êðåëë³îí",
+    "en": "Êðåëë³îí\t15\t25\tGoblin\t5\t7\tGoblinWolfRider\t4\t6\tOrc",
+    "ua": "Крелліон\t15\t25\tGoblin\t5\t7\tGoblinWolfRider\t4\t6\tOrc"
+  },
+  {
+    "var": "HOTRAITS_Êðà´ Õàê",
+    "en": "Êðà´ Õàê\t15\t25\tGoblin\t5\t7\tGoblinWolfRider\t4\t6\tOrc",
+    "ua": "Краґ Хак\t15\t25\tGoblin\t5\t7\tGoblinWolfRider\t4\t6\tOrc"
+  },
+  {
+    "var": "HOTRAITS_Ò³ðàêñîð",
+    "en": "Ò³ðàêñîð\t5\t7\tGoblinWolfRider\t5\t7\tGoblinWolfRider\t5\t7\tGoblinWolfRider",
+    "ua": "Тіраксор\t5\t7\tGoblinWolfRider\t5\t7\tGoblinWolfRider\t5\t7\tGoblinWolfRider"
+  },
+  {
+    "var": "HOTRAITS_¥³ðä",
+    "en": "¥³ðä\t15\t25\tGoblin\t5\t7\tGoblinWolfRider\t4\t6\tOrc",
+    "ua": "Ґірд\t15\t25\tGoblin\t5\t7\tGoblinWolfRider\t4\t6\tOrc"
+  },
+  {
+    "var": "HOTRAITS_Âåé",
+    "en": "Âåé\t15\t25\tGoblin\t5\t7\tGoblinWolfRider\t4\t6\tOrc",
+    "ua": "Вей\t15\t25\tGoblin\t5\t7\tGoblinWolfRider\t4\t6\tOrc"
+  },
+  {
+    "var": "HOTRAITS_Äåññà",
+    "en": "Äåññà\t15\t25\tGoblin\t5\t7\tGoblinWolfRider\t4\t6\tOrc",
+    "ua": "Десса\t15\t25\tGoblin\t5\t7\tGoblinWolfRider\t4\t6\tOrc"
+  },
+  {
+    "var": "HOTRAITS_Òåðåê",
+    "en": "Òåðåê\t15\t25\tGoblin\t5\t7\tGoblinWolfRider\t4\t6\tOrc",
+    "ua": "Терек\t15\t25\tGoblin\t5\t7\tGoblinWolfRider\t4\t6\tOrc"
+  },
+  {
+    "var": "HOTRAITS_Çóá³í",
+    "en": "Çóá³í\t15\t25\tGoblin\t5\t7\tGoblinWolfRider\t4\t6\tOrc",
+    "ua": "Зубін\t15\t25\tGoblin\t5\t7\tGoblinWolfRider\t4\t6\tOrc"
+  },
+  {
+    "var": "HOTRAITS_Ãóíäóëà",
+    "en": "Ãóíäóëà\t15\t25\tGoblin\t5\t7\tGoblinWolfRider\t4\t6\tOrc",
+    "ua": "Гундула\t15\t25\tGoblin\t5\t7\tGoblinWolfRider\t4\t6\tOrc"
+  },
+  {
+    "var": "HOTRAITS_Îð³ñ",
+    "en": "Îð³ñ\t15\t25\tGoblin\t5\t7\tGoblinWolfRider\t4\t6\tOrc",
+    "ua": "Оріс\t15\t25\tGoblin\t5\t7\tGoblinWolfRider\t4\t6\tOrc"
+  },
+  {
+    "var": "HOTRAITS_Ñàóðó´",
+    "en": "Ñàóðó´\t15\t25\tGoblin\t5\t7\tGoblinWolfRider\t4\t6\tOrc",
+    "ua": "Сауруґ\t15\t25\tGoblin\t5\t7\tGoblinWolfRider\t4\t6\tOrc"
+  },
+  {
+    "var": "HOTRAITS_Áðîí",
+    "en": "Áðîí\t10\t20\tGnoll\t4\t7\tPrimitiveLizardman\t2\t4\tSerpentFly",
+    "ua": "Брон\t10\t20\tGnoll\t4\t7\tPrimitiveLizardman\t2\t4\tSerpentFly"
+  },
+  {
+    "var": "HOTRAITS_Äðàêîí",
+    "en": "Äðàêîí\t10\t20\tGnoll\t10\t20\tGnoll\t10\t20\tGnoll",
+    "ua": "Дракон\t10\t20\tGnoll\t10\t20\tGnoll\t10\t20\tGnoll"
+  },
+  {
+    "var": "HOTRAITS_Â³ñòàí",
+    "en": "Â³ñòàí\t4\t7\tPrimitiveLizardman\t4\t7\tPrimitiveLizardman\t4\t7\tPrimitiveLizardman",
+    "ua": "Вістан\t4\t7\tPrimitiveLizardman\t4\t7\tPrimitiveLizardman\t4\t7\tPrimitiveLizardman"
+  },
+  {
+    "var": "HOTRAITS_Òàçàð",
+    "en": "Òàçàð\t10\t20\tGnoll\t4\t7\tPrimitiveLizardman\t2\t4\tSerpentFly",
+    "ua": "Тазар\t10\t20\tGnoll\t4\t7\tPrimitiveLizardman\t2\t4\tSerpentFly"
+  },
+  {
+    "var": "HOTRAITS_Àëê³í",
+    "en": "Àëê³í\t10\t20\tGnoll\t4\t7\tPrimitiveLizardman\t2\t4\tSerpentFly",
+    "ua": "Алкін\t10\t20\tGnoll\t4\t7\tPrimitiveLizardman\t2\t4\tSerpentFly"
+  },
+  {
+    "var": "HOTRAITS_Êîðáàê",
+    "en": "Êîðáàê\t10\t20\tGnoll\t2\t4\tSerpentFly\t2\t4\tDragonFly",
+    "ua": "Корбак\t10\t20\tGnoll\t2\t4\tSerpentFly\t2\t4\tDragonFly"
+  },
+  {
+    "var": "HOTRAITS_¥åðâóëüô",
+    "en": "¥åðâóëüô\t10\t20\tGnoll\t1\t1\tBallista\t2\t4\tSerpentFly",
+    "ua": "Ґервульф\t10\t20\tGnoll\t1\t1\tBallista\t2\t4\tSerpentFly"
+  },
+  {
+    "var": "HOTRAITS_Áðî´õ³ë",
+    "en": "Áðî´õ³ë\t10\t20\tGnoll\t4\t7\tPrimitiveLizardman\t2\t4\tSerpentFly",
+    "ua": "Броґхіл\t10\t20\tGnoll\t4\t7\tPrimitiveLizardman\t2\t4\tSerpentFly"
+  },
+  {
+    "var": "HOTRAITS_Ì³ðëàíäà",
+    "en": "Ì³ðëàíäà\t10\t20\tGnoll\t4\t7\tPrimitiveLizardman\t2\t4\tSerpentFly",
+    "ua": "Мірланда\t10\t20\tGnoll\t4\t7\tPrimitiveLizardman\t2\t4\tSerpentFly"
+  },
+  {
+    "var": "HOTRAITS_Ðîñèêà",
+    "en": "Ðîñèêà\t10\t20\tGnoll\t4\t7\tPrimitiveLizardman\t2\t4\tSerpentFly",
+    "ua": "Росика\t10\t20\tGnoll\t4\t7\tPrimitiveLizardman\t2\t4\tSerpentFly"
+  },
+  {
+    "var": "HOTRAITS_Âîÿ",
+    "en": "Âîÿ\t10\t20\tGnoll\t4\t7\tPrimitiveLizardman\t2\t4\tSerpentFly",
+    "ua": "Воя\t10\t20\tGnoll\t4\t7\tPrimitiveLizardman\t2\t4\tSerpentFly"
+  },
+  {
+    "var": "HOTRAITS_Âåðäèø",
+    "en": "Âåðäèø\t10\t20\tGnoll\t1\t1\tFirstAidTent\t2\t4\tSerpentFly",
+    "ua": "Вердиш\t10\t20\tGnoll\t1\t1\tFirstAidTent\t2\t4\tSerpentFly"
+  },
+  {
+    "var": "HOTRAITS_Ìåð³ñòà",
+    "en": "Ìåð³ñòà\t10\t20\tGnoll\t4\t7\tPrimitiveLizardman\t2\t4\tSerpentFly",
+    "ua": "Меріста\t10\t20\tGnoll\t4\t7\tPrimitiveLizardman\t2\t4\tSerpentFly"
+  },
+  {
+    "var": "HOTRAITS_Ñòèãà",
+    "en": "Ñòèãà\t10\t20\tGnoll\t4\t7\tPrimitiveLizardman\t2\t4\tSerpentFly",
+    "ua": "Стига\t10\t20\tGnoll\t4\t7\tPrimitiveLizardman\t2\t4\tSerpentFly"
+  },
+  {
+    "var": "HOTRAITS_Àíäðà",
+    "en": "Àíäðà\t10\t20\tGnoll\t4\t7\tPrimitiveLizardman\t2\t4\tSerpentFly",
+    "ua": "Андра\t10\t20\tGnoll\t4\t7\tPrimitiveLizardman\t2\t4\tSerpentFly"
+  },
+  {
+    "var": "HOTRAITS_Òèâà",
+    "en": "Òèâà\t10\t20\tGnoll\t4\t7\tPrimitiveLizardman\t2\t4\tSerpentFly",
+    "ua": "Тива\t10\t20\tGnoll\t4\t7\tPrimitiveLizardman\t2\t4\tSerpentFly"
+  },
+  {
+    "var": "HOTRAITS_Ðàç³ñ",
+    "en": "Ðàç³ñ\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tAir Elementals",
+    "ua": "Разіс\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tAir Elementals"
+  },
+  {
+    "var": "HOTRAITS_Òóíàðà",
+    "en": "Òóíàðà\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tWater Elementals",
+    "ua": "Тунара\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tWater Elementals"
+  },
+  {
+    "var": "HOTRAITS_²´í³ññà",
+    "en": "²´í³ññà\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tWater Elementals",
+    "ua": "Іґнісса\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tWater Elementals"
+  },
+  {
+    "var": "HOTRAITS_Ëàêóñ",
+    "en": "Ëàêóñ\t15\t25\tPixies\t3\t5\tWater Elementals\t1\t2\tWater Elementals",
+    "ua": "Лакус\t15\t25\tPixies\t3\t5\tWater Elementals\t1\t2\tWater Elementals"
+  },
+  {
+    "var": "HOTRAITS_Ìîíåðå",
+    "en": "Ìîíåðå\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tAir Elementals",
+    "ua": "Монере\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tAir Elementals"
+  },
+  {
+    "var": "HOTRAITS_Åðäàìîí",
+    "en": "Åðäàìîí\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tWater Elementals",
+    "ua": "Ердамон\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tWater Elementals"
+  },
+  {
+    "var": "HOTRAITS_Ô³óð",
+    "en": "Ô³óð\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tWater Elementals",
+    "ua": "Фіур\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tWater Elementals"
+  },
+  {
+    "var": "HOTRAITS_Êàëüò",
+    "en": "Êàëüò\t15\t25\tPixies\t3\t5\tWater Elementals\t1\t2\tWater Elementals",
+    "ua": "Кальт\t15\t25\tPixies\t3\t5\tWater Elementals\t1\t2\tWater Elementals"
+  },
+  {
+    "var": "HOTRAITS_Ëóíà",
+    "en": "Ëóíà\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tWater Elementals",
+    "ua": "Луна\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tWater Elementals"
+  },
+  {
+    "var": "HOTRAITS_Áð³ññà",
+    "en": "Áð³ññà\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tWater Elementals",
+    "ua": "Брісса\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tWater Elementals"
+  },
+  {
+    "var": "HOTRAITS_Ñ³åëü",
+    "en": "Ñ³åëü\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tWater Elementals",
+    "ua": "Сіель\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tWater Elementals"
+  },
+  {
+    "var": "HOTRAITS_Ëàáåòà",
+    "en": "Ëàáåòà\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tWater Elementals",
+    "ua": "Лабета\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tWater Elementals"
+  },
+  {
+    "var": "HOTRAITS_²íòåóñ",
+    "en": "²íòåóñ\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tWater Elementals",
+    "ua": "Інтеус\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tWater Elementals"
+  },
+  {
+    "var": "HOTRAITS_Àåíàéí",
+    "en": "Àåíàéí\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tWater Elementals",
+    "ua": "Аенайн\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tWater Elementals"
+  },
+  {
+    "var": "HOTRAITS_¥åëàð",
+    "en": "¥åëàð\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tWater Elementals",
+    "ua": "Ґелар\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tWater Elementals"
+  },
+  {
+    "var": "HOTRAITS_¥ð³íäàí",
+    "en": "¥ð³íäàí\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tWater Elementals",
+    "ua": "Ґріндан\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tWater Elementals"
+  },
+  {
+    "var": "HOTRAITS_Ñåð Ìþëë³õ",
+    "en": "Ñåð Ìþëë³õ\t10\t20\tPikeman\t4\t7\tArcher\t2\t3\tGriffin",
+    "ua": "Сер Мюлліх\t10\t20\tPikeman\t4\t7\tArcher\t2\t3\tGriffin"
+  },
+  {
+    "var": "HOTRAITS_Àäð³àíà",
+    "en": "Àäð³àíà\t10\t20\tGnoll\t4\t7\tLizardman\t2\t4\tSerpent Fly",
+    "ua": "Адріана\t10\t20\tGnoll\t4\t7\tLizardman\t2\t4\tSerpent Fly"
+  },
+  {
+    "var": "HOTRAITS_Êàòåðèíà",
+    "en": "Êàòåðèíà\t10\t20\tPikeman\t4\t7\tArcher\t2\t3\tGriffin",
+    "ua": "Катерина\t10\t20\tPikeman\t4\t7\tArcher\t2\t3\tGriffin"
+  },
+  {
+    "var": "HOTRAITS_Äðàêîí",
+    "en": "Äðàêîí\t6\t6\tEnchanters\t3\t3\tEnchanters\t1\t1\tEnchanters",
+    "ua": "Дракон\t6\t6\tEnchanters\t3\t3\tEnchanters\t1\t1\tEnchanters"
+  },
+  {
+    "var": "HOTRAITS_¥åëî",
+    "en": "¥åëî\t6\t6\tSharpshooters\t3\t3\tSharpshooters\t1\t1\tSharpshooters",
+    "ua": "Ґело\t6\t6\tSharpshooters\t3\t3\tSharpshooters\t1\t1\tSharpshooters"
+  },
+  {
+    "var": "HOTRAITS_Ê³ë´îð",
+    "en": "Ê³ë´îð\t15\t25\tGoblins\t5\t7\tGoblin Wolf Rider\t4\t6\tOrc",
+    "ua": "Кілґор\t15\t25\tGoblins\t5\t7\tGoblin Wolf Rider\t4\t6\tOrc"
+  },
+  {
+    "var": "HOTRAITS_Ëîðä Õààðò",
+    "en": "Ëîðä Õààðò\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight",
+    "ua": "Лорд Хаарт\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight"
+  },
+  {
+    "var": "HOTRAITS_Ìóòàðà",
+    "en": "Ìóòàðà\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder",
+    "ua": "Мутара\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder"
+  },
+  {
+    "var": "HOTRAITS_Ðîëàíä",
+    "en": "Ðîëàíä\t10\t20\tPikeman\t4\t7\tArcher\t2\t3\tGriffin",
+    "ua": "Роланд\t10\t20\tPikeman\t4\t7\tArcher\t2\t3\tGriffin"
+  },
+  {
+    "var": "HOTRAITS_Ìóòàðà Äðàê",
+    "en": "Ìóòàðà Äðàê\t10\t20\tPikeman\t4\t7\tArcher\t2\t3\tGriffin",
+    "ua": "Мутара Драк\t10\t20\tPikeman\t4\t7\tArcher\t2\t3\tGriffin"
+  },
+  {
+    "var": "HOTRAITS_Áîðà´óñ",
+    "en": "Áîðà´óñ\t10\t20\tPikeman\t4\t7\tArcher\t2\t3\tGriffin",
+    "ua": "Бораґус\t10\t20\tPikeman\t4\t7\tArcher\t2\t3\tGriffin"
+  },
+  {
+    "var": "HOTRAITS_Êñåðîí",
+    "en": "Êñåðîí\t10\t20\tPikeman\t4\t7\tArcher\t2\t3\tGriffin",
+    "ua": "Ксерон\t10\t20\tPikeman\t4\t7\tArcher\t2\t3\tGriffin"
+  }
+]

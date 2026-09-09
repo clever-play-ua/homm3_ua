@@ -1,0 +1,72 @@
+[
+  {
+    "var": "CRGENERC_1",
+    "en": "Creature 1",
+    "ua": "Істота 1"
+  },
+  {
+    "var": "CRGENERC_2",
+    "en": "Creature 1 Upgrade",
+    "ua": "Істота 1 Вдосконалена"
+  },
+  {
+    "var": "CRGENERC_3",
+    "en": "Creature 2",
+    "ua": "Істота 2"
+  },
+  {
+    "var": "CRGENERC_4",
+    "en": "Creature 2 Upgrade",
+    "ua": "Істота 2 Вдосконалена"
+  },
+  {
+    "var": "CRGENERC_5",
+    "en": "Creature 3",
+    "ua": "Істота 3"
+  },
+  {
+    "var": "CRGENERC_6",
+    "en": "Creature 3 Upgrade",
+    "ua": "Істота 3 Вдосконалена"
+  },
+  {
+    "var": "CRGENERC_7",
+    "en": "Creature 4",
+    "ua": "Істота 4"
+  },
+  {
+    "var": "CRGENERC_8",
+    "en": "Creature 4 Upgrade",
+    "ua": "Істота 4 Вдосконалена"
+  },
+  {
+    "var": "CRGENERC_9",
+    "en": "Creature 5",
+    "ua": "Істота 5"
+  },
+  {
+    "var": "CRGENERC_10",
+    "en": "Creature 5 Upgrade",
+    "ua": "Істота 5 Вдосконалена"
+  },
+  {
+    "var": "CRGENERC_11",
+    "en": "Creature 6",
+    "ua": "Істота 6"
+  },
+  {
+    "var": "CRGENERC_12",
+    "en": "Creature 6 Upgrade",
+    "ua": "Істота 6 Вдосконалена"
+  },
+  {
+    "var": "CRGENERC_13",
+    "en": "Creature 7",
+    "ua": "Істота 7"
+  },
+  {
+    "var": "CRGENERC_14",
+    "en": "Creature 7 Upgrade",
+    "ua": "Істота 7 Вдосконалена"
+  }
+]

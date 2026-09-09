@@ -1,0 +1,200 @@
+[
+  {
+    "var": "SECRET_M1_prolog",
+    "field": "wrapper_prolog",
+    "en": "Lord Haart has agreed to take the poison to King Gryphonheart.  A clever ruse in the form of a border skirmish will plant the poison in Lord Haart's castle, and then you will leave the area to let him recover his lands and the poison.",
+    "ua": "Лорд Хаарт погодився передати отруту королю Гріфонхарту. Треба лише пробитися в замок лорда і залишити отруту там, після чого випаруватися."
+  },
+  {
+    "var": "SECRET_M1_epilog",
+    "field": "wrapper_epilog",
+    "en": "Lord Haart has agreed to take the Vial of Poison to King Gryphonheart.  All I must do is leave the Vial in Haart's castle after I raid it.  Fortunately for me, he is problem with overpopulation, so I will add his wasted peasants to my own ranks.  This will be a good day for harvesting skeletons!",
+    "ua": "Лорд Хаарт погодився передати Фіал з Отрутою королю Гріфонхарту. Мені залишається тільки залишити Фіал в замку Хаарта під час набігу на його володіння. На щастя, землі лорда перенаселені, і ряди мого війська поповняться цілим натовпом непотрібних йому селян. Ото буде врожай на скелети!"
+  },
+  {
+    "var": "SECRET_M1_map_name",
+    "field": "map_map_name",
+    "en": "Poison Fit for a King",
+    "ua": "Отрута для короля"
+  },
+  {
+    "var": "SECRET_M1_map_desc",
+    "field": "map_map_desc",
+    "en": "Capture Haart Castle and leave the Vial of Poison to win the scenario.  However, if Sandro is defeated in combat, the scenario is lost.  Heroes are limited to level 10, but Sandro and three of his comrades will carry their experience, skills and spells on to the next scenario.",
+    "ua": "Захопіть замок Хаарта і залиште Отруйний фіал, щоб виграти сценарій. Якщо Сандро переможений у битві - сценарій вважається програним. Герої обмежені 10 рівнем, але Сандро і три його соратники збережуть накопичений досвід для подальших місій."
+  },
+  {
+    "var": "SECRET_M1_obj0_event_name",
+    "field": "map_obj0_event_name",
+    "en": "Troops",
+    "ua": "Troops"
+  },
+  {
+    "var": "SECRET_M1_obj0_event_mesg",
+    "field": "map_obj0_event_mesg",
+    "en": "Your money has been going to good use.  Troops arrive as promised -- not many, but proof enough that scouts are being caught, killed and turned into skeletons to fight against the people they once served.  Such a delicious irony!",
+    "ua": "Ваші гроші були використані не марно. Воїни прибули, як і обіцяли, не так багато, але достатньо для скаутів, вбитих і перетворених в скелетонів, аби воювати проти людей, яким колись служили. Яка забавна іронія!"
+  },
+  {
+    "var": "SECRET_M1_obj1726_town_name",
+    "field": "map_obj1726_town_name",
+    "en": "Haart Castle",
+    "ua": "Замок Хаарта"
+  },
+  {
+    "var": "SECRET_M1_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Day One",
+    "ua": "Day One"
+  },
+  {
+    "var": "SECRET_M1_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "Sometimes Deyja lords will allow other creatures to move into an area under their control and then slaughter them to resurrect additional undead armies.  However, this particular area has been neglected by the Deyja lords and now needs to be cleared out for you to get through to Lord Haart's Castle.  This is the time when you wish you had the Armor of the Dead King!  Grinding your teeth, you set about raising armies this the old fashioned way.",
+    "ua": "Іноді Лорди Деї дозволяють заходити на їхню територію, щоб потім вбити і поповнити свої армії мерців. Тим не менш, саме цей простір був закинутий місцевими лордами і тепер потребує розчищення, щоб дістатися до замку лорда Хаарта. Це той самий момент, коли ви розумієте, як вам не вистачає Броні Мертвого Короля! Скриплячи зубами, ви починаєте, як звичайно, збирати свою армію."
+  },
+  {
+    "var": "SECRET_M1_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Lord Haart",
+    "ua": "Lord Haart"
+  },
+  {
+    "var": "SECRET_M1_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "As per the agreement, Lord Haart has recently left for maneuvers farther into Erathian territory.  He has taken most of the knights and clerics with him but left a few to guard the castles.  You decide it would be best to send out scouts and find out exactly what forces he left behind.",
+    "ua": "Як і домовлялися, Лорд Хаарт нещодавно відправився маневрувати далі в Ерафійські володіння. Він взяв більшість лицарів і священиків з собою, залишивши мало охоронців у своєму замку. Ви вирішуєте, що було б корисно послати скаутів, щоб з'ясувати, скільки воїнів він залишив."
+  },
+  {
+    "var": "SECRET_M1_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Jerk",
+    "ua": "Jerk"
+  },
+  {
+    "var": "SECRET_M1_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "Lord Haart has decided to play a little nastier than you anticipated.  He has left four capable heroes to guard his castles.  The pompous prig!  This will make things harder, not to mention the troops he reinforced the garrison with.  Now you will have to go through them too.  But this does not hinder your plans.  Once on the Erathian side, you will be free to reap the precious peasants who do his farming and menial chores.  To you, they are skeletons that just don't know it yet.",
+    "ua": "Лорд Хаарт вирішив повести себе більш непристойно, ніж ви очікували. Він залишив чотирьох майстерних героїв охороняти свій замок. Пихатий педант! Це все ускладнить, не враховуючи воїнів, яких він залишив у своєму гарнізоні. Тепер вам доведеться пройти ще й через них. Але це не ускладнює ваших планів. Опинившись на Ерафійській стороні, ви зможете вільно набирати собі селян нібито для сільських робіт. Для вас, вони скелети, які цього ще не знають."
+  },
+  {
+    "var": "SECRET_M1_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "Two Weeks",
+    "ua": "Two Weeks"
+  },
+  {
+    "var": "SECRET_M1_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "So far the campaign is going well.  Plenty of creatures fight tooth and nail only to become skeletons, and the towns are beginning to shape up into some fine cities.  Confident that this little excursion shall go as smoothly as you planned, you send out messengers to both the Dungeon Overlords and the Kreegans.  They should not miss out on your plan to take over Erathia.  After all, they too have some brute strength that can be used as cover.",
+    "ua": "Поступово кампанія успішно просувається. Багато істот борються лише тільки для того, що стати скелетонами, і колись занедбані міста перетворюються на прекрасні столиці. Будучи впевненим, що ця маленька екскурсія пройде як по маслу, ви відправляєте посланників і в Темниці Оверлордів і до криганців. Вони не повинні знати ваших планів по захопленню Ерафії. Зрештою, у них теж є трохи грубої сили, яка може бути вам корисною."
+  },
+  {
+    "var": "SECRET_M1_mapevent4_name",
+    "field": "map_mapevent4_name",
+    "en": "The Plan",
+    "ua": "The Plan"
+  },
+  {
+    "var": "SECRET_M1_mapevent4_mesg",
+    "field": "map_mapevent4_mesg",
+    "en": "Mulling over the events of the past and looking towards the future, you slowly sip an exquisite goblet of wine.  Your lips would curl into a snide smile -- if you had any left, that is.  Life without flesh is quite comfortable, actually.  You don't worry about mosquito bites, foot blisters or coarse sheets.  Many discomforts such as cold and heat are no longer a concern, and it such bliss to be oblivious to the foul stench of sweating, working fools.  The aroma of death, dry and comfortable, surrounds you like a warm shroud.\n\nPulling your thoughts back to the plan shattered by foolish twits, you abruptly grasp the goblet and hurl it towards the wall, sending blood splattering.  Your rage towards Crag Hack, Gem, Yog and that snippet Gelu is not easy to control.  Who would have thought two Barbarians would suddenly develop a conscience?  Not to mention a boy ranger and a foreign druid actually gathering together the resources to build an army large enough to defeat yours!\n\nYou slowly calm yourself with the realization that these oversights no longer matter.  The King will die and it will be by the hand of one of his own.  The thought warms your frigid soul and fuels the fire throughout the night.",
+    "ua": "Диспергуючи події минулого і заглядаючи в майбутнє, ви повільно відпиваєте з келиха з вином. Ваші губи згортаються в фальшиву усмішку, якщо ви щось забули, ось воно. Життя без плоті досить-таки приємне, загалом. Ви не турбуєтеся про укуси москітів, мозолі й про жорсткі простирадла. Більшість таких незручностей як холод і спека більше не турбують, це таке блаженство, не думати про запах поту. Аромат смерті, сухості і зручності, оточують як вологий саван.\n\nПовертаючи свої думки до плану, розбитому ідіотськими глузуванням, ви один хапаєте келих і шпурляєте його в стіну, розбризкуючи кров'ю. Вашу лють до Краґа Хаку, Ґем, Йоґа і цього халамидника Ґело не так легко контролювати. Хто міг би подумати, що у двох варварів раптом прокинеться совість? Не рахуючи хлопчини рейнджера і друїда-чужинця, що об'єдналися разом і створили армію, здатну перемогти вашу!\n\nВи поступово заспокоюєтеся з думкою про те, що ці упущення вже не грають ніякої ролі. Король помре і все буде належати одному з його помічників. Думка поступово зігріває вашу холодну душу і підтримує вогонь всю ніч."
+  },
+  {
+    "var": "SECRET_M1_mapevent5_name",
+    "field": "map_mapevent5_name",
+    "en": "Effective Scouts",
+    "ua": "Effective Scouts"
+  },
+  {
+    "var": "SECRET_M1_mapevent5_mesg",
+    "field": "map_mapevent5_mesg",
+    "en": "Your scouting parties \"recruited\" three messengers carrying pleas for assistance to Lord Haart.  If you do not capture any other messengers who may have eluded you, Lord Haart will return here before the appointed time.",
+    "ua": "Ваші сили затримали трьох посланців, що несуть прохання про допомогу Лорду Хаарту. Якщо ви не будете затримувати інших посланців, що намагаються вислизнути від вас, Лорд Хаарт з'явиться тут раніше призначеного часу."
+  },
+  {
+    "var": "SECRET_M1_mapevent6_name",
+    "field": "map_mapevent6_name",
+    "en": "Pay",
+    "ua": "Pay"
+  },
+  {
+    "var": "SECRET_M1_mapevent6_mesg",
+    "field": "map_mapevent6_mesg",
+    "en": "To keep these effective troops in your service you must continue to pay them.  In return, they will send you some \"recruits,\" proving they are doing the job they are being paid for.  Still, you grumble at the arrangement.  Having to actually pay someone for such a task is an inconvenience, as have been many things in this land.",
+    "ua": "Щоб зберегти цих корисних воїнів у себе, ви повинні продовжувати платити їм. У свою чергу, вони пошлють рекрутів, доводячи, що не просто так отримують від вас гроші. Ви все ще бурчите на цю угоду. Доводиться платити за такі завдання, як і за багато речей в цій країні."
+  },
+  {
+    "var": "SECRET_M1_mapevent7_name",
+    "field": "map_mapevent7_name",
+    "en": "Trouble",
+    "ua": "Trouble"
+  },
+  {
+    "var": "SECRET_M1_mapevent7_mesg",
+    "field": "map_mapevent7_mesg",
+    "en": "Once again trouble has come your way.  One of those blasted knights made a suicide attack last night.  He and the few men who followed him are dead, but it will cost much to replace what they burned to the ground.  It may be wise to further fortify the border, but you are not sure the idiots you placed there will be any more effective than the last group.",
+    "ua": "Вас знову переслідують неприємності. Один з цих повалених лицарів зробив вчора відчайдушну атаку. Він і кілька його послідовників мертві, але дорого обійдеться відновлення того, що вони встигли зруйнувати. Було б мудрим рішенням ще сильніше зміцнити кордон, але ви не впевнені, що нові ідіоти будуть кращі за попередніх."
+  },
+  {
+    "var": "SECRET_M1_mapevent8_name",
+    "field": "map_mapevent8_name",
+    "en": "Nightmare",
+    "ua": "Nightmare"
+  },
+  {
+    "var": "SECRET_M1_mapevent8_mesg",
+    "field": "map_mapevent8_mesg",
+    "en": "Resting peacefully is never an option for the undead.  Each night you are plagued with horrifyingly real dreams.  It is said of the undead that if you die in such a nightmare, you die permanently.  Knowing the power of the mind and the frailty of a body without a soul securely attached, you take no chances.  You keep a Zombie guard in your room to wake you periodically.  For the most part, this tactic works.",
+    "ua": "Мирний відпочинок - це не для нечисті. Щоночі вас мучать жахливі кошмари. Кажуть, що якщо ви помрете в нічному кошмарі - ви помрете по-справжньому. Знаючи силу розуму і слабкість тіла, ви розумієте, що у вас немає шансів. Ви тримаєте зомбі у вашій кімнаті, який будить вас час від часу. Як правило, ця тактика спрацьовує."
+  },
+  {
+    "var": "SECRET_M1_mapevent9_name",
+    "field": "map_mapevent9_name",
+    "en": "Nightmare",
+    "ua": "Nightmare"
+  },
+  {
+    "var": "SECRET_M1_mapevent9_mesg",
+    "field": "map_mapevent9_mesg",
+    "en": "The nightmare began as usual.  Ethric was chasing you, waving his sword like the lunatic he was.  Screaming battle cries, he rushes headlong forward, threatening to overtake and kill you.  There is no doubt in your mind this Warlock would rip your head from your shoulders and use it to play kickball.  He was mad, insane with jealousy and unable to control the power he already had.  His screaming turned to a maddening chanting and lightning ripped from his hands, searing your tender flesh and throwing you to the ground.\n\nBony hands shake you before you die in the dream.  \"I'm sorry, sir,\" the Zombie apologizes.  \"I was just waking you as you ordered.\"  Shaking, you spend the rest of the night pouring over rosters.",
+    "ua": "Кошмар почався як звичайно. Етрік переслідував вас, розмахуючи мечем як сновида. Викрикуючи лайливі слова, він ломився напролом, погрожуючи наздогнати вас і вбити. Без сумніву, у вашій уяві, цей чаклун із задоволенням відірвав би вам голову і пограв нею в м'яч. Він був божевільний, безрозсудний і абсолютно не контролював силу, яку мав. Його крики перетворилися на хорали, що зводять з розуму, з його рук зірвалася блискавка і висушила ваше тендітне тіло, скинувши його в землю.\n\nКістляві руки торкаються вас перед самою смертю у вашому власному сні. \"Я перепрошую, сер\" говорить зомбі. \"Я розбудив вас, як ви наказували.\" Розбуджений, ви проводите залишок ночі розглядаючи розклад нарядів."
+  },
+  {
+    "var": "SECRET_M1_mapevent10_name",
+    "field": "map_mapevent10_name",
+    "en": "Nightmare",
+    "ua": "Nightmare"
+  },
+  {
+    "var": "SECRET_M1_mapevent10_mesg",
+    "field": "map_mapevent10_mesg",
+    "en": "As you roll over and raise your weak arm, the stench of seared flesh nearly chokes you.  Although unable to see Ethric clearly through your tearing eyes, you know his sword is about to slice through you as though you were melted butter.  But the blow does not fall.  Instead, strong hands pick you up and throw you against a wall.\n\nYou now face Crag Hack.  The crazy barbarian wants to be paid.  He yanks your coin purse out from between your ribs and leaves you with a gaping hole in your chest.\n\nAs you lay dying without hope of resurrection, a Druid with the face of an angel appears before you.  However, her beautiful smile turns wicked and ugly as she uses her healing magic in reverse.  Searing the rest of your flesh from your body, she screams of souls lost forever because of you.  As you standing before her, naked and alone, she laughs.\n\nThe other two heroes join in the laughter, causing you to cry like a ridiculed child.  You scream tearfully at them until you finally wake up.",
+    "ua": "Ви перекинулися і підняли вашу слабку руку - смердючий запах обпаленої плоті вдарив вам в ніс. Хоч ви не могли побачити Етріка прямо перед собою, ви знаєте, що його меч може вас нарізати як масло. Але не кожен помах обіцяє удар. Замість цього, сильні руки підіймають вас і кидають в стіну.\n\nТепер ви бачите Краґа Хака. Божевільний варвар хоче, щоб йому заплатили. Він вириває ваш гаманець з ваших ребер і залишає зяючу рану у ваших грудях.\n\nВмираючи без надії на відродження, ви раптом бачите друїда з особою ангела перед собою. Однак, її прекрасна усмішка поступово перетворюється на злобну посмішку, і вона використовує лікувальну магію навпаки. Спопеляючи ваші останки, вона кричить про душі, які загинули через вас. Вона сміється, бачачи вас приниженим і самотнім.\n\nРешта приєднуються до її сміху, змушуючи вас плакати як немовля. Ви люто кричите на них, поки не прокидаєтеся."
+  },
+  {
+    "var": "SECRET_M1_mapevent11_name",
+    "field": "map_mapevent11_name",
+    "en": "The Genie Barbarian",
+    "ua": "The Genie Barbarian"
+  },
+  {
+    "var": "SECRET_M1_mapevent11_mesg",
+    "field": "map_mapevent11_mesg",
+    "en": "Whispers in the darkness hint at things just out of sight and around the corner.  You are moving through dark forests with only the moonlight to guide your path.  Your horse stumbles, whinnying as you go down.  Pinned, you attempt to scramble out from under the dying thoroughbred when a shadow falls over you.  It is the blue-faced Barbarian, the one who had studied in Bracada.\n\nThis genie is not to be toyed with even though a Barbarian, for he is a cunning and quick-witted foe.  He steps on your sword hand, crushing it.  With the pain empowering you, you shove the dead horse off your body and scramble down the path.  Tripping, you land face first and roll down an embankment.  Yog greets you at the bottom.  The relentless Barbarian picks you up by your cloak, which somehow turns into bed sheets.\n\nIt is your loyal Zombie, not Yog, who is rousing you.",
+    "ua": "Нічні шерехи часто говорять про те, чого не видно вдень. Ви просуваєтеся нічним лісом, що освітлюється тільки місячним світлом. Ваш кінь спотикається і тихо ірже, і ви падаєте. Затиснутий, ви намагаєтеся вилізти з-під вмираючого коня, коли чиясь тінь падає на вас. Це блакитнолиций варвар, один з тих, хто навчався в Бракаді.\n\nЦей джин непростий, хоч і варвар, він хитрий і небезпечний ворог. Він наступає на ваш меч і ламає його. З сильним припливом болю ви скидаєте з себе мертвого коня і прямуєте вниз стежкою. Ви ховаєтеся під мостом. Йоґ вітає вас вже там. Безжалісний варвар підіймає вас за ваш плащ, який несподівано перетворюється у простирадло. Це ваш слуга зомбі, а не Йоґ, що будить вас."
+  },
+  {
+    "var": "SECRET_M1_mapevent12_name",
+    "field": "map_mapevent12_name",
+    "en": "The Ranger",
+    "ua": "The Ranger"
+  },
+  {
+    "var": "SECRET_M1_mapevent12_mesg",
+    "field": "map_mapevent12_mesg",
+    "en": "There is no escaping this nightmare.  Once again you are in the shadowy forest, this time fleeing the barbaric genie.  He is a skillful hunter and even more determined than Crag Hack to get his pay.\n\nAn arrow slices through your foot, rooting you to the ground.  You see the shadows stir and out steps the white-skinned, red-haired Ranger with the strange bow.  He swiftly puts more arrows into your body before taking careful aim at your skull with the final shaft.\n\nSuddenly, you begin falling into an opening in the ground.  Making a last, desperate grab at a hand extended toward you, you materialize safely in your bed.  But the hand you are clutching is not that of your guard - the Zombie's arms had finally come apart after rescuing you from the deadly dream so many times.  No, a commander who happened to walk past your tent and hear your distress saved you.\n\nYou curse softly.  If not for happenstance, you would have died.  You vow that you will not risk sleep again.",
+    "ua": "Від цього кошмару немає порятунку. Ви знову в темному лісі, рятуючись від джина-варвара. Він умілий мисливець і ще більш рішучий, ніж Краґ Хак.\n\nСтріла пронизує вашу ступню, приковуючи вас до землі. Ви бачите рух тіней і білошкірого з рудим волоссям, що виходить на світло. Рейнджер з дивним луком. Він швидко встромляє у вас ще кілька стріл, перш ніж акуратно прицілитися в ваш череп.\n\nРаптом ви починаєте падати в несподівану землю. Відчайдушно намагаючись зачепитися за простягнуту вам руку, ви розумієте, що лежите в безпечному ліжку. Але рука за яку ви схопилися - це не рука вашого охоронця-зомбі, який у результаті розсипався, рятуючи вас від нічного кошмару. Ні, командир, що проходить повз ваш намет і почув ваші крики врятував вас.\n\nВи повільно вилаялися. Якби не випадковість - ви б померли. Ви заприсяглись, що більше ніколи не будете спати."
+  }
+]

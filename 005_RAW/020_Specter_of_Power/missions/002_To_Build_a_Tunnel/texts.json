@@ -1,0 +1,74 @@
+[
+  {
+    "var": "SECRET_M2_prolog",
+    "field": "wrapper_prolog",
+    "en": "The Dungeon Overlords are quite interested in your plans to overthrow Erathia.  There is one slight catch: they do not have enough gold to pay for the labor or the wood needed to build the actual tunnels.  You must provide them with the materials they need.",
+    "ua": "Верховні лорди Підземель сильно зацікавлені у ваших планах підкорення Ерафії. Одна біда: у них недостатньо золота і дерева, щоб побудувати тунелі. Ви повинні забезпечити їх цими матеріалами."
+  },
+  {
+    "var": "SECRET_M2_epilog",
+    "field": "wrapper_epilog",
+    "en": "To secure the Dungeon Overlord's support, I need to provide them with the gold and wood necessary to build a tunnel.  Wood is desperately needed to keep the tunnels from collapsing, and the gold is for paying the workers.  The greedy cave dwellers refuse to supply the raw materials themselves.  If I did not need their support, I would lock them up in their own underground dungeons!",
+    "ua": "Володар підземель обіцяв мені свою підтримку в обмін на золото і дерево, які йому потрібні для будівництва тунелю. Колоди йдуть на зміцнення стін і стель, а золото необхідне, щоб заплатити робітникам. Жадібні мешканці підземель не хочуть платити за матеріали зі своєї кишені. Якби мені не потрібна була їхня допомога, я би замкнув цих мерзотників в їх власних норах!"
+  },
+  {
+    "var": "SECRET_M2_map_name",
+    "field": "map_map_name",
+    "en": "To Build a Tunnel",
+    "ua": "Прорити тунель"
+  },
+  {
+    "var": "SECRET_M2_map_desc",
+    "field": "map_map_desc",
+    "en": "Obtain 100,000 Gold to give to the Dungeon Overlords and win the scenario.  However, if Sandro is defeated in combat, the scenario is lost.  Heroes are limited to level 16, but Sandro and three of his comrades will carry their experience, skills and spells on to the next scenario.",
+    "ua": "Щоб виграти, необхідно зібрати 100 000 золотих, щоб передати їх верховним лордам підземель. Якщо Сандро буде переможений у битві, він програє. Герой обмежений 16 рівнем. Якщо він переможе, його досвід, первинні та вторинні навички, а також Чарівна книга перейдуть у наступний сценарій разом із ним."
+  },
+  {
+    "var": "SECRET_M2_obj1295_guardian_mesg",
+    "field": "map_obj1295_guardian_mesg",
+    "en": "Seems that the Centaurs in the dwelling up there dropped this.  Finders keepers.",
+    "ua": "Здається, це загубили кентаври. Ну, що впало, то пропало."
+  },
+  {
+    "var": "SECRET_M2_obj1541_quest_proposal",
+    "field": "map_obj1541_quest_proposal",
+    "en": "I'm the Tunneling Overseer, and I have a major setback to report.  The invasion tunnel has collapsed, and we need 200 units of wood immediately to rebuild the main passageway.  I have a fleet of carts standing ready to transport the wood, but I don't know how much longer the rest of the tunnel will hold out without additional support!",
+    "ua": "Я - завідую будівництвом тунелю. Мушу повідомити вам про непередбачувану затримку. Тунель обвалився, і нам негайно потрібно 200 одиниць дерева, аби відновити головний коридор. Зі мною прибули підводи. Поспішайте, я не знаю, чи довго протримається інша частина тунелю, якщо ми не закріпимо її додатковими підпорками!"
+  },
+  {
+    "var": "SECRET_M2_obj1541_quest_progress",
+    "field": "map_obj1541_quest_progress",
+    "en": "I need that shipment of 200 units of wood as soon as possible!  The rest of the tunnel could collapse any day now without it!",
+    "ua": "Мені потрібно 200 одиниць дерева, і як найшвидше! Без них інша частина тунелю може обвалитись в будь-яку хвилину!"
+  },
+  {
+    "var": "SECRET_M2_obj1541_quest_completion",
+    "field": "map_obj1541_quest_completion",
+    "en": "Excellent, I'll have this wood transported to the collapsed section of the tunnel immediately.  We should have the passageway dug out and shored up again shortly.  Oh, I almost forgot.  When the tunnel collapsed, we uncovered a vein of 50,000 gold.  According to our construction agreement, all mineral veins discovered while tunneling belong to you.",
+    "ua": "Чудово, я відвезу дерево до тунелю. В найближчий час ми його відновимо. О, ледь не забув. Під час будування тунелю ми знайшли золоту жилу, вартістю 50000 золотих. Згідно із договору, все, що ми знайдемо під час будування тунелю належить вам."
+  },
+  {
+    "var": "SECRET_M2_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Introduction",
+    "ua": "Introduction"
+  },
+  {
+    "var": "SECRET_M2_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "The Dungeon Overlords have agreed to build you an underground tunnel to Erathia for the sum of 100,000 gold.  For you to accumulate that much wealth in such a short time you will have to invade part of the Contested Lands held by the Rangers: there are rumors of gold mines riddled throughout their territory.\n\nHowever, gold is not the only material needed for your invasion plans.  Subterranean wood is too weak for bracing the tunnel walls and ceilings, but there is plenty of strong wood in the forest for you to gather.  Each week a transport cart will arrive to pick up a small amount of wood needed for the construction project.",
+    "ua": "Фортеця повелителів погодилася прорити для вас підземний тунель в Ерафію за 100000 золотих. Щоб зібрати таку суму за короткий час, вам доведеться вторгнутися на землі, що належать рейнджерам: ходять чутки, там повно золотоносних шахт.\n\nПроте золото - не єдине, що вам потрібно. Підземне дерево дуже крихке, щоб будувати з нього стіни і стеля тунелю, проте для цього відмінно підходить дерево з сусіднього лісу. Кожного тижня до вас буде приїжджати підвода, щоб забрати невелику кількість дерева, необхідної для будівництва."
+  },
+  {
+    "var": "SECRET_M2_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Wood",
+    "ua": "Wood"
+  },
+  {
+    "var": "SECRET_M2_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "A transport cart burrows up from the ground to pick up the weekly supply of wood needed for tunnel construction.  Your troops fill up the cart and send it on its way.",
+    "ua": "З-під землі з'являється підвода, щоб забрати тижневий запас дерева. Ваші люди навантажують її ресурсами і відправляють назад."
+  }
+]

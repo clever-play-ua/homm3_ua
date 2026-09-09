@@ -1,0 +1,104 @@
+[
+  {
+    "var": "GELU_M1_prolog",
+    "field": "wrapper_prolog",
+    "en": "This area is a special training area and is the site for your final exam.  Many have failed this test, while more have passed it.  Good luck.",
+    "ua": "Ця місцевість - спеціально для тренувань. Багато хто провалив своє фінальне завдання тут. Але ми в тебе віримо. Успіху."
+  },
+  {
+    "var": "GELU_M1_epilog",
+    "field": "wrapper_epilog",
+    "en": "The Forest Guard is Erathia's eyes and ears.  We go where we are needed most and that is usually places difficult for traditional fighting forces to reach.  We are shadows of the forest that see all and bring silent death with a single, unseen bowshot.  You have done well in your training, Gelu, but now has come the time to take the final test.  A small valley near Gaia's Crest will be the site of this trial.  Clear the region of all the enemies to earn your place among the ranks of the Forest Guard.  Good luck.",
+    "ua": "Лісова Варта - це очі і вуха Ерафії. Ми поспішаємо туди, де без нас не обійтися, в місця, куди немає доступу регулярному війську. Ми - лісові тіні, які бачать все і несуть смерть ворогу на кінці однієї-єдиної безшумної стріли. Ти - Ґело, був старанним учнем, і зараз настав час для останнього випробування. Місцем для нього призначена маленька долина за Грядою Гаї. Ти будеш, прийнятий в Лісову Варту, коли там не залишиться жодного живого ворога. Бажаю успіху!"
+  },
+  {
+    "var": "GELU_M1_map_name",
+    "field": "map_map_name",
+    "en": "Graduation Exercise",
+    "ua": "Закінчення навчання"
+  },
+  {
+    "var": "GELU_M1_map_desc",
+    "field": "map_map_desc",
+    "en": "Defeat all Gelu's enemies win the scenario.  However, if Gelu is defeated in combat, the scenario is lost.  Your heroes are limited to level 10, but Gelu and two other heroes will carry their experience, skills and spells on to the next scenario.",
+    "ua": "Щоб виграти у цьому сценарії, ви повинні перемогти всіх ворогів Ґело. Якщо Ґело впаде в битві, ви програли. Герої обмежені 10 рівнем, проте досвід, первинні та вторинні навички, а також Чарівні книги Ґело і двох інших героїв перейдуть у наступний сценарій."
+  },
+  {
+    "var": "GELU_M1_obj187_monster_mesg",
+    "field": "map_obj187_monster_mesg",
+    "en": "\"Ready and willing, sir.  What are your orders?\"",
+    "ua": "До ваших послуг, пане. Які будуть накази?"
+  },
+  {
+    "var": "GELU_M1_obj188_monster_mesg",
+    "field": "map_obj188_monster_mesg",
+    "en": "\"By your command.\"",
+    "ua": "Чекаю наказів."
+  },
+  {
+    "var": "GELU_M1_obj234_monster_mesg",
+    "field": "map_obj234_monster_mesg",
+    "en": "The dark and foreboding trail is ominously quiet.  Suddenly you hear the hissing of hundreds of snakes.  Before you even get a chance to turn back, more than two dozen Medusae slither out and attack.",
+    "ua": "На темній, повної загрози тропі підозріло тихо. Раптово ви чуєте шипіння сотні змій. До того як ви встигаєте повернути назад. На вас виповзають більше двох сотень медуз. Вони атакують!"
+  },
+  {
+    "var": "GELU_M1_obj270_guardian_mesg",
+    "field": "map_obj270_guardian_mesg",
+    "en": "You receive an eerie feeling from the box before you.  A glow pulsates around it and an odd colored fog issues forth from its cracks.",
+    "ua": "Ящик, який стоїть перед вами, здається дивним. Він оточений пульсуючим сяйвом, а з його щілин сочиться дивного кольору туман."
+  },
+  {
+    "var": "GELU_M1_obj324_guardian_mesg",
+    "field": "map_obj324_guardian_mesg",
+    "en": "This city looks like the perfect place for a base of operations.  Take it and build it up quickly.  But we wary!  Your opponents might slip in and take it from you while you are away.  Be sure to leave some troops and possibly a lieutenant behind to defend the city from attacks.",
+    "ua": "Це місто стане відмінною штаб-квартирою. Візьміть його і швидко відбудуйте. Будьте обережні! Поки ви будете далеко, ваші супротивники можуть проникнути в місто і забрати його у вас. Обов'язково залишіть у ньому війська і, можливо, коменданта, щоб захистити місто від нападу."
+  },
+  {
+    "var": "GELU_M1_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Opening",
+    "ua": "Opening"
+  },
+  {
+    "var": "GELU_M1_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "Congratulations, cadet.  You have but one test left to complete your training and join the illustrious ranks of the Forest Guard.  You are to conquer this region of the valley near Gaia's Crest.  This region is filled with monsters, several towns and a few Forest Guard members posing as potential enemies.  This is a well-traveled land, so navigation should be quite easy.  To pass this trial, you must defeat everyone in the land by whatever means necessary.  Good luck, cadet.  May the Light shine down upon you.",
+    "ua": "Мої вітання, кадет. Ще одне випробування - і ваше навчання закінчене, ви зможете вступити у славні ряди Лісової варти. Ви повинні захопити в долині землі, прилеглі до Піку Гаї. Вашими ворогами будуть, як ми вважаємо, монстри (ця область сповнена ними), кілька міст і невелике число воїнів Лісової варти. Подорожні часто відвідують ці землі, то ж знайти дорогу буде неважко. Щоб пройти випробування, ви повинні розбити всіх ворогів, за будь-яку ціну. Успіху, кадет. Хай буде з вами Світло."
+  },
+  {
+    "var": "GELU_M1_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Words of Encouragement",
+    "ua": "Words of Encouragement"
+  },
+  {
+    "var": "GELU_M1_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "It has been 30 days since you began your mission.  You are taking too long.  As a member of the Forest Guard, you must be able move quickly to strike your enemy, attacking him while he is still weak and vulnerable.  The less he knows about our activities in a region, the less likely he is to be prepared for our assaults.  Hasten your attacks and secure this region immediately.  Lives depend upon our rapid deployment.",
+    "ua": "З тих пір, як ви почали свою місію, минуло 30 днів. Ви занадто повільні. Ви - воїн Лісової варти і повинні вміти стрімко переміщатися, завдаючи ударів ворогу, поки він слабкий і вразливий. Чим менше він знає про те, що відбувається в його землях, тим менш імовірно, що він буде готовий зустріти удар. Атакуйте швидше і негайно закріпіться в цьому регіоні. Від того, наскільки швидко ми розгорнемо свої сили, залежить не одне життя."
+  },
+  {
+    "var": "GELU_M1_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "60 Days Later",
+    "ua": "60 Days Later"
+  },
+  {
+    "var": "GELU_M1_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "Cadet, this is getting ridiculous!  A region of this size should have been cleared by now.  Forest Guard missions require speed, stealth, and efficiency.  Perhaps we should re-evaluate your progress and send you back to training.  Now hurry up and secure the area!",
+    "ua": "Кадет, це просто смішно! Регіон такого розміру ви повинні були очистити набагато швидше. Місії Лісової варти вимагають швидкості, маскування та ефективності. Можливо, нам слід переглянути ваші результати і відправити вас на перепідготовку. А тепер дійте швидко і закріпіться в цих землях!"
+  },
+  {
+    "var": "GELU_M1_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "A Lesson in Adversity",
+    "ua": "A Lesson in Adversity"
+  },
+  {
+    "var": "GELU_M1_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "Forest Guard rangers must deal with a wide variety of unexpected and troublesome situations.  There will come times when things will not go as planned or envisioned.  This is one of those times.  Several of your supply trains have been hit by raiders and their contents looted.  Deal with this situation.",
+    "ua": "Рейнджерам Лісової варти доводиться мати справу з найрізноманітнішими несподіванками і небезпечними ситуаціями. Будуть і такі моменти, коли події почнуть розвиватися зовсім не так, як ви припускали або планували. Зараз - саме такий випадок. Кілька ваших обозів піддалися нападу мародерів і були розграбовані. Розберіться з цим."
+  }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "var": "GEM_M2_prolog",
+    "field": "wrapper_prolog",
+    "en": "You have agreed to help a wizard's apprentice named Sandro.  Sandro's master, Ethric, needs an Amulet of the Undertaker to perform anti-necromancy research, but Ethric is an academician and Sandro is too inexperienced to go after the Amulet himself.",
+    "ua": "Ви погоджуєтесь допомогти учневі одного чарівника, Сандро. Вчителю Сандро, Етріку, потрібен Амулет некроманта, щоб накласти анти-некромантське заклинання, але Етрік вже старий, а Сандро ще занадто недосвідчений, щоб знайти Амулет самотужки."
+  },
+  {
+    "var": "GEM_M2_epilog",
+    "field": "wrapper_epilog",
+    "en": "I have met a Wizard named Sandro who is conducting research to combat necromancy.  He is creating a magical amulet, which will ward off the undead and wants to pay me a large sum of gold to find the pieces he needs to construct it.  He seems to think me quite the mercenary.",
+    "ua": "Я зустріла Чародія на ім'я Сандро, який присвятив себе бойовій некромантії. Зараз він працює над магічним амулетом, який буде відлякувати нежить, і готовий заплатити мені чималі гроші, якщо я знайду потрібні йому компоненти. Напевно, він вважає мене звичайною найманкою."
+  },
+  {
+    "var": "GEM_M2_map_name",
+    "field": "map_map_name",
+    "en": "After the Amulet",
+    "ua": "У пошуках амулета"
+  },
+  {
+    "var": "GEM_M2_map_desc",
+    "field": "map_map_desc",
+    "en": "Acquire the Amulet of the Undertaker to win the scenario.  However, if Gem or Clancy are defeated in combat, the scenario is lost.  Your heroes are limited to level 15, but Gem and Clancy will carry their experience, skills and spells on to the next scenario.",
+    "ua": "Для перемоги в цьому сценарії ви повинні заволодіти Амулетом некроманта. Якщо Ґем або Кленсі впадуть в битві, ви програли. Всі герої обмежені 15 рівнем, проте досвід, первинні та вторинні навички, а також Чарівні книги Ґем і Кленсі перейдуть у наступний сценарій."
+  },
+  {
+    "var": "GEM_M2_hero_bio",
+    "field": "map_hero_bio",
+    "en": "After her Deyjan raiders campaign, Gem agrees to help a wizard's anti-necromancy research by getting an Amulet of the Undertaker.",
+    "ua": "Завершивши компанію у Дейе, Ґем погоджується допомогти чарівнику в його дослідах проти некромантів і добути йому Амулет некроманта."
+  },
+  {
+    "var": "GEM_M2_obj15_town_name",
+    "field": "map_obj15_town_name",
+    "en": "Clifftree",
+    "ua": "Кліфтрі"
+  },
+  {
+    "var": "GEM_M2_obj67_event_name",
+    "field": "map_obj67_event_name",
+    "en": "Extra Income",
+    "ua": "Extra Income"
+  },
+  {
+    "var": "GEM_M2_obj67_event_name",
+    "field": "map_obj67_event_name",
+    "en": "Extra Troops",
+    "ua": "Extra Income"
+  },
+  {
+    "var": "GEM_M2_obj67_event_name",
+    "field": "map_obj67_event_name",
+    "en": "Build Townhall",
+    "ua": "Extra Income"
+  },
+  {
+    "var": "GEM_M2_obj110_event_name",
+    "field": "map_obj110_event_name",
+    "en": "Extra Income",
+    "ua": "Extra Income"
+  },
+  {
+    "var": "GEM_M2_obj110_event_name",
+    "field": "map_obj110_event_name",
+    "en": "Extra Creatures",
+    "ua": "Extra Income"
+  },
+  {
+    "var": "GEM_M2_obj169_event_name",
+    "field": "map_obj169_event_name",
+    "en": "Extra Income",
+    "ua": "Extra Income"
+  },
+  {
+    "var": "GEM_M2_obj788_guardian_mesg",
+    "field": "map_obj788_guardian_mesg",
+    "en": "Suddenly, the smell of death is overwhelming.  \"Ambush!\" screams one of your troops, pointing at the sky.",
+    "ua": "Раптом все навколо наповнює запах смерті. «Засідка», - кричить один з воїнів, вказуючи на небо."
+  },
+  {
+    "var": "GEM_M2_obj790_guardian_mesg",
+    "field": "map_obj790_guardian_mesg",
+    "en": "Buried under the gems and gold of the Ghost Dragons' hoard you find the Amulet of the Undertaker.",
+    "ua": "У скарбниці Примарних Драконів, під завалами золота та дорогоцінного каменю, ви знаходите Амулет Некроманта."
+  },
+  {
+    "var": "GEM_M2_obj791_monster_mesg",
+    "field": "map_obj791_monster_mesg",
+    "en": "Despite the pleasant surroundings, the unmistakable odor of death permeates the area.  You see a group of Ghost Dragons ahead.",
+    "ua": "Незважаючи на приємний пейзаж, навколо все просто насичено ні з чим не порівняним духом смерті. По переду ви бачите загін примарних драконів."
+  },
+  {
+    "var": "GEM_M2_obj859_guardian_mesg",
+    "field": "map_obj859_guardian_mesg",
+    "en": "As you pick up the nugget, you suddenly realize the bulk of it is underground.  This nugget is huge!",
+    "ua": "Намагаючись підняти самородок, ви раптово розумієте, що більша його частина знаходиться під землею. Він просто величезний!"
+  },
+  {
+    "var": "GEM_M2_obj860_guardian_mesg",
+    "field": "map_obj860_guardian_mesg",
+    "en": "As you pick up the nugget, you suddenly realize the bulk of it is underground.  This nugget is huge!",
+    "ua": "Намагаючись підняти самородок, ви раптово розумієте, що більша його частина знаходиться під землею. Він просто величезний!"
+  },
+  {
+    "var": "GEM_M2_obj911_hero_bio",
+    "field": "map_obj911_hero_bio",
+    "en": "While Clancy is on leave from his duties as a General for Lord Fayette he decides to join Gem on her quest.",
+    "ua": "Доки Кленсі звільнений від служби в якості одного з генералів лорда Файета, він вирішує приєднатися до Ґеми."
+  },
+  {
+    "var": "GEM_M2_obj1087_event_name",
+    "field": "map_obj1087_event_name",
+    "en": "Extra Income",
+    "ua": "Extra Income"
+  },
+  {
+    "var": "GEM_M2_obj1087_event_name",
+    "field": "map_obj1087_event_name",
+    "en": "Extra Troops",
+    "ua": "Extra Income"
+  },
+  {
+    "var": "GEM_M2_obj1087_event_name",
+    "field": "map_obj1087_event_name",
+    "en": "Build Townhall",
+    "ua": "Extra Income"
+  },
+  {
+    "var": "GEM_M2_obj1105_event_name",
+    "field": "map_obj1105_event_name",
+    "en": "Extra Income",
+    "ua": "Extra Income"
+  },
+  {
+    "var": "GEM_M2_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Intro",
+    "ua": "Intro"
+  },
+  {
+    "var": "GEM_M2_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "I told Clancy of my agreement to help a wizard's apprentice, Sandro, find an Amulet of the Undertaker for his master, Ethric.  Clancy stroked his beard approvingly when I said the Amulet was to be used for anti-necromancy research, and he surprised me by offering to help me with the quest.",
+    "ua": "Я розповіла Кленсі про те, що погодилася допомогти Сандро, учневі чародія, знайти для його господаря Етріка Амулет некроманта. Кленсі схвально погладив свою бороду, коли я сказала йому, що Амулет буде потрібен для антинекромантських досліджень, і здивував мене, запропонувавши свою допомогу в пошуках."
+  },
+  {
+    "var": "GEM_M2_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Amulet Report",
+    "ua": "Amulet Report"
+  },
+  {
+    "var": "GEM_M2_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "According to Sandro, the Amulet of the Undertaker is located to the North Northeast of Clifftree Castle in a Ghost Dragon horde.",
+    "ua": "За словами Сандро, Амулет некроманта знаходиться на північний схід від замку Кліфтрі, у скарбниці примарних драконів."
+  },
+  {
+    "var": "GEM_M2_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Liking the Rampart",
+    "ua": "Liking the Rampart"
+  },
+  {
+    "var": "GEM_M2_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "I am becoming to feel quite at home in the Rampart Castle.  I'm even starting to get accustomed to the dragons!  Actually, it's the Dendroids that make me a little uncomfortable.  Not them personally.  They're really quite friendly.  It's just that they remind me of a past I'd rather forget.  I haven't seen moving trees since I was a little girl.",
+    "ua": "Я починаю відчувати себе в твердині як вдома. Я навіть потроху звикаю до драконів! Якщо чесно, то мене турбують не вони, а дендроіди. Ні, справа не в них самих. Вони дуже доброзичливі. Просто вони нагадують мені про те минуле, про яке я воліла б забути. Я не бачила ходячих дерев з тих пір, як була маленькою дівчинкою."
+  },
+  {
+    "var": "GEM_M2_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "Necro Near By",
+    "ua": "Necro Near By"
+  },
+  {
+    "var": "GEM_M2_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "My Elven scouts have just reported there is a Necromancer to the North East.  It appears he may be in the vicinity of the Amulet.  The scouts also informed me he is terrorizing and killing the locals.  I will lie to rest every tortured soul this Necromancer has locked in an undead body.",
+    "ua": "Мої розвідники-ельфи щойно доповіли, що на північному сході звідси живе некромант. Схоже, він намагається триматися ближче до амулета. Крім того, розвідники говорять, що він залякує і вбиває місцевих жителів. Я упокою кожну змучену душу, замкнену цим некромантом в тілі живого мерця."
+  },
+  {
+    "var": "GEM_M2_mapevent4_name",
+    "field": "map_mapevent4_name",
+    "en": "Ghost Dragons",
+    "ua": "Ghost Dragons"
+  },
+  {
+    "var": "GEM_M2_mapevent4_mesg",
+    "field": "map_mapevent4_mesg",
+    "en": "One of my Elven scouts talked to a local who said he saw a group of Ghost Dragons going through a Subterranean Gate several months ago.  Maybe the Ghost Dragons with the Amulet can be found underground!",
+    "ua": "Один з моїх розвідників-ельфів поговорив з місцевим жителем, і той сказав йому, що кілька місяців тому бачив, як група примарних драконів проходить через підземні ворота. Можливо, примарних драконів, які тримають Амулет у себе, слід шукати під землею!"
+  },
+  {
+    "var": "GEM_M2_mapevent5_name",
+    "field": "map_mapevent5_name",
+    "en": "Visit from a Druid",
+    "ua": "Visit from a Druid"
+  },
+  {
+    "var": "GEM_M2_mapevent5_mesg",
+    "field": "map_mapevent5_mesg",
+    "en": "An old Druid appeared just as we were setting up camp last night.  He said he had heard much about me from both Mayor Dilino and Clancy and wanted to meet me.  There was something I instantly liked about him, and we wound up talking through the night.  He was quite interested in the differences between Sorcerer and Druid magic and especially curious about my teachers.\n\nI started to tell him about my instructor Amanda when I realized that he had her same calm and accepting eyes.  I surprised the Druid when I told him this, but I didn't feel comfortable enough to tell him much more about Amanda.  You never can be too careful with strangers these days, although we parted on good terms the next morning.",
+    "ua": "Минулого вечора, якраз коли ми почали розбивати табір, перед нами з'явився старий друїд. Він сказав, що багато чув про мене від Кленсі і мера Деліно і захотів зі мною зустрітися. Чомусь він відразу мені сподобався, і ми проговорили всю ніч. Він дуже цікавився різницею в магії чарівників і друїдів і особливо докладно розпитував мене про моїх вчителів. Я почала розповідати йому про свою наставницю Аманду і раптом зрозуміла, що у нього - її очі, спокійні і розуміють. Друїд дуже здивувався, коли я йому про це сказала, але мені стало ніяково, і я не стала заглиблюватися в подробиці, розповідаючи про Аманду. З незнайомцями в наші дні потрібно поводитися обережніше. На наступний ранок ми, проте, розійшлися друзями."
+  },
+  {
+    "var": "GEM_M2_mapevent6_name",
+    "field": "map_mapevent6_name",
+    "en": "Saved a Hamlet",
+    "ua": "Saved a Hamlet"
+  },
+  {
+    "var": "GEM_M2_mapevent6_mesg",
+    "field": "map_mapevent6_mesg",
+    "en": "This morning, screams brought us to a tiny hamlet.  A small roaming band of skeletons and zombies were attacking the villagers, but they were no match for my troops.  I rode down the last skeleton myself.  I knocked the skeleton down and trampled it again and again with my horse's hooves until all was left was a flattened pile of bone shards.  I swear I heard a sigh of relief as the skeleton's imprisoned soul was released to the afterlife.  However, my troops looked at me strangely afterwards.",
+    "ua": "Цього ранку ми почули крики і, йдучи за ними, виявили крихітне село. Зграя бродяг, скелетів і зомбі, атакувала її жителів, але з моїм військом їм було не змагатися. Останнього скелета я розтоптала конем сама. Я збила його з ніг і змушувала свого скакуна бити його копитами знову і знову, поки від нього не залишилося нічого, крім купки розчавлених кісток. Я клянуся, що почула зітхання полегшення, коли укладена в скелеті душа змогла відправитися в потойбічний світ. Проте мої воїни після цього дивилися на мене якось дивно."
+  },
+  {
+    "var": "GEM_M2_mapevent7_name",
+    "field": "map_mapevent7_name",
+    "en": "Gold",
+    "ua": "Gold"
+  },
+  {
+    "var": "GEM_M2_mapevent7_mesg",
+    "field": "map_mapevent7_mesg",
+    "en": "People are strange about gold.  If you don't let them give it to you, they don't know what to do and get upset.  I've gotten to the point where I just take it when they offer it to me - if they can afford it.  It's just easier that way.  I could tell Sandro wouldn't have known how to deal with me if I hadn't taken my payment; he was so certain he could buy my loyalty.  The funny thing is I would have helped his anti-necromancy research for free.",
+    "ua": "Люди дуже дивно відносяться до золота. Якщо ти відмовляєшся прийняти його від них, вони не знають що робити, і це їх засмучує. Тепер я просто беру його коли пропонують - якщо пропонують. Так простіше. Я відразу зрозуміла, що Сандро не знав би як зі мною розмовляти, якщо б я не прийняла свою плату. Він був такий упевнений, що зможе купити мою відданість! Кумедно, адже я б допомогла йому в його антинекромантських дослідженнях і задарма."
+  },
+  {
+    "var": "GEM_M2_mapevent8_name",
+    "field": "map_mapevent8_name",
+    "en": "Letter from Sandro",
+    "ua": "Letter from Sandro"
+  },
+  {
+    "var": "GEM_M2_mapevent8_mesg",
+    "field": "map_mapevent8_mesg",
+    "en": "I received a very interesting letter from Sandro today.  Apparently he convinced his master I could be entrusted with the full story.  It seems that Ethric is doing more than just research.  He believes he has found a way to construct a necromancy suppressing artifact, but to do this he needs three lesser artifacts:  an Amulet of the Undertaker, a Vampire's Cowl and a pair of Dead Man's Boots.  Sandro offered me more gold to find the other two artifacts once I locate the Amulet.",
+    "ua": "Сьогодні я отримала від Сандро дуже цікавий лист. Схоже, він переконав свого пана, що мені можна довіряти настільки, щоб розповісти все. Судячи з усього, праця Етріка - більше, ніж просто дослідження. Він вважає, що знайшов спосіб, який дозволить йому створити артефакт, що пригнічує діяльність некромантів, але для цього йому потрібні три менш могутніх артефакти: Амулет некроманта, Плащ вампіра і Черевики мерця. Сандро запропонував мені ще золота, попросивши, щоб я, знайшовши Амулет, відразу ж пустилася на пошуки цих двох артефактів."
+  },
+  {
+    "var": "GEM_M2_mapevent9_name",
+    "field": "map_mapevent9_name",
+    "en": "Letter from Sandro (cont)",
+    "ua": "Letter from Sandro (cont)"
+  },
+  {
+    "var": "GEM_M2_mapevent9_mesg",
+    "field": "map_mapevent9_mesg",
+    "en": "I wrote back to Sandro that Ethric's project was a worthwhile one and promised to search for the two artifacts after finding the Amulet of the Undertaker.  After sending off the letter, I decided to look up Ethric upon the completion of my quests and persuade him to let me donate money towards his research.  I admire his values.",
+    "ua": "Я відповіла Сандро, що задум Етріка здається мені гідним уваги й обіцяла зайнятися пошуками цих двох артефактів після того, як знайду Амулет некроманта. Надіславши листа, я вирішила по завершенню своїх пошуків відвідати Етріка й умовити його прийняти від мене в дар гроші на дослідження. Я захоплююся його благородством."
+  },
+  {
+    "var": "GEM_M2_mapevent10_name",
+    "field": "map_mapevent10_name",
+    "en": "Message to Clancy",
+    "ua": "Message to Clancy"
+  },
+  {
+    "var": "GEM_M2_mapevent10_mesg",
+    "field": "map_mapevent10_mesg",
+    "en": "I sent a message to Clancy telling him about Ethric's project and that I had promised to help Sandro find a Vampire's Cowl and a pair of Dead Man's Boots.",
+    "ua": "Я відправила послання Кленсі, в якому розповіла про задум Етріка і про те, що я обіцяла допомогти Сандро в пошуках Плаща вампіра і Черевиків мерця."
+  },
+  {
+    "var": "GEM_M2_mapevent11_name",
+    "field": "map_mapevent11_name",
+    "en": "Message from Clancy",
+    "ua": "Message from Clancy"
+  },
+  {
+    "var": "GEM_M2_mapevent11_mesg",
+    "field": "map_mapevent11_mesg",
+    "en": "Clancy sent me a message back saying he would also like to help Ethric but first needed the leave of his master, Lord Fayette.  Clancy thought Lord Fayette would allow him to help as long as we didn't do anything to upset the Erathians.",
+    "ua": "Кленсі відповів на моє послання, сказавши, що він теж хотів би допомогти Етріку, але спочатку він повинен отримати дозвіл на це у свого пана, лорда Файета. Кленсі вважає, що лорд Файет дасть його, за умови, що ми не зробимо нічого такого, що могло б викликати невдоволення ерафійців."
+  },
+  {
+    "var": "GEM_M2_mapevent12_name",
+    "field": "map_mapevent12_name",
+    "en": "Intro (cont)",
+    "ua": "Intro (cont)"
+  },
+  {
+    "var": "GEM_M2_mapevent12_mesg",
+    "field": "map_mapevent12_mesg",
+    "en": "I replied I would be glad to have his company again as long as he understood this was my quest, not his.  He assured me he understood that quite well and then complimented me on my Clovergreen Militia campaign, making me laugh.  Flatterer!  Of course, what else would you expect from a man who can sweet talk unicorns?",
+    "ua": "Я відповіла, що буду рада, якщо він знову стане моїм супутником, - до тих пір, поки не почне забувати, що це моє завдання, а не його. Він запевнив мене, що добре це розуміє, а потім наговорив мені компліментів з приводу кампанії з кловергрінським військом, чим дуже мене розсмішив. Підлесник! Зрозуміло, чого ще можна було очікувати від людини, яка вміє вмовляли єдинорогів?"
+  }
+]

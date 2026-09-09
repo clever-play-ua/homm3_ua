@@ -1,0 +1,44 @@
+vv PLEASE READ!!!!! vv
+
+Due to how extremely old this version of RAD is (~20 years old as of 2021), the video player built into the program will flicker while playing
+a .bik file on modern operating systems like Windows 10. This may be resolved through running it in a virtual machine containing an older OS,
+but this particular solution has yet to be thoroughly tested. The converter works perfectly fine, however, and videos made through it should work
+in Red Faction properly.
+
+This version of RAD Video Tools DOES NOT support and convert .mp4 files! You will need to use .avi and .mov format files when converting your
+desired video. The full list of supported media can be found by clicking the "List of file types:" drop-down list in the main window. Please
+make sure your desired video is in .avi or .mov first (convert them to those formats if they aren't already) before proceeding.
+
+This release also cannot de-convert some .bik files made by newer versions of RAD, so be aware that .bik files from newer games will likely
+require newer versions of RAD to be converted and read properly. This is primarily intended for Red Faction, so understand the tradeoffs of using
+this release over modern iterations.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+This zip file contains the installation file you will need to install RAD Video Tools Version 1.1b onto your system.
+
+NOTE: This release is dated from June 18 of 2001, only 2.9 months before Red Faction's PC release. Newer versions of the program do not use the
+audio codec supported by the game and .bik files created by them will not play any sound when used in RF, so you WILL NEED this specific version
+to create new .bik files that can properly play audio in the game.
+
+What is a .bik file?
+It is a type of video format that can only be read by applications (notably games) with Bink Video Player integration.
+Almost every game you've played has these files in them, as it is an extremely common tool used by developers to compress large videos and
+cutscenes into smaller data for use in a variety of titles, including Red Faction. They can also be read by the RAD Video Tools, the very program
+that creates those very files, and the very program contained in this zip. It can also turn .bik files back into other formats, too.
+(see "PLEASE READ")
+
+How do you create a .bik file for Red Faction?
+Pretty simple, actually. Open up "RAD Video Tools" after installation, select a video file to convert when it appears on the file browser, click
+"Bink it!", go through the accompanying converting options (if you desire to change a few things, be my guest), and select "Convert". Once you've
+made your .bik file, go to your Red Faction install directory and go to "data/movies". There, you can replace an existing file of your choice and
+rename your new file to the name of the file you swapped out (i.e. "newbikvideo.bik" to "thqlogo.bik") 
+
+What do I do with the .bik files that are already there?
+It is always advised that you keep a copy of any files you intend to alter or replace, and that goes true for vanilla .bik files that are in
+the retail version of RF.
+
+What do these weird buttons and boxes in the RAD Video Tools do?
+There is a "Help" button present for each of the tools that will take you to the offical help site (Yes, it's actually still up!) for a better
+explaination on what they do than I could hope to explain. The stocks settings of the converter should work well enough, though.
+
+Happy Converting, Miners!

@@ -1,0 +1,434 @@
+[
+  {
+    "var": "FINAL_M12_prolog",
+    "field": "wrapper_prolog",
+    "en": "Sandro must be conquered to ensure that he will never rise to power and threaten Antagarich again.  The only certain way is to destroy the artifact that gave him his power and disperse the pieces throughout the world.",
+    "ua": "Сандро повинен бути підкорений, щоб він більше ніколи не зміг піднятися і загрожувати Антагрічу. Єдиний надійний спосіб зробити це полягає в тому, щоб знищити прокляті артефакти, і розвіяти їх частини по всьому світу."
+  },
+  {
+    "var": "FINAL_M12_epilog",
+    "field": "wrapper_epilog",
+    "en": "We face the Necromancer in his lair.  The time of reckoning has come, but our vengeance must be carried out swiftly.  Sandro has sent for reinforcements from others within Deyja.  Slow moving as undead are, they will still be here in four months.  If we have not defeated Sandro by then, he will surely rule all of Antagarich.  I shudder at the thought.  Failure is simply not an option.",
+    "ua": "Ми наздогнали некроманта в його лігві. Настав час розплати, але наша відплата повинна бути блискавичною. Сандро послав за підкріпленнями до своїх васалів в Дею. Нежить не відрізняється поспішністю, і, тим не менше, їх свіжі армії з'являться тут через чотири місяці. Якщо ми не прикінчимо Сандро до тих пір, весь Антагріч впаде до його ніг. Одна ця думка приводить мене в трепет. Ми просто не маємо права на невдачу."
+  },
+  {
+    "var": "FINAL_M12_map_name",
+    "field": "map_map_name",
+    "en": "Fall of Sandro",
+    "ua": "Загибель Сандро"
+  },
+  {
+    "var": "FINAL_M12_map_desc",
+    "field": "map_map_desc",
+    "en": "Defeat Sandro and all his minions to win the campaign.  However, if any of your four heroes are defeated in combat or you fail to defeat Sandro's forces in four months, the scenario is lost.",
+    "ua": "Для того щоб переможно завершити кампанію, необхідно знищити Сандро і всіх його поплічників. Якщо ж будь-хто з чотирьох героїв програє хоча б один бій, або якщо вам не вдасться розгромити орди Сандро, сценарій закінчиться поразкою."
+  },
+  {
+    "var": "FINAL_M12_p0_owned_hero_name",
+    "field": "map_p0_owned_hero_name",
+    "en": "Finneas ",
+    "ua": "Фінеас"
+  },
+  {
+    "var": "FINAL_M12_obj1239_hero_name",
+    "field": "map_obj1239_hero_name",
+    "en": "Finneas ",
+    "ua": "Фінеас "
+  },
+  {
+    "var": "FINAL_M12_obj1269_quest_proposal",
+    "field": "map_obj1269_quest_proposal",
+    "en": "For us to hold out here and keep the spy lines longer, we need more cannon fodder to attract attention.  Bring us 50 Hobgoblins, and we'll give you the Boots of Levitation.  You'll need them to get at Sandro.",
+    "ua": "Аби протриматись тут довше і мати можливість направляти розвідників далі, нам потрібно більше гарматного м'яса. Приведи нам 50 хобгоблінів, за них віддамо тобі Черевики левітації. Вони знадобляться тобі, аби дістатися до Сандро."
+  },
+  {
+    "var": "FINAL_M12_obj1269_quest_progress",
+    "field": "map_obj1269_quest_progress",
+    "en": "You only get the boots if we get 50 Hobgoblins.",
+    "ua": "Черевики ти отримаєш лиш тоді, коли приведеш нам 50 хобгоблінів."
+  },
+  {
+    "var": "FINAL_M12_obj1269_quest_completion",
+    "field": "map_obj1269_quest_completion",
+    "en": "Great!  Now we can do more reconnaissance into Deyja.  Give us the 50 Hobgoblins, and we'll give you the Boots of Levitation.  From here you can go to the Guards outside of his tower.  They want to escape but cannot.  With the Boots of Levitation they'll be able to run away, and you can pass through the gates to kill Sandro... or at least wallop him one good.",
+    "ua": "Чудово! Тепер ми зможемо слідкувати за всім, що трапляється в Дейі. В обмін на півсотні твоїх хобгоблінів ми даруємо тобі Черевики левітації. Негайно прямуй до стражів, які охороняють вежу. Вони бажають забратись звідти як найшвидше, але не мають можливості. Черевики Левітації допоможуть виконати їхнє бажання, а ти пройти врата і знищити Сандро... чи хоча б як слід намняти йому боки."
+  },
+  {
+    "var": "FINAL_M12_obj1270_guardian_mesg",
+    "field": "map_obj1270_guardian_mesg",
+    "en": "This ancient tome has been guarded for centuries, but now lies here, unprotected and unguarded.  Or is it?",
+    "ua": "Не одне століття цей древній фоліант берегли, як зіницю ока, а тепер він лежить у всіх на виду, без нагляду та охорони. Чи так тільки здається?"
+  },
+  {
+    "var": "FINAL_M12_obj1271_guardian_mesg",
+    "field": "map_obj1271_guardian_mesg",
+    "en": "The guardians set here by the Lords of Water centuries ago protect this tome.  With such opponents, it is no wonder the Necromancers have yet to defeat them.",
+    "ua": "Цей фоліант охороняють вартові, поставлені тут Володарями Води багато століть тому. Не дивно, що некромант не зміг з ними впоратися."
+  },
+  {
+    "var": "FINAL_M12_obj1273_monster_mesg",
+    "field": "map_obj1273_monster_mesg",
+    "en": "These golems were set centuries ago to protect the two Tomes of Magic stolen from the Elemental Lords.  Now you must defeat all 200 of the guardians to gain access to the precious books.",
+    "ua": "Ці големи були тут залишені з метою охорони двох Книг Магії, які були викрадені у Повелителів Стихій. Аби заволодіти дорогоцінними фоліантами вам доведеться знищити дві сотні стражів."
+  },
+  {
+    "var": "FINAL_M12_obj1507_quest_proposal",
+    "field": "map_obj1507_quest_proposal",
+    "en": "Our brethren were once beautiful dragons who lived in these lands.  Now they are the hideous ghosts of what they once where, under the control of a mere mortal Necromancer.  If you put their souls to rest, we will give you the key to great treasures.",
+    "ua": "А інші часи наші брати були могутніми драконами і населяли ці землі. Тепер же вони перетворені на жахливих привидів, якими за своєю забаганкою керує один смертний некромант. Якщо ти навіки упокоїш їхні душі, ми віддамо тобі ключі від великого скарбу."
+  },
+  {
+    "var": "FINAL_M12_obj1507_quest_progress",
+    "field": "map_obj1507_quest_progress",
+    "en": "Until their souls are at rest, we will not part with the Elixir of Life.",
+    "ua": "Доки душі наших братів не упокоєні, ми не віддамо тобі Еліксир Життя."
+  },
+  {
+    "var": "FINAL_M12_obj1507_quest_completion",
+    "field": "map_obj1507_quest_completion",
+    "en": "Thank you so much for your heroic deed.  I know it was difficult to face them, even in their weakened condition.  Here is the Elixir of Life.  You may keep it or trade it in.  There are those below who would trade this item for something you may find more useful.  Seek out the teleporters, and maybe you will find something of more value.",
+    "ua": "Ми вдячні тобі за твій геройський подвиг. Ми знаємо, як тяжко було вистояти перед ними. Візьми Еліксир Життя. Ти можеш лишити його собі чи обміняти його на що-небудь інше. Під нами ти знайдеш тих, хто зможе запропонувати тобі за нього дуже цікаві предмети. Не проходь повз телепортів, вони допоможуть тобі отримати багато чого цінного."
+  },
+  {
+    "var": "FINAL_M12_obj1529_quest_proposal",
+    "field": "map_obj1529_quest_proposal",
+    "en": "We cannot leave this place.  Only if we were able to fly could we possibly leave.  The Boots of Levitation are our only hope.  There is a huge lake we must cross, and without permission to take the boat we are stuck here.  With the Boots we would be able to cross on our own and disappear into other Deyja territory.",
+    "ua": "Ми не в силах залишити це місце, бо вибратися звідси можна лише повітрям. Черевики левітації - наша остання надія. На шляху звідси лежить величезне озеро, і без човна ми застрягнемо там назавжди. У черевиках ж ми зможемо полетіти на всі чотири сторони і почати нове життя десь в іншій частині Деї."
+  },
+  {
+    "var": "FINAL_M12_obj1529_quest_progress",
+    "field": "map_obj1529_quest_progress",
+    "en": "Without the Boots of Levitation we cannot leave, and you cannot pass.",
+    "ua": "Без Черевиків левітації нам звідси не вибратися, а тобі тут не пройти."
+  },
+  {
+    "var": "FINAL_M12_obj1529_quest_completion",
+    "field": "map_obj1529_quest_completion",
+    "en": "Give us the Boots of Levitation, and we will leave so you may pass.  Otherwise, we are at a stalemate.",
+    "ua": "Принеси нам Черевики левітації, тоді ми полетимо звідси, а ти зможеш пройти. В іншому ж випадку нехай все залишається, як є."
+  },
+  {
+    "var": "FINAL_M12_obj1553_quest_proposal",
+    "field": "map_obj1553_quest_proposal",
+    "en": "I am in desperate need of the Elixir of Life.  My mother's health is failing and water drunk from the Elixir will heal her.  I have sworn to give up my most prized possession, the Bow of the Sharpshooter, if I can find the Elixir of Life.",
+    "ua": "Мені терміново потрібен Еліксир життя. Моя матінка слабшає з кожним днем, а ковток води з краплею еліксиру поверне їй колишнє здоров'я. Я поклявся, що віддам за Еліксир життя найдорожче, що маю - Лук снайпера."
+  },
+  {
+    "var": "FINAL_M12_obj1553_quest_progress",
+    "field": "map_obj1553_quest_progress",
+    "en": "Unless you have the Elixir of Life I will not give up my bow.",
+    "ua": "Поки ви не принесете мені Еліксир життя, я не віддам вам лук."
+  },
+  {
+    "var": "FINAL_M12_obj1553_quest_completion",
+    "field": "map_obj1553_quest_completion",
+    "en": "That is the Elixir!  Where did you find it?  No matter.  Will you trade it for my Bow of the Sharpshooter?",
+    "ua": "Так ось він який, цей Еліксир! Де ви його знайшли? А втім, не важливо! Так ви згодні обміняти його на Лук снайпера?"
+  },
+  {
+    "var": "FINAL_M12_obj1554_monster_mesg",
+    "field": "map_obj1554_monster_mesg",
+    "en": "We shall let no one pass.  Jamison the Seer is attempting to help his mother, who supports Air and Water magic but does not appreciate our powers.  For her impudence we will not let anyone through.",
+    "ua": "Тут нікому немає проходу! Ми знаємо, що провидець Джемісон намагається допомогти своїй матері. Вона сповідує магію повітря та води і не визнає нашої могутності. У покарання за її зухвалість ми не дозволимо тут пройти нікому!"
+  },
+  {
+    "var": "FINAL_M12_obj1658_quest_proposal",
+    "field": "map_obj1658_quest_proposal",
+    "en": "I have heard of an ancient artifact called the Elixir of Life.  In exchange for this rare artifact I am willing to give you this old piece of junk, the Wizard's Well.  Return with the artifact and I will make a trade with you.",
+    "ua": "Я чув про древній артефакт, який називається Еліксиром життя. В обмін на цю рідкісну дрібничку я віддам тобі ось цей мотлох під назвою Джерело чарівника. Повертайся з Еліксиром життя, і ми з тобою махнемось, не дивлячись."
+  },
+  {
+    "var": "FINAL_M12_obj1658_quest_completion",
+    "field": "map_obj1658_quest_completion",
+    "en": "Perfect specimen!  Will trade it for the Wizard's Well?",
+    "ua": "Відмінна річ! Згоден обміняти її на Джерело чародія?"
+  },
+  {
+    "var": "FINAL_M12_obj1659_monster_mesg",
+    "field": "map_obj1659_monster_mesg",
+    "en": "\"This is our territory!\" the Phoenixes screech.  \"Die!\"",
+    "ua": "«Це наші землі!» - клекоче Фенікс. - «Помри!»"
+  },
+  {
+    "var": "FINAL_M12_obj1672_quest_proposal",
+    "field": "map_obj1672_quest_proposal",
+    "en": "I seek the Elixir of Life.  This ring once belonged to my grandfather, a powerful mage.  It has been imbued will great powers, and I will give it to you in exchange for the Elixir.",
+    "ua": "Я розшукую Еліксир життя. У колишні часи цей перстень належав моєму дідові, який був могутнім магом. У ньому прихована велика міць, і я готовий віддати його в обмін на Еліксир."
+  },
+  {
+    "var": "FINAL_M12_obj1672_quest_completion",
+    "field": "map_obj1672_quest_completion",
+    "en": "I will give you my grandfather's Ring of the Magi if you give me the Elixir of Life.",
+    "ua": "Я віддам тобі дідовий Перстень Мага в обмін на Еліксир Життя."
+  },
+  {
+    "var": "FINAL_M12_obj1678_monster_mesg",
+    "field": "map_obj1678_monster_mesg",
+    "en": "We will not allow anyone to disturb our sanctuary.  Now you will be liquefied and added to our pools!",
+    "ua": "Ми нікому не дозволимо оскверняти наше святилище! Ми звернемо тебе у вологу, і ти віллєшся в наш священний басейн!"
+  },
+  {
+    "var": "FINAL_M12_obj1711_monster_mesg",
+    "field": "map_obj1711_monster_mesg",
+    "en": "This is our realm!  Mortals are not allowed!  Prepare to become part of the ether!",
+    "ua": "Це наші володіння! Смертним тут не місце! Готуйся стати частиною вічного ефіру!"
+  },
+  {
+    "var": "FINAL_M12_obj1712_monster_mesg",
+    "field": "map_obj1712_monster_mesg",
+    "en": "This is our realm!  Mortals are not allowed!  Prepare to become part of the ether!",
+    "ua": "Це наші володіння! Смертним сюди шлях заборонений! Готуйся стати частиною вічного ефіру!"
+  },
+  {
+    "var": "FINAL_M12_obj1714_monster_mesg",
+    "field": "map_obj1714_monster_mesg",
+    "en": "This is our realm!  Mortals are not allowed!  Prepare to become part of the ether!",
+    "ua": "Це наші володіння! Смертним сюди шлях заборонений! Готуйся стати частиною вічного ефіру!"
+  },
+  {
+    "var": "FINAL_M12_obj1715_monster_mesg",
+    "field": "map_obj1715_monster_mesg",
+    "en": "This is our realm!  Mortals are not allowed!  Prepare to become part of the ether!",
+    "ua": "Це наші володіння! Смертним сюди шлях заборонений! Готуйся стати частиною вічного ефіру!"
+  },
+  {
+    "var": "FINAL_M12_obj1716_monster_mesg",
+    "field": "map_obj1716_monster_mesg",
+    "en": "We are the guardians and you will not be allowed to enter here.  Do not think you can easily get by us!",
+    "ua": "Ми - вартові і не дозволимо тобі проникнути всередину! Не думай, що тобі вдасться прослизнути повз нас!"
+  },
+  {
+    "var": "FINAL_M12_obj1766_monster_mesg",
+    "field": "map_obj1766_monster_mesg",
+    "en": "We will not allow anyone to disturb our sanctuary.  Now you will be liquefied and added to our pools!",
+    "ua": "Ми нікому не дозволимо оскверняти наше святилище! Ми звернемо тебе у вологу, і ти віллєшся в наш священний басейн!"
+  },
+  {
+    "var": "FINAL_M12_obj1767_monster_mesg",
+    "field": "map_obj1767_monster_mesg",
+    "en": "We will not allow anyone to disturb our sanctuary.  Now you will be liquefied and added to our pools!",
+    "ua": "Ми нікому не дозволимо оскверняти наше святилище! Ми звернемо тебе у вологу, і ти віллєшся в наш священний басейн!"
+  },
+  {
+    "var": "FINAL_M12_obj1773_monster_mesg",
+    "field": "map_obj1773_monster_mesg",
+    "en": "We will not allow anyone to disturb our sanctuary.  Now you will be liquefied and added to our pools!",
+    "ua": "Ми нікому не дозволимо оскверняти наше святилище! Ми звернемо тебе у вологу, і ти віллєшся в наш священний басейн!"
+  },
+  {
+    "var": "FINAL_M12_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Day 1",
+    "ua": "Day 1"
+  },
+  {
+    "var": "FINAL_M12_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "We are deep within the Necromancer's territory.  Most everything is dying here; only a few trees can cling to the earth after a Necromancer has worked his death magic for so long.  Each of us leads a town and has begun preparations for the final assault.  Sandro is past the desert.  Rumors of deadly traps and roving bands of marauders have made us all wary, even the fearless Crag Hack.",
+    "ua": "Ми заглибилися в землі некромантів. Тут не залишилося нічого живого - лише кілька жалюгідних дерев, які відчайдушно чіпляються корінням за мертвий ґрунт, навіки осквернений злою магією. Кожен з нас заручився підтримкою дружнього міста і почав підготовку до останньої битви. Сандро ховається десь там, за пустелею. Чутки про смертельно небезпечні пастки і бешкетуючі банди мародерів змушують нас - і навіть безстрашного Краґа Хака - подвоїти пильність."
+  },
+  {
+    "var": "FINAL_M12_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Mines",
+    "ua": "Mines"
+  },
+  {
+    "var": "FINAL_M12_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "We have quickly returned sawmills and ore mines to production.  With four castles, our resources will be stretched thinly.  It will be imperative to quickly look for other resources and money needed to get a town up and running.  Each of us is scouring the land, sending out scouts.  The Necromancers have mostly built towns and are ahead of us.  I have sent word home, hoping we will receive reinforcements, but I do not know if any will come.",
+    "ua": "Ми швидко відновили лісопилки і рудні шахти, і тепер вони знову працюють. Однак для наших чотирьох замків ресурсів явно замало. Ми просто зобов'язані якомога швидше знайти додаткові матеріали і побільше грошей, щоб наші міста облаштовувалися і слали нам необхідні поповнення. Всі ми невтомно ганяємо по країні і розсилаємо розвідників у всі її кінці. А ось некроманти здебільшого вже відбудували свої міста і випереджають нас з хорошим відривом. Я відправив послання своєму комендантові і зажадав від нього підкріплень, але не знаю, чи зможе він мені когось прислати."
+  },
+  {
+    "var": "FINAL_M12_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Teleporters",
+    "ua": "Teleporters"
+  },
+  {
+    "var": "FINAL_M12_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "Reports of a teleporter to the underground have surfaced.  It is rumored there are underground caverns filled with treasures beyond your wildest dreams.  All you have to do is get by one of Sandro's Generals and use the teleporter.",
+    "ua": "Надійшли відомості про портал, що відкриває шлях в підземелля. Кажуть, що там, у глибоких печерах, заховані великі скарби. Залишається тільки перебити прихвоснів Сандро, вартових порталів, і спуститися під землю."
+  },
+  {
+    "var": "FINAL_M12_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "Elixir of Life",
+    "ua": "Elixir of Life"
+  },
+  {
+    "var": "FINAL_M12_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "One of the artifacts researched was the Elixir of Life.  Gelu had gathered its components for Lord Falorel, who had obviously not used it but instead hid it so no one could use it against him.  This artifact could be very useful, if it is found.  The mages have traced it to this region but do not know its exact location.",
+    "ua": "Один з артефактів, виготовлених чарівниками, - це знаменитий Еліксир життя. Свого часу Ґело зібрав його компоненти для лорда Фалореля, який, зрозуміло, не скористався ним, а надійно заховав, щоб ніхто не зміг застосувати її проти нього. Якби нам вдалося знайти цей артефакт, він припав би дуже до речі. Чародії визначили область, де він знаходиться, але не можуть вказати точного місця."
+  },
+  {
+    "var": "FINAL_M12_mapevent4_name",
+    "field": "map_mapevent4_name",
+    "en": "Ghost Dragons",
+    "ua": "Ghost Dragons"
+  },
+  {
+    "var": "FINAL_M12_mapevent4_mesg",
+    "field": "map_mapevent4_mesg",
+    "en": "A mystic wanders into camp, begging for food.  Crag Hack demands that the mystic earn his food and lodging, so the old man eyes the large barbarian very carefully.  He then says, \"The Ghost Dragons are key to getting the Elixir of Life.\"  After saying this, he proceeds to eat and ignores Crag for the rest of the night, to Crag's great irritation.",
+    "ua": "У таборі з'явився бродячий провидець і попросив нагодувати його. Коли ж Краґ Хак зажадав, щоб старий відпрацював свою їжу і дах, той уважно глянув на величезного варвара і вимовив: «Ключ до Еліксиру життя стережуть примарні дракони». З цими словами він накинувся на їжу і більше не звертав на Краґа ніякої уваги, на превелике невдоволення останнього."
+  },
+  {
+    "var": "FINAL_M12_mapevent5_name",
+    "field": "map_mapevent5_name",
+    "en": "Trade",
+    "ua": "Trade"
+  },
+  {
+    "var": "FINAL_M12_mapevent5_mesg",
+    "field": "map_mapevent5_mesg",
+    "en": "One of the scouts reports that some people in the underground caverns may be looking for the Elixir of Life, and it may be better to shop around and see what you can get.",
+    "ua": "Розвідник повідомляє, що, схоже, підземні жителі теж зайняті пошуками Еліксиру життя, і було б непогано придбати у них те, що їм уже вдалося відшукати."
+  },
+  {
+    "var": "FINAL_M12_mapevent6_name",
+    "field": "map_mapevent6_name",
+    "en": "Raid",
+    "ua": "Raid"
+  },
+  {
+    "var": "FINAL_M12_mapevent6_mesg",
+    "field": "map_mapevent6_mesg",
+    "en": "Early in the morning, before the sun hit the flagstones, the warning bell sounded.  Hoping for a fight, Yog jumped out of his bedroll, axe in hand, and ran towards the commotion.  It became evident all were too slow.  The bandits had already made off with some supplies, chickens, gold, jewels, weapons and armor.  The poor accountant was roused out of his sleep to figure out how much this cost.",
+    "ua": "Рано вранці, коли сонце тільки-тільки здалося з-за обрію, в таборі вдарив набатний дзвін. Передчуваючи хорошу бійку, Йоґ схопився з ліжка, схопив бойову сокиру і кинувся на шум сутички. Але виявляється, його воїнів застигли зненацька. Нападники вже накивали п'ятами, прихопивши з собою чимало припасів, курей, золота, коштовностей, зброї та обладунків. Сонному рахівнику даний наказ негайно оцінити розміри збитків."
+  },
+  {
+    "var": "FINAL_M12_mapevent7_name",
+    "field": "map_mapevent7_name",
+    "en": "Necromancers have bribed the elementals",
+    "ua": "Necromancers have bribed the elementals"
+  },
+  {
+    "var": "FINAL_M12_mapevent7_mesg",
+    "field": "map_mapevent7_mesg",
+    "en": "A large plume of smoke had been seen rising out of the desert like a hideous black snake.  Those who returned from the investigation have some interesting news to report.  The elementals have been bribed by the Necromancers and were allowing their fire to burn on the ground and increase Fire Magic without burning anything.  It would be wise to send a spell caster to deal with this necromancer, and all eyes turn to Gem.",
+    "ua": "Над пустелею піднімається величезний стовп диму, звивається подібно до огидної чорної змії. Розвідники, що повернулися, розповідають цікаві речі. Виявляється, некроманти підкупили елементалів, і ті розпалили свій вогонь просто на голій землі. Тепер він горить, не спалюючи нічого навколо, і збільшує силу заклинань Вогненної магії. Було б добре послати туди чародія, щоб він розібрався зі шкідливим некромантами. Всі погляди звертаються до Ґем."
+  },
+  {
+    "var": "FINAL_M12_mapevent8_name",
+    "field": "map_mapevent8_name",
+    "en": "Tome of Fire",
+    "ua": "Tome of Fire"
+  },
+  {
+    "var": "FINAL_M12_mapevent8_mesg",
+    "field": "map_mapevent8_mesg",
+    "en": "A prophetic woman enters camp and declares she has important information for Gelu.  He agrees to see her and she says, \"In the far northern corner of the desert lies the Tome of Fire.  Within its pages you will find all of the spells you seek to defeat your enemies.  It would be most wise to find this artifact before they do.  That will be 500 gold.\"  Gelu pays the woman and Gem wonders exactly how young she is.",
+    "ua": "У табір приходить провісниця і заявляє, що у неї є важлива інформація для Ґело. Він погоджується прийняти її, і вона каже: \"\"На крайній півночі великої пустелі захована Книга вогненної магії. На її сторінках записані всі заклинання, які потрібні тобі, щоб здобути перемогу над ворогами. Поспішай, бо ти повинен знайти її, перш ніж вона потрапить у руки некромантів. Мені ж ти повинен заплатити 500 золотих.\"\" Ґело відраховує монети, а Ґем намагається вгадати, скільки ж років цій жінці."
+  },
+  {
+    "var": "FINAL_M12_mapevent9_name",
+    "field": "map_mapevent9_name",
+    "en": "Tome of Water",
+    "ua": "Tome of Water"
+  },
+  {
+    "var": "FINAL_M12_mapevent9_mesg",
+    "field": "map_mapevent9_mesg",
+    "en": "An old man comes stumbling into town with his entire family in tow.  The group of fifty or so approach Crag Hack, and the old man comes forward.  \"Please, sir, I have important information and for enough gold to feed my family, I will give this information to you.\"  Crag agrees to pay the man 500 gold and he relays his information.  \"The great Tome of Water magic is located just south of Sandro's castle.  Between its pages are powerful spells, and they can be used by anyone who has enough wisdom.\"",
+    "ua": "У місті з'являється старий на чолі свого великого сімейства. Півсотні людей оточують Краґа Хака. Вперед виходить старий і каже: \"\"Мілорд, я приніс вам важливу звістку. Якщо ви дасте мені трохи грошей на прокорм сім'ї, я розповім вам усе, що знаю.\"\" Краґ відраховує 500 золотих, і старий продовжує: «Книга водної магії захована на південь від замку Сандро. На її сторінках записано чимало могутніх заклинань, доступних кожному, хто має знання і мудрість.»"
+  },
+  {
+    "var": "FINAL_M12_mapevent10_name",
+    "field": "map_mapevent10_name",
+    "en": "Nomads",
+    "ua": "Nomads"
+  },
+  {
+    "var": "FINAL_M12_mapevent10_mesg",
+    "field": "map_mapevent10_mesg",
+    "en": "Reports of nomads moving quickly across the deserts reach your ears.  It is possible to hire these men and help your troops move faster across the desert and into Sandro's area.  All you must do is look for the striped tent.",
+    "ua": "До вас доходять чутки про мандрівних пустельних кочівників. Можливо, вам вдасться скористатися їхніми послугами, і тоді ваше військо швидше подолає пустелю і виявиться у володіннях Сандро. Нехай дозорці уважніше вдивляються в горизонт у пошуках смугастих наметів."
+  },
+  {
+    "var": "FINAL_M12_mapevent11_name",
+    "field": "map_mapevent11_name",
+    "en": "Defeat Sandro",
+    "ua": "Defeat Sandro"
+  },
+  {
+    "var": "FINAL_M12_mapevent11_mesg",
+    "field": "map_mapevent11_mesg",
+    "en": "The Forest Guard has reported back with information you need.  Sandro is walled in behind a guarded tower, and they will not budge.  Apparently there are some people who wish to get out of Deyja, but they need the Boots of Levitation to do so.  If you bring them the boots, they will allow you to pass through their guarded tower and you can defeat Sandro at his castle.",
+    "ua": "Лісові вартові прислали вісті, яких ви так чекали. Сандро ховається за товстими стінами під охороною неприступної вежі, доверху забитої непереможною вартою. Однак серед охоронців є й такі, хто хотів би залишити Дею, але для цього їм потрібні Черевики левітації. В обмін на ці черевики, вони дозволять вам без бою минути сторожову вежу, і тоді ви зможете знищити Сандро в його цитаделі."
+  },
+  {
+    "var": "FINAL_M12_mapevent12_name",
+    "field": "map_mapevent12_name",
+    "en": "Boots of Levitation",
+    "ua": "Boots of Levitation"
+  },
+  {
+    "var": "FINAL_M12_mapevent12_mesg",
+    "field": "map_mapevent12_mesg",
+    "en": "One of your agents holds the Boots of Levitation, but you must bring 50 hobgoblins to know you are not a trick from the Necromancers.  He also wants the extra troops to continue his work within the Deyja borders.  You will need to visit this hut to defeat Sandro.",
+    "ua": "Ви знаєте, де можна роздобути Черевики левітації, але на сплату за них ви повинні привести 50 хобгоблінів на доказ того, що ви не підіслані некромантами. Крім того, власникам Черевиків потрібні додаткові сили для продовження операцій на території Деї. Заради перемоги над Сандро вам доведеться відвідати цю хатину."
+  },
+  {
+    "var": "FINAL_M12_mapevent13_name",
+    "field": "map_mapevent13_name",
+    "en": "Plague",
+    "ua": "Plague"
+  },
+  {
+    "var": "FINAL_M12_mapevent13_mesg",
+    "field": "map_mapevent13_mesg",
+    "en": "Walled safely within your castle, the forces of undead are unable to break through.  For quite some time they stay outside, trying desperately to get in.  Then one day your men start coming down with the plague.  The necromancers had poisoned your water supply with rotten meat, and now you must pay quite dearly for the healing you need.",
+    "ua": "Стіни замку надійно захищають вас від нежиті, полчища якої оточили його з усіх сторін і день за днем марно намагаються зламати оборону. І тут в рядах свого війська починає поширюватися чума, - це некроманти отруїли колодязі гнилою плоттю своїх жертв. Тепер вам доведеться дорого заплатити за зцілення захисників фортеці."
+  },
+  {
+    "var": "FINAL_M12_mapevent14_name",
+    "field": "map_mapevent14_name",
+    "en": "One week",
+    "ua": "One week"
+  },
+  {
+    "var": "FINAL_M12_mapevent14_mesg",
+    "field": "map_mapevent14_mesg",
+    "en": "In just a week you will have run out of time.  The troops Sandro needs are on their way.  If you do not hurry, you will be caught in between the two large forces.  It is imperative you succeed.",
+    "ua": "Всього лише через тиждень ваш час закінчиться. Підкріплення, що поспішають на допомогу Сандро, вже на підході. Якщо ви не поспішите, ви опинитеся затиснутим між двома величезними арміями. Ви просто зобов'язані здобути перемогу - іншого вибору у вас немає!"
+  },
+  {
+    "var": "FINAL_M12_mapevent15_name",
+    "field": "map_mapevent15_name",
+    "en": "Two weeks",
+    "ua": "Two weeks"
+  },
+  {
+    "var": "FINAL_M12_mapevent15_mesg",
+    "field": "map_mapevent15_mesg",
+    "en": "In just two short weeks Sandro will have all the reinforcements he needs, and you will be nothing more than a bad memory.  You had better defeat all of his forces or perish for nothing.",
+    "ua": "За два коротких тижні Сандро отримає необхідні підкріплення, і тоді від вас залишаться одні лише спогади. Ви повинні негайно розгромити його полчища, або зникнути навіки."
+  },
+  {
+    "var": "FINAL_M12_mapevent16_name",
+    "field": "map_mapevent16_name",
+    "en": "Three weeks",
+    "ua": "Three weeks"
+  },
+  {
+    "var": "FINAL_M12_mapevent16_mesg",
+    "field": "map_mapevent16_mesg",
+    "en": "Little time is left, and you should not waste it.  Sandro's troops were spotted closer and will definitely be here in another three weeks.  Make haste, for Sandro will win if you do not complete your task very soon.",
+    "ua": "Залишилося зовсім мало часу, і ви просто зобов'язані витратити його з користю. Орди, що йдуть на допомогу Сандро, невблаганно наближаються і будуть тут через три тижні. Поспішайте, бо якщо ви не завершите свою справу найближчим часом, перемога дістанеться Сандро."
+  },
+  {
+    "var": "FINAL_M12_mapevent17_name",
+    "field": "map_mapevent17_name",
+    "en": "Four weeks",
+    "ua": "Four weeks"
+  },
+  {
+    "var": "FINAL_M12_mapevent17_mesg",
+    "field": "map_mapevent17_mesg",
+    "en": "There is but a month left before Sandro's troops get here.  The scouts have spotted them far on the horizon.  Maybe you will be granted an extra day or so, if they are not traveling quickly.  If Sandro and all of his minions are not defeated soon, your cause will be lost and your time will have been wasted.",
+    "ua": "До підходу до Сандро свіжих полчищ залишилося не більше ніж місяць. Розвідники вже помітили на горизонті їх передові роз'їзди. Можливо, якщо щось затримає їх просування, у вас буде зайвий день чи два. Якщо вам не вдасться найближчим часом розгромити Сандро і його поплічників, все буде втрачено, і вважайте, що ви лише даремно витратили час."
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "var": "DWELLING_Guardhouse",
+    "en": "Guardhouse\tThe Guardhouse allows you to recruit Pikemen.",
+    "ua": "Гауптвахта\tГауптвахта дозволяє вам вербувати списників."
+  },
+  {
+    "var": "DWELLING_Archers' Tower",
+    "en": "Archers' Tower\tThe Archers' Tower allows you to recruit Archers.",
+    "ua": "Вежа лучників\tВежа лучників дозволяє вам вербувати лучників."
+  },
+  {
+    "var": "DWELLING_Griffin Tower",
+    "en": "Griffin Tower\tThe Griffin Tower allows you to recruit Griffins.",
+    "ua": "Башта грифонів\tБашта грифонів дозволяє вам вербувати грифонів."
+  },
+  {
+    "var": "DWELLING_Barracks",
+    "en": "Barracks\tThe Barracks allow you to recruit Swordsmen.",
+    "ua": "Бараки\tБараки дозволяють вам вербувати мечників."
+  },
+  {
+    "var": "DWELLING_Monastery",
+    "en": "Monastery\tThe Monastery allows you to recruit Monks.",
+    "ua": "Монастир\tМонастир дозволяє вам вербувати монахів."
+  },
+  {
+    "var": "DWELLING_Training Grounds",
+    "en": "Training Grounds\tThe Training Grounds allow you to recruit Cavaliers.",
+    "ua": "Полігон\tПолігон дозволяє вам вербувати вершників."
+  },
+  {
+    "var": "DWELLING_Portal of Glory",
+    "en": "Portal of Glory\tThe Portal of Glory allows you to recruit Angels.",
+    "ua": "Портал Слави\tПортал Слави дозволяє вам вербувати ангелів."
+  },
+  {
+    "var": "DWELLING_Upg. Guardhouse",
+    "en": "Upg. Guardhouse\tThe Guardhouse allows you to recruit Halberdiers.",
+    "ua": "Вартова\tВартова дозволяє вам вербувати алебардників."
+  },
+  {
+    "var": "DWELLING_Upg. Archers' Tower",
+    "en": "Upg. Archers' Tower\tThe Archers' Tower allows you to recruit Marksmen.",
+    "ua": "Стрілецька вежа\tСтрілецька вежа дозволяє вам вербувати стрільців."
+  },
+  {
+    "var": "DWELLING_Upg. Griffin Tower",
+    "en": "Upg. Griffin Tower\tThe Griffin Tower allows you to recruit Royal Griffins.",
+    "ua": "Бастіон грифонів\tБастіон грифонів дозволяє вам вербувати королівських грифонів."
+  },
+  {
+    "var": "DWELLING_Upg. Barracks",
+    "en": "Upg. Barracks\tThe Barracks allow you to recruit Crusaders.",
+    "ua": "Казарми\tКазарми дозволяють вам вербувати хрестоносців."
+  },
+  {
+    "var": "DWELLING_Upg. Monastery",
+    "en": "Upg. Monastery\tThe Monastery allows you to recruit Zealots.",
+    "ua": "Храм\tХрам дозволяє вам вербувати фанатиків."
+  },
+  {
+    "var": "DWELLING_Upg. Training Grounds",
+    "en": "Upg. Training Grounds\tThe Training Grounds allow you to recruit Champions.",
+    "ua": "Іподром\tІподром дозволяє вам вербувати чемпіонів."
+  },
+  {
+    "var": "DWELLING_Upg. Portal of Glory",
+    "en": "Upg. Portal of Glory\tThe Portal of Glory allows you to recruit Arch Angels.",
+    "ua": "Брама Слави\tБрама Слави дозволяє вам вербувати архангелів."
+  },
+  {
+    "var": "DWELLING_Centaur Stables",
+    "en": "Centaur Stables\tThe Centaur Stables allow you to recruit Centaurs.",
+    "ua": "Конюшні кентаврів\tКонюшні кентаврів дозволяють вам вербувати кентаврів."
+  },
+  {
+    "var": "DWELLING_Dwarf Cottage",
+    "en": "Dwarf Cottage\tThe Dwarf Cottage allows you to recruit Dwarves.",
+    "ua": "Котедж гномів\tКотедж гномів дозволяє вам вербувати гномів."
+  },
+  {
+    "var": "DWELLING_Homestead",
+    "en": "Homestead\tThe Homestead allows you to recruit Wood Elves.",
+    "ua": "Садиба\tСадиба дозволяє вам вербувати лісових ельфів."
+  },
+  {
+    "var": "DWELLING_Enchanted Spring",
+    "en": "Enchanted Spring\tThe Enchanted Spring allows you to recruit Pegasi.",
+    "ua": "Зачароване джерело\tЗачароване джерело дозволяє вам вербувати пегасів."
+  },
+  {
+    "var": "DWELLING_Dendroid Arches",
+    "en": "Dendroid Arches\tThe Dendroid Arches allow you to recruit Dendroid Guards.",
+    "ua": "Арки дендроідів\tАрки дендроідів дозволяють вам вербувати вартових дендроідів."
+  },
+  {
+    "var": "DWELLING_Unicorn Glade",
+    "en": "Unicorn Glade\tThe Unicorn Glade allows you to recruit Unicorns.",
+    "ua": "Галявина єдинорогів\tГалявина єдинорогів дозволяє вам вербувати єдинорогів."
+  },
+  {
+    "var": "DWELLING_Dragon Cliffs",
+    "en": "Dragon Cliffs\tThe Dragon Cliffs allow you to recruit Green Dragons.",
+    "ua": "Скелі дракона\tСкелі дракона дозволяють вам вербувати зелених драконів."
+  },
+  {
+    "var": "DWELLING_Upg. Centaur Stables",
+    "en": "Upg. Centaur Stables\tThe Centaur Stables allow you to recruit Centaur Captains.",
+    "ua": "Стійбище кентаврів\tВдосконалені конюшні кентаврів дозволяють вербувати вам капітанів кентаврів."
+  },
+  {
+    "var": "DWELLING_Upg. Dwarf Cottage",
+    "en": "Upg. Dwarf Cottage\tThe Dwarf Cottage allows you to recruit Battle Dwarves.",
+    "ua": "Бараки гномів\tБараки гномів дозволяють вам вербувати бойових гномів."
+  },
+  {
+    "var": "DWELLING_Upg. Homestead",
+    "en": "Upg. Homestead\tThe Homestead allows you to recruit Grand Elves.",
+    "ua": "Маєток\tМаєток дозволяє вам вербувати вищих ельфів."
+  },
+  {
+    "var": "DWELLING_Upg. Enchanted Spring",
+    "en": "Upg. Enchanted Spring\tThe Enchanted Spring allows you to recruit Silver Pegasi.",
+    "ua": "Чарівне джерело\tЧарівне джерело дозволяє вам вербувати срібних пегасів."
+  },
+  {
+    "var": "DWELLING_Upg. Dendroid Arches",
+    "en": "Upg. Dendroid Arches\tThe Dendroid Arches allow you to recruit Dendroid Soldiers.",
+    "ua": "Сад дендроідів\tСад дендроідів дозволяє вам вербувати солдатів дендроідів."
+  },
+  {
+    "var": "DWELLING_Upg. Unicorn Glade",
+    "en": "Upg. Unicorn Glade\tThe Unicorn Glade allows you to recruit War Unicorns.",
+    "ua": "Лука єдинорогів\tЛука єдинорогів дозволяє вам вербувати войовничих єдинорогів."
+  },
+  {
+    "var": "DWELLING_Upg. Dragon Cliffs",
+    "en": "Upg. Dragon Cliffs\tThe Dragon Cliffs allow you to recruit Gold Dragons.",
+    "ua": "Бескид дракона\tБескид дракона дозволяє вам вербувати золотих драконів."
+  },
+  {
+    "var": "DWELLING_Workshop",
+    "en": "Workshop\tThe Workshop allows you to recruit Gremlins.",
+    "ua": "Мануфактура\tМануфактура дозволяє вам вербувати гремлінів."
+  },
+  {
+    "var": "DWELLING_Parapet",
+    "en": "Parapet\tThe Parapet allows you to recruit Stone Gargoyles.",
+    "ua": "Парапет\tПарапет дозволяє вам вербувати кам'яних горгулій."
+  },
+  {
+    "var": "DWELLING_Golem Factory",
+    "en": "Golem Factory\tThe Golem Factory allows you to recruit Stone Golems.",
+    "ua": "Фабрика големів\tФабрика големів дозволяє вам вербувати кам'яних големів."
+  },
+  {
+    "var": "DWELLING_Mage Tower",
+    "en": "Mage Tower\tThe Mage Tower allows you to recruit Magi.",
+    "ua": "Вежа магів\tВежа магів дозволяє вам вербувати магів."
+  },
+  {
+    "var": "DWELLING_Altar of Wishes",
+    "en": "Altar of Wishes\tThe Altar of Wishes allows you to recruit Genies.",
+    "ua": "Вівтар бажань\tВівтар бажань дозволяє вам вербувати джинів."
+  },
+  {
+    "var": "DWELLING_Golden Pavilion",
+    "en": "Golden Pavilion\tThe Golden Pavilion allows you to recruit Nagas.",
+    "ua": "Срібний павільйон\tСрібний павільйон дозволяє вам наймати наг."
+  },
+  {
+    "var": "DWELLING_Cloud Temple",
+    "en": "Cloud Temple\tThe Cloud Temple allows you to recruit Giants.",
+    "ua": "Піднебений вівтар\tПіднебесний вівтар дозволяє вам вербувати гігантів."
+  },
+  {
+    "var": "DWELLING_Upg. Workshop",
+    "en": "Upg. Workshop\tThe Workshop allows you to recruit Master Gremlins.",
+    "ua": "Майстерня\tМайстерня дозволяє вам наймати майстрів гремлінів."
+  },
+  {
+    "var": "DWELLING_Upg. Parapet",
+    "en": "Upg. Parapet\tThe Parapet allows you to recruit Obsidian Gargoyles.",
+    "ua": "Кам'яний парапет\tКам'яний парапет дозволяє вам вербувати обсидіантових горгулій."
+  },
+  {
+    "var": "DWELLING_Upg. Golem Factory",
+    "en": "Upg. Golem Factory\tThe Golem Factory allows you to recruit Iron Golems.",
+    "ua": "Завод големів\tЗавод големів дозволяє вам вербувати залізних големів."
+  },
+  {
+    "var": "DWELLING_Upg. Mage Tower",
+    "en": "Upg. Mage Tower\tThe Mage Tower allows you to recruit Arch Magi.",
+    "ua": "Вежа архімагів\tВежа архімагів дозволяє вам вербувати архімагів."
+  },
+  {
+    "var": "DWELLING_Upg. Altar of Wishes",
+    "en": "Upg. Altar of Wishes\tThe Altar of Wishes allows you to recruit Master Genies.",
+    "ua": "Храм бажань\tХрам бажань дозволяє вам наймати майстрів джинів."
+  },
+  {
+    "var": "DWELLING_Upg. Golden Pavilion",
+    "en": "Upg. Golden Pavilion\tThe Golden Pavilion allows you to recruit Naga Queens.",
+    "ua": "Золотий павільйон\tЗолотий павільйон дозволяє вам вербувати королев наг."
+  },
+  {
+    "var": "DWELLING_Upg. Cloud Temple",
+    "en": "Upg. Cloud Temple\tThe Cloud Temple allows you to recruit Titans.",
+    "ua": "Піднебесний храм\tПіднебесний храм дозволяє вам вербувати титанів."
+  },
+  {
+    "var": "DWELLING_Imp Crucible",
+    "en": "Imp Crucible\tThe Imp Crucible allows you to recruit Imps.",
+    "ua": "Тигель бісенят\tТигель бісенят дозволяє вам вербувати бісенят."
+  },
+  {
+    "var": "DWELLING_Hall of Sins",
+    "en": "Hall of Sins\tThe Hall of Sins allows you to recruit Gogs.",
+    "ua": "Зала спокус\tЗала спокус дозволяє вам вербувати гогів."
+  },
+  {
+    "var": "DWELLING_Kennels",
+    "en": "Kennels\tThe Kennels allow you to recruit Hell Hounds.",
+    "ua": "Розплідники\tРозплідники дозволяють вербувати вам пекельних псів."
+  },
+  {
+    "var": "DWELLING_Demon Gate",
+    "en": "Demon Gate\tThe Demon Gate allows you to recruit Demons.",
+    "ua": "Ворота в пекло\tВорота в пекло дозволяють вам вербувати демонів."
+  },
+  {
+    "var": "DWELLING_Hell Hole",
+    "en": "Hell Hole\tThe Hell Hole allows you to recruit Pit Fiends.",
+    "ua": "Безодня\tБезодня дозволяє вам вербувати демонів безодні."
+  },
+  {
+    "var": "DWELLING_Fire Lake",
+    "en": "Fire Lake\tThe Fire Lake allows you to recruit Efreet.",
+    "ua": "Вогненне озеро\tВогненне озеро дозволяє вам вербувати іфритів."
+  },
+  {
+    "var": "DWELLING_Forsaken Palace",
+    "en": "Forsaken Palace\tThe Forsaken Palace allows you to recruit Devils.",
+    "ua": "Покинутий палац\tПокинутий палац дозволяє вам вербувати дияволів."
+  },
+  {
+    "var": "DWELLING_Upg. Imp Crucible",
+    "en": "Upg. Imp Crucible\tThe Imp Crucible allows you to recruit Familiars.",
+    "ua": "Бісовий котел\tБісовий котел дозволяє вам вербувати чортенят."
+  },
+  {
+    "var": "DWELLING_Upg. Hall of Sins",
+    "en": "Upg. Hall of Sins\tThe Hall of Sins allows you to recruit Magogs.",
+    "ua": "Зала гріхів\tЗала гріхів дозволяє вам вербувати магогів."
+  },
+  {
+    "var": "DWELLING_Upg. Kennels",
+    "en": "Upg. Kennels\tThe Kennels allow you to recruit Cerberi.",
+    "ua": "Псарні\tПсарні дозволяють вам вербувати церберів."
+  },
+  {
+    "var": "DWELLING_Upg. Demon Gate",
+    "en": "Upg. Demon Gate\tThe Demon Gate allows you to recruit Horned Demons.",
+    "ua": "Брама демонів\tБрама демонів дозволяє вам наймати рогатих демонів."
+  },
+  {
+    "var": "DWELLING_Upg. Hell Hole",
+    "en": "Upg. Hell Hole\tThe Hell Hole allows you to recruit Pit Lords.",
+    "ua": "Геєна\tГеєна дозволяє вам вербувати володарів безодні."
+  },
+  {
+    "var": "DWELLING_Upg. Fire Lake",
+    "en": "Upg. Fire Lake\tThe Fire Lake allows you to recruit Efreet Sultans.",
+    "ua": "Озеро лави\tОзеро лави дозволяє вам вербувати султанів іфритів."
+  },
+  {
+    "var": "DWELLING_Upg. Forsaken Palace",
+    "en": "Upg. Forsaken Palace\tThe Forsaken Palace allows you to recruit Arch Devils.",
+    "ua": "Забутий палац\tЗабутий палац дозволяє вербувати вам архідияволів."
+  },
+  {
+    "var": "DWELLING_Cursed Temple",
+    "en": "Cursed Temple\tThe Cursed Temple allows you to recruit Skeletons.",
+    "ua": "Споганений храм\tСпоганений храм дозволяє вам вербувати скелетів."
+  },
+  {
+    "var": "DWELLING_Graveyard",
+    "en": "Graveyard\tThe Graveyard allows you to recruit Walking Dead.",
+    "ua": "Цвинтар\tЦвинтар дозволяє вам вербувати ходячих мерців."
+  },
+  {
+    "var": "DWELLING_Tomb of Souls",
+    "en": "Tomb of Souls\tThe Tomb of Souls allows you to recruit Wights.",
+    "ua": "Могила душ\tМогила душ дозволяє вам вербувати примар."
+  },
+  {
+    "var": "DWELLING_Estate",
+    "en": "Estate\tThe Estate allows you to recruit Vampires.",
+    "ua": "Покинутий маєток\tПокинутий маєток дозволяє вам вербувати вампірів."
+  },
+  {
+    "var": "DWELLING_Mausoleum",
+    "en": "Mausoleum\tThe Mausoleum allows you to recruit Liches.",
+    "ua": "Мавзолей\tМавзолей дозволяє вам вербувати лічів."
+  },
+  {
+    "var": "DWELLING_Hall of Darkness",
+    "en": "Hall of Darkness\tThe Hall of Darkness allows you to recruit Black Knights.",
+    "ua": "Зала темряви\tЗала темряви дозволяє вам вербувати чорних лицарів."
+  },
+  {
+    "var": "DWELLING_Dragon Vault",
+    "en": "Dragon Vault\tThe Dragon Vault allows you to recruit Bone Dragons.",
+    "ua": "Склеп дракона\tСклеп дракона дозволяє вам вербувати кістяних драконів."
+  },
+  {
+    "var": "DWELLING_Upg. Cursed Temple",
+    "en": "Upg. Cursed Temple\tThe Cursed Temple allows you to recruit Skeleton Warriors.",
+    "ua": "Проклятий храм\tПроклятий храм дозволяє вам вербувати скелетів воїнів."
+  },
+  {
+    "var": "DWELLING_Upg. Graveyard",
+    "en": "Upg. Graveyard\tThe Graveyard allows you to recruit Zombies.",
+    "ua": "Кладовище\tКладовище дозволяє вам вербувати зомбі."
+  },
+  {
+    "var": "DWELLING_Upg. Tomb of Souls",
+    "en": "Upg. Tomb of Souls\tThe Tomb of Souls allows you to recruit Wraiths.",
+    "ua": "Гробниця душ\tГробниця душ дозволяє вам вербувати привидів."
+  },
+  {
+    "var": "DWELLING_Upg. Estate",
+    "en": "Upg. Estate\tThe Estate allows you to recruit Vampire Lords.",
+    "ua": "Проклятий маєток\tПроклятий маєток дозволяє вам вербувати лордів вампірів."
+  },
+  {
+    "var": "DWELLING_Upg. Mausoleum",
+    "en": "Upg. Mausoleum\tThe Mausoleum allows you to recruit Power Liches.",
+    "ua": "Проклятий мавзолей\tПроклятий мавзолей дозволяє вам вербувати архілічів."
+  },
+  {
+    "var": "DWELLING_Upg. Hall of Darkness",
+    "en": "Upg. Hall of Darkness\tThe Hall of Darkness allows you to recruit Dread Knights.",
+    "ua": "Зала страху\tЗала страху дозволяє вам вербувати лицарів страху."
+  },
+  {
+    "var": "DWELLING_Upg. Dragon Vault",
+    "en": "Upg. Dragon Vault\tThe Dragon Vault allows you to recruit Ghost Dragons.",
+    "ua": "Могила дракона\tМогила дракона дозволяє вам вербувати драконів привидів."
+  },
+  {
+    "var": "DWELLING_Warren",
+    "en": "Warren\tThe Warren allows you to recruit Troglodytes.",
+    "ua": "Садок\tСадок дозволяє вам вербувати троглодитів."
+  },
+  {
+    "var": "DWELLING_Harpy Loft",
+    "en": "Harpy Loft\tThe Harpy Loft allows you to recruit Harpies.",
+    "ua": "Гарпієвий під\tГарпієвий під дозволяє вам вербувати гарпій."
+  },
+  {
+    "var": "DWELLING_Pillar of Eyes",
+    "en": "Pillar of Eyes\tThe Pillar of Eyes allows you to recruit Beholders.",
+    "ua": "Стовп очей\tСтовп очей дозволяє вам вербувати спостерігачів."
+  },
+  {
+    "var": "DWELLING_Chapel of Stilled Voices",
+    "en": "Chapel of Stilled Voices\tThe Chapel of Stilled Voices allows you to recruit Medusas.",
+    "ua": "Каплиця тихого голосу\tКаплиця тихого голосу дозволяє вам вербувати медуз."
+  },
+  {
+    "var": "DWELLING_Labyrinth",
+    "en": "Labyrinth\tThe Labyrinth allows you to recruit Minotaurs.",
+    "ua": "Лабіринт\tЛабіринт дозволяє вам вербувати мінотаврів."
+  },
+  {
+    "var": "DWELLING_Manticore Lair",
+    "en": "Manticore Lair\tThe Manticore Lair allows you to recruit Manticores.",
+    "ua": "Лігво мантикорів\tЛігво мантикорів дозволяє вам вербувати мантикорів."
+  },
+  {
+    "var": "DWELLING_Dragon Cave",
+    "en": "Dragon Cave\tThe Dragon Cave allows you to recruit Red Dragons.",
+    "ua": "Печера дракона\tПечера дракона дозволяє вам вербувати червоних драконів."
+  },
+  {
+    "var": "DWELLING_Upg. Warren",
+    "en": "Upg. Warren\tThe Warren allows you to recruit Infernal Troglodytes.",
+    "ua": "Діброва\tДіброва дозволяє вам вербувати пекельних троглодитів."
+  },
+  {
+    "var": "DWELLING_Upg. Harpy Loft",
+    "en": "Upg. Harpy Loft\tThe Harpy Loft allows you to recruit Harpy Hags.",
+    "ua": "Горище гарпій\tГорище гарпій дозволяє вербувати вам фурій."
+  },
+  {
+    "var": "DWELLING_Upg. Pillar of Eyes",
+    "en": "Upg. Pillar of Eyes\tThe Pillar of Eyes allows you to recruit Evil Eyes.",
+    "ua": "Колона очей\tКолона очей дозволяє вам вербувати злих очей."
+  },
+  {
+    "var": "DWELLING_Upg. Stilled Voices",
+    "en": "Upg. Stilled Voices\tThe Chapel of Stilled Voices allows you to recruit Medusa Queens.",
+    "ua": "Храм шепоту\tХрам шепоту дозволяє вам наймати королев медуз."
+  },
+  {
+    "var": "DWELLING_Upg. Labyrinth",
+    "en": "Upg. Labyrinth\tThe Labyrinth allows you to recruit Minotaur Kings.",
+    "ua": "Королівський лабіринт\tКоролівський лабіринт дозволяє вам вербувати королів мінотаврів."
+  },
+  {
+    "var": "DWELLING_Upg. Manticore Lair",
+    "en": "Upg. Manticore Lair\tThe Manticore Lair allows you to recruit Scorpicores.",
+    "ua": "Кубло мантикорів\tКубло мантикорів дозволяє вам вербувати скорпікорів."
+  },
+  {
+    "var": "DWELLING_Upg. Dragon Cave",
+    "en": "Upg. Dragon Cave\tThe Dragon Cave allows you to recruit Black Dragons.",
+    "ua": "Підземелля дракона\tПідземелля дракона дозволяє вам вербувати чорних драконів."
+  },
+  {
+    "var": "DWELLING_Goblin Barracks",
+    "en": "Goblin Barracks\tThe Goblin Barracks allow you to recruit Goblins.",
+    "ua": "Бараки гоблінів\tБараки гоблінів дозволяють вам вербувати гоблінів."
+  },
+  {
+    "var": "DWELLING_Wolf Pen",
+    "en": "Wolf Pen\tThe Wolf Pen allows you to recruit Wolf Riders.",
+    "ua": "Вовчий загін\tВовчий загін дозволяє вам наймати вовчих вершників."
+  },
+  {
+    "var": "DWELLING_Orc Tower",
+    "en": "Orc Tower\tThe Orc Tower allows you to recruit Orcs.",
+    "ua": "Орча вежа\tОрча вежа дозволяє вам вербувати орків."
+  },
+  {
+    "var": "DWELLING_Ogre Fort",
+    "en": "Ogre Fort\tThe Ogre Fort allows you to recruit Ogres.",
+    "ua": "Укріплення огрів\tУкріплення огрів дозволяє вам вербувати огрів."
+  },
+  {
+    "var": "DWELLING_Cliff Nest",
+    "en": "Cliff Nest\tThe Cliff Nest allows you to recruit Rocs.",
+    "ua": "Гніздо на скелі\tГніздо на скелі дозволяє вам вербувати птахів Рух."
+  },
+  {
+    "var": "DWELLING_Cyclops Cave",
+    "en": "Cyclops Cave\tThe Cyclops Cave allows you to recruit Cyclopses.",
+    "ua": "Печера циклопів\tПечера циклопів дозволяє вам наймати циклопів."
+  },
+  {
+    "var": "DWELLING_Behemoth Lair",
+    "en": "Behemoth Lair\tThe Behemoth Lair allows you to recruit Behemoths.",
+    "ua": "Лігво чудовиська\tЛігво чудовиська дозволяє вам вербувати чудовиськ."
+  },
+  {
+    "var": "DWELLING_Upg. Goblin Barracks",
+    "en": "Upg. Goblin Barracks\tThe Goblin Barracks allow you to recruit Hobgoblins.",
+    "ua": "Казарми гоблінів\tКазарми гоблінів дозволяють вам вербувати хобгоблінів."
+  },
+  {
+    "var": "DWELLING_Upg. Wolf Pen",
+    "en": "Upg. Wolf Pen\tThe Wolf Pen allows you to recruit Wolf Raiders.",
+    "ua": "Загін вовків\tЗагін вовків дозволяє вам вербувати вовчих рейдерів."
+  },
+  {
+    "var": "DWELLING_Upg. Orc Tower",
+    "en": "Upg. Orc Tower\tThe Orc Tower allows you to recruit Orc Chieftains.",
+    "ua": "Башта Орка\tБашта Орка дозволяє вам вербувати вождів орків."
+  },
+  {
+    "var": "DWELLING_Upg. Ogre Fort",
+    "en": "Upg. Ogre Fort\tThe Ogre Fort allows you to recruit Ogre Magi.",
+    "ua": "Форт огрів\tФорт огрів дозволяє вам вербувати магів огрів."
+  },
+  {
+    "var": "DWELLING_Upg. Cliff Nest",
+    "en": "Upg. Cliff Nest\tThe Cliff Nest allows you to recruit Thunderbirds.",
+    "ua": "Гірське гніздо\tГірське гніздо дозволяє вам вербувати буревісників."
+  },
+  {
+    "var": "DWELLING_Upg. Cyclops Cave",
+    "en": "Upg. Cyclops Cave\tThe Cyclops Cave allows you to recruit Cyclops Kings.",
+    "ua": "Підземелля циклопів\tПідземелля циклопів дозволяє вам вербувати королів циклопів."
+  },
+  {
+    "var": "DWELLING_Upg. Behemoth Lair",
+    "en": "Upg. Behemoth Lair\tThe Behemoth Lair allows you to recruit Ancient Behemoths.",
+    "ua": "Древня печера\tДревня печера дозволяє вам вербувати древніх чудовиськ."
+  },
+  {
+    "var": "DWELLING_Gnoll Hut",
+    "en": "Gnoll Hut\tThe Gnoll Hut allows you to recruit Gnolls.",
+    "ua": "Хатина гнолів\tХатина гнолів дозволяє вам вербувати гнолів."
+  },
+  {
+    "var": "DWELLING_Lizard Den",
+    "en": "Lizard Den\tThe Lizard Den allows you to recruit Lizardmen.",
+    "ua": "Лігво ящірів\tЛігво ящірів дозволяє вам вербувати ящірів."
+  },
+  {
+    "var": "DWELLING_Serpent Fly Hive",
+    "en": "Serpent Fly Hive\tThe Serpent Fly Hive allows you to recruit Serpent Flies.",
+    "ua": "Вулик зміємух\tВулик зміємух дозволяє вам вербувати зміємух."
+  },
+  {
+    "var": "DWELLING_Basilisk Pit",
+    "en": "Basilisk Pit\tThe Basilisk Pit allows you to recruit Basilisks.",
+    "ua": "Яма василіска\tЯма василіска дозволяє вам вербувати василівсків."
+  },
+  {
+    "var": "DWELLING_Gorgon Lair",
+    "en": "Gorgon Lair\tThe Gorgon Lair allows you to recruit Gorgons.",
+    "ua": "Лігво горгони\tЛігво горгони дозволяє вам вербувати горгон."
+  },
+  {
+    "var": "DWELLING_Wyvern Nest",
+    "en": "Wyvern Nest\tThe Wyvern Nest allows you to recruit Wyverns.",
+    "ua": "Гніздо виверн\tГніздо виверн дозволяє вам вербувати виверн."
+  },
+  {
+    "var": "DWELLING_Hydra Pond",
+    "en": "Hydra Pond\tThe Hydra Pond allows you to recruit Hydras.",
+    "ua": "Став гідри\tСтав гідри дозволяє вам вербувати гідр."
+  },
+  {
+    "var": "DWELLING_Upg. Gnoll Hut",
+    "en": "Upg. Gnoll Hut\tThe Gnoll Hut allows you to recruit Gnoll Marauders.",
+    "ua": "Селище гнолів\tСелище гнолів дозволяє вам вербувати гнолів мародерів."
+  },
+  {
+    "var": "DWELLING_Upg. Lizard Den",
+    "en": "Upg. Lizard Den\tThe Lizard Den allows you to recruit Lizard Warriors.",
+    "ua": "Загін ящірів\tЗагін ящірів дозволяє вам вербувати ящірів воїнів."
+  },
+  {
+    "var": "DWELLING_Upg. Serpent Fly Hive",
+    "en": "Upg. Serpent Fly Hive\tThe Serpent Fly Hive allows you to recruit Dragon Flies.",
+    "ua": "Вулик дракомух\tВулик дракомух дозволяє вам вербувати дракомух."
+  },
+  {
+    "var": "DWELLING_Upg. Basilisk Pit",
+    "en": "Upg. Basilisk Pit\tThe Basilisk Pit allows you to recruit Greater Basilisks.",
+    "ua": "Лігво василісків\tЛігво василісків дозволяє вам вербувати старших василісків."
+  },
+  {
+    "var": "DWELLING_Upg. Gorgon Lair",
+    "en": "Upg. Gorgon Lair\tThe Gorgon Lair allows you to recruit Mighty Gorgons.",
+    "ua": "Кубло горгон\tКубло горгон дозволяє вам вербувати могутніх горгон."
+  },
+  {
+    "var": "DWELLING_Upg. Wyvern Nest",
+    "en": "Upg. Wyvern Nest\tThe Wyvern Nest allows you to recruit Wyvern Monarchs.",
+    "ua": "Зграя виверн\tЗграя виверн дозволяє вам вербувати виверн монархів."
+  },
+  {
+    "var": "DWELLING_Upg. Hydra Pond",
+    "en": "Upg. Hydra Pond\tThe Hydra Pond allows you to recruit Chaos Hydras.",
+    "ua": "Озеро хаосу\tОзеро хаосу дозволяє вам вербувати гідр хаосу."
+  },
+  {
+    "var": "DWELLING_Magic Lantern",
+    "en": "Magic Lantern\tThe Magic Lantern allows you to recruit Pixies.",
+    "ua": "Магічний ліхтарик\tМагічний ліхтарик дозволяє вам вербувати піксі."
+  },
+  {
+    "var": "DWELLING_Altar of Air",
+    "en": "Altar of Air\tThe Altar of Air allows you to recruit Air Elementals.",
+    "ua": "Вівтар Повітря\tВівтар Повітря дозволяє вам вербувати повітряних елементалів."
+  },
+  {
+    "var": "DWELLING_Altar of Water",
+    "en": "Altar of Water\tThe Altar of Water allows you to recruit Water Elementals.",
+    "ua": "Вівтар Води\tВівтар Води дозволяє вам вербувати водних елементалів."
+  },
+  {
+    "var": "DWELLING_Altar of Fire",
+    "en": "Altar of Fire\tThe Altar of Fire allows you to recruit Fire Elementals.",
+    "ua": "Вівтар Вогню\tВівтар Вогню дозволяє вам вербувати вогненних елементалів."
+  },
+  {
+    "var": "DWELLING_Altar of Earth",
+    "en": "Altar of Earth\tThe Altar of Earth allows you to recruit Earth Elementals.",
+    "ua": "Вівтар Землі\tВівтар Землі дозволяє вам вербувати земних елементалів."
+  },
+  {
+    "var": "DWELLING_Altar of Thought",
+    "en": "Altar of Thought\tThe Altar of Thought allows you to recruit Psychic Elementals.",
+    "ua": "Вівтар Розуму\tВівтар Розуму дозволяє вам вербувати психічних елементалів."
+  },
+  {
+    "var": "DWELLING_Pyre",
+    "en": "Pyre\tThe Pyre allows you to recruit Fire Birds.",
+    "ua": "Вогнище\tВогнище дозволяє вам вербувати жарптиць."
+  },
+  {
+    "var": "DWELLING_Upg. Magic Lantern",
+    "en": "Upg. Magic Lantern\tThe Magic Pool allows you to recruit Sprites.",
+    "ua": "Магічний світильник\tМагічний світильник дозволяє вам вербувати фей."
+  },
+  {
+    "var": "DWELLING_Upg. Altar of Air",
+    "en": "Upg. Altar of Air\tThe Temple of Thunder allows you to recruit Storm Elementals.",
+    "ua": "Храм Повітря\tХрам Повітря дозволяє вам вербувати штормових елементалів."
+  },
+  {
+    "var": "DWELLING_Upg. Altar of Water",
+    "en": "Upg. Altar of Water\tThe Temple of Ice allows you to recruit Ice Elementals.",
+    "ua": "Храм Води\tХрам Води дозволяє вам вербувати крижаних елементалів."
+  },
+  {
+    "var": "DWELLING_Upg. Altar of Fire",
+    "en": "Upg. Altar of Fire\tThe Temple of Energy allows you to recruit Energy Elementals.",
+    "ua": "Храм Вогню\tХрам Вогню дозволяє вам вербувати енергетичних елементалів."
+  },
+  {
+    "var": "DWELLING_Upg. Altar of Earth",
+    "en": "Upg. Altar of Earth\tThe Temple of Magma allows you to recruit Magma Elementals.",
+    "ua": "Храм Землі\tХрам Землі дозволяє вам вербувати магмових елементалів."
+  },
+  {
+    "var": "DWELLING_Upg. Altar of Thought",
+    "en": "Upg. Altar of Thought\tThe Temple of Magic allows you to recruit Magic Elementals.",
+    "ua": "Храм Думки\tХрам Думки дозволяє вам вербувати магічних елементалів."
+  },
+  {
+    "var": "DWELLING_Upg. Pyre",
+    "en": "Upg. Pyre\tThe Funeral Pyre allows you to recruit Pheonixes .",
+    "ua": "Похоронне багаття\tПохоронне багаття дозволяє вам вербувати феніксів."
+  },
+  {
+    "var": "DWELLING_Level 1 Creature Generator",
+    "en": "Level 1 Creature Generator\tAllows you to recruit Level 1 Creatures.",
+    "ua": "Генератор істот 1 рівня\tДозволяє вербувати істот 1 рівня."
+  },
+  {
+    "var": "DWELLING_Level 2 Creature Generator",
+    "en": "Level 2 Creature Generator\tAllows you to recruit Level 2 Creatures.",
+    "ua": "Генератор істот 2 рівня\tДозволяє вербувати істот 2 рівня."
+  },
+  {
+    "var": "DWELLING_Level 3 Creature Generator",
+    "en": "Level 3 Creature Generator\tAllows you to recruit Level 3 Creatures.",
+    "ua": "Генератор істот 3 рівня\tДозволяє вербувати істот 3 рівня."
+  },
+  {
+    "var": "DWELLING_Level 4 Creature Generator",
+    "en": "Level 4 Creature Generator\tAllows you to recruit Level 4 Creatures.",
+    "ua": "Генератор істот 4 рівня\tДозволяє вербувати істот 4 рівня."
+  },
+  {
+    "var": "DWELLING_Level 5 Creature Generator",
+    "en": "Level 5 Creature Generator\tAllows you to recruit Level 5 Creatures.",
+    "ua": "Генератор істот 5 рівня\tДозволяє вербувати істот 5 рівня."
+  },
+  {
+    "var": "DWELLING_Level 6 Creature Generator",
+    "en": "Level 6 Creature Generator\tAllows you to recruit Level 6 Creatures.",
+    "ua": "Генератор істот 6 рівня\tДозволяє вербувати істот 6 рівня."
+  },
+  {
+    "var": "DWELLING_Level 7 Creature Generator",
+    "en": "Level 7 Creature Generator\tAllows you to recruit Level 7 Creatures.",
+    "ua": "Генератор істот 7 рівня\tДозволяє вербувати істот 7 рівня."
+  },
+  {
+    "var": "DWELLING_Upg. Level 1 Creature Generator",
+    "en": "Upg. Level 1 Creature Generator\tAllows you to recruit Upgraded Level 1 Creatures.",
+    "ua": "Вд. генератор істот 1 рівня\tДозволяє вербувати вдосконалених істот 1 рівня."
+  },
+  {
+    "var": "DWELLING_Upg. Level 2 Creature Generator",
+    "en": "Upg. Level 2 Creature Generator\tAllows you to recruit Upgraded Level 2 Creatures.",
+    "ua": "Вд. генератор істот 2 рівня\tДозволяє вербувати вдосконалених істот 2 рівня."
+  },
+  {
+    "var": "DWELLING_Upg. Level 3 Creature Generator",
+    "en": "Upg. Level 3 Creature Generator\tAllows you to recruit Upgraded Level 3 Creatures.",
+    "ua": "Вд. генератор істот 3 рівня\tДозволяє вербувати вдосконалених істот 3 рівня."
+  },
+  {
+    "var": "DWELLING_Upg. Level 4 Creature Generator",
+    "en": "Upg. Level 4 Creature Generator\tAllows you to recruit Upgraded Level 4 Creatures.",
+    "ua": "Вд. генератор істот 4 рівня\tДозволяє вербувати вдосконалених істот 4 рівня."
+  },
+  {
+    "var": "DWELLING_Upg. Level 5 Creature Generator",
+    "en": "Upg. Level 5 Creature Generator\tAllows you to recruit Upgraded Level 5 Creatures.",
+    "ua": "Вд. генератор істот 5 рівня\tДозволяє вербувати вдосконалених істот 5 рівня."
+  },
+  {
+    "var": "DWELLING_Upg. Level 6 Creature Generator",
+    "en": "Upg. Level 6 Creature Generator\tAllows you to recruit Upgraded Level 6 Creatures.",
+    "ua": "Вд. генератор істот 6 рівня\tДозволяє вербувати вдосконалених істот 6 рівня."
+  },
+  {
+    "var": "DWELLING_Upg. Level 7 Creature Generator",
+    "en": "Upg. Level 7 Creature Generator\tAllows you to recruit Upgraded Level 7 Creatures.",
+    "ua": "Вд. генератор істот 7 рівня\tДозволяє вербувати вдосконалених істот 7 рівня."
+  }
+]

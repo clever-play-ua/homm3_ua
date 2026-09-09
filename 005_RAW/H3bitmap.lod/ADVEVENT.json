@@ -1,0 +1,957 @@
+[
+  {
+    "var": "ADVEVENT_1",
+    "en": "\"You enter the arena and face a pack of vicious lions.  You handily defeat them, to the wild cheers of the crowd.  Impressed by your skill, the aged trainer of gladiators agrees to train you in a skill of your choice.\"",
+    "ua": "\"Ви виходите на арену і стаєте лицем до лиця з кількома лютими левами.  Ви власноручно перемагаєте їх під дикі крики натовпу.  Вражений вашим вмінням, старий наставник гладіаторів погоджується навчити вас тому, що ви виберете.\""
+  },
+  {
+    "var": "ADVEVENT_2",
+    "en": "\"The Arena guards prevent you from entering.  \"\"You've already beaten our best.  Begone from here.\"\"\"",
+    "ua": "\"Вартові арени перешкоджають вам увійти.  \"\"Ви вже побили наших найкращих воїнів.  Забирайтеся звідси.\"\"\""
+  },
+  {
+    "var": "ADVEVENT_3",
+    "en": "\"You cannot pick up this artifact, you already have a full load!\"",
+    "ua": "\"Ви не можете взяти цей артефакт, ваш рюкзак переповнений!\""
+  },
+  {
+    "var": "ADVEVENT_4",
+    "en": "\"{Artifact}\n\nYou've found the humble dwelling of a withered hermit.  The hermit tells you that he is willing to give the %s to the first wise person he meets.\"",
+    "ua": "\"{Артефакт}\n\nВи знайшли скромне житло висохлого відлюдника.  Він сказав вам, що готовий віддати %s першому мудрому герою, якого зустріне.\""
+  },
+  {
+    "var": "ADVEVENT_5",
+    "en": "\"{Artifact}\n\nYou've come across the spartan quarters of a retired soldier.  The soldier tells you that he is willing to pass on the %s to the first true leader he meets.\"",
+    "ua": "\"{Артефакт}\n\nВи пройшли біля дому відставного солдата.  Він сказав вам, що готовий віддати %s першому справжньому лідеру, якого зустріне.\""
+  },
+  {
+    "var": "ADVEVENT_6",
+    "en": "\"{Artifact}\n\nA leprechaun offers you the %s for the small price of 2000 gold.  Do you wish to buy this artifact?\"",
+    "ua": "\"{Артефакт}\n\nЛепрекон пропонує вам %s за невелику плату в 2000 золотих.  Чи бажаєте придбати цей артефакт?\""
+  },
+  {
+    "var": "ADVEVENT_7",
+    "en": "\"{Artifact}\n\nA leprechaun offers you the %s for the small price of 2500 gold and 3 %s.  Do you wish to buy this artifact?\"",
+    "ua": "\"{Артефакт}\n\nЛепрекон пропонує вам %s за невелику плату в 2500 золотих і 3 %s.  Чи бажаєте придбати цей артефакт?\""
+  },
+  {
+    "var": "ADVEVENT_8",
+    "en": "\"{Artifact}\n\nA leprechaun offers you the %s for the small price of 3000 gold and 5 %s.  Do you wish to buy this artifact?\"",
+    "ua": "\"{Артефакт}\n\nЛепрекон пропонує вам %s за невелику плату в 3000 золотих і 5 %s.  Чи бажаєте придбати цей артефакт ?\""
+  },
+  {
+    "var": "ADVEVENT_9",
+    "en": "\"Victorious, you take your prize, the %s.\"",
+    "ua": "\"Переможець, візьми свою нагороду, %s.\""
+  },
+  {
+    "var": "ADVEVENT_10",
+    "en": "\"{Artifact}\n\nYou come upon an ancient artifact.  As you reach for it, a pack of Cerberi leap out of the brush to attack, not willing to give up their treasure without a fight.\"",
+    "ua": "\"{Артефакт}\n\nВи натрапили на древній артефакт.  Як тільки ви підійшли, зграя Церберів вискочила з чагарників і атакувала, не бажаючи віддавати свій скарб без бою.\""
+  },
+  {
+    "var": "ADVEVENT_11",
+    "en": "\"{Artifact}\n\nThrough a clearing you observe an ancient artifact.  Unfortunately, it's guarded by a nearby %s.  Do you want to fight the %s for the artifact?\"",
+    "ua": "\"{Артефакт}\n\nЙдучи галявиною, ви помітили древній артефакт.  На жаль, його охороняють %s, що знаходяться поблизу.  %s будуть битися за артефакт, бажаєте вступити в бій?\""
+  },
+  {
+    "var": "ADVEVENT_12",
+    "en": "\"Discretion is the better part of valor, and you decide to avoid this fight for today.\"",
+    "ua": "\"Здоровий глузд - найкраща частина доблесті, і ви вирішуєте уникнути цього бою сьогодні.\""
+  },
+  {
+    "var": "ADVEVENT_13",
+    "en": "\"You try to pay the leprechaun, but realize that you can't afford it.  The leprechaun stamps his foot and ignores you.\"",
+    "ua": "\"Ви спробували заплатити лепрекону, але усвідомлюєте, що не можете собі цього дозволити.  Лепрекон тупає ногою й ігнорує вас.\""
+  },
+  {
+    "var": "ADVEVENT_14",
+    "en": "\"Insulted by your refusal of his generous offer, the leprechaun stamps his foot and ignores you.\"",
+    "ua": "\"Ображений вашою відмовою від його щедрої пропозиції, лепрекон тупає ногою і ігнорує вас.\""
+  },
+  {
+    "var": "ADVEVENT_15",
+    "en": "Do you wish to open the box?",
+    "ua": "Бажаєте відкрити скриньку?"
+  },
+  {
+    "var": "ADVEVENT_16",
+    "en": "\"You peek inside.  Relieved, you discover the box is empty.\"",
+    "ua": "\"Ви заглянули всередину.  З полегшенням, ви виявили, що скринька порожня.\""
+  },
+  {
+    "var": "ADVEVENT_17",
+    "en": "You should have known better - you are attacked!",
+    "ua": "Ви мали б здогадатися - вас атакують!"
+  },
+  {
+    "var": "ADVEVENT_18",
+    "en": "\"As you reign in your horse, a guard steps up to you, \"\"Welcome.  I have received word of your arrival.  Do you wish to pass at this time?\"\"\"",
+    "ua": "\"Оскільки ви верхи на коні, вартовий підійшов до вас, \"\"Вітаю.  Я отримав повідомлення про ваше прибуття.  Бажаєте пройти?\"\"\""
+  },
+  {
+    "var": "ADVEVENT_19",
+    "en": "\"\"\"No one told me of your coming,\"\" says the Border Guard.  \"\"I cannot let you pass.  Perhaps you should first seek a Keymaster's Tent.\"\"\"",
+    "ua": "\"\"\"Мені ніхто не казав, що ви прийдете, - сказав Вартовий Кордону. - Я не можу дозволити вам пройти.  Можливо, ви мали б спочатку відшукати Намет Ключника.\"\"\""
+  },
+  {
+    "var": "ADVEVENT_20",
+    "en": "\"The caretaker of this Keymaster's Tent seems happy to see you.  \"\"Ah, finally someone worthy,\"\" he says.  \"\"I shall send word immediately to the Border Guard that you be allowed to pass.\"\"\"",
+    "ua": "\"Доглядач цього Намету Ключника виглядає щасливим бачити вас.  \"\"Ах, нарешті хтось гідний,\"\" каже він.  \"\"Я негайно відішлю слово до Вартового Кордону і тоді вам дозволять пройти.\"\"\""
+  },
+  {
+    "var": "ADVEVENT_21",
+    "en": "\"The caretaker of this keymaster's tent recognizes you as you approach.  \"\"I have already sent word that you be allowed to pass.\"\" he says.  \"\"Begone.\"\"\"",
+    "ua": "\"Доглядач цього Намету Ключника помітив вас, бо ви наблизились.  \"\"Я вже відіслав слово, яке дозволить вам пройти.\"\" мовив він.  \"\"Ідіть.\"\"\""
+  },
+  {
+    "var": "ADVEVENT_22",
+    "en": "\"{Buoy}\n\nYour men spot a navigational buoy, confirming that you are on course and increasing their morale.\"",
+    "ua": "\"{Буй}\n\nВаші воїни помітили навігаційний буй, який підтверджує, що ви слідуєте курсу, і це підняло їх бойовий дух.\""
+  },
+  {
+    "var": "ADVEVENT_23",
+    "en": "\"{Buoy}\n\nYour men spot a navigational buoy, confirming that you are on course.\"",
+    "ua": "\"{Буй}\n\nВаші супутники помітили морський буй. Він вказує правильний курс.\""
+  },
+  {
+    "var": "ADVEVENT_24",
+    "en": "\"{Campfire}\n\nRansacking an enemy camp, you discover a hidden cache of treasures.\"",
+    "ua": "\"{Табір}\n\nПограбувавши табір ворогів, ви знайшли схованку зі скарбами.\""
+  },
+  {
+    "var": "ADVEVENT_25",
+    "en": "\"You've already seen all my maps laddy, now run along.\"",
+    "ua": "\"Ви вже бачили всі мої мапи, леді, а зараз ідіть.\""
+  },
+  {
+    "var": "ADVEVENT_26",
+    "en": "You find an old fisherman who has the most detailed maps of the seas that you have ever seen.  Would you like to purchase a set of maps for 1000 gold?",
+    "ua": "Ви виявили старого рибалку, який має найдетальніші морські мапи, які ви тільки бачили.  Чи бажаєте купити набір карт за 1000 золотих?"
+  },
+  {
+    "var": "ADVEVENT_27",
+    "en": "You find a cartographer who sells maps of the land for 1000 gold.  Would you like to buy a map?",
+    "ua": "Ви виявили картографа який продає мапи суші за 1000 золотих. Чи бажаєте придбати їх?"
+  },
+  {
+    "var": "ADVEVENT_28",
+    "en": "You discover an old dwarven miner who has kept several sets of maps from his working days.  He is willing to sell you a map of the tunnels for 1000 gold.  Do you agree?",
+    "ua": "Ви виявили старого гнома-шахтаря, який зберіг кілька наборів мап з часів, коли ще працював у шахті.  Він готовий продати вам мапи підземних тунелів за 1000 золотих.  Ви згодні?"
+  },
+  {
+    "var": "ADVEVENT_29",
+    "en": "\"My maps cost 1000 gold, which you don't seem to have.  Please stop wasting my time.\"",
+    "ua": "\"Мої мапи коштують 1000 золотих, яких ви, здається, не маєте.  Будь ласка, перестаньте витрачати мій час.\""
+  },
+  {
+    "var": "ADVEVENT_30",
+    "en": "\"{Swan Pond}\n\nChildhood stories said that a scarlet swan was a portent of good fortune.  You decide to rest here for the remainder of the day.\"",
+    "ua": "\"{Лебедине Озеро}\n\nУ дитячих казах розповідається, що червоний лебідь - ознака гарної вдачі.  Ви вирішуєте відпочити тут до кінця дня.\""
+  },
+  {
+    "var": "ADVEVENT_31",
+    "en": "\"{Swan Pond}\n\nChildhood stories said that a scarlet swan was a portent of good fortune.  However, you are still blessed with luck from your last visit here.  Since there is nothing more to gain here, you move on.\"",
+    "ua": "\"{Лебедине Озеро}\n\nУ дитячих казах розповідається, що червоний лебідь - ознака гарної вдачі.  Однак, ви досі благословенні вдачею з останнього вашого візиту.  Оскільки тут більше нічого не можна отримати, ви йдете.\""
+  },
+  {
+    "var": "ADVEVENT_32",
+    "en": "\"{Cover of Darkness}\n\nYou touch the Cover of Darkness, and the land around you is covered in a haze which only your eyes can penetrate.\"",
+    "ua": "\"{Укриття Темряви}\n\nВи торкаєтеся Укриття Темряви, і земля навколо вас вкривається серпанком, який можете помітити лише ви.\""
+  },
+  {
+    "var": "ADVEVENT_33",
+    "en": "You have found a %s.  Do you wish to attack the guards?",
+    "ua": "Ви знайшли %s.  Чи бажаєте атакувати вартових?"
+  },
+  {
+    "var": "ADVEVENT_34",
+    "en": "\"You have found what was once a %s, but it has been deserted for some time.\"",
+    "ua": "\"Ви знайшли те, що колись називалось %s, але тут було пусто довгий час.\""
+  },
+  {
+    "var": "ADVEVENT_35",
+    "en": "\"Having defeated the %s, you discover %s.\"",
+    "ua": "\"Перемігши %s, ви виявили %s.\""
+  },
+  {
+    "var": "ADVEVENT_36",
+    "en": "\"{%s}\n\nWould you like to recruit %s?\"",
+    "ua": "\"{%s}\n\nЧи хотіли б ви, щоб кілька %s приєднались до вас?\""
+  },
+  {
+    "var": "ADVEVENT_37",
+    "en": "\"{%s}\n\nWould you like to recruit %s, %s, %s, or %s?\"",
+    "ua": "\"{%s}\n\nЧи хотіли б ви, щоб %s, %s, %s, чи %s приєднались до вас?\""
+  },
+  {
+    "var": "ADVEVENT_38",
+    "en": "\"{Skeleton}\n\nYou come upon the remains of an unfortunate adventurer.  Searching through the scattered bones, you find \"",
+    "ua": "\"{Скелет}\n\nВи знаходите рештки невдахи-мандрівника. Оглянувши розкидані кістки, ви знайшли %s.\""
+  },
+  {
+    "var": "ADVEVENT_39",
+    "en": "\"{Skeleton}\n\nYou come upon the remains of an unfortunate adventurer.  Searching through the scattered bones, you find nothing.\"",
+    "ua": "\"{Скелет}\n\nВи знаходите рештки невдахи-мандрівника. Оглянувши розкидані кістки, ви нічого не знайшли.\""
+  },
+  {
+    "var": "ADVEVENT_40",
+    "en": "\"{Marletto Tower}\n\nThe soldiers living in the tower teach you a few new defensive tricks.\"",
+    "ua": "\"{Вежа Марлетто}\n\nСолдати, що живуть в башті, навчають вас кільком захисним трюкам.\""
+  },
+  {
+    "var": "ADVEVENT_41",
+    "en": "\"{Marletto Tower}\n\n\"\"I'm sorry sir,\"\" the leader of the soldiers says, \"\"but you already know everything we have to teach.\"\"\"",
+    "ua": "\"{Вежа Марлетто}\n\n\"\"Пробачте, сер,\"\" сказав командир солдатів, \"\"але ви вже знаєте все, чому ми вас навчили.\"\"\""
+  },
+  {
+    "var": "ADVEVENT_42",
+    "en": "\"{Derelict Ship}\n\nThe rotting hulk of a great pirate ship creaks eerily as it is pushed against the rocks.  Do you wish to search the ship?\"",
+    "ua": "\"{Покинутий корабель}\n\nГниючий понтон великого піратського корабля моторошно скрипить. Чи бажаєте обшукати корабель?\""
+  },
+  {
+    "var": "ADVEVENT_43",
+    "en": "Upon defeating the Water Elementals you spend several hours sifting through the debris and find nothing.  Such a despicable act reduces your army's morale.",
+    "ua": "Після перемоги над Водними Елементалями ви провели кілька годин, обшукуючи брухт, і нічого не знайшли.  Така марна робота понизила бойовий дух вашої армії."
+  },
+  {
+    "var": "ADVEVENT_44",
+    "en": "Upon defeating the Water Elementals you sift through the debris and find something!",
+    "ua": "Після перемоги над Водними Елементалями ви провели кілька годин, обшукуючи брухт і щось знайшли!"
+  },
+  {
+    "var": "ADVEVENT_45",
+    "en": "\"{%s}\n\nThe camp is deserted.  Perhaps you should try next week.\"",
+    "ua": "\"{%s}\n\nУ таборі пусто. Можливо, вам краще завітати сюди наступного тижня.\""
+  },
+  {
+    "var": "ADVEVENT_46",
+    "en": "the %s",
+    "ua": "%s"
+  },
+  {
+    "var": "ADVEVENT_47",
+    "en": "\"{Dragon Utopia}\n\nThis text is no longer used.  If you see it, it is a bug.\"",
+    "ua": "\"{Утопія драконів}\n\nЦей текст більше не використовується. Якщо ви його побачите, знайте - це помилка.\""
+  },
+  {
+    "var": "ADVEVENT_48",
+    "en": "\"{Dragon Utopia}\n\nYou stand before the Dragon Utopia, a place off-limits to mere humans.  Do you wish to violate this rule and challenge the Dragons to a fight?\"",
+    "ua": "\"{Утопія драконів}\n\nПеред вами ідеальне місто драконів, куди людям вхід суворо заборонений. Ви хочете порушити заборону і викликати драконів на бій?\""
+  },
+  {
+    "var": "ADVEVENT_49",
+    "en": "\"This strange eye turns and studies you as you approach.  After a few moments, it returns to its slow scan of the area.  You can't help but feel like someone, or something, is using this eye to spy from another location.\"",
+    "ua": "\"Як тільки ви наблизилися, дивне око повернулося і стало дивитися на вас. Через кілька хвилин воно знову починає оглядати околиці. Ви не можете позбавитися відчуття, що хтось чи щось в далеких краях слідкує за вами через це чарівне око.\""
+  },
+  {
+    "var": "ADVEVENT_50",
+    "en": "\"{Faerie Ring}\n\nYou enter a faerie ring, and your army gains luck for its next battle.\"",
+    "ua": "\"{Коло фей}\n\nВаше військо вступає всередину кола фей, чари якого принесуть вам удачу в наступній битві.\""
+  },
+  {
+    "var": "ADVEVENT_51",
+    "en": "\"{Faerie Ring}\n\nYou enter a faerie ring, but nothing happens.\"",
+    "ua": "\"{Коло фей}\n\nВаше військо вступає всередину кола фей, але нічого не відбувається.\""
+  },
+  {
+    "var": "ADVEVENT_52",
+    "en": "\"{Flotsam}\n\nYou search through the flotsam, but find nothing.\"",
+    "ua": "\"{Уламки}\n\nВи оглядаєте уламки, але нічого не знаходите.\""
+  },
+  {
+    "var": "ADVEVENT_53",
+    "en": "\"{Flotsam}\n\nYou search through the flotsam and find some wood.\"",
+    "ua": "\"{Уламки}\n\nВи оглядаєте уламки і знаходите трохи деревини.\""
+  },
+  {
+    "var": "ADVEVENT_54",
+    "en": "\"{Flotsam}\n\nYou search through the flotsam and find some wood and some gold.\"",
+    "ua": "\"{Уламки}\n\nВи оглядаєте уламки і знаходите трохи деревини і золота.\""
+  },
+  {
+    "var": "ADVEVENT_55",
+    "en": "\"{Flotsam}\n\nYou search through the flotsam and find some wood and some gold.\"",
+    "ua": "\"{Уламки}\n\nВи оглядаєте уламки і знаходите трохи деревини і золота.\""
+  },
+  {
+    "var": "ADVEVENT_56",
+    "en": "\"{Fountain of Fortune}\n\nAs you drink the bittersweet water, you feel your luck changing.\"",
+    "ua": "\"{Фонтан удачі}\n\nВи п'єте гіркувато-солодку вологу і відчуваєте прилив удачі.\""
+  },
+  {
+    "var": "ADVEVENT_57",
+    "en": "\"{Fountain of Fortune}\n\nYou drink from the enchanted fountain, but nothing happens.\"",
+    "ua": "\"{Фонтан удачі}\n\nВи п'єте гіркувато-солодку вологу і відчуваєте прилив удачі.\""
+  },
+  {
+    "var": "ADVEVENT_58",
+    "en": "\"{Fountain of Youth}\n\nYou drink from the fountain's waters and feel young again!  Sensing your renewed vigor, your army's morale improves, allowing you to cover additional ground as you head for your next battle.\"",
+    "ua": "\"{Фонтан молодості}\n\nВи п'єте вологу, що струмениться з фонтану, і відчуваєте повернення молодості! При вигляді такого чуда бойовий дух вашого війська підвищується, і воно ще швидше прямує назустріч майбутній битві.\""
+  },
+  {
+    "var": "ADVEVENT_59",
+    "en": "\"{Fountain of Youth}\n\nYou drink from the enchanted fountain, but nothing happens.\"",
+    "ua": "\"{Фонтан молодості}\n\nВи п'єте вологу, що струмениться з фонтану, але нічого не відбувається.\""
+  },
+  {
+    "var": "ADVEVENT_60",
+    "en": "\"{Garden of Revelation}\n\nA monk sitting in the center of a garden invites you to meditate with him.  You do, and after a short time you feel enlightened.\"",
+    "ua": "\"{Сад одкровення}\n\nМонах, що сидить в центрі саду, запрошує вас помедитувати разом з ним. Ви приймаєте запрошення і незабаром відчуваєте себе просвітленим.\""
+  },
+  {
+    "var": "ADVEVENT_61",
+    "en": "\"{Garden of Revelation}\n\nYou enter the garden, and the monk, recognizing you, says, \"\"My child, the blessing of knowledge comes but once in a person's lifetime.\"\"\"",
+    "ua": "\"{Сад одкровення}\n\nВи входите в сад, але монах, упізнавши вас, мовив: \"\"Дитя моє, благословення істинного знання сходить лише раз в житті\"\".\""
+  },
+  {
+    "var": "ADVEVENT_62",
+    "en": "You enter a rickety hut and talk to the magician who lives there.  He tells you of places near and far which may aid you in your journeys.",
+    "ua": "Ви входите в стару хижу і починаєте розмову з чарівником, що в ній живе. Його розповіді про близькі й далекі країни можуть знадобитись вам в мандрах."
+  },
+  {
+    "var": "ADVEVENT_63",
+    "en": "\"{Idol of Fortune}\n\nYou've found an ancient and weathered stone idol.  Kissing it is supposed to bring luck or happiness, so you do.  The stone is very cold to the touch.\"",
+    "ua": "\"{Ідол удачі}\n\nПеред вами древній кам'яний ідол. Кажуть, той, хто доторкнеться до нього губами, отримує удачу і щастя. Ви припадаєте губами до нього і відчуваєте холод чарівного каменю.\""
+  },
+  {
+    "var": "ADVEVENT_64",
+    "en": "\"{Idol of Fortune}\n\nYou've found an ancient and weathered stone idol.  It is supposed to grant luck or happiness to visitors, but since the stars are already shining upon you, it does nothing.\"",
+    "ua": "\"{Ідол удачі}\n\nПеред вами древній кам'яний ідол. Кажуть, тим, хто побачить його, посміхається вдача, але зараз зірки до вас і так благосхильні, та й ідол мовчить.\""
+  },
+  {
+    "var": "ADVEVENT_65",
+    "en": "\"{Lean To}\n\nYou've found an abandoned lean-to.  Poking about, you discover some resources hidden nearby.\"",
+    "ua": "\"{Навіс}\n\nВи знайшли покинутий навіс. Під ним лежать заховані ресурси.\""
+  },
+  {
+    "var": "ADVEVENT_66",
+    "en": "\"{Lean To}\n\nThis lean-to is long abandoned.  There is nothing of value here.\"",
+    "ua": "\"{Навіс}\n\nЦей навіс давно покинутий. Під ним нема нічого цінного.\""
+  },
+  {
+    "var": "ADVEVENT_67",
+    "en": "\"{Library of Enlightenment}\n\nThe caretaker admits you into the Library of Enlightenment.  You are able to learn much in the short time you spend here.\"",
+    "ua": "\"{Бібліотека посвячених}\n\nХранитель пускає вас в Бібліотеку посвячених. За короткий час, проведений в її стінах, ви дізнаєтесь багато нового.\""
+  },
+  {
+    "var": "ADVEVENT_68",
+    "en": "\"{Library of Enlightenment}\n\nRecognizing you, the caretaker refuses to admit you.  \"\"The Library of Enlightenment,\"\" he says, \"\"may be visited but once.\"\"\"",
+    "ua": "\"{Бібліотека посвячених}\n\nУпізнавши вас, хранитель перегороджує вам шлях. \"\"Бібліотеку посвячених, - каже він, - можна відвідати лише один раз\"\".\""
+  },
+  {
+    "var": "ADVEVENT_69",
+    "en": "\"{Library of Enlightenment}\n\nThe caretaker opens the door and looks you up and down.  \"\"You are neither famous nor diplomatic enough to be admitted to the Library of Enlightenment,\"\" he sniffs.  \"\"Come back when you think yourself worthy.\"\"\"",
+    "ua": "\"{Бібліотека посвячених}\n\nХранитель привідчиняє двері й оглядає вас з ніг до голови. \"\"У тебе немає ні слави, ні дипломатичних здібностей, і Бібліотека посвячених для тебе зачинена, - презирливо кидає він. - Приходь, коли будеш достойним\"\".\""
+  },
+  {
+    "var": "ADVEVENT_70",
+    "en": "\"{Lighthouse}\n\nThis lighthouse is now under your control, and all of your ships will now move further each turn.\"",
+    "ua": "\"{Маяк}\n\nВи стали хазяїном маяка, і тепер за кожен хід ваші кораблі будуть долати більшу відстань.\""
+  },
+  {
+    "var": "ADVEVENT_71",
+    "en": "\"This structure is obviously a travel gate, but it no longer appears to be functioning.\"",
+    "ua": "\"Немає сумнівів, що перед вами просторовий портал, але зараз він не працює.\""
+  },
+  {
+    "var": "ADVEVENT_72",
+    "en": "\"{School of Magic}\n\nThe tingle of magic fills the air of this school of mystical arts.  An acolyte offers to sign you up for the next class for 1000 gold.  You will have your choice of increasing your knowledge, or learning to better focus your powers.\"",
+    "ua": "\"{Школа магії}\n\nПовітря в школі магічних мистецтв пронизане чарами. Чародій пропонує вам повчитися тут всього за 1000 золотих монет. Ви можете або поповнити свої знання, або збільшити силу магії.\""
+  },
+  {
+    "var": "ADVEVENT_73",
+    "en": "\"{School of Magic}\n\nAn old wizard appears out of thin air.  \"\"Master,\"\" he says, \"\"you have learned all that we could possibly teach you.\"\"\"",
+    "ua": "\"{Школа магії}\n\nПросто з повітря перед вами з'являється старий чарівник. \"\"Мій пане,\"\" - каже він, - \"\"ми навчили тебе всьому, що знаємо самі\"\".\""
+  },
+  {
+    "var": "ADVEVENT_74",
+    "en": "\"{School of Magic}\n\nThe tingle of magic fills the air of this school of mystical arts.  An acolyte informs you that he could sign you up for the next class, but that you do not have the required tuition of 1000 gold.\"",
+    "ua": "\"{Школа магії}\n\nПовітря в школі магічних мистецтв пронизане чарами. Чародій каже вам, що міг би записати вас на курс лекцій, але у вас немає 1000 золотих монет, щоб заплатити за навчання.\""
+  },
+  {
+    "var": "ADVEVENT_75",
+    "en": "\"{Magic Spring}\n\nA drink from the spring fills your blood with magic!  You have twice your normal spell points in reserve.\"",
+    "ua": "\"{Чарівне джерело}\n\nКілька ковтків з чарівного джерела наповнюють вас магією! Ваш запас очків магії подвоївся.\""
+  },
+  {
+    "var": "ADVEVENT_76",
+    "en": "\"{Magic Spring}\n\nThe magic spring only regenerates once a week, and someone has already been here this week.\"",
+    "ua": "\"{Чарівне джерело}\n\nЗапас магії в чарівному джерелі поповнюється лише раз на тиждень, а цього тижня тут хтось вже побував.\""
+  },
+  {
+    "var": "ADVEVENT_77",
+    "en": "\"{Magic Spring}\n\nA drink at the spring is supposed to give you twice your normal spell points, but you are already at that level.\"",
+    "ua": "\"{Чарівне джерело}\n\nВсі знають, що вода з чарівного джерела подвоює запас очків магії, але у вас їх і так вдвічі більше звичайного.\""
+  },
+  {
+    "var": "ADVEVENT_78",
+    "en": "\"{Magic Well}\n\nA drink from the well has restored your spell points to maximum.\"",
+    "ua": "\"{Чарівний колодязь}\n\nКілька ковтків з чарівного колодязя повністю відновлюють ваш запас очків магії.\""
+  },
+  {
+    "var": "ADVEVENT_79",
+    "en": "\"{Magic Well}\n\nA second drink at the well in one day will not help you.\"",
+    "ua": "\"{Чарівний колодязь}\n\nПити вдруге за день із чарівного колодязя марно.\""
+  },
+  {
+    "var": "ADVEVENT_80",
+    "en": "\"{Magic Well}\n\nA drink at the well is supposed to restore your spell points, but you are already at maximum.\"",
+    "ua": "\"{Чарівний колодязь}\n\nВсі знають, що вода з чарівного колодязя відновлює запас очків магії, але у вас їх уже максимальна кількість.\""
+  },
+  {
+    "var": "ADVEVENT_81",
+    "en": "\"{Mercenary Camp}\n\nYou've come upon a camp of mercenaries practicing their combat tactics.  They welcome you and your troops and invite you to train with them.\"",
+    "ua": "\"{Табір найманців}\n\nВи опинилися в таборі найманців, що вправляються в бойових мистецтвах. Вони вітають вас і запрошують потренуватися разом з ними.\""
+  },
+  {
+    "var": "ADVEVENT_82",
+    "en": "\"{Mercenary Camp}\n\nYou've come upon a camp of mercenaries practicing their combat tactics.  \"\"You're too advanced for us,\"\" the mercenary captain says.  \"\"We can teach you nothing more.\"\"\"",
+    "ua": "\"{Табір найманців}\n\nВи опинились в таборі найманців, що вправляються в бойових мистецтвах. \"\"Ти б'єшся набагато краще ніж ми, - каже вам капітан найманців. - Нам нічому тебе навчити\"\".\""
+  },
+  {
+    "var": "ADVEVENT_83",
+    "en": "\"{Mermaid}\n\nThe mermaids silently entice you to return later and be blessed again.\"",
+    "ua": "\"{Русалка}\n\nРусалки просять вас повернутись до них пізніше і ще раз отримати благословіння.\""
+  },
+  {
+    "var": "ADVEVENT_84",
+    "en": "\"{Mermaid}\n\nThe magical, soothing beauty of the Mermaids reaches you and your crew.  Briefly you forget your worries and bask in the beauty of the moment.  The mermaids' charms bless you with increased luck for your next combat.\"",
+    "ua": "\"{Русалка}\n\nЧарівна привабливість русалок не залишає байдужим ні вас, ні вашу команду. На деякий час ви забуваєте всі свої тривоги і насолоджуєтесь їх красою. Чари русалок збільшують вашу удачу в наступному бою.\""
+  },
+  {
+    "var": "ADVEVENT_85",
+    "en": "You come upon an abandoned mine.  The mine appears to be infested with Troglodytes.  Do you wish to enter?",
+    "ua": "Ви знаходите покинуту шахту, що кишить троглодитами. Ви хочете спуститись всередину?"
+  },
+  {
+    "var": "ADVEVENT_86",
+    "en": "You beat the Troglodytes and are able to restore the mine to production.",
+    "ua": "Троглодити вигнані, і шахта знову добуває ресурси."
+  },
+  {
+    "var": "ADVEVENT_87",
+    "en": "\"{Followers}\n\nA group of %s with a desire for greater glory wish to join you. Do you accept? \"",
+    "ua": "\"{Соратники}\n\nГрупа %s в пошуках слави бажає приєднатись до вашого війська.  Ви згодні прийняти їх?\""
+  },
+  {
+    "var": "ADVEVENT_88",
+    "en": "\"Insulted by your refusal of their offer, the monsters attack!\"",
+    "ua": "\"Ображені вашою відмовою, монстри кидаються в атаку!\""
+  },
+  {
+    "var": "ADVEVENT_89",
+    "en": "\"The %s is swayed by your diplomatic tongue, and offers to join your army for the sum of %d gold.  Do you accept?\"",
+    "ua": "\"Ваші дипломатичні промови приголомшили %s, і вони готові приєднатися до вашого війська за %d золотих монет. Ви згодні їх прийняти?\""
+  },
+  {
+    "var": "ADVEVENT_90",
+    "en": "\"The creatures are swayed by your diplomatic tongue, and make you an offer:\n\n\"",
+    "ua": "\"Монстри приголомшені вашим мистецтвом дипломатії і роблять вам пропозицію:\n\n\""
+  },
+  {
+    "var": "ADVEVENT_91",
+    "en": "All %d of the %s will join your army for the sum of %d gold.  Do you accept?",
+    "ua": "Всі %d %s приєднаються до вашого війська за %d золотих монет. Ви згодні їх прийняти?"
+  },
+  {
+    "var": "ADVEVENT_92",
+    "en": "\"The %s, awed by the power of your forces, begin to scatter.  Do you wish to pursue and engage them?\"",
+    "ua": "\"Загін %s, переляканий могутністю вашого війська, втікає, не прийнявши бій. Хочете переслідувати їх?\""
+  },
+  {
+    "var": "ADVEVENT_93",
+    "en": "\"{Mystical Garden}\n\nThe sound of music brings you to a small garden, where you are able to sneak up on a leprechaun who is happily dancing about in the clearing.  You capture him, and in exchange for his freedom he guides you to a small pot filled with precious things.\"",
+    "ua": "\"{Таємничий сад}\n\nЗвуки музики приводять вас до маленького садка, в якому безтурботно танцює щасливий лепрекон. Ви хапаєте його за комір, і в обмін на свободу він вказує місце, де закопаний горщик з коштовностями.\""
+  },
+  {
+    "var": "ADVEVENT_94",
+    "en": "\"{Mystical Garden}\n\nThe sound of music brings you to a small garden, where you attempt to sneak up on a leprechaun who is happily dancing about in the clearing.  You try to capture him, but his nimbleness allows him to elude you.\"",
+    "ua": "\"{Таємничий сад}\n\nЗвуки музики проводять вас до маленького садка, в якому безтурботно танцює щасливий лепрекон. Ви намагаєтеся схопити його за комір, але він вправно ухиляється і втікає.\""
+  },
+  {
+    "var": "ADVEVENT_95",
+    "en": "\"{Oasis}\n\nThe drink at the oasis is refreshing, but offers no further benefit.  The oasis might help again if you fought a battle first.\"",
+    "ua": "\"{Оазис}\n\nКовток води освіжає вас, але не приносить ніякої іншої користі. Приходьте до оазису після бою, і він вам допоможе.\""
+  },
+  {
+    "var": "ADVEVENT_96",
+    "en": "\"{Oasis}\n\nA drink at the oasis fills your troops with strength and lifts their spirits.  You can travel a bit further today.\"",
+    "ua": "\"{Оазис}\n\nВода оазису відновила сили вашого війська і підняла його бойовий дух. Сьогодні ви пройдете більший шлях, ніж зазвичай.\""
+  },
+  {
+    "var": "ADVEVENT_97",
+    "en": "\"{Obelisk}\n\nYou come upon an obelisk made from a type of stone you have never seen before.  Staring at it intently, the smooth surface suddenly changes to an inscription.  The inscription is a piece of a lost ancient map.  Quickly, you copy down the piece, and the inscription vanishes as abruptly as it had appeared.\"",
+    "ua": "\"{Обеліск}\n\nПеред вами обеліск, висічений з небаченого каменю. Ви вдивляєтеся в його гладку поверхню і раптом помічаєте, що на ній починають проступати таємничі знаки. Знаки складаються у фрагмент стародавньої карти. Ви квапливо змальовуєте його, і знаки зникають так само раптово, як і з'явилися.\""
+  },
+  {
+    "var": "ADVEVENT_98",
+    "en": "\"{Obelisk}\n\nYou have already been to this obelisk.\"",
+    "ua": "\"{Обеліск}\n\nВи вже відвідували цей обеліск.\""
+  },
+  {
+    "var": "ADVEVENT_99",
+    "en": "\"{Redwood Observatory}\n\nFrom the top of the observatory, you are able to see distant lands.\"",
+    "ua": "\"{Вежа спостереження}\n\nЗ верхнього майданчика вежі спостереження вам відкривається панорама далеких земель.\""
+  },
+  {
+    "var": "ADVEVENT_100",
+    "en": "\"{Pillar of Fire}\n\nYou discover a tall gaslight tower.  You light it, which produces enough light to penetrate the subterranean darkness.\"",
+    "ua": "\"{Вогненний стовп}\n\nВи знаходите вежу з газовим світильником нагорі. Ви запалюєте світильник, і його промені розсіюють темряву підземелля.\""
+  },
+  {
+    "var": "ADVEVENT_101",
+    "en": "\"{Star Axis}\n\nYou've found several of the best astrologers of the land gathered at a Star Axis.  Happy to have some company, they teach you how to use the Sun, Moon, and Stars to enhance your spell casting ability.\"",
+    "ua": "\"{Зоряна вісь}\n\nВи бачите, що тут, біля Зоряної осі, зібралися найкращі астрологи цих земель. Вони раді вашому візиту і з готовністю вчать вас використовувати магію сонця, місяця і зірок для посилення могутності заклинань.\""
+  },
+  {
+    "var": "ADVEVENT_102",
+    "en": "\"{Star Axis}\n\nYou've found several of the best astrologers of the land gathered at a Star Axis.  You spend some time chatting with them, but soon realize that there is nothing new for you to learn from them.\"",
+    "ua": "\"{Зоряна вісь}\n\nВи бачите, що тут, біля Зоряної осі, зібралися найкращі астрологи цих земель. Ви перекидається з ними кількома словами і незабаром розумієте, що їм нема чому вас навчити.\""
+  },
+  {
+    "var": "ADVEVENT_103",
+    "en": "\"In a dazzling display of daring, you break into the local jail and free the hero imprisoned there, who, in return, pledges loyalty to your cause.\"",
+    "ua": "\"Проявивши чудеса мужності, ви вривається в темницю і звільняєте героя, що був у ній ув'язнений. На знак подяки він присягає вам на вірність.\""
+  },
+  {
+    "var": "ADVEVENT_104",
+    "en": "\"You already have eight heroes, and regretfully must leave the prisoner in this jail to languish in agony for untold days.\"",
+    "ua": "\"На вашому боці вже б'ються вісім героїв, і ви змушені залишити бранця гнити у в'язниці до кінця його днів.\""
+  },
+  {
+    "var": "ADVEVENT_105",
+    "en": "The jailer tells you that the hero who was being held here has been released by the king who imprisoned him.",
+    "ua": "Тюремник повідомляє вам, що бранець, ув'язнений в цій темниці, звільнений за наказом короля, що його ув'язнив."
+  },
+  {
+    "var": "ADVEVENT_106",
+    "en": "\"You come upon the pyramid of a great and ancient king.  You are tempted to search it for treasure, but all the old stories warn of fearful curses and magical guardians.  Will you search?\"",
+    "ua": "\"Ви бачите перед собою піраміду великого царя древніх часів. Вам дуже хочеться проникнути всередину в пошуках скарбів, але на думку спадають легенди про жахливі прокльони і чарівних вартових, які охороняють багатства. Ну що, хочете увійти в піраміду?\""
+  },
+  {
+    "var": "ADVEVENT_107",
+    "en": "\"Upon defeating the monsters, you decipher an ancient glyph on the wall, telling the secret of the spell - \"",
+    "ua": "\"Розправившись з монстрами, ви розшифровуєте древні ієрогліфи на стіні, в яких полягає таємниця заклинання - \""
+  },
+  {
+    "var": "ADVEVENT_108",
+    "en": "You come upon the pyramid of a great and ancient king.  Routine exploration reveals that the pyramid is completely empty.",
+    "ua": "Ви бачите перед собою піраміду великого царя древніх часів. Швидко оглянувши її, ви виявляєте, що вона порожня."
+  },
+  {
+    "var": "ADVEVENT_109",
+    "en": "\"  Unfortunately, you do not have the wisdom to understand the spell, and you are unable to learn it.\"",
+    "ua": "\" На нещастя, вам не вистачає мудрості, щоб осягнути це заклинання, і ви не можете запам'ятати його.\""
+  },
+  {
+    "var": "ADVEVENT_110",
+    "en": "\"  Unfortunately, you have no Spell Book to record the spell with.\"",
+    "ua": "\" На жаль, у вас немає Чарівної книги, в яку можна було б записати це заклинання.\""
+  },
+  {
+    "var": "ADVEVENT_111",
+    "en": "\"{Rally Flag}\n\nYou rally your troops around this flag.\"",
+    "ua": "\"{Прапор збору}\n\nВаше військо збирається навколо цього прапора.\""
+  },
+  {
+    "var": "ADVEVENT_112",
+    "en": "\"{Rally Flag}\n\nYou rally your troops around this flag, renewing their strength and lifting their spirits.  You feel at your peak, and can travel a bit further today.\"",
+    "ua": "\"{Прапор збору}\n\nКоли ваше військо збирається навколо цього прапора, його переповнюють нові сили, а мораль злітає до небес. Тепер ви в кращій формі і сьогодні можете просунутися далі, ніж зазвичай.\""
+  },
+  {
+    "var": "ADVEVENT_113",
+    "en": "\"{%s}\n\nWould you like to recruit %s?\"",
+    "ua": "\"{%s}\n\nВи хочете найняти %s?\""
+  },
+  {
+    "var": "ADVEVENT_114",
+    "en": "You find a small quantity of %s.",
+    "ua": "Ви підібрали трохи ресурсів: %s"
+  },
+  {
+    "var": "ADVEVENT_115",
+    "en": "You enter the sanctuary and immediately feel as if a great weight has been lifted off your shoulders.  You feel safe here.",
+    "ua": "Ви входите у сховище, і негайно відчуваєте, як важкий тягар турбот падає з ваших плечей. Тут ви відчуваєте себе в безпеці."
+  },
+  {
+    "var": "ADVEVENT_116",
+    "en": "\"As you ride into a clearing, you notice a university scholar resting his horse.  He agrees to teach you some of what he knows before setting off.\"",
+    "ua": "\"Виїхавши на прогалину, ви бачите вченого книжника, що відпочиває поруч зі своїм конем. Він погоджується передати вам частину своїх знань, перш ніж продовжити шлях.\""
+  },
+  {
+    "var": "ADVEVENT_117",
+    "en": "\"{Sea Chest}\n\nAfter spending hours trying to fish the chest out of the sea, you open it, only to find it empty.\"",
+    "ua": "\"{Скриня}\n\nВитративши декілька годин у спробах виловити скриню з води, ви нарешті відкриваєте її і виявляєте, що вона порожня.\""
+  },
+  {
+    "var": "ADVEVENT_118",
+    "en": "\"{Sea Chest}\n\nAfter spending hours trying to fish the chest out of the sea, you open it and find 1000 gold and the %s\"",
+    "ua": "\"{Скриня}\n\nВитративши декілька годин у спробах виловити скриню з води, ви нарешті відкриваєте її і виявляєте всередині 1000 золотих монет і %s\""
+  },
+  {
+    "var": "ADVEVENT_119",
+    "en": "\"{Sea Chest}\n\nAfter spending hours trying to fish the chest out of the sea, you open it and find 1500 gold.\"",
+    "ua": "\"{Скриня}\n\nВитративши декілька годин у спробах виловити скриню з води, ви нарешті відкриваєте її і виявляєте 1500 золотих монет.\""
+  },
+  {
+    "var": "ADVEVENT_120",
+    "en": "\"{Crypt}\n\nYou tentatively approach the burial crypt of ancient warriors.  Do you want to search the graves?\"",
+    "ua": "\"{Склеп}\n\nВи обережно наближаєтеся до місця поховання стародавніх воїнів. Хочете обшукати могили?\""
+  },
+  {
+    "var": "ADVEVENT_121",
+    "en": "Upon defeating the undead guardians you spend several hours searching the graves and find nothing.  Such a despicable act reduces your army's morale.",
+    "ua": "Здобувши перемогу над силами нежиті, що вартувала склеп, ви кілька годин обшукуєте могили, але нічого не знаходите. Ваш недостойний вчинок негативно впливає на мораль війська."
+  },
+  {
+    "var": "ADVEVENT_122",
+    "en": "Upon defeating the undead guardians you search the graves and find something!",
+    "ua": "Здобувши перемогу над силами нежиті, що вартувала склеп, ви обшукуєте могили і йдете зі знахідкою!"
+  },
+  {
+    "var": "ADVEVENT_123",
+    "en": "\"{Shipwreck}\n\nThe rotting hulk of a great pirate ship creaks eerily as it is pushed against the rocks.  Do you wish to search the shipwreck?\"",
+    "ua": "\"{Розбитий корабель}\n\nРозбитий кістяк великого піратського корабля зловісно поскрипує, вдаряючись об скелі. Ви хочете його оглянути?\""
+  },
+  {
+    "var": "ADVEVENT_124",
+    "en": "Upon defeating the Harpies you spend several hours sifting through the debris and find nothing.  Such a despicable act reduces your army's morale.",
+    "ua": "Здобувши перемогу над гарпіями, ви кілька годин поспіль обшукуєте їх рештки, але нічого не знаходите. Ваш недостойний вчинок негативно впливає на мораль війська."
+  },
+  {
+    "var": "ADVEVENT_125",
+    "en": "Upon defeating the Harpies you sift through the debris and find something!",
+    "ua": "Здобувши перемогу над гарпіями, ви обшукуєте їх рештки і йдете зі знахідкою!"
+  },
+  {
+    "var": "ADVEVENT_126",
+    "en": "\"{Shipwreck Survivor}\n\nYou've pulled a shipwreck survivor from certain death in an unforgiving ocean.  Grateful, he rewards you for your act of kindness by giving you the %s.\"",
+    "ua": "\"{Потерпілий з затонулого корабля}\n\nВи витягуєте матроса, що пережив корабельну аварію з води, тим самим рятуючи його від вірної смерті в розбурханих хвилях. На знак подяки він вручає вам артефакт %s.\""
+  },
+  {
+    "var": "ADVEVENT_127",
+    "en": "\"{Shipwreck Survivor}\n\nYou've pulled a shipwreck survivor from certain death in an unforgiving ocean.  Grateful, he says, \"\"I would give you an artifact as a reward, but you have no room in your backpack.\"\"\"",
+    "ua": "\"{Потерпілий з затонулого корабля}\n\nВи витягуєте матроса, що пережив корабельну аварію з води, тим самим рятуючи його від вірної смерті в розбурханих хвилях. У пориві подяки він каже: \"Я б віддав тобі в нагороду цей артефакт, але у тебе не залишилося вільного місця.\"\"\"\""
+  },
+  {
+    "var": "ADVEVENT_128",
+    "en": "\"{Shrine of Magic Incantation}\n\nYou come across a small shrine attended by a group of novice acolytes.  In exchange for your protection, they agree to teach you a simple spell - \"",
+    "ua": "\"{Святилище магічних піснеспівів}\n\nВи знаходите маленьке святилище, навколо якого зібралася група новонавернених аколітів. У нагороду за захист вони навчають вас нескладному заклинанню - \""
+  },
+  {
+    "var": "ADVEVENT_129",
+    "en": "\"{Shrine of the Magic Gesture}\n\nYou come across an ornate shrine attended by a group of rotund friars.  In exchange for your protection, they agree to teach you a spell -  \"",
+    "ua": "\"{Святилище магічних жестів}\n\nВи знаходите гарно прибране святилище, навколо якого зібралася група вгодованих братів-ченців. У нагороду за захист вони навчають вас заклинанню - \""
+  },
+  {
+    "var": "ADVEVENT_130",
+    "en": "\"{Shrine of the Magic Thought}\n\nYou come across a lavish shrine attended by a group of high priests.  In exchange for your protection, they agree to teach you a sophisticated spell - \"",
+    "ua": "\"{Святилище магічних думок}\n\nВи знаходите чудове святилище, навколо якого зібралася група первосвящеників. У нагороду за захист вони навчають вас складному заклинанню - \""
+  },
+  {
+    "var": "ADVEVENT_131",
+    "en": "\"  Unfortunately, you do not have the wisdom to understand the spell, and are unable to learn it.\"",
+    "ua": "\"  На нещастя, вам не вистачає мудрості, щоб осягнути це заклинання, і ви не можете запам'ятати його.\""
+  },
+  {
+    "var": "ADVEVENT_132",
+    "en": "\"  Unfortunately, you have no Spell Book to record the spell with.\"",
+    "ua": "\"  На жаль, у вас немає Чарівної книги, в яку можна було б записати це заклинання.\""
+  },
+  {
+    "var": "ADVEVENT_133",
+    "en": "\"An eerie wailing song emanates from the sirens perched upon the rocks.  Many of your crew fall under its spell, and dive into the water where they drown.  You are now wiser for the visit, and gain %d experience.\"",
+    "ua": "\"Сирени, що сидять на скелях, співають дивну тужливу пісню. Багато членів команди підпадають під їх чари і стрибають у хвилі назустріч смерті. Тепер ви знаєте, чим обертаються такі зустрічі, і здобуваєте %d очок досвіду.\""
+  },
+  {
+    "var": "ADVEVENT_134",
+    "en": "You have your crew stop up their ears with wax before the sirens' eerie song has any chance of luring them to a watery grave.",
+    "ua": "Ви наказуєте команді заліпити вуха воском, перш ніж тужлива пісня сирен захопить їх на дно."
+  },
+  {
+    "var": "ADVEVENT_135",
+    "en": "\"As the sirens sing their eerie song, your small, determined army manages to overcome the urge to dive headlong into the sea.\"",
+    "ua": "\"Коли сирени затягують свою тужливу пісню, ваше маленьке, але рішуче військо пересилює їхні чари і залишається на палубі.\""
+  },
+  {
+    "var": "ADVEVENT_136",
+    "en": "You find a spell scroll inscribed with the %s spell.  You toss it into your backpack.",
+    "ua": "Ви знаходите сувій, у якому записано заклинання %s. Ви додаєте сувій до своїх трофеїв."
+  },
+  {
+    "var": "ADVEVENT_137",
+    "en": "\"{Stables}\n\nYou have already visited the stables this week.\"",
+    "ua": "\"{Стайня}\n\nЦього тижня ви вже відвідували стайню.\""
+  },
+  {
+    "var": "ADVEVENT_138",
+    "en": "\"{Stables}\n\nThe stablemaster offers to provide your army with horses, increasing your movement for the remainder of the week.\"",
+    "ua": "\"{Стайня}\n\nДоглядач стайні пропонує забезпечити ваше військо кіньми. Завдяки цьому до кінця тижня ви зможете щодня долати великі відстані.\""
+  },
+  {
+    "var": "ADVEVENT_139",
+    "en": "\"{Stables}\n\nThe stablemaster offers to provide your army with horses, increasing your movement for the remainder of the week and upgrading all your Cavaliers to Champions.\"",
+    "ua": "\"{Стайня}\n\nДоглядач стайні пропонує забезпечити ваше військо кіньми. Завдяки цьому до кінця тижня ви зможете щодня долати великі відстані, а всі ваші вершники перетворюються на чемпіонів.\""
+  },
+  {
+    "var": "ADVEVENT_140",
+    "en": "\"{Stables}\n\nThe stablemaster offers to provide your army with horses, increasing your movement for the remainder of the week and upgrading all your Cavaliers to Champions.\"",
+    "ua": "\"{Стайня}\n\nДоглядач стайні пропонує забезпечити ваше військо кіньми. Завдяки цьому до кінця тижня ви зможете щодня долати великі відстані, а всі ваші вершники перетворюються на чемпіонів.\""
+  },
+  {
+    "var": "ADVEVENT_141",
+    "en": "\"{Temple}\n\nA visit and a prayer at the temple raises the morale of your troops.\"",
+    "ua": "\"{Храм}\n\nВідвідування храму і молитва піднімають мораль вашого війська.\""
+  },
+  {
+    "var": "ADVEVENT_142",
+    "en": "\"{Temple}\n\nIt doesn't help to pray twice before a battle.  Come back another day.\"",
+    "ua": "\"{Храм}\n\nМолитися двічі перед однією і тією ж битвою марно. Заходьте в інший день.\""
+  },
+  {
+    "var": "ADVEVENT_143",
+    "en": "\"{Den of Thieves}\n\nSearching through the underbrush, you find the secret entrance to the Den of Thieves.  An old \"\"acquaintance\"\" fills you in on all he has learned since your last meeting.\"",
+    "ua": "\"{Кубло злодіїв}\n\nОбшарюючи кущі, ви знаходите потаємний вхід у кубло злодіїв. \"\"Старий знайомий\"\" розповідає вам про все, що він зумів довідатися з часу вашої останньої зустрічі.\""
+  },
+  {
+    "var": "ADVEVENT_144",
+    "en": "\"{Learning Stone}\n\nA smooth stone on the face of this pillar begins to swirl as you approach. Looking into it, you are amazed to see answers to questions you have pondered for years.  The stone suddenly goes still, but you realize you have learned much.\"",
+    "ua": "\"{Камінь знань}\n\nПри вашому наближенні гладкий камінь колони починає повертатися. Придивившись уважніше, ви з подивом бачите перед собою відповіді на питання, над якими міркували довгі роки. Раптово камінь застигає в нерухомості, але ви розумієте, що навіть за цей короткий час ви встигли дізнатися дуже багато.\""
+  },
+  {
+    "var": "ADVEVENT_145",
+    "en": "\"{Learning Stone}\n\nYou approach the pillar, hoping to gain more insight, but the stone now does nothing more than reflect the sunlight.\"",
+    "ua": "\"{Камінь знань}\n\nВи наближаєтеся до колони в надії отримати нові одкровення, але камінь залишається нерухомим і лише відбиває сонячне світло.\""
+  },
+  {
+    "var": "ADVEVENT_146",
+    "en": "\"{Chest}\n\nAfter scouring the area, you fall upon a hidden chest, containing the ancient artifact '%s'.\"",
+    "ua": "\"{Скринька}\n\nОбшукавши околиці, ви знаходите заховану скриню, в якій зберігається древній артефакт \"\"%s\"\".\""
+  },
+  {
+    "var": "ADVEVENT_147",
+    "en": "\"{Chest}\n\nAfter scouring the area, you fall upon a hidden treasure cache.  You may take the gold or distribute it to the peasants for experience.  Which do you choose?\"",
+    "ua": "\"{Скринька}\n\nОбшукавши околиці, ви знаходите захований скарб. Ви можете залишити золото собі або роздати його селянам в обмін на досвід. Що ви оберете?\""
+  },
+  {
+    "var": "ADVEVENT_148",
+    "en": "\"{Tree of Knowledge}\n\nUpon your approach, the tree opens its eyes in delight.  \"\"It is good to see you, my student.  I hope my teachings have helped you.\"\"\"",
+    "ua": "\"{Дерево пізнання}\n\nПри вашому наближенні дерево розплющує очі, в яких світиться радість. \"\"Радий бачити тебе, гідний учень. Сподіваюся, мої повчання тобі в пригоді\"\". \""
+  },
+  {
+    "var": "ADVEVENT_149",
+    "en": "\"{Tree of Knowledge}\n\nUpon your approach, the tree opens its eyes in delight.  \"\"Ahh, an adventurer!  Allow me to teach you a little of what I have learned over the ages.\"\"\"",
+    "ua": "\"{Дерево пізнання}\n\nПри вашому наближенні дерево розплющує очі, в яких світиться радість. \"\"А-а... шукач пригод! Дозволь мені поділитися з тобою частиною знань, які я накопичив за минулі століття\"\". \""
+  },
+  {
+    "var": "ADVEVENT_150",
+    "en": "\"{Tree of Knowledge}\n\nUpon your approach, the tree opens its eyes in delight.  \"\"Ahh, an adventurer! I will be happy to teach you a little of what I have learned over the ages for a mere 2000 gold.\"\"  (Just bury it around my roots.)\"",
+    "ua": "\"{Дерево пізнання}\n\nПри вашому наближенні дерево розплющує очі, в яких світиться радість. \"\"А-а... шукач пригод! Я з радістю поділюся з тобою частиною знань, які накопичив за минулі століття, всього за 2000 золотих монет.\"\" (Зарий їх у мене під корінням.)\""
+  },
+  {
+    "var": "ADVEVENT_151",
+    "en": "\"{Tree of Knowledge}\n\nTears brim in the eyes of the tree.  \"\"I need 2000 gold.\"\" it whispers. (sniff)  \"\"Well, come back when you can pay me.\"\"\"",
+    "ua": "\"{Дерево пізнання}\n\nВ очах дерева блищать сльози. \"\"Мені потрібні ці 2000 золотих монет, - шепоче воно і шморгає носом. - Що ж, приходь, коли розбагатієш\"\".\""
+  },
+  {
+    "var": "ADVEVENT_152",
+    "en": "\"{Tree of Knowledge}\n\nUpon your approach, the tree opens its eyes in delight.  \"\"Ahh, an adventurer! I will be happy to teach you a little of what I have learned over the ages for a mere 10 gems.\"\"  (Just bury it around my roots.) \"",
+    "ua": "\"{Дерево пізнання}\n\nПри вашому наближенні дерево розплющує очі, в яких світиться радість. \"\"А-а... шукач пригод! Я з радістю поділюся з тобою частиною знань, які накопичив за минулі століття, всього за 10 самоцвітів.\"\" (Зарий їх у мене під корінням.)\""
+  },
+  {
+    "var": "ADVEVENT_153",
+    "en": "\"{Tree of Knowledge}\n\nTears brim in the eyes of the tree.  \"\"I need 10 gems.\"\" it whispers. (sniff)  \"\"Well, come back when you can pay me.\"\"\"",
+    "ua": "\"{Дерево пізнання}\n\nВ очах дерева блищать сльози. \"\"Мені потрібні ці 10 самоцвітів, - шепоче воно і шморгає носом. - Що ж, приходь, коли розбагатієш\"\".\""
+  },
+  {
+    "var": "ADVEVENT_154",
+    "en": "Just inside the entrance you find a large pile of rubble blocking the tunnel. You leave discouraged.",
+    "ua": "Відразу за входом ви натикаєтеся на величезну купу каміння, що загороджує прохід. Вам нічого не залишається, як тільки повернути назад."
+  },
+  {
+    "var": "ADVEVENT_155",
+    "en": "\"{Wagon}\n\nYou come across an old wagon left by a trader who didn't quite make it to safe terrain.  Inside, you find some of the wagon's cargo still intact.\"",
+    "ua": "\"{Віз}\n\nВи знаходите віз купця, якому не вдалося дістатися до безпечних місць. Всередині ще збереглися залишки вантажу.\""
+  },
+  {
+    "var": "ADVEVENT_156",
+    "en": "\"{Wagon}\n\nYou come across an old wagon left by a trader who didn't quite make it to safe terrain.  Searching inside, you find the '%s'.\"",
+    "ua": "\"{Віз}\n\nВи знаходите віз купця, якому не вдалося дістатися до безпечних місць. Заглянувши всередину, ви виявляєте \"\"%s\"\".\""
+  },
+  {
+    "var": "ADVEVENT_157",
+    "en": "\"{Wagon}\n\nYou come across an old wagon left by a trader who didn't quite make it to safe terrain.  Unfortunately, others have found it first, and the wagon is empty.\"",
+    "ua": "\"{Віз}\n\nВи знаходите віз купця, якому не вдалося дістатися до безпечних місць. Очевидно, хтось побував тут раніше вас, бо він абсолютно порожній.\""
+  },
+  {
+    "var": "ADVEVENT_158",
+    "en": "\"{War Machine Factory}\n\nWould you like to purchase War Machines?\"",
+    "ua": "\"{Арсенал}\n\nВи хочете придбати бойові машини?\""
+  },
+  {
+    "var": "ADVEVENT_159",
+    "en": "\"{School of War}\n\nThe battle-scarred instructor of this school of war grunts as you walk past.  For a fee of 1000 gold he can teach you your choice of new attack or defense skills.\"",
+    "ua": "\"{Військова академія}\n\nПобачивши, як ви проходите повз, покритий шрамами наставник військової академії гукає вас. За 1000 золотих монет він може навчити вас новим способам нападу або захисту.\""
+  },
+  {
+    "var": "ADVEVENT_160",
+    "en": "\"{School of War}\n\nThe head instructor laughs out loud when you ask to receive more training.  \"\"You should be teaching here!\"\" he shouts.\"",
+    "ua": "\"{Військова академія}\n\nРектор академії голосно сміється, почувши, що ви прийшли продовжити навчання. \"\"Це нам треба в тебе вчитися, а не навпаки!\"\" - гучно заявляє він.\""
+  },
+  {
+    "var": "ADVEVENT_161",
+    "en": "\"{School of War}\n\nThe battle-scarred instructor of this school of war grunts as you walk past.  He could teach you some new combat tactics, but he charges 1000 gold, which you currently do not have.\"",
+    "ua": "\"{Військова академія}\n\nПобачивши, як ви проходите повз, покритий шрамами наставник військової академії гукає вас. Він міг би навчити вас новим бойовим хитрощам всього за 1000 золотих монет, але цих грошей у вас зараз немає.\""
+  },
+  {
+    "var": "ADVEVENT_162",
+    "en": "You have come upon the resting place of a nameless warrior.  Do you wish to search the tomb?",
+    "ua": "Ви підійшли до місця спочинку безіменного воїна. Ви хочете розкрити його могилу?"
+  },
+  {
+    "var": "ADVEVENT_163",
+    "en": "\"Reluctantly, your troops enter the tomb, finding the %s, but such a despicable act has ruined your army's morale.\"",
+    "ua": "\"Військо неохоче йде за вами в гробницю, де ви знаходите артефакт %s, але цей негідний вчинок остаточно підриває мораль ваших воїнів.\""
+  },
+  {
+    "var": "ADVEVENT_164",
+    "en": "\"Reluctantly, your troops enter the tomb, finding nothing of value.  Such a despicable act has ruined your army's morale.\"",
+    "ua": "\"Військо неохоче йде за вами в гробницю, яка виявляється порожньою. Цей негідний вчинок остаточно підриває мораль ваших воїнів.\""
+  },
+  {
+    "var": "ADVEVENT_165",
+    "en": "\"{Water Wheel}\n\nThe keeper of the mill announces: \"\"Milord, I have been working very hard to provide you with this gold, come back next week for more.\"\"\"",
+    "ua": "\"{Водний млин}\n\nМірошник звертається до вас зі словами: \"\"Достойний пане, я трудився у поті чола, щоб заробити це золото. Приходьте наступного тижня, і я дам вам ще стільки ж\"\". \""
+  },
+  {
+    "var": "ADVEVENT_166",
+    "en": "\"{Water Wheel}\n\nThe keeper of the mill announces: \"\"Milord, I am sorry, there is no gold currently available.  Please try again next week.\"\"\"",
+    "ua": "\"{Водний млин}\n\nМірошник звертається до вас зі словами: \"\"Шкодую, достойний пане, але сьогодні золота в мене немає. Приходьте наступного тижня\"\".\""
+  },
+  {
+    "var": "ADVEVENT_167",
+    "en": "\"{Watering Hole}\n\nA drink at the watering hole fills your troops with strength and lifts their spirits.  You can travel a bit further today.\"",
+    "ua": "\"{Джерело}\n\nДжерельна вода відновила сили вашого війська і підняла його мораль. Сьогодні ви здолаєте більший шлях, ніж зазвичай.\""
+  },
+  {
+    "var": "ADVEVENT_168",
+    "en": "\"{Watering Hole}\n\nThe drink at the watering hole is refreshing, but offers no further benefit.  The watering hole might help again if you fought a battle first.\"",
+    "ua": "\"{Джерело}\n\nДжерельна вода освіжає вас, але не приносить ніякої іншої користі. Приходьте сюди після битви, і тоді ви знайдете тут допомогу.\""
+  },
+  {
+    "var": "ADVEVENT_169",
+    "en": "\"{Whirlpool}\n\nA whirlpool engulfs your ship.  Some of your army has fallen overboard.\"",
+    "ua": "\"{Вир}\n\nВаш корабель потрапляє у вир, і частина війська зникає в безодні.\""
+  },
+  {
+    "var": "ADVEVENT_170",
+    "en": "\"{Windmill}\n\nThe keeper of the mill announces: \"\"Milord, I am sorry, there are no resources currently available. Please try again next week.\"\"\"",
+    "ua": "\"{Вітряний млин}\n\nМірошник звертається до вас зі словами: \"\"Шкодую, достойний пане, але сьогодні у мене нічого немає. Приходьте наступного тижня\"\".\""
+  },
+  {
+    "var": "ADVEVENT_171",
+    "en": "\"{Windmill}\n\nThe keeper of the mill announces: \"\"Milord, I have been working very hard to provide you with these resources, come back next week for more.\"\"\"",
+    "ua": "\"{Вітряний млин}\n\nМірошник звертається до вас зі словами: \"\"Достойний пане, я працював не покладаючи рук, і прошу вас прийняти мій скромний дар. Приходьте наступного тижня, у мене знову знайдеться, чим вас порадувати\"\". \""
+  },
+  {
+    "var": "ADVEVENT_172",
+    "en": "\"{Witch's Hut}\n\nAn ancient witch living in a strange hut welcomes you, teaching you %s for her own inscrutable purposes.\"",
+    "ua": "\"{Хижа відьми}\n\nДревня відьма, що живе у жалюгідній халупі, вітає вас і навчає навичці %s для якихось їй одній відомих цілей.\""
+  },
+  {
+    "var": "ADVEVENT_173",
+    "en": "\"{Witch's Hut}\n\nYou approach the strange hut and observe a witch inside studying an ancient tome on %s.  As you approach, she turns and speaks.  \"\"You already know that which I would teach you. I can help you no further.\"\"\"",
+    "ua": "\"{Хижа відьми}\n\nВи наближаєтеся до хатини і бачите всередині відьму, що схилилася над книгою. На обкладинці напис: %s. Побачивши вас, вона звертається до вас зі словами: \"\"Я вже навчила тебе всьому, що знала. Більше нічим допомогти не можу\"\".\""
+  },
+  {
+    "var": "ADVEVENT_174",
+    "en": "\"{Witch's Hut}\n\nYou approach the strange hut and observe a witch inside studying an ancient tome on %s.  As you approach, she turns and focuses her one glass eye on you.  \"\"HA!\"\" she screeches, \"\"I would not presume to try to teach new tricks to someone so clearly as wise as you.\"\"  You leave, but can't quite shake the feeling that you have just been insulted.\"",
+    "ua": "\"{Хижа відьми}\n\nВи наближаєтеся до жалюгідної халупи і бачите всередині відьму, що схилилася над книгою. На обкладинці напис: %s. Відчувши вас, вона повертається і повертає до вас своє єдине скляне око. \"\"ХА!\"\" - каркає вона. - \"\"Навіть і намагатися не буду вчити тебе своєї премудрості. Ти і так знаєш достатньо!\"\" - Йдучи, ви не можете позбутися думки, що вам щойно завдали образи.\""
+  },
+  {
+    "var": "ADVEVENT_175",
+    "en": "\"  Unfortunately, you already have knowledge of this spell, so there is nothing more for them to teach you.\"",
+    "ua": "\"  На нещастя, це заклинання вам вже відоме, і їм більше нема чому вас вчити.\""
+  },
+  {
+    "var": "ADVEVENT_176",
+    "en": "%s learns something.",
+    "ua": "%s дізнається щось нове."
+  },
+  {
+    "var": "ADVEVENT_177",
+    "en": "%s loses magical energy.",
+    "ua": "%s втрачає магічну енергію."
+  },
+  {
+    "var": "ADVEVENT_178",
+    "en": "%s gains magical energy.",
+    "ua": "%s здобуває магічну енергію."
+  },
+  {
+    "var": "ADVEVENT_179",
+    "en": "%s's spirits drop.",
+    "ua": "%s втрачає мораль."
+  },
+  {
+    "var": "ADVEVENT_180",
+    "en": "%s's spirits rise.",
+    "ua": "%s підвищує мораль своїх військ."
+  },
+  {
+    "var": "ADVEVENT_181",
+    "en": "%s's luck takes a turn for the worse.",
+    "ua": "%s відчуває, як вдача покидає його."
+  },
+  {
+    "var": "ADVEVENT_182",
+    "en": "%s's luck increases.",
+    "ua": "%s відчуває, як вдача йому посміхається."
+  },
+  {
+    "var": "ADVEVENT_183",
+    "en": "%s has lost treasure.",
+    "ua": "%s загубив скарб."
+  },
+  {
+    "var": "ADVEVENT_184",
+    "en": "%s has found treasure.",
+    "ua": "%s знайшов скарб."
+  },
+  {
+    "var": "ADVEVENT_185",
+    "en": "%s learns a spell.",
+    "ua": "%s вивчає заклинання."
+  },
+  {
+    "var": "ADVEVENT_186",
+    "en": "A %s joins %s's army.",
+    "ua": "%s приєднується до війська %s."
+  },
+  {
+    "var": "ADVEVENT_187",
+    "en": "%s join %s's army.",
+    "ua": "Група %s приєднується до війська %s."
+  },
+  {
+    "var": "ADVEVENT_188",
+    "en": "\"Unfortunately, it appears that the owner has left some guards.  Do you wish to fight them?\"",
+    "ua": "\"На жаль, власник не забув залишити варту. Ви хочете вступити з нею в бій?\""
+  },
+  {
+    "var": "ADVEVENT_189",
+    "en": "%s learns spells.",
+    "ua": "%s вивчає заклинання."
+  },
+  {
+    "var": "ADVEVENT_190",
+    "en": "\"This an abandoned shipyard.  Unfortunately the Ways are blocked, and it is not possible to build ships here.\"",
+    "ua": "\"Ця верф давно покинута. На нещастя, стапелі вже не придатні до використання, і корабель тут більше не побудуєш.\""
+  },
+  {
+    "var": "ADVEVENT_191",
+    "en": "\"{Witch's Hut}\n\nYou approach the hut but find that it has been deserted for some time.\"",
+    "ua": "\"{Хижа відьми}\n\nВи підходите до хатини і виявляєте, що тут вже давно ніхто не живе.\""
+  }
+]

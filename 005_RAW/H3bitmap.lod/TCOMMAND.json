@@ -1,0 +1,182 @@
+[
+  {
+    "var": "TCOMMAND_1",
+    "en": "Split %s army",
+    "ua": "Розділити загін %s "
+  },
+  {
+    "var": "TCOMMAND_2",
+    "en": "Cannot combine hero's last army",
+    "ua": "Неможливо об'єднати останній загін героя."
+  },
+  {
+    "var": "TCOMMAND_3",
+    "en": "Combine %s armies",
+    "ua": "Об'єднати загін %s "
+  },
+  {
+    "var": "TCOMMAND_4",
+    "en": "Split army",
+    "ua": "Розділити загін"
+  },
+  {
+    "var": "TCOMMAND_5",
+    "en": "View %s",
+    "ua": "Перейти до %s"
+  },
+  {
+    "var": "TCOMMAND_6",
+    "en": "Cannot move last army to garrison",
+    "ua": "Неможливо відправити останнє військо у гарнізон."
+  },
+  {
+    "var": "TCOMMAND_7",
+    "en": "Move %s",
+    "ua": "Перенести загін %s"
+  },
+  {
+    "var": "TCOMMAND_8",
+    "en": "Exchange %s with %s",
+    "ua": "Поміняти місцями загони %s і %s"
+  },
+  {
+    "var": "TCOMMAND_9",
+    "en": "Exit town",
+    "ua": "Залишити місто"
+  },
+  {
+    "var": "TCOMMAND_10",
+    "en": "Cannot move allied heroes to garrison.",
+    "ua": "Неможливо відправити дружніх героїв у гарнізон."
+  },
+  {
+    "var": "TCOMMAND_11",
+    "en": "Kingdom Overview",
+    "ua": "Огляд королівства"
+  },
+  {
+    "var": "TCOMMAND_12",
+    "en": "Empty",
+    "ua": "Порожньо"
+  },
+  {
+    "var": "TCOMMAND_13",
+    "en": "Select %s (in garrison)",
+    "ua": "Вибрати загін %s (у гарнізоні)"
+  },
+  {
+    "var": "TCOMMAND_14",
+    "en": "View Hero",
+    "ua": "Показати героя"
+  },
+  {
+    "var": "TCOMMAND_15",
+    "en": "Mage Guild",
+    "ua": "Гільдія магів"
+  },
+  {
+    "var": "TCOMMAND_16",
+    "en": "Thieves' Guild",
+    "ua": "Гільдія злодіїв"
+  },
+  {
+    "var": "TCOMMAND_17",
+    "en": "Tavern",
+    "ua": "Корчма"
+  },
+  {
+    "var": "TCOMMAND_18",
+    "en": "Shipyard",
+    "ua": "Верф"
+  },
+  {
+    "var": "TCOMMAND_19",
+    "en": "Castle",
+    "ua": "Замок"
+  },
+  {
+    "var": "TCOMMAND_20",
+    "en": "Blacksmith",
+    "ua": "Кузня"
+  },
+  {
+    "var": "TCOMMAND_21",
+    "en": "Village Hall",
+    "ua": "Дім старійшин"
+  },
+  {
+    "var": "TCOMMAND_22",
+    "en": "Recruit %s",
+    "ua": "Найняти %s"
+  },
+  {
+    "var": "TCOMMAND_23",
+    "en": "Town Hall",
+    "ua": "Ратуша"
+  },
+  {
+    "var": "TCOMMAND_24",
+    "en": "City Hall",
+    "ua": "Магістрат"
+  },
+  {
+    "var": "TCOMMAND_25",
+    "en": "Capitol",
+    "ua": "Капітолій"
+  },
+  {
+    "var": "TCOMMAND_26",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "TCOMMAND_27",
+    "en": "Marketplace",
+    "ua": "Ринок"
+  },
+  {
+    "var": "TCOMMAND_28",
+    "en": "Resource Silo",
+    "ua": "Склад ресурсів"
+  },
+  {
+    "var": "TCOMMAND_29",
+    "en": "Fort",
+    "ua": "Форт"
+  },
+  {
+    "var": "TCOMMAND_30",
+    "en": "Citadel",
+    "ua": "Цитадель"
+  },
+  {
+    "var": "TCOMMAND_31",
+    "en": "An external creature dwelling must be flagged to summon creatures through the portal.",
+    "ua": "Для виклику істот через портал необхідно заволодіти зовнішнім помешканням істот."
+  },
+  {
+    "var": "TCOMMAND_32",
+    "en": "%s purchased",
+    "ua": "Придбано загін %s"
+  },
+  {
+    "var": "TCOMMAND_33",
+    "en": "Select %s (visiting)",
+    "ua": "Вибрати загін %s (гості)"
+  },
+  {
+    "var": "TCOMMAND_34",
+    "en": "Select %s (discarded creatures)",
+    "ua": "Вибрати загін %s (звільнені герої)"
+  },
+  {
+    "var": "TCOMMAND_35",
+    "en": "Select %s (hero's army)",
+    "ua": "Вибрати загін %s (армія героя)"
+  },
+  {
+    "var": "TCOMMAND_36",
+    "en": "%s (cannot remove)",
+    "ua": "%s (неможна забрати)"
+  }
+]

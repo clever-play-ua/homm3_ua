@@ -1,0 +1,236 @@
+[
+  {
+    "var": "FOOL_M3_prolog",
+    "field": "wrapper_prolog",
+    "en": "After finding out he was being used as a tool against his own land and queen, Sir Christian finished his quest and fled the island, stole a real sailing ship and went to Queen Catherine's military island to protect it. The four surrounding islands that once protected the main island are now infested with Regnan Pirates. Queen Catherine may pay a visit to this island in four months.",
+    "ua": "Після довгих мандрів сер Крістіан все ж дістав справжній вітрильний корабель, на якому тепер зможе досягти острова, що належить королеві Катерині, під захист його потужних фортів. Чотири прилеглих острови, покликаних захищати центральний, тепер захоплені піратами. До всього іншого, сама Катерина відвідає ці місця лише через чотири місяці."
+  },
+  {
+    "var": "FOOL_M3_epilog",
+    "field": "wrapper_epilog",
+    "en": "If you were to ask me where my loyalities lie, in all honesty, I would answer, \"To whomever could get me home.\"  So, when I learned of the nearby Erathian outpost, I knew I had found my esacpe.  So, I left those filthy pirates in the middle of the night and arrived at the Erathian outpost the following morning.  Little did I know the outpost was the next target of my former pirate allies.",
+    "ua": "Запитай мене, на чиїй я стороні - і я щиро відповім: \"На боці того, хто відвезе мене додому.\" Я чув, поблизу є сторожовий пост ерафійців. Ось він, порятунок! Темної ночі я покинув своїх вірних смердючих піратів і до ранку був вже біля ерафійського посту. Шкода, не знав я тоді, що саме на нього вирішать напасти мої колишні друзі-пірати..."
+  },
+  {
+    "var": "FOOL_M3_map_name",
+    "field": "map_map_name",
+    "en": "Hurry Up and Wait",
+    "ua": "Поспіх та очікування"
+  },
+  {
+    "var": "FOOL_M3_map_desc",
+    "field": "map_map_desc",
+    "en": "Sir Christian must do one thing to win this scenario. Stay alive for four months. He is literally surrounded by the enemy. He must keep the evil Regnin Pirates from overthrowing Queen Catherine's military base. If Sir Christian is defeated, his campaign is over.",
+    "ua": "Єдине завдання сера Крістіана в цьому сценарії - залишитися живим протягом чотирьох місяців. Вороги буквально оточили його з усіх сторін. Герой повинен захистити форпост королеви Катерини від нападів піратів Регни. Якщо сер Крістіан буде переможений, його кампанії кінець."
+  },
+  {
+    "var": "FOOL_M3_obj142_guardian_mesg",
+    "field": "map_obj142_guardian_mesg",
+    "en": "Thou hast chosen poorly.",
+    "ua": "Поганий вибір."
+  },
+  {
+    "var": "FOOL_M3_obj143_guardian_mesg",
+    "field": "map_obj143_guardian_mesg",
+    "en": "I prey thee hath sharpened thine sword.",
+    "ua": "Сподіваюсь, твій меч гострий."
+  },
+  {
+    "var": "FOOL_M3_obj144_guardian_mesg",
+    "field": "map_obj144_guardian_mesg",
+    "en": "Thou hast chosen wisely. Thou art blessed.",
+    "ua": "Ти мудро вибрав. Хай благословлять тебе небеса."
+  },
+  {
+    "var": "FOOL_M3_obj756_sign_mesg",
+    "field": "map_obj756_sign_mesg",
+    "en": "Krackatoa",
+    "ua": "Кракатоа"
+  },
+  {
+    "var": "FOOL_M3_obj857_guardian_mesg",
+    "field": "map_obj857_guardian_mesg",
+    "en": "Thou shall not kill-ist or trade in precious life for treasure.",
+    "ua": "Не вбий і не віддавай безцінне життя заради земних скарбів."
+  },
+  {
+    "var": "FOOL_M3_obj1606_sign_mesg",
+    "field": "map_obj1606_sign_mesg",
+    "en": "We got fun and games.",
+    "ua": "Тут ігри та веселощі."
+  },
+  {
+    "var": "FOOL_M3_obj1607_sign_mesg",
+    "field": "map_obj1607_sign_mesg",
+    "en": "We got everything you want\nwe know the names.",
+    "ua": "У нас знайдеться все."
+  },
+  {
+    "var": "FOOL_M3_obj1627_monster_mesg",
+    "field": "map_obj1627_monster_mesg",
+    "en": "It was a lovely day. A perfect day for the beach. A gang of cyclops blocks your path. \"This is our beach, \" grunt one of them. You smile. \"What are you looking at one eye? Stop winking at me? Out of the way you lummox!\" You draw your sword.",
+    "ua": "Ви зупиняєтесь на побережжі, аби пообідати. Не встигаєте ви закінчити, як з'являються вони - одноокі монстри. \"Це наш берег\", - ричить один з них. Ви посміхаєтесь: \"На що вирячився, одноокий? Досить підморгувати мені! З дороги, громило!\" Ви дістаєте свій меч."
+  },
+  {
+    "var": "FOOL_M3_obj1652_sign_mesg",
+    "field": "map_obj1652_sign_mesg",
+    "en": "Welcome to the jungle.",
+    "ua": "Ласкаво просимо до джунглів."
+  },
+  {
+    "var": "FOOL_M3_obj1732_sign_mesg",
+    "field": "map_obj1732_sign_mesg",
+    "en": "I hope that someone gets my message in a bottle.",
+    "ua": "Сподіваюсь, мого листа в пляшці хтось знайде."
+  },
+  {
+    "var": "FOOL_M3_obj2599_guardian_mesg",
+    "field": "map_obj2599_guardian_mesg",
+    "en": "Beware Limbo of the lost.",
+    "ua": "Бережися лімбу Втрачених душ."
+  },
+  {
+    "var": "FOOL_M3_obj2600_guardian_mesg",
+    "field": "map_obj2600_guardian_mesg",
+    "en": "Beware the Triangle Bermuda",
+    "ua": "Бережися Бермудського трикутника."
+  },
+  {
+    "var": "FOOL_M3_obj2601_guardian_mesg",
+    "field": "map_obj2601_guardian_mesg",
+    "en": "Beware the Devils Triangle",
+    "ua": "Бережися трикутника Диявола."
+  },
+  {
+    "var": "FOOL_M3_obj2610_sign_mesg",
+    "field": "map_obj2610_sign_mesg",
+    "en": "Help me think I'm somebody else",
+    "ua": "Допоможіть! Мені здається, що я - це не я!"
+  },
+  {
+    "var": "FOOL_M3_obj3067_guardian_mesg",
+    "field": "map_obj3067_guardian_mesg",
+    "en": "As you approach the trading post you notice an outhouse. You walk over to it and it is locked. You go into the trading post and ask the keeper for the key. The keeper bends down behind the counter and heaves up a tree trunk. Tied to this it is a key. The keeper hefts the key and says, \"This is the key to the out house. DON'T LOSE IT!\" ",
+    "ua": "Під'їжджаючи до базару, ви помічаєте ретираду. Ви підходите до неї і виявляєте, що вона замкнена. Ви просите сторожа дати вам ключ. Сторож дістає з-за прилавка величезну колоду, до якого прив'язаний ключ. Передаючи вам колоду, сторож вимовляє: \"Ось тобі ключ від ретиради. Дивися не кинь його!\""
+  },
+  {
+    "var": "FOOL_M3_obj3138_monster_mesg",
+    "field": "map_obj3138_monster_mesg",
+    "en": "\"Zug zug!\"",
+    "ua": "\"Заг-заг!\""
+  },
+  {
+    "var": "FOOL_M3_obj3198_sign_mesg",
+    "field": "map_obj3198_sign_mesg",
+    "en": "Pick a box, any box. Any one shall do. For two contain absolute pain, anguish, and misery. The other is filled with... Thou shall see thine outcome.",
+    "ua": "Обери скриню, будь-яку. Лише в двох з них - біль, муки і страждання. В третій... Ну, сам побачиш."
+  },
+  {
+    "var": "FOOL_M3_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Intro 1",
+    "ua": "Intro 1"
+  },
+  {
+    "var": "FOOL_M3_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "If someone were to ask you where your loyalties lie, at this point, you would answer, \"To whomever could get me home.\"  When you learned of the nearby Erathian outpost, you knew you had found an escape.  After completing your quest you left those filthy pirates in the middle of the night and arrived at the Erathian outpost the following morning.  Little did you know the outpost was the next target of your former pirate allies. The four islands surrounding Queen Catherine's outpost protected it quite well. The Regnan Pirates have taken over all of the surrounding islands and now their moving in on the main isle. Catherine may pay a visit to the island while on the way to Erathia in four months. Keep the Regnan Pirates from taking over the whole island until Queen Catherine can reinforce you in four months.",
+    "ua": "Якби хто-небудь запитав вас зараз, на чиєму ви боці, ви б відповіли: \"На боці тих, хто відвезе мене додому.\" Коли ви дізналися про ерафійський форпост, розташований неподалік, ви зрозуміли, куди вам треба податися. Виконавши завдання піратів, ви покинули їх тієї ж ночі, і вже на ранок прибули в частину ерафійців. Ви навіть і не здогадувалися, що пірати якраз готували напад на форпост. Чотири острови, що оточували форпост королеви, служили йому надійним захистом, але тепер ці острови були захоплені піратами Регни. Зайнявши ключові позиції, пірати збиралися напасти на головний острів. Через чотири місяці королева Катерина повернеться зі свого походу, і по дорозі до Ерафії може привести вам підкріплення. Протягом цих чотирьох місяців ви повинні обороняти острів від зазіхань піратів."
+  },
+  {
+    "var": "FOOL_M3_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "120A You made it!",
+    "ua": "120A You made it!"
+  },
+  {
+    "var": "FOOL_M3_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "Queen Catherine's ships have been spotted on the horizon.  The Regnan Pirates have also spotted her, and will be taking their leave very soon.  With a full compliment of ships and troops they couldn't possibly withstand a head on confrontation.  This news is the best you've heard in a very long time.  A hot bath and a nice sea trip are in your very near future.",
+    "ua": "Сьогодні ви побачили на обрії флот королеви Катерини. Пірати Регни теж його помітили, і в жаху тікають. Їх сил явно недостатньо, щоб протистояти королівському флоту. Щодо вас, то кращих новин вам вже давно не доводилося чути. У найближчому майбутньому вас чекають гаряча ванна і приємна морська подорож."
+  },
+  {
+    "var": "FOOL_M3_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "120B Gilligan's Island Spoof",
+    "ua": "120B Gilligan's Island Spoof"
+  },
+  {
+    "var": "FOOL_M3_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "Just sit right back and you'll hear a tale,\na tale of a sci-fi trip,\nthat started in Agoura Hills,\naboard the New World ship.\nBig Mike was a mighty tired dad,\nand Ryan made us stuffed.\nFive others worked upon the game\nfor five long months.  (for five long months.)\n\nThunder Clap!!!!\n\nThe fans they started getting rough,\nthe Forge Town it was tossed,\nif not for the courage of the design crew\nthe Expansion would be lost.  (the Expansion would be lost)\n\nThe expansion got setup to ship\nin August summer time,\nwith Ryan Den,\nand Michael too,\nthe miser Dave,\nand old Walt.\nThe designer, Greg,\nMarcus and,\nJen's tough hand,\nIt's Armageddon's Blade!\n\nCast:\nProfessor..................................Greg Fulton\nMr. Howell................................David Botan\nMrs. Howell (a.k.a. Lovey)........Walter Johnson\nGinger.......................................Marcus Pregent\nMary Ann..................................Jennifer Bullard\nSkipper.....................................Michael Wolf\nGilligan......................................Ryan Den\n",
+    "ua": "Повідаю я про те, як\nВирішили ми ризикнути\nНауково-фантастичний\nСюжет у гру впихнути.\nМайк сильно зайнятий був дітьми,\nА Раян - просто гад.\nГру ми робили без них\nП'ять місяців підряд. \nБабах! (удар грому)\nАле місто-Кузню довелось\nНам із гри забрати.\nФанати збрикнулись, а нам\nВсе заново писати!\nАле у графік вклались ми,\nІ сонячного дня\nМи - Раян, Ден, і татусь Майк,\nЖаднюга Дейв і старий Волт,\nДизайнер Ґреґ, і Марк, і Джен,\nпіднесли ми фанатам всім\nСяючий \"Клинок\"!\n\nВ ролях:\nПрофесор..................................Ґреґ Фултон\nМістер Хауел..............................Девід Ботан\nМісіс Хауел...........................Волтер Джонсон\nДжинджер................................Маркус Прегент\nМері-Ен.............................Дженіфер Булард\nШкіпер.....................................Майкл Вольф\nГіліган.....................................Раян Ден\n"
+  },
+  {
+    "var": "FOOL_M3_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "Whew!",
+    "ua": "Whew!"
+  },
+  {
+    "var": "FOOL_M3_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "This week has been pretty easy.  Hopefully the Pirates will leave you alone, but your luck hasn't been running on the good side lately.  After all, a three-hour tour turned into a constant battle for your very life.  At this point you're wondering exactly how much your life is worth.  To an Alchemist you would be worth about thirty-eight copper pieces.  Just enough to buy a cheap ale, a hunk of cheese and bread.  Shaking off the despondent thoughts you hope you're worth more to Queen Catherine.  A lot more.",
+    "ua": "Тиждень минув без особливих подій. Можливо, пірати і залишать вас у спокої, але якщо й так, щасливчиком вас назвати складно. Подумати тільки, починалося все з розважальної морської прогулянки, а в результаті ваше життя перетворилося на постійну боротьбу не на життя, а на смерть. Ви раптом замислилися, чи багато зараз коштує ваше життя. Алхімік би купив його за тридцять вісім мідних монет - вартість горнятка дешевого елю, шматка сиру і скибки хліба. Намагаючись звільнитися від сумних думок, ви плекаєте надію, що для королеви Катерини ви коштуєте більше. Набагато більше."
+  },
+  {
+    "var": "FOOL_M3_mapevent4_name",
+    "field": "map_mapevent4_name",
+    "en": "Those stupid teleporters",
+    "ua": "Those stupid teleporters"
+  },
+  {
+    "var": "FOOL_M3_mapevent4_mesg",
+    "field": "map_mapevent4_mesg",
+    "en": "Well it seems those stupid teleporters are making your life miserable.  With several unsuccessful attempts to destroy them you are beginning to wonder what you are going to do.  The Goblins and Goblin Raiders tried very hard to gnaw through one, but all that did was make the area a slimy mess.  The Ogres tried to bash one in with their clubs, but only succeeded in pounding some rocks.  At least you were able to use the ore.  The others you just gave up on.",
+    "ua": "Ці дурні телепорти зіпсували вам чимало крові. Ви пробували зруйнувати їх і так, і сяк. Гобліни намагалися прогризти в одному з них дірку, але лише забруднили його своїми слюнями. Огри хотіли забити другий телепорт кийками, але лише відбили від нього кілька шматочків руди. Руда - це, звичайно, добре, але от що ж робити з телепортами?"
+  },
+  {
+    "var": "FOOL_M3_mapevent5_name",
+    "field": "map_mapevent5_name",
+    "en": "Loser",
+    "ua": "Loser"
+  },
+  {
+    "var": "FOOL_M3_mapevent5_mesg",
+    "field": "map_mapevent5_mesg",
+    "en": "It looks like these pirates are serious. They will stop at nothing. You spot few of the enemy troops that look to be spying on you. They notice that you see them and they begin to panic. They all stand with their fingers and thumbs in the shape of an 'L on their foreheads. They chuckle and run off. You can only assume that that gesture is some kind of local greeting. You troops catch on quickly and they start saluting you the same way. They laugh every time they salute you with this gesture. You dismiss it as typical pond scum behavior that your troops so proudly live up to everyday.",
+    "ua": "Схоже, наміри піратів вельми серйозні. Сьогодні ви помітили кількох шпигунів з піратського табору. Коли вони зрозуміли, що виявлені, то відкопилили великі пальці і мізинці на руках у вигляді літери \"L\". Можливо, це якесь місцеве привітання. Ваші війська швидко перейняли цей жест, і стали салютувати вам тим же зразком, щоразу розв'язно сміючись при цьому. Що ж, для збіговиська недоумків розвага в самий раз."
+  },
+  {
+    "var": "FOOL_M3_mapevent6_name",
+    "field": "map_mapevent6_name",
+    "en": "You Cry",
+    "ua": "You Cry"
+  },
+  {
+    "var": "FOOL_M3_mapevent6_mesg",
+    "field": "map_mapevent6_mesg",
+    "en": "Finding about the enemy is of utmost importance. You try to convince the goblins of that.\n\"We need to know what the enemy has,\" you say.\n\"Already Do. Big pointy teeth, sharp claws. Big pointy weapons.\" replies one of the goblins.\n\"Yes, But how many?\" you ask patiently\n\"To many, sir.\" he answers matter of factly.\n\"I need a number,\" you respond.\n\"Okay. How 'bout six?\" he replies.\n\"Six what?\"\n\"Don't know sir. You're the one who asked for the number.\"\n\"I need a number of enemy troops.\"\n\"Okay. It's over six.\"\n\"No no no. I need the EXACT number!\"\n\"Of what?\"\n\"Of troops.\"\n\"Sir, You don't know how many troops you have?\"\n\"Of course I do.\"\n\"Then why do you need a number from me, sir?\"\n\"I need a number of the enemy troops.\"\n\"So go ask them, sir.\"\n\"That's what I want you to do you nit wit!\"\n\"Uuummmm...No.\"\n\"What?\"\n\"Sir, I'm going on my coffee break. You should've asked me fifteen minutes ago.\"\nAll of the goblins leave you standing alone. You stand there completely dumbfounded. In utter frustration you begin weeping.",
+    "ua": "Значність стратегічних даних про ворога не можна недооцінювати. Саме це ви намагаєтеся втовкмачити вашим гоблінам.\n\"Ви повинні дізнатися, що є у ворога\", - кажете ви.\n\"Це ми й так знаємо. Великі гострі зуби, гострі кігті. Великі гострі мечі.\" - відповідає один з гоблінів.\n\"Так, але скільки?\" - терпляче питаєте ви.\n\"Багато, сер\", - відповідає той, ніби нічого не сталося.\n\"Число ти можеш назвати?\" - уточнюєте ви.\n\"Добре. Як щодо шести? - відповідає він.\n- Шести чого?\n- Не знаю, сер. Ви просили число, я й назвав.\n- Я питав про кількість ворожих воїнів.\n- Гаразд. Їх більш ніж шестеро.\n- Та ні ж, мені потрібно ТОЧНЕ число!\n- Число чого?\n- Число воїнів.\n- Сер, ви що, не знаєте, скільки у вас воїнів?\n- Звичайно ж, знаю.\n- Тоді навіщо ви мене питаєте?\n- Я питаю тебе, скільки воїнів у ворога.\n- Так ви у них і запитаєте.\n- За цим-то я тебе й посилаю, тугодум ти такий!\n- Е-е-е... Ні.\n- Що?\n- Сер, у мене почалася обідня перерва. Вам треба було раніше мене попросити.\nГобліни йдуть, залишаючи вас в повній прострації. У відчаї ви починаєте плакати."
+  },
+  {
+    "var": "FOOL_M3_mapevent7_name",
+    "field": "map_mapevent7_name",
+    "en": "Grandma",
+    "ua": "Grandma"
+  },
+  {
+    "var": "FOOL_M3_mapevent7_mesg",
+    "field": "map_mapevent7_mesg",
+    "en": "You come across an old woman, and you greet her with \"Good day Grandmother.\" She stops, leaning heavily on her cane, squints, and says, \"Sonny? Where have you been? You never write or send a message. Even after the woolen socks I knitted for you last winter.\" She begins a tirade, berating you for neglecting her. You quickly give up trying to explain to her you aren't her grandson because with each utterance she whacks you over the head with her cane. After an hour she gets tired and demands you walk her home. You pay one of your troops fifty gold to see her home.",
+    "ua": "Зустрівши на дорозі стару жінку, ви вітаєте її: \"Здрастуйте, бабусю!\" Вона зупиняється, важко навалившись на тростину, примружується і каже: \"Онучок. Де ж ти був? Чом не пишеш, ніяких вісточок від тебе нема. Хоч би подякував за вовняні шкарпетки, що я тобі зв'язала минулої зими.\" Вона починає вичитувати вас за те, що ви зовсім забули її. Незабаром ви перестаєте навіть намагатися пояснити їй, що ви не її внук, оскільки при кожному слові отримуєте тростиною по маківці. Через годину вона, нарешті, вибивається з сил і просить відвести її додому. Один з ваших воїнів погоджується провести її - за півсотні золотих."
+  },
+  {
+    "var": "FOOL_M3_mapevent8_name",
+    "field": "map_mapevent8_name",
+    "en": "A young boy",
+    "ua": "A young boy"
+  },
+  {
+    "var": "FOOL_M3_mapevent8_mesg",
+    "field": "map_mapevent8_mesg",
+    "en": "A young boy about twelve years old mysteriously joins your camp one night. He says he is studying for a very important position in the queen's court. Refusing to say exactly what position you come to the conclusion he's probably trying to be a personal guard.\nWaking up to yelp of surprise and anger you jump out of bed and straight into a woolen blanket covered in honey. Seconds later you realize half the insects of the island had also fallen into the honey-wool blanket. On the ground you get free of the sticky wool only to stumble forth and fall again. The pile of hay was very soft, but is now sticking wildly from you. Screaming in terror, as you emerge from the tent is the cook, waving a skillet and a cast iron pot. She runs at you, screaming and flapping her arms like a great pink Walla Walla bird. You wake up a few minutes later with a skillet sized egg on your head, looking at your advisor who has dangling bits of tar paper and patches of beard missing. Surveying the camp you realize the position the boy is seeking - Court Jester.",
+    "ua": "Одного разу ввечері у вашому таборі таємничим чином з'являється хлопчина дванадцяти років. Він говорить, що збирається зайняти дуже важливу посаду при дворі королеви. Він не уточнює, що це за посада, але ви вирішуєте, що йдеться про місце охоронця.\nВранці вас будять гучні крики, в яких змішуються подив і злість. Схопившись з ліжка, ви потрапляєте прямо на вовняну ковдру, замазане медом. Через мить ви розумієте, що крім вас, до ковдри прилипла добра половина комах зі всього острова. Звільнившись від ковдри, ви відразу ж запинаєтеся і знову падаєте - цього разу, на купу сіна. Сіно пом'якшує падіння, але більша його частина прилипає до вашої сорочки, стирчить, як голки дикобраза. Вибравшись зі свого намету, ви натикаєтеся на кухарку. Та в жаху кричить, відмахуючись від вас сковорідкою, як козлодорський шаман від нечистої сили. Через кілька хвилин вас приводить в себе ваш радник. На голові у вас величезна ґуля розміром зі сковорідку. Радникові теж дісталося - його одяг вимазаний дьогтем, а з бороди видертий жмут. Оглядаючи руйнування, ви розумієте, що посада, яку збирався зайняти хлопчисько - придворний блазень."
+  }
+]

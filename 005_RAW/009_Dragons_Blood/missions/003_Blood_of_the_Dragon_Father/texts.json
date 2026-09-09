@@ -1,0 +1,392 @@
+[
+  {
+    "var": "BLOOD_M3_prolog",
+    "field": "wrapper_prolog",
+    "en": "Whoever gains the Vial of Dragon Blood and drinks the Blood of the Dragon Father with transform into a Sentient Dragon.  You MUST beat Ordwald to the Vial and defeat its guardians.  Nothing else matters.  Nothing!",
+    "ua": "Кожен, хто роздобуде Фіал драконячої крові і вип'є кров Отця Драконів, перетвориться на дракона. Ви ПОВИННІ знищити Орвальда і добути цей Фіал. За будь-яку ціну. Будь-яку!"
+  },
+  {
+    "var": "BLOOD_M3_epilog",
+    "field": "wrapper_epilog",
+    "en": "I have found Ordwald.  He is close to the vial, but his conservative actions and slow thinking leaves the way open for me to surpass him.  As much as I must worry about Ordwald, I must consider the vial.  Once I have passed him, there is the vial, and no doubt, it will have guardians... dragon guardians.",
+    "ua": "Будь-хто, хто роздобуде Фіал драконячої крові і вип'є кров Отця. Я відшукала Орвальда. Він підібрався зовсім близько до Фіалу, але я ще встигну його обійти. Він так передбачуваний, і розум його занадто повільний. Турбуватися варто не про нього, а про варту Фіала. Сторожових драконів."
+  },
+  {
+    "var": "BLOOD_M3_map_name",
+    "field": "map_map_name",
+    "en": "Blood of the Dragon Father",
+    "ua": "Кров Батька Драконів"
+  },
+  {
+    "var": "BLOOD_M3_map_desc",
+    "field": "map_map_desc",
+    "en": "Find the Vial of Dragon Blood before Ordwald or lose the race.  Also, losing the hero Mutare means instant destruction.  Mutare and two of her best heroes will be transferred to the next scenario, without level limitations.",
+    "ua": "Знайдіть Фіал драконячої крові до того, як це зробить Орвальд, інакше ви програєте гонку. Втрата героїні Мутар також означає негайний програш. Мутар і два її кращих героя перейдуть у наступний сценарій, їхній рівень необмежений."
+  },
+  {
+    "var": "BLOOD_M3_p1_hero_name",
+    "field": "map_p1_hero_name",
+    "en": "Ordwald",
+    "ua": "Орвальд"
+  },
+  {
+    "var": "BLOOD_M3_p1_owned_hero_name",
+    "field": "map_p1_owned_hero_name",
+    "en": "Ordwald",
+    "ua": "Орвальд"
+  },
+  {
+    "var": "BLOOD_M3_rumor0_name",
+    "field": "map_rumor0_name",
+    "en": "Rust Dragons",
+    "ua": "Rust Dragons"
+  },
+  {
+    "var": "BLOOD_M3_rumor0_desc",
+    "field": "map_rumor0_desc",
+    "en": "Supposedly somewhere in the Deep Caverns are a new type of Dragon called a Rust Dragon.  This dragon is supposed to be more powerful than a Black Dragon.",
+    "ua": "Кажуть, що десь у Глибоких печерах водяться дракони нового виду, звані іржавими. З чуток, ці дракони сильніші, ніж чорні."
+  },
+  {
+    "var": "BLOOD_M3_rumor1_name",
+    "field": "map_rumor1_name",
+    "en": "Crystal Dragon",
+    "ua": "Crystal Dragon"
+  },
+  {
+    "var": "BLOOD_M3_rumor1_desc",
+    "field": "map_rumor1_desc",
+    "en": "There is said to be a strange type of Dragon guarding a great treasure in the Deep Caverns.  The dragon is supposedly made of crystal.",
+    "ua": "Ходять чутки, що якийсь дивний дракон охороняє скарб в Глибоких печерах. Кажуть, цей дракон зроблений з кристалів."
+  },
+  {
+    "var": "BLOOD_M3_obj1373_hero_name",
+    "field": "map_obj1373_hero_name",
+    "en": "Ordwald",
+    "ua": "Орвальд"
+  },
+  {
+    "var": "BLOOD_M3_obj1373_hero_bio",
+    "field": "map_obj1373_hero_bio",
+    "en": "His father gave him a warrior's name, but Ordwald rejected the warrior's arts and turned to magic.  He is an old, but powerful, warlock in a land where lords almost never live long enough to grow old.",
+    "ua": "Його батько дав йому ім'я воїна, але Орвальд відмовився від військового мистецтва і звернувся до магії. Він досить могутній – старець-чаклун з країни, де лорди майже ніколи не доживають до старості."
+  },
+  {
+    "var": "BLOOD_M3_obj1425_guardian_mesg",
+    "field": "map_obj1425_guardian_mesg",
+    "en": "A group of returning scouts report Ordwald and his armies are near.  The scouts report Ordwald's main base camps are through the Subterranean Gate.  The Vial of Dragon Blood must be on the other side of the gate.",
+    "ua": "Група розвідників, що повернулася, повідомляє, що Орвальд і його армії близько. Розвідники донесли, що головні бази Орвальда знаходяться за підземними воротами. Фіал драконячої крові повинен бути з іншого боку воріт."
+  },
+  {
+    "var": "BLOOD_M3_obj1638_quest_proposal",
+    "field": "map_obj1638_quest_proposal",
+    "en": "The White Belted Knights of Erathia guard this tower.  They will only let one of their own pass.  To join the order, you must first defeat the Ghost Dragons of the northwestern underground region.",
+    "ua": "Лицарі Білого поясу з Ерафіі охороняють цю вежу. Вони пропустять тільки одного зі своїх. Щоб приєднатися до ордену, ви повинні спочатку перемогти примарних драконів у північно-західній частині підземелля."
+  },
+  {
+    "var": "BLOOD_M3_obj1638_quest_progress",
+    "field": "map_obj1638_quest_progress",
+    "en": "The White Belted Knights still will not let you pass, so you have not conquered the Ghost Dragons of the northwestern underground region.",
+    "ua": "Лицарі Білого поясу все ще не дозволяють вам пройти, оскільки ви не перемогли примарних драконів у північно-західній частині підземелля."
+  },
+  {
+    "var": "BLOOD_M3_obj1638_quest_completion",
+    "field": "map_obj1638_quest_completion",
+    "en": "News of your defeat of the Ghost Dragons of the northwestern underground region travelled quickly.  Do you wish to pass, newest of the White Belted Knighst?",
+    "ua": "Новина про вашу перемогу над примарними драконами в північно-західній частині підземелля поширилася швидко. Чи бажаєте ви пройти, новоспечений лицарю Білого поясу?"
+  },
+  {
+    "var": "BLOOD_M3_obj1648_quest_proposal",
+    "field": "map_obj1648_quest_proposal",
+    "en": "The Green Belted Knights of Erathia guard this tower.  They will only let one of their own pass.  To join the order, you must first defeat the Green Dragons of the northwestern underground region.",
+    "ua": "Лицарі Зеленого поясу з Ерафіі охороняють цю вежу. Вони пропустять тільки одного зі своїх. Щоб приєднатися до ордену, ви повинні спочатку перемогти зелених драконів у північно-західній частині підземелля."
+  },
+  {
+    "var": "BLOOD_M3_obj1648_quest_progress",
+    "field": "map_obj1648_quest_progress",
+    "en": "The Green Belted Knights still will not let you pass, so you have not conquered the Green Dragons of the northwestern underground region.",
+    "ua": "Лицарі Зеленого поясу все ще не дозволяють вам пройти, оскільки ви не перемогли зелених драконів у північно-західній частині підземелля."
+  },
+  {
+    "var": "BLOOD_M3_obj1648_quest_completion",
+    "field": "map_obj1648_quest_completion",
+    "en": "News of your defeat of the Green Dragons of the northwestern underground region travelled quickly.  Do you wish to pass, newest of the Green Belted Knights?",
+    "ua": "Новина про вашу перемогу над зеленими драконами в північно-західній частині підземелля поширилася швидко. Чи бажаєте ви пройти, новоспечений лицарю Зеленого поясу?"
+  },
+  {
+    "var": "BLOOD_M3_obj1662_quest_proposal",
+    "field": "map_obj1662_quest_proposal",
+    "en": "The Gold Belted Knights of Erathia guard this tower.  They will only let one of their own pass.  To join the order, you must first defeat the Gold Dragons of the northwestern underground region.",
+    "ua": "Лицарі Золотого поясу з Ерафіі охороняють цю вежу. Вони пропустять тільки одного зі своїх. Щоб приєднатися до ордену, ви повинні спочатку перемогти золотих драконів у північно-західній частині підземелля."
+  },
+  {
+    "var": "BLOOD_M3_obj1662_quest_progress",
+    "field": "map_obj1662_quest_progress",
+    "en": "The Gold Belted Knights still will not let you pass, so you have not conquered the Gold Dragons of the northwestern underground region.",
+    "ua": "Лицарі Золотого поясу все ще не дозволяють вам пройти, оскільки ви не перемогли золотих драконів у північно-західній частині підземелля."
+  },
+  {
+    "var": "BLOOD_M3_obj1662_quest_completion",
+    "field": "map_obj1662_quest_completion",
+    "en": "News of your defeat of the Gold Dragons of the northwestern underground region travelled quickly.  Do you wish to pass, newest of the Gold Belted Knight?",
+    "ua": "Новина про вашу перемогу над золотими драконами в північно-західній частині підземелля поширилася швидко. Чи бажаєте ви пройти, новоспечений лицарю Золотого поясу?"
+  },
+  {
+    "var": "BLOOD_M3_obj1665_quest_proposal",
+    "field": "map_obj1665_quest_proposal",
+    "en": "The Red Belted Knights of Erathia guard this tower.  They will only let one of their own pass.  To join the order, you must first defeat the Red Dragons of the northwestern underground region.",
+    "ua": "Лицарі Червоного поясу з Ерафіі охороняють цю вежу. Вони пропустять тільки одного зі своїх. Щоб приєднатися до ордену, ви повинні спочатку перемогти червоних драконів у північно-західній частині підземелля."
+  },
+  {
+    "var": "BLOOD_M3_obj1665_quest_progress",
+    "field": "map_obj1665_quest_progress",
+    "en": "The Red Belted Knights still will not let you pass, so you have not conquered the Red Dragons of the northwestern underground region.",
+    "ua": "Лицарі Червоного поясу все ще не дозволяють вам пройти, оскільки ви не перемогли червоних драконів у північно-західній частині підземелля."
+  },
+  {
+    "var": "BLOOD_M3_obj1665_quest_completion",
+    "field": "map_obj1665_quest_completion",
+    "en": "News of your defeat of the Red Dragons of the northwestern underground region travelled quickly.  Do you wish to pass, newest of the Red Belted Knights?",
+    "ua": "Новина про вашу перемогу над червоними драконами в північно-західній частині підземелля поширилася швидко. Чи бажаєте ви пройти, новоспечений лицарю Червоного поясу?"
+  },
+  {
+    "var": "BLOOD_M3_obj1668_quest_proposal",
+    "field": "map_obj1668_quest_proposal",
+    "en": "The Black Belted Knights of Erathia guard this tower.  They will only let one of their own pass.  To join the order, you must first defeat the Black Dragons of the northern underground region.",
+    "ua": "Лицарі Чорного поясу з Ерафіі охороняють цю вежу. Вони пропустять тільки одного зі своїх. Щоб приєднатися до ордену, ви повинні спочатку перемогти чорних драконів в північній частині підземелля."
+  },
+  {
+    "var": "BLOOD_M3_obj1668_quest_progress",
+    "field": "map_obj1668_quest_progress",
+    "en": "The Black Belted Knights still will not let you pass, so you have not conquered the Black Dragons of the northern underground region.",
+    "ua": "Лицарі Чорного поясу все ще не дозволяють вам пройти, оскільки ви не перемогли чорних драконів в північній частині підземелля."
+  },
+  {
+    "var": "BLOOD_M3_obj1668_quest_completion",
+    "field": "map_obj1668_quest_completion",
+    "en": "News of your defeat of the Black Dragons of the northern underground region travelled quickly.  Do you wish to pass, newest of the Black Belted Knights?",
+    "ua": "Новина про вашу перемогу над чорними драконами в північній частині підземелля поширилася швидко. Чи бажаєте ви пройти, новоспечений лицарю Чорного поясу?"
+  },
+  {
+    "var": "BLOOD_M3_obj1670_quest_proposal",
+    "field": "map_obj1670_quest_proposal",
+    "en": "Evil spirits guard this tower.  They will only let you pass if you defeat the Faerie Dragons of the northwestern underground region.",
+    "ua": "Злі духи охороняють цю вежу. Вони дозволять вам пройти, тільки якщо ви переможете казкових драконів у північно-західній частині підземелля."
+  },
+  {
+    "var": "BLOOD_M3_obj1670_quest_progress",
+    "field": "map_obj1670_quest_progress",
+    "en": "You may not pass until you defeat the Faerie Dragons of the northwestern underground region.",
+    "ua": "Ви не пройдете, поки не переможете казкових драконів у північно-західній частині підземелля."
+  },
+  {
+    "var": "BLOOD_M3_obj1670_quest_completion",
+    "field": "map_obj1670_quest_completion",
+    "en": "A bargain is a bargain.  Do you wish to pass?",
+    "ua": "Угода є угода. Бажаєте пройти?"
+  },
+  {
+    "var": "BLOOD_M3_obj1673_quest_proposal",
+    "field": "map_obj1673_quest_proposal",
+    "en": "Monsters with blood dripping from their eyes guard this tower.  They will only let pass the one who defeats the Rust Dragons of the northern underground region.",
+    "ua": "Монстри з очима, з яких тече кров, охороняють цю вежу. Вони дозволять пройти тільки тому, хто переможе іржавих драконів в північній частині підземелля."
+  },
+  {
+    "var": "BLOOD_M3_obj1673_quest_progress",
+    "field": "map_obj1673_quest_progress",
+    "en": "You may not pass.  Go defeat the Rust Dragons of the northern underground region to pass.",
+    "ua": "«Ти не пройдеш. Переможи іржавих драконів в північній частині підземелля, і ми дозволимо тобі пройти»."
+  },
+  {
+    "var": "BLOOD_M3_obj1673_quest_completion",
+    "field": "map_obj1673_quest_completion",
+    "en": "Word of your defeat of the Rust Dragons traveled quickly.  Do you wish to pass now?",
+    "ua": "Слух про твою перемогу над іржавими драконами рознісся швидко. Ти хочеш пройти зараз?"
+  },
+  {
+    "var": "BLOOD_M3_obj1734_guardian_mesg",
+    "field": "map_obj1734_guardian_mesg",
+    "en": "The caverns here seem to have grown around an ancient ornate box.",
+    "ua": "Схоже, що тутешня печера утворилася навколо древнього, дорого прикрашеного ящика."
+  },
+  {
+    "var": "BLOOD_M3_obj1735_quest_proposal",
+    "field": "map_obj1735_quest_proposal",
+    "en": "The spirits of legendary knights guard this tower.  They will only let pass one who is worthy.  To prove your worth, you must first defeat the Crystal Dragons of the northern underground region.",
+    "ua": "Духи легендарних лицарів охороняють цю вежу. Вони пропустять лише того, хто гідний. Щоб довести, що ви гідні, потрібно перемогти кристальних драконів в у північній частині підземелля."
+  },
+  {
+    "var": "BLOOD_M3_obj1735_quest_progress",
+    "field": "map_obj1735_quest_progress",
+    "en": "You have not yet proved your worth.  Go defeat the Crystal Dragons of the northern underground region.  Only then may you pass.",
+    "ua": "«Ти ще не довела, що гідна. Іди, переможи кристальних драконів у північній частині підземелля. Тільки тоді ти зможеш пройти»."
+  },
+  {
+    "var": "BLOOD_M3_obj1735_quest_completion",
+    "field": "map_obj1735_quest_completion",
+    "en": "We have received word of the defeat of the Crystal Dragons.  Kindred spirit, do you wish to pass?",
+    "ua": "«Ми отримали звістку про твою перемогу над кристальними драконами. О, близька нам душа, чи хочеш ти пройти?»"
+  },
+  {
+    "var": "BLOOD_M3_obj2235_guardian_mesg",
+    "field": "map_obj2235_guardian_mesg",
+    "en": "War Diary:  Some of my scouts report they have discovered strange types of Dragons.  I'll have to see if I can recruit some for myself, when this campaign is over.",
+    "ua": "Військовий щоденник: Кілька моїх розвідників повідомляють, що вони виявили дивні породи драконів. Треба буде з'ясувати, чи не можна їх найняти до себе на службу, коли ця кампанія закінчиться."
+  },
+  {
+    "var": "BLOOD_M3_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Intro",
+    "ua": "Intro"
+  },
+  {
+    "var": "BLOOD_M3_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "I always thought I would be a powerful noble one day.  Taking Rauric's Lands was only the first step.  But I thought it wouldn't be possible 'til I was old, like 26 or 27.  The Vial changes all my calculations.  Whoever transforms into the Dragon will be able to muscle into the highest ranks of Nighon nobility.",
+    "ua": "Я завжди знала, що одного прекрасного дня я стану могутньою аристократкою. Захоплення земель Роріка був лише першим кроком. Але я вважала, що досягну цього років до 26 або 27, ніяк не раніше. Фіал змінив всі мої розрахунки. Той, хто перетвориться на дракона, зможе пробитися у вищі кола ніґонської аристократії."
+  },
+  {
+    "var": "BLOOD_M3_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Intro (cont)",
+    "ua": "Intro (cont)"
+  },
+  {
+    "var": "BLOOD_M3_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "General Miah will take command of the troops in my old staging area (and new castles) near the access to the Deep Caverns.  He should be able to make things tough on any Lords trying to follow me, by raiding them, killing their scouts, laying false trails and stomping any overly bold Lords.  Meanwhile I'll take a small force and setup a camp in the Deep Caverns near where my scouts saw some of Ordwald's troops.  A small force should be able to slip in without being noticed by anyone.",
+    "ua": "Генерал Травень візьме командування військами в моїй колишній зоні розташування (і новими замками) біля проходу в Глибокі печери. Сподіваюся, він змусить попотіти лордів, що намагаються піти за мною - здійснюючи нальоти на них, вбиваючи їх розвідників, спрямовуючи по помилковому сліду і залякуючи найзнахабніліших. Між тим, я візьму невелику армію і розіб'ю табір у Глибоких печерах недалеко від того місця, де мої розвідники бачили солдатів Орвальда. Маленька група повинна прослизнути туди непоміченою."
+  },
+  {
+    "var": "BLOOD_M3_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Scouting Report 1st Castle",
+    "ua": "Scouting Report 1st Castle"
+  },
+  {
+    "var": "BLOOD_M3_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "War Diary:  Today some of my scouts reported Ordwald's troops hold a castle to the West.  They are flying a blue banner.  They say there are four passages leading to the castle.  Wild monsters block each passage.  The scouts don't believe my forces have been spotted yet.",
+    "ua": "Військовий щоденник: Сьогодні кілька моїх розвідників доповіли про те, що війська Орвальда утримують замок на заході. Вони виступають під блакитним прапором. Кажуть, до замку ведуть чотири дороги. Кожну з них вартують дикі монстри. Розвідники вважають, що моя армія досі не помічена."
+  },
+  {
+    "var": "BLOOD_M3_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "Campaign Journal 1",
+    "ua": "Campaign Journal 1"
+  },
+  {
+    "var": "BLOOD_M3_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "War Diary:  I imagine Ordwald's troops near here are picket or screening troops.  As soon as I take them out he'll know I'm in the Deep Caverns.  Getting the Vial first is why I'm here, but I don't think Ordwald is going to let me walk up and take it without a fight.",
+    "ua": "Військовий щоденник: Я вважаю, що війська Орвальда тут - не більше ніж застава чи відволікаючий загін. Як тільки я нападу на них, він дізнається, що я перебуваю в Глибоких печерах. Головна моя мета тут - це Фіал, але я не думаю, що Орвальд дозволить мені просто прийти і взяти його без бою."
+  },
+  {
+    "var": "BLOOD_M3_mapevent4_name",
+    "field": "map_mapevent4_name",
+    "en": "Scout Report River",
+    "ua": "Scout Report River"
+  },
+  {
+    "var": "BLOOD_M3_mapevent4_mesg",
+    "field": "map_mapevent4_mesg",
+    "en": "War Diary:  Today my scouts reported that further on to the west past the first enemy castle and a border guard is an underground river.  The river appears to be the only exit from these series of caverns.  My Master of Scouts is convinced Ordwald's armies passed through here about 6 to 8 months ago.",
+    "ua": "Військовий щоденник: Сьогодні мої розвідники повідомили, що далі на захід, за першим ворожим замком і Вартовим кордону знаходиться підземна річка. Схоже, ця річка - єдиний вихід з цієї системи печер. Мій начальник розвідки переконаний, що війська Орвальда проходили тут близько 6-8 місяців тому."
+  },
+  {
+    "var": "BLOOD_M3_mapevent5_name",
+    "field": "map_mapevent5_name",
+    "en": "Campaign Journal 2",
+    "ua": "Campaign Journal 2"
+  },
+  {
+    "var": "BLOOD_M3_mapevent5_mesg",
+    "field": "map_mapevent5_mesg",
+    "en": "War Diary:  I talked to the castle's Barkeep the other day.  After tossing him a few gold and tickling him under his chin with my dagger, he told me an interesting story.  Apparently there are rumors of a new type of dragon called a \"Fay\" or \"Faerie\" Dragon.  They apparently have the soul of a leprechaun ",
+    "ua": "Військовий щоденник: Днями я мала розмову з місцевим шинкарем. Після того, як я кинула йому кілька монет і полоскотала під підборіддям кинджалом, він розповів мені цікаву історію. Тут виразно ходять чутки про нову породу драконів, званих \"чарівними\", або \"казковими\", драконами. Кажуть, у них душа лепрекона."
+  },
+  {
+    "var": "BLOOD_M3_mapevent6_name",
+    "field": "map_mapevent6_name",
+    "en": "Campaign Journal 2 (cont) ",
+    "ua": "Campaign Journal 2 (cont) "
+  },
+  {
+    "var": "BLOOD_M3_mapevent6_mesg",
+    "field": "map_mapevent6_mesg",
+    "en": "and the power of a normal dragon.  I was fascinated.  I love my Red and Black Dragons and even the Green and Gold ones respond well to me (too bad they live in the Bright Lands).  I wonder if my affinity would work with these Fairy Dragons?",
+    "ua": "І сила звичайного дракона. Я була зачарована. Я люблю своїх червоних і чорних драконів, і навіть з зеленими і золотими у мене хороші стосунки (як шкода, що вони живуть на поверхні). Цікаво, чи почують в мені споріднену душу ці «казкові» дракони?"
+  },
+  {
+    "var": "BLOOD_M3_mapevent7_name",
+    "field": "map_mapevent7_name",
+    "en": "Campaign Journal 3",
+    "ua": "Campaign Journal 3"
+  },
+  {
+    "var": "BLOOD_M3_mapevent7_mesg",
+    "field": "map_mapevent7_mesg",
+    "en": "War Diary:  Certain resources seem scarce in this part of the Deep Caverns.  I haven't been able to locate any Gem or Crystal mines.  No sulfur dunes either, but at least the dungeon castles have resource silos.  I hate having to deal with Merchants.  I'd kill them all, but then who would trade with me?",
+    "ua": "Військовий щоденник: Схоже, в цій частині Глибоких печер не вистачає деяких ресурсів. Я не змогла досі знайти ні самоцвітних, ні кристальних шахт. Немає і сірчаних покладів, але це, принаймні, компенсується сховищами ресурсів у замках-підземеллях. Ненавиджу мати справу з торговцями. Я б їх усіх вбила, та хто буде тоді торгувати зі мною?"
+  },
+  {
+    "var": "BLOOD_M3_mapevent8_name",
+    "field": "map_mapevent8_name",
+    "en": "Campaign Journal 4",
+    "ua": "Campaign Journal 4"
+  },
+  {
+    "var": "BLOOD_M3_mapevent8_mesg",
+    "field": "map_mapevent8_mesg",
+    "en": "War Diary:  I've been thinking about the magical plain areas containing trees and other Bright Land things.  I wonder if I could relocate some Green or Gold Dragons into those areas.  It would be some consolation for these areas' hideous green color.  Plants should be brown not green.",
+    "ua": "Військовий щоденник: Я ось все думаю щодо чарівних рівнин, з деревами та іншими штуками з поверхні. Цікаво, чи не вдасться мені відшукати там парочку зелених або золотих драконів. Це могло б примирити мене з протиприродною зеленню цих рівнин. Рослини повинні бути бурими, а не зеленими."
+  },
+  {
+    "var": "BLOOD_M3_mapevent9_name",
+    "field": "map_mapevent9_name",
+    "en": "Campaign Journal 5",
+    "ua": "Campaign Journal 5"
+  },
+  {
+    "var": "BLOOD_M3_mapevent9_mesg",
+    "field": "map_mapevent9_mesg",
+    "en": "War Diary:  I have to wonder if the Father of All Dragons may have once lived in the Deep Caverns.  That would be a worthy quest - finding the Father of Dragons.  I think he might still live, maybe sleeping through the eons.  It could be something I do when I get old.",
+    "ua": "Військовий щоденник: Я волею-неволею починаю шукати відповіді на запитання, чи не жив колись давно Батько усіх Драконів в Глибоких печерах. Ось була б достойна місія - знайти Отця драконів. Я думаю, він може бути досі живий - можливо, він просто спить уже кілька століть. Непогано було б зайнятися цим на схилі років."
+  },
+  {
+    "var": "BLOOD_M3_mapevent10_name",
+    "field": "map_mapevent10_name",
+    "en": "Campaign Journal 6",
+    "ua": "Campaign Journal 6"
+  },
+  {
+    "var": "BLOOD_M3_mapevent10_mesg",
+    "field": "map_mapevent10_mesg",
+    "en": "War Diary:  Good commanders have to plan for all the things that might happen.  That way whatever happens, you can still win or at least survive your defeat.  Rauric did not understand that.  Which is why I killed him so easily and took his lands.  If Ordwald gets the Vial first, I may be forced to flee Nighon.",
+    "ua": "Військовий щоденник: Хороший воєначальник зобов'язаний мати план на всі випадки життя. Тоді, що б не сталося, ти зможеш перемогти або хоча б пережити поразку. Рорік цього так і не зрозумів. Ось чому я так легко вбила його і захопила його землі. Якщо Орвальд добереться до Фіала першим, мені, можливо, доведеться тікати з Ніґона."
+  },
+  {
+    "var": "BLOOD_M3_mapevent11_name",
+    "field": "map_mapevent11_name",
+    "en": "Campaign Journal 7",
+    "ua": "Campaign Journal 7"
+  },
+  {
+    "var": "BLOOD_M3_mapevent11_mesg",
+    "field": "map_mapevent11_mesg",
+    "en": "War Diary:  Miah sent a message that three powerful Nighon Lords are heading for the Borderlands.  Apparently, they have heard about the Vial.  I can't win if I get caught between them and Ordwald, unless I have the Vial.  Still, it will take time for them to find the way down here and find me.",
+    "ua": "Військовий щоденник: Травень надіслав повідомлення, що три могутні лорди Ніґона направляються до Прикордонних земель. Очевидно, вони почули про Фіал. Я не зможу перемогти, затиснута між ними й Орвальдом - якщо у мене Фіалу не буде. Однак у них піде якийсь час на те, щоб знайти шлях сюди і вистежити мене."
+  },
+  {
+    "var": "BLOOD_M3_mapevent12_name",
+    "field": "map_mapevent12_name",
+    "en": "Scout report prison",
+    "ua": "Scout report prison"
+  },
+  {
+    "var": "BLOOD_M3_mapevent12_mesg",
+    "field": "map_mapevent12_mesg",
+    "en": "War Diary:  My scouts found a prison along the river today.  A warlock named Alamar is imprisoned there.  He is willing to join the side of anyone who frees him.  He says he will also contribute his Endless Bag of Gold to his rescuer.",
+    "ua": "Військовий щоденник: Мої розвідники виявили сьогодні в'язницю на березі річки. Там ув'язнений чорнокнижник на ім'я Аламар. Він буде з радістю служити будь-кому, хто звільнить його. До того ж він обіцяє пожалувати своєму рятівнику бездонну торбу золота."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "var": "MINEEVNT_1",
+    "en": "\"{Sawmill}\n\nYou gain control of a Sawmill. It will provide you with two units of wood per day.\"",
+    "ua": "\"{Лісопилка}\n\nВи заволоділи Лісопилкою. Вона буде постачати вам 2 одиниці дерева щодня.\""
+  },
+  {
+    "var": "MINEEVNT_2",
+    "en": "\"{Alchemist Lab}\n\nYou gain control of an Alchemist Lab. It will provide you with one unit of mercury per day.\"",
+    "ua": "\"{Лабораторія алхіміка}\n\nВи заволоділи Лабораторією алхіміка. Вона буде постачати вам 1 одиницю ртуті щодня.\""
+  },
+  {
+    "var": "MINEEVNT_3",
+    "en": "\"{Ore Pit}\n\nYou gain control of an Ore Pit. It will provide you with two units of ore per day.\"",
+    "ua": "\"{Рудна шахта}\n\nВи заволоділи Рудною шахтою. Вона буде постачати вам 2 одиниці руди щоденно.\""
+  },
+  {
+    "var": "MINEEVNT_4",
+    "en": "\"{Sulfur Dune}\n\nYou gain control of a Sulfur Dune. It will provide you with one unit of sulfur per day.\"",
+    "ua": "\"{Сірчаний кар'єр}\n\nВи заволоділи Сірчаним кар'єром. Він буде постачати вам 1 одиницю сірки щоденно.\""
+  },
+  {
+    "var": "MINEEVNT_5",
+    "en": "\"{Crystal Cavern}\n\nYou gain control of a Crystal Cavern. It will provide you with one unit of crystal per day.\"",
+    "ua": "\"{Кришталева печера}\n\nВи заволоділи Кришталевою печерою. Вона буде постачати вам 1 одиницю кристалів щоденно.\""
+  },
+  {
+    "var": "MINEEVNT_6",
+    "en": "\"{Gem Pond}\n\nYou gain control of a Gem Pond. It will provide you with one unit of gems per day.\"",
+    "ua": "\"{Розсипи самоцвітів}\n\nВи заволоділи Розсипами самоцвітів. Вони будуть постачати вам 1 одиницю самоцвітів щоденно.\""
+  },
+  {
+    "var": "MINEEVNT_7",
+    "en": "\"{Gold Mine}\n\nYou gain control of a Gold Mine. It will provide you with 1000 gold per day.\"",
+    "ua": "\"{Золота шахта}\n\nВи заволоділи Золотою шахтою. Вона буде постачати вам 1000 золотих щоденно.\""
+  },
+  {
+    "var": "MINEEVNT_8",
+    "en": "\"{Abandoned Mine}\n\nYou gain control of an Abandoned Gold Mine. It will provide you with 1000 gold per day.\"",
+    "ua": "\"{Закинута шахта}\n\nВи заволоділи Закинутою шахтою. Вона буде постачати вам 1000 золотих щоденно.\""
+  }
+]

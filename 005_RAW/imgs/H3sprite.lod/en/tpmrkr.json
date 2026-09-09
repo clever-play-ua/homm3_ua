@@ -1,0 +1,15 @@
+{
+  "sequences": [
+    {
+      "group": 0,
+      "frames": [
+        "tpmrkr.dir\\00_00.png",
+        "tpmrkr.dir\\00_01.png",
+        "tpmrkr.dir\\00_02.png",
+        "tpmrkr.dir\\00_03.png"
+      ]
+    }
+  ],
+  "type": 71,
+  "format": 1
+}

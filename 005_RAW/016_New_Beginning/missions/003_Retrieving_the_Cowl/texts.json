@@ -1,0 +1,314 @@
+[
+  {
+    "var": "GEM_M3_prolog",
+    "field": "wrapper_prolog",
+    "en": "Terek, Sandro's agent, managed to steal a Vampire's Cowl.  Unfortunately, on his way across the Border Lands bandits captured him.  You must ransom Terek and obtain the Cowl.",
+    "ua": "Тарек, агент Сандро, повинен був викрасти Плащ вампіра. На нещастя, його захопили бандити. Ви повинні викупити Тарека і дістати Плащ."
+  },
+  {
+    "var": "GEM_M3_epilog",
+    "field": "wrapper_epilog",
+    "en": "When I delivered the Amulet of the Undertaker to Sandro, he told me he had also hired a Barbarian named Tarek to locate another artifact, The Vampire's Cowl.  However, Tarek is long overdue and Sandro fears for his life.  From what I can see, bandits have captured Tarek and are holding him for ransom in an underground prison near the Deyja border.",
+    "ua": "Коли я принесла Сандро Амулет некроманта, він розповів мені, що інший його помічник, варвар на ім'я Тарек, повинен був знайти для нього ще один артефакт - Плащ Вампіра. Але від Тарека вже давно немає звісток, і Сандро побоюється за його життя. Чари розповіли мені, що Тарека захопили розбійники і тримають в очікуванні викупу в підземній темниці недалеко від кордонів Деї."
+  },
+  {
+    "var": "GEM_M3_map_name",
+    "field": "map_map_name",
+    "en": "Retrieving the Cowl",
+    "ua": "Плащ вампіра"
+  },
+  {
+    "var": "GEM_M3_map_desc",
+    "field": "map_map_desc",
+    "en": "Bring the Vampire's Cowl to the town of Leafhall to win the scenario.  However, if Gem or Clancy are defeated in combat or you lose the Cowl, the scenario is lost.  Your heroes are limited to level 20, but Gem and Clancy will carry their experience, skills and spells on to the next scenario.",
+    "ua": "Щоб виграти у цьому сценарії, ви повинні доставити Плащ вампіра в місто Ліфхол. Якщо Ґем або Кленсі впадуть в битві, а також якщо ви втратите Плащ, ви програли. Всі герої обмежені 20 рівнем, проте досвід, первинні та вторинні навички і Чарівні книги Ґем і Кленсі перейдуть у наступний сценарій."
+  },
+  {
+    "var": "GEM_M3_obj0_town_name",
+    "field": "map_obj0_town_name",
+    "en": "Leafhall",
+    "ua": "Ліфхол"
+  },
+  {
+    "var": "GEM_M3_obj1_event_name",
+    "field": "map_obj1_event_name",
+    "en": "Extra Income",
+    "ua": "Extra Income"
+  },
+  {
+    "var": "GEM_M3_obj337_event_name",
+    "field": "map_obj337_event_name",
+    "en": "Extra Creatures",
+    "ua": "Extra Creatures"
+  },
+  {
+    "var": "GEM_M3_obj337_event_name",
+    "field": "map_obj337_event_name",
+    "en": "Extra Income",
+    "ua": "Extra Creatures"
+  },
+  {
+    "var": "GEM_M3_obj337_event_name",
+    "field": "map_obj337_event_name",
+    "en": "1 time Bonus Income",
+    "ua": "Extra Creatures"
+  },
+  {
+    "var": "GEM_M3_obj337_event_name",
+    "field": "map_obj337_event_name",
+    "en": "Build Townhall",
+    "ua": "Extra Creatures"
+  },
+  {
+    "var": "GEM_M3_obj483_event_name",
+    "field": "map_obj483_event_name",
+    "en": "Extra Income",
+    "ua": "Extra Income"
+  },
+  {
+    "var": "GEM_M3_obj956_event_name",
+    "field": "map_obj956_event_name",
+    "en": "Extra Creatures",
+    "ua": "Extra Creatures"
+  },
+  {
+    "var": "GEM_M3_obj956_event_name",
+    "field": "map_obj956_event_name",
+    "en": "Extra Income",
+    "ua": "Extra Creatures"
+  },
+  {
+    "var": "GEM_M3_obj956_event_name",
+    "field": "map_obj956_event_name",
+    "en": "1 time Bonus Income",
+    "ua": "Extra Creatures"
+  },
+  {
+    "var": "GEM_M3_obj956_event_name",
+    "field": "map_obj956_event_name",
+    "en": "Build Townhall",
+    "ua": "Extra Creatures"
+  },
+  {
+    "var": "GEM_M3_obj1138_quest_proposal",
+    "field": "map_obj1138_quest_proposal",
+    "en": "A group of bandits man this tower.  They say, \"If you want Terek and his equipment, you have to pay his ransom of 40,000 gold.\"",
+    "ua": "У вежі окопалася зграя бандитів. Вони кажуть: «Якщо хочете отримати Терека і його спорядження, платите викуп в 40 тисяч золотих.»"
+  },
+  {
+    "var": "GEM_M3_obj1138_quest_progress",
+    "field": "map_obj1138_quest_progress",
+    "en": "No 40,000 gold, no Terek.",
+    "ua": "Нема 40000 золотом – нема Терека."
+  },
+  {
+    "var": "GEM_M3_obj1138_quest_completion",
+    "field": "map_obj1138_quest_completion",
+    "en": "Terek is in the prison north of here.  His ransom is 40,000 Gold.  Do you wish to pay the ransom?",
+    "ua": "Терек знаходиться у в'язниці на північ звідси. За нього вимагають викуп в 40 тисяч золотом. Ви готові заплатити викуп?"
+  },
+  {
+    "var": "GEM_M3_obj1241_guardian_mesg",
+    "field": "map_obj1241_guardian_mesg",
+    "en": "A group of Medusa is gathered around the artifact.  Do you wish to attack?",
+    "ua": "Артефакт оточує група медуз. Хочете атакувати?"
+  },
+  {
+    "var": "GEM_M3_obj1242_guardian_mesg",
+    "field": "map_obj1242_guardian_mesg",
+    "en": "A flock of Harpies are roosting above the artifact.  Do you wish to attack them?",
+    "ua": "Над артефактом розсілася зграя гарпій. Хочете атакувати їх?"
+  },
+  {
+    "var": "GEM_M3_obj1244_guardian_mesg",
+    "field": "map_obj1244_guardian_mesg",
+    "en": "A garden of statues warns of the temper of the Medusas guarding this artifact.  Do you wish to engage them?",
+    "ua": "Сад скульптур дає уявлення про те, який характер медуз, що захищають цей артефакт. Хочете напасти на них?"
+  },
+  {
+    "var": "GEM_M3_obj1245_guardian_mesg",
+    "field": "map_obj1245_guardian_mesg",
+    "en": "Lots of Minotaurs and Manticores guard this artifact.  Do you wish to take the artifact from them by force of arms?",
+    "ua": "Цей артефакт охороняє безліч мінотаврів та мантикор. Хочете забрати його у них силою?"
+  },
+  {
+    "var": "GEM_M3_obj1246_guardian_mesg",
+    "field": "map_obj1246_guardian_mesg",
+    "en": "Lots of Beholders possessively guard this artifact.  Do you wish to attack?",
+    "ua": "Безліч бехолдерів люто захищає цей артефакт. Хочете атакувати?"
+  },
+  {
+    "var": "GEM_M3_obj1247_guardian_mesg",
+    "field": "map_obj1247_guardian_mesg",
+    "en": "A flock of Harpies are roosting above the artifact.  Do you wish to attack them?",
+    "ua": "Над артефактом розсілася зграя гарпій. Хочете атакувати їх?"
+  },
+  {
+    "var": "GEM_M3_obj1248_guardian_mesg",
+    "field": "map_obj1248_guardian_mesg",
+    "en": "A group of Medusa surrounds this artifact.  Do you wish to attack?",
+    "ua": "Навколо артефакту група медуз. Є бажання атакувати?"
+  },
+  {
+    "var": "GEM_M3_obj1249_guardian_mesg",
+    "field": "map_obj1249_guardian_mesg",
+    "en": "Lots of Minotaurs and Manticores guard this artifact.  Do you wish to take the artifact from them by force of arms?",
+    "ua": "Цей артефакт охороняє безліч мінотаврів та Мантикор. Хочете забрати його у них силою?"
+  },
+  {
+    "var": "GEM_M3_obj1250_guardian_mesg",
+    "field": "map_obj1250_guardian_mesg",
+    "en": "A group of Medusa is gathered around the artifact.  Do you wish to attack?",
+    "ua": "Артефакт оточує група медуз. Хочете атакувати?"
+  },
+  {
+    "var": "GEM_M3_obj1251_guardian_mesg",
+    "field": "map_obj1251_guardian_mesg",
+    "en": "A flock of Harpies are roosting above the artifact.  Do you wish to attack them?",
+    "ua": "Над артефактом розсілася зграя гарпій. Хочете атакувати їх?"
+  },
+  {
+    "var": "GEM_M3_obj1252_guardian_mesg",
+    "field": "map_obj1252_guardian_mesg",
+    "en": "Lots of Minotaurs and Manticores guard this artifact.  Do you wish to take the artifact from them by force of arms?",
+    "ua": "Цей артефакт охороняє безліч мінотаврів та мантикор. Хочете забрати його у них силою?"
+  },
+  {
+    "var": "GEM_M3_obj1253_guardian_mesg",
+    "field": "map_obj1253_guardian_mesg",
+    "en": "Lots of sleeping Dragons surround this Relic.  Do you wish to challenge them for the artifact?",
+    "ua": "Навколо реліквії спить безліч драконів. Хочете боротися з ними?"
+  },
+  {
+    "var": "GEM_M3_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Intro",
+    "ua": "Intro"
+  },
+  {
+    "var": "GEM_M3_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "A Barbarian named Terek has located the Vampire's Cowl for Sandro.  Unfortunately, Bandits in the Contested Lands captured Terek on his way back from Deyja.   Terek convinced the bandits that his friends would pay handsomely for his return with his possessions intact.\n\nMy scrying has shown he is being held in an underground prison near the Deyjan border.",
+    "ua": "Варвар на ім'я Терек на прохання Сандро з'ясував, де знаходиться Плащ вампіра. На нещастя, бандити зі Спірних земель захопили Терека, коли він повертався з Деї. Терек переконав бандитів, що його друзі заплатять хороший викуп, якщо його повернуть, не чіпаючи його майна.\nУ магічному кристалі я побачила, що його тримають в підземній в'язниці біля кордону з Деєю."
+  },
+  {
+    "var": "GEM_M3_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Scouting Report Rampart Towns",
+    "ua": "Scouting Report Rampart Towns"
+  },
+  {
+    "var": "GEM_M3_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "A scouting party has located a neutral Rampart town to the north east of our starting base of operations.",
+    "ua": "Загін розвідників виявив на північному сході від нашої ставки нейтральне лісове місто."
+  },
+  {
+    "var": "GEM_M3_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Scouting Report Border Lord",
+    "ua": "Scouting Report Border Lord"
+  },
+  {
+    "var": "GEM_M3_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "Apparently I made an impression on the Deyjan Border Lords.  My Elven scouts report the nearest Border Lord seems to be raising an army to challenge our presence near the border.  They suspect a Vampire Scout spotted us when we moved into this area of the Contested Lands.",
+    "ua": "Мабуть, я справила враження на повелителів земель, що межують з Деєю. Мої розвідники-ельфи доносять, що володар найближчої до кордону землі збирає армію, щоб змусити нас відступити від кордону. Вони вважають, що розвідник-вампір помітив нас, коли ми вступили в цю область Спірних земель."
+  },
+  {
+    "var": "GEM_M3_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "Intro (cont)",
+    "ua": "Intro (cont)"
+  },
+  {
+    "var": "GEM_M3_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "I also received some good news today.  Clancy obtained permission from his Lord to help me find the other two artifacts.  Lord Fayette said it was all right with him as long as we didn't invade AvLee.  I believe the last part was a joke.",
+    "ua": "Сьогодні були і хороші новини. Кленсі отримав дозвіл свого пана допомогти мені у пошуках двох інших артефактів. Лорд Файет сказав, що він не проти, якщо тільки ми не будемо вторгуватися в Ав-Лі. Я думаю, остання умова - просто жарт."
+  },
+  {
+    "var": "GEM_M3_mapevent4_name",
+    "field": "map_mapevent4_name",
+    "en": "Another Harvested Village",
+    "ua": "Another Harvested Village"
+  },
+  {
+    "var": "GEM_M3_mapevent4_mesg",
+    "field": "map_mapevent4_mesg",
+    "en": "Today we rode through another small hamlet that had been \"harvested\" by a Necromancer about a month ago.  I buried what was left of the children's bodies.  There weren't any adults; they had all been raised as skeletons, I'm sure.\n\nI feel so old and tired and angry and unsettled when I see this type of thing.  I don't see how Erathia is going to retain the Contested Lands if they can't protect their people from this horror.",
+    "ua": "Сьогодні ми проїжджали ще через одне село, в якому некромант зібрав свої «жнива» з місяць тому. Я поховала те, що залишилося від дитячих тіл. Жодного дорослого там не було, я впевнена, що всіх їх пробудили, перетворивши на скелетів.\nЯ відчуваю себе такою старою, втомленою, злою і нещасною, коли бачу такі речі! Не розумію, як Ерафія збирається утримати ці землі, якщо вона не в змозі захистити свій народ від цього жаху."
+  },
+  {
+    "var": "GEM_M3_mapevent5_name",
+    "field": "map_mapevent5_name",
+    "en": "Sorting it out",
+    "ua": "Sorting it out"
+  },
+  {
+    "var": "GEM_M3_mapevent5_mesg",
+    "field": "map_mapevent5_mesg",
+    "en": "I was thinking about... things today.  Sometimes I just refuse to think about certain things, but it hurts too much, and, besides, I feel more settled now.  I don't think it's wrong to hate the Hateful or not forgive the Unforgivable.  What I think is wrong is to let that hating and unforgiving turn a person into the thing they hate or won't forgive.  I won't make that mistake again.  I won't be like them.",
+    "ua": "Сьогодні я роздумувала про різні речі... Буває, що я просто відмовляюся думати про щось, але зараз це дуже обтяжує мене і, крім того, я відчуваю, що змогла заспокоїтися. Я не думаю, що ненавидіти гідне ненависті або не прощати те, що не можна пробачити, - це неправильно. Я просто вважаю, що неправильно допускати, щоб ненависть і небажання прощати перетворювали людину саме в те, що він ненавидить і не хоче прощати. Я більше не зроблю цієї помилки. Я не стану такою, як вони."
+  },
+  {
+    "var": "GEM_M3_mapevent6_name",
+    "field": "map_mapevent6_name",
+    "en": "Dream from Manda",
+    "ua": "Dream from Manda"
+  },
+  {
+    "var": "GEM_M3_mapevent6_mesg",
+    "field": "map_mapevent6_mesg",
+    "en": "I had another dream about Amanda last night.  I think the dreams are real, and she's communicating with me by magic.\n\nShe asked me how I was faring.  I told her I had recovered the Amulet for Sandro and agreed to help his master, Ethric, find a Vampire's Cowl and a pair of Dead Man's Boots.  Shaking with fury, I also told her about the 'harvesting,' and how I was trying to help the villagers in this area.  She just looked at me with her wise, calm eyes and advised me to be careful, very careful about what I was doing, and it wouldn't be like the last time.",
+    "ua": "Минулої ночі мені знову снилася Аманда. Думаю, що мої сни - правда, і що вона спілкується зі мною за допомогою магії. Вона запитала, як у мене йдуть справи. Я відповіла, що знайшла для Сандро Амулет і погодилася допомогти Етріку, його панові, в пошуках Плаща вампіра і Черевиків мерця. Здригаючись від люті, я також розповіла їй про «жнива» і про те, як намагалася допомогти селянам цих земель. Вона просто подивилася на мене своїм мудрим, спокійним поглядом, і порадила бути обережною, дуже обережною в усьому, що я роблю, і тоді того, що було минулого разу, не станеться."
+  },
+  {
+    "var": "GEM_M3_mapevent7_name",
+    "field": "map_mapevent7_name",
+    "en": "Visit from Lord",
+    "ua": "Visit from Lord"
+  },
+  {
+    "var": "GEM_M3_mapevent7_mesg",
+    "field": "map_mapevent7_mesg",
+    "en": "Clancy's Lord Fayette arrived today!  What a pleasant surprise!  He claimed he was on a \"Hunting Trip\" and winked at me.  This is the first chance I had to talk to him, and I liked him a lot.  We talked about the forest, animals and people.  Just before he left, he said he would like for me to think about joining the AvLee forces as a hero working for either him or another AvLee Lord.  He told me to send him a messenger with my thoughts on the matter in a few days",
+    "ua": "Сьогодні приїхав лорд Файет, пан нашого Кленсі! Яка приємна несподіванка! Він заявив, що «поїхав пополювати» і підморгнув мені. У мене вперше з'явилася можливість поговорити з ним, і він мені дуже сподобався. Ми говорили про ліс, тварин і людей. Перед відходом він попросив мене подумати про те, щоб приєднатися до сил Ав-Лі як героя на службі у нього або іншого повелителя Ав-Лі. Він сказав, щоб протягом декількох днів я прислала йому гінця з відповіддю."
+  },
+  {
+    "var": "GEM_M3_mapevent8_name",
+    "field": "map_mapevent8_name",
+    "en": "Letter to Lord",
+    "ua": "Letter to Lord"
+  },
+  {
+    "var": "GEM_M3_mapevent8_mesg",
+    "field": "map_mapevent8_mesg",
+    "en": "I wanted to write Lord Fayette right after his visit, but I forced myself to let some time pass.  I finally wrote him today that I would be happy to join his forces but needed to finish gathering the items Ethric wanted first.  I think he will understand.  I'll just have to wait and see.",
+    "ua": "Я хотіла відповісти лорду Файету негайно, але змусила себе почекати, поки пройде трохи часу. Сьогодні, нарешті, я написала йому, що буду рада приєднатися до його війська, але спочатку мені потрібно закінчити пошук предметів, необхідних Етріку. Думаю, він зрозуміє мене. Тепер мені залишається тільки чекати."
+  },
+  {
+    "var": "GEM_M3_mapevent9_name",
+    "field": "map_mapevent9_name",
+    "en": "Letter from Lord",
+    "ua": "Letter from Lord"
+  },
+  {
+    "var": "GEM_M3_mapevent9_mesg",
+    "field": "map_mapevent9_mesg",
+    "en": "I received a letter from Lord Fayette today.  I had to open it right away.  It formally invited me to join his forces as a General as soon as my promise to Sandro was fulfilled.  He said some flattering things that made me laugh.  That elf lord is also a charmer.  It is going to be a pleasure working for him.",
+    "ua": "Сьогодні я отримала лист від лорда Файета. Я не могла втриматися і відкрила його відразу ж. Це була офіційна пропозиція приєднатися до його сил як генерала, як тільки обіцянка, яку я дала Сандро, буде виконана. Він написав кілька приємних слів, і це мене розсмішило. Цей ельфійський владика теж вміє привернути до себе увагу. Служити йому буде справжнім задоволенням."
+  },
+  {
+    "var": "GEM_M3_mapevent10_name",
+    "field": "map_mapevent10_name",
+    "en": "Another Harvested Village (cont)",
+    "ua": "Another Harvested Village (cont)"
+  },
+  {
+    "var": "GEM_M3_mapevent10_mesg",
+    "field": "map_mapevent10_mesg",
+    "en": "I must stay focused on my quest.  I found out very painfully I couldn't single-handedly rid the world of evil.  The best I can do is help others help themselves.  I gave Mayor Delino gold to help resettle people near Clovergreen, where the militia can protect them.  I gave him the rest of my coin to help support the militia.  The militia are all volunteers, but they still need weapons, equipment and supplies.",
+    "ua": "Я не повинна відволікатися від своєї мети. Я вже встигла дізнатися, що не зможу очистити світ від зла самотужки, і урок був дуже гірким. Найкраще, що я можу зробити - допомогти тим, хто готовий допомагати собі сам. Я дала меру Деліно золота, щоб він зміг переселити людей ближче до Кловергріну, де їх буде захищати ополчення. Я віддала йому все золото, яке в мене залишилося, на утримання ополченців. Туди йдуть лише добровольці, але їм все одно потрібні зброя, спорядження і провізія."
+  }
+]

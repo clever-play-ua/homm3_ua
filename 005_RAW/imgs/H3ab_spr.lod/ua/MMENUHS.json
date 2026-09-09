@@ -1,0 +1,15 @@
+{
+  "sequences": [
+    {
+      "group": 0,
+      "frames": [
+        "MMENUHS.dir\\00_00.png",
+        "MMENUHS.dir\\00_01.png",
+        "MMENUHS.dir\\00_02.png",
+        "MMENUHS.dir\\00_03.png"
+      ]
+    }
+  ],
+  "type": 66,
+  "format": 1
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "var": "SLAYER_M4_prolog",
+    "field": "wrapper_prolog",
+    "en": "You face the last challenge in becoming a Dragon Slayer.  You must complete the test course in six months or fail the test.  The Crystal Dragons will be well guarded, the paths watched by other creations.  Golems, Gargoyles and Elementals will try and stop you before you can kill the Crystal Dragon.",
+    "ua": "Перед вами останнє випробування, яке треба пройти, щоб по праву називатися Убивцею Драконів. Ви повинні пройти випробування раніше, ніж закінчаться шість місяців, інакше все пропало. Кристальні дракони будуть добре охоронятися, шлях перепиняють інші створіння. Големи, горгулії та елементалі будуть намагатися зупинити вас на шляху до кришталевого дракона."
+  },
+  {
+    "var": "SLAYER_M4_epilog",
+    "field": "wrapper_epilog",
+    "en": "My mother has finished preperations for my final test.  The finest crystal, stealthly taken from the caverns of Krewlod, has been used to create a great dragon golem.   This creature's construction is a feat of magical prowess.  To destroy it... is an even greater feat.  Yet, I have heard the greatest feat a dragon slayer can accomplish is to kill the rare a mighty Azure Dragon.",
+    "ua": "Матінка підготувала все для останнього випробування. З бездоганного кристала, викраденого у печерах Крюлода, був створений могутній драконовий голем. Його створення - вже подвиг майстерності. Знищити його - означає зробити ще більш великий подвиг. Але найбільший подвиг зробить той, хто переможе рідкісного і могутнього лазурного дракона."
+  },
+  {
+    "var": "SLAYER_M4_map_name",
+    "field": "map_map_name",
+    "en": "Crystal Dragons",
+    "ua": "Кришталеві дракони"
+  },
+  {
+    "var": "SLAYER_M4_map_desc",
+    "field": "map_map_desc",
+    "en": "To pass the test you must kill the Crystal Dragon.  Fail to kill the dragon within two months and you will not become a Dragon Slayer. Dracon, his skills, spells, experience and remaining troops will transfer to the next scenario along with the Diplomat's Ring. Dracon will be limited to level eight.",
+    "ua": "Щоб пройти випробування, ви повинні вбити кришталевих драконів. Якщо ви не вб'єте їх протягом двох місяців, ви не зможете стати Убивцею Драконів. Герой Дракон, його вміння, заклинання, досвід і війська перейдуть у наступний сценарій, як і Перстень дипломата. Дракон буде обмежений 8 рівнем."
+  },
+  {
+    "var": "SLAYER_M4_obj331_town_name",
+    "field": "map_obj331_town_name",
+    "en": "Camp Dracon",
+    "ua": "Стан Дракона"
+  },
+  {
+    "var": "SLAYER_M4_obj1356_guardian_mesg",
+    "field": "map_obj1356_guardian_mesg",
+    "en": "On your way to the Black Market you stumble across a camp. As you approach,  you notice that the people in the camp aren't friendly.  Realizing only too late you aren't welcome anywhere near their camp, you look around to see that you are surrounded.  Not wanting to fight you bribe your way out.",
+    "ua": "Дорогою на Чорний ринок ви наткнулися на табір. Наблизившись, ви помітили, що створіння, які розбили його, не дуже доброзичливі. Занадто пізно усвідомивши, що гостей тут не вітають, ви озираєтеся - і виявляєте, що оточені. Не бажаючи вступати в бій, ви платите, щоб вас відпустили."
+  },
+  {
+    "var": "SLAYER_M4_obj1385_sign_mesg",
+    "field": "map_obj1385_sign_mesg",
+    "en": "Not all teleporters lead to the place you seek.",
+    "ua": "Не всі портали ведуть туди, куди треба."
+  },
+  {
+    "var": "SLAYER_M4_obj1528_guardian_mesg",
+    "field": "map_obj1528_guardian_mesg",
+    "en": "As you approach the clearing you notice there are several ways to go.  Not knowing which way is the correct way you decide to spin a bottle and go the way the bottle stops.    ",
+    "ua": "Вибравшись на відкрите місце, ви бачите, що дорога розгалузилася. Не знаючи, який зі шляхів правильний, ви вирішуєте закрутити пляшку і піти туди, куди вона вкаже."
+  },
+  {
+    "var": "SLAYER_M4_obj1530_guardian_mesg",
+    "field": "map_obj1530_guardian_mesg",
+    "en": "Lying on the ground are small cracked shards of red crystal.   Recognizing the shards you figure the Crystal Dragons must not have been pleased that their minions failed to stop you.  Smirking to yourself, your confidence grows.  You are ready for this...so you tell yourself. ",
+    "ua": "На землі лежать дрібні осколки рожевих кристалів. Ви впізнаєте їх і уявляєте собі, як розсердилися кристальні дракони, зрозумівши, що їх слугам не вдалося зупинити вас. Посміхнувшись собі під ніс, ви сповнюється впевненості. «Я готовий до цього випробування!» - Кажете ви собі."
+  },
+  {
+    "var": "SLAYER_M4_obj1532_guardian_mesg",
+    "field": "map_obj1532_guardian_mesg",
+    "en": "Straight ahead you see the crystal dragons.  Mother will be pleased, you think to yourself as you charge into battle.  ",
+    "ua": "Прямо перед собою ви бачите кристальних драконів. Матінка буде задоволена, думаєте ви, кидаючись у бій."
+  },
+  {
+    "var": "SLAYER_M4_obj1554_guardian_mesg",
+    "field": "map_obj1554_guardian_mesg",
+    "en": "Lying on the ground are small cracked shards of red crystal.   Recognizing the shards you figure the Crystal Dragons must not have been pleased that their minions failed to stop you.  Smirking to yourself, your confidence grows.  You are ready for this...so you tell yourself. ",
+    "ua": "На землі лежать дрібні осколки рожевих кристалів. Ви впізнаєте їх і уявляєте собі, як розсердилися кристальні дракони, зрозумівши, що їх слугам не вдалося зупинити вас. Посміхнувшись собі під ніс, ви сповнюється впевненості. «Я готовий до цього випробування!» - Кажете ви собі."
+  },
+  {
+    "var": "SLAYER_M4_obj1562_sign_mesg",
+    "field": "map_obj1562_sign_mesg",
+    "en": "Greed is one of the seven deadly sins.",
+    "ua": "Жадібність - один із семи смертних гріхів."
+  },
+  {
+    "var": "SLAYER_M4_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Lost",
+    "ua": "Lost"
+  },
+  {
+    "var": "SLAYER_M4_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "As you are sitting down by the morning fire you remember the words of your mother, \"If you get lost, put your right or left hand on the wall and follow the wall until you get to your destination.\"",
+    "ua": "Сидячи вранці перед багаттям, ви пригадуєте слова вашої матусі: \"Якщо ти заблукав, доторкнися правою або лівою рукою до стіни і йди так, поки не потрапиш, куди тобі потрібно.\""
+  },
+  {
+    "var": "SLAYER_M4_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Intro",
+    "ua": "Intro"
+  },
+  {
+    "var": "SLAYER_M4_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "Your mother has been training Dragon Slayers for as long as she can remember. It is now time that she train her only son. Your mother knows how smart you are and therefore she can't give you any ordinary task.  Approximately 30 or so years ago your mother went to the Festival of Life. The events of the festival inspired her.  She took red crystal and, with the idea of a Golem in her head, created Crystal Dragons.  She then set them loose in this little valley.  The only thing going for you is your ability to train priests and mages into enchanters.  You have control of a small village.   Your task is to kill the Crystal Dragons with the troops given to you so you can prove to your mother and to everyone else you are ready to be a Dragon Slayer.  The task is great so be careful.",
+    "ua": "Ваша мати навчала Убивць Драконів все своє життя, скільки ви себе пам'ятаєте. Тепер вона вчить свого єдиного сина. Ваша мама знає, які ви розумні, тому вона не стане давати вам звичайних завдань. Близько тридцяти років тому вона побувала на Фестивалі Життя. Побачене на святі надихнуло її. Маючи уявлення про големів, вона за допомогою рожевих кристалів виготовила кришталевих драконів. Потім вона випустила їх у цій невеликій долині. Єдина ваша перевага полягає в тому, що ви вмієте робити монахів і магів справжніми чародіями. У вашому розпорядженні знаходиться маленьке село. Ви повинні вбити кристальних драконів за допомогою наявних у вас військ, щоб довести своїй матері і всім іншим, що ви готові стати Убивцею Драконів. Це велика місія, тому будьте обережні."
+  },
+  {
+    "var": "SLAYER_M4_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Diplomat's Ring",
+    "ua": "Diplomat's Ring"
+  },
+  {
+    "var": "SLAYER_M4_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "Something came to you last night.  You couldn't sleep and so you decided to take a little walk.  On your walk you remembered the last piece of advice that your mom gave you. She said that the Ring of a Diplomat will brighten your future. ",
+    "ua": "Дещо прийшло вам у голову минулої ночі. Вам не спалося, і ви вирішили трохи прогулятися. Гуляючи, ви згадали останню матінкову пораду. Вона сказала, що Перстень дипломата зробить ваше майбутнє менш похмурим."
+  }
+]

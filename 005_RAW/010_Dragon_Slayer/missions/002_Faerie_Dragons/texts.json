@@ -1,0 +1,212 @@
+[
+  {
+    "var": "SLAYER_M2_prolog",
+    "field": "wrapper_prolog",
+    "en": "Now seeking the famed and elusive Azure Dragons you hear of sightings to the west.   Following the leads you find only a mischevious Faerie Dragon playing tricks on the locals.  Disappointed at first, but soon you discover there are several such dragons and they are relocating towns, maidens and generally mucking about.  This should prove challenging enough for you.",
+    "ua": "Пошуки знаменитих і невловимих лазурних драконів привели вас на захід. Від місцевих жителів ви почули розповіді про казкових драконів, які забавляються з людьми. Незабаром ви виявили і самих драконів."
+  },
+  {
+    "var": "SLAYER_M2_epilog",
+    "field": "wrapper_epilog",
+    "en": "I have never seen a Faerie Dragon.  Little is known about these notorious troublemakers.  What is known is found more in storybooks than magical tomes.   Some say they are invisible.  Some say they can cast spells.  Some say they are only three feet high.  Some say they are the henchmen of the Azure Dragons.   I do not know what to expect or how my skills will be tested.  Nevertheless, the more I know, the better I will be prepared for the Azure Dragons.",
+    "ua": "Я ніколи не зустрічав казкових драконів. Мало що відомо про цих тварюк, та й ту дещицю почерпнуто з переказів, а не з чаклунських книг. Кажуть, вони невидимі. Кажуть, вони здатні творити заклинання. Кажуть, вони всього метр ростом. Кажуть, вони служать лазурним драконам придворними. Навіть не знаю, чого мені чекати і які знання можуть стати в нагоді. І все ж, чим більше я дізнаюся про різних драконів, тим легше буде здолати лазурного."
+  },
+  {
+    "var": "SLAYER_M2_map_name",
+    "field": "map_map_name",
+    "en": "Faerie Dragons",
+    "ua": "Казкові дракони"
+  },
+  {
+    "var": "SLAYER_M2_map_desc",
+    "field": "map_map_desc",
+    "en": "You have six months to find and defeat the Faerie Dragons to cleanse this territory.  If Dracon dies, the quest is over.  Dracon, his skills, spells and Experience up to level 24 will carry over to the next scenario.",
+    "ua": "У вас шість місяців, щоб знайти всіх казкових драконів і очистити від них територію. Якщо герой Дракон загине, місія провалена. Дракон, його навички, заклинання і досвід, перейдуть у наступний сценарій. Дракон обмежений 24 рівнем."
+  },
+  {
+    "var": "SLAYER_M2_obj964_guardian_mesg",
+    "field": "map_obj964_guardian_mesg",
+    "en": "As you walk towards the town you notice it is abandoned.  Perhaps you can turn this town into something nice, you think to yourself.  Unfortunately you are so deep in thought you don't notice you are surrounded by Faerie Dragons. ",
+    "ua": "Підійшовши до міста ближче, ви помічаєте, що воно покинуте. Можливо, його вдасться зробити досить милим містечком з часом, думаєте ви. На жаль, ви заглибились у свої думки так глибоко, що й не помітили, як вас оточили казкові дракони."
+  },
+  {
+    "var": "SLAYER_M2_obj966_guardian_mesg",
+    "field": "map_obj966_guardian_mesg",
+    "en": "After you beat the Faerie Dragons you look around you only to notice the image around, wavers.  Then just as quickly as it began, the illusion disappeared.  Looking around you again, you notice the town wasn't abandoned at all.   It was actually a prospering city.",
+    "ua": "Перемігши казкових драконів, ви озираєтеся навколо - і раптом краєвид починає розпливатися. Ілюзія зникає так само несподівано, як і з'являється. Озирнувшись знову, ви бачите, що місто зовсім не покинуте. Насправді воно процвітає."
+  },
+  {
+    "var": "SLAYER_M2_obj969_guardian_mesg",
+    "field": "map_obj969_guardian_mesg",
+    "en": "You have chosen...",
+    "ua": "Ваш вибір..."
+  },
+  {
+    "var": "SLAYER_M2_obj970_guardian_mesg",
+    "field": "map_obj970_guardian_mesg",
+    "en": "You have chosen...",
+    "ua": "Ваш вибір..."
+  },
+  {
+    "var": "SLAYER_M2_obj1422_sign_mesg",
+    "field": "map_obj1422_sign_mesg",
+    "en": "One box gives you riches, the other...?",
+    "ua": "В одному ящику гроші, а в іншому..."
+  },
+  {
+    "var": "SLAYER_M2_obj1450_guardian_mesg",
+    "field": "map_obj1450_guardian_mesg",
+    "en": "As you are walking through the forest you see a big box barring your entrance to the clearing up ahead.  Remembering what happened the last time you opened a box similar to this you hesitate, deciding whether to open the box or leave it alone.",
+    "ua": "Пробираючись через ліс, ви бачите, що великий ящик загородив вам шлях до галявині, що перед вами. Пам'ятаючи про те, що трапилося востаннє, коли ви відкрили такий ящик, ви відчуваєте серйозні сумніви - відкрити його або залишити все як є."
+  },
+  {
+    "var": "SLAYER_M2_obj1512_guardian_mesg",
+    "field": "map_obj1512_guardian_mesg",
+    "en": "After long hours of walking down this path you approach a Redwood Observatory.  Sitting at the base of the observatory you see some Swordsmen.  As you approach them you notice their Archers have already notched their arrows and are about to fire. You wonder what you have done to upset them. ",
+    "ua": "Витративши декілька годин на спуск по цій дорозі, ви наближаєтеся до Оглядової вежі. Ви бачите, що кілька мечників розташувалися біля її підніжжя. Підійшовши до них ближче, ви помічаєте стрільців, які вже дістають стріли і збираються відкрити вогонь. Цікаво, що ви такого зробили?"
+  },
+  {
+    "var": "SLAYER_M2_obj1514_guardian_mesg",
+    "field": "map_obj1514_guardian_mesg",
+    "en": "Reaching the base of the Redwood Observatory you see why these men attacked as they did.  Smacking yourself in the face you tell yourself that you should have known they were protecting something.  ",
+    "ua": "Коли ви підходите до підніжжя Оглядової вежі, ви розумієте, чому ці люди атакували вас. Ляснувши себе по лобі, ви корите себе за наївність: звичайно ж, вони щось охороняли."
+  },
+  {
+    "var": "SLAYER_M2_obj1662_guardian_mesg",
+    "field": "map_obj1662_guardian_mesg",
+    "en": "Open carefully!",
+    "ua": "Відкривати обережно!"
+  },
+  {
+    "var": "SLAYER_M2_obj1666_guardian_mesg",
+    "field": "map_obj1666_guardian_mesg",
+    "en": "Ouch! This one's gonna hurt.  ",
+    "ua": "Ай! Боляче! "
+  },
+  {
+    "var": "SLAYER_M2_obj1775_guardian_mesg",
+    "field": "map_obj1775_guardian_mesg",
+    "en": "HEY!  WHAT ARE YOU DOING? THIS ISN'T THE RIGHT ONE.",
+    "ua": "ГЕЙ! ЩО ТИ РОБИШ? ЦЕ НЕ ТЕ, ЩО ТИ ШУКАЄШ!"
+  },
+  {
+    "var": "SLAYER_M2_obj1776_guardian_mesg",
+    "field": "map_obj1776_guardian_mesg",
+    "en": "HA,HA,HA..This isn't the right one either!",
+    "ua": "ХА-ХА-ХА... І це теж не те!"
+  },
+  {
+    "var": "SLAYER_M2_obj1784_guardian_mesg",
+    "field": "map_obj1784_guardian_mesg",
+    "en": "After the disorienting feeling of the teleporter wears off you start down the path.  You come across a leprechaun sitting on the what looks to be a very old Stump.\n\"Hello again.\" Says the leprechaun with a grin on his face. \n\"Hello.\" You said wondering why he isn't mad that you tried to take his head off with your bare hands.  All of your wondering ceases when you see the leprechaun shimmer and fade away.  Where once one leprechaun sat now three sets of Faerie Dragons sit.  Realizing this dragon has been playing with you all of this time you look at the Faerie Dragons wondering which is the real one. \n",
+    "ua": "Зазнавши збиваючого з пантелику почуття, що телепорт не спрацював, ви ступаєте на доріжку. Вона приводить вас до Лепрекона, що сидить на чомусь на зразок дуже старезного пня.\n\"Ще раз здрастуй\", - говорить лепрекон, посміхаючись.\n\"Здрастуй\", - кажете ви, дивуючись з того, що він зовсім не сердиться на вас за спробу голими руками скрутити йому шию. Ви перестаєте дивуватися, коли образ лепрекона починає тремтіти і розчиняється у повітрі. На місці лепрекона ви бачите тепер три групи казкових драконів. Усвідомивши, що дракон весь цей час дурив вас, ви розглядаєте монстрів, намагаючись зрозуміти, який же з них справжній."
+  },
+  {
+    "var": "SLAYER_M2_obj1785_guardian_mesg",
+    "field": "map_obj1785_guardian_mesg",
+    "en": "Just as you are about to attack the dragon you think you hear the leprechaun's voice in your ear \"Are you sure this is the right one....?\"",
+    "ua": "Коли ви вже готові накинутися на дракона, вам здається, що ви чуєте голос лепрекона у себе в голові: \"А ти впевнений, що він справжній?\""
+  },
+  {
+    "var": "SLAYER_M2_obj1808_guardian_mesg",
+    "field": "map_obj1808_guardian_mesg",
+    "en": "As the wind blows through the trees you think you hear laughter, but then you shake your head figuring it is only your imagination. ",
+    "ua": "В шумі вітру, посеред дерев, вам вважається сміх, але ви стрясаєте головою, переконуючи себе, що це лише гра уяви. "
+  },
+  {
+    "var": "SLAYER_M2_obj2824_guardian_mesg",
+    "field": "map_obj2824_guardian_mesg",
+    "en": "     As you are walking through the forest you come across a box.  You have seen these boxes before and quickly decide not to open it.  After you take a few steps away from the box you realize curiosity just got the better of you.  So you turn around and reach your hand out to open it. Suddenly a Leprechaun jumps out of the forest and sits on the lid, not letting you open it.  Not really understanding what just happened and having never before seen a leprechaun you just sit there and study him.  After a few long moments he breaks the silence, \"I am Erik! And who might you be?\"  While you are telling him your name you wonder what this little guy is up to.  \"I know what is going on around here.  Knowing this I just wanted to give you some advice....  Don't, under any circumstances open this box\" says the leprechaun as he pats the side of the box.  Then right before you are about to ask him why you shouldn't open the box.  The leprechaun disappears in a puff of smoke. Leaving only you and the box.\n",
+    "ua": "Пробираючись через ліс, ви натикаєтеся на ящик. Ви такі вже бачили, тому швидко приймаєте рішення не чіпати його. Відійшовши від ящика на кілька кроків, ви розумієте, що цікавість бере над вами верх. Отже, ви розвертаєтеся і простягаєте руку, щоб відкрити скриньку. Раптово з лісової хащі вискакує лепрекон і сідає на кришку, не даючи вам відкрити її. Оскільки ви не зрозуміли в точності, що сталося, і ніколи не бачили раніше лепрекона, ви просто сідаєте і розглядаєте його. Через кілька довгих секунд він порушує мовчанку: \"Я - Ерік! А от ти хто такий?!\" Відрекомендувавшись, ви продовжуєте дивуватися, що потрібно цьому малюкові. \"Я знаю, що відбувається навколо. Тому я хочу дати тобі одну пораду. Ніколи, ні за яких обставин не відкривай цей ящик!\", - Каже лепрекон, ляскаючи по боковій стороні скриньки. Потім, як тільки ви відкриваєте рот, щоб запитати, чому не можна відкривати скриньку, лепрекон зникає в клубі диму. Залишивши вас наодинці з ящиком."
+  },
+  {
+    "var": "SLAYER_M2_obj2825_guardian_mesg",
+    "field": "map_obj2825_guardian_mesg",
+    "en": "Just shortly after you leave the castle you see a man lying in the ground, trying his hardest to get back to the castle.  Being the honorable person you are you decide to help him.  It takes you about an hour or so to take him back to his house, but just as soon as you are sure that he is home and safe, you turn to leave.  As you reach for the door the old man regains consciousness and tells you the reason he was so hurt.  He said he and the rest of his party who are now dead were ambushed on the road to the great Redwood Tree. ",
+    "ua": "Невдовзі після вашого виходу з замку ви бачите людину, яка лежить на землі та, очевидно, з усіх сил намагається повернутися в замок. Ваше благородство не дозволяє залишити її без допомоги. Близько години витратили ви на те, щоб донести його до будинку, і збираєтеся йти, переконавшись, що йому нічого не загрожує. Однак, коли ви вже біля дверей, старий приходить до тями і розповідає, що послужило причиною його жалюгідного стану. За його словами, він разом зі своїми друзями, які тепер мертві, потрапив в засідку по дорозі до великого червоного дерева."
+  },
+  {
+    "var": "SLAYER_M2_obj2829_guardian_mesg",
+    "field": "map_obj2829_guardian_mesg",
+    "en": "Wanting to get as much space between you and the Faerie Dragons you hurry on down the path.  Turning your head to see how much distance is already between you and that...that...thing, you see that you are approximately 50 paces away.  As you turn your head back to the road you nearly fall to the ground with surprise as the leprechaun appears directly in front of you.  \"I told you so!\" said the leprechaun \"Come on.  What did I say? Say it with me now 'Don't under any circumstances open this box'.  Well you didn't listen to me did you?  Hehe, next time you will listen.\" The leprechaun laughs.  Again, right before you can ask the leprechaun any questions, he disappears, leaving behind a four-leaf clover.  ",
+    "ua": "Бажаючи максимально збільшити відстань між вами і казковими драконами, ви поспішаєте по дорозі. Обернувшись, щоб подивитися, як далеко ви вже пішли від цих... цих... тварюк, ви бачите, що перебуваєте приблизно в 50 кроках від них. Знову глянувши на дорогу, ви ледь не падаєте від подиву - прямо перед вами виникає лепрекон. \"Я тобі казав!\" - Кричить він. - \"Ну, що я говорив! Повторюй тепер разом зі мною:\" Ні-ко-ли не відкривай цей ящик!\" А ти, значить, не послухався мене, га? Хе-хе, ну так наступного разу будеш слухати?\" Лепрекон регоче. І знову, не давши вам нічого запитати, зникає, залишивши після себе чотирилисник конюшини."
+  },
+  {
+    "var": "SLAYER_M2_obj2836_guardian_mesg",
+    "field": "map_obj2836_guardian_mesg",
+    "en": "\"Okay.  Let's try this again\" Says the leprechaun as he appears a little off to your left.  It doesn't surprise you any more that the leprechaun just appears.  So you talk to him like he has been there all along, \"Let me guess.  'Don't open the box.' \"  \"Hey, you catch on quick.\" Said the leprechaun, again disappearing. As you think of how weird all of this is, you shake your head.  You decide to put up with the little leprechaun, remembering your ultimate goal is to kill the Faerie Dragons.  \n",
+    "ua": "\"Гаразд. Давай спробуємо ще раз\", - Каже лепрекон, з'являючись дещо ліворуч від вас. Ви більше не дивуєтеся тому, що він виникає з нізвідки. Ви говорите йому так, ніби він весь час був поряд: \"Дай я вгадаю «Не відкривай скриньку? \" \"Гей, а ти швидко схоплюєш\", - відповідає лепрекон і знову зникає. Ви качаєте головою при думці про те, як все це дивно. Однак лепрекон може і почекати, вирішуєте ви, згадавши про свою головну мету - знищити казкових драконів."
+  },
+  {
+    "var": "SLAYER_M2_obj2837_guardian_mesg",
+    "field": "map_obj2837_guardian_mesg",
+    "en": "The leprechaun appears before you shaking his head and laughing to himself.   Expecting the leprechaun about now you look at him and ask him what he is laughing at.  \"Do you purposely not pay any attention to anyone?\" said the leprechaun again laughing to himself. Not feeling like listening to him you walk right past him thinking if you ignore him he will go away.  To your dismay he doesn't go away.   He just walks with you lecturing on why you should listen to him.  After hours and hours of listening to him you come to the conclusion you are really getting tired of his antics. So you turn around angrily and attempt to take his head off with the back of your hand.  But in the instant your hand makes contact with his body, he disappears. He irritated you so much that you actually start mumbling to yourself as you continue your journey to find the Faerie Dragon.\n",
+    "ua": "Лепрекон з'являється перед вами, хитаючи головою і сміючись собі під ніс. Цього разу ви вже чекали його і питаєте, чому він сміється. \"Ти принципово нікого не слухаєш?\" - запитує лепрекон, продовжуючи хихикати. Ви не в настрої вислуховувати його і проходите повз, розраховуючи, що, якщо не звертати на нього уваги, він піде. До вашого сум'яття, він не зникає. Він просто йде поряд з вами і читає лекцію про те, чому його треба було слухати. Через кілька довгих годин вам всерйоз починають набридати його моралі. У гніві ви повертаєтеся до нього і намагаєтеся скрутити йому шию. Але як тільки ваша рука торкається його, він зникає. Він так розлютив вас, що ви сердито бурмочете собі під ніс, продовжуючи свій шлях у пошуках казкового дракона."
+  },
+  {
+    "var": "SLAYER_M2_obj2841_guardian_mesg",
+    "field": "map_obj2841_guardian_mesg",
+    "en": "As you approach the garrison you notice there is no activity whatsoever.  Standing in the bushes a short distance away from the garrison, you ponder what is happening.  Finally you see the garrison gates open and two Faerie Dragons walk through the gate then disappear into thin air.  \"Ah\" you think to yourself.  You should have known.  You stride towards the garrison telling yourself it is time to rid this land of the Faerie Dragons once and for all.  Just as you start to head toward the garrison you stop and start to wonder where the sorry excuse for a leprechaun is now.   ",
+    "ua": "Наблизившись до гарнізону, ви не бачите жодних слідів діяльності. Сховавшись у кущах неподалік, ви роздумуєте над тим, що б це означало. В кінці-кінців ви бачите, що гарнізонні ворота відчиняються, з них з'являються два казкових дракони і розчиняються в повітрі. \"Ага\", говорите ви собі. Можна було б здогадатися. Ви рішуче прямуєте до гарнізону, думаючи про те, що прийшов час позбавити землю від казкових драконів раз і назавжди. Дорогою ви раптом згадуєте про цю жалюгідну пародію на лепрекона - де вона зараз?"
+  },
+  {
+    "var": "SLAYER_M2_obj2844_guardian_mesg",
+    "field": "map_obj2844_guardian_mesg",
+    "en": "As you step through the garrison you see a faint shimmer just over the small hill that lies in front of you.  You know who is there.  You just wonder if there is another way around the hill.  Coming to the conclusion there isn't, you venture forth. As you top the hill you see the leprechaun and notice he is waving at you.  The leprechaun strides forward coming to a stop directly in front of you.  \"I figured that since you wouldn't listen to me anyway, I wouldn't bother to warn you about the Faerie Dragons that were guarding the garrison,\" said the leprechaun.  \"Thank you very much.  It was actually pleasant with you not there,\"  losing your patience with the leprechaun.  \"If you are going to be like that then I won't tell you that one Faerie Dragon got away and is now returning with more,\" said the leprechaun again disappearing like he wasn't here to begin with.  ",
+    "ua": "Проходячи через гарнізон, ви помічаєте легкий рух над невеликим пагорбом прямо перед вами. Ви знаєте, хто там. Цікаво, чи є дорога в обхід пагорба? Ви вирішуєте, що навряд чи, і йдете вперед. Піднявшись нагору, ви бачите лепрекона, який махає вам рукою. Він біжить до вас з усіх ніг і зупиняється прямо навпроти вас. \"Я подумав, що, раз вже ти все одно мене не слухаєш, то не варто турбуватися і попереджати тебе про те, що казкові дракони охороняли цей гарнізон\", - говорить лепрекон. \"Спасибі тобі величезне. Я був щасливий, що хоч там тебе не було.\", - Відповідаєте ви, не приховуючи роздратування. \"Ну раз ти так зі мною поводишся, то я не скажу тобі, що один з драконів утік і тепер повертається з підмогою\", - парирує лепрекон і зникає знову, як ніби його й не було."
+  },
+  {
+    "var": "SLAYER_M2_obj2897_guardian_mesg",
+    "field": "map_obj2897_guardian_mesg",
+    "en": "As you approach the box you hear a faint whisper in your left ear.  \"Good Luck with this one....\" Shrugging the sound off as the wind, you decide to open the box. ",
+    "ua": "Наблизившись до ящика, ви чуєте слабкий шепіт в лівому вусі. \"Ну, удачі тобі на цей раз...\". Списавши все на вітер, ви вирішуєте відкрити ящик. "
+  },
+  {
+    "var": "SLAYER_M2_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Intro",
+    "ua": "Intro"
+  },
+  {
+    "var": "SLAYER_M2_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "It has come to your attention there are Faerie Dragons lurking about somewhere on the Western Border.   Feeling you could use the practice before taking on the Azure Dragons you have decided to help the people of Bracada rid themselves of the threat.  If the Faerie Dragons aren't disposed of within six months then they will destroy every village along the coast. ",
+    "ua": "Ви звернули увагу на те, що казкові дракони занадилися робити набіги на землі західного прикордоння. Вирішивши, що трохи практики перед походом на лазурних драконів вам не зашкодить, ви обіцяли допомогти народу Бракади позбавитись від загрози. Якщо від казкових драконів не вдасться позбавитися за шість місяців, вони знищать всі прибережні села."
+  },
+  {
+    "var": "SLAYER_M2_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Neclace",
+    "ua": "Neclace"
+  },
+  {
+    "var": "SLAYER_M2_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "As you are traveling down the road you and your army come across an old lady that says she can foretell your future.  Not being a spoilsport you decide to give the old lady some gold in return for a palm reading.",
+    "ua": "Маршируючи з військом дорогою, ви зустріли стару, яка стверджувала, що може передбачити ваше майбутнє. Ви вирішили підіграти їй і запропонували трохи золота, щоб вона поворожила вам на руці."
+  },
+  {
+    "var": "SLAYER_M2_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Neclace 2",
+    "ua": "Neclace 2"
+  },
+  {
+    "var": "SLAYER_M2_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": " What the old lady tells you is quite surprising, \"The Celestial Necklace of Bliss will be of great help in the near future.\"  Feeling the old lady earned her money you watch as she walks off smiling to herself.",
+    "ua": "Слова старої неабияк здивували вас: \"Намисто небесного блаженства надасть тобі велику послугу в найближчому майбутньому\". З почуттям, що стара чесно заробила свої гроші, ви спостерігаєте, як вона йде, посміхаючись собі під ніс."
+  },
+  {
+    "var": "SLAYER_M2_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "Get pendant",
+    "ua": "Get pendant"
+  },
+  {
+    "var": "SLAYER_M2_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "Once the Pendant of Life was used to keep evil at bay.  Recently it was stolen.  Rumor has it that the person who brings the pendant of life back to the owner will receive great riches.   ",
+    "ua": "Колись Кулон життя використовували, щоб приборкати зло. Нещодавно він був викрадений. За чутками, той, хто поверне кулон його власнику, знайде велике багатство."
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "var": "SECRET_M4_prolog",
+    "field": "wrapper_prolog",
+    "en": "All of your plans are laid, but there is one lord who opposes the plan.  Finneas has told you his name is Lord Smedth and suggested that this insignificant bug be squashed.  You decide to do so yourself; he has been a minor thorn for some time now, always harassing you in court and attempting to usurp your position as Finneas Vilmar's closest aid.  It will be your pleasure to send him to Hell.",
+    "ua": "Всі ваші пригоди майже закінчені, однак є ще один лорд, який протистоїть вам. Фінеас сказав вам, що його ім'я лорд Смедт і цей невеликий жук може бути роздавлений. Ви вирішили зробити це самі, він буде незначною перешкодою на вашому шляху. Нічого плести інтриги у вас за спиною і намагатися зайняти ваше місце. Буде приємно відіслати його просто в Пекло."
+  },
+  {
+    "var": "SECRET_M4_epilog",
+    "field": "wrapper_epilog",
+    "en": "Finneas has discovered that Smedth, an upstart lord, has gotten too ambitious.  He is trying to usurp my position as Finneas' top advisor.  To calm Finneas, I have agreed to take care of this little matter myself.  It will be my pleasure sending the conniving lich to Hell.",
+    "ua": "Фінеас каже, що цей вискочка Смедт нахабніє на очах. Він хоче замінити мене при Фінеасі та стати його головним радником. Я заспокоїв Фінеаса і пообіцяв, що сам розберуся з ним. З яким же задоволенням я відправлю цього угодовця прямо в Пекло!"
+  },
+  {
+    "var": "SECRET_M4_map_name",
+    "field": "map_map_name",
+    "en": "With Blinders On",
+    "ua": "Гра наосліп"
+  },
+  {
+    "var": "SECRET_M4_map_desc",
+    "field": "map_map_desc",
+    "en": "Sandro must defeat all of the lords who seek his position to win the campaign. However, if Sandro loses even just one battle, others will sense weakness in him and destroy all he has worked for.",
+    "ua": "Щоб виграти, Сандро необхідно перемогти всіх лордів, які шукають його. Якщо він програє хоча б одну битву, інші відчують його слабкість і розіб'ють його вщент."
+  },
+  {
+    "var": "SECRET_M4_p4_hero_name",
+    "field": "map_p4_hero_name",
+    "en": "Lord Dufus",
+    "ua": "Лорд Дуфус"
+  },
+  {
+    "var": "SECRET_M4_p4_owned_hero_name",
+    "field": "map_p4_owned_hero_name",
+    "en": "Lord Dufus",
+    "ua": "Лорд Дуфус"
+  },
+  {
+    "var": "SECRET_M4_obj267_hero_name",
+    "field": "map_obj267_hero_name",
+    "en": "Lord Dufus",
+    "ua": "Лорд Дуфус"
+  },
+  {
+    "var": "SECRET_M4_obj631_guardian_mesg",
+    "field": "map_obj631_guardian_mesg",
+    "en": "It seems the Dragons were attempting to prevent you from getting hold of their old scales, which some artisan has fashioned into effective armor.  You try on the armor, and it's quite a good fit.  Fate has smiled on you.",
+    "ua": "Здається, дракони намагалися перешкодити вам заволодіти лускою, що зійшла з них після ліньки, яку якийсь ремісник перетворив на хороші обладунки. Ви приміряєте їх - саме за розміром! Удача знову посміхнулася вам."
+  },
+  {
+    "var": "SECRET_M4_obj632_guardian_mesg",
+    "field": "map_obj632_guardian_mesg",
+    "en": "Such a strange place to find clover!  Inspecting closer, you realize this is a magical clover that will increase your luck.  What good fortune!  As you bend over to pick it up, a booming voice calls out, \"Don't you dare take my clover!\"  Do you fight the owner for the clover?",
+    "ua": "Несподіване місце для конюшини! Уважно роздивившись квітку, ви розумієте, що це чарівна конюшина, яка приносить удачу. Оце так вдача! Коли ви нахиляєтесь, аби зірвати її, зненацька чується гучний голос: \"І не думай чіпати мою конюшину!\" Маєте бажання битися за право володіти чотирилистником?"
+  },
+  {
+    "var": "SECRET_M4_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Day",
+    "ua": "Day"
+  },
+  {
+    "var": "SECRET_M4_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "These young upstart lords will be no match for your experience in the field.  Once you have destroyed them with ease no one will ever question your power again.  Lord Amrothal has secured his position to the west of you, but is only accessible through the underground tunnel system.  A complex system of teleporters will help you get to him.",
+    "ua": "Молоді самовпевнені лорди не складуть вам великих проблем. Як тільки ви впораєтеся з ними, ваша могутність стане очевидною. Лорд Амротал розташувався на захід від вас, але до нього можна пробратися тільки через підземний тунель. Вам також допоможе складна система порталів."
+  }
+]

@@ -1,0 +1,188 @@
+[
+  {
+    "var": "YOG_M1_prolog",
+    "field": "wrapper_prolog",
+    "en": "You have never really been that good at magic.  Not even your Genie blood helped you much.  But still, life was fine up until a few months ago when the love of your life, Vidomina, became overconfident.  Her magic corrupted her and turned her into a Necromancer.  Since then, you have grown to despise magic.  Now you have made a decision to leave the life of a Wizard and become what you have always dreamed of... a Barbarian.",
+    "ua": "Ви ніколи не були майстром магії. Навіть кров джина не змогла вам допомогти. Але, не зважаючи на це, життя була прекрасним, доки ваша любов, Відоміна, не стала занадто самовпевненою. Її любов до магії поглинула її, перетворивши на некроманта. З тих пір ви розчарувалися в магії. Тепер ви вирішили порвати з вашим життям чарівника і стати тим, ким ви завжди мріяли бути... варваром."
+  },
+  {
+    "var": "YOG_M1_epilog",
+    "field": "wrapper_epilog",
+    "en": "All my life I have been studying magic under the Wizards of Bracada to please my mother, a Genie.  But it is the blood of my Barbarian father that runs through my veins, and I feel that my hands were meant to carry a sword rather than a staff.  Fate seems to agree, for I have received an invitation from Duke Winston Boragus of Krewlod to join his army.  The time has come for me to leave this place, but I know that my teachers will not permit that without a fight.",
+    "ua": "Скільки себе пам'ятаю, я навчався магії у чарівників Бракади, підкоряючись бажанням матері, родом з джинів. Але в жилах у мене тече кров батька-варвара, і руки мені дано, щоб тримати меч, а не жезл. Сама доля на моєму боці, бо днями я отримав послання від герцога Вінстона Борагуса Крюлодського, який кличе мене до своєї армії. Пора зніматися з насидженого місця, але думаю, наставники мене без бійки не відпустять."
+  },
+  {
+    "var": "YOG_M1_map_name",
+    "field": "map_map_name",
+    "en": "On the Run",
+    "ua": "В дорозі"
+  },
+  {
+    "var": "YOG_M1_map_desc",
+    "field": "map_map_desc",
+    "en": "Escape from Bracada and capture the Krewlodian town of Groa to win the scenario.  However, if Yog is defeated in combat or fails to capture Groa in 5 months, the scenario is lost.  Yog is limited to level 9 but will carry his experience and skills on to the next scenario.",
+    "ua": "Щоб виграти, необхідно вибратися з Бракади і захопити крюлодське місто Гроа. Якщо Йоґ буде переможений у битві або не зможе захопити Гроа за 5 місяців, ви програєте. Герой обмежений 9 рівнем. Якщо він переможе, то перейде у наступний сценарій."
+  },
+  {
+    "var": "YOG_M1_p1_owned_hero_name",
+    "field": "map_p1_owned_hero_name",
+    "en": "Yog",
+    "ua": "Йоґ"
+  },
+  {
+    "var": "YOG_M1_obj101_town_name",
+    "field": "map_obj101_town_name",
+    "en": "Calarnen",
+    "ua": "Каларнен"
+  },
+  {
+    "var": "YOG_M1_obj115_town_name",
+    "field": "map_obj115_town_name",
+    "en": "Padon",
+    "ua": "Падон"
+  },
+  {
+    "var": "YOG_M1_obj1094_town_name",
+    "field": "map_obj1094_town_name",
+    "en": "Groa",
+    "ua": "Гроа"
+  },
+  {
+    "var": "YOG_M1_obj1197_monster_mesg",
+    "field": "map_obj1197_monster_mesg",
+    "en": "\"We have lived peacefully and undisturbed in this valley for many years.  Now you come with an army seeking to defeat us.  We will not tolerate such aggression!\"  Before you are able to convince the Ancient Behemoths of your peaceful intentions toward them, they attack.",
+    "ua": "\"Ми тихо і мирно жили тут довгі роки. Тепер же ти прийшов з військом, і хочеш підкорити нас. Ми не потерпимо подібних нападів!\" Перш ніж ви встигаєте повідомити древнім чудовиськам про свої мирні наміри, вони атакують."
+  },
+  {
+    "var": "YOG_M1_obj1198_guardian_mesg",
+    "field": "map_obj1198_guardian_mesg",
+    "en": "Journal Entry 7:  This battle could have been avoided.  All I wanted was to hold out here until the search for me relented a bit; there was no need for bloodshed.  The townspeople must have been truly frightened to send out so many Ancient Behemoths.  Well, if an army marched up to my home I suppose I too would be alarmed, but the town's defenses are now crippled with most of their Ancient Behemoths gone.  When my troops are rested I will plan an attack upon the city of Groa, because who knows what else they may unleash on me if I allow them another opportunity to take the initiative.",
+    "ua": "Запис 7: Цієї битви можна було уникнути. Все, чого я хотів - протриматися тут до тих пір, поки мене перестануть шукати, я не жадав кровопролиття. Мабуть, жителі міста дійсно дуже злякалися, раз зібрали проти мене стільки древніх чудовиськ. Втім, якби до мого дому підійшло військо, я, мабуть, теж злякався б. Однак тепер сили міста підірвані, тому що більша частина стародавніх чудовиськ загинула. Коли мої війська відпочинуть, я подумаю, як напасти на місто Гроа, бо хто знає, що вони затіють, якщо я знову дозволю їм узяти ініціативу в свої руки."
+  },
+  {
+    "var": "YOG_M1_obj1199_guardian_mesg",
+    "field": "map_obj1199_guardian_mesg",
+    "en": "Journal Entry 4:  I am resting my army before we begin the battle to cross the border.  Just as my scout reported, the border garrison is heavily guarded.  Although my troops look apprehensive, I think they will hold together.  If... when we get across the border, their morale will hopefully improve.",
+    "ua": "Запис 4: Моя армія відпочиває перед ривком через кордон. Як і повідомляли мої розвідники, кордон добре охороняється. Хоча моя армія здається наляканою, я гадаю, вони впораються. Якщо... Коли ми перейдемо кордон, їх настрій має покращитися."
+  },
+  {
+    "var": "YOG_M1_obj1201_guardian_mesg",
+    "field": "map_obj1201_guardian_mesg",
+    "en": "Journal Entry 4 (Continued):  The battle was indeed fierce.  I did not expect to lose as many troops as I did.  I must be more careful next time.  But for now it is done.  I have made it across the border.  I just hope the academy doesn't attempt to cross the border too, if they haven't already.  This area isn't that well traveled, and it would probably take a while before the Duke of Krewlod realizes that Aine has invaded his territory.",
+    "ua": "Запис 4 (продовження): Бій дійсно був нелегким. Я не думав, що втрачу стільки військ. Наступного разу треба бути обережнішим. Але тепер усе позаду, і я перейшов кордон. Сподіваюся, що воїни академії не підуть за мною в Крюлод, якщо вже не пішли. Ця місцевість не дуже жвава, то ж герцогу Крюлода знадобиться деякий час, щоб виявити Ейне."
+  },
+  {
+    "var": "YOG_M1_obj1202_guardian_mesg",
+    "field": "map_obj1202_guardian_mesg",
+    "en": "Journal Entry 5:  My scout has advised me to head south because an army of this size cannot pass through the mountains.  A two-to-four day march south will take me to the entrance of the valley leading to the city of Groa.",
+    "ua": "Запис 5: Розвідники порадили мені йти південною дорогою, тому що така армія, як у мене, не зможе перейти гори. Через два-чотири дні я буду біля воріт Гроа."
+  },
+  {
+    "var": "YOG_M1_obj1203_guardian_mesg",
+    "field": "map_obj1203_guardian_mesg",
+    "en": "Journal Entry 6:  It is almost over.  The scout's map indicates this to be the entrance to Groa's valley. I will gather my generals and enter the gates of my new home. ",
+    "ua": "Запис 6: Я майже біля цілі. Судячи з карти, це вхід в долину, що веде в Гроа. Треба зібрати воєначальників і увійти в свій новий дім."
+  },
+  {
+    "var": "YOG_M1_obj1226_quest_proposal",
+    "field": "map_obj1226_quest_proposal",
+    "en": "The guards here say they have orders to only let Yog pass.",
+    "ua": "Вартові кажуть, що у них є наказ пропустити лише Йоґа."
+  },
+  {
+    "var": "YOG_M1_obj1226_quest_progress",
+    "field": "map_obj1226_quest_progress",
+    "en": "The guards here will only let Yog pass.",
+    "ua": "Стражники пропустять тільки Йоґа."
+  },
+  {
+    "var": "YOG_M1_obj1226_quest_completion",
+    "field": "map_obj1226_quest_completion",
+    "en": "At last, it is Yog.  Do you wish to pass?",
+    "ua": "А от і Йоґ. Хочете пройти?"
+  },
+  {
+    "var": "YOG_M1_obj1378_hero_name",
+    "field": "map_obj1378_hero_name",
+    "en": "Yog",
+    "ua": "Йоґ"
+  },
+  {
+    "var": "YOG_M1_obj1378_hero_bio",
+    "field": "map_obj1378_hero_bio",
+    "en": "Yog studied many years with the Wizards of Bracada, but he would rather spend his time engaging in swordplay rather than studying magic.",
+    "ua": "Йоґ довгі роки навчався магії в Бракаді, але йому більше до душі фехтувальні вправи, ніж вивчення магії."
+  },
+  {
+    "var": "YOG_M1_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Intro",
+    "ua": "Intro"
+  },
+  {
+    "var": "YOG_M1_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "Born the son of a Barbarian chieftain and a Genie enchantress, you have always found your mind to be at odds with your heart.  Your mother enrolled you in the magic academy at a young age, but as much as you tried to fulfill her wish for you to grow up to become Wizard, you found academy life to be excruciatingly boring.  In many ways you were more like your father, spending your time engaged in swordplay rather than studying your magic textbooks.  To your teacher's dismay, your studies suffered as your fighting skills grew.  However, the more the academy attempted to discipline you, the more you came to hate magic and yearn for a more adventurous life.\n\nSuch a life always seemed out of your grasp until last week, when you received an invitation from Winston Boragus, the Duke of Krewlod, to join his armed forces.  Your reputation as a swordsman had reached the neighboring country of Krewlod, and the Duke, who desperately needed to supplement his armed forces, was aggressively seeking foreign recruits.  You saw this opportunity as a sign that now was the time for you to give up your life of magic.\n\nKnowing how zealously the academy guards its secrets, you are certain they will close the borders and give you chase.  Undaunted, you send one of your sparring partners out find a town where you could build up troops to help you fight your way to Krewlod.  Last night your friend sent word of a town not far from Calarnen.  All you have to do is follow the road south, and you would get to safety in a few days.",
+    "ua": "Син ватажка варварів і чаклунки-джина, ви завжди знаходили привід бути незгодним зі своїм серцем. Ваша мати зарахувала вас в магічну академію в юному віці, але як ви не намагалися виконати її мрію і стати чарівником, життя в академії здавалося вам жахливо нудним. Багато в чому ви більше схожі на свого батька, проводячи час у поєдинках на мечах, а не за книгами заклинань. До переляку вашого вчителя, успіхи в навчанні були тим нижчі, чим вищими ставали бойові навички. І чим більше академія намагалася дисциплінувати вас, тим більше ви починали ненавидіти магію і прагнути до життя, сповненого пригод.\n\nТаке життя було вам не до душі. Проте минулого тижня ви отримали запрошення від Вінстона Борагуса, герцога Крюлода, приєднатися до його армії. Ваша репутація відмінного бійця дійшла до сусідньої держави Крюлод, а герцог якраз щосили набирав іноземних рекрутів для поповнення своєї армії. Ви подумали, що ця можливість - знак того, що прийшов час зав'язати з магією.\n\nЗнаючи, як ревно академія захищає свої секрети, ви були впевнені, що за вами пошлють погоню і закриють кордони. Однак ви посилаєте одного з ваших партнерів по битвах на пошуки міста, де можна було б зібрати власне військо, з яким і пробити собі дорогу на Крюлод. Учора ввечері ви отримали повідомлення, що ваш друг знайшов відповідне місто недалеко від Каларнена. Все, що вам потрібно зробити - піти дорогою на південь, і через пару днів ви будете в безпеці."
+  },
+  {
+    "var": "YOG_M1_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Journal Entry 1- Day 4",
+    "ua": "Journal Entry 1- Day 4"
+  },
+  {
+    "var": "YOG_M1_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "Journal Entry 1:  I have been on the run for four days now, and still there is no sign of the town my friend spoke of.  Still I must press on, for I have learned that the academy has sent an army commanded by one of their most adept mages, a Wizard named Aine, to hunt me down.  My only hope is to find this elusive town so that I can lose Aine and raise my own army to get through the border.",
+    "ua": "Запис 1: Я в дорозі вже чотири дні, але поки ще не знайшов навіть натяку на місто, про яке говорив мій друг. Мені треба поспішати - я знаю, що академія вислала армію під проводом одного з найбільш могутніх магів, чародійки на ім'я Ейне, щоб спіймати мене. Моя єдина надія - знайти це місто, щоб сховатися від Ейне і зібрати власну армію, щоб перетнути кордон."
+  },
+  {
+    "var": "YOG_M1_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Journal Entry 2 - Day 8",
+    "ua": "Journal Entry 2 - Day 8"
+  },
+  {
+    "var": "YOG_M1_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "Journal Entry 2:  We arrived at Padon not too long ago.  So far everything is going well, although the army is taking longer to build than I would like.  However, I don't think the border gate will hold off Aine's forces much longer.  No doubt she will devise a way to get through it.  This morning I sent a scout across the border into Krewlod to find an isolated city, a place where I can hold out at until Aine tires of searching for me.  The sooner I get out of Bracada, the better off I will be.",
+    "ua": "Запис 2: Не так давно ми досягли Падона. Поки все добре, хоча армію доводиться збирати довше, ніж мені хотілося б. Тим не менш, я не думаю, що стіни міста зможуть витримати атаку сил Ейне довго. Без сумніву, вона знайде спосіб увійти всередину. Вранці я відіслав розвідника на кордон з Крюлодом, щоб знайти відокремлене місто, де я зміг би відсидітися доти, доки Ейне не втомиться шукати мене. Чим швидше я виберуся з Бракади, тим краще."
+  },
+  {
+    "var": "YOG_M1_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "Journal Entry 3 - Day 14",
+    "ua": "Journal Entry 3 - Day 14"
+  },
+  {
+    "var": "YOG_M1_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "Journal Entry 3:  Late last night my scout returned with the good news that a city named Groa lies east of Krewlod's border.  He also warned me that the border is indeed heavily guarded.  Although the scout couldn't identify every troop in the garrison, he did see signs of Titans, Naga Queens, and Arch Magi.  I must be well prepared before I can assault the garrison.",
+    "ua": "Запис 3: Пізно вночі мій розвідник повернувся з хорошими новинами: він знайшов місто Гроа, який лежить на схід від кордону з Крюлодом. Він також попередив мене, що кордон справді сильно охороняється. Хоча він не зміг розпізнати всі загони в гарнізоні, але він точно бачив титанів, королев наг і архімагів. Мені варто як слід підготуватися, перш ніж атакувати це міст.."
+  },
+  {
+    "var": "YOG_M1_mapevent4_name",
+    "field": "map_mapevent4_name",
+    "en": "Take this!!!!!",
+    "ua": "Take this!!!!!"
+  },
+  {
+    "var": "YOG_M1_mapevent5_name",
+    "field": "map_mapevent5_name",
+    "en": "Good Find",
+    "ua": "Good Find"
+  },
+  {
+    "var": "YOG_M1_mapevent5_mesg",
+    "field": "map_mapevent5_mesg",
+    "en": "You discover an ancient magical text on the black art of Necromancy.  This is not the first time you have seen such a book.\n\nWhen you were at the magic academy, you fell in love with another student, named Vidomina.  It must be true that opposites attract because, unlike you, she was the quite scholarly and bookish.  And how she loved studying magic!  It was her life, or would have been, had it not corrupted her.  For Vidomina spent her spare time scouring libraries for arcane magical tomes, and she eventually came across a manuscript such as the one now in your possession.  Against the advice of her teachers, she studied the book, but its evil glyphs transformed her into a Necromancer.  She now resides in Deyja, where she will live out the rest of her days.\n\nYou waste no time in selling the cursed book for gold and resources.",
+    "ua": "Ви виявляєте старовинний магічний манускрипт, присвячений темному мистецтву некромантії. Ви не вперше бачите подібне.\n\nКоли ви вчилися в магічній академії, ви закохалися в одну ученицю на ім'я Відоміна. Мабуть, це правда, що протилежності притягуються, тому що, на відміну від вас, вона багато часу приділяла навчанню і вивченню книг. Їй так подобалося вивчати магію! Магія стала її життям, вірніше, стала б, якби не зруйнувала його. Свій вільний час Відоміна проводила в бібліотеках у пошуках таємних магічних книг, і одного разу вона натрапила на манускрипт, подібний до того, що зараз у ваших руках. Не послухавши вчителів, вона стала вивчати цю книгу, і злі слова, приховані у ній, перетворили Відоміну в некроманта. Тепер вона в Деї, і буде там до кінця своїх днів.\n\nВи негайно обмінюєте прокляту книгу на золото і ресурси."
+  },
+  {
+    "var": "YOG_M1_mapevent6_name",
+    "field": "map_mapevent6_name",
+    "en": "Take this too!!!!",
+    "ua": "Take this too!!!!"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "var": "EVIL2_M3_prolog",
+    "field": "wrapper_prolog",
+    "en": "A rogue Death Knight does not wish to take part in the glory that will be our invasion of Erathia. He believes that by remaining out of the fighting, his lands will be spared from any counterattack by the Erathians. It is time we taught him a small lesson regarding obedience.",
+    "ua": "Один свавільний лицар смерті не бажає приєднатися до нашого славного походу. Він розраховує, що його нейтралітет допоможе йому вберегти свої володіння від неминучого удару ерафійців. Пора навчити його покори."
+  },
+  {
+    "var": "EVIL2_M3_epilog",
+    "field": "wrapper_epilog",
+    "en": "A Death Knight named Mot, refuses to obey King Gryphonheart’s orders.  An example must be made so others will not contemplate such traitorous action.  Mot has insulated himself with his armies.  Infiltrate his troops, kill him, and take his command.  When he is dead, resurrect his corpse and employ him in your ranks.",
+    "ua": "Лицар Смерті на ім'я Мот відмовляється коритися королю-мерцю Гріфонхарту. Ми повинні дати урок іншим, щоб ні в кого надалі не виникало зрадницьких думок. Мот оточив себе особистою гвардією. Проникни до її лав, убий його й підкори собі його військо. Воскреси його тіло і зроби Мота своїм слухняним солдатом."
+  },
+  {
+    "var": "EVIL2_M3_map_name",
+    "field": "map_map_name",
+    "en": "Corporeal Punishment",
+    "ua": "Кара плоті"
+  },
+  {
+    "var": "EVIL2_M3_map_desc",
+    "field": "map_map_desc",
+    "en": "To win, you must defeat the Death Knight, Mot. Some Border Guards can only be passed if a Hero carries a Quest Artifact from a previous scenario, but the artifact beyond the Border Guard will travel with you to the next scenario.",
+    "ua": "Щоб виграти, ви повинні перемогти Лицаря Смерті на ім'я Мот. Пройти деяких Вартових Кордону можна тільки, якщо в Героя є з собою артефакт з попереднього сценарію. Але якщо ви минули Вартових Кордону з цим артефактом, він перейде з вами в наступний сценарій."
+  },
+  {
+    "var": "EVIL2_M3_p0_hero_name",
+    "field": "map_p0_hero_name",
+    "en": "Mot",
+    "ua": "Мот"
+  },
+  {
+    "var": "EVIL2_M3_p0_owned_hero_name",
+    "field": "map_p0_owned_hero_name",
+    "en": "Mot",
+    "ua": "Мот"
+  },
+  {
+    "var": "EVIL2_M3_rumor0_name",
+    "field": "map_rumor0_name",
+    "en": "Whirlpool hint",
+    "ua": "Whirlpool hint"
+  },
+  {
+    "var": "EVIL2_M3_rumor0_desc",
+    "field": "map_rumor0_desc",
+    "en": "The whirlpool is the gateway to the Caverns of the Dead, but the Collar of Conjuring is the Key.",
+    "ua": "Вир - це брама в Печери Мерців, але потрапити туди зможе лише той, у кого є Кольє заклинача."
+  },
+  {
+    "var": "EVIL2_M3_obj1347_hero_name",
+    "field": "map_obj1347_hero_name",
+    "en": "Mot",
+    "ua": "Мот"
+  },
+  {
+    "var": "EVIL2_M3_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Intro part 1",
+    "ua": "Intro part 1"
+  },
+  {
+    "var": "EVIL2_M3_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "You receive a letter from the Lich King Gryphonheart. \"Commander: It would seem as though one of my generals, a Death Knight by the name of Mot, does not wish to follow my orders, and believes that we should not attack Erathia. This is fine, as we do not need him for our plans.\"",
+    "ua": "Вам прийшов лист від Короля Лічів Гріфонхарта. У ньому говориться: \"Командир. Схоже, один з моїх генералів - Лицар Смерті на ім'я Мот - відмовляється виконувати мої накази і вважає, що не мені потрібно нападати на Ерафію. Нічого страшного, все одно ми не планували використовувати його в нашій справі!\""
+  },
+  {
+    "var": "EVIL2_M3_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Intro part 2",
+    "ua": "Intro part 2"
+  },
+  {
+    "var": "EVIL2_M3_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "\"We do, however, need his armies, and I can not allow his disobedience to go unpunished. Your task is to find Mot and slay him. He will then be raised and made to serve as a minion in your own army. Succeed in this task and you shall replace him as my new general.\"",
+    "ua": "\"Все ж таки нам знадобиться його військо. І я не маю наміру прощати йому непокору. Ваше завдання знайти Мота і знищити. Потім ми пробудимо його і дамо якусь дрібну посаду у вашому війську. Виконайте це завдання, і я одягну на вас його генеральські погони.\""
+  },
+  {
+    "var": "EVIL2_M3_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Intro part 3",
+    "ua": "Intro part 3"
+  },
+  {
+    "var": "EVIL2_M3_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "Even gazing at the signature of the undead King sends a cold chill through you. You quickly pen a response, stating simply, \"It shall be done.\" You must not let Mot defeat you.",
+    "ua": "При одному тільки погляді на підпис Короля у вас пробігає холодок по шкірі. Ви швидко накидаєте відповідь, що складається всього з двох слів: \"Буде виконано.\" Не можна дати Моту перемогти вас."
+  }
+]

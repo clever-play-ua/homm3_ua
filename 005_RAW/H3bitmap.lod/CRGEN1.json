@@ -1,0 +1,402 @@
+[
+  {
+    "var": "CRGEN1_1",
+    "en": "Basilisk Pit",
+    "ua": "Яма Василісків"
+  },
+  {
+    "var": "CRGEN1_2",
+    "en": "Behemoth Crag",
+    "ua": "Скеля Чудовиськ"
+  },
+  {
+    "var": "CRGEN1_3",
+    "en": "Pillar of Eyes",
+    "ua": "Колона очей"
+  },
+  {
+    "var": "CRGEN1_4",
+    "en": "Hall of Darkness",
+    "ua": "Зала темряви"
+  },
+  {
+    "var": "CRGEN1_5",
+    "en": "Dragon Vault",
+    "ua": "Склеп драконів"
+  },
+  {
+    "var": "CRGEN1_6",
+    "en": "Training Grounds",
+    "ua": "Гіподром"
+  },
+  {
+    "var": "CRGEN1_7",
+    "en": "Centaur Stables",
+    "ua": "Стайні кентаврів"
+  },
+  {
+    "var": "CRGEN1_8",
+    "en": "Air Elemental Conflux",
+    "ua": "Колонія повітряних елементалів"
+  },
+  {
+    "var": "CRGEN1_9",
+    "en": "Portal of Glory",
+    "ua": "Портал Слави"
+  },
+  {
+    "var": "CRGEN1_10",
+    "en": "Cyclops Cave",
+    "ua": "Печера Циклопів"
+  },
+  {
+    "var": "CRGEN1_11",
+    "en": "Forsaken Palace",
+    "ua": "Покинутий палац"
+  },
+  {
+    "var": "CRGEN1_12",
+    "en": "Serpent Fly Hive",
+    "ua": "Вулик Змій"
+  },
+  {
+    "var": "CRGEN1_13",
+    "en": "Dwarf Cottage",
+    "ua": "Котедж Гномів"
+  },
+  {
+    "var": "CRGEN1_14",
+    "en": "Earth Elemental Conflux",
+    "ua": "Колонія земних елементалів"
+  },
+  {
+    "var": "CRGEN1_15",
+    "en": "Fire Lake",
+    "ua": "Вогненне озеро"
+  },
+  {
+    "var": "CRGEN1_16",
+    "en": "Homestead",
+    "ua": "Садиба"
+  },
+  {
+    "var": "CRGEN1_17",
+    "en": "Fire Elemental Conflux",
+    "ua": "Колонія вогненних елементалів"
+  },
+  {
+    "var": "CRGEN1_18",
+    "en": "Parapet",
+    "ua": "Парапет"
+  },
+  {
+    "var": "CRGEN1_19",
+    "en": "Altar of Wishes",
+    "ua": "Вівтар бажань"
+  },
+  {
+    "var": "CRGEN1_20",
+    "en": "Wolf Pen",
+    "ua": "Вигін Вовків"
+  },
+  {
+    "var": "CRGEN1_21",
+    "en": "Gnoll Hut",
+    "ua": "Хатина Гнолів"
+  },
+  {
+    "var": "CRGEN1_22",
+    "en": "Goblin Barracks",
+    "ua": "Казарми Гоблінів"
+  },
+  {
+    "var": "CRGEN1_23",
+    "en": "Hall of Sins",
+    "ua": "Зал гріхів"
+  },
+  {
+    "var": "CRGEN1_24",
+    "en": "Gorgon Lair",
+    "ua": "Лігво Горгон"
+  },
+  {
+    "var": "CRGEN1_25",
+    "en": "Dragon Cliffs",
+    "ua": "Скелі Драконів"
+  },
+  {
+    "var": "CRGEN1_26",
+    "en": "Griffin Tower",
+    "ua": "Башта Грифонів"
+  },
+  {
+    "var": "CRGEN1_27",
+    "en": "Harpy Loft",
+    "ua": "Горище Гарпій"
+  },
+  {
+    "var": "CRGEN1_28",
+    "en": "Kennels",
+    "ua": "Розплідники"
+  },
+  {
+    "var": "CRGEN1_29",
+    "en": "Hydra Pond",
+    "ua": "Ставок Гідр"
+  },
+  {
+    "var": "CRGEN1_30",
+    "en": "Imp Crucible",
+    "ua": "Тигель Бісенят"
+  },
+  {
+    "var": "CRGEN1_31",
+    "en": "Lizard Den",
+    "ua": "Лігво Ящірок"
+  },
+  {
+    "var": "CRGEN1_32",
+    "en": "Mage Tower",
+    "ua": "Вежа Магів"
+  },
+  {
+    "var": "CRGEN1_33",
+    "en": "Manticore Lair",
+    "ua": "Кубло Мантикор"
+  },
+  {
+    "var": "CRGEN1_34",
+    "en": "Chapel of Stilled Voices",
+    "ua": "Каплиця стихаючих голосів"
+  },
+  {
+    "var": "CRGEN1_35",
+    "en": "Labyrinth",
+    "ua": "Лабіринт"
+  },
+  {
+    "var": "CRGEN1_36",
+    "en": "Monastery",
+    "ua": "Монастир"
+  },
+  {
+    "var": "CRGEN1_37",
+    "en": "Golden Pavilion",
+    "ua": "Золотий павільйон"
+  },
+  {
+    "var": "CRGEN1_38",
+    "en": "Demon Gate",
+    "ua": "Брама Демонів"
+  },
+  {
+    "var": "CRGEN1_39",
+    "en": "Ogre Fort",
+    "ua": "Форт Огрів"
+  },
+  {
+    "var": "CRGEN1_40",
+    "en": "Orc Tower",
+    "ua": "Башта Орків"
+  },
+  {
+    "var": "CRGEN1_41",
+    "en": "Hell Hole",
+    "ua": "Пекельна діра"
+  },
+  {
+    "var": "CRGEN1_42",
+    "en": "Dragon Cave",
+    "ua": "Печера Драконів"
+  },
+  {
+    "var": "CRGEN1_43",
+    "en": "Cliff Nest",
+    "ua": "Гірське гніздо"
+  },
+  {
+    "var": "CRGEN1_44",
+    "en": "Workshop",
+    "ua": "Майстерня"
+  },
+  {
+    "var": "CRGEN1_45",
+    "en": "Cloud Temple",
+    "ua": "Захмарний Храм"
+  },
+  {
+    "var": "CRGEN1_46",
+    "en": "Dendroid Arches",
+    "ua": "Арки Дендроідів"
+  },
+  {
+    "var": "CRGEN1_47",
+    "en": "Warren",
+    "ua": "Садок"
+  },
+  {
+    "var": "CRGEN1_48",
+    "en": "Water Elemental Conflux",
+    "ua": "Колонія водяних елементалів"
+  },
+  {
+    "var": "CRGEN1_49",
+    "en": "Tomb of Souls",
+    "ua": "Гробниця душ"
+  },
+  {
+    "var": "CRGEN1_50",
+    "en": "Wyvern Nest",
+    "ua": "Гніздо Виверн"
+  },
+  {
+    "var": "CRGEN1_51",
+    "en": "Enchanted Spring",
+    "ua": "Зачароване джерело"
+  },
+  {
+    "var": "CRGEN1_52",
+    "en": "Unicorn Glade",
+    "ua": "Галявина Єдинорогів"
+  },
+  {
+    "var": "CRGEN1_53",
+    "en": "Mausoleum",
+    "ua": "Мавзолей"
+  },
+  {
+    "var": "CRGEN1_54",
+    "en": "Estate",
+    "ua": "Маєток"
+  },
+  {
+    "var": "CRGEN1_55",
+    "en": "Cursed Temple",
+    "ua": "Проклятий храм"
+  },
+  {
+    "var": "CRGEN1_56",
+    "en": "Graveyard",
+    "ua": "Цвинтар"
+  },
+  {
+    "var": "CRGEN1_57",
+    "en": "Guardhouse",
+    "ua": "Вежа Вартових"
+  },
+  {
+    "var": "CRGEN1_58",
+    "en": "Archers' Tower",
+    "ua": "Вежа Лучників"
+  },
+  {
+    "var": "CRGEN1_59",
+    "en": "Barracks",
+    "ua": "Казарми"
+  },
+  {
+    "var": "CRGEN1_60",
+    "en": "Magic Lantern",
+    "ua": "Чарівний ліхтар"
+  },
+  {
+    "var": "CRGEN1_61",
+    "en": "Altar of Thought",
+    "ua": "Вівтар думок"
+  },
+  {
+    "var": "CRGEN1_62",
+    "en": "Pyre",
+    "ua": "Похоронне багаття"
+  },
+  {
+    "var": "CRGEN1_63",
+    "en": "Frozen Cliffs",
+    "ua": "Морозні скелі"
+  },
+  {
+    "var": "CRGEN1_64",
+    "en": "Crystal Cavern",
+    "ua": "Кришталева печера"
+  },
+  {
+    "var": "CRGEN1_65",
+    "en": "Magic Forest",
+    "ua": "Чарівний ліс"
+  },
+  {
+    "var": "CRGEN1_66",
+    "en": "Sulfurous Lair",
+    "ua": "Сірчане лігво"
+  },
+  {
+    "var": "CRGEN1_67",
+    "en": "Enchanter's Hollow",
+    "ua": "Улоговина Чародіїв"
+  },
+  {
+    "var": "CRGEN1_68",
+    "en": "Treetop Tower",
+    "ua": "Башта на вершині дерева"
+  },
+  {
+    "var": "CRGEN1_69",
+    "en": "Unicorn Glade",
+    "ua": "Галявина Єдинорогів"
+  },
+  {
+    "var": "CRGEN1_70",
+    "en": "Altar of Air",
+    "ua": "Вівтар Повітря"
+  },
+  {
+    "var": "CRGEN1_71",
+    "en": "Altar of Earth",
+    "ua": "Вівтар Землі"
+  },
+  {
+    "var": "CRGEN1_72",
+    "en": "Altar of Fire",
+    "ua": "Вівтар Вогню"
+  },
+  {
+    "var": "CRGEN1_73",
+    "en": "Altar of Water",
+    "ua": "Вівтар Води"
+  },
+  {
+    "var": "CRGEN1_74",
+    "en": "Thatched Hut",
+    "ua": "Солом'яна хатина"
+  },
+  {
+    "var": "CRGEN1_75",
+    "en": "Hovel",
+    "ua": "Курінь"
+  },
+  {
+    "var": "CRGEN1_76",
+    "en": "Boar Glen",
+    "ua": "Долина Кабанів"
+  },
+  {
+    "var": "CRGEN1_77",
+    "en": "Tomb of Curses",
+    "ua": "Проклята гробниця"
+  },
+  {
+    "var": "CRGEN1_78",
+    "en": "Nomad Tent",
+    "ua": "Намети Кочівників"
+  },
+  {
+    "var": "CRGEN1_79",
+    "en": "Rogue Cavern",
+    "ua": "Печера Злодіїв"
+  },
+  {
+    "var": "CRGEN1_80",
+    "en": "Troll Bridge",
+    "ua": "Міст Тролів"
+  }
+]

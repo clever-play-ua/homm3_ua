@@ -1,0 +1,15 @@
+{
+  "sequences": [
+    {
+      "group": 0,
+      "frames": [
+        "SCMDBUT.dir\\00_00.png",
+        "SCMDBUT.dir\\00_01.png",
+        "SCMDBUT.dir\\00_02.png",
+        "SCMDBUT.dir\\00_03.png"
+      ]
+    }
+  ],
+  "type": 71,
+  "format": 1
+}

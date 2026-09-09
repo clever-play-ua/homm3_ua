@@ -1,0 +1,16 @@
+{
+  "sequences": [
+    {
+      "group": 0,
+      "frames": [
+        "ScnrMpSz.dir\\00_00.png",
+        "ScnrMpSz.dir\\00_01.png",
+        "ScnrMpSz.dir\\00_02.png",
+        "ScnrMpSz.dir\\00_03.png",
+        "ScnrMpSz.dir\\00_04.png"
+      ]
+    }
+  ],
+  "type": 71,
+  "format": 1
+}

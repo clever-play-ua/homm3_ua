@@ -1,0 +1,158 @@
+[
+  {
+    "var": "FINAL_M7_prolog",
+    "field": "wrapper_prolog",
+    "en": "With Finneas on the throne it's time for the next step of your plan.  AvLee, Erathia and Krewlod troops have all invaded Deyja territory, thinking they have you where they want you.  But it's just the opposite, isn't it?  It was you who drew them here, right where you want them, and now your goal of world domination is a little closer.",
+    "ua": "Поставивши Фінеаса на трон, ви вирішили перейти до наступного кроку вашого плану. Війська Ав-Лі, Ерафії та Крюлода разом вторглися не територію Деї, вважаючи що знайдуть вас там. Насправді це ви заманили їх сюди, коли вам це знадобилося, і тепер ваша мета заволодіти світом стала трохи ближче."
+  },
+  {
+    "var": "FINAL_M7_epilog",
+    "field": "wrapper_epilog",
+    "en": "Four very brave but foolish heroes have entered my realm.  They seek to dissuade me from invading Erathia and AvLee with their combined forces.  However, I welcome their intrusion, for my undead armies could use more recruits.  I shall harvest these heroes, and they will pay for their impudence with their eternal souls.",
+    "ua": "У мої межі вторглися чотири хоробрих, але дурних герої. Вони намагаються змусити мене відмовитися від навали на Ерафію і країну Ав-Лі. Дурні! Я тільки радий бачити їх у моїх володіннях, бо моїм арміям ніколи не завадять нові рекрути. Я зберу з них багату данину, і вони заплатять своїми безсмертними душами за свою нахабність."
+  },
+  {
+    "var": "FINAL_M7_map_name",
+    "field": "map_map_name",
+    "en": "Wrath of Sandro",
+    "ua": "Гнів Сандро"
+  },
+  {
+    "var": "FINAL_M7_map_desc",
+    "field": "map_map_desc",
+    "en": "Wipe out all invading forces to win the scenario.  However, if Sandro is defeated in combat, the scenario is lost.  Sandro is limited to level 40 but will carry his experience, skills and spells on to his next scenario.",
+    "ua": "Для того щоб отримати перемогу в цьому сценарії, необхідно знищити всіх загарбників. Якщо ж Сандро буде переможений, сценарій закінчиться поразкою. Сандро обмежений 40 рівнем, але він переходить у наступний сценарій з усім своїм досвідом, навичками і заклинаннями."
+  },
+  {
+    "var": "FINAL_M7_obj188_event_name",
+    "field": "map_obj188_event_name",
+    "en": "resources",
+    "ua": "resources"
+  },
+  {
+    "var": "FINAL_M7_obj188_event_name",
+    "field": "map_obj188_event_name",
+    "en": "monsters",
+    "ua": "resources"
+  },
+  {
+    "var": "FINAL_M7_obj281_event_name",
+    "field": "map_obj281_event_name",
+    "en": "resources",
+    "ua": "resources"
+  },
+  {
+    "var": "FINAL_M7_obj281_event_name",
+    "field": "map_obj281_event_name",
+    "en": "Creatures",
+    "ua": "resources"
+  },
+  {
+    "var": "FINAL_M7_obj585_guardian_mesg",
+    "field": "map_obj585_guardian_mesg",
+    "en": "Something told you this was too good to be true.",
+    "ua": "Щось підказує вам, що це надто добре, щоб бути правдою."
+  },
+  {
+    "var": "FINAL_M7_obj848_event_name",
+    "field": "map_obj848_event_name",
+    "en": "resources",
+    "ua": "resources"
+  },
+  {
+    "var": "FINAL_M7_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Day One",
+    "ua": "Day One"
+  },
+  {
+    "var": "FINAL_M7_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "Heroic deeds from some AvLee Rangers and a few Barbarians working out of Erathia wiped out the opposition to Finneas Vilmar's ascension to the throne.  With this lucky turn of events he was quickly crowned, and you are now set upon the task of taking out the enemies who have invaded.  Spies are already placed in the opposing armies to find out what you can.",
+    "ua": "Геройські подвиги вільних стрільців країни Ав-Лі і парочки набіглих варварів, що діють із прикордонних областей Ерафії, знищили всіх, хто міг би завадити Фінеасу Вілмару зійти на трон. Такий вдалий збіг обставин дозволив прискорити його коронацію, і тепер вам належить знищити супротивників, що вторглися у ваші землі. У ворожих арміях діють шпигуни, які регулярно повідомляють вам про розвиток подій."
+  },
+  {
+    "var": "FINAL_M7_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Day 4",
+    "ua": "Day 4"
+  },
+  {
+    "var": "FINAL_M7_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "Your spies have sent messages back, and the news is not good.  The two groups are allied, but they possibly suffer from morale problems.  AvLee, Erathian and Krewlod troops are all stationed in those castles.  It will be easy for you to exploit this vital weakness.  With the Armor of the Damned and the Cloak of the Undead King in your possession, you will easily overtake them and force these invaders out of your lands.",
+    "ua": "Нещодавно надійшли донесення від шпигунів, і вони зовсім не радують. Ваші противники уклали між собою союз, але можливо, їх остаточному об'єднанню заважають проблеми морального характеру. Війська країни Ав-Лі, Ерафії і Крюлода стоять у замках. Було б нерозумно не скористатися цим їх прорахунком. У вас в руках обладунок проклятого і Накидка мертвого короля, і ці артефакти допоможуть вам без труднощів здобути перемогу над загарбниками і вигнати їх з ваших земель."
+  },
+  {
+    "var": "FINAL_M7_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Day 9",
+    "ua": "Day 9"
+  },
+  {
+    "var": "FINAL_M7_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "More information has been smuggled out, and you almost laugh when you hear the news.  Crag Hack, the brainless barbarian, is rampaging towards you, hoping to tear you limb from limb.  He still wants his gold, the title and the land.  It is almost laughable, almost.  Crag Hack is never a force to underestimate.  His recent activities stopped the harvesting in the Erathian lands, and he put together the Statue of Legion, allowing the Erathians to gain too much population for you to deal with.  Mr. Hack will get his due rewards, courtesy of you.",
+    "ua": "Принесені шпигунами новини повеселили вас від душі. Краґ Хак, цей дурний варвар, шукає зустрічі з вами, щоб розірвати на шматки. Він все ще сподівається отримати золото, титул і землі. Це, звичайно, смішно, але слід дотримуватися обережності, бо Краґа Хака не варто недооцінювати. Його недавні дії перешкодили жнивам в землях Ерафії, а крім того, йому вдалося зібрати разом всі частини Статуї Легіонера, і через це тепер в Ерафії народжується набагато більше солдатів. Що ж, ви подбаєте про те, щоб містер Хак отримав по заслугах."
+  },
+  {
+    "var": "FINAL_M7_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "Day 12",
+    "ua": "Day 12"
+  },
+  {
+    "var": "FINAL_M7_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "Another old 'friend' of yours is now opposing you.  Gem, the lady Druid, has taken up arms and was responsible for the slaughtering of lord Fayette and his undead army.  Such a waste that turned out to be!  She was able to defeat the entire army you had given him and slay a perfectly good Death Knight.  It was such a pity, he seemed like a nice fellow.  It doesn't matter.  She assembled the pieces for the Cloak of the Undead King.  Of course, she did send a letter to Ethric, tipping him off of your whereabouts.  She'll make a lovely lich.",
+    "ua": "З'явилася ще одна стара «подружка», яка псує вам життя. Ґем, жриця друїдів, зібрала сильне військо і порубала на шматки лорда Файета і його орди нежиті. Це стало вельми відчутною втратою! Їй вдалося знищити чималу армію і розбити цілком боєздатного лицаря смерті. Дуже шкода, бо він подавав великі надії. Але, врешті-решт, це не так вже й важливо. Вона зібрала компоненти Накидки Мертвого короля і, звичайно ж, написала Етріку про місце вашого теперішнього перебування. Що ж, з неї вийде дуже симпатичний ліч."
+  },
+  {
+    "var": "FINAL_M7_mapevent4_name",
+    "field": "map_mapevent4_name",
+    "en": "Day 16",
+    "ua": "Day 16"
+  },
+  {
+    "var": "FINAL_M7_mapevent4_mesg",
+    "field": "map_mapevent4_mesg",
+    "en": "A new individual is directing the brute force of Crag Hack.  His name is Yog.  Either your spy has discovered a truly interesting individual or he's been eating too many mushrooms.  Yog is completely blue and has the features of a very large Genie.  According to your source, he once was a wizard and has mentioned the Angelic Alliance a couple of times.  You could care less what he once did, but you do care about this new artifact mentioned.  A few nights in the library would be an excellent way to spend your time.",
+    "ua": "За спиною тупоголового Краґа Хака замаячив якийсь розумник на ім'я Йоґ. Або ваш шпигун знайшов вам дійсно гідного суперника, або просто об'ївся мухоморів. У донесенні говориться, що Йоґ має шкіру синього кольору і дуже схожий на величезного джина. Повідомляється, що в давні часи він був чарівником, крім того, пару раз поруч з його ім'ям шпигун згадує Ангельський союз. Вам, звичайно, наплювати на його минуле, але ось новий артефакт викликає у вас жвавий інтерес. Слід провести кілька ночей в бібліотеці, і ця перспектива вам дуже до душі."
+  },
+  {
+    "var": "FINAL_M7_mapevent5_name",
+    "field": "map_mapevent5_name",
+    "en": "Day 19",
+    "ua": "Day 19"
+  },
+  {
+    "var": "FINAL_M7_mapevent5_mesg",
+    "field": "map_mapevent5_mesg",
+    "en": "Your source in the Ranger's camp has reported back with information about the fourth of your opponents.  This one is another interesting individual, a white elf named Gelu.  At first you thought he might be an albino, but the flaming red hair says he's a half-breed Vori Elf.  This Ranger is part of an Erathian special forces unit operating in AvLee.   He investigated the death of Lord Falorel, the vampire who had successfully impersonated an AvLee lord... until you poisoned Falorel for becoming too powerful.  Now you'll have to take care of this pesky Ranger, who once did you a little favor by keeping the AvLee troops busy.",
+    "ua": "Шпигун, засланий до табору вільних стрільців, передав донесення про вашого четвертому противника. Цей хлопчина - білошкірий ельф на ім'я Ґело - теж цікава персона. Спочатку ви було прийняли його за альбіноса, але вогненно-руде волосся говорить про його спорідненість з ельфами країни Ворі. Цей вільний стрілець числиться в спеціальному загоні військ Ерафії, що діє на території країни Ав-Лі. Він займався розслідуванням смерті лорда Фалореля - вампіра, який успішно прикидався бароном країни Ав-Лі... до тих пір, поки вам не довелося його отруїти, бо його могутність стала вселяти певні побоювання. Тепер доведеться займатися ще й цим пронирливим вільним стрільцем, який, до речі, свого часу надав вам невелику послугу, відтягнувши на себе частину військ країни Ав-Лі."
+  },
+  {
+    "var": "FINAL_M7_mapevent6_name",
+    "field": "map_mapevent6_name",
+    "en": "Day 23",
+    "ua": "Day 23"
+  },
+  {
+    "var": "FINAL_M7_mapevent6_mesg",
+    "field": "map_mapevent6_mesg",
+    "en": "The nights in the library paid off.  You discovered what the Angelic Alliance is.  It is a powerful sword created of six other pieces and allowing the three opposing towns to not suffer morale penalties no matter which hero actually carries the blade.  It is of utmost importance these heroes do not go searching for this artifact.  With it, they actually stand a chance against you.",
+    "ua": "Ночі, проведені в бібліотеці, не пройшли даремне. Ви дізналися, що таке цей Ангельський союз. Так називають могутній меч, складений з шести компонентів. В армії героя, що володіє цим мечем, можуть воювати представники трьох різних рас, які зазвичай не дуже прихильні один до одного, і при цьому вони не будуть діяти один одному на нерви і знижувати бойовий дух своїх товаришів по зброї. Треба зробити все, щоб не дати вашим противникам знайти цей артефакт, бо, заволодівши їм, вони будуть представляти для вас реальну загрозу."
+  },
+  {
+    "var": "FINAL_M7_mapevent7_name",
+    "field": "map_mapevent7_name",
+    "en": "Day 26",
+    "ua": "Day 26"
+  },
+  {
+    "var": "FINAL_M7_mapevent7_mesg",
+    "field": "map_mapevent7_mesg",
+    "en": "It has become clear you will drive these enemies out of Deyja but will be unable to catch the ringleaders.  They will fall back into heavier armed and better-trained camps and towns outside of the Deyja border.\n\nIt will not matter.  You will conquer them and continue on to the rest of Antagarich.  Soon, very soon, you shall be master of this world.",
+    "ua": "Немає сумнівів, ви в силах вибити армії противника з території Деї, але от полонити їх ватажків вам навряд чи вдасться. Вони повернуться у свої замки і табори по той бік кордонів Деї і зберуть ще більш грізні армії.\n\nА втім, це не має ніякого значення. Ви все одно рано чи пізно знищите їх і продовжите свій переможний марш Антагрічем. Скоро, дуже скоро ви станете повелителем всього цього світу."
+  }
+]

@@ -1,0 +1,817 @@
+[
+  {
+    "var": "HEROBIOS_1",
+    "en": "Orrin trained with one of Erathia's best siege tacticians during his early military service.  Any archers under his command learn quickly to shoot at targets behind obstacles.",
+    "ua": "На початку своєї військової кар'єри Оррін навчався у найкращих майстрів облогової справи Ерафії. Стрільці його армій швидко освоюють премудрості ураження цілей, схованих за перешкодами."
+  },
+  {
+    "var": "HEROBIOS_2",
+    "en": "\"Valeska became known as a master marksman when she first served in the Erathian military.  Now she not only commands her own forces, but spends time personally training her Crossbow troops as well.\"",
+    "ua": "\"Слава влучного стрільця прийшла до Валески, коли вона служила в ерафійській армії. Зараз вона не лише командує власним військом, але й не шкодує часу на навчання своїх арбалетників.\""
+  },
+  {
+    "var": "HEROBIOS_3",
+    "en": "\"Edric's great grandfather was the first man in Erathia to domesticate and train a wild Griffin.  Now, Edric's family maintains Erathia's largest Griffin breeding grounds for use in the King's armies.\"",
+    "ua": "\"Прапрадід Едріка першим в Ерафії зайнявся прирученням та навчанням диких грифонів. Сьогодні сім'я Едріка володіє найбільшим в Ерафії розплідником грифонів, де ці істоти проходять підготовку для служби в королівських військових силах.\""
+  },
+  {
+    "var": "HEROBIOS_4",
+    "en": "\"Sylvia spent several years as a Regnan Pirate before realizing that a pirate's life was not for her.  She sought a new life in the Erathian Military, and now serves in the Coastal Patrol, fighting off raids from the same Pirates she once sailed with.\"",
+    "ua": "\"Сильвія провела кілька років серед піратів Регни перш ніж зрозуміла, що таке життя не для неї. Порвавши з минулим, вона вступила до армії Ерафії й тепер служить в Береговій Охороні, відбиваючи наскоки тих самих піратів, з якими раніше разом борознила океани.\""
+  },
+  {
+    "var": "HEROBIOS_5",
+    "en": "\"Some have said that Lord Haart's departure from Enroth was due to ties with a Necromantic cult, but his service to the crown of Erathia has been as spotless as it was to Roland Ironfist before the Succession Wars.\"",
+    "ua": "\"Ходили чутки, що від'їзд лорда Хаарта з Енрота пов'язаний із захопленням некромантією, однак його служба володарям Ерафії була настільки ж бездоганною, як і самому Роланду Айронфісту в часи війни за Престол.\""
+  },
+  {
+    "var": "HEROBIOS_6",
+    "en": "\"Following Queen Catherine's example, Sorsha joined the ranks of the Erathian Military, quickly proving herself as a master of swordplay.  She was granted her first command shortly after the Kreegans arrived in Erathia.\"",
+    "ua": "\"Натхненна прикладом королеви Катерини, Сорша вступила до армії Ерафії й швидко завоювала репутацію неперевершеного мечника. Вперше вона стала на чолі війська незабаром після нападу на Ерафію проклятих криганців.\""
+  },
+  {
+    "var": "HEROBIOS_7",
+    "en": "\"Christian was always more of a frontiersman than a Knight, having set foot in nearly every part of Enroth before finally settling into military service in Erathia.  Though a wanderer and a bit of a dreamer, his battlefield tactics are feared throughout the world.\"",
+    "ua": "\"Крістіан завжди був, радше, вільним шукачем пригод, ніж істинним лицарем. Він обійшов увесь Енрот, перш ніж осісти в армії Ерафії. Й хоча в душі він волоцюга та трішки мрійник, його бойові таланти наганяють жах на супротивників у всіх куточках землі.\""
+  },
+  {
+    "var": "HEROBIOS_8",
+    "en": "\"Tyris rose quickly through the ranks of the Erathian Cavalry, not only for her ability to handle a horse, but for her 'sixth sense' regarding mounted strategy and tactics.  She has also never lost a joust.\"",
+    "ua": "\"Тіріс швидко піднялася на вершину в кавалерії Ерафії не лише тому, що ніхто краще за неї не вміє обходитися з кіньми, але й завдяки \"\"шостому чуттю\"\", коли йдеться про тактику і стратегію кінного бою. Ще нікому не вдавалося перемогти її на турнірі.\""
+  },
+  {
+    "var": "HEROBIOS_9",
+    "en": "\"Rion worked as a battlefield medic in the Erathian Military, but proved his ability to command when his captain was slain fighting the Kreegan hordes.  Rion was able to outmaneuver the enemy long enough for reinforcements to arrive.\"",
+    "ua": "\"Ріон служив польовим лікарем в ерафійській армії, але довів свої здібності бойового командира, коли його капітан загинув в черговому бою з криганськими ордами. Винахідливим маневром Ріон зумів виграти час до підходу підкріплення.\""
+  },
+  {
+    "var": "HEROBIOS_10",
+    "en": "\"Originally Adela only contributed her skills prior to battles.  If she could not convince her commander to avoid a fight, she would at least prepare a blessing for the troops as they entered combat.  She was given command of the Whitestone garrison.\"",
+    "ua": "\"Адела зазвичай воліє демонструвати свої здібності до початку битви. Якщо їй не вдається переконати свого командира не вступати в бій, вона завжди благословляла війська, що йдуть на битву. Згодом їй доручили командувати гарнізоном Вайтстона.\""
+  },
+  {
+    "var": "HEROBIOS_11",
+    "en": "\"As a young man, Cuthbert toyed with the darker magics, but when his wife died because a spell that he cast had gone awry, he turned to good and has never looked back.  His insights to the workings of dark magic give him an edge possessed by no other.\"",
+    "ua": "\"Ще в молодості Кусберт грався з темною магією, та коли його дружину вбило сплетене ним закляттям, що вийшло з-під контролю, він навернувся до сил добра й більше не згадував про минуле. А тепер його знання таємниць темної магії дає йому ті переваги, яких більше ні в кого немає.\""
+  },
+  {
+    "var": "HEROBIOS_12",
+    "en": "\"Caught at sea during a storm, Adelaide was shipwrecked on the shores of Vori, home of the Snow Elves.  She trained with them for some twenty years, and upon her return to Erathia discovered that no time had passed in her absence.\"",
+    "ua": "\"Якось корабель Аделаїди потрапив у шторм та зазнав аварії біля берегів Ворі, країни Снігових Ельфів. Аделаїда осягала їхні таємниці цілих двадцять років, а коли повернулася до Ерафії, то виявила, що час тут зупинився, і від моменту її від'їзду не минуло і дня.\""
+  },
+  {
+    "var": "HEROBIOS_13",
+    "en": "Ingham maintained a modest monastery in the years before the Kreegan attack.  He and his monks were quickly pressed into the service of the Erathian crown.",
+    "ua": "До приходу криганців Інґхам був настоятелем невеликого монастиря. Тепер часи змінилися, й Іґхаму та його монахам довелося встати під стяги Ерафії."
+  },
+  {
+    "var": "HEROBIOS_14",
+    "en": "\"Sanya has always been a fast learner, quickly outperforming first other students, then other acolytes once she had joined the church.  She seems to have a natural ability to learn spells, sometimes merely by watching someone else cast them.\"",
+    "ua": "\"Санія завжди була старанною ученицею, і, коли стала донькою церкви, то швидко виявилася першою серед учнів, а згодом перевершила й самих монахів. У неї природне чуття до магії. Інколи, щоб осягнути закляття, їй достатньо подивитися, як це роблять інші.\""
+  },
+  {
+    "var": "HEROBIOS_15",
+    "en": "\"Loynis has always believed that physical violence was never necessary as long as proper magic and prayer could be invoked.  Amazingly enough, he made it work, and now is regarded as a successful, though unconventional, leader.\"",
+    "ua": "\"Лойніс завжди говорив, що там, де працює справжня магія й творяться молитви, груба сила не потрібна. Найдивовижніше, він довів правоту своїх слів ділом й тепер вважається беззаперечним лідером, хоча й не зовсім звичним.\""
+  },
+  {
+    "var": "HEROBIOS_16",
+    "en": "\"Before she was granted command, Caitlin was considered by some to be possessed by evil spirits.  Despite these claims, donations to her church were unsurpassed when she was still in the church's ranks.\"",
+    "ua": "\"До того як Каітліні довірили командування, її вважали одержимою злим духом. Однак, чутки чутками, а підношення, які одержувала її церква, коли вона ще була в її рядах, ще нікому не вдалося перевершити.\""
+  },
+  {
+    "var": "HEROBIOS_17",
+    "en": "\"Trained in the ranks of the Erathian Military, Mephala was a genius when it came to using terrain to her advantage in battle.  She resigned her commission several years ago, preferring the quiet serenity of AvLee to the bustle of the cities of Erathia.\"",
+    "ua": "\"Мефала виховувалася в армії Ерафії, і їй не було рівних, коли справа доходила до використання рельєфу під час бою. Декілька років тому вона пішла у відставку, віддавши перевагу тиші благодатної Ав-Лі, марноті міст Ерафії.\""
+  },
+  {
+    "var": "HEROBIOS_18",
+    "en": "\"It is unusual to see a Dwarven Ranger, but for Ufretin the skills came naturally.  He has become an icon to the surface-dwelling dwarven population, and a natural born leader among all dwarvenkind.\"",
+    "ua": "\"Рейнджери серед гномів - велика рідкість, але Уфретіну ці таланти були дані від народження. Він став зразком гнома, який живе на поверхні землі, й визнаним провідником свого народу.\""
+  },
+  {
+    "var": "HEROBIOS_19",
+    "en": "Jenova's kindhearted nature has made her well liked throughout much of Erathia.  Her beguiling charms have allowed her to raise money for whatever cause she chooses to follow.",
+    "ua": "Добре серце Дженови знайшло любов до усієї Ерафії. Легкий та терплячий характер допомагає їй знаходити кошти на будь-яку справу, якою їй прийде в голову зайнятися."
+  },
+  {
+    "var": "HEROBIOS_20",
+    "en": "\"Ryland was the first (and to date, the only) human ever fully accepted by the Circle of Elder Dendroids as a Ranger of AvLee.  Some joke that he was once an Elf, but that he was killed and accidentally reincarnated into a human's body.\"",
+    "ua": "\"Ріланд став першою (і допоки єдиною) людиною, яку Круг Старших Дендроідів визнав гідним звання рейнджера країни Ав-Лі. Дехто жартує, що колись він був ельфом, який загинув і переродився в людській подобі.\""
+  },
+  {
+    "var": "HEROBIOS_21",
+    "en": "\"Orphaned as a child, Thorgrim was raised in the northernmost forests of AvLee.  He became known throughout the land for his exceptional ability to resist magics of all kinds.\"",
+    "ua": "\"Втративши батьків в ранньому дитинстві, Тхорґрім виріс у Північних лісах Ав-Лі. Він прославився своєю здатністю протистояти будь-якій магії.\""
+  },
+  {
+    "var": "HEROBIOS_22",
+    "en": "\"Ivor's lineage can be traced back nearly to the Silence.  Though bred as nobility, he has always been a hothead, preferring to lead an attack rather than wait to be attacked.  His brashness has so far kept him alive.\"",
+    "ua": "\"Рід Івора можна простежити майже до часів Великої Тиші. Попри своє благородне виховання, він завжди вирізнявся гарячим характером, надаючи перевагу нападу перед обороною. І, всупереч усьому, доля поки що його берегла.\""
+  },
+  {
+    "var": "HEROBIOS_23",
+    "en": "\"It was by pure accident that Clancy discovered he could communicate with Unicorns, but this unique ability has served him well as he worked his way through the ranks of AvLee's Military Elite.\"",
+    "ua": "\"Лише завдяки щасливому випадку Кленсі виявив у себе дар спілкуватися з єдинорогами, проте ця здібність допомогла йому зайняти місце у військовій еліті країни Ав-Лі.\""
+  },
+  {
+    "var": "HEROBIOS_24",
+    "en": "Kyrre served as a scout during the initial defense of AvLee from the Kreegan attacks.  Her ability to navigate difficult terrain allowed her to excel in her duties.",
+    "ua": "Спочатку, коли Ав-Лі відбивала перші напади криганців, Кірре була розвідницею. Її вміння орієнтуватися в непрохідній місцевості, здобуло їй заслужену славу."
+  },
+  {
+    "var": "HEROBIOS_25",
+    "en": "\"Coronius attended the University of Erathia for one semester before he realized that academics were overrated.  He left Erathia for AvLee, finding a Druid who could teach by example.\"",
+    "ua": "\"Короніусу вистачило одного семестру в університеті Ерафії, щоб зрозуміти, наскільки слава академіків більша за їхні заслуги. Він поїхав з Ерафії до Ав-Лі й знайшов друїда, який став його добрим наставником.\""
+  },
+  {
+    "var": "HEROBIOS_26",
+    "en": "\"Uland spent a great deal of his life as a battlefield healer before choosing to follow the path of a Druid, but the lessons he learned serving in the military have made him into an excellent leader today.\"",
+    "ua": "\"Уланд багато років лікував поранених перш, ніж стати друїдом, але знання, одержані ним під час армійської служби, допомогли йому заслужити репутацію чудового командира.\""
+  },
+  {
+    "var": "HEROBIOS_27",
+    "en": "\"Elleshar is perhaps the brightest student of magic ever seen in AvLee.  If he maintains his abilities over the next several decades, he will likely be the youngest Druid ever to be accepted into the Circle of Elders.\"",
+    "ua": "\"Еллешар заслужено вважається в Ав-Лі найздібнішим студентом серед тих, хто навчається магії. Його здібності не згаснуть у найближчі кілька десятків років, він, ймовірно, стане наймолодшим друїдом, прийнятим до Ради Старійшин.\""
+  },
+  {
+    "var": "HEROBIOS_28",
+    "en": "\"Gem was one of the greatest Sorceresses that Enroth had ever seen, serving King Roland Ironfist during the Succession Wars.  Shortly after Roland had secured the throne of Enroth, Gem left for Erathia, finding a new home in AvLee.\"",
+    "ua": "\"Ґем була однією з найбільших чарівниць, які коли-небудь ходили по землі Енрота. В часи війни за Престол вона служила королю Роланду Айронфісту. Коли Роланд міцно всівся на троні Енрота, Ґем перебралася в Ерафію й поселилася в Ав-Лі.\""
+  },
+  {
+    "var": "HEROBIOS_29",
+    "en": "Malcom is one of the few Dwarves to show a natural aptitude for magic.  Often he can learn new spells merely by watching someone else cast them just once.  He was quickly pressed into service defending AvLee from the Devils of Eeofol.",
+    "ua": "Малком - один з небагатьох гномів, які володіють природнім даром чародійства. Часто він може вивчити закляття, побачивши лише раз, як це роблять інші. Його швидко прийняли на службу й доручили захищати Ав-Лі від Дияволів Еофола."
+  },
+  {
+    "var": "HEROBIOS_30",
+    "en": "\"Melodia may not be the most highly skilled Druid ever seen in AvLee, but she is certainly the luckiest.  Even in the face of insurmountable odds she has managed to achieve miraculous victories.  Troops gladly volunteer to serve in any army she leads.\"",
+    "ua": "\"Можливо, Мелодія - не найсильніша жриця друїдів в Ав-Лі, зате безсумнівно, найщасливіша. Їй вдавалося одержувати гучні перемоги навіть тоді, коли всі обставини були проти неї. Вояки з великою радістю служать під її керівництвом.\""
+  },
+  {
+    "var": "HEROBIOS_31",
+    "en": "\"Rumored to have once lived among the Vori Snow Elves, Alagar's command of the element of Water, especially ice, is unsurpassed.  He has served AvLee since before the Kreegan invasion.\"",
+    "ua": "\"Кажуть, що колись Алаґар жив серед Снігових Ельфів у країні Варі, ось тому його здібності до магії Води, просто безмежні. Він розпочав служити Ав-Лі ще до вторгнення криганців.\""
+  },
+  {
+    "var": "HEROBIOS_32",
+    "en": "Aeris is one of the best animal handlers in all of AvLee.  He can sense ideal pairings between elves and pegasi which have made him one of the most sought out Druids in the land.",
+    "ua": "Аеріс - один з найкращих знавців тварин в Ав-Лі. Він ніколи не помиляється, коли об'єднує в пари ельфів і пегасів, це вміння зробило його одним з найславетніших друїдів у цих місцях."
+  },
+  {
+    "var": "HEROBIOS_33",
+    "en": "\"Piquedram spent much of his schooling in Alchemy dealing with various types of non-valuable rock.  It is no surprise, then, that in the service of Bracada he was able to improve upon the basic design of the Gargoyle.\"",
+    "ua": "\"Більшу частину своїх занять алхімією Пікведрам присвятив вивченню різноманітних напівдорогоцінних каменів, і тому недивно, що на службі Бракаде йому вдалося помітно покращити початкову конструкцію горгулій.\""
+  },
+  {
+    "var": "HEROBIOS_34",
+    "en": "\"No one really knows Thane's background, but he has been teaching Alchemy in Bracada for so long that not even the elders remember a time without him.\"",
+    "ua": "\"Ніхто точно не знає, хто такий Тан і звідки він родом. Він викладає алхімію в Бракаде вже стільки років, що навіть старійшини не пригадують часів, коли його тут не було.\""
+  },
+  {
+    "var": "HEROBIOS_35",
+    "en": "\"Josephine was the first to successfully animate a stone golem, creating a process that was much more sophisticated than that used for the gargoyle, on which her research was based.\"",
+    "ua": "\"Джозефіні першою вдалося успішно оживити кам'яного голема. Для цього вона розробила спеціальний процес, який виявися значно складнішим від технології оживлення горгулій, яку вона взяла за основу.\""
+  },
+  {
+    "var": "HEROBIOS_36",
+    "en": "\"Neela is one of the strongest of her kind, being able to resist an incredible amount of punishment.  She somehow is able to instill this resistance in the troops she commands.\"",
+    "ua": "\"Неела, мабуть, найсильніша поміж собі подібних і може без особливої шкоди переносити неймовірні пошкодження. Їй якимось чином вдається передавати цю здібність і своїм військам.\""
+  },
+  {
+    "var": "HEROBIOS_37",
+    "en": "\"Though formally trained as an Alchemist, Torosar has always had an interest in battlefield and siege tactics, often studying texts on the subject of war more frequently than on the subject of alchemy.\"",
+    "ua": "\"Як алхімік за освітою, Торосар, тим не менше, завжди активно цікавився тактикою бою та облоги. Його частіше можна було побачити за трактатами з цих питань, ніж за фоліантами з алхімії.\""
+  },
+  {
+    "var": "HEROBIOS_38",
+    "en": "\"It is said that Fafner became a genie over a millenium ago, when upon finding a genie bottle, wished that he become as powerful as the genie granting the wish.  The wish was granted, and Fafner has served the leaders of Bracada ever since.\"",
+    "ua": "\"Кажуть, що Фафнер перетворився в джина років тисячу, а то й більше тому, коли, натрапивши на пляшку з джином, став вимагати від її мешканця зробити його таким могутнім, як він сам. Це бажання було виконане, і з того часу Фафнер вірою й правдою служить правителям Бракади.\""
+  },
+  {
+    "var": "HEROBIOS_39",
+    "en": "\"Rissa was the first Alchemist to perfect the art of converting useless soft metals into mercury.  Though now commanding her own army, she spends much of her idle time experimenting with other materials.\"",
+    "ua": "\"Рісса була першою з алхіміків, яка оволоділа мистецтвом перетворення непотрібних м'яких металів у ртуть. І хоча зараз вона командує власною армією, у вільний час продовжує з насолодою експериментувати з різноманітними субстанціями.\""
+  },
+  {
+    "var": "HEROBIOS_40",
+    "en": "\"Iona proved long ago that she was more powerful than most of her kind, but her charming personality prevents those who serve her from being intimidated by her strength.\"",
+    "ua": "\"Іона давно довела свою першість серед багатьох своїх побратимів, однак через її легкий і веселий характер її значно більше люблять, ніж бояться.\""
+  },
+  {
+    "var": "HEROBIOS_41",
+    "en": "\"Astral arrived in Erathia nearly ten years ago, and was quickly accepted into the Wizards' Guild in Bracada.  His rise to power within the Guild ranks made some people joke that only magic could have brought him so much success so soon.\"",
+    "ua": "\"Астрал прибув в Ерафію понад десять років тому й без зволікань був прийнятий до Гільдії чарівників Бракади. Його стрімкий підйом службовою драбиною дав деяким жартівникам привід говорити, що лише чари допомогли йому зробити таку запаморочливу кар'єру.\""
+  },
+  {
+    "var": "HEROBIOS_42",
+    "en": "\"Halon was a well respected hero in Enroth, but became so bored after the Succession Wars that he left to explore the world.  He recently accepted a command rank in Bracada's military, hoping that it would give him something new to do.\"",
+    "ua": "\"Увесь Енрот шанував Халона як великого героя, однак після Воєн за Престол йому все набридло, й він подався мандрувати світом. Нещодавно він прийняв командирський пост в армії Бракади з надією, що це нове заняття дозволить йому хоча б трохи розвіятися.\""
+  },
+  {
+    "var": "HEROBIOS_43",
+    "en": "\"The first time Serena cast a spell she nearly killed herself.  She channeled so much magical energy into the spell that a Wizard in a neighboring town felt it.  He quickly sought her out, bringing her to the Wizards' Guild so that she could learn to control her powers.\"",
+    "ua": "\"Найперше закляття Серени ледве не вбило її саму. Вона вклала у це закляття стільки магічної енергії, що її відчув чарівник в сусідньому містечку. Він розшукав її і привів в Гільдію чарівників, щоб вона навчилася керувати своєю силою.\""
+  },
+  {
+    "var": "HEROBIOS_44",
+    "en": "\"Daremyth should have been dead a long time ago.  Her go-anywhere-do-anything attitude has put her in situations that she should have never survived, but somehow she comes through unscathed.\"",
+    "ua": "\"За всіма законами Дареміт вже давно повинна була бути мертвою. Через свої принципи - \"\"Іду, куди хочу, і роблю, що хочу\"\" - вона неодноразово опинялася в таких ситуаціях, вийти з яких живою просто неможливо. Позатим, на ній й досі немає жодної подряпини.\""
+  },
+  {
+    "var": "HEROBIOS_45",
+    "en": "\"Theodorus is easily one of the best spellcasters ever seen in Bracada.  As a result, journeyman mages often seek to learn from him, embarking on a pilgrimage of sorts in the hopes that they can bask in his wisdom.\"",
+    "ua": "\"Теодор без зусиль заткне за пояс всіх інших чарівників Бракади. Не дивно, що мандрівні маги часто просять його взяти їх в учні й проходять велетенські відстані лише для того, щоб викупатися в променях його мудрості.\""
+  },
+  {
+    "var": "HEROBIOS_46",
+    "en": "\"Solmyr was trapped in a genie bottle for over a millenium, and was so grateful to the human who finally released him that he accidentally swore to serve the man for eternity.  As fate would have it, that man is Gavin Magnus, the immortal ruler of the Bracada Highlands.\"",
+    "ua": "\"Джин Солмір просидів у своїй пляшці понад тисячу років і настільки був вдячний людині, яка випустила його на волю, що необачно поклявся служити йому до закінчення віків. Долі заманулося, щоб цією людиною виявився Гевін Магнус, безсмертний правитель полонин Бракади.\""
+  },
+  {
+    "var": "HEROBIOS_47",
+    "en": "\"Cyra originally sought to learn magic so that she could cast spells on men to make them love her.  She gave up that dream, however, when she discovered that she had real mystical talents that could be put to better use.\"",
+    "ua": "\"На початку Кіра займалася чарами лише для того, щоб накладати на кавалерів любовні чари. Однак варто було їй відкрити в собі справжні магічні таланти, як вона забула ці романтичні дурниці й стала використовувати свої здібності серйозно.\""
+  },
+  {
+    "var": "HEROBIOS_48",
+    "en": "\"Aine has lived in Bracada longer than most can remember, and is said to be one of the wealthiest heroes in the land.  She must have wealth hidden somewhere, for her kind hearted nature causes her to regularly contribute large sums of money to whatever cause she chooses to pursue.\"",
+    "ua": "\"Айн живе в Бракаде довше, ніж можуть пригадати собі найстаріші мешканці, і має славу одного з найбагатших героїв цієї країни. У неї вочевидь десь приховані незліченні скарби, тому, що будучи щедрою натурою, вона регулярно тратить велетенські суми на справи, які вважає гідними її уваги.\""
+  },
+  {
+    "var": "HEROBIOS_49",
+    "en": "\"Fiona was a trainer of circus animals in eastern Erathia before the Devils invaded.  She quickly proved to them that her control over animals extended to the always temperamental hell hounds, and she was immediately accepted into the ranks of Eeofol's armies.\"",
+    "ua": "\"До навали дияволів Фіона була дресерувальницею циркових тварин у східній Ерафії. Вона негайно довела непрошеним зайдам, що з таким же успіхом здатна керувати і неприборканими пекельними собаками, за що була негайно прийнята до армії Еофола.\""
+  },
+  {
+    "var": "HEROBIOS_50",
+    "en": "\"Rashka is one of the strongest and most feared of all Efreet.  His leadership methods focus on intimidation as a method of motivation.  So far, it has worked.\"",
+    "ua": "\"Рашка - один з найсильніших і найжахливіших іфритів. Серед усіх інших методів виховання своїх вояків він надає перевагу залякуванню. До цього часу цей спосіб спрацьовував безвідмовно.\""
+  },
+  {
+    "var": "HEROBIOS_51",
+    "en": "\"Marius was the mate of Calh for several years, finally splitting up when it became clear that Calh did not agree with her 'master plan' to rid the world of those disgusting, do-good woodland creatures.\"",
+    "ua": "\"Багато років Маріус була приятелькою Келха й розсталася з ним після того, як той категорично засудив її \"\"генеральний план\"\" очищення світу від цих мерзенних добреньких потвор, що розплодилися у лісах.\""
+  },
+  {
+    "var": "HEROBIOS_52",
+    "en": "\"When the Devils arrived in Erathia, Ignatius realized that his only hope for survival was to join them.  He has managed to convince them that he always serves some purpose, but fears that one day they will decide that they no longer need the help of a human.\"",
+    "ua": "\"Коли дияволи заполонили Ерафію, Ігнатіус зрозумів, що його єдиний шанс на порятунок полягає в тому, щоб приєднатися до них. Йому вдалося переконати їх у своїй відданості, але його проймає жах від однієї думки, що коли-небудь їм більше не знадобляться його послуги людини.\""
+  },
+  {
+    "var": "HEROBIOS_53",
+    "en": "\"It is said that Octavia could sneak gold away from a sleeping dragon, but she would have to, as she is constantly spending her wealth on anything that tickles her fancy.\"",
+    "ua": "\"Кажуть, що Октавія зуміє поцупити золото прямо з попід носа сплячого дракона. Слід визнати, що це вміння їй дуже знадобилось, адже вона увесь час витрачає величезні суми на свої чисельні забаганки.\""
+  },
+  {
+    "var": "HEROBIOS_54",
+    "en": "\"Calh was mated to Marius for several years, but it soon became clear that she was obsessed with the total destruction of, of all things, Dendroids.  They split up, and Calh went on to have a glorious military career.\"",
+    "ua": "\"Калх вживався із Маріус до того часу, поки не стало зрозуміло, що вона схибнулася на божевільній ідеї - вивести під корінь всіх дендроідів (і чим лише вони їй не догодили?). Вони розійшлися, і Калх повністю присвятив себе блискучій кар'єрі військового.\""
+  },
+  {
+    "var": "HEROBIOS_55",
+    "en": "\"No one knows Pyre's real name, but it is rumored that she was once a member of the Humanists, a foul cult bent on eradicating any non-human inhabitants of Erathia.  Only she knows what motivates her to serve the Devils of Eeofol.\"",
+    "ua": "\"Ніхто не знає справжнього імені Пір, але ходять чутки, що раніше вона ручкалася з гуманістами - мерзенною сектою, яка хотіла винищити все нелюдське населення Ерафії. Лише вона одна знає, що змушує її служити дияволам Еофола.\""
+  },
+  {
+    "var": "HEROBIOS_56",
+    "en": "\"Nymus was responsible for training Pit Fiends and Pit Lords for the attack on Erathia.  Her combat skills nearly led Eeofol to complete victory, but the deal between the Kreegans and Dungeon Overlords brought the initial campaign to an early end.\"",
+    "ua": "\"Німуса відповідала за підготовку демонів безодні перед нападом на Ерафію. Її військові таланти принесли були Еофолу повну перемогу, але змова між криганцями і Володарями Підземель призвели до того, що кампанія завершилася значно швидше, ніж було заплановано.\""
+  },
+  {
+    "var": "HEROBIOS_57",
+    "en": "\"Originally a shaman, Ayden offered his services to the Kreegans, discovering a dark desire to one day rule his own kingdom.\"",
+    "ua": "\"Колишній шаман Айден запропонував свої послуги криганцям з таємною надією коли-небудь розжитися власним королівством.\""
+  },
+  {
+    "var": "HEROBIOS_58",
+    "en": "\"Xyron seems to like fire even more than anyone would expect of an Efreeti, but Xyron delights in just about anything having to do with fire or lava.\"",
+    "ua": "\"Здається, Ксайрон любить вогонь більше, ніж цього можна було очікувати навіть від іфрита. Та що поробиш - усе, що пов'язано з полум'ям чи вогненною лавою, приводить Ксайрона у невимовний захват.\""
+  },
+  {
+    "var": "HEROBIOS_59",
+    "en": "\"Axsis showed a natural aptitude for magic at a young age, which makes things even more strange than normal, as demons rarely show a natural aptitude for anything that requires thought.\"",
+    "ua": "\"З ранніх років Аксіс проявляв природну схильність до магії, і це не може не дивувати, тому що демони дуже рідко виблискують талантами у чому-небудь, що потребує зусиль думки.\""
+  },
+  {
+    "var": "HEROBIOS_60",
+    "en": "\"Olema spent her entire life in Eeofol, but when the Kreegans arrived, she talked them into letting her serve as a guide to the land, and has since proven her ability to lead.\"",
+    "ua": "\"Олема усе життя провела в Еофолі, й коли прийшли криганці, вона викликалася показати їм таємні шляхи до центру країни. Від того часу вона неодноразово доводила свої здібності відмінного провідника.\""
+  },
+  {
+    "var": "HEROBIOS_61",
+    "en": "Calid possesses an unusual (though useful) ability to sniff out hidden sulfur deposits.  The Dungeon Overlords have used her on several occasions when collecting sulfur for their fearsome dragons.",
+    "ua": "Калід володіє незвичною (і дуже корисною) здатністю винюхувати приховані поклади сірки. Володарі Підземель неодноразово користувалися цим її умінням, щоб роздобути сірку для своїх жахливих драконів."
+  },
+  {
+    "var": "HEROBIOS_62",
+    "en": "\"Ash got her name during the initial attack on Erathia.  Her forces managed to trap several dozen elves and dwarves inside a large wooden fort, which she blasted so completely with a spell that the entire structure 'powdered' in a cloud of ash, revealing several dozen very shocked occupants.\"",
+    "ua": "\"Аш одержала своє прізвисько під час першого походу на Ерафію. Її військам вдалося загнати кілька десятків ельфів та гномів у великий дерев'яний форт, який вона так вдало накрила вогненним закляттям, що вся будівля в момент ока перетворилася в купу попелу, відкривши поглядам нападників натовп вражених захисників.\""
+  },
+  {
+    "var": "HEROBIOS_63",
+    "en": "\"When Zydar isn't in the field leading troops, he is studying new ways to increase the potency of his spells.  While not the greatest of mages, he certainly shows more promise than any of his demon-kin.\"",
+    "ua": "\"Коли Зідар не командує військами на полі бою, він сидить над книгами, відшукуючи нові способи вдосконалення своїх заклять. І хоча він не найславетніший серед магів, поза тим, подає значно більші надії, ніж будь-хто з його демонів-побратимів.\""
+  },
+  {
+    "var": "HEROBIOS_64",
+    "en": "\"Xarfax served in the Erathian Military until he was captured while fighting the Kreegans in 1162 A.S. (After the Silence).  The Kreegans, realizing the power within him, \"\"reconditioned\"\" Xarfax, turning him into a loyal and capable follower.\"",
+    "ua": "\"Ксарфакс служив у військах Ерафії з того часу, поки не був захоплений криганцями в битві, що відбулася у 1162 році від ВМ (Великого Мовчання). Криганці, розпізнавши в Ксарфаксові велику силу, \"\"переплавили\"\" його, перетворивши у вірного й здібного соратника.\""
+  },
+  {
+    "var": "HEROBIOS_65",
+    "en": "\"Straker chose the dark path of Necromancy, but it was soon discovered that his fighting skills by far outclassed his magical abilities.  He serves now in the undead armies of Deyja, hoping to one day join the ranks of true Necromancers.\"",
+    "ua": "\"Стракер вибрав темний шлях некромантії, проте незабаром виявилося, що його бойові навички значно переважають його ж магічні здібності. Зараз він служить в арміях нежиті країни Дея, але все ще не полишає надії одного чудового дня долучитися до рядів справжніх некромантів.\""
+  },
+  {
+    "var": "HEROBIOS_66",
+    "en": "\"Nearly four centuries ago Vokial ruled his own kingdom, but as time passed he grew increasingly bored with day-to-day responsibilities.  He eventually gave up everything to return to the life of adventuring he much preferred.  He is an elder even among other vampires.\"",
+    "ua": "\"Чотириста років тому Вок'ял правив власним королівством, та час йшов, і щоденні обов'язки володаря усе більше й більше діяли йому на нерви. Зрештою, він усе кинув і відправився на пошуки пригод, про які давно мріяв. Він древній старець навіть за мірками упирів.\""
+  },
+  {
+    "var": "HEROBIOS_67",
+    "en": "\"Moandor's charismatic style somehow stayed with him after he was transformed into a lich.  Strangely enough, this provides him with the ability to lead and recruit new liches more effectively than any other hero.\"",
+    "ua": "\"Моандору вдалося зберегти свої лідерські якості навіть після того, як він перетворився у ліча. Як не дивно, завдяки цим своїм здібностям він залучає до свого війська нових лічів зі значно більшою легкістю, ніж решта героїв.\""
+  },
+  {
+    "var": "HEROBIOS_68",
+    "en": "\"Charna was seduced by the temptation of the powers of darkness.  Though her magical abilities will never allow her to be a true Necromancer, she is a more than effective warrior.\"",
+    "ua": "\"Чарна не встояла перед спокусами сил темряви. Їй, звичайно, не вистачає магічних здібностей, щоб стати справжнім некромантом, але як воїн вона вища будь-яких похвал.\""
+  },
+  {
+    "var": "HEROBIOS_69",
+    "en": "\"Tamika's superior combat skills have put her in a position of power within the military forces of Deyja.  Besides merely leading troops, she is also responsible for training Black Knights and Dread Knights.\"",
+    "ua": "\"Виняткові бойові якості Таміки висунули її на перші ролі в армії Деї. Вона не лише командує військами, але й займається підготовкою чорних і зловісних вершників.\""
+  },
+  {
+    "var": "HEROBIOS_70",
+    "en": "\"Isra may not be the greatest spellcaster in Deyja, but the armies she leads always seem to have a disproportionate number of skeletons compared to others.\"",
+    "ua": "\"Можливо, Ісра не найсильніша чорнокнижниця в Деї, зате в її арміях кістяків завжди значно більше, ніж у будь-якого іншого командира.\""
+  },
+  {
+    "var": "HEROBIOS_71",
+    "en": "\"Clavius's family was always prominent at the court of Deyja, holding a great deal of land and political power.  Being the eldest son, Clavius was sent to serve in the military, just as each of the eldest sons in his family had done for generations.  He serves willingly and well.\"",
+    "ua": "\"Сім'я Клавіуса завжди мала великий вплив при дворі правителів Деї й володіла багатьма землями й політичною владою. Як старший син він, згідно сімейної традиції, Клавіус вступив до армії. Він служить доблесно й охоче.\""
+  },
+  {
+    "var": "HEROBIOS_72",
+    "en": "\"Over the years, Galthran has developed new methods of creating and commanding skeletons which provides him with a distinct advantage in combat.\"",
+    "ua": "\"За довгі роки Ґалтран розробив нові способи створення кістяків та управління ними. Ці вміння дають йому суттєву перевагу у будь-якому бою.\""
+  },
+  {
+    "var": "HEROBIOS_73",
+    "en": "\"Septienna suffers from what many call 'wasted magic,' as she seems to draw more life energy from her victims than she transfers into her minions.  Some claim that she keeps the residual energy for herself, which may explain why she does not appear to age.\"",
+    "ua": "\"Недолік Септенни у тому, що вона, за чутками, \"\"марно розтрачує магічну енергію\"\". Іншими словами, вона забирає в нещасних жертв більше життєвої сили, ніж віддає своїм підопічним. Кажуть, що надлишки вона береже для себе, і, можливо, саме цим пояснюється її вічна молодість.\""
+  },
+  {
+    "var": "HEROBIOS_74",
+    "en": "\"Aislinn has always preferred the feel of the earth over the sky, and many believe she can draw life from the ground merely by being in contact with it.  \"",
+    "ua": "\"Аіслінн завжди віддавала перевагу землі, ніж небесам і багато хто вважає, що їй достатньо просто стояти на землі, щоб набиратися з неї життєвої сили.\""
+  },
+  {
+    "var": "HEROBIOS_75",
+    "en": "\"Sandro first studied Necromancy under the tutelage of the wizard, and later the lich, Ethric.  Sandro has seen nearly all of Enroth and Erathia, and now serves Finneas Vilmar, leader of the Necromancers of Deyja.\"",
+    "ua": "\"Сандро вивчав некромантію під керівництвом спочатку чарівника, а згодом ліча на ім'я Етрик. Сандро побував майже у всіх землях Енрота й Ерафії і тепер служить Фінеасу Вілмару, ватажкові некромантів Деї.\""
+  },
+  {
+    "var": "HEROBIOS_76",
+    "en": "\"When Nimbus was a child he had a small dog that eventually died of old age.  Nimbus discovered that by sacrificing a small bird or other creature, he could resurrect his pet, a feat which he repeated each time the dog died.  Little did he realize that he was already exploring the beginnings of Necromancy.\"",
+    "ua": "\"Коли Німбус був маленьким, у нього був улюблений песик, який помер від старості. Й тут Німбус виявив, що, принісши в жертву пташку чи тваринку, він може воскресити свого улюбленця. Він проробляв це щоразу, коли песик помирав, і йому навіть в голову не приходило, що цим він освоює основи некромантії.\""
+  },
+  {
+    "var": "HEROBIOS_77",
+    "en": "\"No one is really sure how long Thant has been alive.  Some say he fought for Erathia during the Timber Wars, but fell prey to a Vampire during an all-night march through Phynaxia.\"",
+    "ua": "\"Ніхто точно не знає, скільки років Танту. Дехто стверджує, що в епоху Війн Дерев він бився у військах Ерафії й одного разу під час нічного переходу через Фінаксію став жертвою упиря.\""
+  },
+  {
+    "var": "HEROBIOS_78",
+    "en": "Xsi was one of but a handful of females deemed worthy to make the transformation into full lich.  Xsi was selected because she possessed a unique ability to resist physical damage - a trick that has saved her more than once.",
+    "ua": "Ксі була однією з небагатьох жінок, яка удостоїлася перетворення у справжнього ліча. Вона виявилася серед обраних завдяки своїй унікальній здібності протистояти фізичним ураженням і яка рятувала її в багатьох перипетіях."
+  },
+  {
+    "var": "HEROBIOS_79",
+    "en": "\"At a young age, Vidomina showed promise as a great Alchemist, but was driven from Bracada when it was discovered that she had been using her skills not to animate inanimate matter, but to attempt to bring life to previously living creatures.\"",
+    "ua": "\"У молодості Відоміна ледве не стала великим алхіміком, але її вигнали з Бракади, коли виявилося, що вона використовує свої здібності не для оживлення кісткової матерії, а для відродження мерців.\""
+  },
+  {
+    "var": "HEROBIOS_80",
+    "en": "\"Nagash was a powerful wizard before sacrificing himself to an 'eternal life' as a lich.  He owns much land, though most of it now lies within the desolate borders of Deyja.\"",
+    "ua": "\"Колись Нагаш був могутнім чарівником, але потім вирішив здійснити на собі обряд жертвоприношення, щоб стати \"\"вічно живим\"\" лічем. Йому належать чисельні землі, хоча більша їх частина лежить в пустельних рівнинах Деї.\""
+  },
+  {
+    "var": "HEROBIOS_81",
+    "en": "\"When Lorelei was a child she wandered away from her home, disappearing into a network of caves.  She was found and raised by a harpy hag, and eventually volunteered to serve the Dungeon Overlords shortly before the invasion of Erathia.  She has no memories of her real parents.\"",
+    "ua": "\"Якось у дитинстві Лорелея забрела далеко від дому і заблукала в заплутаному лабіринті печер. Її знайшла і виховала стара гарпія, і незадовго до вторгнення в Ерафію Лорелея вступила на службу до Володарів Підземель. Своїх справжніх батьків вона не пам'ятає.\""
+  },
+  {
+    "var": "HEROBIOS_82",
+    "en": "\"Arlach is one of the few troglodytes who are actually trusted to lead the armies of Nighon.  Arlach shows remarkable skill with the ballista, and is often called upon to wreak havoc upon enemy fortifications.\"",
+    "ua": "\"Арлах - один з небагатьох троглодитів, кому довірено командувати арміями Ніґона. Арлах прекрасно дає раду балістам, і його часто кличуть на допомогу, коли потрібно перетворити у руїни укріплення супротивника.\""
+  },
+  {
+    "var": "HEROBIOS_83",
+    "en": "\"Dace was born into a warrior clan, learning to fight from masters who seemed older than time.  He provides Nighon with exceptional leadership, especially when commanding other minotaurs.\"",
+    "ua": "\"Дас з'явився на світ у клані воїнів та навчався бойовій майстерності в наставників, стародавніх, як сам час. У Ніґоні він має славу чудового командира, особливо коли під його керівництвом опиняються його побратими-мінотаври.\""
+  },
+  {
+    "var": "HEROBIOS_84",
+    "en": "\"Ajit studied carefully the works of Agar, the foolish wizard/scientist of Enroth who accidentally created the beholders and evil eyes which he now commands, training a 'better breed' to be used in combat.\"",
+    "ua": "\"Аджит уважно простудіювала писання Агара - що жив колись в Енроті, божевільного напів-чарівника, напів-ученого, який створив бехолдерів та злооких. Зараз Аджит командує легіонами цих бестій і намагається вивести їх \"\"покращений бойовий різновид\"\".\""
+  },
+  {
+    "var": "HEROBIOS_85",
+    "en": "\"While Damacon has always been a bit of a pushover, even among other troglodytes, he can sniff out gold almost without trying.  He will donate gold to any cause willing to allow him to lead.\"",
+    "ua": "\"Хоча Дамакон навіть серед троглодитів завжди вважався слабаком, він наділений здатністю відчувати золото на відстані. Дамакон готовий озолотити будь-кого, хто довірить йому командування військами.\""
+  },
+  {
+    "var": "HEROBIOS_86",
+    "en": "\"Gunnar served first as a scout for the Dungeon Overlords, then as a guide and bodyguard to various high-ranking officials, before finally being granted command of a garrison force on the rugged Nighon borders.  What he lacks in brains he makes up for in instinct.\"",
+    "ua": "\"Спочатку Ґуннар був розвідником у Володарів Підземель, згодом провідником і тілоохоронцем різних високопоставлених осіб й, зрештою, дослужився до командира гарнізону однієї з прикордонних фортець. Там, де йому не вистачає мізків, їх з успіхом замінюють інстинкти.\""
+  },
+  {
+    "var": "HEROBIOS_87",
+    "en": "\"Synca was originally an aboveworlder, and though she loyally serves the Dungeon Overlords she really prefers the great outdoors to the dank, cramped spaces of the caverns of Nighon.\"",
+    "ua": "\"Сінка народилася у верхньому світі, але, вірно служачи Володарям Підземель, вона, як і колись, надає перевагу відкритому простору, ніж затхлим й тісним лабіринтам Ніґона.\""
+  },
+  {
+    "var": "HEROBIOS_88",
+    "en": "\"Though eyeless, Shakti has amazing vision when it comes to battlefield tactics.  His Troglodyte hordes are feared the world over, especially in the dark tunnels of Nighon.\"",
+    "ua": "\"Відсутність очей не перешкоджає Шакті бути всевидячим, коли справа стосується тактичних хитрощів на полі бою. Орди його троглодитів наводять жах на всіх і на кожного, й особливо на мешканців темних тунелів Ніґона.\""
+  },
+  {
+    "var": "HEROBIOS_89",
+    "en": "\"Alamar served Archibald Ironfist during the succession wars, and was barely able to escape Enroth following Archibald's defeat.  He has since taken up residence in Nighon where he secretly serves the Dungeon Overlords.\"",
+    "ua": "\"У часи війн за Престол Аламар служив Арчибальду Айронфісту, й після поразки господаря йому коштувало великих зусиль утекти з Енрота. З того часу він живе в Ніґоні та знаходиться на таємній службі у Володарів Підземель.\""
+  },
+  {
+    "var": "HEROBIOS_90",
+    "en": "\"It is strange to see a troglodyte Overlord, and stranger still to see a troglodyte Warlock, yet Jaeger has proven to be a skilled magician.  He claims that daily meditation is the secret to his success.\"",
+    "ua": "\"Нечасто зустрінеш троглодита-командуючого, а тим паче троглодита-чарівника, але Джаґар довів свої немалі здібності до волхування. Він каже, що секрет його успіху в щоденних медитаціях.\""
+  },
+  {
+    "var": "HEROBIOS_91",
+    "en": "\"One would expect a minotaur to be a fierce warrior, but Malekith wields magic with a fury that rivals the strength of the land's best mages.\"",
+    "ua": "\"Коли говорять про мінотаврів, то мають на увазі жорстоких воїнів, але жорстокий Малекіт володіє магією з такою майстерністю, що йому можуть позаздрити кращі чарівники.\""
+  },
+  {
+    "var": "HEROBIOS_92",
+    "en": "\"Some say that Jeddite has seen the face of Zenofex, but many contend that since Jeddite is still alive, the rumor of a meeting could not possibly be true.  Jeddite has never confirmed nor denied the rumor.\"",
+    "ua": "\"Кажуть, що якось Джедітт бачила обличчя Зенофекса, однак багато хто сходиться на думці, що коли вона ще жива, чуткам про цю зустріч ледве можна вірити. Сама ж Джедітт завжди берегла з цього приводу могильне мовчання.\""
+  },
+  {
+    "var": "HEROBIOS_93",
+    "en": "\"Much of Geon's magical skills come from his ability to see into the minds of other spellcasters, reading their thoughts as they invoke their powers, and in many cases learning to cast the spell himself.\"",
+    "ua": "\"Більшою частиною своїх магічних здібностей Ґеот завдячує вмінню проникати у свідомість інших чарівників та читати їхні думки, коли ті накладають свої закляття. І в багатьох випадках йому це чудово вдавалося.\""
+  },
+  {
+    "var": "HEROBIOS_94",
+    "en": "\"Deemer nearly had to be killed as a young adult, as his magical abilities were so out of control that he was a threat to himself and those around him.  He has since learned to control his powers, and is more than a formidable foe in combat.\"",
+    "ua": "\"Коли Дімер переступив поріг юності, його мало не довелося умертвити, оскільки його незвичайні магічні здібності вийшли з-під контролю, і він став загрозою не лише для себе, але й для оточуючих. З того часу він навчився керувати своєю силою і тепер справді могутній у бою.\""
+  },
+  {
+    "var": "HEROBIOS_95",
+    "en": "\"Sephinroth claims to be the illegitimate child of King Gryphonheart.  His refusal to acknowledge her has served to fuel her hatred against the Throne of Erathia, which she one day hopes to claim for herself.  Having joined the ranks of the Warlocks, she is the only known female ever to bear that title.\"",
+    "ua": "\"Сефінрот стверджує, що вона позашлюбна донька короля Грифонхарта. Відмова батька визнати її законним нащадком розпалила у ній пристрасну ненависть до королівського дому Ерафії, престол якої вона колись збирається посісти. Приставши до чорнокнижників, вона була і залишається єдиною жінкою у їх лавах.\""
+  },
+  {
+    "var": "HEROBIOS_96",
+    "en": "\"Darkstorn challenged his way through the ranks of warriors of Nighon, secretly using magic to ensure he won each battle.  Once in a position of power, he finally revealed his true powers.  None have challenged him since.\"",
+    "ua": "\"Дарксторн з боєм проривався в ряди військової еліти Ніґона, однак перед кожним поєдинком він потайки звертався до магії, щоб вона допомогла йому одержати перемогу над черговим супротивником. Опинившись при владі, він, нарешті, проявив свої істинні здібності. З того часу ніхто не робив спроб кинути йому виклик.\""
+  },
+  {
+    "var": "HEROBIOS_97",
+    "en": "\"Yog studied for many years with the Wizards of Bracada, but he was often found reading texts on war rather than those on magic.  The Duke of Krewlod offered him a military command, allowing Yog to happily use his knowledge of war.\"",
+    "ua": "\"Йоґ довгі роки вважався учнем чарівників Бракади, але переважно його бачили за читанням військових трактатів, а не підручників з магії. Тоді герцог Крулода запропонував йому очолити одну з його армій, щоб він міг з користю застосувати свої військові знання.\""
+  },
+  {
+    "var": "HEROBIOS_98",
+    "en": "\"It is unusual for a Goblin to rise to any sort of position of power, but Gurnisson demonstrated a natural aptitude in Ballistics that quite literally launched him into a successful career as a hero for hire.\"",
+    "ua": "\"Гобліни рідко досягають високих постів і посад, та Ґарнісон продемонстрував такі здібності в балістиці, що буквально стрілою злетів до вершин слави, зробивши кар'єру героя-найманця.\""
+  },
+  {
+    "var": "HEROBIOS_99",
+    "en": "\"Being the eldest son of Duke Boragus, Jabarkas knows that he will one day rule the lands of Krewlod.  Like his father, he has learned that the best way to achieve his goals is through conquest.\"",
+    "ua": "\"Як старший син герцога Борагуса, Джабаркас впевнений, що рано чи пізно стане правителем просторого Крулода. Як і батько, він знає, немає кращого способу досягнути своєї мети, ніж завоювання.\""
+  },
+  {
+    "var": "HEROBIOS_100",
+    "en": "\"Shiva is the youngest of six daughters in a family of circus animal trainers.  Unhappy with the prospect of spending her entire life in the family business, she left the circus to join the Krewlod military as a mercenary, a business that she has excelled at.\"",
+    "ua": "\"Шива - наймолодша серед шести доньок в сім'ї циркових дресерувальників. Не бажаючи марно тринькати життя на продовження батьківської справи, вона кинула цирк і стала найманцем в армії Крулода. З часом вона досягла у цій справі справжньої досконалості.\""
+  },
+  {
+    "var": "HEROBIOS_101",
+    "en": "\"Not only is Gretchin an excellent leader, but all who follow her will tell you the same thing - she's like having another mom who can take care of you.\"",
+    "ua": "\"Ґретчін не лише чудовий командир, вона ще й турботлива мати для своїх підлеглих, і це підтвердять усі, кому поталанило воювати під її проводом.\""
+  },
+  {
+    "var": "HEROBIOS_102",
+    "en": "\"Krellion originally joined the army as a prizefighter, and became so well known that his fans insisted he be made to lead them into battle.  While probably not the smartest decision, Krellion has proven to be an exceptional leader, especially among ogrekind.\"",
+    "ua": "\"Перед тим як стати військовим, Крелліон був бійцем на кулаках, і коли до нього прийшла слава, його чисельні шанувальники настояли на тому, щоб його призначили їх командиром. Спочатку це рішення виглядало доволі суперечливим, але з часом Крелліон став видатним полководцем, якого особливо шанує народ огрів.\""
+  },
+  {
+    "var": "HEROBIOS_103",
+    "en": "\"A decorated hero in Enroth, Crag Hack became bored with his home, deciding to seek out a new life in Erathia.  He boldly set sail for this new frontier, and was delighted to find a land in turmoil where his skills could be best put to use.\"",
+    "ua": "\"Краґ Хаку, визнаному герою Енрота, набридло тихе домашнє життя, і він вирішив пошукати нової долі в Ерафії. Він переплив море і був приємно здивований, виявивши країну роздерту ворожнечею, у якій його здібності здалися як найдоречнішими.\""
+  },
+  {
+    "var": "HEROBIOS_104",
+    "en": "\"Tyraxor himself was a wolf rider captain, having finally joined the ranks of Krewlod's heroes after sniffing out a Tatalian ambush during a long march along the border of the two nations.\"",
+    "ua": "\"Тіраксор розпочинав капітаном вершників на вовках. Він поповнив ряди героїв Крулода після того, як без втрат відбився від нападу таталіанців, які по-зрадницькому вдарили у спину, коли він патрулював кордон обох держав.\""
+  },
+  {
+    "var": "HEROBIOS_105",
+    "en": "\"Gird learned most of what she knows from the Shaman of her home town.  It is assumed she would have taken his place, but she was taken from her villiage when the Magi of Krewlod conducted a search for children who could wield magic.\"",
+    "ua": "\"Основним джерелом знань Ґірд був шаман її рідного села. Всі були впевнені, що з часом вона посяде його місце, але тут в селі з'явилися маги з Крулода, що мандрували містами й селами у пошуках дітей, здібних до магії, і забрали її з собою.\""
+  },
+  {
+    "var": "HEROBIOS_106",
+    "en": "\"An Ogre Mage himself, Vey has proven himself time and again that his command skills are unparalleled.  Should the Duke's son ever falter, Vey would be considered the top candidate to succeed the throne of Krewlod.\"",
+    "ua": "\"Вей, як огр-маг, не раз доводив свої видатні командирські здібності на полі бою. Якщо з сином герцога щось трапиться, Вей буде першим серед претендентів на трон Крулода.\""
+  },
+  {
+    "var": "HEROBIOS_107",
+    "en": "\"Nearly fifteen years ago, Dessa's entire village was wiped out in a massacre at the hands of human marauders.  Dessa was one of six children who survived.  Since then he has dreamed of one day paying back the humans for their crime.\"",
+    "ua": "\"П'ятнадцять років тому люди-мародери влаштували в рідному селі Десси криваву різанину. Десса була однією з шести дітей, яким вдалося врятуватися. З того часу вона плекає мрію відплатити людям за цей злочин.\""
+  },
+  {
+    "var": "HEROBIOS_108",
+    "en": "\"Terek spent several years as a strong-man in the Circus of the Sun, challenging spectators to see who could throw large rocks the furthest.  One day he lost, and was run out of the Circus, but the man who had beaten him recruited him for the Krewlod Army.\"",
+    "ua": "\"Терек кілька років працював силачем в Цирку Сонця. Він пропонував глядачам позмагатися з ним у метанні важких каменюк. Одного разу він програв і його вигнали з цирку, але переможець негайно завербував його в армію Крулода.\""
+  },
+  {
+    "var": "HEROBIOS_109",
+    "en": "\"Zubin was once chief of a tribe which fought against Duke Boragus.  When peace was finally attained, he was offered his own command within the armies of Krewlod.\"",
+    "ua": "\"У давні часи Зубін був вождем племені й воював з військами герцога Борагуса. Коли настав мир, йому запропонували стати командиром в армії Крулода.\""
+  },
+  {
+    "var": "HEROBIOS_110",
+    "en": "\"Orphaned at birth, Gundula was raised as a daughter to Duke Boragus.  Upon learning that he was not her true father, she joined the military, hoping to die an honorable death in battle.  It hasn't happened, and she has become a feared leader in the military.\"",
+    "ua": "\"Гундула була сиротою з народження, і герцог Борагус виховав її як власну доньку. Коли Гундула дізналася, що герцог - не її рідний батько, вона вступила до армії з надією з честю загинути в бою. Смерть обійшла її стороною, і вона стала ватажком, що наводить жах на ворогів.\""
+  },
+  {
+    "var": "HEROBIOS_111",
+    "en": "\"Oris did not show much promise as a mage early in her career, but her uncanny ability to learn nearly any spell she sees cast has made up for any apparent lack of magical skills.\"",
+    "ua": "\"На початку кар'єри в Оріс не спостерігалося великої схильності до магії, але її здатність переймати будь-які накладені при ній закляття з надлишком покриває відсутність магічних талантів.\""
+  },
+  {
+    "var": "HEROBIOS_112",
+    "en": "\"It is believed that Saurug once studied alchemy in an attempt to make himself wealthy.  Though unsuccessful, his magics have made him of great value to the armies of Krewlod.\"",
+    "ua": "\"Кажуть, що колись Сауруґ вивчав алхімію, сподіваючись швидко розбагатіти. Багачем він так і не став, але його магічні навички були належно оцінені головнокомандуючим армії Крулода.\""
+  },
+  {
+    "var": "HEROBIOS_113",
+    "en": "\"Bron, though human, possesses an uncanny resistance to the gaze of a Basilisk, which has allowed him to learn more about them than any other creature alive.\"",
+    "ua": "\"Хоча Брон і належить до раси людей, він володіє унікальною здібністю протистояти погляду василіска. Завдяки цій якості він знає про василісків значно більше, ніж будь-хто серед живих.\""
+  },
+  {
+    "var": "HEROBIOS_114",
+    "en": "\"Drakon was the greatest warrior in his village, and later the region, before choosing to serve King Tralossk.  His charismatic demeanor (at least with other Gnolls) has troops volunteering to join his armies in droves.\"",
+    "ua": "\"Перед тим як Дракон вступив на службу до короля Тралоску, він був першим воїном у своєму селищі, а згодом в усіх околицях. Його видатні (принаймні за мірками гнолів) якості приваблюють до його армії натовпи добровольців.\""
+  },
+  {
+    "var": "HEROBIOS_115",
+    "en": "\"Wedded to the eldest daughter of King Tralossk, Wystan is the next heir to the throne of Tatalia.  Until then, he is content to serve and learn from the King until the time is right for him to kill his mentor and assume the throne.\"",
+    "ua": "\"Одружившись зі старшою донькою короля Тралоска, Вістан став прямим наступником трону Таталії. А поки він задовольняється тим, що служить королю й набиратися від нього розуму, очікуючи зручного моменту, щоб вбити свого наставника та зайняти його місце.\""
+  },
+  {
+    "var": "HEROBIOS_116",
+    "en": "\"During a six month border war with Krewlod, a small force led by Tazar was able to make a stand at a Tatalian outpost, holding off a Krewlod force nearly five times their size for more than eight days until reinforcements arrived.\"",
+    "ua": "\"У часи шестимісячної прикордонної війни з Крулодом невеликий загін під керівництвом Тазара, засівши в невеликій фортеці, вісім днів стримував в п'ять разів переважаючи його сили Крулода аж поки не підійшло підкріплення.\""
+  },
+  {
+    "var": "HEROBIOS_117",
+    "en": "\"King Tralossk never really liked Alkin, but gave him his own command in the hopes that he would one day get himself killed.  That never happened, and Alkin has led a long and glorious career, much to the displeasure of the King.\"",
+    "ua": "\"Король Тралоск ніколи по-справжньому не любив Алкіна, і тому призначив його головнокомандуючим сподіваючись, що він, зрештою, загине в черговому бою. Ці надії не справдилися, і Алкін зробив запаморочливу кар'єру на цілковите незадоволення короля.\""
+  },
+  {
+    "var": "HEROBIOS_118",
+    "en": "\"Korbac became known to the humans of Erathia as the 'hero who saved the scholar, Xanthor.'  However true this might be, Korbac has proven his bravery on more than one occasion in the service of Tatalia.\"",
+    "ua": "\"Корбак прославився серед людей Ерафії як \"\"герой, що врятував великого вченого Ксантора\"\". Це, звичайно, правда, та не слід забувати, що на службі правителів Таталії Корбак не раз доводив свою мужність.\""
+  },
+  {
+    "var": "HEROBIOS_119",
+    "en": "\"Gerwulf brought the first Ballista to Tatalia, having captured it in a siege against a barbarian stronghold on the border of Krewlod.  He has become Tatalia's leading expert in its deployment across the northwest coast.\"",
+    "ua": "\"Саме Ґервульф привіз у Таталію першу балісту, захопивши її при облозі цитаделі варварів на кордоні з Крулодом. Він став головним спеціалістом у Таталії з її використання й прославився на все північно-західне узбережжя.\""
+  },
+  {
+    "var": "HEROBIOS_120",
+    "en": "\"Broghild's grandfather first tamed wild Wyverns for use as flying scouts above the Tatalian Lowlands.  The secrets of handling these creatures was passed to Broghild's father, and eventually to him.\"",
+    "ua": "\"Дід Броґхіл перший приручив диких виверн і став використовувати їх для патрулювання низовин Таталії. З часом секрети поводження з цими бестіями перейшли до батька Броґхіла, а згодом і до нього.\""
+  },
+  {
+    "var": "HEROBIOS_121",
+    "en": "\"Mirlanda spent much of her younger days toying with the dark arts, before realizing that such a path usually leads to self destruction.  She has learned to walk a fine line between good and evil, always making sure that one does not grow more powerful than the other.\"",
+    "ua": "\"У дні юності Мірланда від душі жартувала з темними мистецтвами, однак потім зрозуміла, що цей шлях веде до самознищення. Вона навчилася балансувати на тонкій межі поміж добром і злом, постійно підтримуючи баланс між світлом і темрявою.\""
+  },
+  {
+    "var": "HEROBIOS_122",
+    "en": "\"When Rosic was a child she contracted a fever that none of the elders in her village expected her to survive.  But survive she did, and today she claims that it was the fever that gave her her magical powers.\"",
+    "ua": "\"Коли Росика була дівчинкою, вона підхопила жахливу лихоманку, і старійшини села вже не сподівалися на її одужання. Але вона вижила і тепер стверджує, що саме завдяки лихоманці зобов'язана своїми магічними здібностями.\""
+  },
+  {
+    "var": "HEROBIOS_123",
+    "en": "\"Voy is a 'Wind Witch,' often employed by sea captains to help guide ships and ensure that they always receive favorable winds at sea.  She prefers the salty air of the oceans to that of the swamps where she was born.\"",
+    "ua": "\"Вою називають Вітряною Відьмою, а морські капітани часто приходять до неї з проханням берегти їх у плаванні та послати попутній вітер. Вона надає перевагу солоному повітрю океану, аніж смороду рідних боліт.\""
+  },
+  {
+    "var": "HEROBIOS_124",
+    "en": "\"Verdish nearly perished in a raid into her homeland by the Dungeon Overlords.  Fortunately she is a master of the healing arts, and was able to heal the near-fatal wounds she received in that battle.\"",
+    "ua": "\"Вердиш ледве не загинула, коли на її батьківщину напали Лорди Підземель. На щастя, вона володіла лікарською майстерністю й змогла вилікувати смертельні рани, які одержала в бою.\""
+  },
+  {
+    "var": "HEROBIOS_125",
+    "en": "\"Merist was supposed to have been the healer of her village, but when it was discovered that her magical powers were far greater than what would be required as a village healer, she was quickly pressed into the service of Tatalia.\"",
+    "ua": "\"Мерісту вважали сільською знахаркою, та коли виявилося, що її магічні здібності значно переважають ті, якими повинен володіти звичайним травник, її негайно викликали на службу трону Таталії.\""
+  },
+  {
+    "var": "HEROBIOS_126",
+    "en": "\"The eleventh daughter of Tralossk, King of Tatalia, Styg turned to witchcraft when it became clear that she would never ascend the Tatalian throne with ten heirs in front of her.\"",
+    "ua": "\"Стига була одинадцятою донькою Тралоска, короля Таталії. Коли стало очевидно, що при десятьох старших спадкоємцях їй ніколи не побачити трону, Стига зайнялася магією.\""
+  },
+  {
+    "var": "HEROBIOS_127",
+    "en": "\"Before King Tralossk would allow Andra, a mere human, to lead one of his armies, he subjected her to a series of trials that would test her knowledge.  She never missed a single question, and the King had no choice but to accept her.\"",
+    "ua": "\"Перш, ніж дозволити Андрі, жінці людської раси, очолити одну з своїх армій, король Тралоск вирішив перевірити її знання й піддав чисельним випробуванням. Андра відповіла на всі запитання, і королю нічого не залишалося, як прийняти її на службу.\""
+  },
+  {
+    "var": "HEROBIOS_128",
+    "en": "\"Tiva achieved her place as a hero by challenging those above her to tests of learning, proving herself as a faster study than any of her peers.  She has achieved much success.\"",
+    "ua": "\"Тива заслужила право називатися героєм, довівши своїм начальникам, що переважає їх освітою і що їй немає рівних за розумом та винахідливістю. Вона досягла велетенських успіхів.\""
+  },
+  {
+    "var": "HEROBIOS_129",
+    "en": "Pasis has always been extremely fascinated by those of Corporeal form.  Extensive research and interaction with these creatures made her an ideal candidate for the Conflux.",
+    "ua": "Разіс завжди проявляла винятковий інтерес до істот з плоті й крові. Поглиблені дослідження в цій галузі й постійне спілкування з піддослідними створіннями зробили її ідеальною кандидатурою для Колонії елементалів."
+  },
+  {
+    "var": "HEROBIOS_130",
+    "en": "Living around the Erathian Capitol for many years Thunar learned extensive Battle Tactics and Estates.  Her curiosity and respect of mortals gained her a place in the Conflux.",
+    "ua": "Проживши багато років в околицях Ерафії, Тунара досконало оволоділа премудростями бойової тактики та управління маєтками. Її цікавість та повага з боку смертних по праву забезпечили їй місце в Колонії елементалів."
+  },
+  {
+    "var": "HEROBIOS_131",
+    "en": "Four years ago a powerful Wizard summoned Ignissa to this plane.  Unable to return she wandered Antagarich until she felt called to the Conflux.",
+    "ua": "Чотири роки тому могутній чарівник переніс Іґніссу в цей світ. Вона не змогла повернутися назад і блукала по Антагричу, поки не відчула поклик Колонії."
+  },
+  {
+    "var": "HEROBIOS_132",
+    "en": "Fierce competition of all Water Elementals took place to determine who would have the honor to serve the Conflux. Lacus earned her position through her advanced knowledge of Tactics.",
+    "ua": "Водні елементалі влаштували справжній поєдинок, який повинен був визначити гідного служити Колонії. Глибокі знання в тактиці допомогли Лакус здобути перемогу над рештою претендентів."
+  },
+  {
+    "var": "HEROBIOS_133",
+    "en": "\"As a being of pure energy, Monere enjoyed the freedoms of his natural state.  However, his curiosity for beings of corporeal form drove him to the Conflux.\"",
+    "ua": "\"За своєю природою Монере завжди був згустком чистої енергії, й ніщо не обмежувало його свободи. Тим не менше, цікавість до істот з плоті й крові привела його в Колонію.\""
+  },
+  {
+    "var": "HEROBIOS_134",
+    "en": "\"An ancient lord of magma, Erdamon has slept for centuries within the mountains bordering Eeofol.  Pulled from his slumber to aid the Conflux, Erdamon welcomes the battle to rid the world of the Kreegans.\"",
+    "ua": "\"Стародавній володар магми Ердамон століттями спав у надрах гір, що оточують Еофол. Пробуджений зі сну закликами про допомогу, що долинали з Колонії, Ердамон з радістю вирушив на битву із криганцями.\""
+  },
+  {
+    "var": "HEROBIOS_135",
+    "en": "\"Fiur is young, and his battle prowess untried, but he has a ferociousness like no other.  It is believed he will become one of the most powerful heroes of the Conflux.\"",
+    "ua": "\"Фіур молодий та ще не пройшов бойового хрещення, але його лють не має собі рівних. Вважають, що він стане одним з найвеличніших героїв Колонії.\""
+  },
+  {
+    "var": "HEROBIOS_136",
+    "en": "\"Always the quick study, Kalt felt called to the Conflux where he could feed his voracious appitite for learning new and different things.\"",
+    "ua": "\"Кальт завжди був охочим до навчання й тому з готовністю відкликнувся на поклик Колонії, де його чекали нові й різноманітні знання.\""
+  },
+  {
+    "var": "HEROBIOS_137",
+    "en": "\"Originally a sorceress in Enroth, Luna felt the call of the elemental Conflux and made her way to Erathia.  Once in Erathia, Luna was compelled to disregard her aquatic talents and turn her efforts to developing her skills in fire magic.\"",
+    "ua": "\"Луна була чарівницею в Енроті, але коли вона відчула поклик елементалів Колонії, вона з готовністю направилася в Ерафію. Прибувши на місце, Луна вирішила віддати забуттю свої знання з магії води й з подвоєним завзяттям почала освоювати закони магії вогню.\""
+  },
+  {
+    "var": "HEROBIOS_138",
+    "en": "\"A young genie, even by their standards, Brissa joined the Restoration War before she completed her training.  What she lacks in training, she makes up in experience.\"",
+    "ua": "\"Брісса прийняла участь у війнах Відродження, будучи юною навіть за мірками джинів, з чийого роду вона походить. Брісса так і не встигла закінчити навчання, але брак освіти вона з надлишком компенсує добрячим досвідом.\""
+  },
+  {
+    "var": "HEROBIOS_139",
+    "en": "\"Growing up next to the ocean bordering Avlee, Ciele always felt a bond with the ancient waters.  She has wandered the lands seeking her calling.  Now she finds herself serving the Conflux.\"",
+    "ua": "\"Сіель виросла на березі океану біля кордонів країни Ав-Лі й тому завжди відчувала зв'язок з вічно мінливими водами. Вона подалася мандрувати світом у пошуках місця, де її таланти були б потрібні, і зрештою вона опинилася на службі в Колонії.\""
+  },
+  {
+    "var": "HEROBIOS_140",
+    "en": "\"Born poor, Labetha's parents were slaughtered peasantry during the Restoration wars.  Taken by dendroids and brought into their service in AvLee, her power over the earth developed quickly.  When she felt the Conflux calling, she answered quickly.\"",
+    "ua": "\"Батьки Лабети були незаможними селянами і, як багато їхніх родичів, загинули під час Війн Відродження. Лабету підібрали дендроіди, і на службі у правителів країни Ав-Лі її здібності до магії землі розцвіли буйним цвітом. Відчувши поклик Колонії, вона не зволікаючи поспішила туди.\""
+  },
+  {
+    "var": "HEROBIOS_141",
+    "en": "\"At an early age, Inteus' mastery of fire earned him a spot with a troupe of entertainers.  Some believed he wad the son of a Fire Elemental.  One night, he felt a calling and left his profession.  Now he serves the Conflux.\"",
+    "ua": "\"Ще в юному віці уміння Інтеуса обходитися з вогнем привело його в трупу мандрівних комедіантів. Дехто стверджував, що він був сином вогненного елементала. Одного разу вночі він відчув поклик і пішов на нього, забувши про все. Тепер він служить Колонії.\""
+  },
+  {
+    "var": "HEROBIOS_142",
+    "en": "\"Created by great power from mystical forces, Genies are creatures of magic.  Aenain was made imperfect.  For centuries he has worked hard to overcome the perception of his imperfection.  For his dilligence and dedication to Air Magic, Aenain was called to the Conflux.\"",
+    "ua": "\"Джини були створені великими чарами, й тому здібність до магії закладена в них від появи на світ. Аенайн був створений інвалідом і тому віками був змушений долати відчуття власної неповноцінності. У нагороду за зусилля та відданість магії повітря він був прикликаний на службу Колонії.\""
+  },
+  {
+    "var": "HEROBIOS_143",
+    "en": "\"Gelare was born with a wisdom beyond his years, even for an elf.  Always calm, reflective and serene on the outside, Gelare did not question his calling to the Conflux.\"",
+    "ua": "\"Від самого народження Ґелар вирізнявся мудрістю, незвичайною навіть для ельфа. Завжди спокійний, задуманий і незворушний, Ґелар ні хвилі не зволікав, коли відчув поклик Колонії.\""
+  },
+  {
+    "var": "HEROBIOS_144",
+    "en": "Dwarves love gold.  Some more than others.  None have the power of earth to find it with such regularity as Grindan.",
+    "ua": "Усі гноми люблять золото, одні більше, інші менше, та нікому в світі не вдається знаходити золоті жили з такою гідною заздрості постійністю, як Ґріндану."
+  },
+  {
+    "var": "HEROBIOS_145",
+    "en": "\"Generally stoic, Sir Mullich is prone to spasmodic fits of uncoordinated excitement believed to intimidate his troops into working faster. \"",
+    "ua": "\"Звично стійкий воїн, Сер Мюлліх час від часу буває схильний до спалахів неконтрольованого збудження, які, як припускають, змушують його вояків діяти рішучіше.\""
+  },
+  {
+    "var": "HEROBIOS_146",
+    "en": "\"With a burning desire to gain in power and to protect her homeland, Adrienne risked being a social outcast and hated by her own people to follow her passion.\"",
+    "ua": "\"Охоплена жадобою влади й пристрасним бажанням захистити свою країну, Адріана ледве не перетворилася на ізгоя, якого ненавидять власні ж земляки.\""
+  },
+  {
+    "var": "HEROBIOS_147",
+    "en": "\"As the reigning queen of Erathia, Catherine continues to wage war to secure her homeland's borders and restablished the peace built by her father.  However, support for her position is faltering as the country grows weary of war.\"",
+    "ua": "\"Будучи королевою Ерафії, Катерина продовжує вести нескінченні війни, щоб захистити кордони своєї країни й знову відновити у ній мир, який колись заповів її батько. Однак в міру того, як втома від війни стає більш відчутною, позиції її прихильників починають послаблюватися.\""
+  },
+  {
+    "var": "HEROBIOS_148",
+    "en": "\"Considered by many to be a magical genius, Dracon seeks to become history's greatest Dragon Slayer.  Unlike his fellow wizards, Dracon echews decorative attire for more practical battle gear.\"",
+    "ua": "\"Багато хто вважає Дракона генієм магії, й він робить усе, щоб стати найвеличнішим в історії убивцею драконів. На відміну від інших чарівників він не любить яскравого одягу й надає перевагу практичному бойовому спорядженню.\""
+  },
+  {
+    "var": "HEROBIOS_149",
+    "en": "\"Little is known about Gelu.  Gelu was found and raised by General Morgan Kendal when he was serving under Catherine Ironfist.  Gelu now command's Erathia's guerilla forces known as the Forest Guard.  He is believed to be half human, half Vori elf.\"",
+    "ua": "\"Про Ґело відомо мало. Його знайшов генерал Морган Кендал у ті часи, коли він був на службі у Катерини Айронфіст. Тепер Ґело командує партизанськими силами Ерафії, відомий під іменем Лісового Вартового. Кажуть, що він напівлюдина, напівельф із країни Ворі.\""
+  },
+  {
+    "var": "HEROBIOS_150",
+    "en": "\"Since defeating his father for rulership of his clan, Kilgor has earned much fame throughout Krewlod.  Many consider him the only man capable of winning the generational Festival of Life.\"",
+    "ua": "\"Отримавши перемогу над батьком за лідерство у клані, Кілґор здобув гучну славу у всьому Крулоді. Багато хто вважає його єдиним серед свого покоління, хто спроможний перемагати на Святкуванні Життя.\""
+  },
+  {
+    "var": "HEROBIOS_151",
+    "en": "\"Resurrected by his cult of necromantic followers, Lord Haart has emerged a more powerful foe than before.\"",
+    "ua": "\"Відроджений своїми послідовниками-некромантами, Лорд Хаарт постав з могили ще більш страшним ворогом, ніж до того.\""
+  },
+  {
+    "var": "HEROBIOS_152",
+    "en": "\"With her uncanny talent for commanding dragons on the field of combat, many have noticed Mutare's quick rise among the current overlords of Nighon.\"",
+    "ua": "\"Багато хто вважає, що своїм швидким входженням до військової еліти Ніґона Мутара зобов'язана незрівнянному вмінню управляти драконами на полі бою.\""
+  },
+  {
+    "var": "HEROBIOS_153",
+    "en": "\"Recently freed from the Kreegans, Roland respectfully serves as a general in Erathia's military under his wife Catherine.  Someday soon these conflicts will end, and he and Catherine will return to Enroth.  However, both must decide what will happen to the Erathian throne.\"",
+    "ua": "\"Нещодавно визволений з криганського полону, Роланд зараз сумирно служить генералом в армії Ерафії під керівництвом своєї дружини Катерини. У недалекому майбутньому війна закінчиться, і вони з Катериною повернуться в Енрот, проте спершу їм доведеться вирішити, кому ж дістанеться трон Ерафії.\""
+  },
+  {
+    "var": "HEROBIOS_154",
+    "en": "\"Drinking the Vial of Dragon's Blood, Mutare became a sentient dragon.  Some wonder if her transformation foretells the coming of the Dragon Father.\"",
+    "ua": "\"Кілька ковтків з глечика з кров'ю дракона перетворили Мутару у мислячого дракона. Дехто задається питанням, чи не провіщає її перетворення про прихід Батька Драконів.\""
+  },
+  {
+    "var": "HEROBIOS_155",
+    "en": "Winston Boragus' special kinship with the Ogres he commands in battle has taken him far in his quest for power.",
+    "ua": "Коли Вінстон Бораґус веде огрів у бій, він відчуває з ними особливе споріднення, і ця його особливість надзвичайно сприяє його руху на шляху до абсолютної влади."
+  },
+  {
+    "var": "HEROBIOS_156",
+    "en": "\"When Xenofex was slain and Lucifer Kreegan seized the seat of power, Xeron was the first to declare fealty to this usurper.  Highly decorated and respected, when Xeron chose to support this new king, other heroes quickly followed suit.\"",
+    "ua": "\"Коли Ксенофекс був по-злодійському вбитий, і владу захопив Люцифер Криган, Зерон першим присягнув на вірність узурпатору. Приклад Зерона, відзначеного високими нагородами і який користувався глибокою повагою, невідкладно спонукав решту героїв виявити підтримку новому королю.\""
+  },
+  {
+    "var": "HEROBIOS_157",
+    "en": "\"Following King Gryphonheart's murder, General Morgan Kendal temporarily assumed the throne until a new successor could be found.  History shall remember him as the only ruler of Erathia who allowed the capitol city of Steadwick to be captured.\"",
+    "ua": "\"Після вбивства короля Грифонгарта генерал Морган Кендал зайняв трон на час пошуків законного спадкоємця. Він залишився в історії як єдиний правитель Ерафії, за якого її столиця Стедвік була захоплена ворогами.\""
+  },
+  {
+    "var": "HEROBIOS_158",
+    "en": "Sir Christian is a notorious sissy boy.  His father has all but given up on his son becoming a great and powerful warlord.",
+    "ua": "Сер Крістіан широко відомий своєю ніжною натурою. Його батько мало не втратив надію одного разу побачити сина великим і могутнім воєначальником."
+  },
+  {
+    "var": "HEROBIOS_159",
+    "en": "\"His father gave him a warrior’s name, but Ordwald rejected the warrior’s arts and turned to magic. He is an old, but powerful, warlock in a land where lords almost never live long enough to grow old.\"",
+    "ua": "\"Не дивлячись на те, що батько дав йому ім'я воїна, Орвальд не захотів вдосконалюватися у бойових мистецтвах, а замість цього вибрав кар'єру мага. Зараз він старий і могутній чорнокнижник у країні, де воєначальники рідко доживають до старості.\""
+  },
+  {
+    "var": "HEROBIOS_160",
+    "en": null,
+    "ua": "Просто портрет"
+  },
+  {
+    "var": "HEROBIOS_161",
+    "en": null,
+    "ua": "Просто портрет"
+  },
+  {
+    "var": "HEROBIOS_162",
+    "en": null,
+    "ua": "Просто портрет"
+  },
+  {
+    "var": "HEROBIOS_163",
+    "en": null,
+    "ua": "Просто портрет"
+  }
+]

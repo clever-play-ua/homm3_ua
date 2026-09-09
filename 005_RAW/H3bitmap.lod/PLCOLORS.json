@@ -1,0 +1,42 @@
+[
+  {
+    "var": "PLCOLORS_1",
+    "en": "red",
+    "ua": "Червоний"
+  },
+  {
+    "var": "PLCOLORS_2",
+    "en": "blue",
+    "ua": "Синій"
+  },
+  {
+    "var": "PLCOLORS_3",
+    "en": "tan",
+    "ua": "Сірий"
+  },
+  {
+    "var": "PLCOLORS_4",
+    "en": "green",
+    "ua": "Зелений"
+  },
+  {
+    "var": "PLCOLORS_5",
+    "en": "orange",
+    "ua": "Оранжевий"
+  },
+  {
+    "var": "PLCOLORS_6",
+    "en": "purple",
+    "ua": "Бордовий"
+  },
+  {
+    "var": "PLCOLORS_7",
+    "en": "teal",
+    "ua": "Сизий"
+  },
+  {
+    "var": "PLCOLORS_8",
+    "en": "pink",
+    "ua": "Рожевий"
+  }
+]

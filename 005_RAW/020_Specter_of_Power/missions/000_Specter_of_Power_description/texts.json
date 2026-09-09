@@ -1,0 +1,20 @@
+[
+  {
+    "var": "SECRET_campaign_name",
+    "field": "wrapper_campaign_name",
+    "en": "Specter of Power",
+    "ua": "Привид влади"
+  },
+  {
+    "var": "SECRET_campaign_desc",
+    "field": "wrapper_campaign_desc",
+    "en": "Sandro's first attempt at conquering Antagarich has failed.  However, he is not defeated.  Sandro will pull together several groups of people and start the first rumblings of war that will engulf all of Antagarich.",
+    "ua": "Перша спроба Сандро завоювати Антагріч провалилася. Однак він не розгромлений. Сандро хоче зібрати кілька армій і знову почати війну, яка поглине весь Антагріч."
+  },
+  {
+    "var": "SECRET_campaign_epilogue",
+    "field": "wrapper_campaign_epilogue",
+    "en": "Finneas is more cunning than I gave him credit for!  He tricked me into getting imprisoned for assaulting an innocent lord so that he could rule Deyja by himself and steal the credit for my plans to invade Erathia.  Well, soon he will realize that I can pull his strings even from my cell and wrap them tightly around his neck.",
+    "ua": "Фінеас виявився підступнішим, ніж я очікував! Він хитрістю домігся мого ув'язнення в темницю і тепер хоче правити Деєю сам, та ще й присвоїв собі мої плани нападу на Ерафію. Нічого, скоро він дізнається, що я можу смикати за мотузочки навіть із в'язниці і зів'ю з них чудовий зашморг для його шиї!"
+  }
+]

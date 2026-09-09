@@ -1,0 +1,14 @@
+[
+  {
+    "var": "GOOD2_campaign_name",
+    "field": "wrapper_campaign_name",
+    "en": "Liberation",
+    "ua": "Визволення"
+  },
+  {
+    "var": "GOOD2_campaign_desc",
+    "field": "wrapper_campaign_desc",
+    "en": "We have established a solid foothold in Erathia, but the nation lies in near ruin.  We start lby freeing the capitol city of Steadwick, and we do not stop until every invader has been driven from our lands.",
+    "ua": "Ми міцно укріпилися на випаленій землі Ерафії. Перш за все треба звільнити Стедвік, нашу столицю. Потім ми рушимо далі - і не зупинимося, доки останній загарбник не буде вигнаний навіки!"
+  }
+]

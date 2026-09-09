@@ -1,0 +1,72 @@
+[
+  {
+    "var": "VCDESC_1",
+    "en": "Defeat All Enemies",
+    "ua": "Перемогти усіх ворогів"
+  },
+  {
+    "var": "VCDESC_2",
+    "en": "Acquire Artifact",
+    "ua": "Здобути артефакт"
+  },
+  {
+    "var": "VCDESC_3",
+    "en": "Accumulate Creatures",
+    "ua": "Зібрати війська"
+  },
+  {
+    "var": "VCDESC_4",
+    "en": "Accumulate Resources",
+    "ua": "Зібрати ресурси"
+  },
+  {
+    "var": "VCDESC_5",
+    "en": "Upgrade Town",
+    "ua": "Вдосконалити місто"
+  },
+  {
+    "var": "VCDESC_6",
+    "en": "Build a Grail Structure",
+    "ua": "Звести споруду Грааля"
+  },
+  {
+    "var": "VCDESC_7",
+    "en": "Defeat Hero",
+    "ua": "Перемогти героя"
+  },
+  {
+    "var": "VCDESC_8",
+    "en": "Capture Town",
+    "ua": "Захопити місто"
+  },
+  {
+    "var": "VCDESC_9",
+    "en": "Defeat Monster",
+    "ua": "Перемогти чудовисько"
+  },
+  {
+    "var": "VCDESC_10",
+    "en": "Flag All Creature Dwellings",
+    "ua": "Захопити усі помешкання істот"
+  },
+  {
+    "var": "VCDESC_11",
+    "en": "Flag All Mines",
+    "ua": "Захопити усі шахти"
+  },
+  {
+    "var": "VCDESC_12",
+    "en": "Transport Artifact",
+    "ua": "Доставити артефакт"
+  },
+  {
+    "var": "VCDESC_13",
+    "en": "Defeat all monsters",
+    "ua": "Убити всіх монстрів"
+  },
+  {
+    "var": "VCDESC_14",
+    "en": "Survive beyond a time limit",
+    "ua": "Вижити протягом визначеного часу"
+  }
+]

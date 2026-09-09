@@ -1,0 +1,146 @@
+[
+  {
+    "var": "EVIL1_M3_prolog",
+    "field": "wrapper_prolog",
+    "en": "Assault the Erathian capital of Steadwick. This won't be easy, as the capital is easily and well defended. To make matters worse, the force led by Queen Catherine is on the move. We must capture Steadwick before she arrives!",
+    "ua": "Пора захопити столицю Ерафії, Стедвік. Завдання не з легких: місто обороняє потужний гарнізон, здатний відбити будь-якого ворога. Що ще гірше, армія королеви Катерини вже на шляху сюди. Треба встигнути захопити Стедвік, поки не наспіло підкріплення!"
+  },
+  {
+    "var": "EVIL1_M3_epilog",
+    "field": "wrapper_epilog",
+    "en": "Catherine Ironfist has enlisted aid from Bracada and AvLee.  She knows we are close to Steadwick.  We must occupy Steadwick before she arrives.  Once we own Erathia's capitol, not even Catherine Ironfist will wrench it from our hands.",
+    "ua": "Катерина Айронфіст запросила допомоги у Бракади і Ав-Лі. Вона знає, як близько ми підійшли до Стедвіка. Ми повинні захопити його, поки вона не привела підкріплення. А вже варто нам заволодіти столицею Ерафії - і самій Катерині Айронфіст не вирвати її з наших рук."
+  },
+  {
+    "var": "EVIL1_M3_map_name",
+    "field": "map_map_name",
+    "en": "Steadwick's Fall",
+    "ua": "Падіння Стедвіка"
+  },
+  {
+    "var": "EVIL1_M3_map_desc",
+    "field": "map_map_desc",
+    "en": "To win, you must capture the city of Steadwick within 3 months.",
+    "ua": "Щоб перемогти, вам потрібно захопити місто Стедвік протягом трьох місяців."
+  },
+  {
+    "var": "EVIL1_M3_p0_hero_name",
+    "field": "map_p0_hero_name",
+    "en": "Gen. Kendal",
+    "ua": "Ген. Кендал"
+  },
+  {
+    "var": "EVIL1_M3_p0_owned_hero_name",
+    "field": "map_p0_owned_hero_name",
+    "en": "Gen. Kendal",
+    "ua": "Ген. Кендал"
+  },
+  {
+    "var": "EVIL1_M3_obj0_town_name",
+    "field": "map_obj0_town_name",
+    "en": "Steadwick",
+    "ua": "Стедвік"
+  },
+  {
+    "var": "EVIL1_M3_obj1318_hero_name",
+    "field": "map_obj1318_hero_name",
+    "en": "Gen. Kendal",
+    "ua": "Ген. Кендал"
+  },
+  {
+    "var": "EVIL1_M3_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Intro 1",
+    "ua": "Intro 1"
+  },
+  {
+    "var": "EVIL1_M3_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "You are to be congratulated on your progress so far. You have laid waste to Eastern Erathia, and are now within striking distance of the Erathian capital of Steadwick. You must capture the capital quickly!",
+    "ua": "Вас можна привітати - ви попрацювали на славу! Ви розорили Східну Ерафію і впритул підійшли до столиці Ерафії - Стедвіка. Тепер потрібно негайно захопити столицю!"
+  },
+  {
+    "var": "EVIL1_M3_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Intro 2",
+    "ua": "Intro 2"
+  },
+  {
+    "var": "EVIL1_M3_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "Not only have Bracada and AvLee sent reinforcements, but we have received news that Queen Catherine Ironfist is marching a sizeable army from the south. We must control the capital and its garrisons before she arrives.",
+    "ua": "Мало того, що Бракада й Ав-Лі направили підкріплення, нам стало відомо, що Королева Катерина Айронфіст висунула велике військо з півдня. Ми повинні заволодіти столицею та її гарнізонами до її прибуття."
+  },
+  {
+    "var": "EVIL1_M3_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "News",
+    "ua": "News"
+  },
+  {
+    "var": "EVIL1_M3_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "You have just received a report on the progress of Queen Catherine. Forces from Nighon and Eeofol are attempting to delay her march to Steadwick, but doubt that they can delay her more than two or three months.",
+    "ua": "Ви щойно отримали повідомлення про просування Королеви Катерини. Війська з Ніґона й Еофола намагаються перешкодити їй дійти до Стедвіка, але навряд чи вони зможуть утримувати її більше двох-трьох місяців."
+  },
+  {
+    "var": "EVIL1_M3_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "News",
+    "ua": "News"
+  },
+  {
+    "var": "EVIL1_M3_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "You receive a report from the south. Queen Catherine's forces have been sufficiently delayed, allowing you at least two months more to reach the capitol, but our own forces have suffered significant losses. Do not let their sacrifice go to waste.",
+    "ua": "Вам надійшло повідомлення з півдня. Війська Королеви Катерини вдалося затримати, і у вас з'явилося щонайменше два місяці на те, щоб дійти до столиці. Але наші сили зазнали великих втрат. Не допустіть, щоб їхні жертви виявилися марними."
+  },
+  {
+    "var": "EVIL1_M3_mapevent4_name",
+    "field": "map_mapevent4_name",
+    "en": "News",
+    "ua": "News"
+  },
+  {
+    "var": "EVIL1_M3_mapevent4_mesg",
+    "field": "map_mapevent4_mesg",
+    "en": "You receive a report from the south. Our forces continue to throw themselves in the path of Queen Catherine's armies, yet she continues to march northward. You have, at most, three or four weeks before she can reach the capitol.",
+    "ua": "Вам надійшло повідомлення з півдня. Наші війська продовжують переслідувати армію Королеви Катерини, але вона продовжує свій похід на північ. У кращому разі, через три-чотири тижні вона буде в столиці."
+  },
+  {
+    "var": "EVIL1_M3_mapevent5_name",
+    "field": "map_mapevent5_name",
+    "en": "Warning",
+    "ua": "Warning"
+  },
+  {
+    "var": "EVIL1_M3_mapevent5_mesg",
+    "field": "map_mapevent5_mesg",
+    "en": "Queen Catherine's march continues - her forces are just two weeks away. If you do not hurry, we will not have time to secure the capitol before her arrival.",
+    "ua": "Похід війська Королеви Катерини триває - її армія вже на відстані двох тижнів шляху. Якщо ви не поспішите, ми не встигнемо зайняти столицю до її приходу."
+  },
+  {
+    "var": "EVIL1_M3_mapevent6_name",
+    "field": "map_mapevent6_name",
+    "en": "Warning",
+    "ua": "Warning"
+  },
+  {
+    "var": "EVIL1_M3_mapevent6_mesg",
+    "field": "map_mapevent6_mesg",
+    "en": "Your scouts report sighting Queen Catherine's army seven days to the southwest.  If she reaches the capitol before you, all is lost.",
+    "ua": "Ваші розвідники повідомляють, що бачили військо Королеви Катерини на південному заході на відстані тижневого шляху. Якщо вона виявиться в столиці раніше за вас, все буде втрачено."
+  },
+  {
+    "var": "EVIL1_M3_mapevent7_name",
+    "field": "map_mapevent7_name",
+    "en": "Ending",
+    "ua": "Ending"
+  },
+  {
+    "var": "EVIL1_M3_mapevent7_mesg",
+    "field": "map_mapevent7_mesg",
+    "en": "This morning, a massive army lead by Queen Catherine Ironfist arrived at the Erathian capitol of Steadwick. We have no choice but to retreat our forces. You have failed us... miserably.",
+    "ua": "Сьогодні вранці величезне військо під командуванням Королеви Катерини Айронфіст прибуло до столиці Ерафії, міста Стедвік. Нам не залишається іншого шляху, крім відступу. Як не сумно, але ви провалили завдання."
+  }
+]

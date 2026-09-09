@@ -1,0 +1,140 @@
+[
+  {
+    "var": "SECRET_M3_prolog",
+    "field": "wrapper_prolog",
+    "en": "The Kreegans do not believe your sincerity.  To them, Necromancers are weak wraiths feeding off the living, unable to initiate any good plan.  To prove your sincerity they want you to turn over the Eversmoking Ring of Sulfur.  A Druid stole it some years ago and they want it back.",
+    "ua": "Ще одна затримка у вашому плані - цього разу, з вини криганців. Щоб довести вашу відданість, вам необхідно повернути криганцям Невичерпний перстень сірки. Друїд викрав його кілька років тому, і тепер вони хочуть повернути артефакт."
+  },
+  {
+    "var": "SECRET_M3_epilog",
+    "field": "wrapper_epilog",
+    "en": "Kreegans are so arrogant, but I have need of their creatures to invade Erathia and crush her military.  Without their brute strength I would not be able to carry out all my plans.  So I will play their little game and find their precious artifact, the Eversmoking Ring of Sulfur.",
+    "ua": "Зарозумілість криганців не знає меж, але мені потрібні їх чудовиська, щоб вторгнутися в Ерафію і розгромити її армії. Без їх звірячої могутності я не зможу домогтися свого. Гаразд, я погоджуся на їх умови і дістану їм цей їх дорогоцінний Невичерпний перстень сірки."
+  },
+  {
+    "var": "SECRET_M3_map_name",
+    "field": "map_map_name",
+    "en": "Kreegan Alliance",
+    "ua": "Cоюз з криганцями"
+  },
+  {
+    "var": "SECRET_M3_map_desc",
+    "field": "map_map_desc",
+    "en": "Obtain the Eversmoking Ring of Sulfur for the Kreegans to win the scenario.  However, if Sandro is defeated in combat, the scenario is lost.  Heroes are limited to level 24, but Sandro and three of his lieutenants will carry their experience, skills and spells on to the next scenario.",
+    "ua": "Щоб виграти, необхідно добути невичерпний перстень сірки для криганців. Якщо Сандро буде переможений у битві, він програє. Герой обмежений 24 рівнем. Якщо він переможе, його досвід, первинні та вторинні навички, а також Чарівна книга перейдуть у наступний сценарій разом з ним."
+  },
+  {
+    "var": "SECRET_M3_obj584_guardian_mesg",
+    "field": "map_obj584_guardian_mesg",
+    "en": "This will be most useful against those far too happy Rangers.",
+    "ua": "Ця як раз те, що треба - а то ці рейнджери занадто веселі."
+  },
+  {
+    "var": "SECRET_M3_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Day 1",
+    "ua": "Day 1"
+  },
+  {
+    "var": "SECRET_M3_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "The Kreegans have demanded that the Necromancers prove their worth by hunting down the Eversmoking Ring of Sulfur.  They apparently need this item to construct some of their buildings, (although to the Necromancers, it is a mere token).  You have been sent to fetch this particular item personally because Finneas doesn't trust anyone else with the task.  Kreegan support is essential to the plans of Deyja.",
+    "ua": "Криганці зажадали, щоб некроманти дістали для них невичерпний перстень сірки. Очевидно, воно потрібне їм для споруди якихось будівель (хоча для некромантів цей перстень - звичайний артефакт). Вас послали дістати цей артефакт, бо Фінеас більше нікому не захотів довірити виконання цього завдання. Підтримка з боку криганців дуже важлива для Деї."
+  },
+  {
+    "var": "SECRET_M3_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Day 5",
+    "ua": "Day 5"
+  },
+  {
+    "var": "SECRET_M3_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "You have discovered why the Kreegans have not gotten the Ring back.  A powerful Druid named Melodia has captured the item and dug herself into a very secure location.  Using her powerful magic, Melodia has created a series of teleporters to keep intruders out.  The Ring is rumored to always be on her person.",
+    "ua": "Ви зрозуміли, чому цей перстень не належить криганцям. Могутній друїд на ім'я Мелодія заволоділа ним і зникла десь у таємному місці. Використовуючи сильну магію, Мелодія створила кілька порталів, які тримають непроханих відвідувачів на відстані. Кажуть, перстень завжди одягнутий у неї на пальці."
+  },
+  {
+    "var": "SECRET_M3_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Computer Resources",
+    "ua": "Computer Resources"
+  },
+  {
+    "var": "SECRET_M3_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "This will give the computer resources every day.",
+    "ua": "Комп'ютер буде отримувати ресурси кожного дня."
+  },
+  {
+    "var": "SECRET_M3_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "Speed is of the essence",
+    "ua": "Speed is of the essence"
+  },
+  {
+    "var": "SECRET_M3_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "You must move quickly or face overwhelming odds.  If you do not complete your mission in the next two months then the AvLee forces will have time to organize and drive you permanently from this realm of existence.  It is essential to get the ring and leave the area as quickly as possible.",
+    "ua": "Ви повинні поквапитися. Якщо ви не закінчите місію протягом двох місяців, сили Ав-Лі зберуться і видворять вас з цього світу. Необхідно якомога швидше знайти перстень і покинути цю місцевість."
+  },
+  {
+    "var": "SECRET_M3_mapevent4_name",
+    "field": "map_mapevent4_name",
+    "en": "Scout",
+    "ua": "Scout"
+  },
+  {
+    "var": "SECRET_M3_mapevent4_mesg",
+    "field": "map_mapevent4_mesg",
+    "en": "A scouting party returned early in the morning.  They were too slow to catch the Silver Pegasi flying overhead from the direction of the Rampart town where Melodia resides.  If they took a message to the other AvLee lords you will soon face more than just a single Druid.",
+    "ua": "Рано вранці повернулися розвідники. Вони не змогли зловити срібних пегасів, які летіли з боку резиденції Мелодії. Якщо вони несуть повідомлення іншим лордам Ав-Лі, незабаром вам доведеться мати справу не з одним друїдом."
+  },
+  {
+    "var": "SECRET_M3_mapevent5_name",
+    "field": "map_mapevent5_name",
+    "en": "Best Spy",
+    "ua": "Best Spy"
+  },
+  {
+    "var": "SECRET_M3_mapevent5_mesg",
+    "field": "map_mapevent5_mesg",
+    "en": "It is always best to know your enemy, which is why you often use spies to find out what you can about them, especially this Druid.  It will be a few days before the spy returns.",
+    "ua": "Завжди добре знати свого ворога, тому ви часто використовуєте шпигунів, щоб добути якомога більше інформації. Шпигуни, послані до друїди, повернуться через декілька днів."
+  },
+  {
+    "var": "SECRET_M3_mapevent6_name",
+    "field": "map_mapevent6_name",
+    "en": "Return",
+    "ua": "Return"
+  },
+  {
+    "var": "SECRET_M3_mapevent6_mesg",
+    "field": "map_mapevent6_mesg",
+    "en": "Your spy returned today.  The news was not good.  Or at least that's what you gather from the dismembered corpse tossed on your front doorstep in the predawn hours.  It would be extremely prudent to learn more about this mysterious Druid.",
+    "ua": "Сьогодні повернувся ваш шпигун. Він приніс погані новини. Принаймні, саме це ви подумали, коли побачили розчленований труп, що лежить на вашому ганку. Вам точно необхідно дізнатися про цю загадкову жрицю друїдів якомога більше."
+  },
+  {
+    "var": "SECRET_M3_mapevent7_name",
+    "field": "map_mapevent7_name",
+    "en": "Necromancer",
+    "ua": "Necromancer"
+  },
+  {
+    "var": "SECRET_M3_mapevent7_mesg",
+    "field": "map_mapevent7_mesg",
+    "en": "It is always good to know someone who will retain and sell information.  Fortunately you know such a person, a thief named Dethmar who makes it his business to know about the background of all who dwell in these lands.  Jotting down a little of you know about the Druid Melodia, you send off the parchment via a dead crow.",
+    "ua": "Добре, коли знаєш когось, хто збирає і продає інформацію. На щастя, у вас є подібний знайомий, злодій на ім'я Детмар, який живе тим, що збирає інформацію про всіх, хто живе в цих краях. Коротко записавши те, що ви знаєте про друїдів Мелодії, ви посилаєте записку з вороною-зомбі."
+  },
+  {
+    "var": "SECRET_M3_mapevent8_name",
+    "field": "map_mapevent8_name",
+    "en": "Response",
+    "ua": "Response"
+  },
+  {
+    "var": "SECRET_M3_mapevent8_mesg",
+    "field": "map_mapevent8_mesg",
+    "en": "Dethmar has obtained some history on the Druid, but his price for revealing it to you is steep-- 3,000 gold and 4 sulfur.  You send off the payment, hoping the information will be worth such a lofty sum.  Soon afterwards Dethard sends the following message in reply:\n\n\"Greetings, Sandro.\n\nMelodia is a veteran Hero of AvLee.  That she has survived so many battles suggests that she is lucky to say the least.  She has powerful magic abilities with a full compliment of spells in her repertoire.  Any magic user would salivate to have even the briefest peek at her spell book.  Her reputed skills are excellent, with her having mastered the four magical arts as well as studying combat tactics.\n\nShe has picked up more than just the pathetic Eversmoking Ring of Sulfur in her travels.  I am surprised you are not after the Sandals of the Saint, the Armor of Wonder, the Golden Bow or the Hellstorm Helmet, all rumored to be in her possession.\n\nIf you choose to go up against this formidable Druid I suggest you have plenty of troops under your command.\n\nDethmar\"",
+    "ua": "Детмару вдалося дещо дізнатися про друїдів. За інформацію він хоче 3000 золотих та 4 одиниці сірки. Ви висилаєте йому потрібне, сподіваючись, що інформація того варта. Незабаром приходить відповідь:\n\n\"Вітаю, Сандро.\n\nМелодія - досвідчений герой Ав-Лі. Те, що вона вижила в стількох битвах, говорить як мінімум про те, що вона дуже вдачлива. У неї великі здібності в магії, і вона знає безліч заклинань. Будь-який маг віддасть що завгодно, аби лиш поглянути хоча б мигцем на її Чарівну книгу. Її здібності вражаючі, вона вивчила чотири школи магії, а також військову тактику.\n\nЗа час своїх подорожей вона отримала набагато більше, ніж просто невичерпний перстень сірки. Їй належать також Сандалії святого, Дивний обладунок, Золотий лук і Шолом пекельної бурі.\n\nЯкщо ти ризикнеш битися з нею, раджу тобі зібрати військо якнайбільше.\n\nДетмар\""
+  }
+]

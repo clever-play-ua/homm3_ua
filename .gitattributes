@@ -1,2 +1,12 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Original/translated HoMM3 game resource files: line-ending bytes are part
+# of the file FORMAT, not just cosmetics. Several flat .TXT resource files
+# (ArrayTxt.txt, AdvEvent.txt, ...) use "\r\n" as the real record separator
+# and a bare "\n" (no \r) for embedded line breaks INSIDE a quoted
+# multi-line value - the game reads records by splitting on "\r\n", so if
+# git's autocrlf normalizes every \n to \r\n on checkout, it silently
+# merges/splits records in the wrong places (this caused a real, hard-to-
+# diagnose in-game bug - see TODO.md). Never let git touch these bytes.
+001_ORIGINAL_HOMM3_FILES_HURTOM/** -text -diff

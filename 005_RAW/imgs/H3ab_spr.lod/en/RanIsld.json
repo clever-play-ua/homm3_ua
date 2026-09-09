@@ -1,0 +1,15 @@
+{
+  "sequences": [
+    {
+      "group": 0,
+      "frames": [
+        "RanIsld.dir\\00_00.png",
+        "RanIsld.dir\\00_01.png",
+        "RanIsld.dir\\00_02.png",
+        "RanIsld.dir\\00_03.png"
+      ]
+    }
+  ],
+  "type": 71,
+  "format": 1
+}

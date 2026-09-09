@@ -1,0 +1,20 @@
+[
+  {
+    "var": "GELU_campaign_name",
+    "field": "wrapper_campaign_name",
+    "en": "Elixir of Life",
+    "ua": "Еліксир життя"
+  },
+  {
+    "var": "GELU_campaign_desc",
+    "field": "wrapper_campaign_desc",
+    "en": "Gelu has spent many months training to become a member of Erathia's elite Forest Guard.  For his final test, he is tasked to assemble an artifact known as the Elixir of Life.  He must find the artifact's four components to keep it out of the hands of the Necromancers.",
+    "ua": "Ґело багато тренувався, щоб стати членом Лісової варти. Його останнє завдання - зібрати артефакт \"Еліксир життя\". Він повинен зібрати компоненти артефакту, щоб уберегти їх від некромантів."
+  },
+  {
+    "var": "GELU_campaign_epilogue",
+    "field": "wrapper_campaign_epilogue",
+    "en": "I have completed construction of the Elixir of Life and saved AvLee from the threat of the Necromancers of Deyja, earning myself an honorable position within the Forest Guard.  I look forward to my service faithfully protecting this beautiful land I love so much.",
+    "ua": "Я завершив складання Еліксиру життя і врятував країну Ав-Лі від некромантів Деї. Я по праву заслужив місце в рядах Лісової варти і присвячую своє життя захисту моєї прекрасної й улюбленої батьківщини."
+  }
+]

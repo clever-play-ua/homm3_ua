@@ -1,0 +1,206 @@
+[
+  {
+    "var": "FINAL_M4_prolog",
+    "field": "wrapper_prolog",
+    "en": "Gem's employer, the AvLee border lord Fayette, has been killed by the Necromancers while on a secret mission.  Never able to leave an enemy defeated, the Necromancers have further humiliated Fayette by raising him as a Death Knight.  Gem can't accept this insult.  Lord Fayette's undead body must be destroyed to grant him final peace.",
+    "ua": "Був убитий Фаєт, прикордонний барон Ав-Лі, наймач Ґем. Його таємно вбили некроманти. Не маючи можливості повністю розгромити ворога, некроманти для знущання оживили Фаєта, і він став лицарем Смерті. Ґем не може знести такої образи. Тіло лорда Фаєта необхідно знищити, щоб він упокоївся з миром."
+  },
+  {
+    "var": "FINAL_M4_epilog",
+    "field": "wrapper_epilog",
+    "en": "When I went to tell Lord Fayette about Sandro tricking me, I learned he left on a mission into Deyja while I was searching for the boots and had not yet returned.  So I scryed for Lord Fayette and discovered his mission had gone horribly wrong.  He had been killed by the Necromancers and... and... resurrected as a Death Knight!  Curse all Necromancers!  There is one last service I can do for my lord.  I will grant his soul final peace by destroying the undead body chaining it to this world.  I owe him that much.",
+    "ua": "Коли я прийшла до лорда Фаєта, щоб розповісти про безчесний вчинок Сандро, мені повідомили, що, поки я шукала Туфлі, він відправився з військовою експедицією в Дею і ще не повернувся. Я поворожила на лорда Фаєта, і мені відкрилося, що з ним сталося страшне нещастя. Некроманти вбили його і відродили у вигляді лицаря смерті! Прокляті некроманти! Мені залишилося послужити моєму панові останню службу. Я випущу на волю його благородну душу, а для цього знищу неупокоєне тіло, яке прив'язує її до цього світу. Такий мій борг перед його пам'яттю."
+  },
+  {
+    "var": "FINAL_M4_map_name",
+    "field": "map_map_name",
+    "en": "Final Peace",
+    "ua": "Упокій"
+  },
+  {
+    "var": "FINAL_M4_map_desc",
+    "field": "map_map_desc",
+    "en": "You must kill Lord Fayette to win the scenario.  However, if Gem is defeated in combat, the scenario is lost.  Gem is limited to level 30 but will carry her experience, skills and spells on to her next scenario.",
+    "ua": "Для того щоб отримати перемогу в цьому сценарії, необхідно знищити лорда Файета. Якщо ж Ґем програє хоча б одну битву, сценарій закінчиться поразкою. Ґем обмежена 30 рівнем, але вона переходить у наступний сценарій з усім своїм досвідом, навичками і заклинаннями."
+  },
+  {
+    "var": "FINAL_M4_custom_hero_name",
+    "field": "map_custom_hero_name",
+    "en": "Lord Fayette",
+    "ua": "Лорд Файет"
+  },
+  {
+    "var": "FINAL_M4_obj47_event_name",
+    "field": "map_obj47_event_name",
+    "en": "Extra income",
+    "ua": "Extra income"
+  },
+  {
+    "var": "FINAL_M4_obj48_event_name",
+    "field": "map_obj48_event_name",
+    "en": "Gold",
+    "ua": "Gold"
+  },
+  {
+    "var": "FINAL_M4_obj48_event_name",
+    "field": "map_obj48_event_name",
+    "en": "Additional Income",
+    "ua": "Gold"
+  },
+  {
+    "var": "FINAL_M4_obj48_event_name",
+    "field": "map_obj48_event_name",
+    "en": "Build Townhall",
+    "ua": "Gold"
+  },
+  {
+    "var": "FINAL_M4_obj49_event_name",
+    "field": "map_obj49_event_name",
+    "en": "Gold",
+    "ua": "Gold"
+  },
+  {
+    "var": "FINAL_M4_obj49_event_name",
+    "field": "map_obj49_event_name",
+    "en": "Additional Income",
+    "ua": "Gold"
+  },
+  {
+    "var": "FINAL_M4_obj49_event_name",
+    "field": "map_obj49_event_name",
+    "en": "Build Townhall",
+    "ua": "Gold"
+  },
+  {
+    "var": "FINAL_M4_obj1389_hero_bio",
+    "field": "map_obj1389_hero_bio",
+    "en": "An unknown Necromancer raised Lord Fayette as a Death Knight.  Lord Fayette has been given orders to invade AvLee.",
+    "ua": "Некромант, ім'я котрого не відоме, відродив лорда Файета в образі Лицаря Смерті. Лорд Файет отримав наказ вторгнутись до Ав-Лі."
+  },
+  {
+    "var": "FINAL_M4_obj1397_event_name",
+    "field": "map_obj1397_event_name",
+    "en": "Gold",
+    "ua": "Gold"
+  },
+  {
+    "var": "FINAL_M4_obj1397_event_name",
+    "field": "map_obj1397_event_name",
+    "en": "Additional Income",
+    "ua": "Gold"
+  },
+  {
+    "var": "FINAL_M4_obj1397_event_name",
+    "field": "map_obj1397_event_name",
+    "en": "Build Townhall",
+    "ua": "Gold"
+  },
+  {
+    "var": "FINAL_M4_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Intro",
+    "ua": "Intro"
+  },
+  {
+    "var": "FINAL_M4_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "Lord Fayette has been turned into a Death Knight while on a secret mission into Deyja.  Apparently he was to meet secretly with one of the Deyjan Border Lords, but something went wrong.  I am determined to grant his soul final peace by destroying his undead body.  Clancy volunteered to help me.  We have slipped over the border into a no man's land between AvLee and Deyja.  From here we will build our forces and push into Deyja itself.",
+    "ua": "Виконуючи секретне завдання в Деї, лорд Файет потрапив до рук ворогів і був перетворений на лицаря смерті. Він повинен був зустрітися з одним з прикордонних баронів, володіння якого знаходяться на самих кордонах Деї, але, очевидно, щось завадило його планам. Я просто зобов'язана навіки упокоїти його душу, знищивши безсмертне тіло, що полонило її. Кленсі зголосився допомогти мені. Ми таємно перейшли кордон і опинилися в нічийних землях, що відокремлюють країну Ав-Лі від мертвих просторів Деї. Тут ми зберемо армію і почнемо наступ на Дею."
+  },
+  {
+    "var": "FINAL_M4_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Plans",
+    "ua": "Plans"
+  },
+  {
+    "var": "FINAL_M4_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "We located two rampart castles.  Clancy and I will each base out of one, build our forces and castles, and then combine our forces to push into Deyja.  From my scrying I know the Death Knight we are looking for is in this area of Deyja.  Curse them!  We will grant you final peace, Lord Fayette.  I promise.",
+    "ua": "Ми знайшли пару непоганих фортець. В одній з них влаштується Кленсі, іншу займу я. Ми відбудуємо замки, зберемо армії і, об'єднавши сили, підемо війною на Дею. Мої шпигуни доносять, що Лицар Смерті, якого ми шукаємо, знаходиться в Деї неподалік від наших володінь. Хай будуть прокляті його мучителі! Вір моєму слову, лорд Файет, я дарую тобі вічний спокій!"
+  },
+  {
+    "var": "FINAL_M4_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Lady Fayette Message",
+    "ua": "Lady Fayette Message"
+  },
+  {
+    "var": "FINAL_M4_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "I received a message from Lord Fayette's wife today.  She told me she had discovered the purpose of her husband's secret mission.  Apparently he was trying to discover information about what happened to his neighbor, Lord Falorel.  Lord Falorel was found dead by a Ranger named Gelu, but the corpse was that of a vampire.  It's unclear what happened.  Had Falorel been replaced by the vampire?  Was the real Falorel captured and turned into a vampire?  Or was something else going on?  And who killed the vampire?  Hmm, one other question:  why was a Deyjan Border Lord willing to talk to Lord Fayette about this?",
+    "ua": "Сьогодні я отримала послання від дружини лорда Файета. Вона пише, що довідалася про секретне завдання, яке виконував її чоловік. Виявляється, він повинен був з'ясувати, що ж сталося з його сусідом - лордом Фалорелем. Лорда Фалореля знайшов мертвим рейнджер на ім'я Ґело, але тіло його виявилося тілом вампіра! Ніхто не знає точно, що ж відбулося насправді. Чи був справжній Фалорель підмінений вампіром? Чи був він схоплений ворогами і перетворений на вампіра? Або, може бути, сталося щось інше? І хто вбив вампіра? Нічого не розумію... Або ось ще питання: чому прикордонний барон погодився розповісти про ці події лорду Файету?"
+  },
+  {
+    "var": "FINAL_M4_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "Dead Border Lord",
+    "ua": "Dead Border Lord"
+  },
+  {
+    "var": "FINAL_M4_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "Even in Deyja there are a few residents who are not undead.  My scouts made contact with some yesterday.  They had some interesting news.  The local Deyjan Border Lord was assassinated recently.  He was apparently killed on the same day as Lord Fayette.  The interesting part is that the people questioned by the scouts believe another Deyjan Lord assassinated the Border Lord.",
+    "ua": "Навіть у Деї ще збереглися живі люди. Вчора мої розвідники зустріли кількох вцілілих, які повідомили дуже цікаві новини. Виявляється, прикордонний барон був нещодавно злочинно вбитий, і загинув він у той же день, що і лорд Файет. Дивує в цій історії те, що, за словами мешканців Деї, прикордонний барон загинув від руки іншого лорда з Деї."
+  },
+  {
+    "var": "FINAL_M4_mapevent4_name",
+    "field": "map_mapevent4_name",
+    "en": "Plot",
+    "ua": "Plot"
+  },
+  {
+    "var": "FINAL_M4_mapevent4_mesg",
+    "field": "map_mapevent4_mesg",
+    "en": "It is becoming increasingly obvious to me that Lord Fayette's death was a result of some larger plot.  I'm not sure whether he was killed because he was a Border Lord or because he found out too much about what was going on.  If the Deyjan Border Lord had not been killed, I would say it was a plan to invade AvLee in the confusion resulting from the death of two neighboring AvLee Border Lords.",
+    "ua": "Для мене все стає більш очевидним: смерть лорда Файет - це частина великої змови. Не знаю, чи був він убитий тому, що сам був прикордонним бароном, або від того, що занадто багато дізнався про те, що відбувається. Якби барон з Деї не загинув від руки вбивці, я б сказала, що змовники збиралися вторгнутися в країну Ав-Лі, користуючись плутаниною, викликаною смертю відразу двох авлійських прикордонних баронів, що жили по сусідству."
+  },
+  {
+    "var": "FINAL_M4_mapevent5_name",
+    "field": "map_mapevent5_name",
+    "en": "Plot (cont)",
+    "ua": "Plot (cont)"
+  },
+  {
+    "var": "FINAL_M4_mapevent5_mesg",
+    "field": "map_mapevent5_mesg",
+    "en": "That would make sense except that the Deyjan Border Lord across from them was also killed.  It would seem as if there is some plot larger than an invasion or there is more than one thing happening here.  I have decided to send what I know to the Druid High Council and ask them to forward the knowledge on to the AvLee Council of Elders.",
+    "ua": "Такий план мав усі шанси на успіх, якби не смерть дейського прикордонного барона, володіння якого тягнулися прямо напроти їхніх власних. Схоже, плани змовників не обмежуються одним вторгненням, і відбуваються тут події дуже неоднозначні. Я вирішила направити докладний звіт про все, що мені вдалося дізнатися, Верховній Раді Друїдів з тим, щоб вони переправили його Раді Старійшин країни Ав-Лі."
+  },
+  {
+    "var": "FINAL_M4_mapevent6_name",
+    "field": "map_mapevent6_name",
+    "en": "Message from Clancy",
+    "ua": "Message from Clancy"
+  },
+  {
+    "var": "FINAL_M4_mapevent6_mesg",
+    "field": "map_mapevent6_mesg",
+    "en": "I sent a message to Clancy last week asking him what he knew about Gelu.  I received his response today.  Interestingly, Gelu is Erathian who recently became a member of some elite unit.  He was then assigned to help Lord Falorel in some joint Erathian-AvLee operation that never happened because of Falorel's death.",
+    "ua": "Минулого тижня я відправила Кленсі послання, в якому просила його розповісти все, що він знає про Ґело. Сьогодні від нього надійшла відповідь. Виявляється, Ґело родом з Ерафії, і зовсім недавно він вступив в якийсь дуже престижний військовий загін. На цій новій посаді йому було наказано допомагати лорду Фалорелю під час операції, в якій брали участь уродженці й Ерафії, і країни Ав-Лі. Проте операції цій не судилося відбутися через смерть лорда Фалореля."
+  },
+  {
+    "var": "FINAL_M4_mapevent7_name",
+    "field": "map_mapevent7_name",
+    "en": "Letter to Gelu",
+    "ua": "Letter to Gelu"
+  },
+  {
+    "var": "FINAL_M4_mapevent7_mesg",
+    "field": "map_mapevent7_mesg",
+    "en": "I'm sending a letter to Gelu telling him I think Falorel's and Fayette's deaths are related and asking him to meet with me after I lay Lord Fayette to rest.  I would like to learn what he knows about what is going on.",
+    "ua": "Я відправила Ґело послання, в якому повідомляю, що вважаю смерті Фалореля і Файета пов'язаними між собою, і прошу про зустріч після того, як дарую душі лорда Файета вічний спокій. Хотілося б дізнатися, що йому відомо про все що відбувається."
+  },
+  {
+    "var": "FINAL_M4_mapevent8_name",
+    "field": "map_mapevent8_name",
+    "en": "Gem's Eyes",
+    "ua": "Gem's Eyes"
+  },
+  {
+    "var": "FINAL_M4_mapevent8_mesg",
+    "field": "map_mapevent8_mesg",
+    "en": "I over heard some of my troops talking about my eyes.  It was amusing.  Apparently they think the blue around my eyes is some sort of war paint.  I suppose they would be disappointed if I were to tell them it's merely part of being a Druid.  I magicked my face that way in a ceremony honoring something some small creature had done for me, which in my case was when raccoons washed my food in the water.  The raccoons' gesture may not have been a monumental gift, but I treasure the memory.",
+    "ua": "Я випадково підслухала, як наші воїни подейкували про мої очі. Дуже кумедно! Виявляється, вони думають, що синява, яка оточує мої очі, - це бойовий макіяж. Думаю, вони були б дуже розчаровані, якби дізналися, що це - всього лише звичайна ознака друїда. Я надала своєму обличчю такий вид на честь симпатичних звірят, що зробили мені маленьку, але зворушливу послугу - я маю на увазі єнотів, які прополоскали в лісовому струмку мій обід, який вивалявся в бруді. Здавалося б, вчинок єнотів - дрібниця, але спогади про нього гріють мені душу."
+  }
+]

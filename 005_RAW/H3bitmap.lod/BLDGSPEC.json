@@ -1,0 +1,552 @@
+[
+  {
+    "var": "BLDGSPEC_Lighthouse",
+    "en": "Lighthouse\tThe lighthouse grants additional mobility to any ships you control.\t",
+    "ua": "Маяк\tМаяк додає кількість ходів вашим кораблям.\t"
+  },
+  {
+    "var": "BLDGSPEC_Griffin Bastion",
+    "en": "Griffin Bastion\tThe Griffin Bastion increases Griffin production by 3 per week.\t",
+    "ua": "Бастіон грифонів\tБастіон грифонів збільшує приріст грифонів на 3 щотижня.\t"
+  },
+  {
+    "var": "BLDGSPEC_Griffin Bastion",
+    "en": "Griffin Bastion\tThe Griffin Bastion increases Royal Griffin production by 3 per week.\t",
+    "ua": "Фортеця грифонів\tФортеця грифонів збільшує приріст королівських грифонів на 3 щотижня.\t"
+  },
+  {
+    "var": "BLDGSPEC_Shipyard",
+    "en": "Shipyard\tThe Shipyard allows you to purchase ships.\t",
+    "ua": "Верф\tВерф дозволяє будувати кораблі.\t"
+  },
+  {
+    "var": "BLDGSPEC_Stables",
+    "en": "Stables\tThe Stables increase the land movement rate of any visiting hero.\t",
+    "ua": "Стайні\tСтайні збільшують відстань, яку проходить герой, що відвідав місто, за один хід.\t"
+  },
+  {
+    "var": "BLDGSPEC_Brotherhood of the Sword",
+    "en": "Brotherhood of the Sword\t\"During a siege, the Brotherhood of the Sword increases troop morale by +2.\"\t",
+    "ua": "Братство меча\t\"При штурмі міста Братство меча збільшує Мораль військ на 2 одиниці.\"\t"
+  },
+  {
+    "var": "BLDGSPEC_7",
+    "en": "\t\t",
+    "ua": "\t\t"
+  },
+  {
+    "var": "BLDGSPEC_8",
+    "en": "\t\t",
+    "ua": "\t\t"
+  },
+  {
+    "var": "BLDGSPEC_9",
+    "en": "\t\t",
+    "ua": "\t\t"
+  },
+  {
+    "var": "BLDGSPEC_Colossus",
+    "en": "Colossus\t\"The presence of the Colossus increases weekly creature generation by 50%, provides your kingdom with an additional 5000 gold each day, and increases the morale of all allied heroes by +2.\"\t",
+    "ua": "Колос\t\"Колос збільшує щотижневий приріст істот на 50%, приносить королівству додатково 5000 золотих щодня і збільшує Мораль всіх дружніх героїв на 2 одиниці.\"\t"
+  },
+  {
+    "var": "BLDGSPEC_Resource Silo",
+    "en": "Resource Silo\tThe Resource Silo provides you with an additional +1 wood and +1 ore each day.\t",
+    "ua": "Склад ресурсів\tСклад ресурсів щодня приносить 1 одиницю деревини та 1 одиницю руди.\t"
+  },
+  {
+    "var": "BLDGSPEC_Mystic Pond",
+    "en": "Mystic Pond\tThe Mystic Pond produces a small random number of resources each week.\t",
+    "ua": "Чарівне озерце\tЧарівне озерце приносить невелику кількість ресурсів щотижня.\t"
+  },
+  {
+    "var": "BLDGSPEC_Miners' Guild",
+    "en": "Miners' Guild\tThe Miners' Guild increases Dwarf production by 4 per week.\t",
+    "ua": "Гільдія гірників\tГільдія гірників збільшує на 4 щотижневий приріст гномів.\t"
+  },
+  {
+    "var": "BLDGSPEC_Miners' Guild",
+    "en": "Miners' Guild\tThe Miners' Guild increases Battle Dwarf production by 4 per week.\t",
+    "ua": "Союз гірників\tСоюз гірників збільшує на 4 щотижневий приріст бойових гномів.\t"
+  },
+  {
+    "var": "BLDGSPEC_15",
+    "en": "\t\t",
+    "ua": "\t\t"
+  },
+  {
+    "var": "BLDGSPEC_Fountain of Fortune",
+    "en": "Fountain of Fortune\tThe Fountain of Fortune increases the luck of the garrison hero by +2 when defending against a siege.\t",
+    "ua": "Фонтан удачі\tФонтан удачі при облозі цього міста збільшує Удачу героя, що захищає це місто, на 2 одиниці.\t"
+  },
+  {
+    "var": "BLDGSPEC_Treasury",
+    "en": "Treasury\tThe Treasury earns you 10% interest on any gold you have at the start of each week.\t",
+    "ua": "Скарбниця\tСкарбниця збільшує золото, яке було у вас на початку тижня, на 10%.\t"
+  },
+  {
+    "var": "BLDGSPEC_18",
+    "en": "\t\t",
+    "ua": "\t\t"
+  },
+  {
+    "var": "BLDGSPEC_Dendroid Saplings",
+    "en": "Dendroid Saplings\tThe Dendroid Saplings increase Dendroid Guard production by 2 per week.\t",
+    "ua": "Гай дендроідів\tГай дендроідів збільшує щотижневий приріст дендроідів на 2.\t"
+  },
+  {
+    "var": "BLDGSPEC_Dendroid Saplings",
+    "en": "Dendroid Saplings\tThe Dendroid Saplings increase Dendroid Soldier production by 2 per week.\t",
+    "ua": "Ліс дендроідів\tЛіс дендроідів збільшує на 2 щотижневий приріст дендроідів-вартових.\t"
+  },
+  {
+    "var": "BLDGSPEC_Spirit Guardian",
+    "en": "Spirit Guardian\t\"The presence of the Spirit Guardian increases weekly creature generation by 50%, provides your kingdom with an additional 5000 gold each day, and increases the luck of all allied heroes by +2.\"\t",
+    "ua": "Дух-охоронець\t\"Дух-охоронець збільшує щотижневий приріст істот на 50%, приносить щоденно королівству 5000 золотих і збільшує удачу всіх дружніх героїв на 2 одиниці.\"\t"
+  },
+  {
+    "var": "BLDGSPEC_Resource Silo",
+    "en": "Resource Silo\tThe Resource Silo provides you with an additional +1 crystal each day.\t",
+    "ua": "Склад ресурсів\tСклад ресурсів приносить 1 кристал щодня.\t"
+  },
+  {
+    "var": "BLDGSPEC_Artifact Merchants",
+    "en": "Artifact Merchants\t\"For a nominal fee, you can purchase artifacts from the Artifact Merchants.\"\t",
+    "ua": "Торговець артефактами\t\"Ви можете купити артефакт у торговця за номінальну вартість.\"\t"
+  },
+  {
+    "var": "BLDGSPEC_Sculptor's Wings",
+    "en": "Sculptor's Wings\tThe Sculptor's Wings increase Stone Gargoyle production by 4 per week.\t",
+    "ua": "Майстерня скульптора\tМайстерня скульптора збільшує на 4 щотижневий приріст кам'яних горгулій.\t"
+  },
+  {
+    "var": "BLDGSPEC_Sculptor's Wings",
+    "en": "Sculptor's Wings\tThe Sculptor's Wings increase Obsidian Gargoyle production by 4 per week.\t",
+    "ua": "Цех скульптора\tЦех скульптора збільшує на 4 щотижневий приріст обсидіанових горгулій.\t"
+  },
+  {
+    "var": "BLDGSPEC_26",
+    "en": "\t\t",
+    "ua": "\t\t"
+  },
+  {
+    "var": "BLDGSPEC_Lookout Tower",
+    "en": "Lookout Tower\tThe lookout tower extends the visible distance around your city.\t",
+    "ua": "Вартова башта\tВартова башта розширює видиму область навколо міста.\t"
+  },
+  {
+    "var": "BLDGSPEC_Library",
+    "en": "Library\tThe library provides your mage guild with additional spells.\t",
+    "ua": "Бібліотека\tБібліотека забезпечує Гільдію магів додатковими заклинаннями.\t"
+  },
+  {
+    "var": "BLDGSPEC_Wall of Knowledge",
+    "en": "Wall of Knowledge\tThe Wall of Knowledge increases the Knowledge skill of any visiting hero by +1.\t",
+    "ua": "Стіна знань\tСтіна знань збільшує Знання героя на 1 одиницю.\t"
+  },
+  {
+    "var": "BLDGSPEC_30",
+    "en": "\t\t",
+    "ua": "\t\t"
+  },
+  {
+    "var": "BLDGSPEC_31",
+    "en": "\t\t",
+    "ua": "\t\t"
+  },
+  {
+    "var": "BLDGSPEC_Skyship",
+    "en": "Skyship\t\"The presence of the Skyship increases weekly creature generation by 50%, provides your kingdom with an additional 5000 gold each day, reveals the entire world map, and increases the knowledge of any defending hero by +15 (these spell points do not follow a hero who leaves the town).\"\t",
+    "ua": "Небесний корабель\t\"Небесний корабель збільшує щотижневий приріст істот на 50%, щодня приносить королівству додатково 5000 золотих, відкриває всю карту світу і збільшує Знання героя, що захищає місто, на 15 одиниць (додаткові очки губляться, коли герой покидає місто).\"\t"
+  },
+  {
+    "var": "BLDGSPEC_Resource Silo",
+    "en": "Resource Silo\tThe Resource Silo provides you with an additional +1 gems each day.\t",
+    "ua": "Склад ресурсів\tСклад ресурсів щодня приносить вам 1 міру самоцвітів.\t"
+  },
+  {
+    "var": "BLDGSPEC_34",
+    "en": "\t\t",
+    "ua": "\t\t"
+  },
+  {
+    "var": "BLDGSPEC_Birthing Pools",
+    "en": "Birthing Pools\tThe Birthing Pools increase Imp production by 8 per week.\t",
+    "ua": "Інкубатор\tІнкубатор збільшує на 8 щотижневий приріст бісів.\t"
+  },
+  {
+    "var": "BLDGSPEC_Birthing Pools",
+    "en": "Birthing Pools\tThe Birthing Pools increase Familiar production by 8 per week.\t",
+    "ua": "Великий інкубатор\tВеликий інкубатор збільшує на 8 щотижневий приріст чортів.\t"
+  },
+  {
+    "var": "BLDGSPEC_37",
+    "en": "\t\t",
+    "ua": "\t\t"
+  },
+  {
+    "var": "BLDGSPEC_Brimstone Stormclouds",
+    "en": "Brimstone Stormclouds\tThe Brimstone Stormclouds boost a garrison hero's power by +2 during any siege defense.\t",
+    "ua": "Хмари сірки\tПід час облоги міста Хмари сірки збільшують Силу магії героя, який охороняє це місто, на 2 одиниці.\t"
+  },
+  {
+    "var": "BLDGSPEC_Castle Gate",
+    "en": "Castle Gate\tAllows travel between Inferno towns containing Castle Gates. Destination town must be unoccupied.\t",
+    "ua": "Брама міста\tДозволяє переноситися в інші міста Інферно, в яких є брами міста. Місто, в яке переноситься герой, не повинно бути зайняте іншим героєм.\t"
+  },
+  {
+    "var": "BLDGSPEC_Order of Fire",
+    "en": "Order of Fire\tThe Order of Fire increases the Power skill of any visiting hero by +1.\t",
+    "ua": "Орден Вогню\tОрден Вогню збільшує Силу магії героя, який відвідав його, на 1 одиницю.\t"
+  },
+  {
+    "var": "BLDGSPEC_Cages",
+    "en": "Cages\tThe Cages increase Hell Hound production by 3 per week.\t",
+    "ua": "Клітки\tКлітки збільшують на 3 щотижневий приріст псів пекла.\t"
+  },
+  {
+    "var": "BLDGSPEC_Cages",
+    "en": "Cages\tThe Cages increase Cerberus production by 3 per week.\t",
+    "ua": "Великі клітки\tВеликі клітки збільшують на 3 щотижневий приріст церберів.\t"
+  },
+  {
+    "var": "BLDGSPEC_Deity of Fire",
+    "en": "Deity of Fire\tThe presence of the Deity of Fire increases weekly creature generation by 50% and provides your empire with an additional 5000 gold each day.  Every week hereafter will be a Week of the Imp.\t",
+    "ua": "Бог Вогню\tБог Вогню збільшує щотижневий приріст істот на 50% і щодня приносить королівству додатково 5000 золотих. З моменту спорудження всі наступні тижні будуть призначатися тижнем бісів.\t"
+  },
+  {
+    "var": "BLDGSPEC_Resource Silo",
+    "en": "Resource Silo\tThe Resource Silo provides you with an additional +1 mercury each day.\t",
+    "ua": "Склад ресурсів\tСклад ресурсів щодня приносить 1 одиницю ртуті.\t"
+  },
+  {
+    "var": "BLDGSPEC_Cover of Darkness",
+    "en": "Cover of Darkness\tThe Cover of Darkness covers your city with a permanent shroud to all other players.\t",
+    "ua": "Завіса темряви\tЗавіса темряви приховує місто від всіх гравців.\t"
+  },
+  {
+    "var": "BLDGSPEC_Unearthed Graves",
+    "en": "Unearthed Graves\tThe Unearthed Graves increase Skeleton production by 6 per week.\t",
+    "ua": "Розриті могили\tРозриті могили збільшують на 6 щотижневий приріст скелетів.\t"
+  },
+  {
+    "var": "BLDGSPEC_Unearthed Graves",
+    "en": "Unearthed Graves\tThe Unearthed Graves increase Skeleton Warrior production by 6 per week.\t",
+    "ua": "Розриті кургани\tРозриті кургани збільшують на 6 щотижневий приріст скелетів-воїнів.\t"
+  },
+  {
+    "var": "BLDGSPEC_Shipyard",
+    "en": "Shipyard\tThe Shipyard allows you to purchase ships.\t",
+    "ua": "Верф\tВерф дозволяє будувати кораблі.\t"
+  },
+  {
+    "var": "BLDGSPEC_Necromancy Amplifier",
+    "en": "Necromancy Amplifier\tThe Necromancy Amplifier increases the Necromancy skill of all heroes you control (with the Necromancy skill) by 10%.\t",
+    "ua": "Підсилювач некромантії\tПідсилювач некромантії збільшує навичку некромантії у всіх некромантів на 10%.\t"
+  },
+  {
+    "var": "BLDGSPEC_Skeleton Transformer",
+    "en": "Skeleton Transformer\tThe Skeleton Transformer allows you to convert any creature into a skeleton.\t",
+    "ua": "Машина скелетів\tМашина скелетів дозволяє перетворити будь-яку істоту в скелет.\t"
+  },
+  {
+    "var": "BLDGSPEC_51",
+    "en": "\t\t",
+    "ua": "\t\t"
+  },
+  {
+    "var": "BLDGSPEC_52",
+    "en": "\t\t",
+    "ua": "\t\t"
+  },
+  {
+    "var": "BLDGSPEC_53",
+    "en": "\t\t",
+    "ua": "\t\t"
+  },
+  {
+    "var": "BLDGSPEC_Soul Prison",
+    "en": "Soul Prison\t\"The presence of the Soul Prison increases weekly creature generation by 50%, provides your empire with an additional 5000 gold each day, and boosts the Necromancy skill of all allied heroes (who possess the skill) by 20%.\"\t",
+    "ua": "Темниця душ\t\"Темниця душ збільшує щотижневий приріст істот на 50%, щодня приносить королівству додатково 5000 золотих і збільшує навик некромантії всіх дружніх героїв на 20%.\"\t"
+  },
+  {
+    "var": "BLDGSPEC_Resource Silo",
+    "en": "Resource Silo\tThe Resource Silo provides you with an additional +1 wood and +1 ore each day.\t",
+    "ua": "Склад ресурсів\tСклад ресурсів приносить щодня 1 одиницю руди.\t"
+  },
+  {
+    "var": "BLDGSPEC_Artifact Merchants",
+    "en": "Artifact Merchants\t\"For a nominal fee, you can purchase artifacts from the Artifact Merchants.\"\t",
+    "ua": "Торговець артефактами\t\"Ви можете купити артефакт у торговця за номінальну вартість.\"\t"
+  },
+  {
+    "var": "BLDGSPEC_Mushroom Rings",
+    "en": "Mushroom Rings\tThe Mushroom Rings increase Troglodyte production by 7 per week.\t",
+    "ua": "Кільця грибів\tКільця грибів збільшують на 7 щотижневий приріст троглодитів.\t"
+  },
+  {
+    "var": "BLDGSPEC_Mushroom Rings",
+    "en": "Mushroom Rings\tThe Mushroom Rings increase Infernal Troglodyte production by 7 per week.\t",
+    "ua": "Грибне поле\tГрибне поле збільшує на 7 щотижневий приріст пекельних троглодитів.\t"
+  },
+  {
+    "var": "BLDGSPEC_59",
+    "en": "\t\t",
+    "ua": "\t\t"
+  },
+  {
+    "var": "BLDGSPEC_Mana Vortex",
+    "en": "Mana Vortex\tThe Mana Vortex temporarily doubles spell points for any garrison or visiting hero.\t",
+    "ua": "Вихор мани\tВихор мани тимчасово подвоює бали магії героя, який відвідав місто.\t"
+  },
+  {
+    "var": "BLDGSPEC_Portal of Summoning",
+    "en": "Portal of Summoning\t\"With the Portal of Summoning, you can recruit creatures from an externally flagged dwelling.\"\t",
+    "ua": "Портал\t\"Через портал можна наймати істот, які виробляються поза містом на підконтрольних оселях.\"\t"
+  },
+  {
+    "var": "BLDGSPEC_Battle Scholar Academy",
+    "en": "Battle Scholar Academy\tThe Academy of Battle Scholars teaches new skills to any hero (+1000 experience) once.\t",
+    "ua": "Військова академія\tОдноразово Військова академія додає до досвіду героя 1000 очок.\t"
+  },
+  {
+    "var": "BLDGSPEC_63",
+    "en": "\t\t",
+    "ua": "\t\t"
+  },
+  {
+    "var": "BLDGSPEC_64",
+    "en": "\t\t",
+    "ua": "\t\t"
+  },
+  {
+    "var": "BLDGSPEC_Guardian of Earth",
+    "en": "Guardian of Earth\t\"The presence of the Guardian of Earth increases weekly creature generation by 50%, provides your empire with an additional 5000 gold each day, and increases the Power of a garrison hero by +12 when defending against a siege.\"\t",
+    "ua": "Страж землі\t\"Страж землі збільшує щотижневий приріст істот на 50%, щодня приносить королівству додатково 5000 золотих і збільшує Силу магії героя, що знаходиться в місті, на 12 одиниць (тільки під час захисту даного міста).\"\t"
+  },
+  {
+    "var": "BLDGSPEC_Resource Silo",
+    "en": "Resource Silo\tThe Resource Silo provides you with an additional +1 sulfur each day.\t",
+    "ua": "Склад ресурсів\tСклад ресурсів щодня приносить 1 одиницю сірки.\t"
+  },
+  {
+    "var": "BLDGSPEC_Escape Tunnel",
+    "en": "Escape Tunnel\tThe Escape Tunnel allows a garrison hero to flee from defending against a siege.\t",
+    "ua": "Підземний хід\tПідземний хід дозволяє героєві покинути місто під час облоги.\t"
+  },
+  {
+    "var": "BLDGSPEC_Mess Hall",
+    "en": "Mess Hall\tThe Mess Hall increases Goblin production by 8 per week.\t",
+    "ua": "Трапезна\tТрапезна збільшує на 8 щотижневий приріст гоблінів.\t"
+  },
+  {
+    "var": "BLDGSPEC_Mess Hall",
+    "en": "Mess Hall\tThe Mess Hall increases Hobgoblin production by 8 per week.\t",
+    "ua": "Закусочна\tЗакусочна збільшує на 8 щотижневий приріст хобгоблінів.\t"
+  },
+  {
+    "var": "BLDGSPEC_70",
+    "en": "\t\t",
+    "ua": "\t\t"
+  },
+  {
+    "var": "BLDGSPEC_Freelancer's Guild",
+    "en": "Freelancer's Guild\tThe Freelancer's Guild allows you to trade creatures for resources.\t",
+    "ua": "Гільдія найманців\tГільдія найманців дозволяє обмінювати істот на ресурси.\t"
+  },
+  {
+    "var": "BLDGSPEC_Ballista Yard",
+    "en": "Ballista Yard\tThis Blacksmith upgrade provides your armies with ballistas.\t",
+    "ua": "Двір баліст\tЦей поліпшений варіант кузні дозволяє купувати балісти.\t"
+  },
+  {
+    "var": "BLDGSPEC_Hall of Valhalla",
+    "en": "Hall of Valhalla\tThe Hall of Valhalla increases the Attack skill of any visiting hero by +1.\t",
+    "ua": "Валгалла\tВалгалла збільшує навичку Атаки героя на 1 одиницю.\t"
+  },
+  {
+    "var": "BLDGSPEC_74",
+    "en": "\t\t",
+    "ua": "\t\t"
+  },
+  {
+    "var": "BLDGSPEC_75",
+    "en": "\t\t",
+    "ua": "\t\t"
+  },
+  {
+    "var": "BLDGSPEC_Warlords' Monument",
+    "en": "Warlords' Monument\t\"The presence of the Warlords' Monument increases weekly creature generation by 50%, provides your kingdom with an additional 5000 gold each day, and increases the Attack strength of a garrison hero by +20 when defending against a siege.\"\t",
+    "ua": "Монумент полководця\t\"Монумент полководця збільшує щотижневий приріст істот на 50%, щодня приносить королівству додатково 5000 золотих і збільшує Атаку героя, що знаходиться у місті під час облоги, на 20 одиниць.\"\t"
+  },
+  {
+    "var": "BLDGSPEC_Resource Silo",
+    "en": "Resource Silo\tThe Resource Silo provides you with an additional +1 wood and +1 ore each day.\t",
+    "ua": "Склад ресурсів\tСклад ресурсів щодня приносить 1 одиницю деревини та 1 одиницю руди.\t"
+  },
+  {
+    "var": "BLDGSPEC_Cage of Warlords",
+    "en": "Cage of Warlords\tThe Cage of Warlords increases the Defense strength of any visiting hero by +1.\t",
+    "ua": "Хижа воїна\tХижа воїна збільшує навичку Захисту героя, який відвідав місто, на 1 одиницю.\t"
+  },
+  {
+    "var": "BLDGSPEC_Captain's Quarters",
+    "en": "Captain's Quarters\tThe Captain's Quarters increase Gnoll production by 6 per week.\t",
+    "ua": "Житло капітана\tЖитло капітана збільшує на 6 щоденний приріст гнолів.\t"
+  },
+  {
+    "var": "BLDGSPEC_Captain's Quarters",
+    "en": "Captain's Quarters\tThe Captain's Quarters increase Gnoll Marauder production by 6 per week.\t",
+    "ua": "Будинок капітана\tБудинок капітана збільшує на 6 щоденний приріст гнолів-мародерів.\t"
+  },
+  {
+    "var": "BLDGSPEC_Shipyard",
+    "en": "Shipyard\tThe Shipyard allows you to purchase ships.\t",
+    "ua": "Верф\tВерф дозволяє будувати кораблі.\t"
+  },
+  {
+    "var": "BLDGSPEC_Glyphs of Fear",
+    "en": "Glyphs of Fear\tThe Glyphs of Fear add +2 to a garrison hero's defense skill when defending against a siege.\t",
+    "ua": "Гліфи Жаху\tГліфи Жаху збільшують навичку Захисту героя, що знаходиться в місті, при захисті цього міста на 2 одиниці.\t"
+  },
+  {
+    "var": "BLDGSPEC_Blood Obelisk",
+    "en": "Blood Obelisk\tThe presence of a Blood Obelisk adds +2 to a garrison hero's attack skill when defending against a siege.\t",
+    "ua": "Кривавий обеліск\tКривавий обеліск збільшує навичку Атаки героя, що знаходиться в місті, при захисті цього міста на 2 одиниці.\t"
+  },
+  {
+    "var": "BLDGSPEC_84",
+    "en": "\t\t",
+    "ua": "\t\t"
+  },
+  {
+    "var": "BLDGSPEC_85",
+    "en": "\t\t",
+    "ua": "\t\t"
+  },
+  {
+    "var": "BLDGSPEC_86",
+    "en": "\t\t",
+    "ua": "\t\t"
+  },
+  {
+    "var": "BLDGSPEC_Carnivorous Plant",
+    "en": "Carnivorous Plant\t\"The presence of the Carnivorous Plant increases weekly creature generation by 50%, provides your kingdom with an additional 5000 gold each day, and increases the Attack and Defense strength of a garrison hero by +10 each when defending against a siege.\"\t",
+    "ua": "М'ясоїдна рослина\t\"М'ясоїдна рослина збільшує щотижневий приріст істот на 50%, щодня приносить королівству додатково 5000 золотих і збільшує навички Атаки і Захисту героя, що знаходиться в місті, на 10 одиниць при захисті даного міста.\"\t"
+  },
+  {
+    "var": "BLDGSPEC_Resource Silo",
+    "en": "Resource Silo\tThe Resource Silo provides you with an additional +1 wood and +1 ore each day.\t",
+    "ua": "Склад ресурсів\tСклад ресурсів щодня приносить по 1 одиниці руди й 1 одиниці деревини.\t"
+  },
+  {
+    "var": "BLDGSPEC_Artifact Merchants",
+    "en": "Artifact Merchants\t\"For a nominal fee, you can purchase artifacts from the Artifact Merchants.\"\t",
+    "ua": "Торговець артефактами\t\"Ви можете купити артефакт у торговця за номінальну вартість.\"\t"
+  },
+  {
+    "var": "BLDGSPEC_Garden of Life",
+    "en": "Garden of Life\tThis structure increases weekly production of Pixies by 10 per week.\t",
+    "ua": "Гай Життя\tЦя споруда збільшує на 10 щотижневий приріст піксі.\t"
+  },
+  {
+    "var": "BLDGSPEC_Garden of Life",
+    "en": "Garden of Life\tThis structure increases weekly production of Sprites 10 per week.\t",
+    "ua": "Сад Життя\tЦя споруда збільшує на 10 щотижневий приріст фей.\t"
+  },
+  {
+    "var": "BLDGSPEC_Shipyard",
+    "en": "Shipyard\tThe Shipyard allows you to purchase ships.\t",
+    "ua": "Верф\tВерф дозволяє будувати кораблі.\t"
+  },
+  {
+    "var": "BLDGSPEC_Magic University",
+    "en": "Magic University\t\"At the Magic University, you can pay to learn any, or all, of the four schools of magic.\"\t",
+    "ua": "Магічний університет\t\"У Магічному університеті ви можете заплатити і вивчити будь-яку або всі чотири школи магії.\"\t"
+  },
+  {
+    "var": "BLDGSPEC_94",
+    "en": "\t\t",
+    "ua": "\t\t"
+  },
+  {
+    "var": "BLDGSPEC_95",
+    "en": "\t\t",
+    "ua": "\t\t"
+  },
+  {
+    "var": "BLDGSPEC_96",
+    "en": "\t\t",
+    "ua": "\t\t"
+  },
+  {
+    "var": "BLDGSPEC_97",
+    "en": "\t\t",
+    "ua": "\t\t"
+  },
+  {
+    "var": "BLDGSPEC_Aurora Borealias",
+    "en": "Aurora Borealias\t\"The presence of the Aurora Borealias increases weekly creature generation by 50%, provides your kingdom with an additional 5000 gold each day, and places all spells in your mage guild.\"\t",
+    "ua": "Полярне сяйво\t\"Полярне сяйво збільшує щотижневий приріст істот на 50%, щодня приносить у скарбницю королівства 5000 золотих і поміщує всі заклинання у вашу Гільдію магів.\"\t"
+  },
+  {
+    "var": "BLDGSPEC_Resource Silo",
+    "en": "Resource Silo\tThe Resource Silo provides you with an additional 1 Mercury each day.\t",
+    "ua": "Склад ресурсів\tСклад ресурсів щодня приносить 1 одиницю ртуті.\t"
+  },
+  {
+    "var": "BLDGSPEC_Artifact Merchants",
+    "en": "Artifact Merchants\t\"For a nominal fee, you can purchase artifacts from the Artifact Merchants.\"\t",
+    "ua": "Торговець артефактами\tВи можете купити артефакт у торговця за номінальну вартість.\t"
+  },
+  {
+    "var": "BLDGSPEC_Level 1 Creature Horde",
+    "en": "Level 1 Creature Horde\tThis structure increases weekly production of Level 1 Creatures.\t",
+    "ua": "1-й поверх Фабрики монстрів\tЗбільшує щотижневий приріст істот 1 рівня.\t"
+  },
+  {
+    "var": "BLDGSPEC_Level 2 Creature Horde",
+    "en": "Level 2 Creature Horde\tThis structure increases weekly production of Level 2 Creatures.\t",
+    "ua": "2-й поверх Фабрики монстрів\tЗбільшує щотижневий приріст істот 2 рівня.\t"
+  },
+  {
+    "var": "BLDGSPEC_Shipyard",
+    "en": "Shipyard\tThe Shipyard allows you to purchase ships.\t",
+    "ua": "Верф\tВерф дозволяє будувати кораблі.\t"
+  },
+  {
+    "var": "BLDGSPEC_104",
+    "en": "\t\t",
+    "ua": "\t\t"
+  },
+  {
+    "var": "BLDGSPEC_105",
+    "en": "\t\t",
+    "ua": "\t\t"
+  },
+  {
+    "var": "BLDGSPEC_Level 3 Creature Horde",
+    "en": "Level 3 Creature Horde\tThis structure increases weekly production of Level 3 Creatures.\t",
+    "ua": "3-й поверх Фабрики монстрів\tЗбільшує щотижневий приріст істот 3 рівня.\t"
+  },
+  {
+    "var": "BLDGSPEC_Level 4 Creature Horde",
+    "en": "Level 4 Creature Horde\tThis structure increases weekly production of Level 4 Creatures.\t",
+    "ua": "4-й поверх Фабрики монстрів\tЗбільшує щотижневий приріст істот 4 рівня.\t"
+  },
+  {
+    "var": "BLDGSPEC_Level 5 Creature Horde",
+    "en": "Level 5 Creature Horde\tThis structure increases weekly production of Level 5 Creatures.\t",
+    "ua": "5-й поверх Фабрики монстрів\tЗбільшує щотижневий приріст істот 5 рівня.\t"
+  },
+  {
+    "var": "BLDGSPEC_Grail",
+    "en": "Grail\t\"The presence of the Grail increases weekly creature generation by 50%, provides your kingdom with an additional 5000 gold each day, and provides an additional bonus unique to each town type.\"\t",
+    "ua": "Грааль\t\"Грааль збільшує щотижневий приріст істот на 50%, щодня приносить королівству додатково 5000 золотих і надає додатковий бонус, який залежить від типу міста.\"\t"
+  },
+  {
+    "var": "BLDGSPEC_Resource Silo",
+    "en": "Resource Silo\tThe Resource Silo provides you with an additional resource ore each day.\t",
+    "ua": "Склад ресурсів\tСклад ресурсів щодня приносить додаткові ресурси.\t"
+  }
+]

@@ -1,0 +1,230 @@
+[
+  {
+    "var": "BLOOD_M2_prolog",
+    "field": "wrapper_prolog",
+    "en": "Interrogation reveals Ordwald didn't personally defend his lands because he is seeking the fabled Vial of Dragon Blood. Unfortunately, Caomham and Preuet have also heard about the Vial. They will certainly follow you into the Deep Caverns after Ordwald if they can. You need to dispose of them first.",
+    "ua": "Розвідка повідомляє, що Орвальд не може особисто захистити свої землі, тому що зайнятий пошуками Фіалу драконячої крові. На нещастя, Каомам і Прюет також чули про цю посудину. Вони також хочуть слідувати вглиб підземель. Тому вам доведеться спочатку розібратися з ними.\n"
+  },
+  {
+    "var": "BLOOD_M2_epilog",
+    "field": "wrapper_epilog",
+    "en": "Ordwald is absent.  No wonder his lands were so easy to take.  It seems he has spent his life and his father's fortune in pursuit of the fabled Vial of Dragon Blood.  It is said to hold blood taken from the Dragon Father.  It is believed drinking it will transform the user into a sentient dragon.  Orwald isn't as stupid as I believed.  Still, he is old.  I will find him and the vial, but first, I must dispose of the young lords who have heard the news and nip at my heels.",
+    "ua": "Орвальд у від'їзді. Не дивно, що його землі далися мені так легко. Схоже, він розтратив сили та спадщину в гонитві за легендарним Фіалом драконячої крові. Кажуть, в ньому кров самого прабатька драконів і що один ковток перетворить людину на розумного дракона. Так, Орвальд, схоже, не дурень! І все ж він занадто старий. Я знайду і його, і фіал, але спочатку розберуся з молодими лордами, які дізналися про зміни в країні і наступають мені на п'яти..."
+  },
+  {
+    "var": "BLOOD_M2_map_name",
+    "field": "map_map_name",
+    "en": "Savaging the Scavengers",
+    "ua": "Лють сміттярів"
+  },
+  {
+    "var": "BLOOD_M2_map_desc",
+    "field": "map_map_desc",
+    "en": "Obliterate your opponents, but once again do not lose the hero Mutare. To do so would mean instant destruction. Mutare will be limited to eighteenth level, but will carry over the Dragon Scale Shield to use in the next scenario.",
+    "ua": "Знищить своїх супротивників, але не втратьте Мутар. Втрата її означає негайну поразку. Мутар буде обмежена вісімнадцятим рівнем, але Щит дракона перейде з нею в наступний сценарій."
+  },
+  {
+    "var": "BLOOD_M2_obj10_town_name",
+    "field": "map_obj10_town_name",
+    "en": "Gloom Cave",
+    "ua": "Печера Мороку"
+  },
+  {
+    "var": "BLOOD_M2_obj11_town_name",
+    "field": "map_obj11_town_name",
+    "en": "Dank Rock",
+    "ua": "Вогка Скеля"
+  },
+  {
+    "var": "BLOOD_M2_obj12_town_name",
+    "field": "map_obj12_town_name",
+    "en": "Red Spider",
+    "ua": "Червоний Павук"
+  },
+  {
+    "var": "BLOOD_M2_obj13_town_name",
+    "field": "map_obj13_town_name",
+    "en": "Gruen Point",
+    "ua": "Зелень"
+  },
+  {
+    "var": "BLOOD_M2_obj18_town_name",
+    "field": "map_obj18_town_name",
+    "en": "Fetid Cavern",
+    "ua": "Печера Смороду"
+  },
+  {
+    "var": "BLOOD_M2_obj20_town_name",
+    "field": "map_obj20_town_name",
+    "en": "No Quarter",
+    "ua": "Сітка"
+  },
+  {
+    "var": "BLOOD_M2_obj672_sign_mesg",
+    "field": "map_obj672_sign_mesg",
+    "en": "Road to Castle Gloom Cave",
+    "ua": "Дорога до замку Печера Мороку."
+  },
+  {
+    "var": "BLOOD_M2_obj2152_sign_mesg",
+    "field": "map_obj2152_sign_mesg",
+    "en": "To Upper Tunnels",
+    "ua": "До верхніх тунелів."
+  },
+  {
+    "var": "BLOOD_M2_obj2153_sign_mesg",
+    "field": "map_obj2153_sign_mesg",
+    "en": "To Upper Tunnels",
+    "ua": "До верхніх тунелів."
+  },
+  {
+    "var": "BLOOD_M2_obj2156_sign_mesg",
+    "field": "map_obj2156_sign_mesg",
+    "en": "To Upper Tunnels",
+    "ua": "До верхніх тунелів."
+  },
+  {
+    "var": "BLOOD_M2_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Intro",
+    "ua": "Intro"
+  },
+  {
+    "var": "BLOOD_M2_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "The Vial of Dragon Blood will give me the edge I need to force my way into the ranks of powerful Nighon lords.  To get the Vial I need to defeat the Vial's guardians or Ordwald or both.  I also have to prevent Lords Caomham and Preuet from following me and attacking from behind when I seize the Vial.  Finally, I am loath to yield anything of mine.  Having any of my lands taken while pursuing the Vial would be... annoying.  My current armies should be sufficient to hold Rauric and Ordwalds old lands, especially if I leave all my magic items, except the Charm of Mana, with my generals.",
+    "ua": "Фіал драконячої крові дасть мені перевагу, якої я потребую, щоб прокласти собі шлях до лав могутніх лордів Ніґона. Щоб отримати Фіал, мені потрібно перемогти або його варту, або Орвальда, а може - і тих, й інших. Крім того, не можна допускати, щоб лорди Каомам і Прюет вистежили мене і напали з тилу, коли я візьму Фіал. Зрештою, я ненавиджу поступатися що-небудь своє. Якщо будь-яке з моїх володінь захоплять, поки я займаюся Фіалом, це буде... прикро. Моєї теперішньої армії має вистачити, щоб утримувати колишні землі Роріка й Орвальда, особливо якщо я залишу моїм генералам всі магічні предмети - крім Амулета мани."
+  },
+  {
+    "var": "BLOOD_M2_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Intro (con)",
+    "ua": "Intro (con)"
+  },
+  {
+    "var": "BLOOD_M2_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "General Miah will mop up the last resistance in Ordwald's old lands and then rebuild the castle defenses and local garrisons.  General Sengana will assume command of my home guard, castles, and garrisons.  When the word gets out about the Vial of Dragon Blood, the borderlands are going to be crawling with Nighon Lords looking for it.  While Miah and Sengana slow down the other Nighon Lords, I will take a small force, establish a base camp near the access to the Deep Caverns and drive Caomham and Preuet from the area so they can't follow me.  Meanwhile my scouts will locate Ordwald.  Once Caomham and Preuet are defeated, I'll follow Ordwald to the Vial and take it for myself.",
+    "ua": "Генерал травня ліквідує залишки опору в колишніх землях Орвальда, а потім відновить захист замків і поповнить гарнізони. Генерал Сенгана прийме командування над моїми родовими замками, гарнізонами й оборонними військами. Як тільки рознесеться слух про Фіал драконячої крові, лорди Ніґона в його пошуках заполонять прикордонні області. Поки Травень і Сенгана стримують їх наплив, я з невеликою армією розіб'ю базу недалеко від проходу до Глибоких печер і виб'ю звідти Каомама і Прюета, щоб вони не пішли за мною. Тим часом мої розвідники вистежать Орвальда. Як тільки Каомам і Прюет будуть переможені, я дозволю Орвальду провести мене до Фіалу і заберу його собі."
+  },
+  {
+    "var": "BLOOD_M2_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Charm of Mana",
+    "ua": "Charm of Mana"
+  },
+  {
+    "var": "BLOOD_M2_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "War Diary:  I kept the Charm of Mana, a worthless trinket if I've ever seen one, because the Seer near Sinkhole Castle seemed to think I would need it in the near future.  I hope so for his sake.  If it doesn't prove useful before too long, I'll have him hung.",
+    "ua": "Військовий щоденник: Я зберегла Амулет мани - марну дрібничку, можете мені повірити, - оскільки провидець, що живе у замку Сток, натякнув на те, що в найближчому майбутньому вона мені знадобиться. Сподіваюся, він не помилився, на свою голову. Якщо амулет проваляється в мене без користі занадто довго, я накажу повісити старого базіку."
+  },
+  {
+    "var": "BLOOD_M2_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "No Quarter Scouting Report",
+    "ua": "No Quarter Scouting Report"
+  },
+  {
+    "var": "BLOOD_M2_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "War Diary:  My scouts found a second Dungeon Castle called No Quarter to the northwest of Gloom Lake.  There is still no sign of Lords Caomham and Preuets forces.",
+    "ua": "Військовий щоденник: Мої розвідники виявили другий замок-Підземелля під назвою Сітка на північний захід від Похмурого озера. Досі жодного сліду армій Каомама і Прюета."
+  },
+  {
+    "var": "BLOOD_M2_mapevent4_name",
+    "field": "map_mapevent4_name",
+    "en": "Tan Lord Scouting Report",
+    "ua": "Tan Lord Scouting Report"
+  },
+  {
+    "var": "BLOOD_M2_mapevent4_mesg",
+    "field": "map_mapevent4_mesg",
+    "en": "War Diary:  Some of my scouts found Lord Preuet's base.  His troops are flying a tan banner and he has apparently seized a castle to the west called Dank Rock.  Dank Rock appears to be his base of operations.",
+    "ua": "Військовий щоденник: Кілька моїх розвідників вийшли на слід лорда Прюета. Його війська виступають під сірим прапором, і, очевидно, він захопив замок на заході під назвою Вогка Скеля. Схоже, Вогка Скеля - його командний пункт."
+  },
+  {
+    "var": "BLOOD_M2_mapevent5_name",
+    "field": "map_mapevent5_name",
+    "en": "Green Lord Scouting Report",
+    "ua": "Green Lord Scouting Report"
+  },
+  {
+    "var": "BLOOD_M2_mapevent5_mesg",
+    "field": "map_mapevent5_mesg",
+    "en": "War Diary:  Several days ago, scouts spotted Lord Caomham's green bannered troops at a castle called Fetid Cavern.  Fetid Cavern is apparently a few days northeast of Gloom Lake.",
+    "ua": "Військовий щоденник: Кілька днів тому розвідники помітили зелені прапори армії Каомама у замку під назвою Печера Смороду. Печера Смороду - це, мабуть, в кількох днях на північний схід від Похмурого озера."
+  },
+  {
+    "var": "BLOOD_M2_mapevent6_name",
+    "field": "map_mapevent6_name",
+    "en": "Questgate Scouting Report",
+    "ua": "Questgate Scouting Report"
+  },
+  {
+    "var": "BLOOD_M2_mapevent6_mesg",
+    "field": "map_mapevent6_mesg",
+    "en": "War Diary:  Today, the Master of Scouts reported a strange Border Guard who will only let one pass with a Charm of Mana.  The scouts say the Border Guard is located though the subterranean gate near No Quarter Castle.  I guess I won't have to hang the Seer after all.",
+    "ua": "Військовий щоденник: Сьогодні начальник розвідки повідомив про дивного Вартового кордону, який дозволить пройти тільки власникові Амулета мани. Розвідка донесла, що цей вартовий знаходиться за підземними воротами біля замку Сітка. Схоже, провидця вішати не доведеться."
+  },
+  {
+    "var": "BLOOD_M2_mapevent7_name",
+    "field": "map_mapevent7_name",
+    "en": "Dead Scout",
+    "ua": "Dead Scout"
+  },
+  {
+    "var": "BLOOD_M2_mapevent7_mesg",
+    "field": "map_mapevent7_mesg",
+    "en": "War Diary:  I had to kill a scout today.  He was whining about being outnumbered 2 to 1.  I overheard him talking and came up behind him.  My form was excellent, I got a clean behead with the head falling right on top of his body.  I then explained 2 to 1 meant twice as much loot.  That cheered the troops up.",
+    "ua": "Військовий щоденник: Сьогодні довелося вбити розвідника. Він все стогнав, що ворог перевершує нас чисельністю вдвічі. Мені набридло його слухати, і я підійшла до нього ззаду. Я в чудовій формі - голова відлетіла з першого удару і впала на його вже бездиханне тіло. Потім я пояснила, що якщо на кожного припадає по два вороги, то й здобич зростає вдвічі. Це підбадьорило мої війська."
+  },
+  {
+    "var": "BLOOD_M2_mapevent8_name",
+    "field": "map_mapevent8_name",
+    "en": "Tactics",
+    "ua": "Tactics"
+  },
+  {
+    "var": "BLOOD_M2_mapevent8_mesg",
+    "field": "map_mapevent8_mesg",
+    "en": "War Diary:  It will be a lot harder to take out Preuet and Caomham if they were smart enough to have allied.  I don't think they are allied, though.  They are probably each hoping the other Lord will hurt me and himself enough that they will have an easy victory over both of us.  This should give me the initiative.  If they aren't allies, I'll take out first one then the other and avoid fighting them both at once.",
+    "ua": "Військовий щоденник: Буде набагато складніше викурити Прюета і Каомама, якщо у них вистачить розуму об'єднатися. Однак я не думаю, що вони це зроблять. Схоже, кожен з них сподівається почекати, поки інший підірве і мої, і свої сили, після чого можна буде з легкістю отримати перемогу над нами обома. Це означає, що ініціатива в моїх руках. Раз вони не в союзі, я позбудуся одного, а потім іншого, уникаючи війни на два фронти."
+  },
+  {
+    "var": "BLOOD_M2_mapevent9_name",
+    "field": "map_mapevent9_name",
+    "en": "Ordwald's Forces",
+    "ua": "Ordwald's Forces"
+  },
+  {
+    "var": "BLOOD_M2_mapevent9_mesg",
+    "field": "map_mapevent9_mesg",
+    "en": "War Diary:  My scouts have located some of Ordwald's forces in the Deep Caverns.  From the interrogations, I know he doesn't know the exact location of the Vial of Dragon Blood.  Still, I can't let him get too far ahead of me.  I need to finish here and move on.",
+    "ua": "Військовий щоденник: Мої розвідники виявили частину військ Орвальда в Глибоких печерах. З допитів з'ясувалося, що він не знає точного місця розташування Фіала драконячої крові. Однак я не можу дозволити йому сильно випередити мене. Потрібно закінчувати тут і просуватися далі."
+  },
+  {
+    "var": "BLOOD_M2_mapevent10_name",
+    "field": "map_mapevent10_name",
+    "en": "The Heat is On",
+    "ua": "The Heat is On"
+  },
+  {
+    "var": "BLOOD_M2_mapevent10_mesg",
+    "field": "map_mapevent10_mesg",
+    "en": "War Diary:  I received word from General Miah today.  The word is out along the Nighon borderlands that Ordwald, Caomham, Preuet, and myself are after the Vial, but no one knows where we are.  Miah has repulsed numerous probes and several recons in force from other border lords.  They're not trying to take land, he says, they are looking for information.",
+    "ua": "Військовий щоденник: Сьогодні я отримала звістку від генерала Травня. По всіх прикордонних земель Ніґона рознеслися чутки про те, що Орвальд, Каомам, Прюет і я розшукуємо Фіал, але ніхто не знає, де ми. Травень відбив безліч вилазок і нападів передових загонів сусідніх лордів. За його словами, вони не збиралися захоплювати землі - всього лише збирали інформацію."
+  },
+  {
+    "var": "BLOOD_M2_mapevent11_name",
+    "field": "map_mapevent11_name",
+    "en": "Matter of Time",
+    "ua": "Matter of Time"
+  },
+  {
+    "var": "BLOOD_M2_mapevent11_mesg",
+    "field": "map_mapevent11_mesg",
+    "en": "War Diary:  Miah reports the border lords have changed tactics.  They are flooding the area with scouts.  He has caught dozens of them, but thinks it is just a matter of time before they discover my base of operations.  Apparently, Caomham and Preuet lands are being overrun.  Maybe I'll send condolences.",
+    "ua": "Військовий щоденник: Травень повідомляє, що сусідські лорди змінили тактику. Тепер вони наповнили територію своїми розвідниками. Він ловить їх дюжинами, але вважає, що рано чи пізно вони виявлять мою домашню базу. Землі Каомама і Прюета, очевидно, вже захоплені. Можливо, я пошлю їм своє співчуття."
+  }
+]

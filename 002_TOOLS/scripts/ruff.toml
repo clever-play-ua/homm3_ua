@@ -1,0 +1,36 @@
+# Scoped to this whole scripts/ folder (h3_parser/ + the numbered CLI
+# tools). Deliberately NOT ruff's full default rule set - "top-tier
+# library" quality here means a curated, meaningful rule set the codebase
+# actually follows, not maximum rule count for its own sake. Notably
+# excludes flake8-simplify's SIM115 ("use a context manager for file
+# opens") - this codebase's established, deliberate idiom throughout
+# (predates ruff's introduction here) is `open(path).read()` for one-shot
+# reads; CPython closes the handle via refcounting immediately after, and
+# rewriting 30+ call sites to `with open(...) as f:` would be a large,
+# purely stylistic diff for no real robustness gain in these short,
+# single-threaded scripts.
+target-version = "py310"
+line-length = 120  # this codebase's own prose-heavy docstrings run long; matches practice, not enforces it
+
+[lint]
+select = [
+    "E", "F", "W",   # pycodestyle + pyflakes - the real correctness/style core
+    "I",             # isort - import ordering
+    "UP",            # pyupgrade - modern syntax (list[x] over List[x], X | None over Optional[X], etc)
+    "B",             # flake8-bugbear - real bug-shaped patterns
+    "C4",            # flake8-comprehensions
+    "RUF",           # ruff's own additional checks
+]
+ignore = [
+    # h3m_parser.py's binary-field-reading code deliberately packs
+    # "consume and discard N bytes, they're not human text" reads like
+    # `r.u8(); r.u8()  # experience, spell_points` and
+    # `if name: texts.append(...)` onto one line throughout - turning
+    # every one of ~100 such lines into 2-3 lines each would make the
+    # actual field sequence (the part worth reading closely, field by
+    # field, against the format's own byte layout) harder to scan, not
+    # easier - this is a deliberate, established idiom for this codebase,
+    # not an oversight.
+    "E701",  # multiple-statements-on-one-line-colon
+    "E702",  # multiple-statements-on-one-line-semicolon
+]

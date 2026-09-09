@@ -1,0 +1,14 @@
+[
+  {
+    "var": "GOOD1_campaign_name",
+    "field": "wrapper_campaign_name",
+    "en": "Long Live the Queen",
+    "ua": "Хай живе королева!"
+  },
+  {
+    "var": "GOOD1_campaign_desc",
+    "field": "wrapper_campaign_desc",
+    "en": "Our landing has confirmed both our rumors and fears.  With the death of my father, Erathia's lands are being greedily divided by her neighbors.",
+    "ua": "Висадка на берег підтвердила непевні чутки і зміцнила тривоги. Осмілівши після смерті батька, сусіди жадібно рвуть Ерафію на частини."
+  }
+]

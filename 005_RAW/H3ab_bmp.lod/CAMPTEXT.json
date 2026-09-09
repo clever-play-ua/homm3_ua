@@ -1,0 +1,862 @@
+[
+  {
+    "var": "CAMPTEXT_1",
+    "en": "//Campaign Map Names",
+    "ua": "//Campaign Map Names"
+  },
+  {
+    "var": "CAMPTEXT_2",
+    "en": "Long Live the Queen",
+    "ua": "Хай живе королева!"
+  },
+  {
+    "var": "CAMPTEXT_3",
+    "en": "Liberation",
+    "ua": "Визволення"
+  },
+  {
+    "var": "CAMPTEXT_4",
+    "en": "Song for the Father",
+    "ua": "Хвала батьку"
+  },
+  {
+    "var": "CAMPTEXT_5",
+    "en": "Dungeons and Devils",
+    "ua": "Підземелля та демони"
+  },
+  {
+    "var": "CAMPTEXT_6",
+    "en": "Long Live the King",
+    "ua": "Хай живе король!"
+  },
+  {
+    "var": "CAMPTEXT_7",
+    "en": "Spoils of War",
+    "ua": "Військові трофеї"
+  },
+  {
+    "var": "CAMPTEXT_8",
+    "en": "Seeds of Discontent",
+    "ua": "Сім'я невдоволення"
+  },
+  {
+    "var": "CAMPTEXT_9",
+    "en": "Bracada",
+    "ua": "Бракада"
+  },
+  {
+    "var": "CAMPTEXT_10",
+    "en": "Islands",
+    "ua": "Острови"
+  },
+  {
+    "var": "CAMPTEXT_11",
+    "en": "Krewlod",
+    "ua": "Крюлод"
+  },
+  {
+    "var": "CAMPTEXT_12",
+    "en": "Nighon",
+    "ua": "Ніґон"
+  },
+  {
+    "var": "CAMPTEXT_13",
+    "en": "Tatalia",
+    "ua": "Таталія"
+  },
+  {
+    "var": "CAMPTEXT_14",
+    "en": "Armageddon",
+    "ua": "Армагедон"
+  },
+  {
+    "var": "CAMPTEXT_15",
+    "en": "",
+    "ua": "Рубай і шматуй"
+  },
+  {
+    "var": "CAMPTEXT_16",
+    "en": "",
+    "ua": "Народження варвара"
+  },
+  {
+    "var": "CAMPTEXT_17",
+    "en": "//Good 1 Map Region Names",
+    "ua": "Новий початок"
+  },
+  {
+    "var": "CAMPTEXT_18",
+    "en": "Southport",
+    "ua": "Еліксир життя"
+  },
+  {
+    "var": "CAMPTEXT_19",
+    "en": "Angel Gate",
+    "ua": "Піднесення некроманта"
+  },
+  {
+    "var": "CAMPTEXT_20",
+    "en": "Gryphon Cliff",
+    "ua": "Союз нечисті"
+  },
+  {
+    "var": "CAMPTEXT_21",
+    "en": "",
+    "ua": "Привид влади"
+  },
+  {
+    "var": "CAMPTEXT_22",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "CAMPTEXT_23",
+    "en": "//Good 2 Map Region Names",
+    "ua": ""
+  },
+  {
+    "var": "CAMPTEXT_24",
+    "en": "Battlestead",
+    "ua": "//Good 1 Map Region Names"
+  },
+  {
+    "var": "CAMPTEXT_25",
+    "en": "Frostland",
+    "ua": "Сауспорт"
+  },
+  {
+    "var": "CAMPTEXT_26",
+    "en": "Marshland and Hillbridge",
+    "ua": "Янгольська брама"
+  },
+  {
+    "var": "CAMPTEXT_27",
+    "en": "Grainrich and Firecoast",
+    "ua": "Гріфонкліфф"
+  },
+  {
+    "var": "CAMPTEXT_28",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "CAMPTEXT_29",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "CAMPTEXT_30",
+    "en": "//Good 3 Map Region Names",
+    "ua": "//Good 2 Map Region Names"
+  },
+  {
+    "var": "CAMPTEXT_31",
+    "en": "Forestlow",
+    "ua": "Батлстід"
+  },
+  {
+    "var": "CAMPTEXT_32",
+    "en": "\"E.hills, S.willow, W.grove, F.bury\"",
+    "ua": "Морозні землі"
+  },
+  {
+    "var": "CAMPTEXT_33",
+    "en": "Marbel Garden",
+    "ua": "Маршленд та Хілбрідж"
+  },
+  {
+    "var": "CAMPTEXT_34",
+    "en": "",
+    "ua": "Грейнріч та Вогненне узбережжя"
+  },
+  {
+    "var": "CAMPTEXT_35",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "CAMPTEXT_36",
+    "en": "//Evil 1 Map Region Names",
+    "ua": ""
+  },
+  {
+    "var": "CAMPTEXT_37",
+    "en": "Rionpoint",
+    "ua": "//Good 3 Map Region Names"
+  },
+  {
+    "var": "CAMPTEXT_38",
+    "en": "Grainrich",
+    "ua": "Форестлов"
+  },
+  {
+    "var": "CAMPTEXT_39",
+    "en": "Battlestead",
+    "ua": "\"C.схили, С.віллов, В.грув, Ф.барі\""
+  },
+  {
+    "var": "CAMPTEXT_40",
+    "en": "Fire Coast",
+    "ua": "Мармуровий сад"
+  },
+  {
+    "var": "CAMPTEXT_41",
+    "en": "Southport",
+    "ua": ""
+  },
+  {
+    "var": "CAMPTEXT_42",
+    "en": "Angel Gate",
+    "ua": ""
+  },
+  {
+    "var": "CAMPTEXT_43",
+    "en": "Gryphon Cliff",
+    "ua": "//Evil 1 Map Region Names"
+  },
+  {
+    "var": "CAMPTEXT_44",
+    "en": "",
+    "ua": "Районпоінт"
+  },
+  {
+    "var": "CAMPTEXT_45",
+    "en": "",
+    "ua": "Грейнріч"
+  },
+  {
+    "var": "CAMPTEXT_46",
+    "en": "//Evil 2 Map Region Names",
+    "ua": "Батлстід"
+  },
+  {
+    "var": "CAMPTEXT_47",
+    "en": "Marble Garden",
+    "ua": "Вогненне узбережжя"
+  },
+  {
+    "var": "CAMPTEXT_48",
+    "en": "Emerald Hills",
+    "ua": "Сауспорт"
+  },
+  {
+    "var": "CAMPTEXT_49",
+    "en": "Strongwillow and Woodgrove",
+    "ua": "Янголльска брама"
+  },
+  {
+    "var": "CAMPTEXT_50",
+    "en": "\"F.don, F.bury and Forestlow\"",
+    "ua": "Гріфонкліфф"
+  },
+  {
+    "var": "CAMPTEXT_51",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "CAMPTEXT_52",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "CAMPTEXT_53",
+    "en": "//Neutral 1 Map Region Names",
+    "ua": "//Evil 2 Map Region Names"
+  },
+  {
+    "var": "CAMPTEXT_54",
+    "en": "Marshland",
+    "ua": "Мармуровий сад"
+  },
+  {
+    "var": "CAMPTEXT_55",
+    "en": "Minewell",
+    "ua": "Смарагдові схили"
+  },
+  {
+    "var": "CAMPTEXT_56",
+    "en": "Hillbridge",
+    "ua": "Стронгвіллов та Вудгрув"
+  },
+  {
+    "var": "CAMPTEXT_57",
+    "en": "",
+    "ua": "\"Ф.дон, Ф.барі та Форестлов\""
+  },
+  {
+    "var": "CAMPTEXT_58",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "CAMPTEXT_59",
+    "en": "//Secret 1 Map Region Names",
+    "ua": ""
+  },
+  {
+    "var": "CAMPTEXT_60",
+    "en": "Cloverfield",
+    "ua": "//Neutral 1 Map Region Names"
+  },
+  {
+    "var": "CAMPTEXT_61",
+    "en": "Mosswood",
+    "ua": "Маршленд"
+  },
+  {
+    "var": "CAMPTEXT_62",
+    "en": "Forestdale",
+    "ua": "Майнвелл"
+  },
+  {
+    "var": "CAMPTEXT_63",
+    "en": "",
+    "ua": "Хіллбрідж"
+  },
+  {
+    "var": "CAMPTEXT_64",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "CAMPTEXT_65",
+    "en": "// Bracada Map Region Names",
+    "ua": ""
+  },
+  {
+    "var": "CAMPTEXT_66",
+    "en": "Bracada A",
+    "ua": "//Secret 1 Map Region Names"
+  },
+  {
+    "var": "CAMPTEXT_67",
+    "en": "Bracada B",
+    "ua": "Кловерфілд"
+  },
+  {
+    "var": "CAMPTEXT_68",
+    "en": "Bracada C",
+    "ua": "Моссвуд"
+  },
+  {
+    "var": "CAMPTEXT_69",
+    "en": "Bracada D",
+    "ua": "Форестдейл"
+  },
+  {
+    "var": "CAMPTEXT_70",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "CAMPTEXT_71",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "CAMPTEXT_72",
+    "en": "// Islands Map Region Names",
+    "ua": "// Bracada Map Region Names"
+  },
+  {
+    "var": "CAMPTEXT_73",
+    "en": "Islands A",
+    "ua": "Бракада A"
+  },
+  {
+    "var": "CAMPTEXT_74",
+    "en": "Islands B",
+    "ua": "Бракада B"
+  },
+  {
+    "var": "CAMPTEXT_75",
+    "en": "Islands C",
+    "ua": "Бракада C"
+  },
+  {
+    "var": "CAMPTEXT_76",
+    "en": "Islands D",
+    "ua": "Бракада D"
+  },
+  {
+    "var": "CAMPTEXT_77",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "CAMPTEXT_78",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "CAMPTEXT_79",
+    "en": "// Krewlod Map Region Names",
+    "ua": "// Islands Map Region Names"
+  },
+  {
+    "var": "CAMPTEXT_80",
+    "en": "Krewlod A",
+    "ua": "Острови A"
+  },
+  {
+    "var": "CAMPTEXT_81",
+    "en": "Krewlod B",
+    "ua": "Острови B"
+  },
+  {
+    "var": "CAMPTEXT_82",
+    "en": "Krewlod C",
+    "ua": "Острови C"
+  },
+  {
+    "var": "CAMPTEXT_83",
+    "en": "Krewlod D",
+    "ua": "Острови D"
+  },
+  {
+    "var": "CAMPTEXT_84",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "CAMPTEXT_85",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "CAMPTEXT_86",
+    "en": "// Nighon Map Region Names",
+    "ua": "// Krewlod Map Region Names"
+  },
+  {
+    "var": "CAMPTEXT_87",
+    "en": "Nighon A",
+    "ua": "Крюлод A"
+  },
+  {
+    "var": "CAMPTEXT_88",
+    "en": "Nighon B",
+    "ua": "Крюлод B"
+  },
+  {
+    "var": "CAMPTEXT_89",
+    "en": "Nighon C",
+    "ua": "Крюлод C"
+  },
+  {
+    "var": "CAMPTEXT_90",
+    "en": "Nighon D",
+    "ua": "Крюлод D"
+  },
+  {
+    "var": "CAMPTEXT_91",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "CAMPTEXT_92",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "CAMPTEXT_93",
+    "en": "// Tatalia Map Region Names",
+    "ua": "// Nighon Map Region Names"
+  },
+  {
+    "var": "CAMPTEXT_94",
+    "en": "Tatalia A",
+    "ua": "Ніґон A"
+  },
+  {
+    "var": "CAMPTEXT_95",
+    "en": "Tatalia B",
+    "ua": "Ніґон B"
+  },
+  {
+    "var": "CAMPTEXT_96",
+    "en": "Tatalia C",
+    "ua": "Ніґон C"
+  },
+  {
+    "var": "CAMPTEXT_97",
+    "en": "",
+    "ua": "Ніґон D"
+  },
+  {
+    "var": "CAMPTEXT_98",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "CAMPTEXT_99",
+    "en": "// Armageddon Map Region Names",
+    "ua": ""
+  },
+  {
+    "var": "CAMPTEXT_100",
+    "en": "Armageddon A",
+    "ua": "// Tatalia Map Region Names"
+  },
+  {
+    "var": "CAMPTEXT_101",
+    "en": "Armageddon B",
+    "ua": "Таталія A"
+  },
+  {
+    "var": "CAMPTEXT_102",
+    "en": "Armageddon C",
+    "ua": "Таталія B"
+  },
+  {
+    "var": "CAMPTEXT_103",
+    "en": "Armageddon D",
+    "ua": "Таталія C"
+  },
+  {
+    "var": "CAMPTEXT_104",
+    "en": "Armageddon E",
+    "ua": ""
+  },
+  {
+    "var": "CAMPTEXT_105",
+    "en": "Armageddon F",
+    "ua": ""
+  },
+  {
+    "var": "CAMPTEXT_106",
+    "en": "Armageddon G",
+    "ua": "// Armageddon Map Region Names"
+  },
+  {
+    "var": "CAMPTEXT_107",
+    "en": "Armageddon H",
+    "ua": "Армагеддон A"
+  },
+  {
+    "var": "CAMPTEXT_108",
+    "en": null,
+    "ua": "Армагеддон B"
+  },
+  {
+    "var": "CAMPTEXT_109",
+    "en": null,
+    "ua": "Армагеддон C"
+  },
+  {
+    "var": "CAMPTEXT_110",
+    "en": null,
+    "ua": "Армагеддон D"
+  },
+  {
+    "var": "CAMPTEXT_111",
+    "en": null,
+    "ua": "Армагеддон E"
+  },
+  {
+    "var": "CAMPTEXT_112",
+    "en": null,
+    "ua": "Армагеддон F"
+  },
+  {
+    "var": "CAMPTEXT_113",
+    "en": null,
+    "ua": "Армагеддон G"
+  },
+  {
+    "var": "CAMPTEXT_114",
+    "en": null,
+    "ua": "Армагеддон H"
+  },
+  {
+    "var": "CAMPTEXT_115",
+    "en": null,
+    "ua": ""
+  },
+  {
+    "var": "CAMPTEXT_116",
+    "en": null,
+    "ua": ""
+  },
+  {
+    "var": "CAMPTEXT_117",
+    "en": null,
+    "ua": "// Hack and Slash Region Names"
+  },
+  {
+    "var": "CAMPTEXT_118",
+    "en": null,
+    "ua": "Рубай та шматуй A"
+  },
+  {
+    "var": "CAMPTEXT_119",
+    "en": null,
+    "ua": "Рубай та шматуй B"
+  },
+  {
+    "var": "CAMPTEXT_120",
+    "en": null,
+    "ua": "Рубай та шматуй C"
+  },
+  {
+    "var": "CAMPTEXT_121",
+    "en": null,
+    "ua": "Рубай та шматуй D"
+  },
+  {
+    "var": "CAMPTEXT_122",
+    "en": null,
+    "ua": ""
+  },
+  {
+    "var": "CAMPTEXT_123",
+    "en": null,
+    "ua": ""
+  },
+  {
+    "var": "CAMPTEXT_124",
+    "en": null,
+    "ua": "// Birth of a Barbarian Region Names"
+  },
+  {
+    "var": "CAMPTEXT_125",
+    "en": null,
+    "ua": "Народження варвара A"
+  },
+  {
+    "var": "CAMPTEXT_126",
+    "en": null,
+    "ua": "Народження варвара B"
+  },
+  {
+    "var": "CAMPTEXT_127",
+    "en": null,
+    "ua": "Народження варвара C"
+  },
+  {
+    "var": "CAMPTEXT_128",
+    "en": null,
+    "ua": "Народження варвара D"
+  },
+  {
+    "var": "CAMPTEXT_129",
+    "en": null,
+    "ua": "Народження варвара E"
+  },
+  {
+    "var": "CAMPTEXT_130",
+    "en": null,
+    "ua": ""
+  },
+  {
+    "var": "CAMPTEXT_131",
+    "en": null,
+    "ua": ""
+  },
+  {
+    "var": "CAMPTEXT_132",
+    "en": null,
+    "ua": "// New Beginning Region Names"
+  },
+  {
+    "var": "CAMPTEXT_133",
+    "en": null,
+    "ua": "Новий початок A"
+  },
+  {
+    "var": "CAMPTEXT_134",
+    "en": null,
+    "ua": "Новий початок B"
+  },
+  {
+    "var": "CAMPTEXT_135",
+    "en": null,
+    "ua": "Новий початок C"
+  },
+  {
+    "var": "CAMPTEXT_136",
+    "en": null,
+    "ua": "Новий початок D"
+  },
+  {
+    "var": "CAMPTEXT_137",
+    "en": null,
+    "ua": ""
+  },
+  {
+    "var": "CAMPTEXT_138",
+    "en": null,
+    "ua": ""
+  },
+  {
+    "var": "CAMPTEXT_139",
+    "en": null,
+    "ua": "// Elixir of Life Region Names"
+  },
+  {
+    "var": "CAMPTEXT_140",
+    "en": null,
+    "ua": "Еліксир життя A"
+  },
+  {
+    "var": "CAMPTEXT_141",
+    "en": null,
+    "ua": "Еліксир життя B"
+  },
+  {
+    "var": "CAMPTEXT_142",
+    "en": null,
+    "ua": "Еліксир життя C"
+  },
+  {
+    "var": "CAMPTEXT_143",
+    "en": null,
+    "ua": "Еліксир життя D"
+  },
+  {
+    "var": "CAMPTEXT_144",
+    "en": null,
+    "ua": ""
+  },
+  {
+    "var": "CAMPTEXT_145",
+    "en": null,
+    "ua": ""
+  },
+  {
+    "var": "CAMPTEXT_146",
+    "en": null,
+    "ua": "// Rise of the Necromancer Region Names"
+  },
+  {
+    "var": "CAMPTEXT_147",
+    "en": null,
+    "ua": "Піднесення некроманта A"
+  },
+  {
+    "var": "CAMPTEXT_148",
+    "en": null,
+    "ua": "Піднесення некроманта B"
+  },
+  {
+    "var": "CAMPTEXT_149",
+    "en": null,
+    "ua": "Піднесення некроманта C"
+  },
+  {
+    "var": "CAMPTEXT_150",
+    "en": null,
+    "ua": "Піднесення некроманта D"
+  },
+  {
+    "var": "CAMPTEXT_151",
+    "en": null,
+    "ua": ""
+  },
+  {
+    "var": "CAMPTEXT_152",
+    "en": null,
+    "ua": ""
+  },
+  {
+    "var": "CAMPTEXT_153",
+    "en": null,
+    "ua": "// Unholy Alliance Region Names"
+  },
+  {
+    "var": "CAMPTEXT_154",
+    "en": null,
+    "ua": "Союз нечисті A"
+  },
+  {
+    "var": "CAMPTEXT_155",
+    "en": null,
+    "ua": "Союз нечисті B"
+  },
+  {
+    "var": "CAMPTEXT_156",
+    "en": null,
+    "ua": "Союз нечисті C"
+  },
+  {
+    "var": "CAMPTEXT_157",
+    "en": null,
+    "ua": "Союз нечисті D"
+  },
+  {
+    "var": "CAMPTEXT_158",
+    "en": null,
+    "ua": "Союз нечисті E"
+  },
+  {
+    "var": "CAMPTEXT_159",
+    "en": null,
+    "ua": "Союз нечисті F"
+  },
+  {
+    "var": "CAMPTEXT_160",
+    "en": null,
+    "ua": "Союз нечисті G"
+  },
+  {
+    "var": "CAMPTEXT_161",
+    "en": null,
+    "ua": "Союз нечисті H"
+  },
+  {
+    "var": "CAMPTEXT_162",
+    "en": null,
+    "ua": "Союз нечисті I"
+  },
+  {
+    "var": "CAMPTEXT_163",
+    "en": null,
+    "ua": "Союз нечисті J"
+  },
+  {
+    "var": "CAMPTEXT_164",
+    "en": null,
+    "ua": "Союз нечисті K"
+  },
+  {
+    "var": "CAMPTEXT_165",
+    "en": null,
+    "ua": "Союз нечисті L"
+  },
+  {
+    "var": "CAMPTEXT_166",
+    "en": null,
+    "ua": ""
+  },
+  {
+    "var": "CAMPTEXT_167",
+    "en": null,
+    "ua": ""
+  },
+  {
+    "var": "CAMPTEXT_168",
+    "en": null,
+    "ua": "// Specter of Power Region Names"
+  },
+  {
+    "var": "CAMPTEXT_169",
+    "en": null,
+    "ua": "Привид влади A"
+  },
+  {
+    "var": "CAMPTEXT_170",
+    "en": null,
+    "ua": "Привид влади B"
+  },
+  {
+    "var": "CAMPTEXT_171",
+    "en": null,
+    "ua": "Привид влади C"
+  },
+  {
+    "var": "CAMPTEXT_172",
+    "en": null,
+    "ua": "Привид влади D"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "sequences": [
+    {
+      "group": 0,
+      "frames": [
+        "MuBhost.dir\\00_00.png",
+        "MuBhost.dir\\00_01.png",
+        "MuBhost.dir\\00_02.png",
+        "MuBhost.dir\\00_03.png"
+      ]
+    }
+  ],
+  "type": 71,
+  "format": 1
+}

@@ -1,0 +1,146 @@
+[
+  {
+    "var": "NEUTRAL1_M3_prolog",
+    "field": "wrapper_prolog",
+    "en": "Both King Tralossk of Tatalia and Duke Boragus of Krewlod are seeking your services. Both nations are poised to claim the last strip of land between their countries. Ironically, this land has little value. You must decide which nation to serve. The choice is yours alone.",
+    "ua": "Тепер ваших послуг шукають і король Таталії Тралоск, і правитель Крюлода герцог Вїнстон Борагус. Вони борються між собою за останній клаптик землі, що лежить між їх межами. Іронія в тому, що сама собою земля нічого не коштує. Вирішуйте, кому ви віддасте перевагу служити. Все у ваших руках."
+  },
+  {
+    "var": "NEUTRAL1_M3_epilog",
+    "field": "wrapper_epilog",
+    "en": "Representatives from both Tatalia and Krewlod seek your services... again. Both nations claim the last strip of Erathian land between their countries. Few Erathian castles remain in the area.  They are nothing more than token resistance.  The most ferocious battles will occur between Tatalia and Krewlod.  Ironically, this land has little value. This is a border war. Tatalia seeks to further extend its reach from the lowlands to the hills. Krewlod wants to halt Tatalia’s march before it reaches their northern border. No matter which side you fight for, the other will perceive you as a traitor. Choose wisely.  Choose the winning side.  Your life depends upon it.",
+    "ua": "Посли Таталії і Крюлода знову шукають ваших послуг. Вони б'ються за останній клаптик ерафійскіх земель, де залишилися лічені замки. Ерафійці можуть надати лише символічний опір. Боротися будуть Таталія і Крюлод. Смішно! Сама собою земля не представляє ніякої цінності. Йде війна за розширення території. Таталія прагне вийти з низин до пагорбів, а Крюлод - не підпустити суперника до свого північного кордону. Чию б сторону ви не прийняли, противник буде вважати вас зрадником. Зробіть правильний вибір. Зіграйте на стороні переможця. Від цього залежить ваше життя."
+  },
+  {
+    "var": "NEUTRAL1_M3_map_name",
+    "field": "map_map_name",
+    "en": "Greed",
+    "ua": "Жадоба"
+  },
+  {
+    "var": "NEUTRAL1_M3_map_desc",
+    "field": "map_map_desc",
+    "en": "To win, you must capture all towns and castles and defeat all enemy heroes. Regardless of which side you choose, the other will forever consider you a traitor.",
+    "ua": "Щоб перемогти, вам потрібно захопити всі міста і замки і розгромити всіх героїв противника. Неважливо, до якої сторони ви примкнете, - інша сторона назавжди зарахує вас до зрадників."
+  },
+  {
+    "var": "NEUTRAL1_M3_obj432_sign_mesg",
+    "field": "map_obj432_sign_mesg",
+    "en": "South Road",
+    "ua": "Шлях на південь"
+  },
+  {
+    "var": "NEUTRAL1_M3_obj433_sign_mesg",
+    "field": "map_obj433_sign_mesg",
+    "en": "North Road",
+    "ua": "Шлях на північ"
+  },
+  {
+    "var": "NEUTRAL1_M3_obj463_sign_mesg",
+    "field": "map_obj463_sign_mesg",
+    "en": "Goblin Villa",
+    "ua": "Вілла гоблінів"
+  },
+  {
+    "var": "NEUTRAL1_M3_obj469_sign_mesg",
+    "field": "map_obj469_sign_mesg",
+    "en": "Orc Villa",
+    "ua": "Вілла орків"
+  },
+  {
+    "var": "NEUTRAL1_M3_obj1155_guardian_mesg",
+    "field": "map_obj1155_guardian_mesg",
+    "en": "Bandits leap out of the underbrush and attack!",
+    "ua": "З підліска вибігають бандити і нападають на вас!"
+  },
+  {
+    "var": "NEUTRAL1_M3_obj1156_guardian_mesg",
+    "field": "map_obj1156_guardian_mesg",
+    "en": "Bandits leap out of the underbrush and attack!",
+    "ua": "З підліска вибігають бандити і нападають на вас!"
+  },
+  {
+    "var": "NEUTRAL1_M3_obj1157_guardian_mesg",
+    "field": "map_obj1157_guardian_mesg",
+    "en": "Bandits leap out of the underbrush and attack!",
+    "ua": "З підліска вибігають бандити і нападають на вас!"
+  },
+  {
+    "var": "NEUTRAL1_M3_obj1158_guardian_mesg",
+    "field": "map_obj1158_guardian_mesg",
+    "en": "Bandits leap out of the underbrush and attack!",
+    "ua": "З підліска вибігають бандити і нападають на вас!"
+  },
+  {
+    "var": "NEUTRAL1_M3_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Tatalia intro part 1",
+    "ua": "Tatalia intro part 1"
+  },
+  {
+    "var": "NEUTRAL1_M3_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "You receive a message from King Tralossk - \"I am pleased that you have chosen to side with us. Your knowledge of how those stupid barbarians fight will give you an advantage, though it is very likely that Duke Boragus has put a price on your head for being a traitor.\"",
+    "ua": "Ви отримали послання від Короля Тралоска: \"Я радий, що ви вирішили примкнути до нас Ваші пізнання про методи війни цих тупих варварів дадуть нам деяку перевагу. Хоча, цілком ймовірно, Герцог Борагус вже призначив ціну за вашу голову. Адже ви зрадили його.\""
+  },
+  {
+    "var": "NEUTRAL1_M3_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Tatalia intro part 2",
+    "ua": "Tatalia intro part 2"
+  },
+  {
+    "var": "NEUTRAL1_M3_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "\"This will be a fight to the finish. We wish to extend our borders into the Krewlod hills, and they wish to stop us. A token Erathian force will likely get caught in the middle, but there is simply nothing we can, or wish to, do about it.\"",
+    "ua": "\"Це буде битва до переможного кінця. Ми хочемо розширити свої кордони до гір Крюлода, а вони хочуть зупинити нас. Символічне військо Ерафії, ймовірно, потрапить в халепу, але ми просто нічого не можемо вдіяти з цим. Або не хочемо\"."
+  },
+  {
+    "var": "NEUTRAL1_M3_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Tatalia intro part 3",
+    "ua": "Tatalia intro part 3"
+  },
+  {
+    "var": "NEUTRAL1_M3_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "\"Do well, and you shall be idolized by all of Tatalia. Fail... well, we don't need to discuss that just yet.\" The letter is simply stamped with the scaly insignia of House Tralossk.",
+    "ua": "\"Переможете, і народ Таталії буде вас обожнювати. Програйте, і... ні, мабуть, про це говорити поки не варто\". В якості поштового штемпеля на листі стоїть відбиток емблеми Дому Тралоска."
+  },
+  {
+    "var": "NEUTRAL1_M3_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "Krewlod intro part 1",
+    "ua": "Krewlod intro part 1"
+  },
+  {
+    "var": "NEUTRAL1_M3_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "You receive your orders from one of Duke Boragus's generals. \"I've never liked mercenaries myself, but you've managed to prove yourself worthy enough to get offered a second contract. I hear that ol' Tralossk was so mad you turned him down that he ordered your head delivered to him in a basket!\"",
+    "ua": "Ви отримуєте накази від одного з генералів Герцога Борагуса. \"Я сам ніколи не любив найманців, але ви довели свою ціну, і я продовжу контракт з вами. Мені розповіли, що стариган Тралоск був такий злий, що ви його ошукали, що наказав доставити йому вашу голову в кошику\""
+  },
+  {
+    "var": "NEUTRAL1_M3_mapevent4_name",
+    "field": "map_mapevent4_name",
+    "en": "Krewlod intro part 2",
+    "ua": "Krewlod intro part 2"
+  },
+  {
+    "var": "NEUTRAL1_M3_mapevent4_mesg",
+    "field": "map_mapevent4_mesg",
+    "en": "\"Anyway, in case you hadn't noticed, this is a border war. Ol' Tralossk has got it into his head that he'd like some of our territory. YOU are here to stop him. Duke Boragus likes you, but your life won't be worth spit if the Tatalians show up at the doors of the Duke's Palace.\"",
+    "ua": "\"Ну добре, якщо ви не помітили, це прикордонна війна. Старий Тралоск втовкмачив собі в голову, що йому потрібен шматок нашої землі. Ваше завдання зараз - Зупинити його.\" Герцог Борагус благоволить тобі, але якщо таталійці постукають у двері його палацу, ваше життя буде коштувати менше ламаного гроша.\""
+  },
+  {
+    "var": "NEUTRAL1_M3_mapevent5_name",
+    "field": "map_mapevent5_name",
+    "en": "Krewlod intro part 3",
+    "ua": "Krewlod intro part 3"
+  },
+  {
+    "var": "NEUTRAL1_M3_mapevent5_mesg",
+    "field": "map_mapevent5_mesg",
+    "en": "\"Now, your orders are clear. Stop the Tatalian advance, then beat those sorry Lizards so far back across the border that they'll never even THINK about dry land again. Oh, and while you're at it, get rid of those pesky Erathian outposts. Have fun!\"",
+    "ua": "\"Ваші завдання прості. Зупинити просування таталійських військ, потім вибити цих жалюгідних ящірок з наших володінь так далеко, щоб надалі вони і не думали про сушу. Так, заодно покінчите з ерафійськими сторожовими постами. Повеселіться!\""
+  }
+]

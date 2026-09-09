@@ -1,0 +1,170 @@
+[
+  {
+    "var": "AB_M8_prolog",
+    "field": "wrapper_prolog",
+    "en": "The Kreegan race borders on extinction, yet remains defiant.  King Lucifer has sent for aid from the Overlords of Nighon.  It is estimated that it shall take no more than 60 days for an army to arrive and reinforce the Kreegan king.  The tide has turned as Catherine's army now has the Blade and the irony of Lucifer's downfall under the Blade he created to destroy the world has not escaped Catherine.  She intends to bring the Blade to Hell itself if need be.",
+    "ua": "Раса криганців на межі згасання, але все ще залишається непокірною. Король Люцифер послав за допомогою до верховних лордів Ніґона. Через 60 днів Люциферу прийде підкріплення. До цього часу Катерина повинна здолати Люцифера, вразивши його тією зброєю, що він сам і створив."
+  },
+  {
+    "var": "AB_M8_epilog",
+    "field": "wrapper_epilog",
+    "en": "Armageddon's Blade is no longer a threat.  However, King Lucifer Kreegan still sits upon the throne of Eeofol.  What few clans remain have rallied to defend their king and his lost cause.  Erathian spies tell us the demon king has requested support from the dungeon overlords of Nighon.  We cannot confirm this.  If it is true, we cannot allow Lucifer to receive this aid.  We must dethrone the demon king.   Time is short, but now we wield Armageddon's Blade.  It is time we take armageddon into the heart of hell itself.",
+    "ua": "Клинок Армагеддону більше не загрожує світу. Але Люцифер Криган як і раніше править Еофолом. Навколо нього згуртувалася купка тих кланів, що вижили. Вони готові відстоювати свого правителя, попри жорстоку поразку його ідей. Ерафійські розвідники донесли, що король демонів звернувся за допомогою до верховних лордів Ніґона. Це може бути правдою. Не можна допустити, щоб підкріплення приспіло вчасно. Ми повинні знищити короля демонів. Час не чекає. Зате в наших руках Клинок. Пора влаштувати Армагеддон у самому серці пекла!"
+  },
+  {
+    "var": "AB_M8_map_name",
+    "field": "map_map_name",
+    "en": "Oblivion's Edge",
+    "ua": "Вістря забуття"
+  },
+  {
+    "var": "AB_M8_map_desc",
+    "field": "map_map_desc",
+    "en": "You have 60 days for Gelu to take Armageddon's Blade to the Eeofol capitol of Kreelah before the forces of the Dungeon Overlords arrive to reinforce King Lucifer.  If Gelu, Roland, or Catherine is lost, your war ends here.  ",
+    "ua": "У Ґело є 60 днів, щоб віднести Клинок Армагеддону в Крилу, столицю Еофола, поки на допомогу Люциферу не пришли війська Володарів Ніґона. Якщо Ґело, Роланд чи Катерина загинуть, війна буде програна."
+  },
+  {
+    "var": "AB_M8_obj0_town_name",
+    "field": "map_obj0_town_name",
+    "en": "Kreelah",
+    "ua": "Крила"
+  },
+  {
+    "var": "AB_M8_obj0_event_name",
+    "field": "map_obj0_event_name",
+    "en": "Cash Flow",
+    "ua": "Cash Flow"
+  },
+  {
+    "var": "AB_M8_obj0_event_mesg",
+    "field": "map_obj0_event_mesg",
+    "en": "Here ya go dude.  Kick ass!",
+    "ua": "Тримай дзвінку монету!"
+  },
+  {
+    "var": "AB_M8_obj1_town_name",
+    "field": "map_obj1_town_name",
+    "en": "Andershire",
+    "ua": "Андершир"
+  },
+  {
+    "var": "AB_M8_obj160_town_name",
+    "field": "map_obj160_town_name",
+    "en": "Decotta",
+    "ua": "Декота"
+  },
+  {
+    "var": "AB_M8_obj173_town_name",
+    "field": "map_obj173_town_name",
+    "en": "Aglorande",
+    "ua": "Аглоранд"
+  },
+  {
+    "var": "AB_M8_obj470_town_name",
+    "field": "map_obj470_town_name",
+    "en": "Staeverin",
+    "ua": "Стіверин"
+  },
+  {
+    "var": "AB_M8_obj499_town_name",
+    "field": "map_obj499_town_name",
+    "en": "Socon",
+    "ua": "Сокон"
+  },
+  {
+    "var": "AB_M8_obj531_town_name",
+    "field": "map_obj531_town_name",
+    "en": "Calembria",
+    "ua": "Калембрія"
+  },
+  {
+    "var": "AB_M8_obj1343_monster_mesg",
+    "field": "map_obj1343_monster_mesg",
+    "en": "\"We are members of Tavin's Guerillas and have been instructed to aid you.  Tavin is quite pleased that you are helping us regain our homeland.\"",
+    "ua": "\"Ми - партизани Тевіна, нам наказано надати вам усіляку підтримку. Тевін вдячний вам за те, що ви допомагаєте відстояти нашу батьківщину\"."
+  },
+  {
+    "var": "AB_M8_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Opening",
+    "ua": "Opening"
+  },
+  {
+    "var": "AB_M8_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "Xeron has been defeated, but managed to teleport away before he could be finished off.  Still, we now possess the Blade and it is time to end this.  The last remnants of the Kreegan clans have chosen their capital city of Kreelah to make their stand.  We outnumber them, however they are still powerful and may yet take the day, with some help.\n\nOur spies have learned that King Lucifer, in desperation, has sent an emissary to the Overlords and Warlocks of Nighon to beseech them for aid.  We have no way of knowing if they said yes or not, therefore we must fear the worst.  At the earliest, it would take an army from Nighon some 60 days to reach this valley.  We must hurry.  King Lucifer must be slain before that time.\n\nAll that stands in our way is the remaining members of the Sons of Erebus and supposedly Xeron has chosen to stand by his king to the very last.  They will be dug in quite heavily, so gathering powerful forces is imperative.  May the Light shine down upon and bless this undertaking.  All of Antagarich is depending on our success.  Good luck to us all.",
+    "ua": "Ксерон переможений, але не вбитий, в останній момент йому вдалося вислизнути. Але Клинок в наших руках, прийшла пора покласти війні кінець. Залишки криганських кланів засіли в Крилі, столиці Еофола. Ми перевершуємо їх у силі, і все ж вони можуть перемогти - якщо вчасно прийде допомога.\n\nРозвідникам вдалося дізнатися, що в розпачі король Люцифер зважився направити посла до верховних лордів Ніґона і чорнокнижників. Він просить військової підтримки. Ми не можемо знати, яка буде їхня відповідь, потрібно готуватися до гіршого. У нас є 60 днів, перш ніж армія Ніґона досягне столиці. Треба поспішати. До цієї години король Люцифер повинен бути мертвий.\n\nНа нашому шляху стоять виживші \"Сини Еребуса\", швидше за все, і Ксерон буде захищати короля до останньої краплі крові. Вони будуть надійно захищені, нам необхідна потужна армія. Хай осяє Світло наш останній похід. Доля Антагріча в наших руках. Нам буде потрібна вся удача."
+  },
+  {
+    "var": "AB_M8_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Nighon Emissary Captured",
+    "ua": "Nighon Emissary Captured"
+  },
+  {
+    "var": "AB_M8_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "During the early hours after breakfast, a runner reports to Catherine that some outer patrols have captured an apprentice Warlock apparently on his way to Kreelah.  On his person they found a note addressed to King Lucifer.\n\nUpon closer inspection of the note, it reveals their worst fears: the Overlords of Nighon have indeed allied themselves with the devils of Eeofol once again.  A sizeable army travelling underground from the land of Nighon is on its way and is expected in some 50 days or so.\n\nCatherine blanches at the news, yet shows nothing to the people under her command.  She has to be strong at this most dangerous point in their war.  Any sign of weakness might lessen their chances of success.  Time is not only of the essence at this point, it's a crucial obstacle to overcome.",
+    "ua": "Незабаром після сніданку до Катерини прибув гонець. Патруль схопив учня чорнокнижника, який пробирався в Крилу. Серед його речей виявлено листа королю Люциферу.\n\nЛист підтвердив наші найгірші побоювання: лорди готові відновити старий союз з Еофолом. По підземних тунелях у бік столиці рухається величезна армія, вони прибудуть через п'ятдесят днів.\n\nКатерина приходить в жах. Але солдатам ні до чого знати її страхи. Їй треба бути сильною. Будь-який прояв слабкості може зменшити шанси на перемогу. Швидкість тепер не просто важлива, швидкість - вирішальний фактор в останній битві."
+  },
+  {
+    "var": "AB_M8_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Seduced by the Blade",
+    "ua": "Seduced by the Blade"
+  },
+  {
+    "var": "AB_M8_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "Last eve as Gelu lay sleeping in his bunk; an odd dream came to him.  It was filled with visions of glorious battles and immense personal power being heaped upon him.  He saw himself chosen by General Kendal as the new king of Erathia.  Later he saw himself as ending the feuds in Antagarich and being named leader of the entire continent.  He saw Antagarich finally at peace.  All the while in the background was this lovely woman, her eyes the color of emeralds, her skin like fine silk, her hair the color of steel.  She was intoxicating, invigorating, and mysterious.  In every sequence of this possible future he saw, there she was and she gave him a sense of calm and strength.\n\nThe last image he witnessed before waking was that of a finely crafted sword.  Instantly he knew this was his key to which he dreamt of.  He immediately knew this sword was to be his and had been instrumental in creating the world in which he lived during that dream.  That sword looked mysteriously like Armageddon's Blade.",
+    "ua": "Вночі Ґело снився дивний сон. Його переповнювали сцени грандіозних битв, і Ґело легендарним полководцем вів своїх солдатів у бій. Генерал Кендал призначив його новим королем Ерафіі. Потім Ґело поклав кінець намісництву в Антагрічі і був проголошений королем всього континенту. У землях запанував довгоочікуваний мир. І весь час десь поблизу знаходилася прекрасна дама зі смарагдовими очима, шкірою ніжнішою шовку і локонами кольору сталі. У ній було саме життя, вона притягала, спокушала, заворожувала. Вона була поруч кожну мить сну, живила його сили, давала душі заспокоєння.\n\nА перед пробудженням у Ґело з'явився чудовий меч. Меч був ключем до всього, що обіцяли сни; одного разу він опиниться у нього в руках, він допоможе втілити світ снів в реальність. І чомусь цей меч був схожий на Клинок Армагеддону..."
+  },
+  {
+    "var": "AB_M8_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "Tamar's Return",
+    "ua": "Tamar's Return"
+  },
+  {
+    "var": "AB_M8_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "In the darkest hours before dawn, Catherine is awoken by a soft wind blowing across her body, caressing it like Roland often had, pleasant and loving.  She turns, expecting to see her loving husband there with her, when she sees a figure in azure robes trimmed in silver runic writing.  The figure simply stands there, not saying a word.\n\n\"Greetings Tamar.  What are you doing here?  What visions have you come to warn me about now?\"  Catherine asks, quite annoyed at the fact it is not Roland.\n\n\"I have come to impart some wisdom to you, Queen of Enroth,\" Tamar says in that soft whisper of a voice.  \"The pale warrior often called Devil's Bane I have foreseen to be of great import in your endeavor.  He alone is the key to victory here.  You must see he is given the Blade and sent to Kreelah to face King Lucifer.  He has a destiny to fulfill that no one must be allowed to interfere with, for if he is to fall, everything shall turn to chaos.  Oceans will boil, the ground shall swallow entire cities, and everyone will die a horrifying death.  I do not think that you would want this possibility to come to pass, am I wrong?\"\n\nCatherine stares at the shadow shrouded face of this Elemental Lord and sighs, \"No, of course not.\"\n\n\"As I suspected.  So, rest now, Catherine Ironfist, for the days ahead shall be plagued by troubles and filled with glorious victories.  You shall prevail if you trust your heart and relax your mind.  Heart is the one thing the devils cannot crush; use it as your most prominent weapon.  Good luck.  I pray you will be well, as I do for those under your command.\"  With that, Tamar vanishes as if he had never come, as if he were a mere dream.  Exhausted and confused somewhat, Catherine goes back to sleep, her task set before her.  Gelu is the one who must bear the Blade to Kreelah and kill King Lucifer.  It seems a task easier said than done.",
+    "ua": "У темну передсвітанкову годину Катерину пробудив м'який подих вітру, схожий на ласкавий дотик Роланда. Невже її коханий чоловік повернувся? Але замість Роланда в темряві височіє чоловік в блакитній мантії, покритій сріблястими рунічними письменами. Він стоїть не ворухнувшись.\n\n\"Я не чекала вас, Тамар. З чим ви з'явилися? Що за видіння цього разу?\" - Катерина злегка розчарована, що перед нею не Роланд.\n\n\"Я прийшов поділитися мудрістю, королева Катерина, - м'яким напівшепотом вимовляє Тамар - Мені було видіння, що для вашого успіху вкрай важливий блідолиций воїн, гонитель дияволів. У його долі ключ до перемоги. Йому ви повинні вручити меч і відправити у Крилу на бій з Люцифером. Йому належить виконати призначене, і він повинен жити, бо якщо він потерпить поразку, світ охопить хаос Океани вийдуть з берегів, земля поглине міста; світ загине страшною смертю Цього ви хочете, королева \".?\n\nВдивляючись у незворушне обличчя лорда елементалів, Катерина зітхає: \". Ні. Звичайно, ні\".\n\n\"Я в цьому не сумнівався. Доброї ночі, Катерина Айронфіст, відпочивайте, поки є час. Настають біди; настають славні битви. Довіртеся серцю; заспокойте розум - тільки тоді зможете перемогти. Серце не розтрощити жодному демонові, і в ньому наша головна зброя. Успіху. Я буду молитися за вас і ваших воїнів\". Тамар зникає, як бачення, як сон. Втомлена, розгублена, Катерина засинає. Мета зрозуміла. Ґело - той, кому визначено доставити Клинок в Крилу і вразити короля Люцифера. Простіше сказати, ніж зробити..."
+  },
+  {
+    "var": "AB_M8_mapevent4_name",
+    "field": "map_mapevent4_name",
+    "en": "Sleen Sentenced",
+    "ua": "Sleen Sentenced"
+  },
+  {
+    "var": "AB_M8_mapevent4_mesg",
+    "field": "map_mapevent4_mesg",
+    "en": "A message was received by all this morning informing the leaders of Catherine's army about the fate of Sleen. Sleen was judged by General Kendal's appointed judicator, Johannes Bonn, and sentenced to live out his miserable life in prison, performing acts of hard labor and housed alone so he may contemplate that which he has done.",
+    "ua": "Вранці всіх полководців наздогнала звістка: Сліїн прибув до Стедвіка. Суддя генерала Кендала, Йоганн Бон, засудив зрадника до каторжних робіт і довічного ув'язнення в одиночній камері. Там у нього буде час покаятися у своїх гріхах."
+  },
+  {
+    "var": "AB_M8_mapevent5_name",
+    "field": "map_mapevent5_name",
+    "en": "Tavin's Guerillas Strike Again",
+    "ua": "Tavin's Guerillas Strike Again"
+  },
+  {
+    "var": "AB_M8_mapevent5_mesg",
+    "field": "map_mapevent5_mesg",
+    "en": "Early in the morning a legion of halfling slingers from Tavin's Guerillas stopped by to inform Gelu they had struck a blow for his army.  A lackey of Xeron's had been slain while on a mission for his lord.  The Archdevil Xex was now and forever dead.\n\nGelu, smiling, addresses his troops and tells them the good news.  Once the cheers begin to die down, he sets upon them the task of taking Kreelah sooner.  Their spirits high, they accept his challenge with great aplomb.  Nothing could stop them now.",
+    "ua": "Вранці до Ґело прийшов цілий легіон халфлінгів партизанської армії Тевіна. Чоловічки гордо розповідають, що завдали демонам серйозного удару. Вони знищили слугу Ксерона, поки той виконував чергове доручення пана. Архідиявол Зексе мертвий!\n\nПосміхаючись, Ґело вийшов до війська й оголосив їм радісну звістку. Ледве крики тріумфу стихли, Ґело закликав солдатів на бій біля стін Крили. На радощах воїни готові летіти до столиці Еофола як на крилах. Тепер їх ніщо не зупинить."
+  },
+  {
+    "var": "AB_M8_mapevent6_name",
+    "field": "map_mapevent6_name",
+    "en": "Ghosts of Conscience",
+    "ua": "Ghosts of Conscience"
+  },
+  {
+    "var": "AB_M8_mapevent6_mesg",
+    "field": "map_mapevent6_mesg",
+    "en": "Roland lay sleeping in his bed last eve, drenched in sweat, his mind racing and filled with visions of vengeance and malice.  As he slept, the heat brought with it dreams, dreams of places and people long forgotten as well as specters of recent events.\n\nAs the heat rose, so did the intensity of these dreams, each coming faster and more powerful than the last.  Some came as ghosts others as visions of warning, but all pointed to one thing; he was headed down the dark path.\n\nOne of the most powerful of these dreams was a visit from a longhaired old man with long wizened features and gnarled fingers.  He spoke in the raspy voice of the dead.\n\n\"King Roland, I come to you with a tale.  'Tis a tale of vengeance and suffering, pain and loss.  I was once a mage of great repute in Bracada, but was stripped of my title of Archmage and sentenced to become just a lowly alchemist for the crime of being far too mercenary in my ways.  This, however, was where I thrived.  My skills as a weaponsmith and alchemist went unchallenged and I was hailed as a hero by some.  I made weapons for kings and priests, lords and ruffians.  Anyone and everyone with the gold could purchase my services, both on the side of light and dark.  I did not care.  But then, came Xeron and his terrible request.  He fed my greed and anger at being used and abused by those who claimed to be my superiors by giving me gold and a chance at revenge.  This burning desire blinded me to the reality that Xeron was a truly evil man and I paid for my mistake with my life and immortal soul.\n\nI stand before you now, Roland Ironfist, to make you see that you are treading down the dark path, a path that will lead you away from your loving wife and son.  Turn back now and all shall be forgiven.  Ignore my warnings and forever shall you be like your brother, Archibald.  Your innocence may be lost, but do not allow your good humor and noble heart go with it.\"\n\nThe image faded and was replaced by that of his father, old King Ironfist.  The image of his father was one long ago nearly forgotten.  It had been so many years since his beloved father had passed away.  This brought up memories of the indignities and pain he had suffered at the hands of his brother.  It also reminded him of the strength he had back then and how he persevered during the Succession Wars.  His father's countenance carried with it a look of disappointment in his noble son.  King Ironfist simply shook his head and walked away, back into the shadowy fog of death.  \n\nRoland awoke with a shot, calling out his father's name and reaching for his hand.  Realizing it had been a mere dream, he lay back down to return to sleep.  As he tried to drift back into sleep's grasp, he could not help shake the image of his father turning his back on his favored son.  Roland understood at the moment, what Khazandar's ghost and Catherine's letter had been trying to tell him.  He immediately got dressed and sought out a cleric.  He had strayed from the path of light; it was time to return to the way. ",
+    "ua": "Роланда мучили кошмари. Простирадла просочилися потом, сни наповнювали видіння і примари, зловісні, болісні. Спека приносила нові сни, видіння міст і людей минулого, сьогодення і майбутнього...\n\nСпека посилювалася; кошмари змінювали один одного ще швидше, і кожен був ще гіршим за попередній. Привиди, попередження - все говорило про одне: він вступив на шлях Темряви.\n\nНовий сон торкнувся душі сильніше інших. Довговолосий старець, особа поборознена зморшками, очі світяться мудрістю; скорчені пальці, хрипкий голос мерця.\n\n\"Король Роланд, дозволь мені розповісти тобі бувальщину - про страждання й гнів, про біль і втрати. Колись був я великим магом Бракади. Але мене позбавили титулу і засудили до життя простого алхіміка за те, що понад усе я поклонявся мамоні. Але і тут... я досяг досконалості. Ніхто не міг перевершити мене ні як коваля, ні як алхіміка. Були ті, хто шанував мене як героя. Я кував зброю для королів і священиків, лордів і розбійників. Всі та всяк міг купити мою майстерність, Світло і Тінь - були б гроші. Я шанував всіх без розбору. Але потім з'явився Ксерон і зажадав жахливої речі. Я вирішив - ось мій шанс помститися всім, хто вважав себе вищим за мене, всім, хто мене використовував - лише тому, що був багатшим. Гординя засліпила мене і я не зміг розгледіти, що Ксерон і є зло. За це я поплатився і життям, і безсмертною душею.\n\nЯ несу тобі, Роланде Айронфіст, застереження: ти ступив на шлях Темряви. Він розведе тебе з дружиною і сином. Поверни назад; прощення ще можливе. Не послухаєш мене - повториш долю Арчибальда. Можливо, ти вже й не той захоплений молодий чоловік, але не втрачай же на додачу доброї душі і благородного серця\".\n\nСтарець зникає. З темряви випливає інший старий - покійний король Айронфіст. Роланд встиг забути його риси; зі смерті улюбленого батька минули довгі роки. І знову пам'ять наповнилася болем і приниженням, заподіяними рідним братом. Але наповнилася вона і силою, що кипіла тоді в грудях, і бажанням жити, яке вело його крізь Спадкові Війни. У погляді батька тліє розчарування. Він повільно хитає головою і розчиняється в тумані смерті.\n\nРоланд прокинувся з простягнутими руками та ім'ям батька на вустах. Всього лише сон... Він стомлено заплющив очі, намагаючись відігнати видіння: батько відвернувся від нього... І Роланд зрозумів, що означали видіння про Казандара і лист Катерини. Він швидко одягнувся і послав за священиком. Він зійшов зі шляху Світла, настав час повернутися."
+  }
+]

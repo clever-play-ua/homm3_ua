@@ -1,0 +1,212 @@
+[
+  {
+    "var": "FINAL_M2_prolog",
+    "field": "wrapper_prolog",
+    "en": "The town of Hartferd has remained independent because the two lords of this region have been too busy fighting each other to turn their greedy eyes on new territories.  Recent rumors place the Legion artifact in the vicinity, so life in Hartferd is likely to get a bit more complicated.",
+    "ua": "Місто Хартферд залишилося незалежним, бо два лорди цих місць були дуже зайняті війною один проти одного, щоб звернути увагу на нові території. За останніми чутками, артефакти, що становлять Статую Легіонера, перебувають десь поблизу, тому життя в Хартферді стає все більш складним."
+  },
+  {
+    "var": "FINAL_M2_epilog",
+    "field": "wrapper_epilog",
+    "en": "On my way to visit some relatives in Erathia, I came across a village that had its sacred artifact, The Head of Legion, stolen.  The mayor wants the head back as well as the other pieces of Legion, if I can find them.  This is just what I need to lift my spirits, some fun!",
+    "ua": "Я їхав в Ерафію і потрапив в село, з якого викрали місцевий талісман - Голову Легіонера. Староста хоче повернути голову, а заодно отримати і інші частини Легіонера, якщо, звичайно, я зможу їх знайти. Ось такого дільця мені якраз і не вистачало, щоб трохи розважитися!"
+  },
+  {
+    "var": "FINAL_M2_map_name",
+    "field": "map_map_name",
+    "en": "Gathering the Legion",
+    "ua": "У пошуках Легіонера"
+  },
+  {
+    "var": "FINAL_M2_map_desc",
+    "field": "map_map_desc",
+    "en": "Crag Hack must find all the pieces of Legion and return them to the town of Hartferd to win the scenario.  However, if Crag Hack is defeated in combat, the scenario is lost.  Crag Hack is limited to level 30 but will carry his experience, skills and spells on to his next scenario.",
+    "ua": "Для того щоб отримати перемогу в цьому сценарії, Краґ Хак повинен знайти всі частини статуї Легіонера і повернути їх жителям міста Хартферда. Якщо ж Краґ Хак програє хоча б один бій, сценарій закінчиться поразкою. Краґ Хак обмежений 30 рівнем, але він переходить у наступний сценарій."
+  },
+  {
+    "var": "FINAL_M2_p1_hero_name",
+    "field": "map_p1_hero_name",
+    "en": "Lord Chasim",
+    "ua": "Лорд Хасим"
+  },
+  {
+    "var": "FINAL_M2_p1_owned_hero_name",
+    "field": "map_p1_owned_hero_name",
+    "en": "Lord Chasim",
+    "ua": "Лорд Хасим"
+  },
+  {
+    "var": "FINAL_M2_p1_owned_hero_name",
+    "field": "map_p1_owned_hero_name",
+    "en": "Tyranell",
+    "ua": "Лорд Хасим"
+  },
+  {
+    "var": "FINAL_M2_p2_hero_name",
+    "field": "map_p2_hero_name",
+    "en": "Lord Velmor",
+    "ua": "Лорд Велмор"
+  },
+  {
+    "var": "FINAL_M2_p2_owned_hero_name",
+    "field": "map_p2_owned_hero_name",
+    "en": "Lord Velmor",
+    "ua": "Лорд Велмор"
+  },
+  {
+    "var": "FINAL_M2_obj0_town_name",
+    "field": "map_obj0_town_name",
+    "en": "Hartferd",
+    "ua": "Хартферд"
+  },
+  {
+    "var": "FINAL_M2_obj0_event_name",
+    "field": "map_obj0_event_name",
+    "en": "Hartferd builders",
+    "ua": "Hartferd builders"
+  },
+  {
+    "var": "FINAL_M2_obj0_event_mesg",
+    "field": "map_obj0_event_mesg",
+    "en": "The inhabitants of Hartferd are building up their town to help you.",
+    "ua": "Жителі Хартферда будують нові будівлі у своєму місті, бажаючи допомогти вам в добрій справі."
+  },
+  {
+    "var": "FINAL_M2_obj0_event_name",
+    "field": "map_obj0_event_name",
+    "en": "Build 2.",
+    "ua": "Hartferd builders"
+  },
+  {
+    "var": "FINAL_M2_obj0_event_mesg",
+    "field": "map_obj0_event_mesg",
+    "en": "The inhabitants of Hartferd are building up their town to help you.",
+    "ua": "Жителі Хартферда будують нові будівлі у своєму місті, бажаючи допомогти вам в добрій справі."
+  },
+  {
+    "var": "FINAL_M2_obj0_event_name",
+    "field": "map_obj0_event_name",
+    "en": "Building 3.",
+    "ua": "Hartferd builders"
+  },
+  {
+    "var": "FINAL_M2_obj0_event_mesg",
+    "field": "map_obj0_event_mesg",
+    "en": "The inhabitants of Hartferd are building up their town to help you.",
+    "ua": "Жителі Хартферда будують нові будівлі у своєму місті, бажаючи допомогти вам в добрій справі."
+  },
+  {
+    "var": "FINAL_M2_obj0_event_name",
+    "field": "map_obj0_event_name",
+    "en": "Building 4.",
+    "ua": "Hartferd builders"
+  },
+  {
+    "var": "FINAL_M2_obj0_event_mesg",
+    "field": "map_obj0_event_mesg",
+    "en": "The inhabitants of Hartferd are building up their town to help you.",
+    "ua": "Жителі Хартферда будують нові будівлі у своєму місті, бажаючи допомогти вам в добрій справі."
+  },
+  {
+    "var": "FINAL_M2_obj0_event_name",
+    "field": "map_obj0_event_name",
+    "en": "Building 5.",
+    "ua": "Hartferd builders"
+  },
+  {
+    "var": "FINAL_M2_obj0_event_mesg",
+    "field": "map_obj0_event_mesg",
+    "en": "The inhabitants of Hartferd are building up their town to help you.",
+    "ua": "Жителі Хартферда будують нові будівлі у своєму місті, бажаючи допомогти вам в добрій справі."
+  },
+  {
+    "var": "FINAL_M2_obj480_monster_mesg",
+    "field": "map_obj480_monster_mesg",
+    "en": "The fighting shall stop!  No one shall pass!",
+    "ua": "Тут не місце для кровопролиття! Далі не пройде ніхто!"
+  },
+  {
+    "var": "FINAL_M2_obj631_hero_name",
+    "field": "map_obj631_hero_name",
+    "en": "Lord Chasim",
+    "ua": "Лорд Хасим"
+  },
+  {
+    "var": "FINAL_M2_obj632_hero_name",
+    "field": "map_obj632_hero_name",
+    "en": "Lord Velmor",
+    "ua": "Лорд Велмор"
+  },
+  {
+    "var": "FINAL_M2_obj1009_monster_mesg",
+    "field": "map_obj1009_monster_mesg",
+    "en": "Please don't hurt us!  We'll do as you want, we promise!",
+    "ua": "Благаємо, не принесіть нам зла! Присягаємо, ми зробимо все так, як забажаєте!"
+  },
+  {
+    "var": "FINAL_M2_obj1174_guardian_mesg",
+    "field": "map_obj1174_guardian_mesg",
+    "en": "You find an old retainer of Tyranell's, discharged from the knight's service and sitting dejected in the sand.  You question him, and he tells you that Sandro was going to pay Tyranell well to find the Head and other pieces of Legion.  Tyranell is just waiting for authorities to give up the search for him to continue his quest.  For his information, you give the retainer some gold and send him on his way.",
+    "ua": "Перед собою ви бачите старого зброєносця Тіранела, якого той прогнав зі служби. Зброєносець відчужено колупається в піску і зберігає похмуре мовчання. У відповідь на ваше питання він повідомляє, що Сандро обіцяв добре заплатити Тіранелу, якщо той принесе йому Голову та інші частини Легіонера. Тіранел зараз затаївся, але як тільки полювання на нього припиниться, він негайно продовжить свої пошуки. У подяку за ці відомості ви вручаєте зброєносцю кілька золотих і відпускаєте на всі чотири сторони."
+  },
+  {
+    "var": "FINAL_M2_obj1196_quest_proposal",
+    "field": "map_obj1196_quest_proposal",
+    "en": "To pass to the tent beyond (giving you Island access) the guards want 8000 gold.",
+    "ua": "На сплату за доступ до намету (який відкриє вам шлях на острів) варта вимагає 8000 золотих."
+  },
+  {
+    "var": "FINAL_M2_obj1196_quest_completion",
+    "field": "map_obj1196_quest_completion",
+    "en": "The guards see you have the money to pass to the Island access tent.  Do you wish to pay the toll?",
+    "ua": "Вартові бачать, що у вас достатньо грошей, щоб заплатити за прохід до намету, що відкриває шлях на острів. Ви згодні розлучитися з необхідною сумою?"
+  },
+  {
+    "var": "FINAL_M2_obj1570_hero_name",
+    "field": "map_obj1570_hero_name",
+    "en": "Tyranell",
+    "ua": "Тіранел"
+  },
+  {
+    "var": "FINAL_M2_obj1724_quest_proposal",
+    "field": "map_obj1724_quest_proposal",
+    "en": "The guards here say they have orders to only let Crag Hack pass.",
+    "ua": "Вартові кажуть, що їм наказано пропустити одного тільки Краґа Хака, і нікого іншого."
+  },
+  {
+    "var": "FINAL_M2_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Hartferd day 1.",
+    "ua": "Hartferd day 1."
+  },
+  {
+    "var": "FINAL_M2_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "The days and weeks searching for Sandro after his betrayal have proven fruitless.  No one seems to have seen the wizard you describe.  Some recognize the name from somewhere but just shrug when asked who and where he might be.  Giving up for now, you decide to visit relatives who have moved from Krewlod into Erathia.\n\nWhile you pass through a town called Hartferd, its mayor, a portly balding man called Timis, accosts you at the inn you're staying in.\n\n\"Please help us, sir... Crag Hack, if I may call you that.  A matter of grave import has befallen us.  A knight named Tyranell has stolen our town artifact, the Head of Legion, from us.  The only reason Hartferd is on the map is because of this artifact, so it's important we get it back.  Also, it's rumored that the other pieces of the Legion artifact are around; perhaps you could find those for us too?  Once the full artifact is assembled, Hartferd would truly become a fabulous city.  We can't offer you much reward, but you would be celebrated as a true hero and always welcome here.\"\n\nAs Timis is speaking you can't help but think of once again having to find artifacts for someone.  Perhaps Sandro has his hand in this somehow.  You probably would have helped him anyway, but now they couldn't hold you back with two dozen horses.",
+    "ua": "Дні проходять за днями і складаються в тижні, а пошуки зрадника Сандро не дають результату. Ніхто в цих краях не бачив нікого, кого ви намагаєтеся описати словами. Декому ім'я здається знайомим, але варто їх запитати, хто ця людина, і де він зараз може бути - і у відповідь вони тільки знизують плечима. Ви вирішуєте на час припинити пошуки і відвідати родичів, які недавно переселилися з Крюлода в Ерафію. Шлях ваш йде через місто Хартферд; і ось в готелі, де зупинились на ночівлю, вас навідує місцевий міський голова – лисуватий та гладкуватий на ім'я Тиміс.\n\n«Будь ласка, допоможіть нам, мілорд... Краґ Хак, якщо тільки ви мені дозволите звертатись до вас на ім'я. Знайте ж, що на наше місто впало страшенне нещастя. Деякий лицар на ім'я Тиранелл викрав наш міський оберіг – Голову Легіонера. Самим своїм існуванням Хартферд завдячений цьому оберегу, і ми повинні за будь-яку ціну повернути його назад. Ще, були чутки, що десь поблизу приховані інші частини Легіонера, і от ми подумали, можливо ви відшукаєте їх для нас? Як би вам вдалося б зібрати Легіонера у всій його красі, Хартферд став би дійсно славетним містом. Ми не багаті і не можемо обіцяти щедру винагороду, але за це ми прославимо вашу подвиги на всю округу, і ви завжди будете нашим шановним гостем.»\n\nДоки Тиміс промовляє свою промову, ви розумієте, як не крути, а знову доведеться ганятись за артефактами. Можливо і тут не обійшлось без втручання клятого Сандро? Ви могли й так допомогти жителям Хартферда, але зараз тільки від одної думки про чаклуна, втримати вас вже ніхто і ніщо не зможе."
+  },
+  {
+    "var": "FINAL_M2_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Warring Knights",
+    "ua": "Warring Knights"
+  },
+  {
+    "var": "FINAL_M2_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "As you start out on your quest to find the Stolen Head and other pieces of Legion, a scout rides up and tells you there are two other knight factions in the region.  Both are looking, and neither is hospitable to outsiders.",
+    "ua": "Коли ви відправилися на пошуки викраденої Голови та інших частин Легіонера, до вас прибув розвідник і доповів, що на околицях нишпорять ще два лицарі зі своєю раттю. Обидва полюють за тими ж артефактами, і жоден з них не шанує суперників."
+  },
+  {
+    "var": "FINAL_M2_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Scout report.",
+    "ua": "Scout report."
+  },
+  {
+    "var": "FINAL_M2_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "Scouts report rumors that Tyranell (the knight who stole the Head of Legion) is hiding out somewhere on an Island in the southwest.  As for the other pieces, there is not much to go on other than they might be underground somewhere in the area.",
+    "ua": "Розвідники доносять, що, за чутками, Тіранел (той самий лицар, який викрав голову Легіонера) ховається на острові, що лежить на південному заході. Що ж до інших частин статуї, то відомості про них суперечливі, і ясно лише, що вони зариті десь в цих місцях."
+  }
+]

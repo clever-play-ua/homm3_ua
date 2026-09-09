@@ -1,0 +1,6446 @@
+[
+  {
+    "var": "EVIL1_1",
+    "en": "Dungeons and Devils",
+    "ua": "Підземелля і дияволи",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_2",
+    "en": "Erathian history has never recorded the fall of Steadwick to her enemies.  Today we start a glorious campaign to forever change this fact.  No longer will we allow Erathia to hamper our religious and economic ways of life.  We have the element of surprise.  We will soon have victory as well.",
+    "ua": "Ніколи за всю історію Ерафії Стедвік не корився ворогові. Сьогодні ми покладемо цьому край. Більше Ерафія не зможе вказувати нам, у що вірити і чим торгувати. Фактор несподіванки зіграє нам на руку. Перемога не за горами.",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_3",
+    "en": "Evil-1A.h3m",
+    "ua": "Evil-1A.h3m",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_4",
+    "en": "Before Erathia has a chance to call upon the elves of AvLee for assistance, we have decided to strike at the heart of AvLee's strength - the Gold Dragon Queen. By eliminating the elves' strongest ally, they will be unable to lend aid to Erathia.",
+    "ua": "Поки Ерафія не встигла покликати на допомогу Ав-Лі, ми вирішили вразити ельфів у саме серце - вбити Королеву золотих драконів. Якщо в нас вийде усунути таким чином найсильнішого союзника ельфів, їм не буде чого запропонувати ерафійцям.",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_5",
+    "en": null,
+    "ua": "На південно-східному березі Ерафії мешкає безліч ельфів. Їхні війська посилені зеленими і золотими драконами, споконвічними мешканцями тих місць. Перш ніж ми зможемо захопити ці території і піти війною на Стедвік, дракони повинні бути знищені. Наші союзники - криганці з Еофола випросили честі виконати цю місію. Криганці - люті воїни. Різанина буде їм до душі.",
+    "aligned": false
+  },
+  {
+    "var": "EVIL1_6",
+    "en": "Evil-1B.h3m",
+    "ua": "Evil-1B.h3m",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_7",
+    "en": "Our forces will cover most of the distance to the Erathian capitol by using underground tunnels. To maintain the element of surprise, you must attack any Erathian settlement you find. Use the vast network of caves in this area to accomplish this goal.",
+    "ua": "Велику частину шляху до столиці Ерафії наші війська подолають підземними тунелями. Щоб забезпечити фактор несподіванки, винищуйте всіх у кожному селищі на своєму шляху. Використовуйте розгалужену систему підземних печер.",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_8",
+    "en": "Reports claim a fleet of Enrothian warships have landed on the southern coast of Erathia. We do not know who commands this force, or its size. Through sources in Eeofol, we know Roland Ironfist cannot lead this fleet. Regardless, our plans remain unchanged.  We start the last phase of our underground invasion and solidify our position along the southeastern coast.  Afterwards, we can transport more reinforcements from Nighon.  We have dug the last tunnels to this area.  You will have the tactical advantage.",
+    "ua": null,
+    "aligned": false
+  },
+  {
+    "var": "EVIL1_9",
+    "en": "Evil-1c.h3m",
+    "ua": "Evil-1c.h3m",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_10",
+    "en": "Assault the Erathian capital of Steadwick. This won't be easy, as the capital is easily and well defended. To make matters worse, the force led by Queen Catherine is on the move. We must capture Steadwick before she arrives!",
+    "ua": "Пора захопити столицю Ерафії, Стедвік. Завдання не з легких: місто обороняє потужний гарнізон, здатний відбити будь-якого ворога. Що ще гірше, армія королеви Катерини вже на шляху сюди. Треба встигнути захопити Стедвік, поки не наспіло підкріплення!",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_11",
+    "en": "Catherine Ironfist has enlisted aid from Bracada and AvLee.  She knows we are close to Steadwick.  We must occupy Steadwick before she arrives.  Once we own Erathia's capitol, not even Catherine Ironfist will wrench it from our hands.",
+    "ua": "Катерина Айронфіст запросила допомоги у Бракади і Ав-Лі. Вона знає, як близько ми підійшли до Стедвіка. Ми повинні захопити його, поки вона не привела підкріплення. А вже варто нам заволодіти столицею Ерафії - і самій Катерині Айронфіст не вирвати її з наших рук.",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_12",
+    "en": "A Devilish Plan",
+    "ua": "Диявольський план",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_13",
+    "en": "To win, you must find and kill the Gold Dragon Queen. Your Heroes will be limited to 12th level in this scenario, but your 8 strongest Heroes will be available to you in the final scenario of this campaign.",
+    "ua": "Щоб здобути перемогу, вам доведеться знайти Королеву Золотих Драконів і покінчити з нею. У цьому сценарії ваші герої зможуть піднятися лише до дванадцятого рівня, але вісім найсильніших з них перейдуть з вами до останнього сценарію цієї кампанії.",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_14",
+    "en": "Hint 1",
+    "ua": "Hint 1",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_15",
+    "en": "There is a man in the southwest who has access to the Dragons Dale.",
+    "ua": "На південному заході є людина, яка знає, як потрапити в Долину Драконів.",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_16",
+    "en": "AVWmrnd0.def",
+    "ua": "AVWmrnd0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_17",
+    "en": "AVLholg0.def",
+    "ua": "AVLholg0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_18",
+    "en": "AVLmtvo1.def",
+    "ua": "AVLmtvo1.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_19",
+    "en": "AVLmtvo2.def",
+    "ua": "AVLmtvo2.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_20",
+    "en": "AVLmtvo4.def",
+    "ua": "AVLmtvo4.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_21",
+    "en": "AVCinft0.def",
+    "ua": "AVCinft0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_22",
+    "en": "AVLlv190.def",
+    "ua": "AVLlv190.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_23",
+    "en": "AVLlav60.def",
+    "ua": "AVLlav60.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_24",
+    "en": "AVLlav30.def",
+    "ua": "AVLlav30.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_25",
+    "en": "AVLvol50.def",
+    "ua": "AVLvol50.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_26",
+    "en": "AVLlav40.def",
+    "ua": "AVLlav40.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_27",
+    "en": "AVLlv200.def",
+    "ua": "AVLlv200.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_28",
+    "en": "AVLlv210.def",
+    "ua": "AVLlv210.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_29",
+    "en": "AVCramp0.def",
+    "ua": "AVCramp0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_30",
+    "en": "AVLPNTR3.def",
+    "ua": "AVLPNTR3.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_31",
+    "en": "AVLPNTR4.def",
+    "ua": "AVLPNTR4.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_32",
+    "en": "AVLPNTR5.def",
+    "ua": "AVLPNTR5.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_33",
+    "en": "AVLpntr6.def",
+    "ua": "AVLpntr6.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_34",
+    "en": "AVLpntr7.def",
+    "ua": "AVLpntr7.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_35",
+    "en": "AVLPNTR2.def",
+    "ua": "AVLPNTR2.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_36",
+    "en": "AVLmtgr1.def",
+    "ua": "AVLmtgr1.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_37",
+    "en": "AVLmtgr4.def",
+    "ua": "AVLmtgr4.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_38",
+    "en": "AVLmtgr3.def",
+    "ua": "AVLmtgr3.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_39",
+    "en": "AVLmtgr5.def",
+    "ua": "AVLmtgr5.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_40",
+    "en": "AVLmtgr6.def",
+    "ua": "AVLmtgr6.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_41",
+    "en": "AVLmtgr2.def",
+    "ua": "AVLmtgr2.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_42",
+    "en": "AVCcast0.def",
+    "ua": "AVCcast0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_43",
+    "en": "AVLtr1d0.def",
+    "ua": "AVLtr1d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_44",
+    "en": "AVLtr2d0.def",
+    "ua": "AVLtr2d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_45",
+    "en": "AVLPNTR0.def",
+    "ua": "AVLPNTR0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_46",
+    "en": "AVLPNTR1.def",
+    "ua": "AVLPNTR1.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_47",
+    "en": "AVLAUTR2.def",
+    "ua": "AVLAUTR2.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_48",
+    "en": "AVLAUTR4.def",
+    "ua": "AVLAUTR4.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_49",
+    "en": "AVLautr6.def",
+    "ua": "AVLautr6.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_50",
+    "en": "AVLautr7.def",
+    "ua": "AVLautr7.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_51",
+    "en": "AVLAUTR5.def",
+    "ua": "AVLAUTR5.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_52",
+    "en": "AVLAUTR3.def",
+    "ua": "AVLAUTR3.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_53",
+    "en": "avlautr1.def",
+    "ua": "avlautr1.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_54",
+    "en": "avlautr0.def",
+    "ua": "avlautr0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_55",
+    "en": "AvTCave.def",
+    "ua": "AvTCave.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_56",
+    "en": "AVXbor10.def",
+    "ua": "AVXbor10.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_57",
+    "en": "AVXkey10.def",
+    "ua": "AVXkey10.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_58",
+    "en": "AVXbor20.def",
+    "ua": "AVXbor20.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_59",
+    "en": "AVXkey20.def",
+    "ua": "AVXkey20.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_60",
+    "en": "AVXeyem0.def",
+    "ua": "AVXeyem0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_61",
+    "en": "AVXhutm0.def",
+    "ua": "AVXhutm0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_62",
+    "en": "AVMsawg0.def",
+    "ua": "AVMsawg0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_63",
+    "en": "AVMore0.def",
+    "ua": "AVMore0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_64",
+    "en": "AVMgems0.def",
+    "ua": "AVMgems0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_65",
+    "en": "AVMsulf0.def",
+    "ua": "AVMsulf0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_66",
+    "en": "AVLlv160.def",
+    "ua": "AVLlv160.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_67",
+    "en": "AVMalch0.def",
+    "ua": "AVMalch0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_68",
+    "en": "AVMgogr0.def",
+    "ua": "AVMgogr0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_69",
+    "en": "AVZevnt0.def",
+    "ua": "AVZevnt0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_70",
+    "en": "AVWdrag0.def",
+    "ua": "AVWdrag0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_71",
+    "en": "AvXRedW.def",
+    "ua": "AvXRedW.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_72",
+    "en": "AVMsulf0.def",
+    "ua": "AVMsulf0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_73",
+    "en": "AVLlk2g0.def",
+    "ua": "AVLlk2g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_74",
+    "en": "AVLlk3g0.def",
+    "ua": "AVLlk3g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_75",
+    "en": "AVLlk1g0.def",
+    "ua": "AVLlk1g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_76",
+    "en": "AVLf01g0.def",
+    "ua": "AVLf01g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_77",
+    "en": "AVLct3g0.def",
+    "ua": "AVLct3g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_78",
+    "en": "AVLct5g0.def",
+    "ua": "AVLct5g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_79",
+    "en": "AVLct6g0.def",
+    "ua": "AVLct6g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_80",
+    "en": "AVLct1g0.def",
+    "ua": "AVLct1g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_81",
+    "en": "AVLct2g0.def",
+    "ua": "AVLct2g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_82",
+    "en": "AVSgzbo0.def",
+    "ua": "AVSgzbo0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_83",
+    "en": "AVLmd1g0.def",
+    "ua": "AVLmd1g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_84",
+    "en": "AVLmd2g0.def",
+    "ua": "AVLmd2g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_85",
+    "en": "AVLf09g0.def",
+    "ua": "AVLf09g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_86",
+    "en": "AVLsh3g0.def",
+    "ua": "AVLsh3g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_87",
+    "en": "AVLsh5g0.def",
+    "ua": "AVLsh5g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_88",
+    "en": "AVLsh6g0.def",
+    "ua": "AVLsh6g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_89",
+    "en": "AVXl1sh0.def",
+    "ua": "AVXl1sh0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_90",
+    "en": "AVXl2sh0.def",
+    "ua": "AVXl2sh0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_91",
+    "en": "AVXl3sh0.def",
+    "ua": "AVXl3sh0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_92",
+    "en": "AVXsanc0.def",
+    "ua": "AVXsanc0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_93",
+    "en": "AVXschl0.def",
+    "ua": "AVXschl0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_94",
+    "en": "AVXtomb0.def",
+    "ua": "AVXtomb0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_95",
+    "en": "AvSMarl.def",
+    "ua": "AvSMarl.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_96",
+    "en": "AVSmerc0.def",
+    "ua": "AVSmerc0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_97",
+    "en": "AVXtvrn0.def",
+    "ua": "AVXtvrn0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_98",
+    "en": "AVXbnk20.def",
+    "ua": "AVXbnk20.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_99",
+    "en": "AVXrlly0.def",
+    "ua": "AVXrlly0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_100",
+    "en": "AVXwelr0.def",
+    "ua": "AVXwelr0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_101",
+    "en": "AVGrefg0.def",
+    "ua": "AVGrefg0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_102",
+    "en": "AVGcros0.def",
+    "ua": "AVGcros0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_103",
+    "en": "AVGpike0.def",
+    "ua": "AVGpike0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_104",
+    "en": "AVGdwrf0.def",
+    "ua": "AVGdwrf0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_105",
+    "en": "AVGelf0.def",
+    "ua": "AVGelf0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_106",
+    "en": "adcfra.def",
+    "ua": "adcfra.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_107",
+    "en": "AVSidol0.def",
+    "ua": "AVSidol0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_108",
+    "en": "AVSfntn0.def",
+    "ua": "AVSfntn0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_109",
+    "en": "AVSring0.def",
+    "ua": "AVSring0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_110",
+    "en": "AVXhilg0.def",
+    "ua": "AVXhilg0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_111",
+    "en": "AVXpost0.def",
+    "ua": "AVXpost0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_112",
+    "en": "AVXgyne0.def",
+    "ua": "AVXgyne0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_113",
+    "en": "AVLsh4g0.def",
+    "ua": "AVLsh4g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_114",
+    "en": "AVLf08g0.def",
+    "ua": "AVLf08g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_115",
+    "en": "AVXfyth0.def",
+    "ua": "AVXfyth0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_116",
+    "en": "AVStmpl0.def",
+    "ua": "AVStmpl0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_117",
+    "en": "AVXstbl0.def",
+    "ua": "AVXstbl0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_118",
+    "en": "AvLRG01.def",
+    "ua": "AvLRG01.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_119",
+    "en": "AvLRG02.def",
+    "ua": "AvLRG02.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_120",
+    "en": "AvLRG10.def",
+    "ua": "AvLRG10.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_121",
+    "en": "AVLoc3g0.def",
+    "ua": "AVLoc3g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_122",
+    "en": "AVLoc1g0.def",
+    "ua": "AVLoc1g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_123",
+    "en": "AVTchst0.def",
+    "ua": "AVTchst0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_124",
+    "en": "AVTwood0.def",
+    "ua": "AVTwood0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_125",
+    "en": "AVTmerc0.def",
+    "ua": "AVTmerc0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_126",
+    "en": "AVTgems0.def",
+    "ua": "AVTgems0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_127",
+    "en": "AVTcrys0.def",
+    "ua": "AVTcrys0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_128",
+    "en": "AVTore0.def",
+    "ua": "AVTore0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_129",
+    "en": "AVTsulf0.def",
+    "ua": "AVTsulf0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_130",
+    "en": "AVArnd1.def",
+    "ua": "AVArnd1.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_131",
+    "en": "AVArnd2.def",
+    "ua": "AVArnd2.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_132",
+    "en": "AVArnd3.def",
+    "ua": "AVArnd3.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_133",
+    "en": "AVMcrvo0.def",
+    "ua": "AVMcrvo0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_134",
+    "en": "AVMcrgr0.def",
+    "ua": "AVMcrgr0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_135",
+    "en": "AVTrndm0.def",
+    "ua": "AVTrndm0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_136",
+    "en": "AVWmon3.def",
+    "ua": "AVWmon3.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_137",
+    "en": "AVWmon1.def",
+    "ua": "AVWmon1.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_138",
+    "en": "AVWmon5.def",
+    "ua": "AVWmon5.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_139",
+    "en": "AvLRG03.def",
+    "ua": "AvLRG03.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_140",
+    "en": "AVWmon2.def",
+    "ua": "AVWmon2.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_141",
+    "en": "AVWmon4.def",
+    "ua": "AVWmon4.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_142",
+    "en": "AvWLCrs.def",
+    "ua": "AvWLCrs.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_143",
+    "en": "AvWPike.def",
+    "ua": "AvWPike.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_144",
+    "en": "AVWcent0.def",
+    "ua": "AVWcent0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_145",
+    "en": "AVWdwrf0.def",
+    "ua": "AVWdwrf0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_146",
+    "en": "AVWdwrx0.def",
+    "ua": "AVWdwrx0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_147",
+    "en": "AVWelfw0.def",
+    "ua": "AVWelfw0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_148",
+    "en": "AVLPNTR3.def",
+    "ua": "AVLPNTR3.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_149",
+    "en": "AVLpntr7.def",
+    "ua": "AVLpntr7.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_150",
+    "en": "AVLpntr6.def",
+    "ua": "AVLpntr6.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_151",
+    "en": "AVLPNTR2.def",
+    "ua": "AVLPNTR2.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_152",
+    "en": "AVLPNTR0.def",
+    "ua": "AVLPNTR0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_153",
+    "en": "AVLSPTR0.def",
+    "ua": "AVLSPTR0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_154",
+    "en": "AVLtr1d0.def",
+    "ua": "AVLtr1d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_155",
+    "en": "AVLSPTR3.def",
+    "ua": "AVLSPTR3.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_156",
+    "en": "AVLsptr8.def",
+    "ua": "AVLsptr8.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_157",
+    "en": "AVLSPTR5.def",
+    "ua": "AVLSPTR5.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_158",
+    "en": "AVLmtgr3.def",
+    "ua": "AVLmtgr3.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_159",
+    "en": "AVLmtgr6.def",
+    "ua": "AVLmtgr6.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_160",
+    "en": "AVLPNTR5.def",
+    "ua": "AVLPNTR5.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_161",
+    "en": "AVLPNTR4.def",
+    "ua": "AVLPNTR4.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_162",
+    "en": "AVLSPTR6.def",
+    "ua": "AVLSPTR6.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_163",
+    "en": "AVLSPTR1.def",
+    "ua": "AVLSPTR1.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_164",
+    "en": "AVLsptr7.def",
+    "ua": "AVLsptr7.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_165",
+    "en": "AVLSPTR4.def",
+    "ua": "AVLSPTR4.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_166",
+    "en": "AVLf03g0.def",
+    "ua": "AVLf03g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_167",
+    "en": "AVLman30.def",
+    "ua": "AVLman30.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_168",
+    "en": "AVLman10.def",
+    "ua": "AVLman10.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_169",
+    "en": "AVLman50.def",
+    "ua": "AVLman50.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_170",
+    "en": "AVLf07g0.def",
+    "ua": "AVLf07g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_171",
+    "en": "AVLf12g0.def",
+    "ua": "AVLf12g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_172",
+    "en": "AVLman40.def",
+    "ua": "AVLman40.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_173",
+    "en": "AVLfl6d0.def",
+    "ua": "AVLfl6d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_174",
+    "en": "AVLsh4g0.def",
+    "ua": "AVLsh4g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_175",
+    "en": "AvLRG06.def",
+    "ua": "AvLRG06.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_176",
+    "en": "AvLRG09.def",
+    "ua": "AvLRG09.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_177",
+    "en": "AvLRG04.def",
+    "ua": "AvLRG04.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_178",
+    "en": "AVLsh2g0.def",
+    "ua": "AVLsh2g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_179",
+    "en": "AVLtr2d0.def",
+    "ua": "AVLtr2d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_180",
+    "en": "AVLsh5g0.def",
+    "ua": "AVLsh5g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_181",
+    "en": "AvLRG11.def",
+    "ua": "AvLRG11.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_182",
+    "en": "AVLfl7d0.def",
+    "ua": "AVLfl7d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_183",
+    "en": "AVLf09g0.def",
+    "ua": "AVLf09g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_184",
+    "en": "AVLf05g0.def",
+    "ua": "AVLf05g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_185",
+    "en": "AVLmoss0.def",
+    "ua": "AVLmoss0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_186",
+    "en": "AvLRG05.def",
+    "ua": "AvLRG05.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_187",
+    "en": "AVLoc2g0.def",
+    "ua": "AVLoc2g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_188",
+    "en": "AVLtr3d0.def",
+    "ua": "AVLtr3d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_189",
+    "en": "AvLRG03.def",
+    "ua": "AvLRG03.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_190",
+    "en": "AVMwndd0.def",
+    "ua": "AVMwndd0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_191",
+    "en": "AVLf11g0.def",
+    "ua": "AVLf11g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_192",
+    "en": "AVLf04g0.def",
+    "ua": "AVLf04g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_193",
+    "en": "AVLfl4d0.def",
+    "ua": "AVLfl4d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_194",
+    "en": "AVLman20.def",
+    "ua": "AVLman20.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_195",
+    "en": "AvLRG08.def",
+    "ua": "AvLRG08.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_196",
+    "en": "AVLSPTR2.def",
+    "ua": "AVLSPTR2.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_197",
+    "en": "AVLf02g0.def",
+    "ua": "AVLf02g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_198",
+    "en": "AVSgrdn0.def",
+    "ua": "AVSgrdn0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_199",
+    "en": "avlautr0.def",
+    "ua": "avlautr0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_200",
+    "en": "AVLf06g0.def",
+    "ua": "AVLf06g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_201",
+    "en": "AVLfl5d0.def",
+    "ua": "AVLfl5d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_202",
+    "en": "AVLfl1d0.def",
+    "ua": "AVLfl1d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_203",
+    "en": "AvLRG10.def",
+    "ua": "AvLRG10.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_204",
+    "en": "AVLvol10.def",
+    "ua": "AVLvol10.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_205",
+    "en": "AVLvol40.def",
+    "ua": "AVLvol40.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_206",
+    "en": "AVLvol30.def",
+    "ua": "AVLvol30.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_207",
+    "en": "AvLRD02.def",
+    "ua": "AvLRD02.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_208",
+    "en": "AVLsh3g0.def",
+    "ua": "AVLsh3g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_209",
+    "en": "AVSaxis0.def",
+    "ua": "AVSaxis0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_210",
+    "en": "AvLRG02.def",
+    "ua": "AvLRG02.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_211",
+    "en": "AVLoc3g0.def",
+    "ua": "AVLoc3g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_212",
+    "en": "avlautr1.def",
+    "ua": "avlautr1.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_213",
+    "en": "AVLct2g0.def",
+    "ua": "AVLct2g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_214",
+    "en": "AvLRG11.def",
+    "ua": "AvLRG11.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_215",
+    "en": "AVLct6g0.def",
+    "ua": "AVLct6g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_216",
+    "en": "AvLdlog.def",
+    "ua": "AvLdlog.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_217",
+    "en": "AVLct5g0.def",
+    "ua": "AVLct5g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_218",
+    "en": "AVLf01g0.def",
+    "ua": "AVLf01g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_219",
+    "en": "AVLf10g0.def",
+    "ua": "AVLf10g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_220",
+    "en": "AVLholg0.def",
+    "ua": "AVLholg0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_221",
+    "en": "AVLf08g0.def",
+    "ua": "AVLf08g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_222",
+    "en": "AVLsh4d0.def",
+    "ua": "AVLsh4d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_223",
+    "en": "AVLsh1g0.def",
+    "ua": "AVLsh1g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_224",
+    "en": "AVLfl8d0.def",
+    "ua": "AVLfl8d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_225",
+    "en": "AVLmtgn0.def",
+    "ua": "AVLmtgn0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_226",
+    "en": "AVLmtgn3.def",
+    "ua": "AVLmtgn3.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_227",
+    "en": "AVLmtgn4.def",
+    "ua": "AVLmtgn4.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_228",
+    "en": "AVLmtgn2.def",
+    "ua": "AVLmtgn2.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_229",
+    "en": "AVLmtgn5.def",
+    "ua": "AVLmtgn5.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_230",
+    "en": "AVLmtgn1.def",
+    "ua": "AVLmtgn1.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_231",
+    "en": "AVLmd2g0.def",
+    "ua": "AVLmd2g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_232",
+    "en": "AVLmd1g0.def",
+    "ua": "AVLmd1g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_233",
+    "en": "AvLStm2.def",
+    "ua": "AvLStm2.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_234",
+    "en": "AVLlk2g0.def",
+    "ua": "AVLlk2g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_235",
+    "en": "AvLRG01.def",
+    "ua": "AvLRG01.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_236",
+    "en": "AVLct4g0.def",
+    "ua": "AVLct4g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_237",
+    "en": "AVLsh5d0.def",
+    "ua": "AVLsh5d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_238",
+    "en": "AVLPNTR1.def",
+    "ua": "AVLPNTR1.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_239",
+    "en": "AvLRD01.def",
+    "ua": "AvLRD01.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_240",
+    "en": "AVLsh6g0.def",
+    "ua": "AVLsh6g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_241",
+    "en": "AVLoc1g0.def",
+    "ua": "AVLoc1g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_242",
+    "en": "AVLf12g0.def",
+    "ua": "AVLf12g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_243",
+    "en": "AVLrk3d0.def",
+    "ua": "AVLrk3d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_244",
+    "en": "AVLct1g0.def",
+    "ua": "AVLct1g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_245",
+    "en": "AVLf10g0.def",
+    "ua": "AVLf10g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_246",
+    "en": "AVLrk5d0.def",
+    "ua": "AVLrk5d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_247",
+    "en": "AVLAUTR2.def",
+    "ua": "AVLAUTR2.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_248",
+    "en": "AVGcent0.def",
+    "ua": "AVGcent0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_249",
+    "en": "AVLfl2d0.def",
+    "ua": "AVLfl2d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_250",
+    "en": "AvLRG07.def",
+    "ua": "AvLRG07.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_251",
+    "en": "AVLlk1g0.def",
+    "ua": "AVLlk1g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_252",
+    "en": "AVLf06g0.def",
+    "ua": "AVLf06g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_253",
+    "en": "AVLrk1s0.def",
+    "ua": "AVLrk1s0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_254",
+    "en": "AVLrk3s0.def",
+    "ua": "AVLrk3s0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_255",
+    "en": "AVLs02s0.def",
+    "ua": "AVLs02s0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_256",
+    "en": "AVLf11g0.def",
+    "ua": "AVLf11g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_257",
+    "en": "AvLRG08.def",
+    "ua": "AvLRG08.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_258",
+    "en": "AVLct3g0.def",
+    "ua": "AVLct3g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_259",
+    "en": "AvLRG04.def",
+    "ua": "AvLRG04.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_260",
+    "en": "AVSclvg0.def",
+    "ua": "AVSclvg0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_261",
+    "en": "AvLStm1.def",
+    "ua": "AvLStm1.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_262",
+    "en": "AVLs01s0.def",
+    "ua": "AVLs01s0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_263",
+    "en": "AVSwtch0.def",
+    "ua": "AVSwtch0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_264",
+    "en": "AVTmyst0.def",
+    "ua": "AVTmyst0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_265",
+    "en": "AvLRD04.def",
+    "ua": "AvLRD04.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_266",
+    "en": "AVLlk3g0.def",
+    "ua": "AVLlk3g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_267",
+    "en": "AVLs06s0.def",
+    "ua": "AVLs06s0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_268",
+    "en": "AVLs10s0.def",
+    "ua": "AVLs10s0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_269",
+    "en": "AVLrk4s0.def",
+    "ua": "AVLrk4s0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_270",
+    "en": "AVLrk2s0.def",
+    "ua": "AVLrk2s0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_271",
+    "en": "AVLmtgr1.def",
+    "ua": "AVLmtgr1.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_272",
+    "en": "AVLmtgr4.def",
+    "ua": "AVLmtgr4.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_273",
+    "en": "AVLswp70.def",
+    "ua": "AVLswp70.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_274",
+    "en": "AVTgold0.def",
+    "ua": "AVTgold0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_275",
+    "en": "AVWdrax0.def",
+    "ua": "AVWdrax0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_276",
+    "en": "AVLdun10.def",
+    "ua": "AVLdun10.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_277",
+    "en": "AVLca050.def",
+    "ua": "AVLca050.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_278",
+    "en": "AVLca070.def",
+    "ua": "AVLca070.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_279",
+    "en": "AVLca010.def",
+    "ua": "AVLca010.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_280",
+    "en": "AVLms020.def",
+    "ua": "AVLms020.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_281",
+    "en": "AVLdead0.def",
+    "ua": "AVLdead0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_282",
+    "en": "AVLms040.def",
+    "ua": "AVLms040.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_283",
+    "en": "AVLlk1u0.def",
+    "ua": "AVLlk1u0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_284",
+    "en": "AVLlk2u0.def",
+    "ua": "AVLlk2u0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_285",
+    "en": "AVLms120.def",
+    "ua": "AVLms120.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_286",
+    "en": "AVLms100.def",
+    "ua": "AVLms100.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_287",
+    "en": "AVLms110.def",
+    "ua": "AVLms110.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_288",
+    "en": "AVLms080.def",
+    "ua": "AVLms080.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_289",
+    "en": "AVLms090.def",
+    "ua": "AVLms090.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_290",
+    "en": "AVLms050.def",
+    "ua": "AVLms050.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_291",
+    "en": "AVLms030.def",
+    "ua": "AVLms030.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_292",
+    "en": "AVLoc2r0.def",
+    "ua": "AVLoc2r0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_293",
+    "en": "AVLr11r0.def",
+    "ua": "AVLr11r0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_294",
+    "en": "AVLr14r0.def",
+    "ua": "AVLr14r0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_295",
+    "en": "AVLr15r0.def",
+    "ua": "AVLr15r0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_296",
+    "en": "avlsh9r0.def",
+    "ua": "avlsh9r0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_297",
+    "en": "avlsh7r0.def",
+    "ua": "avlsh7r0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_298",
+    "en": "AVLyuc30.def",
+    "ua": "AVLyuc30.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_299",
+    "en": "AVLlk3u0.def",
+    "ua": "AVLlk3u0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_300",
+    "en": "AVLr07r0.def",
+    "ua": "AVLr07r0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_301",
+    "en": "AVLr13r0.def",
+    "ua": "AVLr13r0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_302",
+    "en": "AVLca110.def",
+    "ua": "AVLca110.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_303",
+    "en": "AVLca090.def",
+    "ua": "AVLca090.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_304",
+    "en": "AVLca080.def",
+    "ua": "AVLca080.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_305",
+    "en": "AVLhlds0.def",
+    "ua": "AVLhlds0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_306",
+    "en": "AVLdun20.def",
+    "ua": "AVLdun20.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_307",
+    "en": "AVLca100.def",
+    "ua": "AVLca100.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_308",
+    "en": "AVLr03r0.def",
+    "ua": "AVLr03r0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_309",
+    "en": "AVLskul0.def",
+    "ua": "AVLskul0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_310",
+    "en": "AVLms070.def",
+    "ua": "AVLms070.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_311",
+    "en": "Your scouts report that the immediate area is rich in resources, and that to the south there is a shaman who is familiar with this area and might be willing to help us.",
+    "ua": "Розвідники доповідають, що ці краї багаті корисними копалинами. На півдні живе шаман, який добре знає місцевість і, можливо, погодиться допомогти нам.",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_312",
+    "en": "Intro",
+    "ua": "Intro",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_313",
+    "en": "Our underlings have done well. They have managed to raise a volcano and erect a fort in a sparsely populated forest just outside of Erathia's border. While the Dungeon Overlords make their way underground toward the Erathian capitol, you must strike at their allies, the elves of AvLee.",
+    "ua": "Наші люди постаралися на славу. Їм вдалося пробудити вулкан і побудувати форт в малонаселеному лісі, що поблизу кордону з Ерафією. Поки Володарі Підземелля пробираються до столиці Ерафії під землею, завдайте удару їхнім союзникам, ельфам з Ав-Лі.",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_314",
+    "en": "Intro Part 2",
+    "ua": "Intro Part 2",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_315",
+    "en": "The Gold Dragon Queen is a powerful ally of AvLee. You must find her lair and see to her demise, as this will greatly weaken the elves and make them less of a threat to our plans to destroy Erathia. Go now, and make us proud!",
+    "ua": "Королева Золотих Драконів - могутній союзник Ав-Лі. Ви повинні відшукати її лігво і змусити відректися від престолу. Це сильно послабить позиції ельфів, тоді вони вже не будуть представляти загрозу нашим планам зруйнувати Ерафію. Отже, вперед, прославте наше ім'я!",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_316",
+    "en": "Groundbreaking",
+    "ua": "Нова справа",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_317",
+    "en": "To win, you must capture all enemy towns and castles and defeat all enemy heroes. Your Heroes will be limited to 12th level in this scenario, but your 8 strongest Heroes will be available to you in the final scenario of this campaign.",
+    "ua": "Щоб перемогти, вам потрібно захопити всі ворожі міста і замки та розгромити всіх героїв противника. У цьому сценарії ваші герої зможуть піднятися лише до дванадцятого рівня, але вісім найсильніших з них перейдуть з вами до останнього сценарію цієї кампанії.",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_318",
+    "en": "AVWmrnd0.def",
+    "ua": "AVWmrnd0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_319",
+    "en": "AVLholg0.def",
+    "ua": "AVLholg0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_320",
+    "en": "AVLsptr8.def",
+    "ua": "AVLsptr8.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_321",
+    "en": "AVLsptr7.def",
+    "ua": "AVLsptr7.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_322",
+    "en": "AVLSPTR5.def",
+    "ua": "AVLSPTR5.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_323",
+    "en": "AVLSPTR6.def",
+    "ua": "AVLSPTR6.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_324",
+    "en": "AVLSPTR4.def",
+    "ua": "AVLSPTR4.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_325",
+    "en": "AVLSPTR3.def",
+    "ua": "AVLSPTR3.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_326",
+    "en": "AVLSPTR1.def",
+    "ua": "AVLSPTR1.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_327",
+    "en": "AVLSPTR0.def",
+    "ua": "AVLSPTR0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_328",
+    "en": "AVCcast0.def",
+    "ua": "AVCcast0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_329",
+    "en": "AvTCave.def",
+    "ua": "AvTCave.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_330",
+    "en": "AVCramp0.def",
+    "ua": "AVCramp0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_331",
+    "en": "AVLSPTR2.def",
+    "ua": "AVLSPTR2.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_332",
+    "en": "AVCtowr0.def",
+    "ua": "AVCtowr0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_333",
+    "en": "AVLmtgr2.def",
+    "ua": "AVLmtgr2.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_334",
+    "en": "AVLmtgr4.def",
+    "ua": "AVLmtgr4.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_335",
+    "en": "AVLmtgr6.def",
+    "ua": "AVLmtgr6.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_336",
+    "en": "AVLmtgr5.def",
+    "ua": "AVLmtgr5.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_337",
+    "en": "AVLmtgr1.def",
+    "ua": "AVLmtgr1.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_338",
+    "en": "AVLmtgr3.def",
+    "ua": "AVLmtgr3.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_339",
+    "en": "AVXhutm0.def",
+    "ua": "AVXhutm0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_340",
+    "en": "AVXeyem0.def",
+    "ua": "AVXeyem0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_341",
+    "en": "AVMsawg0.def",
+    "ua": "AVMsawg0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_342",
+    "en": "AVMcrgr0.def",
+    "ua": "AVMcrgr0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_343",
+    "en": "AVMore0.def",
+    "ua": "AVMore0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_344",
+    "en": "AVMsulf0.def",
+    "ua": "AVMsulf0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_345",
+    "en": "AVMalch0.def",
+    "ua": "AVMalch0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_346",
+    "en": "AVLtr2d0.def",
+    "ua": "AVLtr2d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_347",
+    "en": "AVMsulf0.def",
+    "ua": "AVMsulf0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_348",
+    "en": "AVMgodr0.def",
+    "ua": "AVMgodr0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_349",
+    "en": "avlmtdr5.def",
+    "ua": "avlmtdr5.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_350",
+    "en": "AVLlk3g0.def",
+    "ua": "AVLlk3g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_351",
+    "en": "AVLlk2g0.def",
+    "ua": "AVLlk2g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_352",
+    "en": "AVLlk3s0.def",
+    "ua": "AVLlk3s0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_353",
+    "en": "AVLrk3s0.def",
+    "ua": "AVLrk3s0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_354",
+    "en": "AVLdt2s0.def",
+    "ua": "AVLdt2s0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_355",
+    "en": "AVLrk5d0.def",
+    "ua": "AVLrk5d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_356",
+    "en": "AVLsh4d0.def",
+    "ua": "AVLsh4d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_357",
+    "en": "AVLsh7d0.def",
+    "ua": "AVLsh7d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_358",
+    "en": "AVLrk3d0.def",
+    "ua": "AVLrk3d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_359",
+    "en": "AVLsh1d0.def",
+    "ua": "AVLsh1d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_360",
+    "en": "AVLfl6d0.def",
+    "ua": "AVLfl6d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_361",
+    "en": "AVGgrem0.def",
+    "ua": "AVGgrem0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_362",
+    "en": "AVGpike0.def",
+    "ua": "AVGpike0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_363",
+    "en": "AVSgzbo0.def",
+    "ua": "AVSgzbo0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_364",
+    "en": "AVSidol0.def",
+    "ua": "AVSidol0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_365",
+    "en": "AVSgrdn0.def",
+    "ua": "AVSgrdn0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_366",
+    "en": "AVSaxis0.def",
+    "ua": "AVSaxis0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_367",
+    "en": "AvSMarl.def",
+    "ua": "AvSMarl.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_368",
+    "en": "AVSschm0.def",
+    "ua": "AVSschm0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_369",
+    "en": "AVStmpl0.def",
+    "ua": "AVStmpl0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_370",
+    "en": "AvXAltar.def",
+    "ua": "AvXAltar.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_371",
+    "en": "AVXl3sh0.def",
+    "ua": "AVXl3sh0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_372",
+    "en": "AVXl2sh0.def",
+    "ua": "AVXl2sh0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_373",
+    "en": "AVXl1sh0.def",
+    "ua": "AVXl1sh0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_374",
+    "en": "AVXmn2p0.def",
+    "ua": "AVXmn2p0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_375",
+    "en": "AvXRedW.def",
+    "ua": "AvXRedW.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_376",
+    "en": "AVGcros0.def",
+    "ua": "AVGcros0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_377",
+    "en": "AVGswor0.def",
+    "ua": "AVGswor0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_378",
+    "en": "AVXprsn0.def",
+    "ua": "AVXprsn0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_379",
+    "en": "AVXtomb0.def",
+    "ua": "AVXtomb0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_380",
+    "en": "AVXwelr0.def",
+    "ua": "AVXwelr0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_381",
+    "en": "AVXmktb0.def",
+    "ua": "AVXmktb0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_382",
+    "en": "AVXschl0.def",
+    "ua": "AVXschl0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_383",
+    "en": "AVSclvg0.def",
+    "ua": "AVSclvg0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_384",
+    "en": "AVSfntn0.def",
+    "ua": "AVSfntn0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_385",
+    "en": "AVSring0.def",
+    "ua": "AVSring0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_386",
+    "en": "AVTmyst0.def",
+    "ua": "AVTmyst0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_387",
+    "en": "AVXhilg0.def",
+    "ua": "AVXhilg0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_388",
+    "en": "AVXpost0.def",
+    "ua": "AVXpost0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_389",
+    "en": "AVXstbl0.def",
+    "ua": "AVXstbl0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_390",
+    "en": "AVArnd3.def",
+    "ua": "AVArnd3.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_391",
+    "en": "AVArnd2.def",
+    "ua": "AVArnd2.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_392",
+    "en": "AVArnd1.def",
+    "ua": "AVArnd1.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_393",
+    "en": "AVTcrys0.def",
+    "ua": "AVTcrys0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_394",
+    "en": "AVTore0.def",
+    "ua": "AVTore0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_395",
+    "en": "AVTwood0.def",
+    "ua": "AVTwood0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_396",
+    "en": "AVTmerc0.def",
+    "ua": "AVTmerc0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_397",
+    "en": "AVTgems0.def",
+    "ua": "AVTgems0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_398",
+    "en": "AVTsulf0.def",
+    "ua": "AVTsulf0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_399",
+    "en": "AVTchst0.def",
+    "ua": "AVTchst0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_400",
+    "en": "AVTgold0.def",
+    "ua": "AVTgold0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_401",
+    "en": "AVTrndm0.def",
+    "ua": "AVTrndm0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_402",
+    "en": "AVWmon5.def",
+    "ua": "AVWmon5.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_403",
+    "en": "AVWmon3.def",
+    "ua": "AVWmon3.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_404",
+    "en": "AVLSPTR2.def",
+    "ua": "AVLSPTR2.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_405",
+    "en": "AVLSPTR1.def",
+    "ua": "AVLSPTR1.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_406",
+    "en": "AvWArch.def",
+    "ua": "AvWArch.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_407",
+    "en": "AVZevnt0.def",
+    "ua": "AVZevnt0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_408",
+    "en": "AVWswrx0.def",
+    "ua": "AVWswrx0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_409",
+    "en": "AVWmagx0.def",
+    "ua": "AVWmagx0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_410",
+    "en": "AVLlk1g0.def",
+    "ua": "AVLlk1g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_411",
+    "en": "AVWpegx0.def",
+    "ua": "AVWpegx0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_412",
+    "en": "AVWmon4.def",
+    "ua": "AVWmon4.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_413",
+    "en": "AVWmon2.def",
+    "ua": "AVWmon2.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_414",
+    "en": "AVWmon1.def",
+    "ua": "AVWmon1.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_415",
+    "en": "AVLmtgr2.def",
+    "ua": "AVLmtgr2.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_416",
+    "en": "AVLautr7.def",
+    "ua": "AVLautr7.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_417",
+    "en": "AVLAUTR4.def",
+    "ua": "AVLAUTR4.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_418",
+    "en": "AVLAUTR2.def",
+    "ua": "AVLAUTR2.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_419",
+    "en": "AVLPNTR3.def",
+    "ua": "AVLPNTR3.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_420",
+    "en": "AVLPNTR0.def",
+    "ua": "AVLPNTR0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_421",
+    "en": "AVLpntr7.def",
+    "ua": "AVLpntr7.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_422",
+    "en": "AVLPNTR2.def",
+    "ua": "AVLPNTR2.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_423",
+    "en": "AVLoc3g0.def",
+    "ua": "AVLoc3g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_424",
+    "en": "AVLSPTR0.def",
+    "ua": "AVLSPTR0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_425",
+    "en": "AVLoc2g0.def",
+    "ua": "AVLoc2g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_426",
+    "en": "AVLsh3g0.def",
+    "ua": "AVLsh3g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_427",
+    "en": "AVLct4g0.def",
+    "ua": "AVLct4g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_428",
+    "en": "AVLct3g0.def",
+    "ua": "AVLct3g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_429",
+    "en": "AVLct6g0.def",
+    "ua": "AVLct6g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_430",
+    "en": "AvLRG02.def",
+    "ua": "AvLRG02.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_431",
+    "en": "AvLRG01.def",
+    "ua": "AvLRG01.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_432",
+    "en": "AvLRG08.def",
+    "ua": "AvLRG08.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_433",
+    "en": "AvLRG05.def",
+    "ua": "AvLRG05.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_434",
+    "en": "AvLRG06.def",
+    "ua": "AvLRG06.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_435",
+    "en": "AvLRG11.def",
+    "ua": "AvLRG11.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_436",
+    "en": "AvLRG03.def",
+    "ua": "AvLRG03.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_437",
+    "en": "AvLRG09.def",
+    "ua": "AvLRG09.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_438",
+    "en": "AVLSPTR4.def",
+    "ua": "AVLSPTR4.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_439",
+    "en": "AVLSPTR5.def",
+    "ua": "AVLSPTR5.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_440",
+    "en": "AVLsptr7.def",
+    "ua": "AVLsptr7.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_441",
+    "en": "AVLsh4g0.def",
+    "ua": "AVLsh4g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_442",
+    "en": "AvLRG10.def",
+    "ua": "AvLRG10.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_443",
+    "en": "AVLct2g0.def",
+    "ua": "AVLct2g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_444",
+    "en": "AvLRD01.def",
+    "ua": "AvLRD01.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_445",
+    "en": "AVLf07g0.def",
+    "ua": "AVLf07g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_446",
+    "en": "AVLf12g0.def",
+    "ua": "AVLf12g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_447",
+    "en": "AVLman20.def",
+    "ua": "AVLman20.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_448",
+    "en": "AVLsh6g0.def",
+    "ua": "AVLsh6g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_449",
+    "en": "clrdelt3.def",
+    "ua": "clrdelt3.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_450",
+    "en": "AVLman30.def",
+    "ua": "AVLman30.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_451",
+    "en": "AVLmoss0.def",
+    "ua": "AVLmoss0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_452",
+    "en": "AVLrk2s0.def",
+    "ua": "AVLrk2s0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_453",
+    "en": "AVLf06g0.def",
+    "ua": "AVLf06g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_454",
+    "en": "AVLAUTR5.def",
+    "ua": "AVLAUTR5.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_455",
+    "en": "avlautr0.def",
+    "ua": "avlautr0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_456",
+    "en": "AVLsh1g0.def",
+    "ua": "AVLsh1g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_457",
+    "en": "avlautr1.def",
+    "ua": "avlautr1.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_458",
+    "en": "AVLsh2g0.def",
+    "ua": "AVLsh2g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_459",
+    "en": "AVLfl1d0.def",
+    "ua": "AVLfl1d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_460",
+    "en": "AVLfl7d0.def",
+    "ua": "AVLfl7d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_461",
+    "en": "AVLsh5g0.def",
+    "ua": "AVLsh5g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_462",
+    "en": "AVLf04g0.def",
+    "ua": "AVLf04g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_463",
+    "en": "AVLmtgr3.def",
+    "ua": "AVLmtgr3.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_464",
+    "en": "AVLmtgr5.def",
+    "ua": "AVLmtgr5.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_465",
+    "en": "AVLPNTR4.def",
+    "ua": "AVLPNTR4.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_466",
+    "en": "AVGcent0.def",
+    "ua": "AVGcent0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_467",
+    "en": "AVLf09g0.def",
+    "ua": "AVLf09g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_468",
+    "en": "AVLf08g0.def",
+    "ua": "AVLf08g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_469",
+    "en": "AVLman40.def",
+    "ua": "AVLman40.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_470",
+    "en": "AVLmtgr4.def",
+    "ua": "AVLmtgr4.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_471",
+    "en": "AVLf05g0.def",
+    "ua": "AVLf05g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_472",
+    "en": "AVLfl4d0.def",
+    "ua": "AVLfl4d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_473",
+    "en": "AVLholg0.def",
+    "ua": "AVLholg0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_474",
+    "en": "AVLautr6.def",
+    "ua": "AVLautr6.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_475",
+    "en": "AVLf03g0.def",
+    "ua": "AVLf03g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_476",
+    "en": "AVLman10.def",
+    "ua": "AVLman10.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_477",
+    "en": "AVLswp50.def",
+    "ua": "AVLswp50.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_478",
+    "en": "AVLswp40.def",
+    "ua": "AVLswp40.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_479",
+    "en": "AVLswp30.def",
+    "ua": "AVLswp30.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_480",
+    "en": "AVLs06s0.def",
+    "ua": "AVLs06s0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_481",
+    "en": "AVLs01s0.def",
+    "ua": "AVLs01s0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_482",
+    "en": "AVLlk2s0.def",
+    "ua": "AVLlk2s0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_483",
+    "en": "AVLdt3s0.def",
+    "ua": "AVLdt3s0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_484",
+    "en": "AVLs07s0.def",
+    "ua": "AVLs07s0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_485",
+    "en": "AVLrk4s0.def",
+    "ua": "AVLrk4s0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_486",
+    "en": "AVLs05s0.def",
+    "ua": "AVLs05s0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_487",
+    "en": "AVLhols0.def",
+    "ua": "AVLhols0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_488",
+    "en": "AVLswp10.def",
+    "ua": "AVLswp10.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_489",
+    "en": "AVLs08s0.def",
+    "ua": "AVLs08s0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_490",
+    "en": "AVLs09s0.def",
+    "ua": "AVLs09s0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_491",
+    "en": "AVLswp60.def",
+    "ua": "AVLswp60.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_492",
+    "en": "AvXDenT.def",
+    "ua": "AvXDenT.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_493",
+    "en": "AVLswp70.def",
+    "ua": "AVLswp70.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_494",
+    "en": "AVLman50.def",
+    "ua": "AVLman50.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_495",
+    "en": "AVLrk1s0.def",
+    "ua": "AVLrk1s0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_496",
+    "en": "AVLswmp6.def",
+    "ua": "AVLswmp6.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_497",
+    "en": "AVLswmp5.def",
+    "ua": "AVLswmp5.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_498",
+    "en": "AVLswmp3.def",
+    "ua": "AVLswmp3.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_499",
+    "en": "AVLs10s0.def",
+    "ua": "AVLs10s0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_500",
+    "en": "AVLs04s0.def",
+    "ua": "AVLs04s0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_501",
+    "en": "AVLs11s0.def",
+    "ua": "AVLs11s0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_502",
+    "en": "AVLf10g0.def",
+    "ua": "AVLf10g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_503",
+    "en": "AVLPNTR5.def",
+    "ua": "AVLPNTR5.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_504",
+    "en": "AVLSPTR3.def",
+    "ua": "AVLSPTR3.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_505",
+    "en": "AVLsptr8.def",
+    "ua": "AVLsptr8.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_506",
+    "en": "AVLSPTR6.def",
+    "ua": "AVLSPTR6.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_507",
+    "en": "AVLSNTR0.def",
+    "ua": "AVLSNTR0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_508",
+    "en": "AVLoc1g0.def",
+    "ua": "AVLoc1g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_509",
+    "en": "AVLmtgr6.def",
+    "ua": "AVLmtgr6.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_510",
+    "en": "avlmtdr1.def",
+    "ua": "avlmtdr1.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_511",
+    "en": "avlmtdr6.def",
+    "ua": "avlmtdr6.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_512",
+    "en": "AVLoc3d0.def",
+    "ua": "AVLoc3d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_513",
+    "en": "AVLoc1d0.def",
+    "ua": "AVLoc1d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_514",
+    "en": "AVLsh5d0.def",
+    "ua": "AVLsh5d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_515",
+    "en": "AVLsh2d0.def",
+    "ua": "AVLsh2d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_516",
+    "en": "AVLsh8d0.def",
+    "ua": "AVLsh8d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_517",
+    "en": "AVLoc2d0.def",
+    "ua": "AVLoc2d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_518",
+    "en": "avlmtdr4.def",
+    "ua": "avlmtdr4.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_519",
+    "en": "AVLmd1d0.def",
+    "ua": "AVLmd1d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_520",
+    "en": "AVLtr3d0.def",
+    "ua": "AVLtr3d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_521",
+    "en": "avlsh9r0.def",
+    "ua": "avlsh9r0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_522",
+    "en": "avlsh7r0.def",
+    "ua": "avlsh7r0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_523",
+    "en": "AVLref50.def",
+    "ua": "AVLref50.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_524",
+    "en": "AVLklp20.def",
+    "ua": "AVLklp20.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_525",
+    "en": "AVLref10.def",
+    "ua": "AVLref10.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_526",
+    "en": "AVLrk1w0.def",
+    "ua": "AVLrk1w0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_527",
+    "en": "AVLlk2d0.def",
+    "ua": "AVLlk2d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_528",
+    "en": "AVLtr1d0.def",
+    "ua": "AVLtr1d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_529",
+    "en": "AvLStm2.def",
+    "ua": "AvLStm2.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_530",
+    "en": "AVLfl8d0.def",
+    "ua": "AVLfl8d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_531",
+    "en": "AvLRD04.def",
+    "ua": "AvLRD04.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_532",
+    "en": "AVLf02g0.def",
+    "ua": "AVLf02g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_533",
+    "en": "AVXgyne0.def",
+    "ua": "AVXgyne0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_534",
+    "en": "AVLfl2d0.def",
+    "ua": "AVLfl2d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_535",
+    "en": "AVMgems0.def",
+    "ua": "AVMgems0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_536",
+    "en": "AVSwar20.def",
+    "ua": "AVSwar20.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_537",
+    "en": "AVLmtgn1.def",
+    "ua": "AVLmtgn1.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_538",
+    "en": "AVLmtgn4.def",
+    "ua": "AVLmtgn4.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_539",
+    "en": "AvLStm1.def",
+    "ua": "AvLStm1.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_540",
+    "en": "AvLdlog.def",
+    "ua": "AvLdlog.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_541",
+    "en": "AVLf01g0.def",
+    "ua": "AVLf01g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_542",
+    "en": "AvLRG07.def",
+    "ua": "AvLRG07.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_543",
+    "en": "AVLpntr6.def",
+    "ua": "AVLpntr6.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_544",
+    "en": "AVLAUTR3.def",
+    "ua": "AVLAUTR3.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_545",
+    "en": "AVLPNTR1.def",
+    "ua": "AVLPNTR1.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_546",
+    "en": "AVLmd1g0.def",
+    "ua": "AVLmd1g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_547",
+    "en": "AVLct5d0.def",
+    "ua": "AVLct5d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_548",
+    "en": "AVLfl9d0.def",
+    "ua": "AVLfl9d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_549",
+    "en": "AVMwndd0.def",
+    "ua": "AVMwndd0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_550",
+    "en": "AVLfl3d0.def",
+    "ua": "AVLfl3d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_551",
+    "en": "AVLfl5d0.def",
+    "ua": "AVLfl5d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_552",
+    "en": "AvLRG04.def",
+    "ua": "AvLRG04.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_553",
+    "en": "AVLrk3w0.def",
+    "ua": "AVLrk3w0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_554",
+    "en": "AVLref40.def",
+    "ua": "AVLref40.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_555",
+    "en": "AVLrk4w0.def",
+    "ua": "AVLrk4w0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_556",
+    "en": "AVLref60.def",
+    "ua": "AVLref60.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_557",
+    "en": "AVLrk2w0.def",
+    "ua": "AVLrk2w0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_558",
+    "en": "clrdelt1.def",
+    "ua": "clrdelt1.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_559",
+    "en": "AVSmerc0.def",
+    "ua": "AVSmerc0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_560",
+    "en": "AVLdt1s0.def",
+    "ua": "AVLdt1s0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_561",
+    "en": "AVLct4d0.def",
+    "ua": "AVLct4d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_562",
+    "en": "AVSwtch0.def",
+    "ua": "AVSwtch0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_563",
+    "en": "AVLct5g0.def",
+    "ua": "AVLct5g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_564",
+    "en": "AVLmtgr1.def",
+    "ua": "AVLmtgr1.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_565",
+    "en": "AVLca010.def",
+    "ua": "AVLca010.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_566",
+    "en": "AVLca070.def",
+    "ua": "AVLca070.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_567",
+    "en": "AVLca050.def",
+    "ua": "AVLca050.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_568",
+    "en": "AVLca110.def",
+    "ua": "AVLca110.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_569",
+    "en": "AVLca030.def",
+    "ua": "AVLca030.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_570",
+    "en": "AVLca100.def",
+    "ua": "AVLca100.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_571",
+    "en": "AVLca040.def",
+    "ua": "AVLca040.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_572",
+    "en": "AVLklp10.def",
+    "ua": "AVLklp10.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_573",
+    "en": "AVLref20.def",
+    "ua": "AVLref20.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_574",
+    "en": "AVLdun10.def",
+    "ua": "AVLdun10.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_575",
+    "en": "AVLmtgn2.def",
+    "ua": "AVLmtgn2.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_576",
+    "en": "AVCdung0.def",
+    "ua": "AVCdung0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_577",
+    "en": "AVXpllr0.def",
+    "ua": "AVXpllr0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_578",
+    "en": "AVMsawl0.def",
+    "ua": "AVMsawl0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_579",
+    "en": "AVLdead1.def",
+    "ua": "AVLdead1.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_580",
+    "en": "AVMsawl0.def",
+    "ua": "AVMsawl0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_581",
+    "en": "AVLdead5.def",
+    "ua": "AVLdead5.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_582",
+    "en": "AVLdead2.def",
+    "ua": "AVLdead2.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_583",
+    "en": "AVLdead0.def",
+    "ua": "AVLdead0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_584",
+    "en": "AVMorsb0.def",
+    "ua": "AVMorsb0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_585",
+    "en": "AVMsulf0.def",
+    "ua": "AVMsulf0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_586",
+    "en": "AVMgerf0.def",
+    "ua": "AVMgerf0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_587",
+    "en": "AVMalch0.def",
+    "ua": "AVMalch0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_588",
+    "en": "AVLdead4.def",
+    "ua": "AVLdead4.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_589",
+    "en": "AVLdead1.def",
+    "ua": "AVLdead1.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_590",
+    "en": "AVLdead0.def",
+    "ua": "AVLdead0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_591",
+    "en": "AVLdead4.def",
+    "ua": "AVLdead4.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_592",
+    "en": "AVLdead3.def",
+    "ua": "AVLdead3.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_593",
+    "en": "AVMcrsu0.def",
+    "ua": "AVMcrsu0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_594",
+    "en": "AVLdead3.def",
+    "ua": "AVLdead3.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_595",
+    "en": "AVLdead2.def",
+    "ua": "AVLdead2.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_596",
+    "en": "AVLmtsb5.def",
+    "ua": "AVLmtsb5.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_597",
+    "en": "AVLmtsb3.def",
+    "ua": "AVLmtsb3.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_598",
+    "en": "AVLmtsb4.def",
+    "ua": "AVLmtsb4.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_599",
+    "en": "AVGtrog0.def",
+    "ua": "AVGtrog0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_600",
+    "en": "AVGmant0.def",
+    "ua": "AVGmant0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_601",
+    "en": "AVMgosb0.def",
+    "ua": "AVMgosb0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_602",
+    "en": "AVXbnk50.def",
+    "ua": "AVXbnk50.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_603",
+    "en": "AVGbhld0.def",
+    "ua": "AVGbhld0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_604",
+    "en": "AVGharp0.def",
+    "ua": "AVGharp0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_605",
+    "en": "AVGrdrg0.def",
+    "ua": "AVGrdrg0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_606",
+    "en": "AVWharx0.def",
+    "ua": "AVWharx0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_607",
+    "en": "AVWbehl0.def",
+    "ua": "AVWbehl0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_608",
+    "en": "AvWInfr.def",
+    "ua": "AvWInfr.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_609",
+    "en": "AVWddrx0.def",
+    "ua": "AVWddrx0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_610",
+    "en": "AVWmanx0.def",
+    "ua": "AVWmanx0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_611",
+    "en": "AvWRDrg.def",
+    "ua": "AvWRDrg.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_612",
+    "en": "AVWharp0.def",
+    "ua": "AVWharp0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_613",
+    "en": "AvWMeds.def",
+    "ua": "AvWMeds.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_614",
+    "en": "AVWbehx0.def",
+    "ua": "AVWbehx0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_615",
+    "en": "AVWmedx0.def",
+    "ua": "AVWmedx0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_616",
+    "en": "AvWMino.def",
+    "ua": "AvWMino.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_617",
+    "en": "AVWminx0.def",
+    "ua": "AVWminx0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_618",
+    "en": "AVWmant0.def",
+    "ua": "AVWmant0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_619",
+    "en": "AVLr11u0.def",
+    "ua": "AVLr11u0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_620",
+    "en": "AVLr05u0.def",
+    "ua": "AVLr05u0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_621",
+    "en": "AVLr04u0.def",
+    "ua": "AVLr04u0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_622",
+    "en": "AVLr10u0.def",
+    "ua": "AVLr10u0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_623",
+    "en": "AVLr06u0.def",
+    "ua": "AVLr06u0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_624",
+    "en": "AVLr07u0.def",
+    "ua": "AVLr07u0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_625",
+    "en": "AVLr02u0.def",
+    "ua": "AVLr02u0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_626",
+    "en": "AVLr13u0.def",
+    "ua": "AVLr13u0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_627",
+    "en": "AVLr12u0.def",
+    "ua": "AVLr12u0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_628",
+    "en": "AVLstg60.def",
+    "ua": "AVLstg60.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_629",
+    "en": "AVLstg50.def",
+    "ua": "AVLstg50.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_630",
+    "en": "AVLr01u0.def",
+    "ua": "AVLr01u0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_631",
+    "en": "AVLr16u0.def",
+    "ua": "AVLr16u0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_632",
+    "en": "AVLr08u0.def",
+    "ua": "AVLr08u0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_633",
+    "en": "AVLr14u0.def",
+    "ua": "AVLr14u0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_634",
+    "en": "AVLr09u0.def",
+    "ua": "AVLr09u0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_635",
+    "en": "AVLr15u0.def",
+    "ua": "AVLr15u0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_636",
+    "en": "AVLstg10.def",
+    "ua": "AVLstg10.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_637",
+    "en": "AVLstg30.def",
+    "ua": "AVLstg30.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_638",
+    "en": "AVLstg40.def",
+    "ua": "AVLstg40.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_639",
+    "en": "AVLstg20.def",
+    "ua": "AVLstg20.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_640",
+    "en": "AVLr03u0.def",
+    "ua": "AVLr03u0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_641",
+    "en": "AVSutop0.def",
+    "ua": "AVSutop0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_642",
+    "en": "AVXmapu0.def",
+    "ua": "AVXmapu0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_643",
+    "en": "AVLlk2u0.def",
+    "ua": "AVLlk2u0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_644",
+    "en": "AVLlk3u0.def",
+    "ua": "AVLlk3u0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_645",
+    "en": "AVLms120.def",
+    "ua": "AVLms120.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_646",
+    "en": "AVLms100.def",
+    "ua": "AVLms100.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_647",
+    "en": "AVLms040.def",
+    "ua": "AVLms040.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_648",
+    "en": "AVLms030.def",
+    "ua": "AVLms030.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_649",
+    "en": "AVLms070.def",
+    "ua": "AVLms070.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_650",
+    "en": "AVLms050.def",
+    "ua": "AVLms050.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_651",
+    "en": "AVLms080.def",
+    "ua": "AVLms080.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_652",
+    "en": "AVLms060.def",
+    "ua": "AVLms060.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_653",
+    "en": "AVLyuc30.def",
+    "ua": "AVLyuc30.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_654",
+    "en": "AVLr07r0.def",
+    "ua": "AVLr07r0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_655",
+    "en": "AVLr03r0.def",
+    "ua": "AVLr03r0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_656",
+    "en": "AVLr11r0.def",
+    "ua": "AVLr11r0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_657",
+    "en": "AVLlv1u0.def",
+    "ua": "AVLlv1u0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_658",
+    "en": "AVLllk10.def",
+    "ua": "AVLllk10.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_659",
+    "en": "AVLllk20.def",
+    "ua": "AVLllk20.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_660",
+    "en": "AVLlv3u0.def",
+    "ua": "AVLlv3u0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_661",
+    "en": "AVLlv2u0.def",
+    "ua": "AVLlv2u0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_662",
+    "en": "AVLca130.def",
+    "ua": "AVLca130.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_663",
+    "en": "AvLRR05.def",
+    "ua": "AvLRR05.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_664",
+    "en": "AVLholx0.def",
+    "ua": "AVLholx0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_665",
+    "en": "AVLms090.def",
+    "ua": "AVLms090.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_666",
+    "en": "AVLr06r0.def",
+    "ua": "AVLr06r0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_667",
+    "en": "AVLr12r0.def",
+    "ua": "AVLr12r0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_668",
+    "en": "AVLr15r0.def",
+    "ua": "AVLr15r0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_669",
+    "en": "AVLr14r0.def",
+    "ua": "AVLr14r0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_670",
+    "en": "AVLsh3r0.def",
+    "ua": "AVLsh3r0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_671",
+    "en": "AVLr04r0.def",
+    "ua": "AVLr04r0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_672",
+    "en": "AVLms020.def",
+    "ua": "AVLms020.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_673",
+    "en": "AVLoc2u0.def",
+    "ua": "AVLoc2u0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_674",
+    "en": "AVLoc1u0.def",
+    "ua": "AVLoc1u0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_675",
+    "en": "AVLms110.def",
+    "ua": "AVLms110.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_676",
+    "en": "AVLlk1u0.def",
+    "ua": "AVLlk1u0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_677",
+    "en": "AVLr10r0.def",
+    "ua": "AVLr10r0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_678",
+    "en": "AVLr13r0.def",
+    "ua": "AVLr13r0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_679",
+    "en": "avlmtdr3.def",
+    "ua": "avlmtdr3.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_680",
+    "en": "avlmtdr8.def",
+    "ua": "avlmtdr8.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_681",
+    "en": "AVLskul0.def",
+    "ua": "AVLskul0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_682",
+    "en": "AVLr08r0.def",
+    "ua": "AVLr08r0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_683",
+    "en": "AVLct2u0.def",
+    "ua": "AVLct2u0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_684",
+    "en": "AVLca080.def",
+    "ua": "AVLca080.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_685",
+    "en": "AVLca090.def",
+    "ua": "AVLca090.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_686",
+    "en": "AVLca060.def",
+    "ua": "AVLca060.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_687",
+    "en": "AVLct1u0.def",
+    "ua": "AVLct1u0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_688",
+    "en": "AVLct4u0.def",
+    "ua": "AVLct4u0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_689",
+    "en": "AVLct5u0.def",
+    "ua": "AVLct5u0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_690",
+    "en": "AvLRD02.def",
+    "ua": "AvLRD02.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_691",
+    "en": "AVLsh6d0.def",
+    "ua": "AVLsh6d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_692",
+    "en": "AVLsh3d0.def",
+    "ua": "AVLsh3d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_693",
+    "en": "AVLdun20.def",
+    "ua": "AVLdun20.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_694",
+    "en": "avlsh6r0.def",
+    "ua": "avlsh6r0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_695",
+    "en": "AVLyuc10.def",
+    "ua": "AVLyuc10.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_696",
+    "en": "AVWtrog0.def",
+    "ua": "AVWtrog0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_697",
+    "en": "A voice booms down from the clouds: \"Infidels! You have violated a sacred place, and must be punished!\" You realize that following your greed, rather than your mission, might not have been such a good idea.",
+    "ua": "Гулкий голос несеться з небес: \"Невірні! Ви ступили на священну землю, порушивши заборону, і вас чекає кара!\" Ви розумієте, що, дозволивши жадібності стати своїм компасом і забувши про свою місію, ви зробили помилку.",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_698",
+    "en": "Day 1 Intro Part 1",
+    "ua": "Day 1 Intro Part 1",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_699",
+    "en": "As we tunneled into the region, we discovered a splinter colony that had long ago been thought lost. If they could be 'persuaded' to join our cause, they could provide us with additional troops needed to secure the surface towns.",
+    "ua": "Прокладаючи шлях до місця, ми виявили поселення однодумців, що відкололися від нас раніше і давно вважалися зниклими. Якщо нам вдасться \"переконати\" їх примкнути до нашої справи, ми отримаємо додаткові війська, необхідні для зміцнення наземних міст.",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_700",
+    "en": "Day 1 Intro Part 2",
+    "ua": "Day 1 Intro Part 2",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_701",
+    "en": "We also have an agent who has been spying on the towns in the area from a small, secluded island.  Find him, and he will share his knowledge of the area with you.",
+    "ua": "У нас є розвідник, який давно стежить за містами в цих краях, переховуючись на маленькому затишному острові. Знайдіть його, і він поділиться своїми знаннями.",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_702",
+    "en": "News",
+    "ua": "News",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_703",
+    "en": "An advisor approaches. \"We have received report that warships from Enroth have landed along the southern coast of Erathia. At this time we do not know who commands this force, nor do we know its size. Through our sources in Eeofol, we know this fleet cannot be led by Roland Ironfist.\"",
+    "ua": "Наближається радник. \"Нами отримано повідомлення. У ньому говориться, що військові кораблі з Енрота пристали до південних берегів Ерафії. Поки ми не знаємо ні імені командувача цими військами, ні їх чисельності. З наших джерел у Еофолі відомо, що на чолі цього флоту не може бути Роланд Айронфіст.\"",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_704",
+    "en": "News",
+    "ua": "News",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_705",
+    "en": "An advisor approaches. \"The news is not good. The Enrothian force to the south is led by Catherine Ironfist, daughter to the late King Gryphonheart of Erathia. She commands a large force, and has established a beachhead along the coast.  Unless we hurry, she may very well reach Steadwick before us.\"",
+    "ua": "Наближається радник. \"Погана новина. Силами Енрота на півдні командує Катерина Айронфіст, дочка покійного Короля Ерафії - Гріфонхарта. Вона привела величезне військо і створила береговий плацдарм. Якщо ми не поспішимо, вона зуміє прийти в Стедвік раніше за нас.\"",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_706",
+    "en": "Steadwick's Fall",
+    "ua": "Падіння Стедвіка",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_707",
+    "en": "To win, you must capture the city of Steadwick within 3 months.",
+    "ua": "Щоб перемогти, вам потрібно захопити місто Стедвік протягом трьох місяців.",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_708",
+    "en": "Gen. Kendal",
+    "ua": "Ген. Кендал",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_709",
+    "en": "Gen. Kendal",
+    "ua": "Ген. Кендал",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_710",
+    "en": "AVWmrnd0.def",
+    "ua": "AVWmrnd0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_711",
+    "en": "AVLholg0.def",
+    "ua": "AVLholg0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_712",
+    "en": "AVCcast0.def",
+    "ua": "AVCcast0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_713",
+    "en": "AVCtowr0.def",
+    "ua": "AVCtowr0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_714",
+    "en": "AVCramp0.def",
+    "ua": "AVCramp0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_715",
+    "en": "AVCinft0.def",
+    "ua": "AVCinft0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_716",
+    "en": "AvTCave.def",
+    "ua": "AvTCave.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_717",
+    "en": "AVLmtgr2.def",
+    "ua": "AVLmtgr2.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_718",
+    "en": "AVLmtgr4.def",
+    "ua": "AVLmtgr4.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_719",
+    "en": "AVLmtgr1.def",
+    "ua": "AVLmtgr1.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_720",
+    "en": "AVLmtgr3.def",
+    "ua": "AVLmtgr3.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_721",
+    "en": "AVLmtgr5.def",
+    "ua": "AVLmtgr5.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_722",
+    "en": "AVCgar10.def",
+    "ua": "AVCgar10.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_723",
+    "en": "AVLmtgr6.def",
+    "ua": "AVLmtgr6.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_724",
+    "en": "AVCgar20.def",
+    "ua": "AVCgar20.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_725",
+    "en": "AVLSNTR0.def",
+    "ua": "AVLSNTR0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_726",
+    "en": "AVLSNTR2.def",
+    "ua": "AVLSNTR2.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_727",
+    "en": "AVLpntr7.def",
+    "ua": "AVLpntr7.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_728",
+    "en": "AVLsntr6.def",
+    "ua": "AVLsntr6.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_729",
+    "en": "AVLsntr7.def",
+    "ua": "AVLsntr7.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_730",
+    "en": "AVLpntr6.def",
+    "ua": "AVLpntr6.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_731",
+    "en": "AVLPNTR4.def",
+    "ua": "AVLPNTR4.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_732",
+    "en": "AVLPNTR0.def",
+    "ua": "AVLPNTR0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_733",
+    "en": "AVLSNTR1.def",
+    "ua": "AVLSNTR1.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_734",
+    "en": "AVLPNTR3.def",
+    "ua": "AVLPNTR3.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_735",
+    "en": "AVLSNTR5.def",
+    "ua": "AVLSNTR5.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_736",
+    "en": "AVLPNTR5.def",
+    "ua": "AVLPNTR5.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_737",
+    "en": "AVLPNTR2.def",
+    "ua": "AVLPNTR2.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_738",
+    "en": "AVLPNTR1.def",
+    "ua": "AVLPNTR1.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_739",
+    "en": "AVLsptr8.def",
+    "ua": "AVLsptr8.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_740",
+    "en": "AVLSPTR4.def",
+    "ua": "AVLSPTR4.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_741",
+    "en": "AVLSPTR5.def",
+    "ua": "AVLSPTR5.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_742",
+    "en": "AVLSPTR6.def",
+    "ua": "AVLSPTR6.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_743",
+    "en": "AVLSPTR0.def",
+    "ua": "AVLSPTR0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_744",
+    "en": "AVLSPTR2.def",
+    "ua": "AVLSPTR2.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_745",
+    "en": "AVLSPTR3.def",
+    "ua": "AVLSPTR3.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_746",
+    "en": "AVLsptr7.def",
+    "ua": "AVLsptr7.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_747",
+    "en": "AVLSPTR1.def",
+    "ua": "AVLSPTR1.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_748",
+    "en": "AVXcrsd0.def",
+    "ua": "AVXcrsd0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_749",
+    "en": "avlmtdr4.def",
+    "ua": "avlmtdr4.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_750",
+    "en": "avlmtdr1.def",
+    "ua": "avlmtdr1.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_751",
+    "en": "avlmtdr3.def",
+    "ua": "avlmtdr3.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_752",
+    "en": "avlmtdr5.def",
+    "ua": "avlmtdr5.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_753",
+    "en": "avlmtdr6.def",
+    "ua": "avlmtdr6.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_754",
+    "en": "avlmtdr8.def",
+    "ua": "avlmtdr8.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_755",
+    "en": "avlmtdr7.def",
+    "ua": "avlmtdr7.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_756",
+    "en": "avlmtdr2.def",
+    "ua": "avlmtdr2.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_757",
+    "en": "AVLdead3.def",
+    "ua": "AVLdead3.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_758",
+    "en": "AVLdead5.def",
+    "ua": "AVLdead5.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_759",
+    "en": "AVLdead2.def",
+    "ua": "AVLdead2.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_760",
+    "en": "AVLdead0.def",
+    "ua": "AVLdead0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_761",
+    "en": "AVLdead1.def",
+    "ua": "AVLdead1.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_762",
+    "en": "AVLdead6.def",
+    "ua": "AVLdead6.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_763",
+    "en": "AVLdead4.def",
+    "ua": "AVLdead4.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_764",
+    "en": "AVLdead7.def",
+    "ua": "AVLdead7.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_765",
+    "en": "AVMore0.def",
+    "ua": "AVMore0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_766",
+    "en": "AVMgogr0.def",
+    "ua": "AVMgogr0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_767",
+    "en": "AVMcrgr0.def",
+    "ua": "AVMcrgr0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_768",
+    "en": "AVMgems0.def",
+    "ua": "AVMgems0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_769",
+    "en": "AVMsulf0.def",
+    "ua": "AVMsulf0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_770",
+    "en": "AVMalch0.def",
+    "ua": "AVMalch0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_771",
+    "en": "AVLlk1g0.def",
+    "ua": "AVLlk1g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_772",
+    "en": "AVMwwhl0.def",
+    "ua": "AVMwwhl0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_773",
+    "en": "clrdelt1.def",
+    "ua": "clrdelt1.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_774",
+    "en": "AVMwndd0.def",
+    "ua": "AVMwndd0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_775",
+    "en": "AVMsawg0.def",
+    "ua": "AVMsawg0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_776",
+    "en": "AVLtr2d0.def",
+    "ua": "AVLtr2d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_777",
+    "en": "AVLtr1d0.def",
+    "ua": "AVLtr1d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_778",
+    "en": "AVLtr3d0.def",
+    "ua": "AVLtr3d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_779",
+    "en": "AVLlk2g0.def",
+    "ua": "AVLlk2g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_780",
+    "en": "AVLlk3g0.def",
+    "ua": "AVLlk3g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_781",
+    "en": "AVLmd2g0.def",
+    "ua": "AVLmd2g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_782",
+    "en": "AVLmd1g0.def",
+    "ua": "AVLmd1g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_783",
+    "en": "AVLflk20.def",
+    "ua": "AVLflk20.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_784",
+    "en": "AVLflk30.def",
+    "ua": "AVLflk30.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_785",
+    "en": "AVMsawl0.def",
+    "ua": "AVMsawl0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_786",
+    "en": "AVMcrdr0.def",
+    "ua": "AVMcrdr0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_787",
+    "en": "AVMgedr0.def",
+    "ua": "AVMgedr0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_788",
+    "en": "AVMordr0.def",
+    "ua": "AVMordr0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_789",
+    "en": "AVGgrff0.def",
+    "ua": "AVGgrff0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_790",
+    "en": "AVGimp0.def",
+    "ua": "AVGimp0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_791",
+    "en": "AVGgrem0.def",
+    "ua": "AVGgrem0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_792",
+    "en": "AVGcent0.def",
+    "ua": "AVGcent0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_793",
+    "en": "AVGangl0.def",
+    "ua": "AVGangl0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_794",
+    "en": "AVGfire0.def",
+    "ua": "AVGfire0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_795",
+    "en": "AVGrefg0.def",
+    "ua": "AVGrefg0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_796",
+    "en": "AVSaxis0.def",
+    "ua": "AVSaxis0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_797",
+    "en": "AvSMarl.def",
+    "ua": "AvSMarl.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_798",
+    "en": "AVSgrdn0.def",
+    "ua": "AVSgrdn0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_799",
+    "en": "AVSmerc0.def",
+    "ua": "AVSmerc0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_800",
+    "en": "AVSgzbo0.def",
+    "ua": "AVSgzbo0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_801",
+    "en": "AVSwar20.def",
+    "ua": "AVSwar20.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_802",
+    "en": "AVSschm0.def",
+    "ua": "AVSschm0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_803",
+    "en": "AVSlibr0.def",
+    "ua": "AVSlibr0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_804",
+    "en": "AVStmpl0.def",
+    "ua": "AVStmpl0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_805",
+    "en": "AvXAltar.def",
+    "ua": "AvXAltar.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_806",
+    "en": "AVXbnk30.def",
+    "ua": "AVXbnk30.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_807",
+    "en": "AVXbnk20.def",
+    "ua": "AVXbnk20.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_808",
+    "en": "AVXbnk60.def",
+    "ua": "AVXbnk60.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_809",
+    "en": "AVXdend0.def",
+    "ua": "AVXdend0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_810",
+    "en": "AVXl2sh0.def",
+    "ua": "AVXl2sh0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_811",
+    "en": "AVXl3sh0.def",
+    "ua": "AVXl3sh0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_812",
+    "en": "AVXmaps0.def",
+    "ua": "AVXmaps0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_813",
+    "en": "AVXprsn0.def",
+    "ua": "AVXprsn0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_814",
+    "en": "AVXsanc0.def",
+    "ua": "AVXsanc0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_815",
+    "en": "AVXschl0.def",
+    "ua": "AVXschl0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_816",
+    "en": "AVXrlly0.def",
+    "ua": "AVXrlly0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_817",
+    "en": "AVXtomb0.def",
+    "ua": "AVXtomb0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_818",
+    "en": "AVXtvrn0.def",
+    "ua": "AVXtvrn0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_819",
+    "en": "AVXwelr0.def",
+    "ua": "AVXwelr0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_820",
+    "en": "AVSarna0.def",
+    "ua": "AVSarna0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_821",
+    "en": "AVSclvd0.def",
+    "ua": "AVSclvd0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_822",
+    "en": "AVSfntn0.def",
+    "ua": "AVSfntn0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_823",
+    "en": "AVTmyst0.def",
+    "ua": "AVTmyst0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_824",
+    "en": "AVSring0.def",
+    "ua": "AVSring0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_825",
+    "en": "AVXfyth0.def",
+    "ua": "AVXfyth0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_826",
+    "en": "AVXgyne0.def",
+    "ua": "AVXgyne0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_827",
+    "en": "AVSidol0.def",
+    "ua": "AVSidol0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_828",
+    "en": "adcfra.def",
+    "ua": "adcfra.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_829",
+    "en": "AVArnd4.def",
+    "ua": "AVArnd4.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_830",
+    "en": "AVArnd3.def",
+    "ua": "AVArnd3.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_831",
+    "en": "AVArnd2.def",
+    "ua": "AVArnd2.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_832",
+    "en": "AVArnd1.def",
+    "ua": "AVArnd1.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_833",
+    "en": "AVTchst0.def",
+    "ua": "AVTchst0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_834",
+    "en": "AVTrndm0.def",
+    "ua": "AVTrndm0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_835",
+    "en": "AVTcrys0.def",
+    "ua": "AVTcrys0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_836",
+    "en": "AVTgems0.def",
+    "ua": "AVTgems0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_837",
+    "en": "AVTore0.def",
+    "ua": "AVTore0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_838",
+    "en": "AVTmerc0.def",
+    "ua": "AVTmerc0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_839",
+    "en": "AVTsulf0.def",
+    "ua": "AVTsulf0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_840",
+    "en": "AVTwood0.def",
+    "ua": "AVTwood0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_841",
+    "en": "AVTgold0.def",
+    "ua": "AVTgold0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_842",
+    "en": "AVWmon6.def",
+    "ua": "AVWmon6.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_843",
+    "en": "AVWmon7.def",
+    "ua": "AVWmon7.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_844",
+    "en": "AVWmon5.def",
+    "ua": "AVWmon5.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_845",
+    "en": "AVWmon4.def",
+    "ua": "AVWmon4.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_846",
+    "en": "AvWArch.def",
+    "ua": "AvWArch.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_847",
+    "en": "AVWgrix0.def",
+    "ua": "AVWgrix0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_848",
+    "en": "AVWswrx0.def",
+    "ua": "AVWswrx0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_849",
+    "en": "AVWcvlx0.def",
+    "ua": "AVWcvlx0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_850",
+    "en": "AvWHCrs.def",
+    "ua": "AvWHCrs.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_851",
+    "en": "AVWelmf0.def",
+    "ua": "AVWelmf0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_852",
+    "en": "AVLct2d0.def",
+    "ua": "AVLct2d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_853",
+    "en": "AVLct1d0.def",
+    "ua": "AVLct1d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_854",
+    "en": "AVLct5d0.def",
+    "ua": "AVLct5d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_855",
+    "en": "AVLctrd0.def",
+    "ua": "AVLctrd0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_856",
+    "en": "AVLct3d0.def",
+    "ua": "AVLct3d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_857",
+    "en": "AVLrk3d0.def",
+    "ua": "AVLrk3d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_858",
+    "en": "AVWmon3.def",
+    "ua": "AVWmon3.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_859",
+    "en": "AVLct3g0.def",
+    "ua": "AVLct3g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_860",
+    "en": "ah00_e.def",
+    "ua": "ah00_e.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_861",
+    "en": "AVLmtgn0.def",
+    "ua": "AVLmtgn0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_862",
+    "en": "AVLmtgn2.def",
+    "ua": "AVLmtgn2.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_863",
+    "en": "AVLmtgn3.def",
+    "ua": "AVLmtgn3.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_864",
+    "en": "AVLmtgn4.def",
+    "ua": "AVLmtgn4.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_865",
+    "en": "AVLmtgn5.def",
+    "ua": "AVLmtgn5.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_866",
+    "en": "AVLf07g0.def",
+    "ua": "AVLf07g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_867",
+    "en": "AVLf09g0.def",
+    "ua": "AVLf09g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_868",
+    "en": "AVLman30.def",
+    "ua": "AVLman30.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_869",
+    "en": "AVLman40.def",
+    "ua": "AVLman40.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_870",
+    "en": "AVLfl6d0.def",
+    "ua": "AVLfl6d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_871",
+    "en": "AVLsh4g0.def",
+    "ua": "AVLsh4g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_872",
+    "en": "AvLRG11.def",
+    "ua": "AvLRG11.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_873",
+    "en": "AvLRG09.def",
+    "ua": "AvLRG09.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_874",
+    "en": "AVLf12g0.def",
+    "ua": "AVLf12g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_875",
+    "en": "AVLf02g0.def",
+    "ua": "AVLf02g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_876",
+    "en": "AvLRG08.def",
+    "ua": "AvLRG08.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_877",
+    "en": "AVLf03g0.def",
+    "ua": "AVLf03g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_878",
+    "en": "AVLman20.def",
+    "ua": "AVLman20.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_879",
+    "en": "AVLs08s0.def",
+    "ua": "AVLs08s0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_880",
+    "en": "AVLrk3s0.def",
+    "ua": "AVLrk3s0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_881",
+    "en": "AVLsh5g0.def",
+    "ua": "AVLsh5g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_882",
+    "en": "AvLRG06.def",
+    "ua": "AvLRG06.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_883",
+    "en": "AVLsh3g0.def",
+    "ua": "AVLsh3g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_884",
+    "en": "AvLRG02.def",
+    "ua": "AvLRG02.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_885",
+    "en": "avlautr1.def",
+    "ua": "avlautr1.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_886",
+    "en": "AVLAUTR3.def",
+    "ua": "AVLAUTR3.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_887",
+    "en": "avlautr0.def",
+    "ua": "avlautr0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_888",
+    "en": "AVLf06g0.def",
+    "ua": "AVLf06g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_889",
+    "en": "AvLRG03.def",
+    "ua": "AvLRG03.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_890",
+    "en": "AVLf08g0.def",
+    "ua": "AVLf08g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_891",
+    "en": "AVLfl4d0.def",
+    "ua": "AVLfl4d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_892",
+    "en": "AVLmtgn1.def",
+    "ua": "AVLmtgn1.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_893",
+    "en": "AvLRG01.def",
+    "ua": "AvLRG01.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_894",
+    "en": "AVLoc3g0.def",
+    "ua": "AVLoc3g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_895",
+    "en": "AVLoc2g0.def",
+    "ua": "AVLoc2g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_896",
+    "en": "AVLman50.def",
+    "ua": "AVLman50.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_897",
+    "en": "AVLct5g0.def",
+    "ua": "AVLct5g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_898",
+    "en": "AVLct6g0.def",
+    "ua": "AVLct6g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_899",
+    "en": "AVLct4g0.def",
+    "ua": "AVLct4g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_900",
+    "en": "AvLRG10.def",
+    "ua": "AvLRG10.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_901",
+    "en": "AvLRD02.def",
+    "ua": "AvLRD02.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_902",
+    "en": "AvLRG05.def",
+    "ua": "AvLRG05.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_903",
+    "en": "AVLAUTR4.def",
+    "ua": "AVLAUTR4.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_904",
+    "en": "AVLAUTR5.def",
+    "ua": "AVLAUTR5.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_905",
+    "en": "AVLAUTR2.def",
+    "ua": "AVLAUTR2.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_906",
+    "en": "AVLmtsn3.def",
+    "ua": "AVLmtsn3.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_907",
+    "en": "AVLo1sn0.def",
+    "ua": "AVLo1sn0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_908",
+    "en": "AVLr1sn0.def",
+    "ua": "AVLr1sn0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_909",
+    "en": "AVLp2sn0.def",
+    "ua": "AVLp2sn0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_910",
+    "en": "AVLp1sn0.def",
+    "ua": "AVLp1sn0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_911",
+    "en": "AVLr2sn0.def",
+    "ua": "AVLr2sn0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_912",
+    "en": "AVLr6sn0.def",
+    "ua": "AVLr6sn0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_913",
+    "en": "AVLr4sn0.def",
+    "ua": "AVLr4sn0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_914",
+    "en": "AVLr5sn0.def",
+    "ua": "AVLr5sn0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_915",
+    "en": "AVLr3sn0.def",
+    "ua": "AVLr3sn0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_916",
+    "en": "AVLautr6.def",
+    "ua": "AVLautr6.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_917",
+    "en": "AvLRG07.def",
+    "ua": "AvLRG07.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_918",
+    "en": "AVLsh2g0.def",
+    "ua": "AVLsh2g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_919",
+    "en": "AvLRG04.def",
+    "ua": "AvLRG04.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_920",
+    "en": "AVLf11g0.def",
+    "ua": "AVLf11g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_921",
+    "en": "AVLf04g0.def",
+    "ua": "AVLf04g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_922",
+    "en": "AVLfl5d0.def",
+    "ua": "AVLfl5d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_923",
+    "en": "AVLfl7d0.def",
+    "ua": "AVLfl7d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_924",
+    "en": "AVLf10g0.def",
+    "ua": "AVLf10g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_925",
+    "en": "AVLsh1g0.def",
+    "ua": "AVLsh1g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_926",
+    "en": "AVLautr7.def",
+    "ua": "AVLautr7.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_927",
+    "en": "avlsh9r0.def",
+    "ua": "avlsh9r0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_928",
+    "en": "AvLRR05.def",
+    "ua": "AvLRR05.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_929",
+    "en": "AvLRR01.def",
+    "ua": "AvLRR01.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_930",
+    "en": "AVLct4d0.def",
+    "ua": "AVLct4d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_931",
+    "en": "avlsh4r0.def",
+    "ua": "avlsh4r0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_932",
+    "en": "AVLoc1d0.def",
+    "ua": "AVLoc1d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_933",
+    "en": "AVLoc2d0.def",
+    "ua": "AVLoc2d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_934",
+    "en": "AVLr15r0.def",
+    "ua": "AVLr15r0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_935",
+    "en": "AvLdlog.def",
+    "ua": "AvLdlog.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_936",
+    "en": "AVLoc3d0.def",
+    "ua": "AVLoc3d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_937",
+    "en": "AVLmd2d0.def",
+    "ua": "AVLmd2d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_938",
+    "en": "AVLmd1d0.def",
+    "ua": "AVLmd1d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_939",
+    "en": "AVLsh1r0.def",
+    "ua": "AVLsh1r0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_940",
+    "en": "avlsh6r0.def",
+    "ua": "avlsh6r0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_941",
+    "en": "AVLr14r0.def",
+    "ua": "AVLr14r0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_942",
+    "en": "AVLref40.def",
+    "ua": "AVLref40.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_943",
+    "en": "AVLref50.def",
+    "ua": "AVLref50.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_944",
+    "en": "AVLref30.def",
+    "ua": "AVLref30.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_945",
+    "en": "AVLref20.def",
+    "ua": "AVLref20.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_946",
+    "en": "AVLref10.def",
+    "ua": "AVLref10.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_947",
+    "en": "AVLrk4w0.def",
+    "ua": "AVLrk4w0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_948",
+    "en": "AvLRD01.def",
+    "ua": "AvLRD01.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_949",
+    "en": "AVLsh1d0.def",
+    "ua": "AVLsh1d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_950",
+    "en": "AVLsh6d0.def",
+    "ua": "AVLsh6d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_951",
+    "en": "AVLfl8d0.def",
+    "ua": "AVLfl8d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_952",
+    "en": "AVLfl3d0.def",
+    "ua": "AVLfl3d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_953",
+    "en": "AVLsh6g0.def",
+    "ua": "AVLsh6g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_954",
+    "en": "AVLsh4d0.def",
+    "ua": "AVLsh4d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_955",
+    "en": "AVLsh5d0.def",
+    "ua": "AVLsh5d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_956",
+    "en": "AVLrk5d0.def",
+    "ua": "AVLrk5d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_957",
+    "en": "AVLsh8d0.def",
+    "ua": "AVLsh8d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_958",
+    "en": "AVLklp20.def",
+    "ua": "AVLklp20.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_959",
+    "en": "AVLfl1d0.def",
+    "ua": "AVLfl1d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_960",
+    "en": "AVLfl9d0.def",
+    "ua": "AVLfl9d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_961",
+    "en": "AVLf01g0.def",
+    "ua": "AVLf01g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_962",
+    "en": "AVLmoss0.def",
+    "ua": "AVLmoss0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_963",
+    "en": "AVXstbl0.def",
+    "ua": "AVXstbl0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_964",
+    "en": "AVLman10.def",
+    "ua": "AVLman10.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_965",
+    "en": "AVLf05g0.def",
+    "ua": "AVLf05g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_966",
+    "en": "AVLfl2d0.def",
+    "ua": "AVLfl2d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_967",
+    "en": "AVLoc1g0.def",
+    "ua": "AVLoc1g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_968",
+    "en": "AVLhold0.def",
+    "ua": "AVLhold0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_969",
+    "en": "AVLct1g0.def",
+    "ua": "AVLct1g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_970",
+    "en": "AVLct2g0.def",
+    "ua": "AVLct2g0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_971",
+    "en": "AVLrk1w0.def",
+    "ua": "AVLrk1w0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_972",
+    "en": "AVLklp10.def",
+    "ua": "AVLklp10.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_973",
+    "en": "AVLrk3w0.def",
+    "ua": "AVLrk3w0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_974",
+    "en": "AVSwtch0.def",
+    "ua": "AVSwtch0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_975",
+    "en": "AVSuniv0.def",
+    "ua": "AVSuniv0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_976",
+    "en": "AVLrk1s0.def",
+    "ua": "AVLrk1s0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_977",
+    "en": "AVLs06s0.def",
+    "ua": "AVLs06s0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_978",
+    "en": "AvLStm2.def",
+    "ua": "AvLStm2.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_979",
+    "en": "AVLca010.def",
+    "ua": "AVLca010.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_980",
+    "en": "AVLca050.def",
+    "ua": "AVLca050.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_981",
+    "en": "AVLca070.def",
+    "ua": "AVLca070.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_982",
+    "en": "AVLdun10.def",
+    "ua": "AVLdun10.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_983",
+    "en": "AVLca110.def",
+    "ua": "AVLca110.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_984",
+    "en": "AVLca130.def",
+    "ua": "AVLca130.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_985",
+    "en": "AVLca030.def",
+    "ua": "AVLca030.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_986",
+    "en": "AVLca080.def",
+    "ua": "AVLca080.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_987",
+    "en": "AVLs10s0.def",
+    "ua": "AVLs10s0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_988",
+    "en": "AVLlk1s0.def",
+    "ua": "AVLlk1s0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_989",
+    "en": "AVLlk2s0.def",
+    "ua": "AVLlk2s0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_990",
+    "en": "AVLlk3s0.def",
+    "ua": "AVLlk3s0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_991",
+    "en": "AvXDenT.def",
+    "ua": "AvXDenT.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_992",
+    "en": "AVWmon1.def",
+    "ua": "AVWmon1.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_993",
+    "en": "AVWmon2.def",
+    "ua": "AVWmon2.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_994",
+    "en": "AHplace.def",
+    "ua": "AHplace.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_995",
+    "en": "AVCdung0.def",
+    "ua": "AVCdung0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_996",
+    "en": "AVLmtsb0.def",
+    "ua": "AVLmtsb0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_997",
+    "en": "AVLmtsb3.def",
+    "ua": "AVLmtsb3.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_998",
+    "en": "AVLmtsb5.def",
+    "ua": "AVLmtsb5.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_999",
+    "en": "AVLmtsb2.def",
+    "ua": "AVLmtsb2.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1000",
+    "en": "AVLmtsb4.def",
+    "ua": "AVLmtsb4.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1001",
+    "en": "AVLr06u0.def",
+    "ua": "AVLr06u0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1002",
+    "en": "AVLstg60.def",
+    "ua": "AVLstg60.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1003",
+    "en": "AVLr02u0.def",
+    "ua": "AVLr02u0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1004",
+    "en": "AVLr12u0.def",
+    "ua": "AVLr12u0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1005",
+    "en": "AVLr07u0.def",
+    "ua": "AVLr07u0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1006",
+    "en": "AVLr15u0.def",
+    "ua": "AVLr15u0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1007",
+    "en": "AVLr08u0.def",
+    "ua": "AVLr08u0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1008",
+    "en": "AVLr10u0.def",
+    "ua": "AVLr10u0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1009",
+    "en": "AVLoc1u0.def",
+    "ua": "AVLoc1u0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1010",
+    "en": "AVLoc2u0.def",
+    "ua": "AVLoc2u0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1011",
+    "en": "AVLr03u0.def",
+    "ua": "AVLr03u0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1012",
+    "en": "AVGtrog0.def",
+    "ua": "AVGtrog0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1013",
+    "en": "AVLstg40.def",
+    "ua": "AVLstg40.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1014",
+    "en": "AVGrdrg0.def",
+    "ua": "AVGrdrg0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1015",
+    "en": "AVGmant0.def",
+    "ua": "AVGmant0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1016",
+    "en": "AVGerth0.def",
+    "ua": "AVGerth0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1017",
+    "en": "AVXcfds0.def",
+    "ua": "AVXcfds0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1018",
+    "en": "AVWelme0.def",
+    "ua": "AVWelme0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1019",
+    "en": "AvWInfr.def",
+    "ua": "AvWInfr.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1020",
+    "en": "AVLr11u0.def",
+    "ua": "AVLr11u0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1021",
+    "en": "AVLlk2u0.def",
+    "ua": "AVLlk2u0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1022",
+    "en": "AVLlk3u0.def",
+    "ua": "AVLlk3u0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1023",
+    "en": "AVLms120.def",
+    "ua": "AVLms120.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1024",
+    "en": "AVLms090.def",
+    "ua": "AVLms090.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1025",
+    "en": "AVLms110.def",
+    "ua": "AVLms110.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1026",
+    "en": "AVLms070.def",
+    "ua": "AVLms070.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1027",
+    "en": "AVLms080.def",
+    "ua": "AVLms080.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1028",
+    "en": "AVLllk10.def",
+    "ua": "AVLllk10.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1029",
+    "en": "AVLllk20.def",
+    "ua": "AVLllk20.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1030",
+    "en": "AVLlv2u0.def",
+    "ua": "AVLlv2u0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1031",
+    "en": "AVLms100.def",
+    "ua": "AVLms100.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1032",
+    "en": "AVLlv3u0.def",
+    "ua": "AVLlv3u0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1033",
+    "en": "AVMorsb0.def",
+    "ua": "AVMorsb0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1034",
+    "en": "AVLlv1u0.def",
+    "ua": "AVLlv1u0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1035",
+    "en": "AVLms050.def",
+    "ua": "AVLms050.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1036",
+    "en": "AVLca100.def",
+    "ua": "AVLca100.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1037",
+    "en": "AVLca060.def",
+    "ua": "AVLca060.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1038",
+    "en": "AVLhlds0.def",
+    "ua": "AVLhlds0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1039",
+    "en": "AVLdun30.def",
+    "ua": "AVLdun30.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1040",
+    "en": "AVLca020.def",
+    "ua": "AVLca020.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1041",
+    "en": "AVLca090.def",
+    "ua": "AVLca090.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1042",
+    "en": "AVLms020.def",
+    "ua": "AVLms020.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1043",
+    "en": "AVLms040.def",
+    "ua": "AVLms040.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1044",
+    "en": "AvLRD04.def",
+    "ua": "AvLRD04.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1045",
+    "en": "AVLsh7d0.def",
+    "ua": "AVLsh7d0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1046",
+    "en": "AVLms060.def",
+    "ua": "AVLms060.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1047",
+    "en": "AVLms030.def",
+    "ua": "AVLms030.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1048",
+    "en": "AVLr11r0.def",
+    "ua": "AVLr11r0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1049",
+    "en": "AVLr04r0.def",
+    "ua": "AVLr04r0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1050",
+    "en": "AVLca040.def",
+    "ua": "AVLca040.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1051",
+    "en": "AVLr07r0.def",
+    "ua": "AVLr07r0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1052",
+    "en": "AVLr14u0.def",
+    "ua": "AVLr14u0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1053",
+    "en": "AVLr13r0.def",
+    "ua": "AVLr13r0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1054",
+    "en": "AVWddrx0.def",
+    "ua": "AVWddrx0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1055",
+    "en": "AVWmedx0.def",
+    "ua": "AVWmedx0.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1056",
+    "en": "AvWMeds.def",
+    "ua": "AvWMeds.def",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1057",
+    "en": "Steadwick",
+    "ua": "Стедвік",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1058",
+    "en": "Gen. Kendal",
+    "ua": "Ген. Кендал",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1059",
+    "en": "Intro 1",
+    "ua": "Intro 1",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1060",
+    "en": "You are to be congratulated on your progress so far. You have laid waste to Eastern Erathia, and are now within striking distance of the Erathian capital of Steadwick. You must capture the capital quickly!",
+    "ua": "Вас можна привітати - ви попрацювали на славу! Ви розорили Східну Ерафію і впритул підійшли до столиці Ерафії - Стедвіка. Тепер потрібно негайно захопити столицю!",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1061",
+    "en": "Intro 2",
+    "ua": "Intro 2",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1062",
+    "en": "Not only have Bracada and AvLee sent reinforcements, but we have received news that Queen Catherine Ironfist is marching a sizeable army from the south. We must control the capital and its garrisons before she arrives.",
+    "ua": "Мало того, що Бракада й Ав-Лі направили підкріплення, нам стало відомо, що Королева Катерина Айронфіст висунула велике військо з півдня. Ми повинні заволодіти столицею та її гарнізонами до її прибуття.",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1063",
+    "en": "News",
+    "ua": "News",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1064",
+    "en": "You have just received a report on the progress of Queen Catherine. Forces from Nighon and Eeofol are attempting to delay her march to Steadwick, but doubt that they can delay her more than two or three months.",
+    "ua": null,
+    "aligned": false
+  },
+  {
+    "var": "EVIL1_1065",
+    "en": "News",
+    "ua": "News",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1066",
+    "en": "You receive a report from the south. Queen Catherine's forces have been sufficiently delayed, allowing you at least two months more to reach the capitol, but our own forces have suffered significant losses. Do not let their sacrifice go to waste.",
+    "ua": "Вам надійшло повідомлення з півдня. Війська Королеви Катерини вдалося затримати, і у вас з'явилося щонайменше два місяці на те, щоб дійти до столиці. Але наші сили зазнали великих втрат. Не допустіть, щоб їхні жертви виявилися марними.",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1067",
+    "en": "News",
+    "ua": "News",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1068",
+    "en": "You receive a report from the south. Our forces continue to throw themselves in the path of Queen Catherine's armies, yet she continues to march northward. You have, at most, three or four weeks before she can reach the capitol.",
+    "ua": "Вам надійшло повідомлення з півдня. Наші війська продовжують переслідувати армію Королеви Катерини, але вона продовжує свій похід на північ. У кращому разі, через три-чотири тижні вона буде в столиці.",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1069",
+    "en": "Warning",
+    "ua": "Warning",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1070",
+    "en": "Queen Catherine's march continues - her forces are just two weeks away. If you do not hurry, we will not have time to secure the capitol before her arrival.",
+    "ua": "Похід війська Королеви Катерини триває - її армія вже на відстані двох тижнів шляху. Якщо ви не поспішите, ми не встигнемо зайняти столицю до її приходу.",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1071",
+    "en": "Warning",
+    "ua": "Warning",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1072",
+    "en": "Your scouts report sighting Queen Catherine's army seven days to the southwest.  If she reaches the capitol before you, all is lost.",
+    "ua": "Ваші розвідники повідомляють, що бачили військо Королеви Катерини на південному заході на відстані тижневого шляху. Якщо вона виявиться в столиці раніше за вас, все буде втрачено.",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1073",
+    "en": "Ending",
+    "ua": "Ending",
+    "aligned": true
+  },
+  {
+    "var": "EVIL1_1074",
+    "en": "This morning, a massive army lead by Queen Catherine Ironfist arrived at the Erathian capitol of Steadwick. We have no choice but to retreat our forces. You have failed us... miserably.",
+    "ua": "Сьогодні вранці величезне військо під командуванням Королеви Катерини Айронфіст прибуло до столиці Ерафії, міста Стедвік. Нам не залишається іншого шляху, крім відступу. Як не сумно, але ви провалили завдання.",
+    "aligned": true
+  }
+]

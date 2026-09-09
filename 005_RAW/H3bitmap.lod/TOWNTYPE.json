@@ -1,0 +1,47 @@
+[
+  {
+    "var": "TOWNTYPE_1",
+    "en": "Castle",
+    "ua": "Замок"
+  },
+  {
+    "var": "TOWNTYPE_2",
+    "en": "Rampart",
+    "ua": "Твердиня"
+  },
+  {
+    "var": "TOWNTYPE_3",
+    "en": "Tower",
+    "ua": "Вежа"
+  },
+  {
+    "var": "TOWNTYPE_4",
+    "en": "Inferno",
+    "ua": "Інферно"
+  },
+  {
+    "var": "TOWNTYPE_5",
+    "en": "Necropolis",
+    "ua": "Некрополіс"
+  },
+  {
+    "var": "TOWNTYPE_6",
+    "en": "Dungeon",
+    "ua": "Підземелля"
+  },
+  {
+    "var": "TOWNTYPE_7",
+    "en": "Stronghold",
+    "ua": "Цитадель"
+  },
+  {
+    "var": "TOWNTYPE_8",
+    "en": "Fortress",
+    "ua": "Фортеця"
+  },
+  {
+    "var": "TOWNTYPE_9",
+    "en": "Conflux",
+    "ua": "Колонія"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "var": "EVIL1_campaign_name",
+    "field": "wrapper_campaign_name",
+    "en": "Dungeons and Devils",
+    "ua": "Підземелля і дияволи"
+  },
+  {
+    "var": "EVIL1_campaign_desc",
+    "field": "wrapper_campaign_desc",
+    "en": "Erathian history has never recorded the fall of Steadwick to her enemies.  Today we start a glorious campaign to forever change this fact.  No longer will we allow Erathia to hamper our religious and economic ways of life.  We have the element of surprise.  We will soon have victory as well.",
+    "ua": "Ніколи за всю історію Ерафії Стедвік не корився ворогові. Сьогодні ми покладемо цьому край. Більше Ерафія не зможе вказувати нам, у що вірити і чим торгувати. Фактор несподіванки зіграє нам на руку. Перемога не за горами."
+  }
+]

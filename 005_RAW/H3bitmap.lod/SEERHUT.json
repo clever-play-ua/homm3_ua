@@ -1,0 +1,492 @@
+[
+  {
+    "var": "SEERHUT_1",
+    "en": "\tSeer Hut Variant 1\tSeer Hut Variant 2\tSeer Hut Variant 3\tQuest Guard Variant 1\tQuest Guard Variant 2\tQuest Guard Variant 3",
+    "ua": "\tSeer Hut Variant 1\tSeer Hut Variant 2\tSeer Hut Variant 3\tQuest Guard Variant 1\tQuest Guard Variant 2\tQuest Guard Variant 3"
+  },
+  {
+    "var": "SEERHUT_Seer Empty Text",
+    "en": "Seer Empty Text\t\"This should be the home of %s the Seer, but it appears to have been abandoned for quite some time.\"\t\"The locals said this was the home of %s, but there is clearly no one here.\"\t\"You're convinced this was the home of %s, but it is clear it has been deserted for some time.\"\tTime has run out.  You will never pass here.\tTime has run out.  You will never pass here.\tTime has run out.  You will never pass here.",
+    "ua": "Seer Empty Text\t\"Мабуть, це дім віщуна, %s, але він виявився давно покинутим.\"\tМісцеві сказали, що в цьому домі жив віщун, %s, але зараз тут точно нікого немає.\tВи впевнені, що це дім віщуна, %s, та зрозуміло, що його покинули багато днів тому.\tЧас вийшов.  Вам тут не пройти.\tЧас вийшов.  Вам тут не пройти.\tЧас вийшов.  Вам тут не пройти."
+  },
+  {
+    "var": "SEERHUT_Experience level quest",
+    "en": "Experience level quest\t\"I am old and wise, and I do not admit just anyone into my home.  You may enter when you have reached experience level %d.\"\tThe reward I have is only for someone who is wise enough to handle it.  Achieve experience level %d and I will reward you.\t\"I am old, and dying.  Before I die I want to bequeath my possessions to someone worthy of them.  Achieve level %d and I will know of your worth.\"\t\"The lands beyond are very dangerous.  The guards eye you dubiously, but agree to let you by when you have achieved the experience level %d.\"\t\"I am sorry, but this is a guildhouse, and only those who are experienced enough can join.  Only those who are part of the guildhouse may pass.  Until you reach level %d, you may not join.\"\tWe have a problem with our King.  He doesn't like to be surrounded by immature people.  Therefore you need to be of %d level in order to pass through.  ",
+    "ua": "Experience level quest\tЯ старий і мудрий, чому не пускаю в дім першого стрічного.  Ти увійдеш лише тоді, коли досягнеш %d рівня.\tМоя нагорода лише для того, хто достатньо мудрий, аби нею володіти.  Дійди до рівня досвіду %d, і я обдарую тебе.\tЯ старий, і дні мої лічені.  Але перед смертю я б хотів передати свої скарби тому, хто їх гідний.  Здобудь рівень %d - тоді я зрозумію, що ти маєш право на них.\tЗемлі за воротами дуже небезпечні. Варта оглянула вас з підозрою, однак погодилася пропустити, коли ви досягнете %d рівня.\tМені шкода, та прохід лише для членів гільдії, куди можуть вступити лише найдостойніші.  Поки не досягнете %d рівня, ми не зможемо вас прийняти.\tНаш король не велів вас впускати.  Він не потерпить у своєму оточенні недосвідчених воїнів.  Вам потрібно досягнути як мінімум %d рівня, щоб пройти.  "
+  },
+  {
+    "var": "SEERHUT_Experience quest progress",
+    "en": "Experience quest progress\t\"Faugh.  You again.  Come back when you are level %d, as I told you.\"\t\"Not even close to level %d, leave me until you are there!\"\tYou are unworthy.  Only someone who is level %d will be worthy enough.\tThe guards here simply will not permit anyone below level %d to pass.\tThere is no way we're going to let a wimp like you into our guild.  Not until you are %d level can you join.\tOnly when you are level %d will our King stand for your presence.",
+    "ua": "Experience quest progress\tТьфу!  Знову ти.  Тобі ж сказано: повертайся, коли одержиш рівень %d.\tЩось не схоже, щоб ти досяг рівня %d! Іди й не повертайся, допоки не наберешся досвіду!\tТи не з гідних.  Лише той, хто досягне рівня %d, одержить право на скарб.\tТутешні вартові просто не пропустять того, чий рівень нижче %d.\tНаша гільдія не для жовтодзьобих.  Поки не здобудете рівень %d, ви не зможете стати одним з нас.\tЛише коли досягнете рівня %d, король змириться з вашою присутністю."
+  },
+  {
+    "var": "SEERHUT_Experience quest complete",
+    "en": "Experience quest complete\t\"I thought you had promise.  You have indeed reached level %d. Come in, come in.  Here, I have something to reward you for your efforts.  Do you accept?\"\t\"Ahhh, you have reached level %d.  Would you like to receive a reward?\"\t\"Finally, there is someone to whom I can bequeath my worldly possessions, now that you have achieved level %d do you wish to inherit?\"\tThe guards acknowledge that you have indeed reached level %d.  Do you wish to pass at this time?\tNow that you have reached %d level you may join our guild.  Membership is free.  Do you wish to pass at this time?\tExcellent!  Now that you are %d level our King will not have any problems with you.  Do you wish to pass at this time?",
+    "ua": "Experience quest complete\tЯ знав, що в тебе є всі задатки.  Ти й справді досягнув рівня %d. Заходь же!  В мене є нагорода за твої старання.  Чи приймеш її?\tАга, бачу, ти досягнув рівня %d.  Бажаєш одержати нагороду?\tНарешті знайшовся той, кому я зможу подарувати обіцяне. Чи бажаєш ти стати моїм спадкоємцем, герой рівня %d?\tВартові зрозуміли, що ви справді досягли %d рівня.  Бажаєте пройти?\tМи раді прийняти в нашу гільдію героя %d рівня.  Ласкаво просимо до наших лав.  Бажаєте пройти негайно?\tЧудово!  Король радий вітати у своєму оточенні героя %d рівня. Пройдете прямо зараз?"
+  },
+  {
+    "var": "SEERHUT_Experience quest rollover",
+    "en": "Experience quest rollover\t(reach level %d)\t(reach level %d)\t(reach level %d)\t(reach level %d)\t(reach level %d)\t(reach level %d)",
+    "ua": "Experience quest rollover\t(досягнути рівня %d)\t(досягнути рівня %d)\t(досягнути рівня %d)\t(досягнути рівня %d)\t(досягнути рівня %d)\t(досягнути рівня %d)"
+  },
+  {
+    "var": "SEERHUT_Experience quest log",
+    "en": "Experience quest log\tReach level %s and visit %s\tReach level %s and visit %s\tReach level %s and visit %s\tReach level %s to open gate\tReach level %s to open gate\tReach level %s to open gate",
+    "ua": "Experience quest log\tДосягнути рівня %s вас просить %s.\tДосягнути рівня %s вас просить %s.\tДосягнути рівня %s вас просить %s.\tДосягнути рівня %s, щоб відкрити ворота\tДосягнути рівня %s, щоб відкрити ворота\tДосягнути рівня %s, щоб відкрити ворота"
+  },
+  {
+    "var": "SEERHUT_Skill level quest",
+    "en": "Skill level quest\tI am a biographer of great heroes.  I'd really like to meet a hero who has mastered %s.  I'd pay well for his story.\tFor those who have attained %s there are great rewards.  When you are finished return to me and I will see what can be done.\t\"I am not likely to speak with anyone who is lesser than myself.  If you have %s then you will be better than I, and worthy of my attentions\"\tThe guard post here is manned by retired heroes.  They will not let you pass until you can prove you have mastered %s.\tOnly those who have reached %s are allowed to pass.  Our reasons are our own.\tA fair maiden languishes within the tower and only allows those who impress her to pass through.  You would need a %s in order to impress her.",
+    "ua": "Skill level quest\tЯ пишу житіє великих.  Я б дуже хотів зустрітися з героєм, якому до снаги %s.  Я б добре заплатив за його історію.\tВелика нагорода чекає на того, хто знає не з чуток, що таке %s.  Коли ви увійдете до їх числа, повертайтеся - я подивлюся, чим вам допомогти.\tЯ не маю настрою говорити з тими, хто нижчий мене.  Коли освоїш навичку %s, станеш вище мене - тоді й поговоримо.\tУ цій фортеці живуть бувалі герої.  Вони не пропустять вас, поки ви не доведете, що %s вам до снаги.\tЛише тим, хто володіє навичкою %s, дозволено пройти.  А чому так - наша справа.\tУ цій вежі нудиться прекрасна діва. Вона пропускає лише тих, хто справить на неї враження.  %s - ось, що треба, аби її вразити."
+  },
+  {
+    "var": "SEERHUT_Skill quest progress",
+    "en": "Skill quest progress\tHave you found a great hero for me to interview?  He must have reached %s.\t\"I am truly sorry, but you have not attained %s and I will not help you until then.\"\tYou are still unworthy.  Only someone with %s will be better than I.\t\"The retired heroes set you a series of tests, which you fail miserably.  Clearly you have not mastered %s.\"\t\"You have not reached %s, go away.\"\t\"She laughs because you have not yet reached %s, and are not impressive.\"",
+    "ua": "Skill quest progress\tВи підшукали мені великого героя для розмови - такого, щоб %s була йому до снаги?\tМені щиро шкода, але вам ніяк не до снаги %s. Нічим не можу вам допомогти.\tТи й далі негідний.  Лише ті, хто володіє навичкою %s перевершують мене.\tСтарі герої піддали вас ряду випробувань, які ви ганебно провалили.  Зрозуміло, що ви ще не освоїли навичку %s.\tВаша майстерність нижча, ніж %s. Ідіть геть.\tВона сміється: ваші навички не вражають, це вам не %s."
+  },
+  {
+    "var": "SEERHUT_Skill quest complete",
+    "en": "Skill quest complete\tI've always wanted to meet someone as famous as you.  Will you let me write down your life story?\t\"You have reached %s, as I knew you would.  Are you ready to see the great rewards as a result?\"\t\"It is a great thing to meet someone better than I.  You have achieved %s, will you accept the rewards of doing so?\"\t\"The retired heroes set you a series of tests, which you pass easily, demonstrating your mastery of %s.  Do you wish to pass?\"\tYou have reached %s.  Do you wish to pass?\tShe is very impressed by you because you have reached %s.  Do you wish to pass now?",
+    "ua": "Skill quest complete\tЗавжди бажав зустрінути людину вашої слави.  Ви дозволите мені написати про вас книгу?\tТак вам до снаги %s? У мене не було сумнівів щодо вас. Бажаєте одержати нагороду?\tПриємно зустріти когось кращого за себе.  Ви оволоділи навичку %s, бажаєте прийняти нагороду?\tСтарі герої піддали вас ряду випробувань, які ви з легкістю пройшли, продемонструвавши навичку %s.  Бажаєте пройти?\tВи справді володієте навичкою %s.  Бажаєте пройти?\t%s справляє на діву сильне враження.  Пройдете відразу?"
+  },
+  {
+    "var": "SEERHUT_Skill quest rollover",
+    "en": "Skill quest rollover\t(requires %s)\t( requires %s )\t( requires %s )\t( requires %s )\t( requires %s )\t( requires %s )",
+    "ua": "Skill quest rollover\t(потрібно %s)\t(потрібно %s)\t(потрібно %s)\t(потрібно %s)\t(потрібно %s)\t(потрібно %s)"
+  },
+  {
+    "var": "SEERHUT_Skill quest log",
+    "en": "Skill quest log\tLearn %s and visit %s\tLearn %s and visit %s\tLearn %s and visit %s\tLearn %s to open gate\tLearn %s to open gate\tLearn %s to open gate",
+    "ua": "Skill quest log\tОтримати навичку %s вимагає %s.\tДізнатися навик %s вимагає %s.\tДізнатися навичку %s вимагає %s.\tОволодіти навичкою %s, щоб відкрити ворота\tОволодіти навичкою %s, щоб відчинити ворота\tОсвоїти навичку %s, щоб відкрити ворота"
+  },
+  {
+    "var": "SEERHUT_Defeat hero quest",
+    "en": "Defeat hero quest\t\"I was once rich and famous, but %s the terrible was my downfall.  I lost my lands, I lost my title, and I lost my family.  Please, bring the villain to justice.\"\t\"Long ago I was in love, but %s killed my sweetheart.  Please, destroy this evil villian so I may live the rest of my life knowing my love's killer has been brought to justice.\"\tWe were driven from our home by %s.  If you could make sure they will never bother us again we would reward you greatly.\tThe guards here protect the lands beyond from the depredations of %s.  They will not let anyone pass so long as the threat remains.\t\"The guards were placed here in order to keep out %s, a hero of great power and evil intentions towards their people.  Until they are defeated no one shall pass.\"\t\"The Queen wants %s to be taught a lesson because they insulted her, calling her a fat old hag.  Until this is done she has closed the borders.\"",
+    "ua": "Defeat hero quest\tКолись я був багатий і знаменитий, але злий ворог %s погубив мене.  Я втратив землі, титул, я втратив сім'ю.  Благаю тебе, покарай негідника.\tДуже давно я був закоханий, але %s вбив мою кохану.  Будь ласка, прибий поганця, щоб я міг провести залишок днів із усвідомленням, що убивця не уник розплати.\t%s вигнали нас з нашого дому.  Якщо ви зробите так, щоб вони більше нас не доймали, ми щедро винагородимо вас.\tЦі воїни стережуть прилеглі землі, яким погрожує %s.  І вони не пропустять нікого, допоки загроза нависає над ними.\tВарта поставлена тут, щоб обороняти землі від героя великої сили та лихих думок на ім'я %s. Поки вороже військо не буде розбите, вони нікого не пропустять.\t%s завдав королеві страшної образи, коли назвав її старою гладкою каргою.  Поки правосуддя не здійсниться, ворота будуть зачинені."
+  },
+  {
+    "var": "SEERHUT_Defeat hero progress",
+    "en": "Defeat hero progress\t\"Oh, I wish you brought better news.  It aches my heart that %s still roams free.\"\t\"Still, the murder of my love, %s is left to freely wander the world.\"\t%s is still out there and can harm us.  Not until they are gone will we leave.\t\"The guards still fear %s, so you cannot pass.\"\t%s is still running around on the loose.\t%s has still not yet been taught a lesson.  ",
+    "ua": "Defeat hero progress\tО, я сподівався від вас інших новин.  Моє серце холоне від думки про те, що %s досі гуляє на волі.\tВбивця мої коханої, %s, й далі безкарно бродить по цьому світі.\t%s все ще погрожують нам.  Поки їх не виженуть, ми не підемо.\t%s все ще сповнює жахом серця вартових, вони вас не пропустять.\t%s все ще гуляє околицями.\t%s все ще не був покараний.  "
+  },
+  {
+    "var": "SEERHUT_Hero defeated",
+    "en": "Hero defeated\t\"I thought the day would never come!  %s is no more.  Please, will you accept this reward?\"\t\"Now I may continue with my sad life, that %s has been brought to justice.  For this comfort would you accept a reward?\"\t\"We are finally able to return to our home, no that %s has been defeated.  Would you accept a reward as a token of our gratitude?\"\t\"Now that you have vanquished %s, the threat is gone.  Do you wish to pass?\"\tSince %s has been defeated and is no longer a threat the guards may let people pass.  Do you wish to pass at this time?\tYou have taught %s a lesson so the Queen will allow people to pass.  Do you wish to at this time?",
+    "ua": "Hero defeated\tЯ думав, цей день ніколи не прийде!  Більше %s нікому не завдасть горя.  Прийміть свою нагороду.\tСьогодні я можу жити далі, у смутку, але з думкою, що %s більше нікому не завдасть горя. Прийміть нагороду за те, що заспокоїли мою душу.\tНарешті ми можемо повернутися до дому, бо %s в могилі.  Чи приймете ви нагороду як знак нашої вдячності?\t%s більше не загрожує цим землям. Бажаєте пройти?\t%s більше не становить загрози, і варта готова вас пропустити. Бажаєте пройти?\t%s покараний, королева розпорядилася відчинити ворота. Бажаєте пройти?"
+  },
+  {
+    "var": "SEERHUT_Hero quest rollover",
+    "en": "Hero quest rollover\t(defeat %s)\t(defeat %s)\t(defeat %s)\t(defeat %s)\t(defeat %s)\t(defeat %s)",
+    "ua": "Hero quest rollover\t(Вбити ворога на ім'я %s)\t(Вбити ворога на ім'я %s)\t(Вбити ворога на ім'я %s)\t(Вбити ворога на ім'я %s)\t(Вбити ворога на ім'я %s)\t(Вбити ворога на ім'я %s)"
+  },
+  {
+    "var": "SEERHUT_Hero quest log",
+    "en": "Hero quest log\tDefeat %s for %s\tDefeat %s for %s\tDefeat %s for %s\tDefeat %s to open gate\tDefeat %s to open gate\tDefeat %s to open gate",
+    "ua": "Hero quest log\tПокарати поганця на ім'я %s просить %s.\tПокарати поганця на ім'я %s просить %s.\tПокарати поганця на ім'я %s просить %s.\tВорота відчиняться, коли %s впаде\tВорота відчиняться, коли %s буде знищений\tВорота відчиняться, коли %s впаде"
+  },
+  {
+    "var": "SEERHUT_Defeat monster quest",
+    "en": "Defeat monster quest\t\"%s are menacing the %s region of this land.  If you could be so bold as to defeat them, I would reward you richly.\"\t\"A group of %s have driven us from our homes.  If you could drive them off we could go home, and would leave you with great rewards.\"\t\"In order to get to my sick mother I have to get by the %s first.  I am not a great warrior, but could reward you if the path was cleared.\"\t\"The Belted Knights of Erathia guard this tower.  They will only let one of their own pass.  To join the order, you must first defeat the %s of the %s region.\"\t%s are running loose out there.  We can't open the doors until each and every one is driven from the land.\t\"Our doors do not open for anyone.  Prove your loyalty by defeating our enemies, the %s.  Only then will you be allowed to pass.\"",
+    "ua": "Defeat monster quest\tЗагін %s сіє жах в %s частині світу. Якщо вам стане відваги розгромити їх, я щедро вас винагороджу.\tЗлі %s позбавили нас Батьківщини.  Якщо ви виженете їх, ми зможемо повернутися і залишимо для вас велику нагороду.\tЯ поспішав до своєї хворої матінки, але група %s перегородила мені шлях. Сам я битися не майстер, проте добре заплачу, якщо ви звільните для мене дорогу.\tЦю вежу охороняють лицарі Ерафії.  Вони пропускають лише своїх.  Щоб вступити до ордену, необхідно знищити %s у %s частині світу.\tНеподалік блукають орди диких %s.  Ми не можемо відчинити ворота, поки вони всі до одного не будуть вигнані з цієї землі.\tНаші двері відчинені не для всіх.  Доведіть свою вірність, розгромивши %s, наших ворогів.  Лише тоді вам дозволять пройти."
+  },
+  {
+    "var": "SEERHUT_Defeat monster progress",
+    "en": "Defeat monster progress\t\"Don't lose heart.  Defeating the %s is a difficult task, but you will surely succeed.\"\tThe %s have not been driven off.  Until then we cannot go home.\t\"My route is still infested with %s.  Please hurry, mother becomes more ill each day.\"\t\"The Belted Knights still will not let you pass, so you have not conquered the %s of the %s region.\"\tThe %s are still running loose.\tYou have not yet proved your loyalty by defeating the %s.  Leave us.",
+    "ua": "Defeat monster progress\tНе впадайте у відчай. Проти %s воювати не кожному під силу, однак ви без сумніву зможете їх подолати.\t%s все ще там.  І ми не можемо потрапити до дому.\tГрупа %s все ще перегороджує шлях.  Поспішіть, будь ласка: матінка слабшає з кожним днем.\tЛицарі не бажають прийняти вас до свого ордену. Ви ще не знищили %s у %s частині світу.\tДекілька %s усе ще на волі.\tВи ще не довели своєї вірності й не розбили %s.  Залиште нас."
+  },
+  {
+    "var": "SEERHUT_Monster defeated",
+    "en": "Monster defeated\t\"At last, you defeated the %s, and the countryside is safe again!  Are you ready to accept the reward?\"\tThe %s are gone from our home and we can return!  Will you accept this reward?\t\"The route is clear, I thank you deeply.  Take this as a symbol of my gratitude.\"\t\"News of your defeat of the %s of the %s region traveled quickly.  Do you wish to pass, oh newly Belted Knight?\"\tNow that the %s are gone we can open our doors.  Would you like to enter at this time?\tYour loyalty has been proven by defeating the %s.  Do you wish to pass at this time?",
+    "ua": "Monster defeated\tВи знищили %s і принесли в ці землі мир! Ви готові прийняти нагороду?\t%s вигнані з нашого дому, а ми можемо повернутися!  Ви приймете нагороду?\tШлях вільний, сердечно вам дякую.  Прийміть це як знак моєї прихильності.\tЗвістка про поразку %s і свободу %s частини світу дійшла швидше вітру.  Чи не бажаєте ви пройти, о наново навернений лицар?\tЗагроза %s минула, і ми можемо відчинити ворота.  Пройдете прямо зараз?\tЗнищивши %s, ви підтвердили свою вірність нашій справі. Бажаєте пройти не гаючись?"
+  },
+  {
+    "var": "SEERHUT_Monster quest rollover",
+    "en": "Monster quest rollover\t(defeat %s)\t(defeat %s)\t(defeat %s)\t(defeat %s)\t(defeat %s)\t(defeat %s)",
+    "ua": "Monster quest rollover\t(Знищити %s)\t(Знищити %s)\t(Знищити %s)\t(Знищити %s)\t(Знищити %s)\t(Знищити %s)"
+  },
+  {
+    "var": "SEERHUT_Monster quest log",
+    "en": "Monster quest log\tDefeat %s for %s\tDefeat %s for %s\tDefeat %s for %s\tDefeat %s to open gate\tDefeat %s to open gate\tDefeat %s to open gate",
+    "ua": "Monster quest log\tЗнищити %s просить %s.\tЗнищити %s просить %s.\tЗнищити %s просить %s.\tЗнищити %s, щоб відчинити ворота.\tЗнищити %s, щоб відчинити ворота.\tЗнищити %s, щоб відчинити ворота."
+  },
+  {
+    "var": "SEERHUT_Artifact quest",
+    "en": "Artifact quest\t\"Long ago, powerful wizards were able to create magical artifacts, but time has caused us to forget how to make new items.  I would like to learn these techniques myself, but I need one of these artifacts first to see how it was done.  If you could bring me, the %s, you would be well rewarded. \"\t\"I've spent my life buying, selling, and collecting artifacts, but lately I've been spending so much money acquiring new pieces I can hardly turn a profit.  I think I might be able to start mass-producing artifacts, but I've got to have one first to copy.  If you could bring me the %s, I will reward your efforts.\"\t\"In my younger days I'd have done this myself, but I need your help.  A friend of mine recently had a family heirloom stolen, and wants to find it.  The problem is that it looks exactly like the %s.  Please bring me any item that fits that description.  Even if the artifact is not the family heirloom, I will reward your efforts.\"\tA powerful wizard owns this tower.  He refuses to let you pass unless you bring him the %s.\tThis gate can only be opened with a very special key.  Bring back the %s and you will be able to pass.\t\"A small, henpecked man preers over the gate.  \"\"No one may pass.  My dog ate my wife's %s and I'm not leaving here until I find a replacement.\"\"\"",
+    "ua": "Artifact quest\tУ давні часи могутні чарівники вміли творити магічні артефакти, та з часом ми втратили давню майстерність.  Мені б хотілося відновити знання, однак для цього потрібен один з давніх артефактів, щоб подивитися, як він зроблений. Якщо ви принесете мені %s, будете добре винагороджені.  Ви згодні?\tУсе своє життя я купую, продаю і збираю артефакти, та нещодавно довелося потратити стільки грошей на новий товар, що на вигоду розраховувати не доводиться.  Думаю, можна було б розпочати серійний випуск артефактів, але для цього мені потрібен хоча б один зразок.  Якщо %s опиниться в моєму розпорядженні, я винагороджу ваші труди.  По руках?\tУ юнацькі роки мені це було б до снаги, та зараз не обійтися без допомоги.  Нещодавно у мого друга викрали сімейну реліквію, і він бажає її знайти.  Вона виглядає один до одного як %s. Будь ласка, принесіть мені будь-який предмет, що підходить під цей опис.  Навіть якщо артефакт виявиться зовсім не тим, що належав сім'ї мого друга, я вам віддячу.  Ви допоможете?\tЦією вежею володіє могутній чарівник.  Він відмовляється вас пропустити, поки в його руках не опиниться %s.\tДля цих воріт потрібен особливий ключ, і ключ цей - %s.\t\"З віконця виглядає рябий чоловічок.  \"\"Нікого не пущу.  Моя собака зжерла жінчину річ, і я не піду звідси, поки не дістану таку ж. А річ ця - %s.\"\"\""
+  },
+  {
+    "var": "SEERHUT_Artifact quest progress",
+    "en": "Artifact quest progress\t\"Nothing, eh?  I'm sure you will find the %s soon.  Please keep looking.\"\t\"You still haven't found the %s?  Well please keep looking, I lose money with each passing day!\"\t\"Nothing yet?  Ah well, keep trying, I'm sure the %s is out there somewhere.\"\t\"The wizard is admant.  Without the %s, none will pass.\"\t\"You have not yet found the key, without the %s you cannot pass.\"\t\"Sorry, that won't fool her.  You need the %s in order to get me to leave.\"",
+    "ua": "Artifact quest progress\tЩе не знайшли?  Нічого, рано чи пізно %s потрапить вам на очі.  Шукайте і знайдете.\t%s ще не у вас?  Покваптеся: з кожним днем я втрачаю гроші!\tВсе ще нічого?  Ох, не припиняйте пошуків: %s десь лежить і чекає.\tЧарівник невблаганний.  %s - або ніхто не пройде.\tТут знадобиться %s. Нема ключа - нема і проходу.\tПробач, але її не проведеш.  Щоб я зміг піти, потрібна ця річ, %s."
+  },
+  {
+    "var": "SEERHUT_Artifact quest completion",
+    "en": "Artifact quest completion\t\"Ah, exactly what I needed!  Here is the reward I promised.  You still wish to trade the %s, yes?\"\t\"Yes!  This %s is perfect!  Now if you'll kindly give it to me, I shall pay what I promised.\"\t\"Yes, this might just be what we're looking for!  May I please have the %s?\"\tThe wizard agrees to let you by in exchange for the %s.  Do wish to pass at this time?\tUsing the %s you may open the gate and pass through.  Do you wish to pass at this time?\t\"\"\"Give it here and you can pass.  Want a dog?  Just kidding, will you give %s to me?\"\"\"",
+    "ua": "Artifact quest completion\tАга! Якраз те, що потрібно!  Ось обіцяна нагорода.  Не передумали?\tТак!  %s підійде як ніщо краще! віддайте мені артефакт, і я заплачу вам обіцяне.\t%s - якраз те, що ми шукали! Я можу забрати у вас артефакт?\tЧарівник погодився пропустити вас в обмін на артефакт (%s).  Ви згідні?\t%s може відчинити ворота. Бажаєте пройти?\t\"\"\"Ага, у тебе в руках %s! Давай сюди, і можеш пройти.  Собаку на додачу хочеш?  Жартую, жартую. Так що, віддаси річ?\"\"\""
+  },
+  {
+    "var": "SEERHUT_Artifact quest rollover",
+    "en": "Artifact quest rollover\t(seeks %s)\t(seeks %s)\t(seeks %s)\t(seeks %s)\t(seeks %s)\t(seeks %s)",
+    "ua": "Artifact quest rollover\t(Принести артефакт %s)\t(Принести артефакт %s)\t(Принести артефакт %s)\t(Принести артефакт %s)\t(Принести артефакт %s)\t(Принести артефакт %s)"
+  },
+  {
+    "var": "SEERHUT_Artifact quest log",
+    "en": "Artifact quest log\tBring %s to %s\tBring %s to %s\tBring %s to %s\tFind %s to open gate\tFind %s to open gate\tFind %s to open gate",
+    "ua": "Artifact quest log\tДоставити артефакт (%s) замовнику (%s)\tДоставити артефакт (%s) замовнику (%s)\tДоставити артефакт (%s) замовнику (%s)\tЗнайти артефакт (%s), щоб відкрити ворота\tЗнайти артефакт (%s), щоб відчинити ворота\tЗнайти артефакт (%s), щоб відкрити ворота"
+  },
+  {
+    "var": "SEERHUT_Creature quest",
+    "en": "Creature quest\t\"I am an agent for an emperor of a distant land.  Recently, his armies have fallen on hard times.  If you could bring %s to me, I could pay you handsomely.\"\tIn order to travel through these dangerous lands my envoy needs more backup.  I hear %s are excellent guards.  If you were to bring them to me I would be deeply grateful\tIt is traditional for a groom to have an escort of %s in order to go to his bride.  We were attacked and most of my escort was killed.  If you could persuade them to help me I would be very grateful.\tThe King wants to see some %s.  In order for him to do so we need to look outside the kingdom.  Bring us them and we'll let you through.\tEach year during our Festival of Life we need some %s.  Bring some or don't bother coming back.  It is the only way you will pass.\tA mercenary troop occupies this tower.  They say they will let you pass if you bring them %s as recruits.",
+    "ua": "Creature quest\tЯ - агент тридев'ятого королівства.  Наші війська нещодавно зазнали великих втрат.  Якщо ви приведете мені %s в якості нових найманців, я добре заплачу.\tДля подорожі цими небезпечними землями моїй місії потрібен супровід.  Я чув про відвагу %s.  Якщо ви приведете їх до мене, я буду глибоко вдячний.\tЗгідно традиції наречений з'являється до нареченої з почтом %s. Дорогою на нас напали розбійники і перебили більшу частину мого почту. Поповніть її, і я буду перед вами в неоплатному боргу.\tНаш король забажав мати при дворі %s, і тепер ми ловимо їх по всьому королівству.  Приведи їх до нас, і ми тебе пропустимо.\tЩороку для Святкувань Життя потрібно безліч %s.  Приведи їх або не набридай нам.  Тільки так ти зможеш пройти.\tВежу займає загін найманців.  Вони кажуть, що не пропустять вас, поки ви не приведете їм нових найманців, %s."
+  },
+  {
+    "var": "SEERHUT_Creature quest progress",
+    "en": "Creature quest progress\t\"No luck in finding the %s?  Please hurry, the empire depends on you.\"\t\"I am sorry, but we really want %s as guards.\"\t\"No, those will simply not do.  You must bring me %s before I can go to my bride to be.\"\t\"I am sorry, but the King wants to only see %s, nothing else will do.\"\tNothing but %s will do for our Festival.  Begone until you have them.\tThe mercenaries still require %s before you may pass.",
+    "ua": "Creature quest progress\tЩе не набрали %s?  Будь ласка, покваптеся: Батьківщина у небезпеці!\tБудь ласка, приведіть %s. Вони дуже потрібні нам для охорони.\tБез %s я не зможу відправитися до своєї нареченої.\tМені шкода, але ніхто, крім %s, королю не згодиться.\tНіхто, крім %s, для святкування не потрібний. Повертайся, коли зможеш їх привести.\tБез %s найманців вас не пропустять."
+  },
+  {
+    "var": "SEERHUT_Creature quest complete",
+    "en": "Creature quest complete\t\"At last, the %s that will save our empire!  Here is your payment. Are they ready to depart?\"\tExcellent!  You have brought us the right amount of %s as guards.  Will you exchange them for a great reward?\tThank you so much kind travelor!  I will give you a bountiful reward in exchange for the service of those %s.\tExcellent!  You have found the %s the King is so anxious to see.  Let them go with us and you may pass.\tExcellent!  You may pass if you give us the %s.  Will you make the exchange now?\tThe mercenaries agree to let you pass in exchange for %s as recruits.  Do you wish to make the exchange now?",
+    "ua": "Creature quest complete\tЗагони %s врятують імперію!  Ось ваша плата. Вони готові до виходу?\tЧудово!  Під охороною %s ми будемо в безпеці. Бажаєте одержати нагороду?\tДякую вам, добрий перехожий!  Прийміть щедрі дари за %s.\tЧудово! Король буде радий бачити нових %s.  Передай їх ловцям, а сам можеш проходити.\tЧудово! Передай нам %s, і ми відкриємо перед тобою ворота. Згоден?\tВи привели %s, і найманці готові вас пропустити. Бажаєте здійснити обмін?"
+  },
+  {
+    "var": "SEERHUT_Creature quest rollover",
+    "en": "Creature quest rollover\t(seeks %s)\t(seeks %s)\t(seeks %s)\t(seeks %s)\t(seeks %s)\t(seeks %s)",
+    "ua": "Creature quest rollover\t(Привести %s)\t(Привести %s)\t(Привести %s)\t(Привести %s)\t(Привести %s)\t(Привести %s)"
+  },
+  {
+    "var": "SEERHUT_Creature quest log",
+    "en": "Creature quest log\tBring %s to %s\tBring %s to %s\tBring %s to %s\tFind %s to open gate\tFind %s to open gate\tFind %s to open gate",
+    "ua": "Creature quest log\tПривести %s одержувачу (%s).\tПривести %s одержувачу (%s).\tПривести %s одержувачу (%s).\tПривести %s, щоб відкрили ворота.\tПривести %s, щоб відкрили ворота.\tПривести %s, щоб відчинили ворота."
+  },
+  {
+    "var": "SEERHUT_Resource quest",
+    "en": "Resource quest\t\"I am researching a way to turn base metals into gold, but I am short of materials for my workshop.  If you could bring me %s, I would be most grateful.\"\tPlease help the poor children of the area.  If you could bring %s we could pay to have homes built for them.  I would be at your service.\t\"Please help me!  I was robbed on the way to my wedding, and without a dowry my future husband will not be able to accept me.  If you could bring me %s I would reward you.\"\tThe guards here are charging a toll of all travelers.  They will let you pass for %s.\tAll people must pay the King's Road Tax.  It is %s.  Unless you pay it we will not let you pay.\t\"We are quite sorry, but we refuse to move out of here and let you through.  If you were to bring us %s then we could move into another, comfortable home.\"",
+    "ua": "Resource quest\tЯ шукаю спосіб перетворювати звичайні метали в золото, але в моїй лабораторії не вистачає сировини.  Я був би надзвичайно вдячний, коли б ви принесли мені все необхідне: %s.\tБудь ласка, допоможіть селянським дітям із сусідніх сіл.  Коли б у нас був %s, ми могли б побудувати для них оселі.  Ми не забудемо вашої доброти.\tБудь ласка, допоможіть!  Мене пограбували дорогою до вівтаря, а без приданого майбутній чоловік не зможе зі мною одружитися.  Підійде і %s, а я вже вас нагороджу.\tМісцеві вартові беруть хабар зі всіх мандрівників. Їх влаштує %s.\tУсі зобов'язані платити королівське мито (%s).  Поки не заплатите, проходу не буде.\tНам дуже шкода, але ми відмовляємося піти звідси й пропустити вас.  Якщо ми одержимо трішки ресурсів (%s), тоді зможемо перебратися до іншого, затишнішого дому."
+  },
+  {
+    "var": "SEERHUT_Resource quest progress",
+    "en": "Resource quest progress\t\"Oh my, that's simply not enough.  I need %s.  I'll never complete it with what you have.\"\tNot unless all of %s is donated we cannot build adequate homes for the orphans.\tMy dowry must contain all of %s or I cannot get married.\t\"Since you have not brought %s, the guards forbid you passage.\"\tThat is not enough.  The King's Road Tax is %s.\tFor that pathetic amount we couldn't buy a shack.  We'll need at least %s in order to have a good home.",
+    "ua": "Resource quest progress\tО ні, цього просто не вистачить.  Мені потрібно: %s.  Без цього мені не завершити свої пошуки.\tБез цих ресурсів (%s) сироти залишаться на вулиці.\tБез приданого (%s) я так і залишуся у дівках!\tВи не принесли плату (%s), вартові відмовляються вас пустити.\tЦього мало.  Королівське мито складає %s.\tНа ці крихти й намету не купиш.  Для солідного дому потрібно значно більше (%s)."
+  },
+  {
+    "var": "SEERHUT_Resource quest complete",
+    "en": "Resource quest complete\t\"Finally!  Here, give the %s to me, and I'll give you this in return.\"\t\"Ahh, with all of the %s we can build good homes for them.  Would you accept this in return for your donation?\"\tThank you so much kind travelor!  If you give me %s I will give you a reward.  Will you trade?\tThe guards here are charging a toll of all travelers.  They will let you pass for %s.  Do you wish to pay the toll?\tIf you give us the King's Road Tax of %s we will let you pass.  Do you agree?\t\"Now that is the right kind of money.  With %s we can build or buy ourselves a nice place.  You give it here and we let you pass, eh?\"",
+    "ua": "Resource quest complete\tНарешті!  Отже, %s - мені, нагорода - вам.\t%s - то, що потрібно для притулку.  Прийміть наш скромний дар в обмін на свою пожертву.\tВелике вам дякую, добрий мандрівник!  Як тільки я одержу придане (%s),  нагорода ваша. Згодні?\tЗа помірковану плату (%s) вартові готові вас пропустити. Ви згодні заплатити їм?\tЯкщо ви внесете королівське мито в розмірі %s ми вас пропустимо.  Ви згодні?\tОсь тепер ми задоволені.  За %s можна побудувати або купити милий будиночок.  Платіть і проходьте, домовились?"
+  },
+  {
+    "var": "SEERHUT_Resource quest rollover",
+    "en": "Resource quest rollover\t(seeks %s)\t(seeks %s)\t(seeks %s)\t(seeks %s)\t(seeks %s)\t(seeks %s)",
+    "ua": "Resource quest rollover\t(Потрібно %s)\t(Потрібно %s)\t(Потрібно %s)\t(Потрібно %s)\t(Потрібно %s)\t(Потрібно %s)"
+  },
+  {
+    "var": "SEERHUT_Resource quest log",
+    "en": "Resource quest log\tBring %s to %s\tBring %s to %s\tBring %s to %s\tFind %s to open gate\tFind %s to open gate\tFind %s to open gate",
+    "ua": "Resource quest log\tДоставити ресурси (%s) одержувачу (%s).\tДоставити ресурси (%s) одержувачу (%s).\tДоставити ресурси (%s) одержувачу (%s).\tДоставити ресурси (%s), щоб відчинити ворота.\tДоставити ресурси (%s), щоб відчинити ворота.\tДоставити ресурси (%s), щоб відчинити ворота."
+  },
+  {
+    "var": "SEERHUT_Be hero quest",
+    "en": "Be hero quest\tWhat I have is for %s alone.  I shall give it to none other.\tWhat I have is for %s alone.  I shall give it to none other.\tWhat I have is for %s alone.  I shall give it to none other.\tThe guards here say they have orders to only let %s pass.\tThe guards here say they have orders to only let %s pass.\tThe guards here say they have orders to only let %s pass.",
+    "ua": "Be hero quest\tЛише %s може одержати те, чим я володію.  Більше нікому не віддам.\tЛише мій далекий друг %s здатний мені допомогти.  І нікому іншому я не віддам те, чим володію.\tЛише %s може одержати те, чим я володію.  Більше нікому не віддам.\tЦі вартові кажуть, що їм наказано пропустити лише героя на ім'я %s.\tЦі вартові кажуть, що їм наказано пропустити лише героя на ім'я %s.\tЦі вартові кажуть, що їм наказано пропустити лише героя на ім'я %s."
+  },
+  {
+    "var": "SEERHUT_Be hero quest progress",
+    "en": "Be hero quest progress\tYou are not %s.  Begone!\tYou are not %s.  Begone!\tYou are not %s.  Begone!\tThe guards here will only let %s pass.\tThe guards here will only let %s pass.\tThe guards here will only let %s pass.",
+    "ua": "Be hero quest progress\tВи не %s.  Ідіть звідси!\tВи не %s.  Ідіть звідси!\tВи не %s.  Ідіть звідси!\tЦі вартові пропустять лише героя на ім'я %s.\tЦі вартові пропустять лише героя на ім'я %s.\tЦі вартові пропустять лише героя на ім'я %s."
+  },
+  {
+    "var": "SEERHUT_Be hero quest complete",
+    "en": "Be hero quest complete\t\"Finally!  It is you, %s.  Here is what I have for you.  Do you accept?\"\t\"Finally!  It is you, %s.  Here is what I have for you.  Do you accept?\"\t\"Finally!  It is you, %s.  Here is what I have for you.  Do you accept?\"\t\"At last, it is %s.  Do you wish to pass?\"\t\"At last, it is %s.  Do you wish to pass?\"\t\"At last, it is %s.  Do you wish to pass?\"",
+    "ua": "Be hero quest complete\tНарешті!  %s, це й справді ти!  Ось що у мене для тебе є.  Візьмеш?\tНарешті, приятелю!  %s, чи це ти!  Ось що я для тебе приховав. Береш?\tНарешті!  %s, це й справді ти!  Ось що у мене для тебе є.  Візьмеш?\tНарешті це %s.  Бажаєте пройти?\tНарешті це %s.  Бажаєте пройти?\tНарешті це %s.  Бажаєте пройти?"
+  },
+  {
+    "var": "SEERHUT_Be hero quest rollover",
+    "en": "Be hero quest rollover\t(seeks %s)\t(seeks %s)\t(seeks %s)\t(seeks %s)\t(seeks %s)\t(seeks %s)",
+    "ua": "Be hero quest rollover\t(Потрібен герой %s)\t(Потрібен герой %s)\t(Потрібен герой %s)\t(Потрібен герой %s)\t(Потрібен герой %s)\t(Потрібен герой %s)"
+  },
+  {
+    "var": "SEERHUT_Be hero quest log",
+    "en": "Be hero quest log\tSend %s to %s\tSend %s to %s\tSend %s to %s\tSend %s to open gate\tSend %s to open gate\tSend %s to open gate",
+    "ua": "Be hero quest log\tПривести героя (%s) до замовника (%s).\tПривести героя (%s) до замовника (%s).\tПривести героя (%s) до замовника (%s).\tПривести до воріт героя (%s), щоб відкрити їх.\tПривести до воріт героя (%s), щоб відкрити їх.\tПривести до воріт героя (%s), щоб відкрити їх."
+  },
+  {
+    "var": "SEERHUT_Belong to player quest",
+    "en": "Belong to player quest\tI have a prize for those who fly the %s flag.\tI have a prize for those who fly the %s flag.\tI have a prize for those who fly the %s flag.\tThe guards here say they will only let those who fly the %s flag pass.\tThe guards here say they will only let those who fly the %s flag pass.\tThe guards here say they will only let those who fly the %s flag pass.",
+    "ua": "Belong to player quest\tЯ готовий обдарувати тих, над чиїми головами майоріє %s стяг.\tЯ готовий обдарувати тих, над чиїми головами майоріє %s стяг.\tЯ готовий обдарувати тих, над чиїми головами майоріє %s стяг.\tТутешні вартові кажуть, що пропустять лише тих, чий стяг %s.\tТутешні вартові кажуть, що пропустять лише тих, чий стяг %s.\tТутешні вартові кажуть, що пропустять лише тих, чий стяг %s."
+  },
+  {
+    "var": "SEERHUT_Belong to player quest progress",
+    "en": "Belong to player quest progress\tYour flag is not %s.  I have nothing for you.  Begone!\tYour flag is not %s.  I have nothing for you.  Begone!\tYour flag is not %s.  I have nothing for you.  Begone!\tThe guards here will only let those who fly the %s flag pass.\tThe guards here will only let those who fly the %s flag pass.\tThe guards here will only let those who fly the %s flag pass.",
+    "ua": "Belong to player quest progress\tВаш стяг не %s.  Для вас у мене нічого нема.  Ідіть звідси!\tВаш стяг не %s.  Для вас у мене нічого нема.  Ідіть звідси!\tВаш стяг не %s.  Для вас у мене нічого нема.  Ідіть звідси!\tВартові пропустять лише тих, чий стяг %s.\tВартові пропустять лише тих, чий стяг %s.\tВартові пропустять лише тих, чий стяг %s."
+  },
+  {
+    "var": "SEERHUT_Belong to player quest complete",
+    "en": "Belong to player quest complete\t\"Ah, one who bears the %s flag.  Here is a prize for you.  Do you accept?\"\t\"Ah, one who bears the %s flag.  Here is a prize for you.  Do you accept?\"\t\"Ah, one who bears the %s flag.  Here is a prize for you.  Do you accept?\"\tThe guards note your %s flag and offer to let you pass.  Do you accept?\tThe guards note your %s flag and offer to let you pass.  Do you accept?\tThe guards note your %s flag and offer to let you pass.  Do you accept?",
+    "ua": "Belong to player quest complete\tАх, я бачу %s стяг!  Ось ваша нагорода.  Приймете?\tАх, я бачу %s стяг!  Ось ваша нагорода.  Приймете?\tАх, я бачу %s стяг!  Ось ваша нагорода.  Приймете?\tВартові впізнали ваш %s стяг і пропонують пройти.  Ви готові?\tВартові впізнали ваш %s стяг і пропонують пройти.  Ви готові?\tВартові впізнали ваш %s стяг і пропонують пройти.  Ви готові?"
+  },
+  {
+    "var": "SEERHUT_Belong to player quest rollover",
+    "en": "Belong to player quest rollover\t(seeks hero with %s flag)\t(seeks hero with %s flag)\t(seeks hero with %s flag)\t(seeks hero with %s flag)\t(seeks hero with %s flag)\t(seeks hero with %s flag)",
+    "ua": "Belong to player quest rollover\t(Шукає героя, чий стяг %s)\t(Шукає героя, чий стяг %s)\t(Шукає героя, чий стяг %s)\t(Шукає героя, чий стяг %s)\t(Шукає героя, чий стяг %s)\t(Шукає героя, чий стяг %s)"
+  },
+  {
+    "var": "SEERHUT_Belong to player quest log",
+    "en": "Belong to player quest log\t\t\t\t\t\t",
+    "ua": "Belong to player quest log\t\t\t\t\t\t"
+  },
+  {
+    "var": "SEERHUT_Time limit",
+    "en": "Time limit\tYou must return in %d days.\tYou must return in %d days.\tYou must return in %d days.\tYou must return in %d days.\tYou must return in %d days.\tYou must return in %d days.",
+    "ua": "Time limit\tВи повинні встигнути за %d днів.\tВи повинні встигнути за %d днів.\tВи повинні встигнути за %d днів.\tВи повинні встигнути за %d днів.\tВи повинні встигнути за %d днів.\tВи повинні встигнути за %d днів."
+  },
+  {
+    "var": "SEERHUT_49",
+    "en": "\t\t\t",
+    "ua": "\t\t\t"
+  },
+  {
+    "var": "SEERHUT_Seer Hut Names (48)",
+    "en": "Seer Hut Names (48)\t\t\t",
+    "ua": "Seer Hut Names (48)\t\t\t"
+  },
+  {
+    "var": "SEERHUT_Abraham",
+    "en": "Abraham\t\t\t",
+    "ua": "Авраам\t\t\t"
+  },
+  {
+    "var": "SEERHUT_Goldwyn",
+    "en": "Goldwyn\t\t\t",
+    "ua": "Ґолдвін\t\t\t"
+  },
+  {
+    "var": "SEERHUT_Bryce",
+    "en": "Bryce\t\t\t",
+    "ua": "Брайс\t\t\t"
+  },
+  {
+    "var": "SEERHUT_Blain",
+    "en": "Blain\t\t\t",
+    "ua": "Блейн\t\t\t"
+  },
+  {
+    "var": "SEERHUT_Engle",
+    "en": "Engle\t\t\t",
+    "ua": "Інґл\t\t\t\t"
+  },
+  {
+    "var": "SEERHUT_Carsten",
+    "en": "Carsten\t\t\t",
+    "ua": "Карстайн\t\t\t"
+  },
+  {
+    "var": "SEERHUT_Dulcie",
+    "en": "Dulcie\t\t\t",
+    "ua": "Дульчі\t\t\t"
+  },
+  {
+    "var": "SEERHUT_Donard",
+    "en": "Donard\t\t\t",
+    "ua": "Донард\t\t\t"
+  },
+  {
+    "var": "SEERHUT_Esslock",
+    "en": "Esslock\t\t\t",
+    "ua": "Іслок\t\t\t"
+  },
+  {
+    "var": "SEERHUT_Evander",
+    "en": "Evander\t\t\t",
+    "ua": "Івандер\t\t\t"
+  },
+  {
+    "var": "SEERHUT_Frederick",
+    "en": "Frederick\t\t\t",
+    "ua": "Фредерик\t\t\t"
+  },
+  {
+    "var": "SEERHUT_Fay",
+    "en": "Fay\t\t\t",
+    "ua": "Фей\t\t\t"
+  },
+  {
+    "var": "SEERHUT_Genevieve",
+    "en": "Genevieve\t\t\t",
+    "ua": "Женев'єва\t\t\t"
+  },
+  {
+    "var": "SEERHUT_Horace",
+    "en": "Horace\t\t\t",
+    "ua": "Горацій\t\t\t"
+  },
+  {
+    "var": "SEERHUT_65",
+    "en": "Heather",
+    "ua": "Гітер"
+  },
+  {
+    "var": "SEERHUT_66",
+    "en": "Ike",
+    "ua": "Айк"
+  },
+  {
+    "var": "SEERHUT_67",
+    "en": "Jhem",
+    "ua": "Джем"
+  },
+  {
+    "var": "SEERHUT_68",
+    "en": "Julius",
+    "ua": "Юліус"
+  },
+  {
+    "var": "SEERHUT_69",
+    "en": "Joseph",
+    "ua": "Йозеф"
+  },
+  {
+    "var": "SEERHUT_70",
+    "en": "Kae",
+    "ua": "Кай"
+  },
+  {
+    "var": "SEERHUT_71",
+    "en": "Kendrick",
+    "ua": "Кендрик"
+  },
+  {
+    "var": "SEERHUT_72",
+    "en": "Lynwood",
+    "ua": "Лінвуд"
+  },
+  {
+    "var": "SEERHUT_73",
+    "en": "Kyriell",
+    "ua": "Кіріель"
+  },
+  {
+    "var": "SEERHUT_74",
+    "en": "Marigold",
+    "ua": "Маріґолд"
+  },
+  {
+    "var": "SEERHUT_75",
+    "en": "Norwood",
+    "ua": "Норвуд"
+  },
+  {
+    "var": "SEERHUT_76",
+    "en": "Clova",
+    "ua": "Клова"
+  },
+  {
+    "var": "SEERHUT_77",
+    "en": "Tim",
+    "ua": "Тім"
+  },
+  {
+    "var": "SEERHUT_78",
+    "en": "Gier",
+    "ua": "Джайр"
+  },
+  {
+    "var": "SEERHUT_79",
+    "en": "Paige",
+    "ua": "Пейдж"
+  },
+  {
+    "var": "SEERHUT_80",
+    "en": "Pierce",
+    "ua": "П'єрс"
+  },
+  {
+    "var": "SEERHUT_81",
+    "en": "Rae",
+    "ua": "Рей"
+  },
+  {
+    "var": "SEERHUT_82",
+    "en": "Raphael",
+    "ua": "Рафаель"
+  },
+  {
+    "var": "SEERHUT_83",
+    "en": "Rex",
+    "ua": "Рекс"
+  },
+  {
+    "var": "SEERHUT_84",
+    "en": "Hester",
+    "ua": "Гестер"
+  },
+  {
+    "var": "SEERHUT_85",
+    "en": "Spiridion",
+    "ua": "Спиридіон"
+  },
+  {
+    "var": "SEERHUT_86",
+    "en": "Skye",
+    "ua": "Скай"
+  },
+  {
+    "var": "SEERHUT_87",
+    "en": "Rival",
+    "ua": "Райвал"
+  },
+  {
+    "var": "SEERHUT_88",
+    "en": "Timeus",
+    "ua": "Тімеус"
+  },
+  {
+    "var": "SEERHUT_89",
+    "en": "Sulmand",
+    "ua": "Салманд"
+  },
+  {
+    "var": "SEERHUT_90",
+    "en": "Rizlav",
+    "ua": "Рицлав"
+  },
+  {
+    "var": "SEERHUT_91",
+    "en": "Violet",
+    "ua": "Віолет"
+  },
+  {
+    "var": "SEERHUT_92",
+    "en": "Wendell",
+    "ua": "Вендел"
+  },
+  {
+    "var": "SEERHUT_93",
+    "en": "Winston",
+    "ua": "Вінстон"
+  },
+  {
+    "var": "SEERHUT_94",
+    "en": "Xanthe",
+    "ua": "Ксант"
+  },
+  {
+    "var": "SEERHUT_95",
+    "en": "Xavier",
+    "ua": "Ксав'є"
+  },
+  {
+    "var": "SEERHUT_96",
+    "en": "Yvette",
+    "ua": "Іветта"
+  },
+  {
+    "var": "SEERHUT_97",
+    "en": "Zaray",
+    "ua": "Зарай"
+  },
+  {
+    "var": "SEERHUT_98",
+    "en": "Zoe",
+    "ua": "Зоя"
+  }
+]

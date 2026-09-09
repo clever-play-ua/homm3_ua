@@ -1,0 +1,15 @@
+{
+  "sequences": [
+    {
+      "group": 0,
+      "frames": [
+        "CSSCUS.dir\\00_00.png",
+        "CSSCUS.dir\\00_01.png",
+        "CSSCUS.dir\\00_02.png",
+        "CSSCUS.dir\\00_03.png"
+      ]
+    }
+  ],
+  "type": 66,
+  "format": 1
+}

@@ -1,0 +1,260 @@
+[
+  {
+    "var": "FOOL_M2_prolog",
+    "field": "wrapper_prolog",
+    "en": "Sir Christian was on his way home when one of his crewmembers discovered that the boat had no navigational equipment. Instead of getting a sailing ship, they got a dinghy for short distance traveling.  After many days and nights at sea, they found their salvation and discovered another small island... full of pirates.",
+    "ua": "Сер Крістіан вже майже зневірився повернутися додому, коли один з членів команди виявив занедбаний човен. Оскільки можливості дістати вітрильний корабель не передбачалося, довелося задовольнятися цією посудиною, благо можна було доплисти до сусіднього острова. Після кількох днів і ночей, проведених на благенькому суденці, мандрівникам все ж таки вдалося досягти невеликого острова... повного піратів."
+  },
+  {
+    "var": "FOOL_M2_epilog",
+    "field": "wrapper_epilog",
+    "en": "I do not know if it is poetic justice, a bad joke, or plain rudeness, but I was informed my native friends 'forgot' the rather important navigational equipment.  After many days and nights, we found our salvation and discovered another small island... full of pirates.  Apparently they too do not understand the art of the fragarance alchemist.",
+    "ua": "Чи це знову відплата, чи поганий жарт, чи жахлива недбалість, але мої друзі-аборигени \"забули\"оснастити корабель деяким навігаційним обладнанням. Після довгих поневірянь ми, нарешті, побачили на обрії благословенну землю. Ще один острівець... цього разу населений піратами. До речі, пірати теж не цінують працю парфумера."
+  },
+  {
+    "var": "FOOL_M2_map_name",
+    "field": "map_map_name",
+    "en": "Here There Be Pirates",
+    "ua": "Тут були пірати"
+  },
+  {
+    "var": "FOOL_M2_map_desc",
+    "field": "map_map_desc",
+    "en": "Great challenges lie before Sir Christian. To win, he must capture all enemy towns and castles and defeat all enemy heroes. He will be limited to experience level 24. If he wins, he will carry over his experience, primary skills, secondary skills, and his spell book. If he fails, his quest is over.",
+    "ua": "Сера Крістіана чекають великі випробовування. Щоб перемогти, він повинен захопити всі ворожі міста і замки, а також знищити всіх ворожих героїв. Він буде обмежений 24 рівнем. Якщо сер Крістіан переможе, його досвід, первинні та вторинні навички і Чарівна книга перейдуть у наступний сценарій."
+  },
+  {
+    "var": "FOOL_M2_obj1348_guardian_mesg",
+    "field": "map_obj1348_guardian_mesg",
+    "en": "A pack of hideous, drunken zombies approach you. \"You best watch yourself. We're wanted men.\"  \"Men?\" you reply. \"We've got the death mark in twelve lands.\" \"I'll be careful.\" you say cautiously. \"You will be DEAD!\" \nSuddenly, they lunge at you.\n",
+    "ua": "До вас підходить банда потворних п'яних зомбі. Один з них звертається до вас: \"Поводитися тихо. Я і мої люди...\" \"Люди?\" - перепитує ви. \"Нам винесено смертний вирок у десяти королівствах.\" \"Я буду обережний\", - з острахом говорите ви. \"Ти будеш ВБИТИЙ!\"\nРаптово вони кидаються на вас."
+  },
+  {
+    "var": "FOOL_M2_obj1352_monster_mesg",
+    "field": "map_obj1352_monster_mesg",
+    "en": "Go to the Stronghold. ",
+    "ua": "\"Йди в Цитадель\". "
+  },
+  {
+    "var": "FOOL_M2_obj1354_guardian_mesg",
+    "field": "map_obj1354_guardian_mesg",
+    "en": "While relieving yourself, you find a leprechaun. Expecting to get his pot of gold, the leprechaun gives you a bowl of cereal instead.",
+    "ua": "Відпочиваючи, ви зустрічаєте гнома. Ви сподіваєтеся отримати його горщик із золотом, але замість нього він підсовує вам шоколадку."
+  },
+  {
+    "var": "FOOL_M2_obj1357_guardian_mesg",
+    "field": "map_obj1357_guardian_mesg",
+    "en": "It sure is hot out. You could fry a dozen eggs over-easy on the saddle of your horse. You decide to stop at the stream for a drink of fresh water and rest.",
+    "ua": "Ну і спека! На сідлі вашого коні можна запросто смажити яєчню. Ви вирішуєте зупинитися біля джерела, щоб напитися і відпочити."
+  },
+  {
+    "var": "FOOL_M2_obj1360_monster_mesg",
+    "field": "map_obj1360_monster_mesg",
+    "en": "\"You look like a sissy!\"",
+    "ua": "\"Тобі не здається, що ти схожий на голубого?\""
+  },
+  {
+    "var": "FOOL_M2_obj1817_sign_mesg",
+    "field": "map_obj1817_sign_mesg",
+    "en": "I'm sending out an SOS",
+    "ua": "Ситуація - Help! Ситуація - SOS!"
+  },
+  {
+    "var": "FOOL_M2_obj1818_sign_mesg",
+    "field": "map_obj1818_sign_mesg",
+    "en": "Help me, Rhonda",
+    "ua": "Допоможи мені, Обі-ван Кенобі."
+  },
+  {
+    "var": "FOOL_M2_obj1880_sign_mesg",
+    "field": "map_obj1880_sign_mesg",
+    "en": "Help! I need somebody",
+    "ua": "Допоможи мені! Допоможи мені!"
+  },
+  {
+    "var": "FOOL_M2_obj1881_sign_mesg",
+    "field": "map_obj1881_sign_mesg",
+    "en": "I'll get by with a little help from my friends.\n",
+    "ua": "Я прошу - поговоріть зі мною, друзі."
+  },
+  {
+    "var": "FOOL_M2_obj1882_sign_mesg",
+    "field": "map_obj1882_sign_mesg",
+    "en": "This fine ale bottled at New World brewery.",
+    "ua": "Розлито в пивоварнях компанії \"Нью Уорлд\"."
+  },
+  {
+    "var": "FOOL_M2_obj1903_sign_mesg",
+    "field": "map_obj1903_sign_mesg",
+    "en": "To he who may unscramble this message: A Greene Virus Toy. The heavens shall smile upon thee.",
+    "ua": "Збери три таких послання - і отримаєш Рудого Гобліна та його друзів."
+  },
+  {
+    "var": "FOOL_M2_obj2435_monster_mesg",
+    "field": "map_obj2435_monster_mesg",
+    "en": "\"Go to the Stronghold and get yourself a real army!\" ",
+    "ua": "\"Йди в Цитадель та набери собі нормальну армію!\""
+  },
+  {
+    "var": "FOOL_M2_obj2467_guardian_mesg",
+    "field": "map_obj2467_guardian_mesg",
+    "en": "Just as the goblins had said, there is a guard at the town entrance and he asks to see your ID badge. The tall gangly fellow takes his badge out. \"I wear mine proudly! You should to.\" You smile at him and take your badge. You look around in the town and notice that there is no sign of a tavern. A town full of pirates and no tavern? Strange. As you enter the fear of dealing with Alanon pirates crosses your mind. This could be bad.",
+    "ua": "Як вас і попереджали гобліни, біля входу в місто стоїть вартовий, рослий чолов'яга. Він просить вас показати ваш значок. \"Я свій значок ношу з гордістю! І ти повинен носити свій з гордістю.\" Ви обдаровуєте його усмішкою і, показавши значок, проходите. Озирнувшись, ви помічаєте, що в місті немає таверни. Повне місто піратів - і немає таверни? Дуже дивно. Невже доведеться йти до піратів Аргуса? Це може означати великі неприємності."
+  },
+  {
+    "var": "FOOL_M2_obj2512_guardian_mesg",
+    "field": "map_obj2512_guardian_mesg",
+    "en": "An undead dead drunk approaches you and invites you to the bi-annual undead convention. \"Come!\" He tells you overzealously. \"Come with me to Leper-con. You will be my guest.\" As he excitedly shook your hand with both hands his arms fall off right at the shoulders. He begins laughing loudly and apologizing. Your stomach turns but you notice that these arms are cold and very heavy. He continues to laugh at you. You heft the arms up so can get a closer look. \"Would you look at that?\" You show everyone.",
+    "ua": "До смерті п'яний живий мрець пропонує вам відвідати щорічну конференцію нежиті. \"Ходімо!\" - Несподівано енергійно закликає він вас, - \"Ходімо зі мною на Конференцію виплодків, які розкладаються, Запрошую.\" Він так сильно трясе вашу руку обома своїми, що вони відвалюються. Покійник, сміючись, починає вибачатися. Вас майже нудить, але ви, не подаючи виду, спокійно говорите своїм радникам, що зомбі останнім часом зовсім відбилися від рук."
+  },
+  {
+    "var": "FOOL_M2_obj2560_event_name",
+    "field": "map_obj2560_event_name",
+    "en": "Build Tavern",
+    "ua": "Build Tavern"
+  },
+  {
+    "var": "FOOL_M2_obj2560_event_mesg",
+    "field": "map_obj2560_event_mesg",
+    "en": "The pirates have fallen off the wagon and have built a tavern in your name. (Of course.) You had a sneaking suspicion that the Alanon program would, for some reason, fall apart.",
+    "ua": "З повозки вистрибнули пірати й одразу ж звели таверну, яку одразу ж назвали на вашу честь (а на чию ще ж?). Щось підказує, що піратам Аргуса доведеться згортати свій бізнес найближчим часом."
+  },
+  {
+    "var": "FOOL_M2_obj2583_monster_mesg",
+    "field": "map_obj2583_monster_mesg",
+    "en": "A pack of mages appear in your path. They refuse to let anyone pass. This looks like a situation that could resort to violence, but you respect your those who might be more powerful than yourself. One mage challenges you to a battle of wits with a game of chess. If he wins, you die. If you win, the mages will permit you to pass. In this battle you are weaponless. You draw your sword.",
+    "ua": "Декілька магів перекрили вам шлях. Вони відмовляються пропускати будь-кого. В такій ситуації інший би взявся за зброю, але ви з повагою відноситесь до тих, хто може бути сильнішим за вас. Один з магів пропонує вам змагання розуму - гру в шахи. Якщо ви програєте, вам доведеться померти. Якщо переможете, маги дозволять вам пройти. В цій битві вам точно не перемогти, тому ви все ж таки дістаєте зброю."
+  },
+  {
+    "var": "FOOL_M2_obj2597_guardian_mesg",
+    "field": "map_obj2597_guardian_mesg",
+    "en": "From out of nowhere an extremely bright flashing light consumes the surroundings of you and your noble army. The flashing was so intense that you all fall unconscious.  In the center of the blinding light hordes of kreegans appear. Immediately they begin taking your belongings. Moments later they disappear and you and your troops awaken. You search to see what they had stolen.",
+    "ua": "Спалахи яскравого світла опромінюють вас і вашу армію. Від швидкого мигання всі ви впадаєте у транс. Раптово зі сліпучих променів з'являються орди криганців, які негайно починають викрадати ваші речі. Через мить криганці зникають, а ви і ваші воїни приходите в себе і перевіряєте, що саме вкрадено."
+  },
+  {
+    "var": "FOOL_M2_obj2598_sign_mesg",
+    "field": "map_obj2598_sign_mesg",
+    "en": "Area 51",
+    "ua": "Зона 51"
+  },
+  {
+    "var": "FOOL_M2_obj2599_guardian_mesg",
+    "field": "map_obj2599_guardian_mesg",
+    "en": "You meet the captain. A foul-smelling, foul-mouthed fat old ogre. In a gravely voice, he introduces himself and gives you your quest. \"Ahoy there matey. They call me Dread Pirate Hogfling. Pleasure to meet ya!\" He smacks you hard on the back. \"There's not much time. If my records are right, and they generally are not, you are to...no, that quest is for later. Ah, here is yours.  You see those neighboring three islands? Our enemies are on those islands. You quest is to defeat them and take over their islands. If you succeed my assistant, Hogfling, will await you aboard a ship to get you out of here and on your way home!\" You thank him and think to yourself \"Hogfling, What an unfortunate name.\"",
+    "ua": "Ви зустріли капітана. Це товстий смердючий старий огр, що постійно сквернословить гучним басом. Він представляється і дає вам завдання: \"Ласкаво просимо на борт, юнга! Мене називають Жахливим Хогфлінгом. Радий познайомитися.\" Він з розмаху ляскає вас по спині.\" У тебе мало часу. Якщо мої записи вірні, а таке буває дуже рідко, то тобі потрібно... ні, це не те завдання. А, ось це твоє. Бачиш ці три острови? На них живуть наші вороги. Ти повинен знищити їх і захопити острови. Якщо тобі це вдасться, мій помічник Хогфлінг буде чекати тебе на кораблі, який відвезе тебе додому.\" Ви дякуєте йому, про себе думаючи: \"Хогфлінг. Що за неоковирне ім'я.\""
+  },
+  {
+    "var": "FOOL_M2_obj2600_guardian_mesg",
+    "field": "map_obj2600_guardian_mesg",
+    "en": "You approach the orcs that guard the stronghold town. Suddenly you are surrounded by goblins that bombard you with large stacks of paperwork.  Your ignorance consumes you. \"A pirates' union?\" you ask. \"Yes of course. And take this,\" one goblin says. He hands you an ID badge. \"You must show this at the town entrance. We can never be too careful around here. And with the ID you'll get a discount on all drinks at the town tavern!\"  After selling your soul to the Regnan Pirates you are instructed to go to the stronghold to receive your quest.",
+    "ua": "Ви підходите до орків, вартових Цитаделі. Раптово вас оточують гобліни, які буквально завалюють вас стопками паперів. У повній розгубленості ви питаєте: \"Піратська профспілка?\" \"Ну звичайно ж! Ось, візьміть.\", - вимовляє один з гоблінів і дає вам профспілковий значок, - \"Ви повинні показати його вартовому на вході. У цих краях нам доводиться йти на всі можливі запобіжні заходи. Крім того, цей значок дає право на знижку на будь-яку випивку в міській таверні.\" Продавши свою душу піратам Регни, ви прямуєте до Цитаделі, щоб отримати своє завдання."
+  },
+  {
+    "var": "FOOL_M2_obj3163_monster_mesg",
+    "field": "map_obj3163_monster_mesg",
+    "en": "\"You come any closer and the whole cart goes up in flames!\"",
+    "ua": "\"Коли я запалю нафту, тобі стане зовсім добре!\""
+  },
+  {
+    "var": "FOOL_M2_obj3268_guardian_mesg",
+    "field": "map_obj3268_guardian_mesg",
+    "en": "On the way to the tavern, several combat-hardened cyclopses stop you. They began looking over your troops. \"How long have you had these troops?\" asks one of the cyclopses. \"A while now Sir. These are not the troops you're looking for so lay off.\" \"Move along,\" said the cyclops.",
+    "ua": "На шляху до таверни вас зупиняють кілька бойових циклопів. Вони оглядають ваші війська. \"Чи давно у вас ці воїни?\" - Запитує один з циклопів. \"Досить давно. Це не ті воїни, яких ви шукаєте. Зараз ви дасте нам пройти.\" \"Проходьте\", - говорить циклоп."
+  },
+  {
+    "var": "FOOL_M2_obj3846_sign_mesg",
+    "field": "map_obj3846_sign_mesg",
+    "en": "Here's the gold. It's new and improved. Brought to you by the troglodytes. The sweetest smelling troglodytes in the world. ",
+    "ua": "Нове, покращене золото в економічній скрині від найароматніших троглодитів у світі."
+  },
+  {
+    "var": "FOOL_M2_obj3851_quest_proposal",
+    "field": "map_obj3851_quest_proposal",
+    "en": "A powerful wizard owns this tower.  He refuses to let you pass unless you bring him the Orb of Inhibition. You'll find a teleporter near this artifact. It will lead you back near here.",
+    "ua": "Баштою володіє могутній чародій. Він відмовляється пропустити вас, доки ви не принесете йому Сферу стримання. Біля вказаного артефакту ви знайдете телепорт, який знову перенесе вас сюди."
+  },
+  {
+    "var": "FOOL_M2_obj3851_quest_progress",
+    "field": "map_obj3851_quest_progress",
+    "en": "The wizard is admant.  Without the Orb of Inhibition, none will pass. Don't forget about the teleporter.",
+    "ua": "Чародій непорушен: \"Ніхто не пройде тут без Сфери стримання. И не забудь про телепорт\"."
+  },
+  {
+    "var": "FOOL_M2_obj3852_sign_mesg",
+    "field": "map_obj3852_sign_mesg",
+    "en": "The item you need lies in the southeast.  All your troubles end when passing the Quest Guard.",
+    "ua": "Те, що ви шукаєте, знаходиться на південному сході. Пройдете завдання варти - і вашим халепам кінець."
+  },
+  {
+    "var": "FOOL_M2_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Intro 1",
+    "ua": "Intro 1"
+  },
+  {
+    "var": "FOOL_M2_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "It looks as if Sir Christian would be on his way home when one of his crewmembers discovered that the boat had no navigational equipment. Instead of getting a sailing ship, they got a dinghy for short distance traveling. The crewmembers began to wonder what kind of bet Sir Christian had lost. On the clear nights he used the stars to navigate his craft. But still had no idea where they were heading. After several days, scurvy, horrendous body odor, and severe sunburn one of the crewmembers spotted a small island flying a purple flag. The weak vessel held up well for most of the journey but was really beginning to take a beating from the rough ocean waters. Sir Christian decided to land his galley before it sank right from under his feet. Once ashore he met with the leader of the village to learn they were the world famous Regnan Pirates in charge of smuggling stolen loot to between Erathia and Enroth. Sir Christian explained his situation to the leader of the village who then agreed to help him in one condition: Sir Christian would have to swear undying loyalty to the pirates and complete secrecy to their operation. The alternative was to get the comfy chair. After a moment of thought and consideration, Sir Christian came to the conclusion that he had no choice and joined the pirates. From the sound of it he didn't want to know what the comfy chair is. The pirates would help Sir Christian after he completed a small quest. Reluctantly, Sir Christian agrees but begins to sow the ocean with messages sealed in bottles hoping that one might reach Enroth and a rescue ship will be sent.",
+    "ua": "Здавалося, що тепер серу Крістіану ніщо не завадить повернутися додому, як раптом один з членів команди виявив, що на кораблі немає навігаційних приладів. Замість морського судна їм підсунули човник, на якому далеко не запливеш. Команда вже почала подумувати, чи не є їх теперішнє становище результатом якого-небудь дурного парі, програного сером Крістіаном. У ясні ночі герой намагався вести корабель по зірках, але не особливо досяг успіху в цьому. Через кілька днів, проведених у боротьбі з цингою, смородом і опіками від сонця, один з матросів зауважив невеликий острівець під фіолетовим прапором. До останнього часу суденце стійко зносило мінливості долі, але океанська вода вже почала проїдати його корпус. Сер Крістіан вирішив, що краще буде причалити до берега, щоб не потонути разом з кораблем. На березі він дізнався, що цей острів - притулок знаменитих піратів Регни, що займаються контрабандою добра, награбованого в морях Ерафії й Енрота. Сер Крістіан розповів про свої пригоди отаману піратів, який погодився допомогти йому за умови, що герой поклянеться бути вірним піратському братству і нікому не розповість про їх таємниці, якщо ж сер Крістіан відмовиться, його чекає \"прогулянка під вітрилом\". Обміркувавши пропозицію, сер Крістіан прийшов до висновку, що йому доведеться стати піратом. Йому зовсім не хотілося на собі перевіряти, що пірати називають \"прогулянкою під вітрилом\". Пірати пообіцяли допомогти героєві після того, як він виконає для них невелике завдання. Сер Крістіан з небажанням погодився, однак таємно відправив в океан безліч послань у пляшках, сподіваючись, що хоч одна з них досягне Енрота, і за ним пришлють корабель."
+  },
+  {
+    "var": "FOOL_M2_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Day 8",
+    "ua": "Day 8"
+  },
+  {
+    "var": "FOOL_M2_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "Beware of the fiery swamps in the underground. The enemy has taken over a fairly large fort down there. Therefore, you must overthrow that fort as well as the others. Take extreme caution when traveling there. Watch out for the R.O.U.S.'s!  Remember, there's not much time... Good luck, The Captain",
+    "ua": "Ворог захопив великий Форт у підземеллі. Тобі доведеться підкорити цей Форт, як і інші. Пересувайся дуже обережно - можеш напоротися на засідку! Бережися підземних боліт. Врахуй, у тебе не так вже й багато часу... Успіху!\nКапітан"
+  },
+  {
+    "var": "FOOL_M2_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Union Dues",
+    "ua": "Union Dues"
+  },
+  {
+    "var": "FOOL_M2_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "Congratulations again on your joining the Regnan Pirates Union. It's great to have you with us. You are now among the finest in piracy.  To keep your dues paid up please contribute to your pirate brethren. Your generous donation will help find a cure for scurvy and help thousands of C.O.A.P. (Children of Adult Pirates) get nutrition and the best piracy training gold can buy. Once again, thank you for your support.",
+    "ua": "Ще раз вітаємо зі вступом в профспілку піратів Регни. Ми щиро раді цій події. Ваші колеги - найкращі представники піратства. Будь ласка, не забувайте сплачувати членські внески. Ваше золото піде на пошуки ліків проти цинги, а також допоможе ДЦП (дітям цивілізованих піратів) отримати правильне харчування і кращу піратське освіту. Ще раз дякуємо за підтримку."
+  },
+  {
+    "var": "FOOL_M2_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "Day 9",
+    "ua": "Day 9"
+  },
+  {
+    "var": "FOOL_M2_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "Your advisor suggests that you send off some spies to the other islands to get inside information about the enemies. Lucky for you Rent-A-Spy was having a Two-For-One deal this week only. You hire four spies. You glance at your own troops and a sad and desperate look comes across your face. \"Bunch of drunken fools! You all should've been hired as jesters,\" you say to yourself. ",
+    "ua": "Ваш радник пропонує послати розвідників на інші острови, щоб зібрати інформацію про ворогів. До Вашої великої радості, \"Шпигуни за викликом\" цього тижня пропонують новий тариф \"Два за ціною одного.\" Ви найняли чотирьох шпигунів. З сумом ви дивитеся на власні війська. \"Збіговисько п'яних нікчем! блазнями вам бути, а не воїнами!\" - Думаєте ви про себе."
+  },
+  {
+    "var": "FOOL_M2_mapevent4_name",
+    "field": "map_mapevent4_name",
+    "en": "Day 30",
+    "ua": "Day 30"
+  },
+  {
+    "var": "FOOL_M2_mapevent4_mesg",
+    "field": "map_mapevent4_mesg",
+    "en": "Only half of the spies have returned back from their mission. They were beaten bloody and barely alive. The others were captured by inquisitors, and found out what the comfy chair is all about. The spies tell you that the powerful enemies were stronger and larger than expected. Their artillery alone could, quite possibly, completely wipe us out. You commend them for their excellence. Your troops stand aside, clearly amazed,  to let them pass to follow their orders to bathe immediately!",
+    "ua": "Лише половина розвідників повернулася з сусідніх островів. Вони були поранені до напівсмерті. Решта потрапили в полон, і на власній шкурі дізналися, що таке \"прогулянка під вітрилом \". Шпигуни розповіли, що вороги набагато сильніші, ніж ви припускали. Вони можуть знищити вас, навіть не вступаючи в ближній бій. Ви дякуєте розвідникам за відмінну роботу. Ваші війська сором'язливо стоять осторонь, у той час як розвідники, підкоряючись вашому наказу, поспішають митися."
+  },
+  {
+    "var": "FOOL_M2_mapevent5_name",
+    "field": "map_mapevent5_name",
+    "en": "Day 60",
+    "ua": "Day 60"
+  },
+  {
+    "var": "FOOL_M2_mapevent5_mesg",
+    "field": "map_mapevent5_mesg",
+    "en": "While traveling you meet with a messenger. He is resting on a rock.  You dismount and introduce yourself to the boy. In between his breaths he introduces himself as a messenger from Erathia.  Surprised, you almost fall off of the rock you're sitting on. The boy looks at you strangely and then laughs. \"...From Erathia?\" you ask.  \"Yes\" says the boy. \"I am to deliver a terrible message to a Sir Christian. Perhaps you know of him?\" \"Continue!\" you interrupt.  \"Can you tell me where he might be?' the boy asks. \"Perhaps I can. Tell me the message.\" you reply. \"Well...ok.\" The boy pulls out a scroll out of his back and unrolls it and the bottom of it hits your feet. \"It's rather...uh... lengthy,\" the boy says hesitantly. \"...Here goes. Erathia has gotten information that while Sir Christian was on a pleasure cruise he and his crew ran into some slight difficulties. Avoiding a painful death Sir Christian joined the Regnan Pirates in hopes they would help him to get back home. Am I correct so far?\" The boy asks. You ask the boy how Erathia learned about this information.  He answers, \"A fishing boat off the coast of Enroth found several messages sealed in bottles that told where he was. And it was signed by Sir Christian himself.\" \"A MIRACLE!\" you shout. The boy continues. \"Here's the bad part. The pirates are using Sir Christian to kill off all of the other pirate sects so they can take over all of their towns and gather all the resources to attack Queen Catherine's Military base just off of Enroth. Do you know where this Sir Christian might be?\"   \"I'll deliver the message to him at once. Give me that scroll. Here. Take some gold pieces and some food.  It is too dangerous around here for you, boy. I will see to it that your bravery is commended. I thank you. Now go back how you came. Talk to no one. And please...be careful.\"  The boy shakes your hand and then runs off. You sit on the rock and take in the information you just heard. You feel happy and angry at the same time. Happy that Erathia knows where your fleet is and very angry for being used as a tool to attack your homeland.  You begin think out loud. \"I must finish my quest as not to draw attention to me. Then I will desert this place. I will then go to Queen Catherine's Military base to protect it. And then, finally, I'll get a free ride home...If I live.\"",
+    "ua": "Подорожуючи, ви зустрічаєте юнака, відпочиваючого на камені. Спішившись, ви вітаєте його. Раптом ви впізнаєте на його одязі ерафійський герб. Від здивування ви ледь не падаєте з каменя, на якому сидите. Юнак дивиться на вас з подивом, а потім раптом починає сміятися. \"Так ти з Ерафії?\" - Питаєте ви. \"Так\", - відповідає юнак, - \"Я повинен доставити жахливу звістку деякому серу Крістіану Не знаєте ви такого?\" \"Продовжуй!\" - Перериваєте ви гінця. \"Можливо, ви знаєте, де знайти його?\" - Запитує юнак. \"Може, і знаю Розкажи, що це за звістка.\", - Відповідаєте ви. \"Е-е... Добре\". Гонець дістає сувій з-за пазухи. Коли юнак розгортає його, нижній кінець сувою дістає до ваших чобіт. \"Воно... дуже довге\", - нерішуче вимовляє гонець, - \"Слухайте:\" До нас дійшло, що під час розважальної прогулянки сер Крістіан зі своєю командою потрапив у скрутне становище. Щоб уникнути болісної смерті, сер Крістіан прилучився до піратів Регни, сподіваючись, що вони допоможуть йому повернутися на батьківщину \"Гонець перериває читання і питає: \"Правильно я викладаю?\" У відповідь ви питаєте, звідки у Ерафії дізналися про це. Він відповідає: \"Рибалки виловили кілька пляшок із записками в прибережних водах Енрота. У записках повідомлялося, де знайти сера Крістіана. Всі вони були підписані його особистим підписом.\" \"На диво!\"- вигукуєте ви. Гонець продовжує: \"А ось і погані новини: пірати сера використовують Крістіана як знаряддя розправи над іншими піратськими бандами. З його допомогою вони хочуть захопити міста і ресурси, що належать їх ворогам. А зібравши достатньо сил, вони нападуть на укріплення королеви Катерини. Де ж мені знайти цього сера Крістіана?\" \"Я передам йому твоє повідомлення. Віддай мені цей манускрипт. Ось, тут трохи золота і провіант тобі на дорогу. Тут для тебе дуже небезпечно перебувати, хлопчина. Я подбаю, щоб твоя хоробрість була винагороджена. Я дякую тобі. А тепер повертайся додому, і ні з ким по дорозі не розмовляй. І, прошу тебе... будь обережним\" Гонець тисне вам руку і тікає. Сидячи на камені, ви роздумуєте над словами, які тільки що почули. Ви радієте і злитеся одночасно. Радієте тому, що в Ерафії знають, де ви, і страшенно злитися на те, що виявилися знаряддям у руках піратів, та ще й використовуваним проти вашої ж батьківщини. Ви починаєте міркувати вголос: \"Я повинен завершити завдання, щоб пірати нічого не запідозрили. Потім я покину це місце і відразу ж подамся на допомогу військам королеви. Можливо, потім я зможу дістатися додому... якщо залишуся живим\"."
+  }
+]

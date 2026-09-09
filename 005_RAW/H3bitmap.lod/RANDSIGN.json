@@ -1,0 +1,127 @@
+[
+  {
+    "var": "RANDSIGN_1",
+    "en": "Do Not Enter",
+    "ua": "Не заходити!"
+  },
+  {
+    "var": "RANDSIGN_2",
+    "en": "No Trespassing",
+    "ua": "Проїзд заборонений!"
+  },
+  {
+    "var": "RANDSIGN_3",
+    "en": "No Admittance",
+    "ua": "Вхід заборонений!"
+  },
+  {
+    "var": "RANDSIGN_4",
+    "en": "Members Only",
+    "ua": "Лише для членів клубу!"
+  },
+  {
+    "var": "RANDSIGN_5",
+    "en": "Keep Out",
+    "ua": "Входу немає!"
+  },
+  {
+    "var": "RANDSIGN_6",
+    "en": "Proceed at Your Own Risk",
+    "ua": "Продовжуй шлях лише на свій страх та ризик"
+  },
+  {
+    "var": "RANDSIGN_7",
+    "en": "Danger",
+    "ua": "Небезпечно!"
+  },
+  {
+    "var": "RANDSIGN_8",
+    "en": "The end is near!",
+    "ua": "Прямо підеш - життя втратиш"
+  },
+  {
+    "var": "RANDSIGN_9",
+    "en": "Beyond here be Dragons",
+    "ua": "Приготуйся до зустрічі з драконами"
+  },
+  {
+    "var": "RANDSIGN_10",
+    "en": "Slippery When Wet",
+    "ua": "Слизька дорога"
+  },
+  {
+    "var": "RANDSIGN_11",
+    "en": "No Loitering",
+    "ua": "Не вештатися!"
+  },
+  {
+    "var": "RANDSIGN_12",
+    "en": "No Smoking",
+    "ua": "Не палити!"
+  },
+  {
+    "var": "RANDSIGN_13",
+    "en": "Fire Danger - No Campfires",
+    "ua": "Пожежонебезпечно. Вогонь не розводити!"
+  },
+  {
+    "var": "RANDSIGN_14",
+    "en": "Please don't feed the animals",
+    "ua": "Тварин не годувати!"
+  },
+  {
+    "var": "RANDSIGN_15",
+    "en": "Campsite - 10 miles",
+    "ua": "Привал за десять миль звідси"
+  },
+  {
+    "var": "RANDSIGN_16",
+    "en": "No Littering",
+    "ua": "Не смітити!"
+  },
+  {
+    "var": "RANDSIGN_17",
+    "en": "No Undead",
+    "ua": "Нежиті вхід заборонений!"
+  },
+  {
+    "var": "RANDSIGN_18",
+    "en": "No Living",
+    "ua": "Живим вхід заборонений!"
+  },
+  {
+    "var": "RANDSIGN_19",
+    "en": "Admission - 2 Gold",
+    "ua": "Плата за проїзд - 2 золоті"
+  },
+  {
+    "var": "RANDSIGN_20",
+    "en": "Rest Stop",
+    "ua": "Місце для відпочинку"
+  },
+  {
+    "var": "RANDSIGN_21",
+    "en": "Scenic Overlook",
+    "ua": "Панорама"
+  },
+  {
+    "var": "RANDSIGN_22",
+    "en": "Nighttime Travel Prohibited",
+    "ua": "Не входити після заходу сонця!"
+  },
+  {
+    "var": "RANDSIGN_23",
+    "en": "Deer Xing",
+    "ua": "Обережно, олені на дорозі"
+  },
+  {
+    "var": "RANDSIGN_24",
+    "en": "Slow",
+    "ua": "Пригальмуй"
+  },
+  {
+    "var": "RANDSIGN_25",
+    "en": "Wait from this point - 90 minutes",
+    "ua": "Твоя черга підійде через 90 хвилин"
+  }
+]

@@ -1,0 +1,116 @@
+[
+  {
+    "var": "SECRET1_M3_prolog",
+    "field": "wrapper_prolog",
+    "en": "The journey to Welnin has not been easy, but it is the last leg of the journey that will be the most difficult. The Ranger, Ryland, has the Grail, and must elude the forces loyal to Erathia and AvLee to reach Welnin. Once there, he must order the construction of a permanent home for the Grail.",
+    "ua": "Шлях у Вельнін був не з легких, але останній відрізок буде найскладнішим. Грааль везе рейнджер Ріланд. Він повинен пробратися повз застави Ерафії й Ав-Лі до Вельніну і віддати наказ про будівництво святині для Грааля."
+  },
+  {
+    "var": "SECRET1_M3_epilog",
+    "field": "wrapper_epilog",
+    "en": "Our cause is public.  Ironically, many humans have joined the elfin population in our vision of an independent state. Already, factions loyal to Erathia and AvLee organize to stop us. We cannot continue without a strong base of operations. Faruk Welnin, mayor of the town of Welnin, has sent a messenger.  He offers his protection and support. Our war for independence begins now. We must fight our way to Welnin and establish the Grail. When we have accomplished this, Welnin will become our foundation.",
+    "ua": "Наша справа стала загальнонародною. Кумедно: не лише ельфи, але і багато людей вирішили приєднатися до нашої незалежної республіки. Намісники, вірні Ерафії й Ав-Лі, збирають могутнє військо, щоб притиснути нашу свободу. Ми не можемо рухатися далі без потужної військової бази. Фарук Вельнін, мер Вельніна, прислав гінця. Він пропонує свій захист і підтримку. Настав час почати війну за незалежність. Ми повинні пробитися до Вельніну і встановити там Грааль. Після цього місто стане нашою військовою базою."
+  },
+  {
+    "var": "SECRET1_M3_map_name",
+    "field": "map_map_name",
+    "en": "The Road Home",
+    "ua": "Дорога додому"
+  },
+  {
+    "var": "SECRET1_M3_map_desc",
+    "field": "map_map_desc",
+    "en": "To win, the Ranger, Ryland, must reach the town of Welnin with the Grail, and build it a permanent home.",
+    "ua": "Щоб перемогти, рейнджер Ріланд повинен прибути з Граалем в місто Вельнін та облаштувати там постійне житло."
+  },
+  {
+    "var": "SECRET1_M3_obj0_town_name",
+    "field": "map_obj0_town_name",
+    "en": "Welnin",
+    "ua": "Велнін"
+  },
+  {
+    "var": "SECRET1_M3_obj92_event_name",
+    "field": "map_obj92_event_name",
+    "en": "Bonus Resources",
+    "ua": "Bonus Resources"
+  },
+  {
+    "var": "SECRET1_M3_obj92_event_mesg",
+    "field": "map_obj92_event_mesg",
+    "en": "AvLee sending resources for the war effort",
+    "ua": "Ав-Лі надсилає ресурси для ведення війни."
+  },
+  {
+    "var": "SECRET1_M3_obj775_guardian_mesg",
+    "field": "map_obj775_guardian_mesg",
+    "en": "Scouts report that Dendroid Guards in the region might be sympathetic to our cause.",
+    "ua": "Розвідники повідомляють, що дендроіди-вартові в цих місцях, ймовірно, доброзичливо налаштовані до нашої місії."
+  },
+  {
+    "var": "SECRET1_M3_obj776_guardian_mesg",
+    "field": "map_obj776_guardian_mesg",
+    "en": "A scout tells you that some Swordsmen in this part of the woods might be sympathetic to our cause.",
+    "ua": "Розвідники повідомляють, що дехто з мечників в цій частині лісів, ймовірно, підтримують вас."
+  },
+  {
+    "var": "SECRET1_M3_obj922_guardian_mesg",
+    "field": "map_obj922_guardian_mesg",
+    "en": "Scouts report some Unicorns in this area might be sympathetic to our cause.",
+    "ua": "Розвідники повідомляють, що деякі єдинороги в цих місцях, ймовірно, доброзичливо налаштовані до нашої місії."
+  },
+  {
+    "var": "SECRET1_M3_obj1012_guardian_mesg",
+    "field": "map_obj1012_guardian_mesg",
+    "en": "A scout reports many of the Dwarves in this area are tired of an Erathian and AvLee presence and are sympathetic to our cause.",
+    "ua": "Розвідники повідомляє, що багато гномів, які живуть тут, втомилися від панування Ерафії й Ав-Лі і доброзичливо налаштовані у відношенні до нас."
+  },
+  {
+    "var": "SECRET1_M3_obj1056_guardian_mesg",
+    "field": "map_obj1056_guardian_mesg",
+    "en": "Scouts report some of the Wood Elves in this region are sympathetic to our cause.",
+    "ua": "Розвідники повідомляють, що дехто з лісових ельфів в цих місцях доброзичливо налаштовані до нашої місії."
+  },
+  {
+    "var": "SECRET1_M3_obj1080_guardian_mesg",
+    "field": "map_obj1080_guardian_mesg",
+    "en": "Scouts report that some of the Wood Elves in the area are sympathetic to our cause.",
+    "ua": "Розвідники повідомляють, що дехто з лісових ельфів в цих місцях доброзичливо налаштовані до нашої місії."
+  },
+  {
+    "var": "SECRET1_M3_obj1235_guardian_mesg",
+    "field": "map_obj1235_guardian_mesg",
+    "en": "Scouts report some of the Monks in this area seem sympathetic to our cause.",
+    "ua": "Розвідники повідомляють, що деякі ченці у цих місцях доброзичливо налаштовані до нашої місії."
+  },
+  {
+    "var": "SECRET1_M3_obj1282_guardian_mesg",
+    "field": "map_obj1282_guardian_mesg",
+    "en": "A small mercenary force of Swordsmen walk out of the nearby forest and ask to join your army (for a price).",
+    "ua": "З найближчого лісу з'являється невелика група мечників-найманців і пропонує вступити в вашу армію за гроші."
+  },
+  {
+    "var": "SECRET1_M3_obj1287_guardian_mesg",
+    "field": "map_obj1287_guardian_mesg",
+    "en": "A small pack of Unicorns approaches, and the leader of the herd steps forward and telepathically tells you they want to join your army.",
+    "ua": "Наближається невелика група єдинорогів, і їх ватажок посилає вам телепатичне повідомлення про те, що вони хотіли б вступити у ваше військо."
+  },
+  {
+    "var": "SECRET1_M3_obj1722_guardian_mesg",
+    "field": "map_obj1722_guardian_mesg",
+    "en": "A small order of Monks approaches, and the leader decides your cause is just and they will join you.",
+    "ua": "Наближається група ченців, їх керівник погоджується, що ваше діло праве, і вони приєднуються до вас."
+  },
+  {
+    "var": "SECRET1_M3_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Intro part 1",
+    "ua": "Intro part 1"
+  },
+  {
+    "var": "SECRET1_M3_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "The town of Welnin awaits the arrival of the Grail. It is up to the Ranger, Ryland, to get it there. Do not stop to fight - that will come later. Good luck.",
+    "ua": "Місто Вельнін очікує прибуття Грааля. Доставити його туди під силу рейнджеру Ріланду. Не відволікайтеся на битви - ви встигнете повоювати пізніше. Успіху!"
+  }
+]

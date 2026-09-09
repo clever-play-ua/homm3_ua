@@ -1,0 +1,98 @@
+[
+  {
+    "var": "EVIL2_M2_prolog",
+    "field": "wrapper_prolog",
+    "en": "We have found a perfect area along Erathia's border from which we can harvest enough creatures for our armies without attracting much notice from the Erathian Military. Build an army, but be quick - we need those troops immediately.",
+    "ua": "Ми виявили ідеальне місце біля самого кордону Ерафії, де можна зібрати відмінний урожай мерців, не привертаючи уваги ерафійських військ. Наберіть там армію нежиті, та швидше - ми виступаємо в похід."
+  },
+  {
+    "var": "EVIL2_M2_epilog",
+    "field": "wrapper_epilog",
+    "en": "Before we begin our large scale invasion of Erathia, we must fill our ranks. Erathia’s populous will provide the recruits we need. Invade the local region and resurrect the needed troops.",
+    "ua": "Перед початком наступу на Ерафію треба поповнити наші ряди. З мешканців Ерафії вийдуть прекрасні мертві воїни. Пройди з мечем прикордонними землями, пробуджуючи мерців з полеглих ворогів."
+  },
+  {
+    "var": "EVIL2_M2_map_name",
+    "field": "map_map_name",
+    "en": "Season of Harvest",
+    "ua": "Час жнив"
+  },
+  {
+    "var": "EVIL2_M2_map_desc",
+    "field": "map_map_desc",
+    "en": "To win, you must have a total of 2500 Skeletons in all your armies within 3 months. Some Border Guards can only be passed if a Hero carries a Quest Artifact from a previous scenario, but the artifact beyond the Border Guard will travel with you to the next scenario.",
+    "ua": "За 3 місяці наберіть у свою армію не менше 2500 скелетів. Пройти деяких Вартових Кордону можна, тільки якщо в героя є з собою ключовий артефакт з попереднього сценарію. Якщо ви минули Вартових з цим артефактом, він перейде з вами в наступний сценарій."
+  },
+  {
+    "var": "EVIL2_M2_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Intro part 1",
+    "ua": "Intro part 1"
+  },
+  {
+    "var": "EVIL2_M2_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "To truly catch Erathia by surprise, we must attack within three months. However, our forces are not nearly strong enough for a full scale attack. We need you to harvest the creatures along the Erathian border, raising enough undead to allow us launch our campaign.",
+    "ua": "Щоб застати Ерафію зненацька, треба напасти на неї в найближчі три місяці. Проте наших сил далеко не достатньо для цієї атаки. Потрібно, щоб ви пройшли вздовж кордону Ерафії і набрали в своє військо достатню кількість істот для початку нашої кампанії."
+  },
+  {
+    "var": "EVIL2_M2_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Intro part 2",
+    "ua": "Intro part 2"
+  },
+  {
+    "var": "EVIL2_M2_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "As before, you must move quickly. We must have the element of surprise when we attack Erathia, so we can not delay more than three months. In that time you must provide us with at least 2500 skeletons. If you fail, we will have no chance against Erathia. Do not fail.",
+    "ua": "Як і раніше, потрібно поспішати. При нападі на Ерафію потрібно використати фактор несподіванки, тому не можна затримувати цю подію більше, ніж на три місяці. За цей час ви повинні приєднати до себе як мінімум 2500 скелетів. Якщо не зможете цього зробити, у нас не буде ні найменшого шансу перемогти Ерафію. Не підведіть!"
+  },
+  {
+    "var": "EVIL2_M2_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Warning 3 weeks left",
+    "ua": "Warning 2 weeks left"
+  },
+  {
+    "var": "EVIL2_M2_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "You receive a letter from your superiors. \"Your initial progress is good, but you only have three weeks left to complete your task.\"",
+    "ua": "Ви отримали лист від керівництва. \"Я впевнений, що ви просувається вперед. Пам'ятайте, нам потрібно не менше 2500 скелетів, але до початку атаки ще є два тижні.\""
+  },
+  {
+    "var": "EVIL2_M2_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "Warning 2 weeks left",
+    "ua": "Warning 1 week left"
+  },
+  {
+    "var": "EVIL2_M2_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "You receive a letter from your superiors. \"I trust you are making progress. Remember, we need at least 2500 skeletons, and you have but two weeks until we launch our attack.\"",
+    "ua": "Ви отримали лист від керівництва. \"Рівно за тиждень ми наступаємо на Ерафію. Запорукою нашої перемоги будуть ваші 2500 скелетів. Думаю, ви розумієте, що провалити це завдання не можна.\""
+  },
+  {
+    "var": "EVIL2_M2_mapevent4_name",
+    "field": "map_mapevent4_name",
+    "en": "Warning 1 week left",
+    "ua": "News of Sandro"
+  },
+  {
+    "var": "EVIL2_M2_mapevent4_mesg",
+    "field": "map_mapevent4_mesg",
+    "en": "You receive a letter from your superiors. \"One week from today, we launch our attack on Erathia. Your 2500 skeletons are key to our success. I trust that you understand that failure is not an option.\"",
+    "ua": "Наближається один з ваших радників. \"Ми щойно дізналися, що Сандро і його військо знаходяться в полоні десь поблизу. Якщо ви зможете відшукати і звільнити його, він, безперечно, допоможе нам.\""
+  },
+  {
+    "var": "EVIL2_M2_mapevent5_name",
+    "field": "map_mapevent5_name",
+    "en": "News of Sandro",
+    "ua": "Warning 3 weeks left"
+  },
+  {
+    "var": "EVIL2_M2_mapevent5_mesg",
+    "field": "map_mapevent5_mesg",
+    "en": "One of your advisors approaches. \"We have just learned that Sandro and his army are being held prisoner in this area. If you can find him and free him, he will certainly aid us in our quest.\"",
+    "ua": "Ви отримали лист від керівництва. \"Нас радують ваші перші успіхи, але у вас залишилося всього три тижні, щоб виконати завдання.\""
+  }
+]

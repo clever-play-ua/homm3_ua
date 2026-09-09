@@ -1,0 +1,42 @@
+[
+  {
+    "var": "MINENAME_1",
+    "en": "Sawmill",
+    "ua": "Лісопилка"
+  },
+  {
+    "var": "MINENAME_2",
+    "en": "Alchemist's Lab",
+    "ua": "Лабораторія алхіміка"
+  },
+  {
+    "var": "MINENAME_3",
+    "en": "Ore Pit",
+    "ua": "Рудна шахта"
+  },
+  {
+    "var": "MINENAME_4",
+    "en": "Sulfur Dune",
+    "ua": "Сірчаний кар'єр"
+  },
+  {
+    "var": "MINENAME_5",
+    "en": "Crystal Cavern",
+    "ua": "Кришталева печера"
+  },
+  {
+    "var": "MINENAME_6",
+    "en": "Gem Pond",
+    "ua": "Розсипи самоцвітів"
+  },
+  {
+    "var": "MINENAME_7",
+    "en": "Gold Mine",
+    "ua": "Золота шахта"
+  },
+  {
+    "var": "MINENAME_8",
+    "en": "Abandoned Mine",
+    "ua": "Закинута шахта"
+  }
+]

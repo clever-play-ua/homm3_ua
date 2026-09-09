@@ -1,0 +1,224 @@
+[
+  {
+    "var": "FINAL_M5_prolog",
+    "field": "wrapper_prolog",
+    "en": "The presence of the Necromancers in Erathia is much stronger than you first anticipated.  It's apparent you can't win this battle alone, so you seek help.  Your choice of an ally was obvious, but Crag Hack wasn't easy to find.  It took even longer to convince him that these \"spell casters\" had to be stopped.  In the end, it was Crag Hack's unquenchable desire to smash undead that convinced him.",
+    "ua": "В Ерафії значно більше некромантів, ніж вам здалося спочатку. Зрозумівши, що ви не можете виграти цю битву поодинці, ви стали шукати допомогу. Вибір був очевидний, але Краґа Хака було важко знайти. Довелося довго переконувати його, що ці \"заклинателі\" повинні бути зупинені. Нарешті, умовити Краґа Хака допомогло його невгамовне бажання крушити нечисть."
+  },
+  {
+    "var": "FINAL_M5_epilog",
+    "field": "wrapper_epilog",
+    "en": "We two Barbarians were glad to have found each other in this land of strangers.  Both of us are following the trail of the Necromancers, but I am shocked that their actions seem to have gone unnoticed by Erathian leaders.  Crag was not interested in investigating my concern further until I mentioned his glorious battle.  That always works with Barbarians like him.",
+    "ua": "Ми, два варвари, були раді знайти один одного в цій країні чужинців. Ми обоє йдемо по сліду некромантів, але я був вражений, коли дізнався, що влада Ерафії начебто і не помічає дивних справ, які творяться у них під носом. Краґу не було діла до моїх тривог, поки я не загнув пару слів про прийдешні славні битви. Варварів його породи такі речі ніколи не залишають байдужими."
+  },
+  {
+    "var": "FINAL_M5_map_name",
+    "field": "map_map_name",
+    "en": "Secrets Revealed",
+    "ua": "Таємницю розкрито"
+  },
+  {
+    "var": "FINAL_M5_map_desc",
+    "field": "map_map_desc",
+    "en": "Yog and Crag Hack must defeat the Necromancers to win the scenario.  However, if either hero is defeated in combat, the scenario is lost.  Yog and Crag Hack are limited to level 33 but will carry their experience, skills and spells on to their next scenario.",
+    "ua": "Для того щоб отримати перемогу в цьому сценарії, Йоґ і Краґ Хак повинні знищити всіх некромантів. Якщо ж будь-який з цих героїв буде переможений у бою, сценарій закінчиться поразкою. Йоґ і Краґ Хак обмежені 33 рівнем, але вони переходять в наступний сценарій з усім своїм досвідом та навичками."
+  },
+  {
+    "var": "FINAL_M5_obj0_event_name",
+    "field": "map_obj0_event_name",
+    "en": "More Creatures",
+    "ua": "More Creatures"
+  },
+  {
+    "var": "FINAL_M5_obj0_event_mesg",
+    "field": "map_obj0_event_mesg",
+    "en": "Some loyal troops have finally arrived to help you whip those Necromancers!",
+    "ua": "Нарешті прибуло поповнення, яке допоможе нам раз і на завжди винищити цих клятих некромантів!"
+  },
+  {
+    "var": "FINAL_M5_obj1_event_name",
+    "field": "map_obj1_event_name",
+    "en": "Creatures",
+    "ua": "Creatures"
+  },
+  {
+    "var": "FINAL_M5_obj1_event_mesg",
+    "field": "map_obj1_event_mesg",
+    "en": "Recruits have come in and are willing to fight for you.",
+    "ua": "Ваше військо поповнилося новими добровольцями, які згорають від нетерпіння вступити до бою."
+  },
+  {
+    "var": "FINAL_M5_obj1243_guardian_mesg",
+    "field": "map_obj1243_guardian_mesg",
+    "en": "You had sent out two scouts to check out the town's fortifications.  Only one returned, but he had more than just information on the fortifications.  He had an interesting conversation memorized.\n\n\"This is getting ridiculous.  Finneas Vilmar will be absolutely raging when he hears of our losses.  Our orders were simple: come here and build an army.  We can't even do that!  I am going to take that Barbarian's head and use it as a paper weight... once I catch him, that is.\" said the Necromancer.\n\n \" They haven't won yet, do not fear,\" the soldier replied.\n\n\"I AM NOT AFRAID!  Do you hear me?  Nothing in this world scares me!\"\n\n\"Yes, sir.\"\n\n\"Now go get me the heads of those filthy barbarians!  NOW!\" \n\n\"That's when their conversation ended, sir.\" \nNoting this, you decide that once these necromancers are gone, you would pay this Finneas Vilmar a visit.",
+    "ua": "Ви наказали двом своїм розвідникам оглянути міські укріплення. Назад повернувся тільки один, але він приніс щось більше, ніж плани стін і башт. Йому вдалося підслухати вельми цікаву розмову, яку він запам'ятав слово в слово.\n\n«Це ж формене неподобство! Фінеас Вілмар просто сказиться, коли дізнається про наші втрати. Ми отримали простий і чіткий наказ: прийти сюди і зібрати армію, а на ділі ми не можемо зробити навіть цього! Клянусь, я відірву в цього варвара його тупий баняк і зроблю з нього прес-пап'є... коли я його, нарешті, впіймаю, звичайно», - сказав некромант.\n\n«Вони ще не перемогли, не бійтеся», - відповів солдат.\n\n«А Я І НЕ БОЮСЯ! Ти чуєш мене? Немає нічого в цілому світі, що могло б мене налякати!»\n\n«Так точно, ваша милість!»\n\n«Атож! А тепер принеси-но мені голови цих поганих варварів! Бігом, РУШ!»\n\n«На цьому розмова перервався, мілорде.»\n\nЗгадуючи почуте, ви вирішуєте обов'язково завдати Фінеасу Вілмару візит, як тільки некроманти заберуться геть."
+  },
+  {
+    "var": "FINAL_M5_obj1390_quest_proposal",
+    "field": "map_obj1390_quest_proposal",
+    "en": "Ancient Behemoths are menacing the villages just north of here.  If you could be so bold as to defeat them, I would reward you richly.",
+    "ua": "Селянам, які живуть на північ звідси, погрожують стародавні чудовиська. Якщо ти виведеш їх під корінь, я нагороджу тебе по-царськи."
+  },
+  {
+    "var": "FINAL_M5_obj1394_monster_mesg",
+    "field": "map_obj1394_monster_mesg",
+    "en": "We have been collecting this gold for years!  You will not take it from us!",
+    "ua": "Ми збирали це золото не один рік! Ми тобі його не віддамо!"
+  },
+  {
+    "var": "FINAL_M5_obj1395_guardian_mesg",
+    "field": "map_obj1395_guardian_mesg",
+    "en": "As you wipe the blood from your blade, you contemplate what a good fight that was.  Well, since the Orcs won't be needing this gold anymore, you decide take it.",
+    "ua": "Витираючи кров з леза меча, ви із задоволенням дивитися на поле щойно відшумілої битви. Раз вже так вийшло, і оркам золото тепер не знадобиться, ви вирішуєте забрати його собі."
+  },
+  {
+    "var": "FINAL_M5_obj1416_guardian_mesg",
+    "field": "map_obj1416_guardian_mesg",
+    "en": "As you cross the rugged terrain you come across a man lying on the side of the pass with a big gash in his side.  When he sees you standing there he waves you over.  Before you can get too close, though, he points to the east and says in a hoarse whisper, \"My gold... taken... lots of Orcs... hurry.\"",
+    "ua": "Пробираючись між валунами, ви бачите на краю стежки чоловіка з величезною раною в боці. Помітивши вас, він піднімає руку і, вказуючи кудись на схід, вимовляє уривчастим шепотом: «Моє золото... відняли... орки... їх багато... поспіши.»"
+  },
+  {
+    "var": "FINAL_M5_obj1417_guardian_mesg",
+    "field": "map_obj1417_guardian_mesg",
+    "en": "Just as the sun hits its peak, you notice a glint in the side of the road.  Not knowing what it is, you halt your army and send someone to check it out.  The Goblin returns a few minutes later with a sword and a piece of parchment.  One look at the sword tells you it's worthless, so you tell the goblin to keep it.  But the parchment was different.  Opening the parchment, you find that it's a note telling about buried treasures that were hidden somewhere around here.  In the bottom corner of the note you see a small map.  Getting your bearings, you notice that the treasures are in the valley not too far south of here.",
+    "ua": "Сонце стоїть в зеніті, і його промені відбиваються від якогось блискучого предмета край дороги. Зацікавившись знахідкою, ви зупиняєте військо і посилаєте солдата на розвідку. Через кілька хвилин гоблін повертається. У руках він тримає меч і лист пергаменту. З першого погляду ви розумієте, що меч не коштує й гроша, і дозволяєте гобліну залишити його собі. А ось пергамент - інша справа! Розгорнувши його, ви бачите, що в ньому йдеться про скарб, закопаний десь поблизу. Внизу пергаменту є невелика карта. Зорієнтувавшись по сторонах світу, ви виявляєте, що скарб заховано в долині, розташованій неподалік на південь звідси."
+  },
+  {
+    "var": "FINAL_M5_obj1418_guardian_mesg",
+    "field": "map_obj1418_guardian_mesg",
+    "en": "After several hours of searching you finally found the spot where the map indicated buried treasure.  Not wanting to do the labor yourself, you order some of your men to do it for you.  Several minutes later you are graciously rewarded.",
+    "ua": "Після кількох годин наполегливих пошуків ви, нарешті, знаходите місце, зазначене на карті жирним хрестом. Не бажаючи бруднити руки, ви наказуєте своїм людям взятися за лопати. Минає трохи часу - і всі ваші зусилля винагороджені сторицею!"
+  },
+  {
+    "var": "FINAL_M5_obj1419_guardian_mesg",
+    "field": "map_obj1419_guardian_mesg",
+    "en": "Pointing to the spot where your men are to start digging, you begin to wonder why anyone would want to bury this much gold.  Not being able to come up with a good excuse why you shouldn't take the gold, you place it in your saddlebags and order your army to begin marching again.",
+    "ua": "Вказавши своїм людям місце, де потрібно копати, ви роздумуєте над тим, навіщо це комусь знадобилося ховати тут таку купу золота. Однак ніщо не заважає вам взяти скарб собі, ви розкладаєте золото по мішках і наказуєте війську рушати в дорогу."
+  },
+  {
+    "var": "FINAL_M5_obj1420_guardian_mesg",
+    "field": "map_obj1420_guardian_mesg",
+    "en": "You look at the ground, then at your map.  This was definitely the hardest one to find.  Making up your mind that this is the spot where the treasure should be, you order your men to dig up the last of the buried treasure.",
+    "ua": "Ви дивитеся то на землю, то на карту. Так .. знайти це місце виявилося зовсім непросто! Вирішивши, нарешті, що саме тут має бути захований скарб, ви наказуєте своїм людям взятися за лопати і витягти його на світ божий."
+  },
+  {
+    "var": "FINAL_M5_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Computer Stuff for first day",
+    "ua": "Computer Stuff for first day"
+  },
+  {
+    "var": "FINAL_M5_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "Here",
+    "ua": "Here"
+  },
+  {
+    "var": "FINAL_M5_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Intro",
+    "ua": "Intro"
+  },
+  {
+    "var": "FINAL_M5_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "It took me a little while to find Crag Hack and convince him to join up with me.  Now he is very enthusiastic about kicking some serious necromancer butt.  While we camped, he told me the story about how a Wizard named Sandro tricked him into giving up four artifacts without getting paid.  I have never heard of this Wizard but will keep an eye for anyone fitting his description.",
+    "ua": "Не відразу вдалося мені знайти Краґа Хака й умовити його мандрувати разом. Тепер йому не терпиться як слід надерти вуха якомусь крутішому некроманту. Якось на привалі він розповів мені історію про чарівника на ім'я Сандро, який обманом відняв у нього чотири найцінніших артефакти, не заплативши за них ні копійки. Я ніколи раніше не чув про цього чарівника, але тепер буду пильним."
+  },
+  {
+    "var": "FINAL_M5_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Two Rangers",
+    "ua": "Two Rangers"
+  },
+  {
+    "var": "FINAL_M5_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "Something promising reached your ears last night while you prepared for sleep.  It seems you and Crag Hack are not the only ones fighting these Necromancers.  A Ranger and a Druid, Gelu and Gem, are also fending off the forces of undead, but they are working within the borders of AvLee.  You had not realized the Necromancer's influence reached so far.  Quickly, you pen a letter explaining your situation and send it off to them, hoping they will meet with you at a later date.",
+    "ua": "Вчора перед самим відходом до сну розвідники принесли вам добрі вісті. Схоже, у вас з Краґом Хаком є союзники у боротьбі з некромантами. Йдеться про вільного стрільця на ім'я Ґело і про жрицю друїдів, яку звуть Ґем. Вони теж б'ються з некромантами не на життя, а на смерть, але поки обмежують свої дії межами країни Ав-Лі. Ви і не підозрювали, що некроманти дотяглися навіть до тих далеких країв. Ви швидко складаєте послання, в якому розповідаєте про себе, і відправляєте його своїм новим союзникам в надії, що коли-небудь вам вдасться з ними зустрітися."
+  },
+  {
+    "var": "FINAL_M5_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "Shortly after",
+    "ua": "Shortly after"
+  },
+  {
+    "var": "FINAL_M5_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "Shortly after you and Crag Hack joined up, you came across a section of Erathia completely taken over by the undead.  Being the bloodthirsty barbarian that Crag is, he wanted to go rush in and take on all the Necromancers by himself.  Convincing him to stay and build up an army was a lot easier than you thought.  All you had to do was mention that if he built an army he could roll over all the undead in this area in a matter of weeks.  Finally he nodded in agreement.  At least his skull isn't completely empty, you say to yourself as he leaves the room.",
+    "ua": "Незабаром після того як ви з Краґом Хаком вирішили діяти заодно, вас занесло в область Ерафії, захоплену силами нежиті. Будучи нехитрим і кровожерливим варваром, Краґ рвався поодинці битися з усіма некромантами відразу. Однак вам без особливих зусиль вдалося переконати його як слід підготуватися до сутички і зібрати значне військо. Для цього виявилося досить сказати, що з сильною армією він за кілька тижнів очистить околиці від нежиті. Після недовгих роздумів він кивнув на знак згоди. Це доводить, що голова його не така порожня, як здається на перший погляд."
+  },
+  {
+    "var": "FINAL_M5_mapevent4_name",
+    "field": "map_mapevent4_name",
+    "en": "Strong Forces",
+    "ua": "Strong Forces"
+  },
+  {
+    "var": "FINAL_M5_mapevent4_mesg",
+    "field": "map_mapevent4_mesg",
+    "en": "Looking down at the scout's report, you realize the Necromancer forces are a lot stronger than you originally thought.  Not only will they come at me from all sides, we are outnumbered three to one!   I must let Crag Hack know about this immediately!",
+    "ua": "Прочитавши донесення розвідників, ви розумієте, що сили некромантів виявилися набагато серйознішими, ніж вам здавалося на початку. По-перше, вони наступають відразу з усіх сторін, а по-друге, їх чисельність в три рази перевершує ваше військо! Треба негайно попередити Краґа Хака!"
+  },
+  {
+    "var": "FINAL_M5_mapevent5_name",
+    "field": "map_mapevent5_name",
+    "en": "Scouts",
+    "ua": "Scouts"
+  },
+  {
+    "var": "FINAL_M5_mapevent5_mesg",
+    "field": "map_mapevent5_mesg",
+    "en": "The cities are coming along nicely.  It's going slower than you would like, but for some reason you have a nagging suspicion you are in for a lot of trouble.  Not liking this feeling, you send out some scouts to take a look at the area around you.  Hopefully they will bring back some intelligence on the enemy.",
+    "ua": "Ви займаєте одне місто за іншим, і хоча поки все йде, як по маслу, ви не можете позбутися настирливої підозри, що попереду вас чекають великі неприємності. Не в силах вгамувати неспокій, ви посилаєте розвідників на рекогносцирування навколишньої місцевості. Можливо, їм вдасться хоч що-небудь довідатися про противника."
+  },
+  {
+    "var": "FINAL_M5_mapevent6_name",
+    "field": "map_mapevent6_name",
+    "en": "Crag's Reply",
+    "ua": "Crag's Reply"
+  },
+  {
+    "var": "FINAL_M5_mapevent6_mesg",
+    "field": "map_mapevent6_mesg",
+    "en": "Laughing to yourself, you come to the realization you were crazy to even think about joining forces with that... that... that Barbarian.  Crag's reply had come just a short while ago.  Here is what it said: \"We build, we crush.  Fear not the smelly ones.\"  Well the message was blunt, if anything.  Realizing this Barbarian will probably rush off into battle half prepared, you bark orders to speed up the preparations.",
+    "ua": "Гірко посміхаючись про себе, ви розумієте, якою прекраснодушністю була сама думка про те, щоб об'єднати сили з цим... цим... варваром. Нещодавно від Краґа прийшла відповідь. У ньому йдеться: «Ми будуємо і звертаємо у прах. Кому страшні ці вонючки!» Що ж, ясніше не скажеш. Розуміючи, що дурний варвар здатний кинутися в бій, підготувавшись лише наполовину, ви спішно віддаєте наказ прискорити приготування."
+  },
+  {
+    "var": "FINAL_M5_mapevent7_name",
+    "field": "map_mapevent7_name",
+    "en": "Meeting",
+    "ua": "Meeting"
+  },
+  {
+    "var": "FINAL_M5_mapevent7_mesg",
+    "field": "map_mapevent7_mesg",
+    "en": "Well, I am almost ready.  I think it's about time to set up a meeting with Crag Hack to discuss an attack plan.  Sending for a messenger, you quickly write a letter asking for a meeting within the next few weeks.",
+    "ua": "Отже, я майже готовий. Думаю, настав час закликати Краґа Хака на військову раду і обговорити з ним план кампанії. Надіславши за гінцем, ви швидко пишете кілька рядків на аркуші пергаменту, пропонуючи зустрітися в найближчі кілька тижнів."
+  },
+  {
+    "var": "FINAL_M5_mapevent8_name",
+    "field": "map_mapevent8_name",
+    "en": "History",
+    "ua": "History"
+  },
+  {
+    "var": "FINAL_M5_mapevent8_mesg",
+    "field": "map_mapevent8_mesg",
+    "en": "Crag Hack showed up today, and he was eager to discuss exactly how we were going to crush the Necromancers.  He had practice in this before, explaining how he killed lots of Necromancers for some artifacts.  Those artifacts were supposed to be his ticket to gold, land and women.  But it never happened because Sandro cheated him out of the whole deal.  Now he just wants to kill stuff to relieve stress.  I laid out my plans, explaining that the longer he waited in some instances, the more necromancers he got to crush.  He seemed to agree with the idea, but I wasn't too convinced when he left.",
+    "ua": "Краґ Хак з'явився сьогодні до обіду, палаючи бажанням у всіх подробицях обговорити, як саме ми зітремо в порошок всіх до одного некромантів. Він згадав свої минулі подвиги і розповів, як перебив цілі натовпи некромантів, поки шукав якісь там артефакти. Він вважав, що ці артефакти принесуть йому незліченні скарби, неозорі володіння і жінок без ліку, але його планам не судилося збутися, бо Сандро обвів його навколо пальця, як грудне немовля. Зараз Краґ хоче просто трощити всіх без розбору, щоб хоч трохи розрядитися. Я виклав йому свої плани і пояснив, що іноді краще трохи почекати, щоб потім одним махом прихлопнути цілу орду некромантів. Він начебто погодився, але я не впевнений, як саме він поведе себе, коли справа дійде до бійки."
+  },
+  {
+    "var": "FINAL_M5_mapevent9_name",
+    "field": "map_mapevent9_name",
+    "en": "Gem and Gelu",
+    "ua": "Gem and Gelu"
+  },
+  {
+    "var": "FINAL_M5_mapevent9_mesg",
+    "field": "map_mapevent9_mesg",
+    "en": "A messenger arrived shortly ago informing me that Gem and Gelu want to meet in Bragden, which is in the Northwestern area of Deyja.  \"Well,\" you think to yourself, \"as soon as we get done here we will be on our way.\"",
+    "ua": "Нещодавно прибув гонець з повідомленням, що Ґем і Ґело призначили вам зустріч в Брагдені, що на північному заході Деї. «Чудово», - роздумуєте ви. - «Як тільки ми покінчимо зі справами в цих місцях, ми негайно вирушимо в дорогу.»"
+  }
+]

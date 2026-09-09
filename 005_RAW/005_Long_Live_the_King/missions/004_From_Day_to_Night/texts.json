@@ -1,0 +1,62 @@
+[
+  {
+    "var": "EVIL2_M4_prolog",
+    "field": "wrapper_prolog",
+    "en": "The time has come. The lich King Gryphonheart has chosen this as the moment of attack. Forces from across Deyja will pour into Erathia and overwhelm them. The point of your attack was chosen by King Gryphonheart himself. You have vowed not to fail.",
+    "ua": "Час прийшов. Король-мрець Гріфонхарт обрав цю годину для вторгнення. Скоро війська Деї хлинуть в Ерафію і зімнуть її. Мета вашого маневру намічена самим Гріфонхартом. Ви поклялися не підвести його."
+  },
+  {
+    "var": "EVIL2_M4_epilog",
+    "field": "wrapper_epilog",
+    "en": "Erathia's military lies before us. It is time to make a bold strike. King Gryphonheart has trained their generals and knows their tactics. Morale will decide this battle.  Morale is not a factor for the undead.  Once we fill our ranks with their dead, our horde will grow and their morale will falter.  Then we will swarm over them. Soon King Gryphonheart will rule Erathia once again.",
+    "ua": "На нашому шляху встало військо ерафійців. Пора завдати прямого удару. Король Гріфонхарт особисто навчав ерафійських полководців і знає всі їхні тактичні прийоми. Якщо бойовий дух армії падає, вона програє. Мерці ж ніколи не падають духом. Ми поповнимо свої ряди їх же мерцями, наша чисельність багаторазово зросте, і бойовий дух покине смертних. Тоді ми і завдамо удару. Скоро король Гріфонхарт знову почне правити Ерафією."
+  },
+  {
+    "var": "EVIL2_M4_map_name",
+    "field": "map_map_name",
+    "en": "From Day to Night",
+    "ua": "З тіні у світло"
+  },
+  {
+    "var": "EVIL2_M4_map_desc",
+    "field": "map_map_desc",
+    "en": "To win, you must capture all enemy towns and castles and defeat all enemy heroes. Some Border Guards can only be passed if a Hero carries a Quest Artifact from a previous scenario, but the reward is great indeed.",
+    "ua": "Щоб перемогти, вам потрібно захопити всі ворожі міста і замки і розгромити противника всіх героїв. Уникнути деяких Вартових Кордону можна тільки, якщо в Героя є артефакт з попереднього сценарію. Але, якщо вдасться це зробити, нагорода буде щедра."
+  },
+  {
+    "var": "EVIL2_M4_obj2684_guardian_mesg",
+    "field": "map_obj2684_guardian_mesg",
+    "en": "Before you lies the fabled Titan's Gladius, which the Seer so long ago had foreseen you to possess. Do you wish to claim it as yours?",
+    "ua": "Перед вами прославлений меч Ґладіус Титана. Дуже давно Провидець пророчив, що колись він належатиме вам. Чи хочете ви заявити про своє право на нього?"
+  },
+  {
+    "var": "EVIL2_M4_obj2685_guardian_mesg",
+    "field": "map_obj2685_guardian_mesg",
+    "en": "Before you lies the fabled Titan's Cuirass, which the Seer so long ago had foreseen you to possess. Do you wish to claim it as yours?",
+    "ua": "Перед вами прославлена Кіраса Титана. Дуже давно Провидець пророчив, що колись вона належатиме вам. Чи хочете ви заявити про своє право на нього?"
+  },
+  {
+    "var": "EVIL2_M4_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Intro part 1",
+    "ua": "Intro part 1"
+  },
+  {
+    "var": "EVIL2_M4_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "You received your orders personally from King Gryphonheart. You will launch your attack from three fortresses along the Erathian border. Resistance should be light at first, but you must secure the area quickly before their reinforcements arrive.",
+    "ua": "Наказ вам віддав особисто Король Гріфонхарт. Ви нападете з трьох фортець, розташованих уздовж кордону з Ерафією. Спочатку ви не зустрінете серйозного опору, але потрібно швидко оволодіти територією до тієї пори, коли до ворога підійде підкріплення."
+  },
+  {
+    "var": "EVIL2_M4_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Intro part 2",
+    "ua": "Intro part 2"
+  },
+  {
+    "var": "EVIL2_M4_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "It is clear that King Gryphonheart wishes to return to the Throne of Erathia, but this time he wishes to do it as a conqueror. You can smell the scent of lives waiting to be harvested even from here. Go now, the time has come.",
+    "ua": "Ясно, що Король Гріфонхарт прагне повернутися на престол Ерафії, але зараз він хоче добитися цього як переможець. Навіть сюди доноситься запах смерті - вам належить позбавити життя багатьох. То йдіть же, час настав!"
+  }
+]

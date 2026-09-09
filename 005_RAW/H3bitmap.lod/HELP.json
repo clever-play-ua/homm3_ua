@@ -1,0 +1,3202 @@
+[
+  {
+    "var": "HELP_Rollover Text",
+    "en": "Rollover Text\tRight-Click Text\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Rollover Text\tRight-Click Text\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_\"Note: Do not change the headings in this file, they are used to detect problems\"",
+    "en": "\"Note: Do not change the headings in this file, they are used to detect problems\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\"Note: Do not change the headings in this file, they are used to detect problems\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Main Menu",
+    "en": "Main Menu\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Main Menu\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_4",
+    "en": "\t\"{New Game}\n\nStart a new game.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\"{Нова гра}\n\nПочати нову гру.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_5",
+    "en": "\t\"{Load Game}\n\nLoad a saved game.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\"{Завантажити гру}\n\nЗавантажити збережену гру.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_6",
+    "en": "\t\"{High Scores}\n\nView the legendary Heroes of Might and Magic.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\"{Рекорди}\n\nПереглянути легендарних Героїв Меча та Магії.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_7",
+    "en": "\t\"{Credits}\n\nView game credits.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\"{Творці}\n\nПереглянути творців гри.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_8",
+    "en": "\t\"{Quit}\n\nReturn to Windows.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\"{Вихід}\n\nВийти в Windows.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_9",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_New Game",
+    "en": "New Game\tNew Game\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "New Game\tNew Game\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_11",
+    "en": "\t\"{Single Scenario}\n\nPlay a single scenario.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\"{Одиночний сценарій}\n\nГрати в одиночний сценарій.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_12",
+    "en": "\t\"{Campaign}\n\nPlay a campaign.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\"{Кампанія}\n\nГрати в кампанію.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_13",
+    "en": "\t\"{Multiplayer}\n\nPlay a multiplayer single scenario.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\"{Мультиплеєр}\n\nГрати в мультиплеєрний сценарій.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_14",
+    "en": "\t\"{Tutorial}\n\nPlay a tutorial scenario teaching the basics needed to play Heroes III.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\"{Навчання}\n\nЗіграти в навчальний сценарій, де показані основи гри Герої III.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_15",
+    "en": "\t\"{Back}\n\nReturn to the previous screen.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\"{Назад}\n\nПовернутися на попередній екран.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_16",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Single Scenario Selection",
+    "en": "Single Scenario Selection\tSingle Scenario Selection\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Single Scenario Selection\tSingle Scenario Selection\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_18",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_SCENARIO_BACKGROUND",
+    "en": "SCENARIO_BACKGROUND \tChoose a scenario\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "SCENARIO_BACKGROUND \tВиберіть сценарій\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_ADVANCED_BACKGROUND",
+    "en": "ADVANCED_BACKGROUND \tSet advanced options\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "ADVANCED_BACKGROUND \tДодаткові настройки\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Background for random map menu",
+    "en": "Background for random map menu\tCustomize and create a random map\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Background for random map menu\tНастроїти і створити випадкову карту\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_SCENARIO_NAME",
+    "en": "SCENARIO_NAME \tScenario Name\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "SCENARIO_NAME \tІм'я сценарію\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Description Title",
+    "en": "Description Title\tDisplays scenario briefing\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Description Title\tВідображає опис сценарію\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Description text",
+    "en": "Description text\tDisplays scenario briefing\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Description text\tВідображає опис сценарію\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_EASY",
+    "en": "EASY \t\"{Easy Difficulty}\n\nThe player starts with a large advantage in resources, and the computer plays poorly.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "EASY \t\"{Легкий рівень}\n\nГравець починає гру зі значною перевагою в ресурсах, а комп'ютер грає погано.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_NORMAL",
+    "en": "NORMAL \t\"{Normal Difficulty}\n\nThe player starts with a moderate advantage in resources, and the computer plays reasonably well.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "NORMAL \t\"{Нормальний рівень}\n\nГравець починає гру з невеликою перевагою в ресурсах, а комп'ютер грає досить добре.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_HARD",
+    "en": "HARD \t\"{Hard Difficulty}\n\nThe player and the computer start with the same resources, and the computer plays to the best of its ability.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "HARD \t\"{Важкий рівень}\n\nГравець і комп'ютер починають гру з однаковою кількістю ресурсів, а комп'ютер грає так добре, як може.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_EXPERT",
+    "en": "EXPERT \t\"{Expert Difficulty}\n\nThe player starts with a handicap in resources, and the computer plays to the best of its ability.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "EXPERT \t\"{Надважкий рівень}\n\nГравець починає гру з меншою кількістю ресурсів, а комп'ютер грає на найвищому рівні.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_IMPOSSIBLE",
+    "en": "IMPOSSIBLE \t\"{Impossible Difficulty}\n\nThe player starts with no resources, and the computer plays to the best of its ability.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "IMPOSSIBLE \t\"{Неможливий рівень}\n\nГравець починає гру без ресурсів, а комп'ютер грає на найвищому рівні.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_ALLY_FLAG1",
+    "en": "ALLY_FLAG1 \tThis is your color\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "ALLY_FLAG1 \tЦе ваш колір\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_ALLY_FLAG2",
+    "en": "ALLY_FLAG2 \tThis color is allied with you\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "ALLY_FLAG2 \tЦе колір ваших союзників\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_ALLY_FLAG3",
+    "en": "ALLY_FLAG3 \tThis color is allied with you\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "ALLY_FLAG3 \tЦе колір ваших союзників\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_ALLY_FLAG4",
+    "en": "ALLY_FLAG4 \tThis color is allied with you",
+    "ua": "ALLY_FLAG4 \tЦе колір ваших союзників"
+  },
+  {
+    "var": "HELP_ALLY_FLAG5",
+    "en": "ALLY_FLAG5 \tThis color is allied with you",
+    "ua": "ALLY_FLAG5 \tЦе колір ваших союзників"
+  },
+  {
+    "var": "HELP_ALLY_FLAG6",
+    "en": "ALLY_FLAG6 \tThis color is allied with you",
+    "ua": "ALLY_FLAG6 \tЦе колір ваших союзників"
+  },
+  {
+    "var": "HELP_ALLY_FLAG7",
+    "en": "ALLY_FLAG7 \tThis color is allied with you",
+    "ua": "ALLY_FLAG7 \tЦе колір ваших союзників"
+  },
+  {
+    "var": "HELP_ALLY_FLAG8",
+    "en": "ALLY_FLAG8 \tThis color is allied with you",
+    "ua": "ALLY_FLAG8 \tЦе колір ваших союзників"
+  },
+  {
+    "var": "HELP_ENEMY_FLAG1",
+    "en": "ENEMY_FLAG1 \tThis color is your enemy",
+    "ua": "ENEMY_FLAG1 \tЦе колір ваших ворогів"
+  },
+  {
+    "var": "HELP_ENEMY_FLAG2",
+    "en": "ENEMY_FLAG2 \tThis color is your enemy",
+    "ua": "ENEMY_FLAG2 \tЦе колір ваших ворогів"
+  },
+  {
+    "var": "HELP_ENEMY_FLAG3",
+    "en": "ENEMY_FLAG3 \tThis color is your enemy",
+    "ua": "ENEMY_FLAG3 \tЦе колір ваших ворогів"
+  },
+  {
+    "var": "HELP_ENEMY_FLAG4",
+    "en": "ENEMY_FLAG4 \tThis color is your enemy",
+    "ua": "ENEMY_FLAG4 \tЦе колір ваших ворогів"
+  },
+  {
+    "var": "HELP_ENEMY_FLAG5",
+    "en": "ENEMY_FLAG5 \tThis color is your enemy",
+    "ua": "ENEMY_FLAG5 \tЦе колір ваших ворогів"
+  },
+  {
+    "var": "HELP_ENEMY_FLAG6",
+    "en": "ENEMY_FLAG6 \tThis color is your enemy",
+    "ua": "ENEMY_FLAG6 \tЦе колір ваших ворогів"
+  },
+  {
+    "var": "HELP_ENEMY_FLAG7",
+    "en": "ENEMY_FLAG7 \tThis color is your enemy",
+    "ua": "ENEMY_FLAG7 \tЦе колір ваших ворогів"
+  },
+  {
+    "var": "HELP_ENEMY_FLAG8",
+    "en": "ENEMY_FLAG8 \tThis color is your enemy",
+    "ua": "ENEMY_FLAG8 \tЦе колір ваших ворогів"
+  },
+  {
+    "var": "HELP_SCENARIO_OPTIONS",
+    "en": "SCENARIO_OPTIONS \tView/hide scenario list",
+    "ua": "SCENARIO_OPTIONS \tПоказати/сховати список сценаріїв."
+  },
+  {
+    "var": "HELP_ADVANCED_OPTIONS",
+    "en": "ADVANCED_OPTIONS \tView/hide advanced options",
+    "ua": "ADVANCED_OPTIONS \tПоказати/сховати додаткові опції."
+  },
+  {
+    "var": "HELP_random map button",
+    "en": "random map button\tPlay a randomly created map",
+    "ua": "random map button\tГрати у випадково створену карту."
+  },
+  {
+    "var": "HELP_CHAT_DESC",
+    "en": "CHAT_DESC \tToggle between Scenario Description and Chat Window",
+    "ua": "CHAT_DESC \tПеремикатись з опису сценарію до вікна чату."
+  },
+  {
+    "var": "HELP_MAP_DIFFICULTY",
+    "en": "MAP_DIFFICULTY \tThese allow you to modify the overall difficulty of the scenario",
+    "ua": "MAP_DIFFICULTY \tТут ви маєте можливість змінити рівень складності сценарію."
+  },
+  {
+    "var": "HELP_RATING",
+    "en": "RATING \tDisplays overall difficulty based on Map and Player difficulty settings",
+    "ua": "RATING \tВідображає загальний рівень складності, що залежить від налаштувань мапи і гравця."
+  },
+  {
+    "var": "HELP_MAP_SIZE",
+    "en": "MAP_SIZE \t\"Map difficulty can be Easy, Normal, Hard, Expert or Impossible\"",
+    "ua": "MAP_SIZE \t\"Рівень складності карти може бути легким, нормальним, важким, надважким і неможливим.\""
+  },
+  {
+    "var": "HELP_VICTORY_CONDITION",
+    "en": "VICTORY_CONDITION \tVictory Conditions for the current scenario",
+    "ua": "VICTORY_CONDITION \tУмови перемоги для поточного сценарію."
+  },
+  {
+    "var": "HELP_LOSS_CONDITION",
+    "en": "LOSS_CONDITION \tLoss Conditions for the current scenario",
+    "ua": "LOSS_CONDITION \tУмови поразки для поточного сценарію."
+  },
+  {
+    "var": "HELP_SMALL_FILTER",
+    "en": "SMALL_FILTER \tView all small maps",
+    "ua": "SMALL_FILTER \tПоказати всі маленькі мапи."
+  },
+  {
+    "var": "HELP_MEDIUM_FILTER",
+    "en": "MEDIUM_FILTER \tView all medium maps",
+    "ua": "MEDIUM_FILTER \tПоказати всі середні мапи."
+  },
+  {
+    "var": "HELP_LARGE_FILTER",
+    "en": "LARGE_FILTER \tView all large maps",
+    "ua": "LARGE_FILTER \tПоказати всі великі мапи."
+  },
+  {
+    "var": "HELP_EXTRALARGE_FILTER",
+    "en": "EXTRALARGE_FILTER \tView all extra large maps",
+    "ua": "EXTRALARGE_FILTER \tПоказати всі дуже великі мапи."
+  },
+  {
+    "var": "HELP_ALL_FILTER",
+    "en": "ALL_FILTER \tView all maps",
+    "ua": "ALL_FILTER \tПоказати всі мапи."
+  },
+  {
+    "var": "HELP_SCENARIO_NAME_1",
+    "en": "SCENARIO_NAME_1 \tSCENARIO_NAME_1 ",
+    "ua": "SCENARIO_NAME_1 \tSCENARIO_NAME_1 "
+  },
+  {
+    "var": "HELP_SCENARIO_NAME_2",
+    "en": "SCENARIO_NAME_2 \tSCENARIO_NAME_2 ",
+    "ua": "SCENARIO_NAME_2 \tSCENARIO_NAME_2 "
+  },
+  {
+    "var": "HELP_SCENARIO_NAME_3",
+    "en": "SCENARIO_NAME_3 \tSCENARIO_NAME_3 ",
+    "ua": "SCENARIO_NAME_3 \tSCENARIO_NAME_3 "
+  },
+  {
+    "var": "HELP_SCENARIO_NAME_4",
+    "en": "SCENARIO_NAME_4 \tSCENARIO_NAME_4 ",
+    "ua": "SCENARIO_NAME_4 \tSCENARIO_NAME_4 "
+  },
+  {
+    "var": "HELP_SCENARIO_NAME_5",
+    "en": "SCENARIO_NAME_5 \tSCENARIO_NAME_5 ",
+    "ua": "SCENARIO_NAME_5 \tSCENARIO_NAME_5 "
+  },
+  {
+    "var": "HELP_SCENARIO_NAME_6",
+    "en": "SCENARIO_NAME_6 \tSCENARIO_NAME_6 ",
+    "ua": "SCENARIO_NAME_6 \tSCENARIO_NAME_6 "
+  },
+  {
+    "var": "HELP_SCENARIO_NAME_7",
+    "en": "SCENARIO_NAME_7 \tSCENARIO_NAME_7 ",
+    "ua": "SCENARIO_NAME_7 \tSCENARIO_NAME_7 "
+  },
+  {
+    "var": "HELP_SCENARIO_NAME_8",
+    "en": "SCENARIO_NAME_8 \tSCENARIO_NAME_8 ",
+    "ua": "SCENARIO_NAME_8 \tSCENARIO_NAME_8 "
+  },
+  {
+    "var": "HELP_SCENARIO_NAME_9",
+    "en": "SCENARIO_NAME_9 \tSCENARIO_NAME_9 ",
+    "ua": "SCENARIO_NAME_9 \tSCENARIO_NAME_9 "
+  },
+  {
+    "var": "HELP_SCENARIO_NAME_10",
+    "en": "SCENARIO_NAME_10 \tSCENARIO_NAME_10 ",
+    "ua": "SCENARIO_NAME_10 \tSCENARIO_NAME_10 "
+  },
+  {
+    "var": "HELP_SCENARIO_NAME_11",
+    "en": "SCENARIO_NAME_11 \tSCENARIO_NAME_11 ",
+    "ua": "SCENARIO_NAME_11 \tSCENARIO_NAME_11 "
+  },
+  {
+    "var": "HELP_SCENARIO_NAME_12",
+    "en": "SCENARIO_NAME_12 \tSCENARIO_NAME_12 ",
+    "ua": "SCENARIO_NAME_12 \tSCENARIO_NAME_12 "
+  },
+  {
+    "var": "HELP_SCENARIO_NAME_13",
+    "en": "SCENARIO_NAME_13 \tSCENARIO_NAME_13 ",
+    "ua": "SCENARIO_NAME_13 \tSCENARIO_NAME_13 "
+  },
+  {
+    "var": "HELP_SCENARIO_NAME_14",
+    "en": "SCENARIO_NAME_14 \tSCENARIO_NAME_14 ",
+    "ua": "SCENARIO_NAME_14 \tSCENARIO_NAME_14 "
+  },
+  {
+    "var": "HELP_SCENARIO_NAME_15",
+    "en": "SCENARIO_NAME_15 \tSCENARIO_NAME_15 ",
+    "ua": "SCENARIO_NAME_15 \tSCENARIO_NAME_15 "
+  },
+  {
+    "var": "HELP_SCENARIO_NAME_16",
+    "en": "SCENARIO_NAME_16 \tSCENARIO_NAME_16 ",
+    "ua": "SCENARIO_NAME_16 \tSCENARIO_NAME_16 "
+  },
+  {
+    "var": "HELP_SCENARIO_NAME_17",
+    "en": "SCENARIO_NAME_17 \tSCENARIO_NAME_17 ",
+    "ua": "SCENARIO_NAME_17 \tSCENARIO_NAME_17 "
+  },
+  {
+    "var": "HELP_SCENARIO_NAME_18",
+    "en": "SCENARIO_NAME_18 \tSCENARIO_NAME_18 ",
+    "ua": "SCENARIO_NAME_18 \tSCENARIO_NAME_18 "
+  },
+  {
+    "var": "HELP_ENTRY_SCENARIO_NAME_1",
+    "en": "ENTRY_SCENARIO_NAME_1 \tENTRY_SCENARIO_NAME_1 ",
+    "ua": "ENTRY_SCENARIO_NAME_1 \tENTRY_SCENARIO_NAME_1 "
+  },
+  {
+    "var": "HELP_ENTRY_SCENARIO_NAME_2",
+    "en": "ENTRY_SCENARIO_NAME_2 \tENTRY_SCENARIO_NAME_2 ",
+    "ua": "ENTRY_SCENARIO_NAME_2 \tENTRY_SCENARIO_NAME_2 "
+  },
+  {
+    "var": "HELP_ENTRY_SCENARIO_NAME_3",
+    "en": "ENTRY_SCENARIO_NAME_3 \tENTRY_SCENARIO_NAME_3 ",
+    "ua": "ENTRY_SCENARIO_NAME_3 \tENTRY_SCENARIO_NAME_3 "
+  },
+  {
+    "var": "HELP_ENTRY_SCENARIO_NAME_4",
+    "en": "ENTRY_SCENARIO_NAME_4 \tENTRY_SCENARIO_NAME_4 ",
+    "ua": "ENTRY_SCENARIO_NAME_4 \tENTRY_SCENARIO_NAME_4 "
+  },
+  {
+    "var": "HELP_ENTRY_SCENARIO_NAME_5",
+    "en": "ENTRY_SCENARIO_NAME_5 \tENTRY_SCENARIO_NAME_5 ",
+    "ua": "ENTRY_SCENARIO_NAME_5 \tENTRY_SCENARIO_NAME_5 "
+  },
+  {
+    "var": "HELP_ENTRY_SCENARIO_NAME_6",
+    "en": "ENTRY_SCENARIO_NAME_6 \tENTRY_SCENARIO_NAME_6 ",
+    "ua": "ENTRY_SCENARIO_NAME_6 \tENTRY_SCENARIO_NAME_6 "
+  },
+  {
+    "var": "HELP_ENTRY_SCENARIO_NAME_7",
+    "en": "ENTRY_SCENARIO_NAME_7 \tENTRY_SCENARIO_NAME_7 ",
+    "ua": "ENTRY_SCENARIO_NAME_7 \tENTRY_SCENARIO_NAME_7 "
+  },
+  {
+    "var": "HELP_ENTRY_SCENARIO_NAME_8",
+    "en": "ENTRY_SCENARIO_NAME_8 \tENTRY_SCENARIO_NAME_8 ",
+    "ua": "ENTRY_SCENARIO_NAME_8 \tENTRY_SCENARIO_NAME_8 "
+  },
+  {
+    "var": "HELP_ENTRY_SCENARIO_NAME_9",
+    "en": "ENTRY_SCENARIO_NAME_9 \tENTRY_SCENARIO_NAME_9 ",
+    "ua": "ENTRY_SCENARIO_NAME_9 \tENTRY_SCENARIO_NAME_9 "
+  },
+  {
+    "var": "HELP_ENTRY_SCENARIO_NAME_10",
+    "en": "ENTRY_SCENARIO_NAME_10 \tENTRY_SCENARIO_NAME_10 ",
+    "ua": "ENTRY_SCENARIO_NAME_10 \tENTRY_SCENARIO_NAME_10 "
+  },
+  {
+    "var": "HELP_ENTRY_SCENARIO_NAME_11",
+    "en": "ENTRY_SCENARIO_NAME_11 \tENTRY_SCENARIO_NAME_11 ",
+    "ua": "ENTRY_SCENARIO_NAME_11 \tENTRY_SCENARIO_NAME_11 "
+  },
+  {
+    "var": "HELP_ENTRY_SCENARIO_NAME_12",
+    "en": "ENTRY_SCENARIO_NAME_12 \tENTRY_SCENARIO_NAME_12 ",
+    "ua": "ENTRY_SCENARIO_NAME_12 \tENTRY_SCENARIO_NAME_12 "
+  },
+  {
+    "var": "HELP_ENTRY_SCENARIO_NAME_13",
+    "en": "ENTRY_SCENARIO_NAME_13 \tENTRY_SCENARIO_NAME_13 ",
+    "ua": "ENTRY_SCENARIO_NAME_13 \tENTRY_SCENARIO_NAME_13 "
+  },
+  {
+    "var": "HELP_ENTRY_SCENARIO_NAME_14",
+    "en": "ENTRY_SCENARIO_NAME_14 \tENTRY_SCENARIO_NAME_14 ",
+    "ua": "ENTRY_SCENARIO_NAME_14 \tENTRY_SCENARIO_NAME_14 "
+  },
+  {
+    "var": "HELP_ENTRY_SCENARIO_NAME_15",
+    "en": "ENTRY_SCENARIO_NAME_15 \tENTRY_SCENARIO_NAME_15 ",
+    "ua": "ENTRY_SCENARIO_NAME_15 \tENTRY_SCENARIO_NAME_15 "
+  },
+  {
+    "var": "HELP_ENTRY_SCENARIO_NAME_16",
+    "en": "ENTRY_SCENARIO_NAME_16 \tENTRY_SCENARIO_NAME_16 ",
+    "ua": "ENTRY_SCENARIO_NAME_16 \tENTRY_SCENARIO_NAME_16 "
+  },
+  {
+    "var": "HELP_ENTRY_SCENARIO_NAME_17",
+    "en": "ENTRY_SCENARIO_NAME_17 \tENTRY_SCENARIO_NAME_17 ",
+    "ua": "ENTRY_SCENARIO_NAME_17 \tENTRY_SCENARIO_NAME_17 "
+  },
+  {
+    "var": "HELP_ENTRY_SCENARIO_NAME_18",
+    "en": "ENTRY_SCENARIO_NAME_18 \tENTRY_SCENARIO_NAME_18 ",
+    "ua": "ENTRY_SCENARIO_NAME_18 \tENTRY_SCENARIO_NAME_18 "
+  },
+  {
+    "var": "HELP_TURN_DURATION",
+    "en": "TURN_DURATION \tTurn Duration",
+    "ua": "TURN_DURATION \tТривалість ходу"
+  },
+  {
+    "var": "HELP_CHAT_TEXT",
+    "en": "CHAT_TEXT \tChat Messages\t\t\t\t\t\t",
+    "ua": "CHAT_TEXT \tПовідомлення чату\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_CHAT_ENTRY",
+    "en": "CHAT_ENTRY \tCHAT_ENTRY \t\t\t\t\t\t",
+    "ua": "CHAT_ENTRY \tCHAT_ENTRY \t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_CHAT_PLUG",
+    "en": "CHAT_PLUG \tCHAT_PLUG \t\t\t\t\t\t",
+    "ua": "CHAT_PLUG \tCHAT_PLUG \t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_CHAT_PLAYER",
+    "en": "CHAT_PLAYER \tPlayers\t\t\t\t\t\t",
+    "ua": "CHAT_PLAYER \tГравці\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_\"CHAT_PLAYER_SLIDER,\"",
+    "en": "\"CHAT_PLAYER_SLIDER,\"\t\"CHAT_PLAYER_SLIDER,\"\t\t\t\t\t\t",
+    "ua": "\"CHAT_PLAYER_SLIDER,\"\t\"CHAT_PLAYER_SLIDER,\"\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_ROLLOVER",
+    "en": "ROLLOVER \tROLLOVER \t\t\t\t\t\t",
+    "ua": "ROLLOVER \tROLLOVER \t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_NEXT",
+    "en": "NEXT \tSave the currently selected game\t\t\t\t\t\t",
+    "ua": "NEXT \tЗберегти поточну вибрану гру.\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_BEGIN",
+    "en": "BEGIN \tStart the selected scenario\t\t\t\t\t\t",
+    "ua": "BEGIN \tПочати обраний сценарій.\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_BACK",
+    "en": "BACK \tBACK \t\t\t\t\t\t",
+    "ua": "BACK \tНазад\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_SSEXIT",
+    "en": "SSEXIT \t\"Close this window\n(no action taken)\"\t\t\t\t\t\t",
+    "ua": "SSEXIT \t\"Закрити це вікно\n(без будь-якої дії)\"\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_WHICHMAP",
+    "en": "WHICHMAP \t\"Current Map Size\n(Small, Medium, Large, Extra Large)\"\t\t\t\t\t\t",
+    "ua": "WHICHMAP \t\"Поточний розмір мапи\n(маленький, середній, великий і дуже великий).\"\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_SORT_NUMBER",
+    "en": "SORT_NUMBER \tSorts maps by number of players\t\t\t\t\t\t",
+    "ua": "SORT_NUMBER \tСортувати мапи за кількістю гравців.\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_SORT_SIZE",
+    "en": "SORT_SIZE \tSorts maps by size of maps\t\t\t\t\t\t",
+    "ua": "SORT_SIZE \tСортувати мапи за розміром.\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_k_sort_version",
+    "en": "k_sort_version\tSort maps by map version\t\t\t\t\t\t",
+    "ua": "k_sort_version\tСортувати мапи за версією.\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_SORT_ALPHA",
+    "en": "SORT_ALPHA \tSorts maps alphabetically by name\t\t\t\t\t\t",
+    "ua": "SORT_ALPHA \tСортувати мапи за алфавітом.\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_SORT_VICTORY",
+    "en": "SORT_VICTORY \tSorts maps by victory conditions\t\t\t\t\t\t",
+    "ua": "SORT_VICTORY \tСортувати мапи за умовами перемоги.\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_SORT_LOSS",
+    "en": "SORT_LOSS \tSorts maps by loss conditions",
+    "ua": "SORT_LOSS \tСортувати мапи за умовами поразки."
+  },
+  {
+    "var": "HELP_BRIEFING",
+    "en": "BRIEFING \tBRIEFING ",
+    "ua": "BRIEFING \tBRIEFING "
+  },
+  {
+    "var": "HELP_SSHERO",
+    "en": "SSHERO \tSSHERO ",
+    "ua": "SSHERO \tSSHERO "
+  },
+  {
+    "var": "HELP_GOLDPIC",
+    "en": "GOLDPIC \tGOLDPIC ",
+    "ua": "GOLDPIC \tGOLDPIC "
+  },
+  {
+    "var": "HELP_HUMAN_CPU1",
+    "en": "HUMAN_CPU1 \tHuman or CPU means that this color can be played by a human or the computer.  CPU only means that only the computer can control this color.",
+    "ua": "HUMAN_CPU1 \t\"\"\"Людина чи комп'ютер\"\" означає, що під цим кольором може грати як людина, так і комп'ютер.  \"\"Тільки комп'ютер\"\" означає, що лише комп'ютер може грати під цим кольором.\""
+  },
+  {
+    "var": "HELP_HUMAN_CPU2",
+    "en": "HUMAN_CPU2 \tHuman or CPU means that this color can be played by a human or the computer.  CPU only means that only the computer can control this color.",
+    "ua": "HUMAN_CPU2 \t\"\"\"Людина чи комп'ютер\"\" означає, що під цим кольором може грати як людина, так і комп'ютер.  \"\"Тільки комп'ютер\"\" означає, що лише комп'ютер може грати під цим кольором.\""
+  },
+  {
+    "var": "HELP_HUMAN_CPU3",
+    "en": "HUMAN_CPU3 \tHuman or CPU means that this color can be played by a human or the computer.  CPU only means that only the computer can control this color.",
+    "ua": "HUMAN_CPU3 \t\"\"\"Людина чи комп'ютер\"\" означає, що під цим кольором може грати як людина, так і комп'ютер.  \"\"Тільки комп'ютер\"\" означає, що лише комп'ютер може грати під цим кольором.\""
+  },
+  {
+    "var": "HELP_HUMAN_CPU4",
+    "en": "HUMAN_CPU4 \tHuman or CPU means that this color can be played by a human or the computer.  CPU only means that only the computer can control this color.",
+    "ua": "HUMAN_CPU4 \t\"\"\"Людина чи комп'ютер\"\" означає, що під цим кольором може грати як людина, так і комп'ютер.  \"\"Тільки комп'ютер\"\" означає, що лише комп'ютер може грати під цим кольором.\""
+  },
+  {
+    "var": "HELP_HUMAN_CPU5",
+    "en": "HUMAN_CPU5 \tHuman or CPU means that this color can be played by a human or the computer.  CPU only means that only the computer can control this color.",
+    "ua": "HUMAN_CPU5 \t\"\"\"Людина чи комп'ютер\"\" означає, що під цим кольором може грати як людина, так і комп'ютер.  \"\"Тільки комп'ютер\"\" означає, що лише комп'ютер може грати під цим кольором.\""
+  },
+  {
+    "var": "HELP_HUMAN_CPU6",
+    "en": "HUMAN_CPU6 \tHuman or CPU means that this color can be played by a human or the computer.  CPU only means that only the computer can control this color.",
+    "ua": "HUMAN_CPU6 \t\"\"\"Людина чи комп'ютер\"\" означає, що під цим кольором може грати як людина, так і комп'ютер.  \"\"Тільки комп'ютер\"\" означає, що лише комп'ютер може грати під цим кольором.\""
+  },
+  {
+    "var": "HELP_HUMAN_CPU7",
+    "en": "HUMAN_CPU7 \tHuman or CPU means that this color can be played by a human or the computer.  CPU only means that only the computer can control this color.",
+    "ua": "HUMAN_CPU7 \t\"\"\"Людина чи комп'ютер\"\" означає, що під цим кольором може грати як людина, так і комп'ютер.  \"\"Тільки комп'ютер\"\" означає, що лише комп'ютер може грати під цим кольором.\""
+  },
+  {
+    "var": "HELP_HUMAN_CPU8",
+    "en": "HUMAN_CPU8 \tHuman or CPU means that this color can be played by a human or the computer.  CPU only means that only the computer can control this color.",
+    "ua": "HUMAN_CPU8 \t\"\"\"Людина чи комп'ютер\"\" означає, що під цим кольором може грати як людина, так і комп'ютер.  \"\"Тільки комп'ютер\"\" означає, що лише комп'ютер може грати під цим кольором.\""
+  },
+  {
+    "var": "HELP_HANDICAP1",
+    "en": "HANDICAP1 \tAllows you to handicap this player by diminishing their starting resources",
+    "ua": "HANDICAP1 \tДозволяє вам надати гандикап обраному гравцю, зменшивши початкову кількість його ресурсів."
+  },
+  {
+    "var": "HELP_HANDICAP2",
+    "en": "HANDICAP2 \tAllows you to handicap this player by diminishing their starting resources",
+    "ua": "HANDICAP2 \tДозволяє вам надати гандикап обраному гравцю, зменшивши початкову кількість його ресурсів."
+  },
+  {
+    "var": "HELP_HANDICAP3",
+    "en": "HANDICAP3 \tAllows you to handicap this player by diminishing their starting resources",
+    "ua": "HANDICAP3 \tДозволяє вам надати гандикап обраному гравцю, зменшивши початкову кількість його ресурсів."
+  },
+  {
+    "var": "HELP_HANDICAP4",
+    "en": "HANDICAP4 \tAllows you to handicap this player by diminishing their starting resources",
+    "ua": "HANDICAP4 \tДозволяє вам надати гандикап обраному гравцю, зменшивши початкову кількість його ресурсів."
+  },
+  {
+    "var": "HELP_HANDICAP5",
+    "en": "HANDICAP5 \tAllows you to handicap this player by diminishing their starting resources",
+    "ua": "HANDICAP5 \tДозволяє вам надати гандикап обраному гравцю, зменшивши початкову кількість його ресурсів."
+  },
+  {
+    "var": "HELP_HANDICAP6",
+    "en": "HANDICAP6 \tAllows you to handicap this player by diminishing their starting resources",
+    "ua": "HANDICAP6 \tДозволяє вам надати гандикап обраному гравцю, зменшивши початкову кількість його ресурсів."
+  },
+  {
+    "var": "HELP_HANDICAP7",
+    "en": "HANDICAP7 \tAllows you to handicap this player by diminishing their starting resources",
+    "ua": "HANDICAP7 \tДозволяє вам надати гандикап обраному гравцю, зменшивши початкову кількість його ресурсів."
+  },
+  {
+    "var": "HELP_HANDICAP8",
+    "en": "HANDICAP8 \tAllows you to handicap this player by diminishing their starting resources",
+    "ua": "HANDICAP8 \tДозволяє вам надати гандикап обраному гравцю, зменшивши початкову кількість його ресурсів."
+  },
+  {
+    "var": "HELP_TOWN_LEFT1",
+    "en": "TOWN_LEFT1 \tAllows you to choose a starting town type",
+    "ua": "TOWN_LEFT1 \tДозволяє вам вибрати початковий тип міста."
+  },
+  {
+    "var": "HELP_TOWN_LEFT2",
+    "en": "TOWN_LEFT2 \tAllows you to choose a starting town type",
+    "ua": "TOWN_LEFT2 \tДозволяє вам вибрати початковий тип міста."
+  },
+  {
+    "var": "HELP_TOWN_LEFT3",
+    "en": "TOWN_LEFT3 \tAllows you to choose a starting town type",
+    "ua": "TOWN_LEFT3 \tДозволяє вам вибрати початковий тип міста."
+  },
+  {
+    "var": "HELP_TOWN_LEFT4",
+    "en": "TOWN_LEFT4 \tAllows you to choose a starting town type",
+    "ua": "TOWN_LEFT4 \tДозволяє вам вибрати початковий тип міста."
+  },
+  {
+    "var": "HELP_TOWN_LEFT5",
+    "en": "TOWN_LEFT5 \tAllows you to choose a starting town type",
+    "ua": "TOWN_LEFT5 \tДозволяє вам вибрати початковий тип міста."
+  },
+  {
+    "var": "HELP_TOWN_LEFT6",
+    "en": "TOWN_LEFT6 \tAllows you to choose a starting town type",
+    "ua": "TOWN_LEFT6 \tДозволяє вам вибрати початковий тип міста."
+  },
+  {
+    "var": "HELP_TOWN_LEFT7",
+    "en": "TOWN_LEFT7 \tAllows you to choose a starting town type",
+    "ua": "TOWN_LEFT7 \tДозволяє вам вибрати початковий тип міста."
+  },
+  {
+    "var": "HELP_TOWN_LEFT8",
+    "en": "TOWN_LEFT8 \tAllows you to choose a starting town type",
+    "ua": "TOWN_LEFT8 \tДозволяє вам вибрати початковий тип міста."
+  },
+  {
+    "var": "HELP_TOWN_RITE1",
+    "en": "TOWN_RITE1 \tAllows you to choose a starting town type",
+    "ua": "TOWN_RITE1 \tДозволяє вам вибрати початковий тип міста."
+  },
+  {
+    "var": "HELP_TOWN_RITE2",
+    "en": "TOWN_RITE2 \tAllows you to choose a starting town type",
+    "ua": "TOWN_RITE2 \tДозволяє вам вибрати початковий тип міста."
+  },
+  {
+    "var": "HELP_TOWN_RITE3",
+    "en": "TOWN_RITE3 \tAllows you to choose a starting town type",
+    "ua": "TOWN_RITE3 \tДозволяє вам вибрати початковий тип міста."
+  },
+  {
+    "var": "HELP_TOWN_RITE4",
+    "en": "TOWN_RITE4 \tAllows you to choose a starting town type",
+    "ua": "TOWN_RITE4 \tДозволяє вам вибрати початковий тип міста."
+  },
+  {
+    "var": "HELP_TOWN_RITE5",
+    "en": "TOWN_RITE5 \tAllows you to choose a starting town type",
+    "ua": "TOWN_RITE5 \tДозволяє вам вибрати початковий тип міста."
+  },
+  {
+    "var": "HELP_TOWN_RITE6",
+    "en": "TOWN_RITE6 \tAllows you to choose a starting town type",
+    "ua": "TOWN_RITE6 \tДозволяє вам вибрати початковий тип міста."
+  },
+  {
+    "var": "HELP_TOWN_RITE7",
+    "en": "TOWN_RITE7 \tAllows you to choose a starting town type",
+    "ua": "TOWN_RITE7 \tДозволяє вам вибрати початковий тип міста."
+  },
+  {
+    "var": "HELP_TOWN_RITE8",
+    "en": "TOWN_RITE8 \tAllows you to choose a starting town type",
+    "ua": "TOWN_RITE8 \tДозволяє вам вибрати початковий тип міста."
+  },
+  {
+    "var": "HELP_HERO_LEFT1",
+    "en": "HERO_LEFT1 \tAllows you to choose a starting hero based on your town type",
+    "ua": "HERO_LEFT1 \tДозволяє вам вибрати початкового героя, базуючись на типі міста."
+  },
+  {
+    "var": "HELP_HERO_LEFT2",
+    "en": "HERO_LEFT2 \tAllows you to choose a starting hero based on your town type",
+    "ua": "HERO_LEFT2 \tДозволяє вам вибрати початкового героя, базуючись на типі міста."
+  },
+  {
+    "var": "HELP_HERO_LEFT3",
+    "en": "HERO_LEFT3 \tAllows you to choose a starting hero based on your town type",
+    "ua": "HERO_LEFT3 \tДозволяє вам вибрати початкового героя, базуючись на типі міста."
+  },
+  {
+    "var": "HELP_HERO_LEFT4",
+    "en": "HERO_LEFT4 \tAllows you to choose a starting hero based on your town type",
+    "ua": "HERO_LEFT4 \tДозволяє вам вибрати початкового героя, базуючись на типі міста."
+  },
+  {
+    "var": "HELP_HERO_LEFT5",
+    "en": "HERO_LEFT5 \tAllows you to choose a starting hero based on your town type",
+    "ua": "HERO_LEFT5 \tДозволяє вам вибрати початкового героя, базуючись на типі міста."
+  },
+  {
+    "var": "HELP_HERO_LEFT6",
+    "en": "HERO_LEFT6 \tAllows you to choose a starting hero based on your town type",
+    "ua": "HERO_LEFT6 \tДозволяє вам вибрати початкового героя, базуючись на типі міста."
+  },
+  {
+    "var": "HELP_HERO_LEFT7",
+    "en": "HERO_LEFT7 \tAllows you to choose a starting hero based on your town type",
+    "ua": "HERO_LEFT7 \tДозволяє вам вибрати початкового героя, базуючись на типі міста."
+  },
+  {
+    "var": "HELP_HERO_LEFT8",
+    "en": "HERO_LEFT8 \tAllows you to choose a starting hero based on your town type",
+    "ua": "HERO_LEFT8 \tДозволяє вам вибрати початкового героя, базуючись на типі міста."
+  },
+  {
+    "var": "HELP_HERO_RITE1",
+    "en": "HERO_RITE1 \tAllows you to choose a starting hero based on your town type",
+    "ua": "HERO_RITE1 \tДозволяє вам вибрати початкового героя, базуючись на типі міста."
+  },
+  {
+    "var": "HELP_HERO_RITE2",
+    "en": "HERO_RITE2 \tAllows you to choose a starting hero based on your town type",
+    "ua": "HERO_RITE2 \tДозволяє вам вибрати початкового героя, базуючись на типі міста."
+  },
+  {
+    "var": "HELP_HERO_RITE3",
+    "en": "HERO_RITE3 \tAllows you to choose a starting hero based on your town type",
+    "ua": "HERO_RITE3 \tДозволяє вам вибрати початкового героя, базуючись на типі міста."
+  },
+  {
+    "var": "HELP_HERO_RITE4",
+    "en": "HERO_RITE4 \tAllows you to choose a starting hero based on your town type",
+    "ua": "HERO_RITE4 \tДозволяє вам вибрати початкового героя, базуючись на типі міста."
+  },
+  {
+    "var": "HELP_HERO_RITE5",
+    "en": "HERO_RITE5 \tAllows you to choose a starting hero based on your town type",
+    "ua": "HERO_RITE5 \tДозволяє вам вибрати початкового героя, базуючись на типі міста."
+  },
+  {
+    "var": "HELP_HERO_RITE6",
+    "en": "HERO_RITE6 \tAllows you to choose a starting hero based on your town type",
+    "ua": "HERO_RITE6 \tДозволяє вам вибрати початкового героя, базуючись на типі міста."
+  },
+  {
+    "var": "HELP_HERO_RITE7",
+    "en": "HERO_RITE7 \tAllows you to choose a starting hero based on your town type",
+    "ua": "HERO_RITE7 \tДозволяє вам вибрати початкового героя, базуючись на типі міста."
+  },
+  {
+    "var": "HELP_HERO_RITE8",
+    "en": "HERO_RITE8 \tAllows you to choose a starting hero based on your town type",
+    "ua": "HERO_RITE8 \tДозволяє вам вибрати початкового героя, базуючись на типі міста."
+  },
+  {
+    "var": "HELP_RES_LEFT1",
+    "en": "RES_LEFT1 \tAllows you to choose a starting bonus for your hero",
+    "ua": "RES_LEFT1 \tДозволяє вам обрати початковий бонус для вашого героя."
+  },
+  {
+    "var": "HELP_RES_LEFT2",
+    "en": "RES_LEFT2 \tAllows you to choose a starting bonus for your hero",
+    "ua": "RES_LEFT2 \tДозволяє вам обрати початковий бонус для вашого героя."
+  },
+  {
+    "var": "HELP_RES_LEFT3",
+    "en": "RES_LEFT3 \tAllows you to choose a starting bonus for your hero",
+    "ua": "RES_LEFT3 \tДозволяє вам обрати початковий бонус для вашого героя."
+  },
+  {
+    "var": "HELP_RES_LEFT4",
+    "en": "RES_LEFT4 \tAllows you to choose a starting bonus for your hero",
+    "ua": "RES_LEFT4 \tДозволяє вам обрати початковий бонус для вашого героя."
+  },
+  {
+    "var": "HELP_RES_LEFT5",
+    "en": "RES_LEFT5 \tAllows you to choose a starting bonus for your hero",
+    "ua": "RES_LEFT5 \tДозволяє вам обрати початковий бонус для вашого героя."
+  },
+  {
+    "var": "HELP_RES_LEFT6",
+    "en": "RES_LEFT6 \tAllows you to choose a starting bonus for your hero",
+    "ua": "RES_LEFT6 \tДозволяє вам обрати початковий бонус для вашого героя."
+  },
+  {
+    "var": "HELP_RES_LEFT7",
+    "en": "RES_LEFT7 \tAllows you to choose a starting bonus for your hero",
+    "ua": "RES_LEFT7 \tДозволяє вам обрати початковий бонус для вашого героя."
+  },
+  {
+    "var": "HELP_RES_LEFT8",
+    "en": "RES_LEFT8 \tAllows you to choose a starting bonus for your hero",
+    "ua": "RES_LEFT8 \tДозволяє вам обрати початковий бонус для вашого героя."
+  },
+  {
+    "var": "HELP_RES_RITE1",
+    "en": "RES_RITE1 \tAllows you to choose a starting bonus for your hero",
+    "ua": "RES_RITE1 \tДозволяє вам обрати початковий бонус для вашого героя."
+  },
+  {
+    "var": "HELP_RES_RITE2",
+    "en": "RES_RITE2 \tAllows you to choose a starting bonus for your hero",
+    "ua": "RES_RITE2 \tДозволяє вам обрати початковий бонус для вашого героя."
+  },
+  {
+    "var": "HELP_RES_RITE3",
+    "en": "RES_RITE3 \tAllows you to choose a starting bonus for your hero",
+    "ua": "RES_RITE3 \tДозволяє вам обрати початковий бонус для вашого героя."
+  },
+  {
+    "var": "HELP_RES_RITE4",
+    "en": "RES_RITE4 \tAllows you to choose a starting bonus for your hero",
+    "ua": "RES_RITE4 \tДозволяє вам обрати початковий бонус для вашого героя."
+  },
+  {
+    "var": "HELP_RES_RITE5",
+    "en": "RES_RITE5 \tAllows you to choose a starting bonus for your hero",
+    "ua": "RES_RITE5 \tДозволяє вам обрати початковий бонус для вашого героя."
+  },
+  {
+    "var": "HELP_RES_RITE6",
+    "en": "RES_RITE6 \tAllows you to choose a starting bonus for your hero",
+    "ua": "RES_RITE6 \tДозволяє вам обрати початковий бонус для вашого героя."
+  },
+  {
+    "var": "HELP_RES_RITE7",
+    "en": "RES_RITE7 \tAllows you to choose a starting bonus for your hero",
+    "ua": "RES_RITE7 \tДозволяє вам обрати початковий бонус для вашого героя."
+  },
+  {
+    "var": "HELP_RES_RITE8",
+    "en": "RES_RITE8 \tAllows you to choose a starting bonus for your hero",
+    "ua": "RES_RITE8 \tДозволяє вам обрати початковий бонус для вашого героя."
+  },
+  {
+    "var": "HELP_HERO_SETTING_1",
+    "en": "HERO_SETTING_1 \tClick here to play this color",
+    "ua": "HERO_SETTING_1 \tНатисніть тут, щоб грати під цим кольором."
+  },
+  {
+    "var": "HELP_HERO_SETTING_2",
+    "en": "HERO_SETTING_2 \tClick here to play this color",
+    "ua": "HERO_SETTING_2 \tНатисніть тут, щоб грати під цим кольором."
+  },
+  {
+    "var": "HELP_HERO_SETTING_3",
+    "en": "HERO_SETTING_3 \tClick here to play this color",
+    "ua": "HERO_SETTING_3 \tНатисніть тут, щоб грати під цим кольором."
+  },
+  {
+    "var": "HELP_HERO_SETTING_4",
+    "en": "HERO_SETTING_4 \tClick here to play this color",
+    "ua": "HERO_SETTING_4 \tНатисніть тут, щоб грати під цим кольором."
+  },
+  {
+    "var": "HELP_HERO_SETTING_5",
+    "en": "HERO_SETTING_5 \tClick here to play this color",
+    "ua": "HERO_SETTING_5 \tНатисніть тут, щоб грати під цим кольором.\t"
+  },
+  {
+    "var": "HELP_HERO_SETTING_6",
+    "en": "HERO_SETTING_6 \tClick here to play this color",
+    "ua": "HERO_SETTING_6 \tНатисніть тут, щоб грати під цим кольором.\t"
+  },
+  {
+    "var": "HELP_HERO_SETTING_7",
+    "en": "HERO_SETTING_7 \tClick here to play this color",
+    "ua": "HERO_SETTING_7 \tНатисніть тут, щоб грати під цим кольором.\t"
+  },
+  {
+    "var": "HELP_HERO_SETTING_8",
+    "en": "HERO_SETTING_8 \tClick here to play this color",
+    "ua": "HERO_SETTING_8 \tНатисніть тут, щоб грати під цим кольором.\t"
+  },
+  {
+    "var": "HELP_TOWN_SETTING_1",
+    "en": "TOWN_SETTING_1 \tTOWN_SETTING_1 ",
+    "ua": "TOWN_SETTING_1 \tTOWN_SETTING_1 \t"
+  },
+  {
+    "var": "HELP_TOWN_SETTING_2",
+    "en": "TOWN_SETTING_2 \tTOWN_SETTING_2 ",
+    "ua": "TOWN_SETTING_2 \tTOWN_SETTING_2 \t"
+  },
+  {
+    "var": "HELP_TOWN_SETTING_3",
+    "en": "TOWN_SETTING_3 \tTOWN_SETTING_3 ",
+    "ua": "TOWN_SETTING_3 \tTOWN_SETTING_3 \t"
+  },
+  {
+    "var": "HELP_TOWN_SETTING_4",
+    "en": "TOWN_SETTING_4 \tTOWN_SETTING_4 ",
+    "ua": "TOWN_SETTING_4 \tTOWN_SETTING_4 \t"
+  },
+  {
+    "var": "HELP_TOWN_SETTING_5",
+    "en": "TOWN_SETTING_5 \tTOWN_SETTING_5 \t",
+    "ua": "TOWN_SETTING_5 \tTOWN_SETTING_5 \t"
+  },
+  {
+    "var": "HELP_TOWN_SETTING_6",
+    "en": "TOWN_SETTING_6 \tTOWN_SETTING_6 \t",
+    "ua": "TOWN_SETTING_6 \tTOWN_SETTING_6 \t"
+  },
+  {
+    "var": "HELP_TOWN_SETTING_7",
+    "en": "TOWN_SETTING_7 \tTOWN_SETTING_7 \t",
+    "ua": "TOWN_SETTING_7 \tTOWN_SETTING_7 \t"
+  },
+  {
+    "var": "HELP_TOWN_SETTING_8",
+    "en": "TOWN_SETTING_8 \tTOWN_SETTING_8 \t",
+    "ua": "TOWN_SETTING_8 \tTOWN_SETTING_8 \t"
+  },
+  {
+    "var": "HELP_\"const_create_map,\"",
+    "en": "\"const_create_map,\"\t\t",
+    "ua": "\"const_create_map,\"\t\t"
+  },
+  {
+    "var": "HELP_\"const_map_size_label,\"",
+    "en": "\"const_map_size_label,\"\tSelect a map size\t",
+    "ua": "\"const_map_size_label,\"\tВиберіть розмір мапи.\t"
+  },
+  {
+    "var": "HELP_\"const_small_map,\"",
+    "en": "\"const_small_map,\"\tCreate a small map\t",
+    "ua": "\"const_small_map,\"\tСтворити маленьку мапу.\t"
+  },
+  {
+    "var": "HELP_\"const_medium_map,\"",
+    "en": "\"const_medium_map,\"\tCreate a medium map\t",
+    "ua": "\"const_medium_map,\"\tСтворити середню мапу.\t"
+  },
+  {
+    "var": "HELP_\"const_large_map,\"",
+    "en": "\"const_large_map,\"\tCreate a large map\t",
+    "ua": "\"const_large_map,\"\tСтворити велику мапу.\t"
+  },
+  {
+    "var": "HELP_\"const_huge_map,\"",
+    "en": "\"const_huge_map,\"\tCreate a huge map\t",
+    "ua": "\"const_huge_map,\"\tСтворити дуже велику мапу.\t"
+  },
+  {
+    "var": "HELP_\"const_map_levels,\"",
+    "en": "\"const_map_levels,\"\tSelect single or two level map\t",
+    "ua": "\"const_map_levels,\"\tВиберіть одно- чи дворівневу мапу.\t"
+  },
+  {
+    "var": "HELP_\"const_human_positions_label,\"",
+    "en": "\"const_human_positions_label,\"\tSelect number of human-playable positions\t",
+    "ua": "\"const_human_positions_label,\"\tВиберіть кількість позицій для гравців-людей.\t"
+  },
+  {
+    "var": "HELP_\"const_1_human,\"",
+    "en": "\"const_1_human,\"\tCreate 1 human player\t",
+    "ua": "\"const_1_human,\"\tСтворити 1 гравця-людину.\t"
+  },
+  {
+    "var": "HELP_\"const_2_humans,\"",
+    "en": "\"const_2_humans,\"\tCreate 2 human players\t",
+    "ua": "\"const_2_humans,\"\tСтворити 2 гравців-людей.\t"
+  },
+  {
+    "var": "HELP_\"const_3_humans,\"",
+    "en": "\"const_3_humans,\"\tCreate 3 human players\t",
+    "ua": "\"const_3_humans,\"\tСтворити 3 гравців-людей.\t"
+  },
+  {
+    "var": "HELP_\"const_4_humans,\"",
+    "en": "\"const_4_humans,\"\tCreate 4 human players\t",
+    "ua": "\"const_4_humans,\"\tСтворити 4 гравців-людей.\t"
+  },
+  {
+    "var": "HELP_\"const_5_humans,\"",
+    "en": "\"const_5_humans,\"\tCreate 5 human players\t",
+    "ua": "\"const_5_humans,\"\tСтворити 5 гравців-людей.\t"
+  },
+  {
+    "var": "HELP_\"const_6_humans,\"",
+    "en": "\"const_6_humans,\"\tCreate 6 human players\t",
+    "ua": "\"const_6_humans,\"\tСтворити 6 гравців-людей.\t"
+  },
+  {
+    "var": "HELP_\"const_7_humans,\"",
+    "en": "\"const_7_humans,\"\tCreate 7 human players\t",
+    "ua": "\"const_7_humans,\"\tСтворити 7 гравців-людей.\t"
+  },
+  {
+    "var": "HELP_\"const_8_humans,\"",
+    "en": "\"const_8_humans,\"\tCreate 8 human players\t",
+    "ua": "\"const_8_humans,\"\tСтворити 8 гравців-людей.\t"
+  },
+  {
+    "var": "HELP_\"const_random_humans,\"",
+    "en": "\"const_random_humans,\"\tCreate 1-8 human players\t",
+    "ua": "\"const_random_humans,\"\tСтворити 1-8 гравців-людей.\t"
+  },
+  {
+    "var": "HELP_\"const_human_teams_label,\"",
+    "en": "\"const_human_teams_label,\"\tSelect the number of teams for human-playable positions\t",
+    "ua": "\"const_human_teams_label,\"\tВиберіть кількість команд гравців-людей.\t"
+  },
+  {
+    "var": "HELP_\"const_no_human_teams,\"",
+    "en": "\"const_no_human_teams,\"\tNo teams\t",
+    "ua": "\"const_no_human_teams,\"\tБез команд.\t"
+  },
+  {
+    "var": "HELP_\"const_1_human_team,\"",
+    "en": "\"const_1_human_team,\"\tCreate 1 human team\t",
+    "ua": "\"const_1_human_team,\"\tСтворити 1 команду\t"
+  },
+  {
+    "var": "HELP_\"const_2_human_teams,\"",
+    "en": "\"const_2_human_teams,\"\tCreate 2 human teams\t",
+    "ua": "\"const_2_human_teams,\"\tСтворити 2 команди.\t"
+  },
+  {
+    "var": "HELP_\"const_3_human_teams,\"",
+    "en": "\"const_3_human_teams,\"\tCreate 3 human teams\t",
+    "ua": "\"const_3_human_teams,\"\tСтворити 3 команди.\t"
+  },
+  {
+    "var": "HELP_\"const_4_human_teams,\"",
+    "en": "\"const_4_human_teams,\"\tCreate 4 human teams\t",
+    "ua": "\"const_4_human_teams,\"\tСтворити 4 команди.\t"
+  },
+  {
+    "var": "HELP_\"const_5_human_teams,\"",
+    "en": "\"const_5_human_teams,\"\tCreate 5 human teams\t",
+    "ua": "\"const_5_human_teams,\"\tСтворити 5 команд.\t"
+  },
+  {
+    "var": "HELP_\"const_6_human_teams,\"",
+    "en": "\"const_6_human_teams,\"\tCreate 6 human teams\t",
+    "ua": "\"const_6_human_teams,\"\tСтворити 6 команд.\t"
+  },
+  {
+    "var": "HELP_\"const_7_human_teams,\"",
+    "en": "\"const_7_human_teams,\"\tCreate 7 human teams\t",
+    "ua": "\"const_7_human_teams,\"\tСтворити 7 команд.\t"
+  },
+  {
+    "var": "HELP_\"const_random_human_teams,\"",
+    "en": "\"const_random_human_teams,\"\tCreate a random number of human teams\t",
+    "ua": "\"const_random_human_teams,\"\tСтворити випадкову кількість команд.\t"
+  },
+  {
+    "var": "HELP_\"const_computer_positions_label,\"",
+    "en": "\"const_computer_positions_label,\"\tSelect the number of computer-only positions\t",
+    "ua": "\"const_computer_positions_label,\"\tВибрати кількість позицій для комп'ютера\t"
+  },
+  {
+    "var": "HELP_\"const_no_computers,\"",
+    "en": "\"const_no_computers,\"\tCreate no computer players\t",
+    "ua": "\"const_no_computers,\"\tСтворити без комп'ютера.\t"
+  },
+  {
+    "var": "HELP_\"const_1_computer,\"",
+    "en": "\"const_1_computer,\"\tCreate 1 computer position\t",
+    "ua": "\"const_1_computer,\"\tСтворити 1 позицію для комп'ютера.\t"
+  },
+  {
+    "var": "HELP_\"const_2_computers,\"",
+    "en": "\"const_2_computers,\"\tCreate 2 computer positions\t",
+    "ua": "\"const_2_computers,\"\tСтворити 2 позиції для комп'ютера.\t"
+  },
+  {
+    "var": "HELP_\"const_3_computers,\"",
+    "en": "\"const_3_computers,\"\tCreate 3 computer positions\t",
+    "ua": "\"const_3_computers,\"\tСтворити 3 позиції для комп'ютера.\t"
+  },
+  {
+    "var": "HELP_\"const_4_computers,\"",
+    "en": "\"const_4_computers,\"\tCreate 4 computer positions\t",
+    "ua": "\"const_4_computers,\"\tСтворити 4 позиції для комп'ютера.\t"
+  },
+  {
+    "var": "HELP_\"const_5_computers,\"",
+    "en": "\"const_5_computers,\"\tCreate 5 computer positions\t",
+    "ua": "\"const_5_computers,\"\tСтворити 5 позицій для комп'ютера.\t"
+  },
+  {
+    "var": "HELP_\"const_6_computers,\"",
+    "en": "\"const_6_computers,\"\tCreate 6 computer positions\t",
+    "ua": "\"const_6_computers,\"\tСтворити 6 позицій для комп'ютера.\t"
+  },
+  {
+    "var": "HELP_\"const_7_computers,\"",
+    "en": "\"const_7_computers,\"\tCreate 7 computer positions\t",
+    "ua": "\"const_7_computers,\"\tСтворити 7 позицій для комп'ютера.\t"
+  },
+  {
+    "var": "HELP_\"const_random_computers,\"",
+    "en": "\"const_random_computers,\"\tCreate a random number of computer positions\t",
+    "ua": "\"const_random_computers,\"\tСтворити випадкову кількість позицій для комп'ютера.\t"
+  },
+  {
+    "var": "HELP_\"const_computer_teams_label,\"",
+    "en": "\"const_computer_teams_label,\"\tSelect the number of computer teams\t",
+    "ua": "\"const_computer_teams_label,\"\tВибрати кількість команд комп'ютера.\t"
+  },
+  {
+    "var": "HELP_\"const_no_computer_teams,\"",
+    "en": "\"const_no_computer_teams,\"\tNo computer teams\t",
+    "ua": "\"const_no_computer_teams,\"\tБез команд комп'ютера.\t"
+  },
+  {
+    "var": "HELP_\"const_1_computer_team,\"",
+    "en": "\"const_1_computer_team,\"\tCreate 1 computer team\t",
+    "ua": "\"const_1_computer_team,\"\tСтворити 1 команду комп'ютера.\t"
+  },
+  {
+    "var": "HELP_\"const_2_computer_teams,\"",
+    "en": "\"const_2_computer_teams,\"\tCreate 2 computer teams\t",
+    "ua": "\"const_2_computer_teams,\"\tСтворити 2 команди комп'ютера.\t"
+  },
+  {
+    "var": "HELP_\"const_3_computer_teams,\"",
+    "en": "\"const_3_computer_teams,\"\tCreate 3 computer teams\t",
+    "ua": "\"const_3_computer_teams,\"\tСтворити 3 команди комп'ютера.\t"
+  },
+  {
+    "var": "HELP_\"const_4_computer_teams,\"",
+    "en": "\"const_4_computer_teams,\"\tCreate 4 computer teams\t",
+    "ua": "\"const_4_computer_teams,\"\tСтворити 4 команди комп'ютера.\t"
+  },
+  {
+    "var": "HELP_\"const_5_computer_teams,\"",
+    "en": "\"const_5_computer_teams,\"\tCreate 5 computer teams\t",
+    "ua": "\"const_5_computer_teams,\"\tСтворити 5 команд комп'ютера.\t"
+  },
+  {
+    "var": "HELP_\"const_6_computer_teams,\"",
+    "en": "\"const_6_computer_teams,\"\tCreate 6 computer teams\t",
+    "ua": "\"const_6_computer_teams,\"\tСтворити 6 команд комп'ютера.\t"
+  },
+  {
+    "var": "HELP_\"const_random_computer_teams,\"",
+    "en": "\"const_random_computer_teams,\"\tCreate a random number of computer teams\t",
+    "ua": "\"const_random_computer_teams,\"\tСтворити випадкову кількість команд комп'ютера.\t"
+  },
+  {
+    "var": "HELP_\"const_water_label,\"",
+    "en": "\"const_water_label,\"\tSelect the amount of water on the map\t",
+    "ua": "\"const_water_label,\"\tВибрати кількість води на мапі.\t"
+  },
+  {
+    "var": "HELP_\"const_no_water,\"",
+    "en": "\"const_no_water,\"\tMinimum or no water\t",
+    "ua": "\"const_no_water,\"\tМінімум або відсутність води.\t"
+  },
+  {
+    "var": "HELP_\"const_normal_water,\"",
+    "en": "\"const_normal_water,\"\tCreate a continent surrounded by water\t",
+    "ua": "\"const_normal_water,\"\tСтворити континент оточений водою.\t"
+  },
+  {
+    "var": "HELP_\"const_islands,\"",
+    "en": "\"const_islands,\"\tCreate many small land masses created by water\t",
+    "ua": "\"const_islands,\"\tСтворити багато земель, оточених водою.\t"
+  },
+  {
+    "var": "HELP_\"const_random_water,\"",
+    "en": "\"const_random_water,\"\tInclude a random amount of water\t",
+    "ua": "\"const_random_water,\"\tВключити випадкову кількість води.\t"
+  },
+  {
+    "var": "HELP_\"const_monster_strength_label,\"",
+    "en": "\"const_monster_strength_label,\"\tSelect the relative strength of guardian monsters\t",
+    "ua": "\"const_monster_strength_label,\"\tВибрати відносну силу вартових монстрів.\t"
+  },
+  {
+    "var": "HELP_\"const_weak_monsters,\"",
+    "en": "\"const_weak_monsters,\"\tMake monsters weaker than normal\t",
+    "ua": "\"const_weak_monsters,\"\tЗробити монстрів слабшими, ніж нормальні.\t"
+  },
+  {
+    "var": "HELP_\"const_normal_monsters,\"",
+    "en": "\"const_normal_monsters,\"\tNormal strength guardians\t",
+    "ua": "\"const_normal_monsters,\"\tВартові нормальної сили.\t"
+  },
+  {
+    "var": "HELP_\"const_strong_monsters,\"",
+    "en": "\"const_strong_monsters,\"\tCreate strong guardians\t",
+    "ua": "\"const_strong_monsters,\"\tСтворити сильних вартових.\t"
+  },
+  {
+    "var": "HELP_\"const_random_monsters,\"",
+    "en": "\"const_random_monsters,\"\tChoose a random overall strength for guardian monsters\t",
+    "ua": "\"const_random_monsters,\"\tОбрати випадкову загальну силу вартових монстрів.\t"
+  },
+  {
+    "var": "HELP_\"const_show_saved_random_maps,\"",
+    "en": "\"const_show_saved_random_maps,\"\tShow recently generated random maps\t",
+    "ua": "\"const_show_saved_random_maps,\"\tПоказати нещодавно згенеровані випадкові мапи.\t"
+  },
+  {
+    "var": "HELP_SLIDER_CHATWINDOW",
+    "en": "SLIDER_CHATWINDOW \tScroll through chat text\t",
+    "ua": "SLIDER_CHATWINDOW \tПрокрутити чат\t"
+  },
+  {
+    "var": "HELP_SLIDER_FILEMENU",
+    "en": "SLIDER_FILEMENU \tScroll through scenario or save game list\t",
+    "ua": "SLIDER_FILEMENU \tПрокрутити список сценаріїв чи збережених ігор.\t"
+  },
+  {
+    "var": "HELP_SLIDER_DURATION",
+    "en": "SLIDER_DURATION \tAllows you to change player turn duration\t",
+    "ua": "SLIDER_DURATION \tДозволяє змінити тривалість ходу гравців.\t"
+  },
+  {
+    "var": "HELP_\"PLAYER_HANDICAP_HEADER_ID,\"",
+    "en": "\"PLAYER_HANDICAP_HEADER_ID,\"\t\"{Player Name / Handicap Type}\n\nEach potential slot a human player can occupy is marked with an adjacent banner.  Click the banner to change position.  You may also click inside the name field to change your player name.\n\nEach player may be 'handicapped' by clicking the 'handicap' button.  There are three settings: No Handicap, Mild Handicap, and Severe Handicap.  Mild and Severe diminish a player's starting resources.\n\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\"PLAYER_HANDICAP_HEADER_ID,\"\t\"{Ім'я гравця / Тип гандикапу}\n\nКожна потенційна позиція гравця-людини позначена суміжним прапорцем.  Клацніть по ньому, щоб змінити позицію.  Ви також можете клацнути по імені гравця, щоб змінити його.\n\nКожен гравець може отримати гандикап клікнувши по відповідній кнопці.  Є три типи гандикапу: Без гандикапу, Помірний гандикап та Сильний гандикап.  Помірний та Сильний зменшують початкову кількість ресурсів гравця.\n\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_\"TURN_DURATION_HEADER_ID,\"",
+    "en": "\"TURN_DURATION_HEADER_ID,\"\t\"{Player Turn Duration}\n\nUsing the slider, you may set 'soft' player turn durations.  By 'soft', a timer counts down a player's turn when not in combat.  When in combat, the timer is paused.\n\nTurn durations are 1, 2, 4, 6, 8, 10, 15, 20, 25, and 30 minutes.\n'Unlimited' is the default setting.\n\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\"TURN_DURATION_HEADER_ID,\"\t\"{Тривалість ходу гравця}\n\nВикористовуючи слайдер, ви можете встановити тривалість ходу гравця.  Таймер враховує лише час поза боєм.  У бою таймер зупиняє відлік.\n\nТривалість ходу може бути 1, 2, 4, 6, 8, 10, 15, 20, 25 і 30 хвилин.\n\"\"Без обмежень\"\" встановлюється за замовчуванням.\n\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_\"STARTING_TOWN_HEADER_ID,\"",
+    "en": "\"STARTING_TOWN_HEADER_ID,\"\t\"{Starting Town}\n\nEach player may, or may not, start with a town.  Choices may be Random, Castle, Rampart, Tower, Inferno, Necropolis, Dungeon, Stronghold, and Fortress.\n\nWhen you do not start with a town, these settings may be used to help choose the alignment of a potential starting hero.\n\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\"STARTING_TOWN_HEADER_ID,\"\t\"{Початкове місто}\n\nКожен гравець може почати гру з містом або без.  Місто може бути: Випадкове, Замок, Твердиня, Вежа, Інферно, Некрополіс, Підземелля, Цитадель або Фортеця.\n\nЯкщо ви починаєте гру без міста, то ця опція визначає фракцію початкового героя.\n\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_\"STARTING_TOWN_HEADER_W_CONFLUX_ID,\"",
+    "en": "\"STARTING_TOWN_HEADER_W_CONFLUX_ID,\"\t\"{Starting Town}\n\nEach player may, or may not, start with a town.  Choices may be Random, Castle, Rampart, Tower, Inferno, Necropolis, Dungeon, Stronghold, Fortress, and Conflux.\n\nWhen you do not start with a town, these settings may be used to help choose the alignment of a potential starting hero.\n\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\"STARTING_TOWN_HEADER_W_CONFLUX_ID,\"\t\"{Початкове місто}\n\nКожен гравець може почати гру з містом або без.  Місто може бути: Випадкове, Замок, Твердиня, Вежа, Інферно, Некрополіс, Підземелля, Цитадель, Фортеця або Колонія.\n\nЯкщо ви починаєте гру без міста, то ця опція визначає фракцію початкового героя.\n\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_\"STARTING_HERO_HEADER_ID,\"",
+    "en": "\"STARTING_HERO_HEADER_ID,\"\t\"{Starting Hero}\n\nEach player may, or may not, start with a Hero.  At times, this option may be locked, or absent.  At other times, you may cycle through up to sixteen different hero choices.  If the Starting Town option is enabled, you can change the hero classes for a different set of hero choices.\n\nTo see a hero's name, class, and specialty, right click the hero's portrait.\n\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\"STARTING_HERO_HEADER_ID,\"\t\"{Початковий герой}\n\nКожен гравець може почати гру з героєм або без.  Іноді ця опція може бути заблокована чи відсутня.  В іншому випадку ви можете вибрати героя.  Якщо опція вибору міста доступна, ви можете змінити клас героя і вибрати його зі списку.\n\nЩоб побачити ім'я героя, клас і спеціалізацію, натисніть на портрет героя.\n\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_\"STARTING_BONUS_HEADER_ID,\"",
+    "en": "\"STARTING_BONUS_HEADER_ID,\"\t\"{Starting Bonus}\n\nWith a Starting Bonus, you may choose a random artifact, 500-1000 gold, or 5-10 wood and ore.\n\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\"STARTING_BONUS_HEADER_ID,\"\t\"{Початковий бонус}\n\nЯк початковий бонус ви можете вибрати випадковий артефакт, 500-1000 золотих або 5-10 дерева і руди.\n\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_263",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Multiplayer Selection",
+    "en": "Multiplayer Selection\tMultiplayer Selection\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Multiplayer Selection\tMultiplayer Selection\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_265",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Online Service",
+    "en": "Online Service\t\"{Online Service}\n\nAllows you to play over an Online Service\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Онлайн сервіс\t\"{Онлайн сервіс}\n\nДозволяє грати через онлайн сервіс.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Hot Seat",
+    "en": "Hot Seat\t\"{Hot Seat}\n\nAllows multiple people to play different players on the same computer\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Гаряче крісло\t\"{Гаряче крісло}\n\nДозволяє кільком людям грати за одним комп'ютером.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_IPX",
+    "en": "IPX\t\"{IPX}\n\nAllows multiple people to play on their own computers across a local area network\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "IPX\t\"{IPX}\n\nДозволяє кільком людям грати через локальну мережу.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_TCP/IP",
+    "en": "TCP/IP\t\"{TCP/IP}\n\nAllows multiple people to play on their own computers across a local area network or via the internet\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "TCP/IP\t\"{TCP/IP}\n\nДозволяє кільком людям грати через локальну мережу або через інтернет.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Modem",
+    "en": "Modem\t\"{Modem}\n\nAllows two people to connect via modem\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Модем\t\"{Модем}\n\nДозволяє двом гравцям з'єднатись через модем.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Direct Connect",
+    "en": "Direct Connect\t\"{Direct Connect}\n\nAllows two people to connect via a direct serial connection\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Пряме з'єднання\t\"{Пряме з'єднання}\n\nДозволяє двом гравцям встановити пряме з'єднання.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Host a Game",
+    "en": "Host a Game\t\"{Host Game}\n\nAllows you to set up and create the game that others will join\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Створити гру\t\"{Створити гру}\n\nДозволяє налаштувати і створити гру, до якої зможуть підключитись інші гравці.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Join a Game",
+    "en": "Join a Game\t\"{Join Game}\n\nDisplays a list of available games for you to join\"",
+    "ua": "Приєднатися до гри\t\"{Приєднатись до гри}\n\nВідображає список ігор, до яких ви можете приєднатись.\""
+  },
+  {
+    "var": "HELP_Search for a Game",
+    "en": "Search for a Game\t\"{Search for Game}\n\nAllows you to enter a specific IP address to connect to\"",
+    "ua": "Пошук гри\t\"{Пошук гри}\n\nДозволяє ввести точну IP-адресу, щоб підключитися до неї.\""
+  },
+  {
+    "var": "HELP_GAMENAME 1",
+    "en": "GAMENAME 1\tGAMENAME 1",
+    "ua": "GAMENAME 1\tGAMENAME 1"
+  },
+  {
+    "var": "HELP_GAMENAME 2",
+    "en": "GAMENAME 2\tGAMENAME 2",
+    "ua": "GAMENAME 2\tGAMENAME 2"
+  },
+  {
+    "var": "HELP_GAMENAME 3",
+    "en": "GAMENAME 3\tGAMENAME 3",
+    "ua": "GAMENAME 3\tGAMENAME 3"
+  },
+  {
+    "var": "HELP_GAMENAME 4",
+    "en": "GAMENAME 4\tGAMENAME 4",
+    "ua": "GAMENAME 4\tGAMENAME 4"
+  },
+  {
+    "var": "HELP_GAMENAME 5",
+    "en": "GAMENAME 5\tGAMENAME 5",
+    "ua": "GAMENAME 5\tGAMENAME 5"
+  },
+  {
+    "var": "HELP_GAMENAME 6",
+    "en": "GAMENAME 6\tGAMENAME 6",
+    "ua": "GAMENAME 6\tGAMENAME 6"
+  },
+  {
+    "var": "HELP_GAMENAME 7",
+    "en": "GAMENAME 7\tGAMENAME 7",
+    "ua": "GAMENAME 7\tGAMENAME 7"
+  },
+  {
+    "var": "HELP_GAMENAME 8",
+    "en": "GAMENAME 8\tGAMENAME 8",
+    "ua": "GAMENAME 8\tGAMENAME 8"
+  },
+  {
+    "var": "HELP_GAMENAME 9",
+    "en": "GAMENAME 9\tGAMENAME 9",
+    "ua": "GAMENAME 9\tGAMENAME 9"
+  },
+  {
+    "var": "HELP_GAMENAME 10",
+    "en": "GAMENAME 10\tGAMENAME 10",
+    "ua": "GAMENAME 10\tGAMENAME 10"
+  },
+  {
+    "var": "HELP_GAMENAME 11",
+    "en": "GAMENAME 11\tGAMENAME 11",
+    "ua": "GAMENAME 11\tGAMENAME 11"
+  },
+  {
+    "var": "HELP_GAMENAME 12",
+    "en": "GAMENAME 12\tGAMENAME 12",
+    "ua": "GAMENAME 12\tGAMENAME 12"
+  },
+  {
+    "var": "HELP_Scroll through available games",
+    "en": "Scroll through available games\tScroll through available games",
+    "ua": "Прокрутити\tПрокрутити доступні ігри."
+  },
+  {
+    "var": "HELP_288",
+    "en": "\t",
+    "ua": "\t"
+  },
+  {
+    "var": "HELP_Cancel",
+    "en": "Cancel\tReturn to previous menu\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Відмінити\tПовернутись у попереднє меню.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_290",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Adventure Map Window",
+    "en": "Adventure Map Window\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Adventure Map Window\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_World Map",
+    "en": "World Map\t\"This is a zoomed out view of the world.  Clicking anywhere in this window will center the adventure map on that location, or you can drag the outline box to scroll the adventure map.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Мапа світу\t\"Це зменшене зображення світу.  Натиснення будь-де в цьому вікні відцентрує мапу пригод у тому місці, або ви можете перетягнути контур, щоб прокрутити мапу пригод.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Status Window",
+    "en": "Status Window\tSELECTION WINDOW\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Вікно статусу\tSELECTION WINDOW\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Kingdom Overview",
+    "en": "Kingdom Overview\t\"{Kingdom Overview}\n\nDisplays an overview of your Kingdom's towns and heroes\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Огляд королівства\t\"{Огляд королівства}\n\nВідображає всі міста й герої вашого королівства.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Surface/Underworld View",
+    "en": "Surface/Underworld View\t\"{Surface/Underworld View}\n\nSwitches the adventure map between map levels\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Огляд підземного/наземного світу\t\"{Огляд підземного/наземного світу}\n\nПеремикає мапу пригод між рівнями.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Quest Log",
+    "en": "Quest Log\t\"{Quest Log}\n\nDisplays a list of all current quests\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Журнал завдань\t\"{Журнал завдань}\n\nВідображає список усіх поточних завдань.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Sleep/Wake Hero",
+    "en": "Sleep/Wake Hero\t\"{Sleep/Wake Hero}\n\nSleeps the selected hero or wakes a sleeping hero.  Any sleeping heroes will be ignored by the Next Hero button.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Приспати/розбудити героя\t\"{Приспати/розбудити героя}\n\nПрисипає обраного героя або пробуджує героя, що спить.  Усі герої, що сплять, будуть ігноровані кнопкою Наступний герой.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Move Hero",
+    "en": "Move Hero\t\"{Move Hero}\n\nMoves the current hero along its selected path\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Пересунути героя\t\"{Пересунути героя}\n\nПересуває поточного героя обраним шляхом.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Cast Spell",
+    "en": "Cast Spell\t\"{Cast Spell}\n\nCast a non-combat spell\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Накласти закляття\t\"{Накласти закляття}\n\nНакласти не бойове закляття.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Adventure Options",
+    "en": "Adventure Options\t\"{Adventure Options}\n\nAllows you to dig for the Grail, view the current Grail Puzzle, World Map, or Scenario Briefing.  In multiplayer games you will also be allowed to view your opponents' last turn.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Ігрові дії\t\"{Ігрові дії}\n\nДозволяє вам розкопати Грааль, оглянути Пазл Грааля, Мапу Світу або Сценарій.  У мультиплеєрному режимі ви також можете побачити останній хід вашого опонента.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_System Options",
+    "en": "System Options\t\"{System Options}\n\nAllows you to view and change the current game options\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Опції системи\t\"{Опції системи}\n\nДозволяє оглянути і змінити поточні ігрові опції.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Next Hero",
+    "en": "Next Hero\t\"{Next Hero}\n\nSelects the next hero with remaining movement points.  Any sleeping heroes will be ignored.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Наступний герой\t\"{Наступний герой}\n\nОбирає наступного героя, який ще має очки руху.  Усі герої, що сплять, ігноруються.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_End Turn",
+    "en": "End Turn\t\"{End Turn}\n\nEnds the current turn\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Закінчити хід\t\"{Закінчити хід}\n\nЗакінчити свій хід.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Scroll Hero List",
+    "en": "Scroll Hero List\t\"{Scroll Hero List}\n\nScroll up through available heroes\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Прокрутити список героїв\t\"{Прокрутити список героїв}\n\nПрокрутити вгору список доступних героїв.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Scroll Hero List",
+    "en": "Scroll Hero List\t\"{Scroll Hero List}\n\nScroll down through available heroes\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Прокрутити список героїв\t\"{Прокрутити список героїв}\n\nПрокрутити вниз список доступних героїв.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Hero Portrait",
+    "en": "Hero Portrait\t\"{Hero Portrait}\n\nClick once to select this hero and center the adventure map on their location.  Click again to enter and view the Hero Screen.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Портрет героя\t\"{Портрет героя}\n\nНатисніть, щоб обрати цього героя і розмістити мапу пригод там, де він.  Натисніть ще раз, щоб оглянути Екран героя.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Scroll Town List",
+    "en": "Scroll Town List\t\"{Scroll Town List}\n\nScroll up through available towns\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Прокрутити список міст\t\"{Прокрутити список міст}\n\nПрокрутити вгору список доступних міст.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Scroll Town List",
+    "en": "Scroll Town List\t\"{Scroll Town List}\n\nScroll down through available towns\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Прокрутити список міст\t\"{Прокрутити список міст}\n\nПрокрутити вниз список доступних міст.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Town Portrait",
+    "en": "Town Portrait\t\"{Town Portrait}\n\nClick once to select this town and center the adventure map on its location.  Click again to enter and view the Town Screen.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Зображення міста\t\"{Зображення міста}\n\nНатисніть, щоб обрати це місто і розмістити мапу пригод там, де воно.  Натисніть ще раз, щоб оглянути Екран міста.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Gold",
+    "en": "Gold\tAmount of gold in your treasury\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Золото\tКількість золота у вашій скарбниці.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Wood",
+    "en": "Wood\tYour total available wood\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Деревина\tКількість доступної деревини.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Mercury",
+    "en": "Mercury\tYour total available mercury\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Ртуть\tКількість доступної ртуті.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Ore",
+    "en": "Ore\tYour total available ore\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Руда\tКількість доступної руди.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Sulfur",
+    "en": "Sulfur\tYour total available sulfur\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Сірка\tКількість доступної сірки.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Crystal",
+    "en": "Crystal\tYour total available crystal\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Кристали\tКількість доступних кристалів.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Gems",
+    "en": "Gems\tYour total available gems\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Самоцвіти\tКількість доступних самоцвітів.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Date",
+    "en": "Date\t\"{Date}\n\nCurrent Month, Week, and Day\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Дата\t\"{Дата}\n\nПоточний місяць, тиждень і день.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_ROLLOVER",
+    "en": "ROLLOVER\tROLLOVER\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "ROLLOVER\tROLLOVER\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_319",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_System Options",
+    "en": "System Options\tSystem Options\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "System Options\tSystem Options\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Main Menu",
+    "en": "Main Menu\t\"{Main Menu}\n\nAbandon game and return to the main menu\"",
+    "ua": "Головне меню\t\"{Головне меню}\n\nЗавершити гру і перейти до головного меню.\""
+  },
+  {
+    "var": "HELP_Load Game",
+    "en": "Load Game\t\"{Load Game}\n\nLoad a saved game\"",
+    "ua": "Завантажити гру\t\"{Завантажити гру}\n\nЗавантажити збережену гру.\""
+  },
+  {
+    "var": "HELP_Save Game",
+    "en": "Save Game\t\"{Save Game}\n\nSave the current game\"",
+    "ua": "Зберегти гру\t\"{Зберегти гру}\n\nЗберегти поточну гру.\""
+  },
+  {
+    "var": "HELP_Restart Scenario",
+    "en": "Restart Scenario\t\"{Restart Scenario}\n\nRestart the current scenario\"",
+    "ua": "Почати заново\t\"{Почати заново}\n\nРозпочати заново поточний сценарій.\""
+  },
+  {
+    "var": "HELP_Quit to Desktop",
+    "en": "Quit to Desktop\t\"{Quit to Desktop}\n\nQuit Heroes of Might and Magic III\"",
+    "ua": "Вийти на робочий стіл\t\"{Вийти на робочий стіл}\n\nВийти з Героїв Меча та Магії III\""
+  },
+  {
+    "var": "HELP_Return",
+    "en": "Return\t\"{Return to Game}\n\nReturn to the Adventure Map!\"",
+    "ua": "Повернутися\t\"{Повернутися до гри}\n\nПовернутися до Мапи Пригод!\""
+  },
+  {
+    "var": "HELP_\"MUSIC_VOLUME_0_ID,\"",
+    "en": "\"MUSIC_VOLUME_0_ID,\"\tTurn off music",
+    "ua": "\"MUSIC_VOLUME_0_ID,\"\tВимкнути музику."
+  },
+  {
+    "var": "HELP_\"MUSIC_VOLUME_1_ID,\"",
+    "en": "\"MUSIC_VOLUME_1_ID,\"\tSet music volume to 1",
+    "ua": "\"MUSIC_VOLUME_1_ID,\"\tВстановити гучність музики на 1."
+  },
+  {
+    "var": "HELP_\"MUSIC_VOLUME_2_ID,\"",
+    "en": "\"MUSIC_VOLUME_2_ID,\"\tSet music volume to 2",
+    "ua": "\"MUSIC_VOLUME_2_ID,\"\tВстановити гучність музики на 2."
+  },
+  {
+    "var": "HELP_\"MUSIC_VOLUME_3_ID,\"",
+    "en": "\"MUSIC_VOLUME_3_ID,\"\tSet music volume to 3",
+    "ua": "\"MUSIC_VOLUME_3_ID,\"\tВстановити гучність музики на 3."
+  },
+  {
+    "var": "HELP_\"MUSIC_VOLUME_4_ID,\"",
+    "en": "\"MUSIC_VOLUME_4_ID,\"\tSet music volume to 4",
+    "ua": "\"MUSIC_VOLUME_4_ID,\"\tВстановити гучність музики на 4."
+  },
+  {
+    "var": "HELP_\"MUSIC_VOLUME_5_ID,\"",
+    "en": "\"MUSIC_VOLUME_5_ID,\"\tSet music volume to 5",
+    "ua": "\"MUSIC_VOLUME_5_ID,\"\tВстановити гучність музики на 5."
+  },
+  {
+    "var": "HELP_\"MUSIC_VOLUME_6_ID,\"",
+    "en": "\"MUSIC_VOLUME_6_ID,\"\tSet music volume to 6",
+    "ua": "\"MUSIC_VOLUME_6_ID,\"\tВстановити гучність музики на 6."
+  },
+  {
+    "var": "HELP_\"MUSIC_VOLUME_7_ID,\"",
+    "en": "\"MUSIC_VOLUME_7_ID,\"\tSet music volume to 7",
+    "ua": "\"MUSIC_VOLUME_7_ID,\"\tВстановити гучність музики на 7."
+  },
+  {
+    "var": "HELP_\"MUSIC_VOLUME_8_ID,\"",
+    "en": "\"MUSIC_VOLUME_8_ID,\"\tSet music volume to 8",
+    "ua": "\"MUSIC_VOLUME_8_ID,\"\tВстановити гучність музики на 8."
+  },
+  {
+    "var": "HELP_\"MUSIC_VOLUME_9_ID,\"",
+    "en": "\"MUSIC_VOLUME_9_ID,\"\tSet music volume to 9",
+    "ua": "\"MUSIC_VOLUME_9_ID,\"\tВстановити гучність музики на 9."
+  },
+  {
+    "var": "HELP_\"EFFECTS_VOLUME_0_ID,\"",
+    "en": "\"EFFECTS_VOLUME_0_ID,\"\tTurn off sound effects",
+    "ua": "\"EFFECTS_VOLUME_0_ID,\"\tВимкнути звукові ефекти."
+  },
+  {
+    "var": "HELP_\"EFFECTS_VOLUME_1_ID,\"",
+    "en": "\"EFFECTS_VOLUME_1_ID,\"\tSet sound effects volume to 1",
+    "ua": "\"EFFECTS_VOLUME_1_ID,\"\tВстановити гучність ефектів на 1."
+  },
+  {
+    "var": "HELP_\"EFFECTS_VOLUME_2_ID,\"",
+    "en": "\"EFFECTS_VOLUME_2_ID,\"\tSet sound effects volume to 2",
+    "ua": "\"EFFECTS_VOLUME_2_ID,\"\tВстановити гучність ефектів на 2."
+  },
+  {
+    "var": "HELP_\"EFFECTS_VOLUME_3_ID,\"",
+    "en": "\"EFFECTS_VOLUME_3_ID,\"\tSet sound effects volume to 3",
+    "ua": "\"EFFECTS_VOLUME_3_ID,\"\tВстановити гучність ефектів на 3."
+  },
+  {
+    "var": "HELP_\"EFFECTS_VOLUME_4_ID,\"",
+    "en": "\"EFFECTS_VOLUME_4_ID,\"\tSet sound effects volume to 4",
+    "ua": "\"EFFECTS_VOLUME_4_ID,\"\tВстановити гучність ефектів на 4."
+  },
+  {
+    "var": "HELP_\"EFFECTS_VOLUME_5_ID,\"",
+    "en": "\"EFFECTS_VOLUME_5_ID,\"\tSet sound effects volume to 5",
+    "ua": "\"EFFECTS_VOLUME_5_ID,\"\tВстановити гучність ефектів на 5."
+  },
+  {
+    "var": "HELP_\"EFFECTS_VOLUME_6_ID,\"",
+    "en": "\"EFFECTS_VOLUME_6_ID,\"\tSet sound effects volume to 6",
+    "ua": "\"EFFECTS_VOLUME_6_ID,\"\tВстановити гучність ефектів на 6."
+  },
+  {
+    "var": "HELP_\"EFFECTS_VOLUME_7_ID,\"",
+    "en": "\"EFFECTS_VOLUME_7_ID,\"\tSet sound effects volume to 7",
+    "ua": "\"EFFECTS_VOLUME_7_ID,\"\tВстановити гучність ефектів на 7."
+  },
+  {
+    "var": "HELP_\"EFFECTS_VOLUME_8_ID,\"",
+    "en": "\"EFFECTS_VOLUME_8_ID,\"\tSet sound effects volume to 8",
+    "ua": "\"EFFECTS_VOLUME_8_ID,\"\tВстановити гучність ефектів на 8."
+  },
+  {
+    "var": "HELP_\"EFFECTS_VOLUME_9_ID,\"",
+    "en": "\"EFFECTS_VOLUME_9_ID,\"\tSet sound effects volume to 9",
+    "ua": "\"EFFECTS_VOLUME_9_ID,\"\tВстановити гучність ефектів на 9."
+  },
+  {
+    "var": "HELP_\"MUSIC_TYPE_NONE_ID,\"",
+    "en": "\"MUSIC_TYPE_NONE_ID,\"\t\"MUSIC_TYPE_NONE_ID,\"",
+    "ua": "\"MUSIC_TYPE_NONE_ID,\"\t\"MUSIC_TYPE_NONE_ID,\""
+  },
+  {
+    "var": "HELP_\"MUSIC_TYPE_CD_ID,\"",
+    "en": "\"MUSIC_TYPE_CD_ID,\"\t\"MUSIC_TYPE_CD_ID,\"",
+    "ua": "\"MUSIC_TYPE_CD_ID,\"\t\"MUSIC_TYPE_CD_ID,\""
+  },
+  {
+    "var": "HELP_\"MUSIC_TYPE_MIDI_ID,\"",
+    "en": "\"MUSIC_TYPE_MIDI_ID,\"\t\"MUSIC_TYPE_MIDI_ID,\"",
+    "ua": "\"MUSIC_TYPE_MIDI_ID,\"\t\"MUSIC_TYPE_MIDI_ID,\""
+  },
+  {
+    "var": "HELP_\"HERO_SPEED_WALK_ID,\"",
+    "en": "\"HERO_SPEED_WALK_ID,\"\t\"Set hero speed to walk\n(slowest)\"",
+    "ua": "\"HERO_SPEED_WALK_ID,\"\t\"Встановити швидкість героя - хода\n(повільно).\""
+  },
+  {
+    "var": "HELP_\"HERO_SPEED_CANTER_ID,\"",
+    "en": "\"HERO_SPEED_CANTER_ID,\"\tSet hero speed to canter",
+    "ua": "\"HERO_SPEED_CANTER_ID,\"\tВстановити швидкість героя - біг."
+  },
+  {
+    "var": "HELP_\"HERO_SPEED_GALLOP_ID,\"",
+    "en": "\"HERO_SPEED_GALLOP_ID,\"\tSet hero speed to gallop",
+    "ua": "\"HERO_SPEED_GALLOP_ID,\"\tВстановити швидкість героя - галоп."
+  },
+  {
+    "var": "HELP_\"HERO_SPEED_JUMP_ID,\"",
+    "en": "\"HERO_SPEED_JUMP_ID,\"\t\"Set hero speed to jump\n(no animation - fastest)\"",
+    "ua": "\"HERO_SPEED_JUMP_ID,\"\t\"Встановити швидкість героя - стрибки\n(без анімації - найшвидше)\""
+  },
+  {
+    "var": "HELP_\"AI_SPEED_CANTER_ID,\"",
+    "en": "\"AI_SPEED_CANTER_ID,\"\t\"Set enemy hero speed to canter\n(slowest)\"",
+    "ua": "\"AI_SPEED_CANTER_ID,\"\t\"Встановити швидкість ворога - біг\n(повільно).\""
+  },
+  {
+    "var": "HELP_\"AI_SPEED_GALLOP_ID,\"",
+    "en": "\"AI_SPEED_GALLOP_ID,\"\tSet enemy hero speed to gallop",
+    "ua": "\"AI_SPEED_GALLOP_ID,\"\tВстановити швидкість ворога - галоп."
+  },
+  {
+    "var": "HELP_\"AI_SPEED_JUMP_ID,\"",
+    "en": "\"AI_SPEED_JUMP_ID,\"\t\"Set enemy hero speed to jump\n(no animation - fastest)\"",
+    "ua": "\"AI_SPEED_JUMP_ID,\"\t\"Встановити швидкість ворога - стрибки\n(без анімації - найшвидше)\""
+  },
+  {
+    "var": "HELP_\"AI_SPEED_NONE_ID,\"",
+    "en": "\"AI_SPEED_NONE_ID,\"\tDo not show enemy movement",
+    "ua": "\"AI_SPEED_NONE_ID,\"\tНе показувати рух ворога."
+  },
+  {
+    "var": "HELP_\"WINDOW_SCROLL_SLOW,\"",
+    "en": "\"WINDOW_SCROLL_SLOW,\"\tSet map scroll speed to slow",
+    "ua": "\"WINDOW_SCROLL_SLOW,\"\tВстановити швидкість розгортання мапи - повільно."
+  },
+  {
+    "var": "HELP_\"WINDOW_SCROLL_MEDIUM,\"",
+    "en": "\"WINDOW_SCROLL_MEDIUM,\"\tSet map scroll speed to medium",
+    "ua": "\"WINDOW_SCROLL_MEDIUM,\"\tВстановити швидкість розгортання мапи - нормально."
+  },
+  {
+    "var": "HELP_\"WINDOW_SCROLL_FAST,\"",
+    "en": "\"WINDOW_SCROLL_FAST,\"\tSet map scroll speed to fast",
+    "ua": "\"WINDOW_SCROLL_FAST,\"\tВстановити швидкість розгортання мапи - швидко."
+  },
+  {
+    "var": "HELP_\"SHOW_PATH_ID,\"",
+    "en": "\"SHOW_PATH_ID,\"\t\"{Show Move Path}\n\nWhen checked, will display a hero's movement path without moving the hero.\"",
+    "ua": "\"SHOW_PATH_ID,\"\t\"{Показувати шлях руху}\n\nКоли вибране, показує шлях героя, не пересуваючи його.\""
+  },
+  {
+    "var": "HELP_\"MOVE_REMINDER_ID,\"",
+    "en": "\"MOVE_REMINDER_ID,\"\t\"{Show Hero Reminder}\n\nWhen a player has any heroes with movement points remaining, they will asked to confirm an End Turn order.\"",
+    "ua": "\"MOVE_REMINDER_ID,\"\t\"{Показувати нагадувач героя}\n\nКоли гравець має героя, у котрого ще залишились очки руху, нагадувач запитає підтвердження Кінця ходу.\""
+  },
+  {
+    "var": "HELP_\"QUICK_COMBAT_ID,\"",
+    "en": "\"QUICK_COMBAT_ID,\"\t\"{Quick Combat}\n\nThis option allows the computer to handle all combat calculations, and the player will only be shown the Combat Results screen.\"",
+    "ua": "\"QUICK_COMBAT_ID,\"\t\"{Швидка сутичка}\n\nЦя опція дозволяє комп'ютеру виконувати розрахунок всіх боїв, і гравець буде бачити лише екран результату бою.\""
+  },
+  {
+    "var": "HELP_\"VIDEO_SUBTITLES_ID,\"",
+    "en": "\"VIDEO_SUBTITLES_ID,\"\t\"{Video Subtitles}\n\nThis option will display subtitles on any of the animated cutscenes.\"",
+    "ua": "\"VIDEO_SUBTITLES_ID,\"\t\"{Субтитри}\n\nЦя опція буде відображати субтитри в будь-якому анімаційному відео гри.\""
+  },
+  {
+    "var": "HELP_VIDEO_QUALITY_LOW",
+    "en": "VIDEO_QUALITY_LOW\t\"{Low Quality Video}\n\nThis option is reccommended for slower computers which have difficulty running the videos at full screen.\"",
+    "ua": "VIDEO_QUALITY_LOW\t\"{Низька якість відео}\n\nЦя опція рекомендована для повільних комп'ютерів, у яких є труднощі з відтворенням відео на повному екрані.\""
+  },
+  {
+    "var": "HELP_VIDEO_QUALITY_HIGH",
+    "en": "VIDEO_QUALITY_HIGH\t\"{High Quality Video}\n\nFaster machines can handle more data, and this this option allows those machines to view the videos at their highest quality.\"",
+    "ua": "VIDEO_QUALITY_HIGH\t\"{Висока якість відео}\n\nШвидші машини можуть оперувати більшою кількістю даних, і ця опція дозволяє таким машинам відображати відео в найкращій якості.\""
+  },
+  {
+    "var": "HELP_\"TOWN_OUTLINES_ID,\"",
+    "en": "\"TOWN_OUTLINES_ID,\"\t\"{Town Outlines}\n\nIn the town screen, any accessible building will display an outline when the mouse cursor is placed over it.\"",
+    "ua": "\"TOWN_OUTLINES_ID,\"\t\"{Контури в містах}\n\nНа екрані міста кожна доступна споруда буде обведена контуром, коли курсор буде розташований на ній.\""
+  },
+  {
+    "var": "HELP_\"ANIMATE_SPELLBOOK_ID,\"",
+    "en": "\"ANIMATE_SPELLBOOK_ID,\"\t\"{Animate Spell Book}\n\nShows page turning animation in the spell book.\"",
+    "ua": "\"ANIMATE_SPELLBOOK_ID,\"\t\"{Анімація книги заклинань}\n\nПоказувати перегортання сторінок у книзі заклинань.\""
+  },
+  {
+    "var": "HELP_369",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Adventure Options",
+    "en": "Adventure Options\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Adventure Options\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_View World",
+    "en": "View World\t\"{View World}\n\nSee a bird's eye view of the world\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Показати світ\t\"{Показати світ}\n\nПобачити світ з висоти пташиного польоту.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_View Puzzle",
+    "en": "View Puzzle\t\"{View Puzzle}\n\nSee the map of the buried object\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Подивитись пазл\t\"{Подивитись пазл}\n\nПоказати мату прихованих об'єктів.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_View Scenario Info",
+    "en": "View Scenario Info\t\"{View Scenario Info}\n\nView information about the current scenario\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Подивитись сценарій\t\"{Подивитись сценарій}\n\nОтримати інформацію про поточний сценарій.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Dig",
+    "en": "Dig\t\"{Dig}\n\nSearch the area for the buried Grail\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Копати\t\"{Копати}\n\nШукати Грааль у цьому місці.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Replay Opponent Turn",
+    "en": "Replay Opponent Turn\t\"{Replay Opponent Turn}\n\nReplays events since your last turn\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Повторити хід опонента\t\"{Повторити хід опонента}\n\nПовторити події, що відбулись протягом вашого ходу.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_ROLLOVER",
+    "en": "ROLLOVER\tROLLOVER\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "ROLLOVER\tROLLOVER\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Okay",
+    "en": "Okay\t\"{Okay}\n\nReturn to the Adventure Map\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Гаразд\t\"{Гаразд}\n\nПовернутись до мапи пригод.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_378",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Combat Window",
+    "en": "Combat Window\tCombat Window\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Combat Window\tCombat Window\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Surrender",
+    "en": "Surrender\t\"{Surrender}\n\nOffer to surrender to your enemy.  Your hero must pay to leave combat, but may be immediately recruited at a tavern along with any troops and artifacts currently in his possession.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Здатися\t\"{Здатися}\n\nВирішити здатися ворогу.  Ваш герой мусить заплатити, щоб покинути битву, і він може бути одразу найнятий у корчмі разом з усіма військами й артефактами, які зараз у його розпорядженні.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Retreat",
+    "en": "Retreat\t\"{Retreat}\n\nYour hero will flee the combat, but may be immediately recruited at a tavern along with any artifacts currently in his possession.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Відступати\t\"{Відступати}\n\nВаш герой втече з поля бою і зможе бути одразу найнятий у корчмі разом з усіма артефактами, що зараз у його розпорядженні.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Combat Options",
+    "en": "Combat Options\t\"{Combat Options}\n\nAllows you to view or change the current combat options\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Опції битви\t\"{Опції битви}\n\nДозволяє оглянути чи змінити поточні опції битви.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Auto Combat",
+    "en": "Auto Combat\t\"{Auto Combat}\n\nAllows the computer to conduct the combat for you.  Click anywhere during auto combat to take control of your own troops.  You will be given control on your next unit's move phase.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Автобитва\t\"{Автобитва}\n\nДозволяє комп'ютеру самостійно провести битву для вас.  Клікніть будь-де під час автобитви, щоб взяти свої війська під контроль.  Ви зможете керувати з наступного ходу вашого загону.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_384",
+    "en": "\tCombat text appears in this window\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\tТекст битви з'являється в цьому вікні.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_385",
+    "en": "\tScroll through text displayed during combat\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\tПрокрутка тексту, що відображається під час битви.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Cast Spell",
+    "en": "Cast Spell\t\"{Cast Spell}\n\nOpens your hero's spell book, allowing you to cast a spell\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Накласти закляття\t\"{Накласти закляття}\n\nРозгортає книгу заклинань вашого героя, дозволяючи йому накласти закляття.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Wait",
+    "en": "Wait\t\"{Wait}\n\nDelay this unit's turn until after all troops have had the opportunity to move\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Чекати\t\"{Чекати}\n\nПропустити хід цього загону і зачекати, доки всі війська матимуть можливість ходу.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Defend",
+    "en": "Defend\t\"{Defend}\n\nIncreases this unit's defense value by sacrificing its move this turn\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Захищатися\t\"{Захищатися}\n\nЗбільшує захист загону, жертвуючи своїм ходом.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Phase Wait",
+    "en": "Phase Wait\tPhase Wait\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Наступний загін\tНаступний загін\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_End Tactics Phase",
+    "en": "End Tactics Phase\t\"{End Tactics Phase}\n\nEnds the Tactics Phase and commences combat.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Закінчити тактичну фазу\t\"{Закінчити тактичну фазу}\n\nЗакінчити тактичну фазу та почати битву.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_391",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Combat Options",
+    "en": "Combat Options\tCombat Options\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Combat Options\tCombat Options\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Return to Game",
+    "en": "Return to Game\t\"{Return to Game}\n\nExit combat options\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Повернутися до гри\t\"{Повернутися до гри}\n\nВийти з опцій бою.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Restore Default Values",
+    "en": "Restore Default Values\t\"{Default}\n\nRestores combat option default values\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Відновити опції за замовчуванням\t\"{За замовчуванням}\n\nВідновити опції битви за замовчуванням.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_\"MUSIC_VOLUME_0_ID,\"",
+    "en": "\"MUSIC_VOLUME_0_ID,\"\tTurn off music\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\"MUSIC_VOLUME_0_ID,\"\tВимкнути музику\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_\"MUSIC_VOLUME_1_ID,\"",
+    "en": "\"MUSIC_VOLUME_1_ID,\"\tSet music volume to 1\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\"MUSIC_VOLUME_1_ID,\"\tВстановити гучність музики на 1\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_\"MUSIC_VOLUME_2_ID,\"",
+    "en": "\"MUSIC_VOLUME_2_ID,\"\tSet music volume to 2\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\"MUSIC_VOLUME_2_ID,\"\tВстановити гучність музики на 2\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_\"MUSIC_VOLUME_3_ID,\"",
+    "en": "\"MUSIC_VOLUME_3_ID,\"\tSet music volume to 3\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\"MUSIC_VOLUME_3_ID,\"\tВстановити гучність музики на 3\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_\"MUSIC_VOLUME_4_ID,\"",
+    "en": "\"MUSIC_VOLUME_4_ID,\"\tSet music volume to 4\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\"MUSIC_VOLUME_4_ID,\"\tВстановити гучність музики на 4\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_\"MUSIC_VOLUME_5_ID,\"",
+    "en": "\"MUSIC_VOLUME_5_ID,\"\tSet music volume to 5\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\"MUSIC_VOLUME_5_ID,\"\tВстановити гучність музики на 5\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_\"MUSIC_VOLUME_6_ID,\"",
+    "en": "\"MUSIC_VOLUME_6_ID,\"\tSet music volume to 6",
+    "ua": "\"MUSIC_VOLUME_6_ID,\"\tВстановити гучність музики на 6"
+  },
+  {
+    "var": "HELP_\"MUSIC_VOLUME_7_ID,\"",
+    "en": "\"MUSIC_VOLUME_7_ID,\"\tSet music volume to 7",
+    "ua": "\"MUSIC_VOLUME_7_ID,\"\tВстановити гучність музики на 7"
+  },
+  {
+    "var": "HELP_\"MUSIC_VOLUME_8_ID,\"",
+    "en": "\"MUSIC_VOLUME_8_ID,\"\tSet music volume to 8",
+    "ua": "\"MUSIC_VOLUME_8_ID,\"\tВстановити гучність музики на 8"
+  },
+  {
+    "var": "HELP_\"MUSIC_VOLUME_9_ID,\"",
+    "en": "\"MUSIC_VOLUME_9_ID,\"\tSet music volume to 9",
+    "ua": "\"MUSIC_VOLUME_9_ID,\"\tВстановити гучність музики на 9"
+  },
+  {
+    "var": "HELP_\"EFFECTS_VOLUME_0_ID,\"",
+    "en": "\"EFFECTS_VOLUME_0_ID,\"\tTurn off sound effects",
+    "ua": "\"EFFECTS_VOLUME_0_ID,\"\tВимкнути ефекти"
+  },
+  {
+    "var": "HELP_\"EFFECTS_VOLUME_1_ID,\"",
+    "en": "\"EFFECTS_VOLUME_1_ID,\"\tSet sound effects volume to 1",
+    "ua": "\"EFFECTS_VOLUME_1_ID,\"\tВстановити гучність ефектів на 1"
+  },
+  {
+    "var": "HELP_\"EFFECTS_VOLUME_2_ID,\"",
+    "en": "\"EFFECTS_VOLUME_2_ID,\"\tSet sound effects volume to 2",
+    "ua": "\"EFFECTS_VOLUME_2_ID,\"\tВстановити гучність ефектів на 2"
+  },
+  {
+    "var": "HELP_\"EFFECTS_VOLUME_3_ID,\"",
+    "en": "\"EFFECTS_VOLUME_3_ID,\"\tSet sound effects volume to 3",
+    "ua": "\"EFFECTS_VOLUME_3_ID,\"\tВстановити гучність ефектів на 3"
+  },
+  {
+    "var": "HELP_\"EFFECTS_VOLUME_4_ID,\"",
+    "en": "\"EFFECTS_VOLUME_4_ID,\"\tSet sound effects volume to 4",
+    "ua": "\"EFFECTS_VOLUME_4_ID,\"\tВстановити гучність ефектів на 4"
+  },
+  {
+    "var": "HELP_\"EFFECTS_VOLUME_5_ID,\"",
+    "en": "\"EFFECTS_VOLUME_5_ID,\"\tSet sound effects volume to 5",
+    "ua": "\"EFFECTS_VOLUME_5_ID,\"\tВстановити гучність ефектів на 5"
+  },
+  {
+    "var": "HELP_\"EFFECTS_VOLUME_6_ID,\"",
+    "en": "\"EFFECTS_VOLUME_6_ID,\"\tSet sound effects volume to 6",
+    "ua": "\"EFFECTS_VOLUME_6_ID,\"\tВстановити гучність ефектів на 6"
+  },
+  {
+    "var": "HELP_\"EFFECTS_VOLUME_7_ID,\"",
+    "en": "\"EFFECTS_VOLUME_7_ID,\"\tSet sound effects volume to 7",
+    "ua": "\"EFFECTS_VOLUME_7_ID,\"\tВстановити гучність ефектів на 7"
+  },
+  {
+    "var": "HELP_\"EFFECTS_VOLUME_8_ID,\"",
+    "en": "\"EFFECTS_VOLUME_8_ID,\"\tSet sound effects volume to 8",
+    "ua": "\"EFFECTS_VOLUME_8_ID,\"\tВстановити гучність ефектів на 8"
+  },
+  {
+    "var": "HELP_\"EFFECTS_VOLUME_9_ID,\"",
+    "en": "\"EFFECTS_VOLUME_9_ID,\"\tSet sound effects volume to 9",
+    "ua": "\"EFFECTS_VOLUME_9_ID,\"\tВстановити гучність ефектів на 9"
+  },
+  {
+    "var": "HELP_\"MUSIC_TYPE_NONE_ID,\"",
+    "en": "\"MUSIC_TYPE_NONE_ID,\"\t\"MUSIC_TYPE_NONE_ID,\"",
+    "ua": "\"MUSIC_TYPE_NONE_ID,\"\t\"MUSIC_TYPE_NONE_ID,\""
+  },
+  {
+    "var": "HELP_\"MUSIC_TYPE_CD_ID,\"",
+    "en": "\"MUSIC_TYPE_CD_ID,\"\t\"MUSIC_TYPE_CD_ID,\"",
+    "ua": "\"MUSIC_TYPE_CD_ID,\"\t\"MUSIC_TYPE_CD_ID,\""
+  },
+  {
+    "var": "HELP_\"MUSIC_TYPE_MIDI_ID,\"",
+    "en": "\"MUSIC_TYPE_MIDI_ID,\"\t\"MUSIC_TYPE_MIDI_ID,\"",
+    "ua": "\"MUSIC_TYPE_MIDI_ID,\"\t\"MUSIC_TYPE_MIDI_ID,\""
+  },
+  {
+    "var": "HELP_\"AUTO_CREATURES_ID,\"",
+    "en": "\"AUTO_CREATURES_ID,\"\t\"{Creatures}\n\nGives control of your units to auto combat\"",
+    "ua": "\"AUTO_CREATURES_ID,\"\t\"{Істоти}\n\nДозволяє керувати вашими військами комп'ютеру під час автобитви.\""
+  },
+  {
+    "var": "HELP_\"AUTO_SPELLS_ID,\"",
+    "en": "\"AUTO_SPELLS_ID,\"\t\"{Spells}\n\nDuring auto combat your hero will cast spells\"",
+    "ua": "\"AUTO_SPELLS_ID,\"\t\"{Закляття}\n\nПід час автобитви ваш герой буде накладати закляття.\""
+  },
+  {
+    "var": "HELP_\"AUTO_CATAPULT_ID,\"",
+    "en": "\"AUTO_CATAPULT_ID,\"\t\"{Catapult}\n\nWhen laying siege to an enemy's castle, your catapult troops will decide which part of the fortifications to target.  If your Ballistics skill is high enough, you will be able to direct the catapult's fire yourself.\n\nIf your hero has the Ballistics skill, this option will give that control to the computer during auto combat.\"",
+    "ua": "\"AUTO_CATAPULT_ID,\"\t\"{Катапульта}\n\nКоли ви тримаєте ворожий замок в облозі, ваші артилеристи вирішуватимуть, в яку частину укріплень цілитись.  Якщо ваша навичка Балістики достатньо висока, ви матимете можливість скеровувати постріли катапульти самостійно.\n\nЯкщо ваш герой володіє Балістикою, то ця опція даватиме контроль над катапультою комп'ютеру під час автобитви.\""
+  },
+  {
+    "var": "HELP_\"AUTO_BALLISTA_ID,\"",
+    "en": "\"AUTO_BALLISTA_ID,\"\t\"{Ballista}\n\nDuring combat, your ballista troops will decide which  enemy units to target.  If your Artillery skill is high enough, you will be able to direct the ballista's fire yourself.\n\nIf your hero has the Artillery skill, this option will give that control to the computer during auto combat.\"",
+    "ua": "\"AUTO_BALLISTA_ID,\"\t\"{Баліста}\n\nПід час битви, ваші артилеристи вирішуватимуть, в які загони цілитись.  Якщо ваша навичка Артилерії достатньо висока, ви матимете можливість скеровувати постріли балісти самостійно.\n\nЯкщо ваш герой володіє навичками Артилерії, то ця опція даватиме контроль над балістою комп'ютеру під час автобитви.\""
+  },
+  {
+    "var": "HELP_\"AUTO_FIRST_AID_TENT_ID,\"",
+    "en": "\"AUTO_FIRST_AID_TENT_ID,\"\t\"{First Aid Tent}\n\nDuring combat, your first aid troops will choose who needs to be healed.  If your First Aid skill is high enough, you will be able to direct the first aid tent yourself.\n\nIf your hero has the First Aid skill, this option will give that control to the computer during auto combat.\"",
+    "ua": "\"AUTO_FIRST_AID_TENT_ID,\"\t\"{Намет першої допомоги}\n\nПід час бою, ваші медики вибиратимуть, кого з воїнів лікувати.  Якщо ваші навички Першої допомоги достатньо високі, ви матимете можливість керувати наметом самостійно.\n\nЯкщо ваш герой володіє навичками першої допомоги, ця опція даватиме контроль над наметом першої допомоги комп'ютеру під час автобитви.\""
+  },
+  {
+    "var": "HELP_\"ANIMATION_SPEED_0_ID,\"",
+    "en": "\"ANIMATION_SPEED_0_ID,\"\tSet animation speed to slow",
+    "ua": "\"ANIMATION_SPEED_0_ID,\"\tВстановити низьку швидкість анімації."
+  },
+  {
+    "var": "HELP_\"ANIMATION_SPEED_1_ID,\"",
+    "en": "\"ANIMATION_SPEED_1_ID,\"\tSet animation speed to medium",
+    "ua": "\"ANIMATION_SPEED_1_ID,\"\tВстановити середню швидкість анімації."
+  },
+  {
+    "var": "HELP_\"ANIMATION_SPEED_2_ID,\"",
+    "en": "\"ANIMATION_SPEED_2_ID,\"\tSet animation speed to fast",
+    "ua": "\"ANIMATION_SPEED_2_ID,\"\tВстановити високу швидкість анімації."
+  },
+  {
+    "var": "HELP_\"CREATURE_INFO_STATS_ID,\"",
+    "en": "\"CREATURE_INFO_STATS_ID,\"\t\"{All Statistics}\n\nRight clicking on a unit will display all statistics about the unit, including any spells that are currently in effect.\"",
+    "ua": "\"CREATURE_INFO_STATS_ID,\"\t\"{Вся статистика}\n\nКлік ПКМ по загону відображатиме всю статистичну інформацію про істот, включно з усіма поточними магічними ефектами.\""
+  },
+  {
+    "var": "HELP_\"CREATURE_INFO_SPELLS_ID,\"",
+    "en": "\"CREATURE_INFO_SPELLS_ID,\"\t\"{Spells Only}\n\nRight clicking on a unit will only display any spells that are currently affecting the unit.\"",
+    "ua": "\"CREATURE_INFO_SPELLS_ID,\"\t\"{Лише закляття}\n\nКлік ПКМ по загону відображатиме лише поточні магічні ефекти.\""
+  },
+  {
+    "var": "HELP_\"VIEW_HEX_ID,\"",
+    "en": "\"VIEW_HEX_ID,\"\t\"{View Hex Grid}\n\nDisplays a hex grid over the battlefield.\"",
+    "ua": "\"VIEW_HEX_ID,\"\t\"{Показати сітку}\n\nВідображає сітку на полі бою.\""
+  },
+  {
+    "var": "HELP_\"MOVEMENT_SHADOW_ID,\"",
+    "en": "\"MOVEMENT_SHADOW_ID,\"\t\"{Movement Shadow}\n\nDisplays a shadow on the battlefield which shows where a unit can currently move to.\"",
+    "ua": "\"MOVEMENT_SHADOW_ID,\"\t\"{Тінь руху}\n\nВідображає на полі битви тінь, яка показує, куди зараз може рухатись загін.\""
+  },
+  {
+    "var": "HELP_\"SHADOW_CURSOR_ID,\"",
+    "en": "\"SHADOW_CURSOR_ID,\"\t\"{Cursor Shadow}\n\nPlaces a hex shadow under the mouse cursor.\"",
+    "ua": "\"SHADOW_CURSOR_ID,\"\t\"{Тінь курсора}\n\nРозміщує тінь під курсором на полі битви.\""
+  },
+  {
+    "var": "HELP_\"ANIMATE_SPELLBOOK_ID,\"",
+    "en": "\"ANIMATE_SPELLBOOK_ID,\"\t\"{Animate Spell Book}\n\nShows page turning animation in the spell book.\"",
+    "ua": "\"ANIMATE_SPELLBOOK_ID,\"\t\"{Анімація книги заклинань}\n\nПоказує анімацію перегортання сторінки в книзі заклинань.\""
+  },
+  {
+    "var": "HELP_432",
+    "en": "\t",
+    "ua": "\t"
+  },
+  {
+    "var": "HELP_View Army",
+    "en": "View Army\tView Army\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "View Army\tView Army\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Creature Name",
+    "en": "Creature Name\tCreature Name\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Назва істоти\tНазва істоти\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Number of creatures",
+    "en": "Number of creatures\tNumber of creatures in the unit\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Кількість істот\tКількість істот в загоні\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Attack skill",
+    "en": "Attack skill\tAttack skill\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Навичка нападу\tНавичка нападу\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Defense skill",
+    "en": "Defense skill\tDefense skill\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Навичка захисту\tНавичка захисту\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Shots remaining",
+    "en": "Shots remaining\tNumber of shots remaining\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Залишок пострілів\tКількість пострілів, що залишились\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Damage per attack",
+    "en": "Damage per attack\tDamage per attack\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Пошкоджень на атаку\tПошкоджень на атаку\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Hit points",
+    "en": "Hit points\tHit points\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Здоров'я\tЗдоров'я\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Hit points remaining",
+    "en": "Hit points remaining\tHit points remaining\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Поточне здоров'я\tПоточне здоров'я\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Speed",
+    "en": "Speed\tSpeed\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Швидкість\tШвидкість\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Morale",
+    "en": "Morale\tMorale\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Мораль\tМораль\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Luck",
+    "en": "Luck\tLuck\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Удача\tУдача\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Spells affecting the army",
+    "en": "Spells affecting the army\tSpells affecting the army\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Магічні ефекти\tМагічні ефекти\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Dismiss unit",
+    "en": "Dismiss unit\t\"{Dismiss Unit}\n\nDismisses the current unit from your army\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Розпустити загін\t\"{Розпустити загін}\n\nВідпускає обраний загін з вашої армії.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Upgrade unit",
+    "en": "Upgrade unit\t\"{Upgrade Unit}\n\nUpgrades the current unit\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Вдосконалити загін\t\"{Вдосконалити загін}\n\nВдосконалює обраний загін.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Okay",
+    "en": "Okay\t\"{Okay}\n\nReturn to previous window\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Гаразд\t\"{Гаразд}\n\nПовернутись у попереднє вікно.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_449",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Spell Book",
+    "en": "Spell Book\tSpell Book\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Spell Book\tSpell Book\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Previous Page",
+    "en": "Previous Page\tTurn to the previous page\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Попередня сторінка\tПерегорнути на попередню сторінку.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Next Page",
+    "en": "Next Page\tTurn to the next page\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Наступна сторінка\tПерегорнути на наступну сторінку.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Adventure Map Spells",
+    "en": "Adventure Map Spells\tTurn to view adventure map spells\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Закляття мапи пригод\tРозгорнути розділ заклять мапи пригод.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Combat Spells",
+    "en": "Combat Spells\tTurn to view combat spells\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Бойові закляття\tРозгорнути розділ бойових заклять.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Air Spells",
+    "en": "Air Spells\tTurn to view Air spells\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Магія Повітря\tРозгорнути закляття магії Повітря.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Fire Spells",
+    "en": "Fire Spells\tTurn to view Fire spells\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Магія Вогню\tРозгорнути закляття магії Вогню.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Water Spells",
+    "en": "Water Spells\tTurn to view Water spells\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Магія Води\tРозгорнути закляття магії Води.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Earth Spells",
+    "en": "Earth Spells\tTurn to view Earth spells\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Магія Землі\tРозгорнути закляття магії Землі.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_All Spells",
+    "en": "All Spells\tShow all spell schools\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Усі закляття\tПоказати всі закляття.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Spell Points",
+    "en": "Spell Points\tHero's remaining spell points\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Мана\tЗалишок очок мани героя.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Exit",
+    "en": "Exit\tClose the Spell Book\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Вихід\tЗакрити книгу заклинань.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_462",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_CampaignBrief",
+    "en": "CampaignBrief\tCampaignBrief\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "CampaignBrief\tCampaignBrief\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_464",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_CAMPAIGN_NAME",
+    "en": "CAMPAIGN_NAME\tCAMPAIGN_NAME",
+    "ua": "CAMPAIGN_NAME\tCAMPAIGN_NAME"
+  },
+  {
+    "var": "HELP_CAMPAIGN_DESCRIPTION",
+    "en": "CAMPAIGN_DESCRIPTION\tCAMPAIGN_DESCRIPTION",
+    "ua": "CAMPAIGN_DESCRIPTION\tCAMPAIGN_DESCRIPTION"
+  },
+  {
+    "var": "HELP_MAP_NAME",
+    "en": "MAP_NAME\tMAP_NAME",
+    "ua": "MAP_NAME\tMAP_NAME"
+  },
+  {
+    "var": "HELP_MAP_DESCRIPTION",
+    "en": "MAP_DESCRIPTION\tMAP_DESCRIPTION",
+    "ua": "MAP_DESCRIPTION\tMAP_DESCRIPTION"
+  },
+  {
+    "var": "HELP_HERO_FACE",
+    "en": "HERO_FACE\tHERO_FACE",
+    "ua": "HERO_FACE\tHERO_FACE"
+  },
+  {
+    "var": "HELP_Change Hero",
+    "en": "Change Hero\tClick to change your starting hero",
+    "ua": "Зміна героя\tКлацніть, щоб змінити початкового героя"
+  },
+  {
+    "var": "HELP_Change Hero",
+    "en": "Change Hero\tClick to change your starting hero",
+    "ua": "Зміна героя\tКлацніть, щоб змінити початкового героя"
+  },
+  {
+    "var": "HELP_Artifact Bonus",
+    "en": "Artifact Bonus\tChoose to start with an artifact",
+    "ua": "Бонус: артефакт\tВиберіть, щоб розпочати гру з артефактом"
+  },
+  {
+    "var": "HELP_Gold Bonus",
+    "en": "Gold Bonus\tChoose to start with extra gold",
+    "ua": "Бонус: золото\tВиберіть, щоб розпочати гру з додатковим золотом"
+  },
+  {
+    "var": "HELP_Resource Bonus",
+    "en": "Resource Bonus\tChoose to start with extra resources",
+    "ua": "Бонус: ресурси\tВиберіть, щоб розпочати гру з додатковими ресурсами"
+  },
+  {
+    "var": "HELP_Restart",
+    "en": "Restart\t\"{Restart}\n\nRestart the current campaign\"",
+    "ua": "Спочатку\t\"{Спочатку}\n\nРозпочати поточну кампанію заново\""
+  },
+  {
+    "var": "HELP_View Campaign Intro",
+    "en": "View Campaign Intro\t\"{View Campaign Intro}\n\nShow the intro movie for this campaign\"",
+    "ua": "Вступ\t\"{Вступ}\n\nПодивитися вступне відео до цієї кампанії\""
+  },
+  {
+    "var": "HELP_ALLY_FLAG1_ID",
+    "en": "ALLY_FLAG1_ID\tThis is your color",
+    "ua": "ALLY_FLAG1_ID\tЦе ваш колір."
+  },
+  {
+    "var": "HELP_ALLY_FLAG2_ID",
+    "en": "ALLY_FLAG2_ID\tThis color is allied with you",
+    "ua": "ALLY_FLAG2_ID\tЦе колір ваших союзників."
+  },
+  {
+    "var": "HELP_ALLY_FLAG3_ID",
+    "en": "ALLY_FLAG3_ID\tThis color is allied with you",
+    "ua": "ALLY_FLAG3_ID\tЦе колір ваших союзників."
+  },
+  {
+    "var": "HELP_ALLY_FLAG4_ID",
+    "en": "ALLY_FLAG4_ID\tThis color is allied with you",
+    "ua": "ALLY_FLAG4_ID\tЦе колір ваших союзників."
+  },
+  {
+    "var": "HELP_ALLY_FLAG5_ID",
+    "en": "ALLY_FLAG5_ID\tThis color is allied with you",
+    "ua": "ALLY_FLAG5_ID\tЦе колір ваших союзників."
+  },
+  {
+    "var": "HELP_ALLY_FLAG6_ID",
+    "en": "ALLY_FLAG6_ID\tThis color is allied with you",
+    "ua": "ALLY_FLAG6_ID\tЦе колір ваших союзників."
+  },
+  {
+    "var": "HELP_ALLY_FLAG7_ID",
+    "en": "ALLY_FLAG7_ID\tThis color is allied with you",
+    "ua": "ALLY_FLAG7_ID\tЦе колір ваших союзників."
+  },
+  {
+    "var": "HELP_ALLY_FLAG8_ID",
+    "en": "ALLY_FLAG8_ID\tThis color is allied with you",
+    "ua": "ALLY_FLAG8_ID\tЦе колір ваших союзників."
+  },
+  {
+    "var": "HELP_ENEMY_FLAG1_ID",
+    "en": "ENEMY_FLAG1_ID\tThis color is your enemy",
+    "ua": "ENEMY_FLAG1_ID\tЦе колір ваших ворогів."
+  },
+  {
+    "var": "HELP_ENEMY_FLAG2_ID",
+    "en": "ENEMY_FLAG2_ID\tThis color is your enemy",
+    "ua": "ENEMY_FLAG2_ID\tЦе колір ваших ворогів."
+  },
+  {
+    "var": "HELP_ENEMY_FLAG3_ID",
+    "en": "ENEMY_FLAG3_ID\tThis color is your enemy",
+    "ua": "ENEMY_FLAG3_ID\tЦе колір ваших ворогів."
+  },
+  {
+    "var": "HELP_ENEMY_FLAG4_ID",
+    "en": "ENEMY_FLAG4_ID\tThis color is your enemy",
+    "ua": "ENEMY_FLAG4_ID\tЦе колір ваших ворогів."
+  },
+  {
+    "var": "HELP_ENEMY_FLAG5_ID",
+    "en": "ENEMY_FLAG5_ID\tThis color is your enemy",
+    "ua": "ENEMY_FLAG5_ID\tЦе колір ваших ворогів."
+  },
+  {
+    "var": "HELP_ENEMY_FLAG6_ID",
+    "en": "ENEMY_FLAG6_ID\tThis color is your enemy",
+    "ua": "ENEMY_FLAG6_ID\tЦе колір ваших ворогів."
+  },
+  {
+    "var": "HELP_ENEMY_FLAG7_ID",
+    "en": "ENEMY_FLAG7_ID\tThis color is your enemy",
+    "ua": "ENEMY_FLAG7_ID\tЦе колір ваших ворогів."
+  },
+  {
+    "var": "HELP_ENEMY_FLAG8_ID",
+    "en": "ENEMY_FLAG8_ID\tThis color is your enemy",
+    "ua": "ENEMY_FLAG8_ID\tЦе колір ваших ворогів."
+  },
+  {
+    "var": "HELP_WHICHMAP_ID",
+    "en": "WHICHMAP_ID\tThis is the size of the Map you're about to play",
+    "ua": "WHICHMAP_ID\tЦе розміри мапи."
+  },
+  {
+    "var": "HELP_MAP_AREA_1",
+    "en": "MAP_AREA_1\tMAP_AREA_1",
+    "ua": "MAP_AREA_1\tMAP_AREA_1"
+  },
+  {
+    "var": "HELP_MAP_AREA_2",
+    "en": "MAP_AREA_2\tMAP_AREA_2",
+    "ua": "MAP_AREA_2\tMAP_AREA_2"
+  },
+  {
+    "var": "HELP_MAP_AREA_3",
+    "en": "MAP_AREA_3\tMAP_AREA_3",
+    "ua": "MAP_AREA_3\tMAP_AREA_3"
+  },
+  {
+    "var": "HELP_MAP_AREA_4",
+    "en": "MAP_AREA_4\tMAP_AREA_4",
+    "ua": "MAP_AREA_4\tMAP_AREA_4"
+  },
+  {
+    "var": "HELP_MAP_AREA_5",
+    "en": "MAP_AREA_5\tMAP_AREA_5",
+    "ua": "MAP_AREA_5\tMAP_AREA_5"
+  },
+  {
+    "var": "HELP_MAP_AREA_6",
+    "en": "MAP_AREA_6\tMAP_AREA_6",
+    "ua": "MAP_AREA_6\tMAP_AREA_6"
+  },
+  {
+    "var": "HELP_MAP_AREA_7",
+    "en": "MAP_AREA_7\tMAP_AREA_7",
+    "ua": "MAP_AREA_7\tMAP_AREA_7"
+  },
+  {
+    "var": "HELP_MAP_AREA_8",
+    "en": "MAP_AREA_8\tMAP_AREA_8",
+    "ua": "MAP_AREA_8\tMAP_AREA_8"
+  },
+  {
+    "var": "HELP_MAP_AREA_9",
+    "en": "MAP_AREA_9\tMAP_AREA_9",
+    "ua": "MAP_AREA_9\tMAP_AREA_9"
+  },
+  {
+    "var": "HELP_MAP_AREA_10",
+    "en": "MAP_AREA_10\tMAP_AREA_10",
+    "ua": "MAP_AREA_10\tMAP_AREA_10"
+  },
+  {
+    "var": "HELP_MAP_AREA_11",
+    "en": "MAP_AREA_11\tMAP_AREA_11",
+    "ua": "MAP_AREA_11\tMAP_AREA_11"
+  },
+  {
+    "var": "HELP_MAP_AREA_12",
+    "en": "MAP_AREA_12\tMAP_AREA_12",
+    "ua": "MAP_AREA_12\tMAP_AREA_12"
+  },
+  {
+    "var": "HELP_MAP_AREA_13",
+    "en": "MAP_AREA_13\tMAP_AREA_13",
+    "ua": "MAP_AREA_13\tMAP_AREA_13"
+  },
+  {
+    "var": "HELP_MAP_AREA_14",
+    "en": "MAP_AREA_14\tMAP_AREA_14",
+    "ua": "MAP_AREA_14\tMAP_AREA_14"
+  },
+  {
+    "var": "HELP_MAP_AREA_15",
+    "en": "MAP_AREA_15\tMAP_AREA_15",
+    "ua": "MAP_AREA_15\tMAP_AREA_15"
+  },
+  {
+    "var": "HELP_MAP_AREA_16",
+    "en": "MAP_AREA_16\tMAP_AREA_16",
+    "ua": "MAP_AREA_16\tMAP_AREA_16"
+  },
+  {
+    "var": "HELP_MAP_AREA_17",
+    "en": "MAP_AREA_17\tMAP_AREA_17",
+    "ua": "MAP_AREA_17\tMAP_AREA_17"
+  },
+  {
+    "var": "HELP_MAP_AREA_18",
+    "en": "MAP_AREA_18\tMAP_AREA_18",
+    "ua": "MAP_AREA_18\tMAP_AREA_18"
+  },
+  {
+    "var": "HELP_MAP_AREA_19",
+    "en": "MAP_AREA_19\tMAP_AREA_19",
+    "ua": "MAP_AREA_19\tMAP_AREA_19"
+  },
+  {
+    "var": "HELP_MAP_AREA_20",
+    "en": "MAP_AREA_20\tMAP_AREA_20\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "MAP_AREA_20\tMAP_AREA_20\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_MAP_AREA_21",
+    "en": "MAP_AREA_21\tMAP_AREA_21\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "MAP_AREA_21\tMAP_AREA_21\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_MAP_AREA_22",
+    "en": "MAP_AREA_22\tMAP_AREA_22\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "MAP_AREA_22\tMAP_AREA_22\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_MAP_AREA_23",
+    "en": "MAP_AREA_23\tMAP_AREA_23\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "MAP_AREA_23\tMAP_AREA_23\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_MAP_AREA_24",
+    "en": "MAP_AREA_24\tMAP_AREA_24\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "MAP_AREA_24\tMAP_AREA_24\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_MAP_AREA_25",
+    "en": "MAP_AREA_25\tMAP_AREA_25\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "MAP_AREA_25\tMAP_AREA_25\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_MAP_AREA_26",
+    "en": "MAP_AREA_26\tMAP_AREA_26\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "MAP_AREA_26\tMAP_AREA_26\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_MAP_AREA_27",
+    "en": "MAP_AREA_27\tMAP_AREA_27\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "MAP_AREA_27\tMAP_AREA_27\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_MAP_AREA_28",
+    "en": "MAP_AREA_28\tMAP_AREA_28\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "MAP_AREA_28\tMAP_AREA_28\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_MAP_AREA_29",
+    "en": "MAP_AREA_29\tMAP_AREA_29\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "MAP_AREA_29\tMAP_AREA_29\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_MAP_AREA_30",
+    "en": "MAP_AREA_30\tMAP_AREA_30\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "MAP_AREA_30\tMAP_AREA_30\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_MAP_AREA_31",
+    "en": "MAP_AREA_31\tMAP_AREA_31\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "MAP_AREA_31\tMAP_AREA_31\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_MAP_AREA_32",
+    "en": "MAP_AREA_32\tMAP_AREA_32\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "MAP_AREA_32\tMAP_AREA_32\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_526",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_CampaignWindow",
+    "en": "CampaignWindow\tCampaignWindow\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "CampaignWindow\tCampaignWindow\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_528",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Long Live the Queen",
+    "en": "Long Live the Queen\tLong Live the Queen\t\t",
+    "ua": "Нехай живе королева\tНехай живе королева\t\t"
+  },
+  {
+    "var": "HELP_Liberation",
+    "en": "Liberation\tLiberation\t\t",
+    "ua": "Визволення\tВизволення\t\t"
+  },
+  {
+    "var": "HELP_Spoils of War",
+    "en": "Spoils of War\tSpoils of War\t\t",
+    "ua": "Вигода війни\tВигода війни\t\t"
+  },
+  {
+    "var": "HELP_Song for the Father",
+    "en": "Song for the Father\tSong for the Father\t\t",
+    "ua": "Пісня для батька\tПісня для батька\t\t"
+  },
+  {
+    "var": "HELP_Dungeons and Devils",
+    "en": "Dungeons and Devils\tDungeons and Devils\t\t",
+    "ua": "Підземелля й демони\tПідземелля й демони\t\t"
+  },
+  {
+    "var": "HELP_Long Live the King",
+    "en": "Long Live the King\tLong Live the King\t\t",
+    "ua": "Хай живе король\tХай живе король\t\t"
+  },
+  {
+    "var": "HELP_Seeds of Discontent",
+    "en": "Seeds of Discontent\tSeeds of Discontent\t\t",
+    "ua": "Сім'я невдоволення\tСім'я невдоволення\t\t"
+  },
+  {
+    "var": "HELP_Armageddon's Blade",
+    "en": "Armageddon's Blade\tArmageddon's Blade\t\t",
+    "ua": "Клинок Армагеддону\tКлинок Армагеддону\t\t"
+  },
+  {
+    "var": "HELP_Dragon's Blood",
+    "en": "Dragon's Blood\tDragon's Blood\t\t",
+    "ua": "Кров дракона\tКров дракона\t\t"
+  },
+  {
+    "var": "HELP_Dragon Slayer",
+    "en": "Dragon Slayer\tDragon Slayer\t\t",
+    "ua": "Вбивця драконів\tВбивця драконів\t\t"
+  },
+  {
+    "var": "HELP_Festival of Life",
+    "en": "Festival of Life\tFestival of Life\t\t",
+    "ua": "Фестиваль життя\tФестиваль життя\t\t"
+  },
+  {
+    "var": "HELP_Foolhardy Waywardness",
+    "en": "Foolhardy Waywardness\tFoolhardy Waywardness\t\t",
+    "ua": "Безрозсудний непослух\tБезрозсудний непослух\t\t"
+  },
+  {
+    "var": "HELP_Playing With Fire",
+    "en": "Playing With Fire\tPlaying With Fire\t\t",
+    "ua": "Гра з вогнем\tГра з вогнем\t\t"
+  },
+  {
+    "var": "HELP_Hack and Slash",
+    "en": "Hack and Slash\tHack and Slash\t\t",
+    "ua": "Рубай і шматуй\tРубай та шматуй\t\t"
+  },
+  {
+    "var": "HELP_Birth of a Barbarian",
+    "en": "Birth of a Barbarian\tBirth of a Barbarian\t\t",
+    "ua": "Народження варвара\tНародження варвара\t\t"
+  },
+  {
+    "var": "HELP_New Beginning",
+    "en": "New Beginning\tNew Beginning\t\t",
+    "ua": "Новий початок\tНовий початок\t\t"
+  },
+  {
+    "var": "HELP_Elixir of Life",
+    "en": "Elixir of Life\tElixir of Life\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Еліксир життя\tЕліксир життя\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Rise of the Necromancer",
+    "en": "Rise of the Necromancer\tRise of the Necromancer\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Сходження некроманта\tСходження некроманта\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Unholy Alliance",
+    "en": "Unholy Alliance\tUnholy Alliance\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Проклятий альянс\tПроклятий альянс\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Spectre of Power",
+    "en": "Spectre of Power\tSpectre of Power\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Спектр сили\tСпектр сили\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_549",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_550",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_ROLLOVER",
+    "en": "ROLLOVER\tROLLOVER\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "ROLLOVER\tROLLOVER\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_552",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Recruit",
+    "en": "Recruit\tRecruit\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Recruit\tRecruit\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Maximum",
+    "en": "Maximum\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Максимум\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Recruit",
+    "en": "Recruit\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Найняти\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Cancel",
+    "en": "Cancel\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Скасувати\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_557",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Multiplayer",
+    "en": "Multiplayer\tMultiplayer\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Multiplayer\tMultiplayer\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Check Box",
+    "en": "Check Box\tClick this to enable/disable name\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Прапорець\tКлацніть тут, щоб увімкнути/вимкнути ім'я.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Enter Player Name",
+    "en": "Enter Player Name\tEnter Player Name\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Введіть ім'я гравця\tВведіть ім'я гравця\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_OK",
+    "en": "OK\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Гаразд\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Back",
+    "en": "Back\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Назад\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Enter Session Name",
+    "en": "Enter Session Name\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Введіть назву сеансу\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Enter Password",
+    "en": "Enter Password\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Введіть пароль\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Session Name",
+    "en": "Session Name\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Назва сеансу\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Enter IP Address",
+    "en": "Enter IP Address\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Введіть IP-адресу\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_567",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Sacrifice Window",
+    "en": "Sacrifice Window\tSacrifice Window\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Sacrifice Window\tSacrifice Window\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Exit (nothing will be sacrificed).",
+    "en": "Exit (nothing will be sacrificed).\tLeave the Altar.  All items currently on the Altar will be returned to you.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Вихід (нічого не буде принесене в жертву).\tПокинути вівтар.  Усі речі, що були на вівтарі, повертаються вам.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Currently held artifact",
+    "en": "Currently held artifact\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Поточний артефакт\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Place all artifacts in backpack on altar",
+    "en": "Place all artifacts in backpack on altar\tMove items in your hero's backpack on to the Altar.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Покласти всі артефакти з сумки на вівтар\tПеретягніть речі з рюкзака героя на вівтар.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Place all artifacts on the altar",
+    "en": "Place all artifacts on the altar\t\"Move all artifacts, both equipped and in your hero's backpack, on to the Altar.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Покласти всі артефакти на вівтар\t\"Перенести всі артефакти, і одягнені і ті, що знаходяться в сумці, на вівтар.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Sacrifice creatures",
+    "en": "Sacrifice creatures\tSwitch to Sacrifice Creatures.  Only available for Evil and Neutral heroes.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Жертвопринесення воїнів\tВиберіть істот для жертвопринесення.  Доступно лише для злих і нейтральних героїв.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Number of creatures / Experience value",
+    "en": "Number of creatures / Experience value\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Кількість істот / Кількість досвіду\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Currently selected creatures",
+    "en": "Currently selected creatures\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Вибрані істоти\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Number of creatures / Experience value",
+    "en": "Number of creatures / Experience value\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Кількість істот / Кількість досвіду\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Number of creatures to sacrifice",
+    "en": "Number of creatures to sacrifice\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Кількість істот для жертвопринесення\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Set number of creatures to sacrifice",
+    "en": "Set number of creatures to sacrifice\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Встановіть кількість істот для жертвопринесення\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Sacrifice maximum number of creatures",
+    "en": "Sacrifice maximum number of creatures\tMove the maximum number of creatures on to the Altar.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Принести в жертву максимальну кількість істот\tПеренести максимальну кількість істот на вівтар.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Sacrifice all creatures in your hero's army",
+    "en": "Sacrifice all creatures in your hero's army\tMove all but one creature on to the Altar.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Принести в жертву всіх істот з армії героя\tПеренести всіх істот на вівтар, окрім одного.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Sacrifice artifacts",
+    "en": "Sacrifice artifacts\tSwitch to Sacrifice Artifacts screen.  Only available for Good and Neutral heroes.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Принести в жертву артефакт\tПерейти до екрану артефактів.  Доступно лише для злих і нейтральних героїв.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Number of creatures / Experience value",
+    "en": "Number of creatures / Experience value\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Кількість істот / Кількість досвіду\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Place artifact to sacrifice here",
+    "en": "Place artifact to sacrifice here\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Розмістіть артефакт для жертвопринесення тут\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Experience value of artifact",
+    "en": "Experience value of artifact\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Кількість досвіду за артефакт\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Sacrifice artifacts currently on the altar",
+    "en": "Sacrifice artifacts currently on the altar\t\"Sacrifice anything currently on the Altar, and gain experience.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Принести в жертву артефакти, що лежать на вівтарі\t\"Принести в жертву те, що на вівтарі та отримати досвід.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Sacrifice creatures currently on the altar",
+    "en": "Sacrifice creatures currently on the altar\t\"Sacrifice anything currently on the Altar, and gain experience.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Принести в жертву істот, що лежать на вівтарі\t\"Принести в жертву те, що на вівтарі та отримати досвід.\"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_587",
+    "en": "\tSearch through backpack\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\tОглянути рюкзак\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_588",
+    "en": "\tSearch through backpack\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\tОглянути рюкзак\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_589",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Skeleton Transformer",
+    "en": "Skeleton Transformer\tSkeleton Transformer\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Skeleton Transformer\tSkeleton Transformer\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Place all creatures in the transformer",
+    "en": "Place all creatures in the transformer\tMove all creatures into the transformer\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Розмістити всіх істот в трансформаторі\tПеренести всіх істот у трансформатор\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Change creatures in the transformer into undead",
+    "en": "Change creatures in the transformer into undead\tChange creatures in the Transformer into undead\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Перетворити істот у трансформаторі на нежить\tПеретворити істот у трансформаторі на нежить\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Exit transfomer",
+    "en": "Exit transfomer\tLeave the transformer.  No more creatures will become undead\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Вийти\tПокинути трансформатор.  Жодна істота більше не перетвориться на нежить.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_594",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Trade Window",
+    "en": "Trade Window\tTrade Window\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Trade Window\tTrade Window\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Trade",
+    "en": "Trade\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Торгівля\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Maximum",
+    "en": "Maximum\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Максимум\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Give resources to another player",
+    "en": "Give resources to another player\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Передати ресурси іншому гравцю\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Buy artifacts",
+    "en": "Buy artifacts\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Купити артефакт\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Sell creatures",
+    "en": "Sell creatures\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Продати істот\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Exit",
+    "en": "Exit\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Вихід\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_602",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Give Resource Window",
+    "en": "Give Resource Window\tGive Resource Window\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Give Resource Window\tGive Resource Window\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Trade",
+    "en": "Trade\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Торгівля\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Maximum",
+    "en": "Maximum\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Максимум\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Trade Resources",
+    "en": "Trade Resources\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Обмін ресурсів\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Buy artifacts",
+    "en": "Buy artifacts\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Купити артефакт\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Exit",
+    "en": "Exit\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Вихід\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_609",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Buy Artifact Window",
+    "en": "Buy Artifact Window\tBuy Artifact Window\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Buy Artifact Window\tBuy Artifact Window\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Trade",
+    "en": "Trade\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Торгівля\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Trade resources",
+    "en": "Trade resources\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Обмін ресурсів\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Give resources to another player",
+    "en": "Give resources to another player\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Передати ресурси іншому гравцю\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Sell artifacts",
+    "en": "Sell artifacts\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Продати артефакти\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Exit",
+    "en": "Exit\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Вихід\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_616",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Sell Artifact Window",
+    "en": "Sell Artifact Window\tSell Artifact Window\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Sell Artifact Window\tSell Artifact Window\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Trade",
+    "en": "Trade\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Торгівля\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Trade resources",
+    "en": "Trade resources\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Обмін ресурсів\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Give resources to another player",
+    "en": "Give resources to another player\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Передати ресурси іншому гравцю\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Buy artifacts",
+    "en": "Buy artifacts\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Купити артефакти\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Exit",
+    "en": "Exit\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Вихід\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_623",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Sell Creature Window",
+    "en": "Sell Creature Window\tSell Creature Window\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Sell Creature Window\tSell Creature Window\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Trade",
+    "en": "Trade\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Торгівля\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Maximum",
+    "en": "Maximum\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Максимум\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Trade Resources",
+    "en": "Trade Resources\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Обмін ресурсів\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Give resources to another player",
+    "en": "Give resources to another player\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Передати ресурси іншому гравцю\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Exit",
+    "en": "Exit\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Вихід\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_630",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_University Window",
+    "en": "University Window\tUniversity Window\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "University Window\tUniversity Window\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Cancel",
+    "en": "Cancel\tReturn to skill selection\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Скасувати\tПовернутись до вибору навичок\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Leave the university",
+    "en": "Leave the university\tLeave the university\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Покинути університет\tПокинути університет\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_634",
+    "en": "\tLearn %s %s for %d gold.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\tВивчити %s %s за %d золотих.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Not used...  filthy bug.",
+    "en": "Not used...  filthy bug.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Not used...  filthy bug.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_Insert all data before this line. Do not alter or delete this line.",
+    "en": "Insert all data before this line. Do not alter or delete this line.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "Insert all data before this line. Do not alter or delete this line.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HELP_637",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "HELP_638",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "HELP_639",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "HELP_640",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,710 @@
+[
+  {
+    "var": "FIRE_M2_prolog",
+    "field": "wrapper_prolog",
+    "en": "It has been confirmed.  Lord Haart was raised from the dead and is now sweeping through Tatalia creating an undead army of mammoth proportions.  Behind the Undead Knight lies a trail of death and destruction.  To track him down is the easy thing.  Restoring the land he has destroyed is another matter all together.  Free the inhabitants from their undead captors and they will join your cause.",
+    "ua": "Чутки підтвердилися. Лорд Хаарт воскрес з мертвих і тепер простує по Таталії, створюючи величезну армію живих мерців. За Лицарем Смерті тягнеться слід вбивств і руйнувань, то ж вистежити його - легке завдання. Але відновлення порядку на землях, захоплених ним - зовсім інша справа. Звільніть мешканців від загарбників і вони приєднаються до вас."
+  },
+  {
+    "var": "FIRE_M2_epilog",
+    "field": "wrapper_epilog",
+    "en": "With the conclusion of the Restoration War, Lord Haart's necromantic cult disbanded and went into hiding.  It appears they have resurfaced and resurrected their leader.   Now Lord Haart walks the Tatalian lands a Death Knight.  If I am to continue my hunt for the dead warrior, I will need help.  I hope my countrymen will be wise and not shun a hero who embraces fire magic.",
+    "ua": "Зазнавши поразки у війні за Відродження Ерафії, культ некромантів з лордом Хаартом на чолі розпався і загубився в глушині. Схоже, тепер некроманти з'явилися знову. Вони пробудили свого вождя. Ставши Лицарем Смерті, лорд Хаарт знову простує Таталією. Одній мені його не здолати. Сподіваюся, у моїх одноплемінників вистачить розуму не гнати геть відьму, що володіє магією вогню..."
+  },
+  {
+    "var": "FIRE_M2_map_name",
+    "field": "map_map_name",
+    "en": "March of the Undead",
+    "ua": "Болота нежиті"
+  },
+  {
+    "var": "FIRE_M2_map_desc",
+    "field": "map_map_desc",
+    "en": "To win this scenario flag all creature generators within seven months.  Beware, each are heavily guarded by hordes of undead.  If you lose Adrienne then all is lost.  Heroes will be limited to level 32, but six of your heroes will be carried over to the next scenario.",
+    "ua": "Для перемоги в сценарії необхідно протягом семи місяців захопити житла всіх істот. Врахуйте, їх охороняють могутні сили нежиті. Якщо Адріана загине, все пропало. Ваші герої обмежені 32 рівнем. Якщо ви переможете, шестеро кращих героїв перейдуть у наступний сценарій."
+  },
+  {
+    "var": "FIRE_M2_rumor0_name",
+    "field": "map_rumor0_name",
+    "en": "Conflux",
+    "ua": "Conflux"
+  },
+  {
+    "var": "FIRE_M2_rumor0_desc",
+    "field": "map_rumor0_desc",
+    "en": "Strange beings have come from another plane.",
+    "ua": "З іншого виміру до нас з'явилися незрозумілі істоти."
+  },
+  {
+    "var": "FIRE_M2_rumor1_name",
+    "field": "map_rumor1_name",
+    "en": "Conflux",
+    "ua": "Conflux"
+  },
+  {
+    "var": "FIRE_M2_rumor1_desc",
+    "field": "map_rumor1_desc",
+    "en": "Powerful entities are here to help us!",
+    "ua": "В особі елементалів ми знайшли могутніх помічників!"
+  },
+  {
+    "var": "FIRE_M2_rumor2_name",
+    "field": "map_rumor2_name",
+    "en": "Adrienne",
+    "ua": "Adrienne"
+  },
+  {
+    "var": "FIRE_M2_rumor2_desc",
+    "field": "map_rumor2_desc",
+    "en": "Adrienne is a Fire Witch.",
+    "ua": "Адріана - вогняна відьма."
+  },
+  {
+    "var": "FIRE_M2_rumor3_name",
+    "field": "map_rumor3_name",
+    "en": "Adrienne",
+    "ua": "Adrienne"
+  },
+  {
+    "var": "FIRE_M2_rumor3_desc",
+    "field": "map_rumor3_desc",
+    "en": "Adrienne used to practice with Demons!",
+    "ua": "Адріана відточувала свою майстерність на демонах!"
+  },
+  {
+    "var": "FIRE_M2_rumor4_name",
+    "field": "map_rumor4_name",
+    "en": "Treasure",
+    "ua": "Treasure"
+  },
+  {
+    "var": "FIRE_M2_rumor4_desc",
+    "field": "map_rumor4_desc",
+    "en": "To the north is great treasure.",
+    "ua": "Незліченні багатства чекають героя на півночі."
+  },
+  {
+    "var": "FIRE_M2_rumor5_name",
+    "field": "map_rumor5_name",
+    "en": "Wood",
+    "ua": "Wood"
+  },
+  {
+    "var": "FIRE_M2_rumor5_desc",
+    "field": "map_rumor5_desc",
+    "en": "It takes more wood than any other resource to build a Fortress.",
+    "ua": "Щоб відбудувати Фортецю, необхідна величезна кількість деревини."
+  },
+  {
+    "var": "FIRE_M2_rumor6_name",
+    "field": "map_rumor6_name",
+    "en": "Christian",
+    "ua": "Christian"
+  },
+  {
+    "var": "FIRE_M2_rumor6_desc",
+    "field": "map_rumor6_desc",
+    "en": "A foolish soldier from Enroth once took a three-hour tour.",
+    "ua": "Якось невдачливий лицар з Енрота вирушив на морську прогулянку."
+  },
+  {
+    "var": "FIRE_M2_rumor7_name",
+    "field": "map_rumor7_name",
+    "en": "Dragon slayer",
+    "ua": "Dragon slayer"
+  },
+  {
+    "var": "FIRE_M2_rumor7_desc",
+    "field": "map_rumor7_desc",
+    "en": "There is an Azure Dragon - beware it is most powerful!",
+    "ua": "Остерігатися лазурного дракона: сильніше за нього звіра немає!"
+  },
+  {
+    "var": "FIRE_M2_rumor8_name",
+    "field": "map_rumor8_name",
+    "en": "Dragon slayer",
+    "ua": "Dragon slayer"
+  },
+  {
+    "var": "FIRE_M2_rumor8_desc",
+    "field": "map_rumor8_desc",
+    "en": "A young boy wants to slay the Azure Dragon!",
+    "ua": "Чаклун, зовсім ще хлопчисько, задумав здолати блакитного дракона!"
+  },
+  {
+    "var": "FIRE_M2_rumor9_name",
+    "field": "map_rumor9_name",
+    "en": "Dragon's Blood",
+    "ua": "Dragon's Blood"
+  },
+  {
+    "var": "FIRE_M2_rumor9_desc",
+    "field": "map_rumor9_desc",
+    "en": "A Nighon Overlord wants to be Queen.",
+    "ua": "Одна з Повелительок Ніґона жадає стати королевою."
+  },
+  {
+    "var": "FIRE_M2_rumor10_name",
+    "field": "map_rumor10_name",
+    "en": "Dragon's Blood",
+    "ua": "Dragon's Blood"
+  },
+  {
+    "var": "FIRE_M2_rumor10_desc",
+    "field": "map_rumor10_desc",
+    "en": "The Vial of Dragon's Blood came from the Grandfather of all Dragons.",
+    "ua": "Фіал драконячої крові наповнений життєвою силою Праотця драконів."
+  },
+  {
+    "var": "FIRE_M2_rumor11_name",
+    "field": "map_rumor11_name",
+    "en": "Dragon's Blood",
+    "ua": "Dragon's Blood"
+  },
+  {
+    "var": "FIRE_M2_rumor11_desc",
+    "field": "map_rumor11_desc",
+    "en": "If you drink the Vial of Dragon's Blood you will turn into a dragon.",
+    "ua": "Якщо випити з Фіала драконячої крові, сам перетворишся на дракона."
+  },
+  {
+    "var": "FIRE_M2_rumor12_name",
+    "field": "map_rumor12_name",
+    "en": "Faerie Dragons",
+    "ua": "Faerie Dragons"
+  },
+  {
+    "var": "FIRE_M2_rumor12_desc",
+    "field": "map_rumor12_desc",
+    "en": "If a Faerie Dragon pees you on you will turn purple.",
+    "ua": "Якщо тебе помітить чарівний дракон, сам станеш фіолетового кольору."
+  },
+  {
+    "var": "FIRE_M2_rumor13_name",
+    "field": "map_rumor13_name",
+    "en": "Christian",
+    "ua": "Christian"
+  },
+  {
+    "var": "FIRE_M2_rumor13_desc",
+    "field": "map_rumor13_desc",
+    "en": "Only an Enrothian would aspire to be a Fragrance Alchemist.",
+    "ua": "Тільки жителю Енрота може збрести в голову стати алхіміком-парфумером!"
+  },
+  {
+    "var": "FIRE_M2_obj0_town_name",
+    "field": "map_obj0_town_name",
+    "en": "Scarlum",
+    "ua": "Скарлум"
+  },
+  {
+    "var": "FIRE_M2_obj0_event_name",
+    "field": "map_obj0_event_name",
+    "en": "Troops!",
+    "ua": "Troops!"
+  },
+  {
+    "var": "FIRE_M2_obj0_event_mesg",
+    "field": "map_obj0_event_mesg",
+    "en": "Ready for action Sir!",
+    "ua": "Чекаємо ваших наказів!"
+  },
+  {
+    "var": "FIRE_M2_obj0_event_name",
+    "field": "map_obj0_event_name",
+    "en": "More Troops",
+    "ua": "Troops!"
+  },
+  {
+    "var": "FIRE_M2_obj0_event_mesg",
+    "field": "map_obj0_event_mesg",
+    "en": "More troops have begun to arrive from the border, at first a trickle and now some more.  With any luck, more will be arriving soon.",
+    "ua": "Чекаємо ваших наказів!"
+  },
+  {
+    "var": "FIRE_M2_obj0_event_name",
+    "field": "map_obj0_event_name",
+    "en": "Troops",
+    "ua": "Troops!"
+  },
+  {
+    "var": "FIRE_M2_obj0_event_mesg",
+    "field": "map_obj0_event_mesg",
+    "en": "This will be the last of the reinforcements.  ",
+    "ua": "Чекаємо ваших наказів!"
+  },
+  {
+    "var": "FIRE_M2_obj2_event_name",
+    "field": "map_obj2_event_name",
+    "en": "Creatures!",
+    "ua": "Creatures!"
+  },
+  {
+    "var": "FIRE_M2_obj5_event_name",
+    "field": "map_obj5_event_name",
+    "en": "Creatures!",
+    "ua": "Creatures!"
+  },
+  {
+    "var": "FIRE_M2_obj1410_quest_proposal",
+    "field": "map_obj1410_quest_proposal",
+    "en": "You come across a camp of Gnoll Mauraders with mining equipment.  Upon seeing such a powerful hero they jump up and rush towards you.  One Gnoll pushes foward and asks, \"Can you get rid of the Water Elementals who have taken over our mine?  If you do we will join your ranks.\" ",
+    "ua": "Ви наближаєтесь до табору гнолів-мародерів, озброєні кирками. Побачивши доблесних воїнів, вони піднімаються на ноги і стрімголов біжать до вас. Один гнол проштовхується вперед і каже: \"Прошу вас, проженіть водних елементалів, які оселилися в нашій шахті. Ми з радістю приєднаємось до вашого війська\"."
+  },
+  {
+    "var": "FIRE_M2_obj1412_monster_mesg",
+    "field": "map_obj1412_monster_mesg",
+    "en": "Help!  Please help us!  Some Death Knight came through here a few weeks ago, burning the swamp to the ground.  Fortunately swampland grows quickly, but he is still moving through Tatalia burning the land.  We will join you in order to destroy this force of evil.",
+    "ua": "«Допоможіть! Заклинаю вас, допоможіть! Декілька тижнів назад пройшла група лицарів Смерті. Вони спалювали все на своєму шляху. На щастя, болота швидко затягує рани; але лицарі без зупину просуваються по Таталії, випалюючи ліса до тла. Ми з радістю до вас приєднаємось. Разом ми швидше переможемо ворога.»"
+  },
+  {
+    "var": "FIRE_M2_obj1413_monster_mesg",
+    "field": "map_obj1413_monster_mesg",
+    "en": "\"Halt!  Only those who are loyal to Tatalia may pass.\"  One Lizardman comes forward and realizes you are flying the Tatalian Banner, and you are a great hero.  \"Excellent!  Help has finally come.  We will join in the fight to get rid of the undead plaguing our lands.\"",
+    "ua": "\"Ані руш! Ворогам Таталії тут не пройти. - Тут ящір помічає над головою грізної групи прапор Таталії. - Нарешті прийшло спасіння! Ми приєднаємось до вас і допоможемо позбавити Таталію від нежиті\"."
+  },
+  {
+    "var": "FIRE_M2_obj1508_monster_mesg",
+    "field": "map_obj1508_monster_mesg",
+    "en": "This group of dragons once had great treasuries, of the likes which none had ever witnessed.  Now they are mere ghosts of their former selves guarding nothing more than a pathetic mine.  You almost feel pity for these poor souls, trapped in a greedy, faded reminder of their former glory.",
+    "ua": "Ще недавно дракони були хранителями несказанних скарбів. Тепер вони - лише примари бувалої величі, які стережуть звичайну шахту. Вам їх майже шкода: жадні тварюки, жертви минулого, тіні особистої слави."
+  },
+  {
+    "var": "FIRE_M2_obj2039_quest_proposal",
+    "field": "map_obj2039_quest_proposal",
+    "en": "Prove to me you are worthy of learning a powerful spell.  Return with the Crest of Valor and I will teach you Counterstrike.",
+    "ua": "Доведіть, що ви гідні дізнатися могутнє заклинання. Принесіть мені Хрест відваги, і я навчу вас, як направляти \"Удар\"."
+  },
+  {
+    "var": "FIRE_M2_obj2042_quest_proposal",
+    "field": "map_obj2042_quest_proposal",
+    "en": "An evil wizard does not want me to teach others the mysteries of the Arcane arts.  To that end he drove me out and placed guardians at the entrance to my valley.  Please destroy these Golems and I will give you a Crest for your Valor.",
+    "ua": "Злий чаклун не бажає, аби я навчав людей древнім таїнствам. Він вигнав мене з долини і перекрив шлях своїми вартовими. Знищ големів, і я дам вам Хрест Відваги."
+  },
+  {
+    "var": "FIRE_M2_obj2046_guardian_mesg",
+    "field": "map_obj2046_guardian_mesg",
+    "en": "The teacher sees you and says, \"Ahh thank you for allowing me to return to my school.  Come in and we will teach you how to improve upon what you already know.",
+    "ua": "Вчитель вигукує: \"Дякую вам за те, що допомогли мені повернутися до роботи. Заходьте, я допоможу вам поглибити ваші знання!\""
+  },
+  {
+    "var": "FIRE_M2_obj2047_quest_proposal",
+    "field": "map_obj2047_quest_proposal",
+    "en": "I knew you would be coming here soon, Adrienne.  I will teach you what you want to know - powerful fire magic.  But first, prove to me your capabilities are what they say.  To the north a Throng of Fire Elementals have been terrorizing the locals.  Defeat this menance and return to me.",
+    "ua": "\"Адріана? Я знав, що ти прийдеш. Я навчу тебе тому, чого ти так бажаєш - керування із магією вогню. Але спочатку доведи, що ти і справді така завзята учениця, як кажуть. На півночі звідси стоїть група вогняних елементалів. Розберися із ними і вертайся сюди\". "
+  },
+  {
+    "var": "FIRE_M2_obj2075_quest_proposal",
+    "field": "map_obj2075_quest_proposal",
+    "en": "So the Great Fire Witch has come to my doorstep.  This works well for me.  I must go visit my family farther west, but want to see danger before it sees me.  So I need the Speculum, give it to me and I will teach you a little something to aid your travels.",
+    "ua": "От воно що! Велика Вогняна Відьма. Славно, славно. Я давно хотів провідати рідних далеко на заході, але в подорожі може трапитись багато халеп. Хотів би знати про них завчасно. Принеси-на мені Телескоп, і я дечому навчу тебе."
+  },
+  {
+    "var": "FIRE_M2_obj2076_quest_proposal",
+    "field": "map_obj2076_quest_proposal",
+    "en": "You enter the Seer's Hut and the Seer grins in anticipation.  \"Seems I need something you can get and you need something I have.  I'll give you the Speculum if you give me 50 Crystal.  Don't ask me why you impudent little twerp!  Just do it!\"",
+    "ua": "Провидець незадоволено жмуриться: \"Тобі явно потрібна моя допомога - ну, а мені твоя. Я дам тобі твій Телескоп, якщо ти добудеш мені 50 кристалів. И не питай навіщо, маленька нахаба! Ну ж!\" "
+  },
+  {
+    "var": "FIRE_M2_obj2090_quest_proposal",
+    "field": "map_obj2090_quest_proposal",
+    "en": "It is time our people come to terms with the Water Elementals who heavily inhabit our lands.  Prove to me you have made peace with these creatures.  Bring back thirty of their kind and I will teach you the Town Portal Spell.",
+    "ua": "Пора нам подружиться з водними елементалами. Скільки можна сусідам ворогувати? Створи з ними мир. Як доказ приведи-но мені... ее... 30 елементалів, і я навчу тебе, як викликати закляття \"Портал міста\"."
+  },
+  {
+    "var": "FIRE_M2_obj2093_guardian_mesg",
+    "field": "map_obj2093_guardian_mesg",
+    "en": "Here you see where some of the citizens of Tatalia went below to escape the undead who have invaded their homeland.  Unfortunately it looks as if they were followed.",
+    "ua": "Тут пройшли таталійські біженці, що заховались від нежиті в підземних тунелях. Схоже, ворог йшов за ними по п'ятах..."
+  },
+  {
+    "var": "FIRE_M2_obj2102_guardian_mesg",
+    "field": "map_obj2102_guardian_mesg",
+    "en": "Here is where many of the Tatalians fled below ground.  Now you must free them because the undead blindly followed.  Your troops steel themselves as you enter into a dark, swampy underworld.  No telling what resides down there.",
+    "ua": "Цим шляхом пішли під землю сотні таталійських біженців. Нежить сліпо йшла за ними слідом. Треба звільнити нещасних. Ваші воїни згнітивши серце спускаються в темні заболочені тунелі. Хто знає, що чекає попереду?"
+  },
+  {
+    "var": "FIRE_M2_obj2107_guardian_mesg",
+    "field": "map_obj2107_guardian_mesg",
+    "en": "Here is where many of the Tatalians fled below ground.  Now you must free them because the undead blindly followed.",
+    "ua": "Тут пройшли таталійські біженці, приховані від нежиті в підземних тунелях. Схоже, ворог йшов за ними по п'ятах... Треба швидше звільнити нещасних."
+  },
+  {
+    "var": "FIRE_M2_obj2213_monster_mesg",
+    "field": "map_obj2213_monster_mesg",
+    "en": "Have you freed Greenville to the East of here?  It is being guarded by an Undead Outpost, but the residents are more than willing to join any who free them.  We will show you the way if you need us to.",
+    "ua": "Ви ще не звільнили Гринвіль? Він розташований на сході звідси. Його охороняють загони нежиті, але жителі будуть більш ніж раді приєднатися до своїх рятівників. Якщо треба, ми вкажемо дорогу."
+  },
+  {
+    "var": "FIRE_M2_obj2501_guardian_mesg",
+    "field": "map_obj2501_guardian_mesg",
+    "en": "Discovering quite a bit of gold here the men are happy to go about collecting their pay from the ground.  The first few to die are not even aware they had been watched.  Undead are not the only dangers within the deep wilds of the swamps.",
+    "ua": "По землі розкидані золоті монети. Солдати з радісними вигуками приймаються підбирати здобич. Перші гинуть, не встигнувши навіть усвідомити небезпеку. В диких болотах варто остерігатися не тільки нежиті."
+  },
+  {
+    "var": "FIRE_M2_obj3202_guardian_mesg",
+    "field": "map_obj3202_guardian_mesg",
+    "en": "You see some Tatalians clutching onto driftwood.  Hauling them aboard they say, \"Thank you for setting us free!  Our ship crashed some time ago and it seems that no one has been able to rescue us.  We are extremely grateful and will be happy to join your ranks.\"",
+    "ua": "Кілька таталійців борсаються у хвилях, чіпляючись за уламки дощок. Ви витягуєте їх з води. Вони розсипаються в подяках: \"Дякуємо вам. Наш корабель розбився об скелі, і нікому було прийти до нас на допомогу. Дозвольте віддячити  вам вірною службою!\""
+  },
+  {
+    "var": "FIRE_M2_obj3218_guardian_mesg",
+    "field": "map_obj3218_guardian_mesg",
+    "en": "These battlements usually hold the Tatalian military.  Now, they hold the stench of death and decay.  Even though the last few months have been spent slogging through trenches of undead, nothing can ever prepare you for the sight of rotted flesh staring at its dinner.",
+    "ua": "У таких казармах квартирували таталійські воїни. Тепер у них витає лише дух смерті і запустіння. Довгі місяці ви пробивається крізь купи мертвих тіл, але так і не змогли звикнути до погляду гниючих очниць мерців, що передчували обід."
+  },
+  {
+    "var": "FIRE_M2_obj3223_guardian_mesg",
+    "field": "map_obj3223_guardian_mesg",
+    "en": "This used to be the entrance to one of the largest cities in the area.  It boasted all of the comforts of civilization and drew in hundreds of people to live and work here.  Now it is a disconnected collection of buildings, losing the battle against the undead.",
+    "ua": "Колись тут розташовувалися ворота, що ведуть до одного з найбільших міст Таталії. Оплот цивілізації приваблював сотні людей і всім давав житло і роботу. Тепер тут одні руїни. Місто упало під натиском нежиті."
+  },
+  {
+    "var": "FIRE_M2_obj3225_guardian_mesg",
+    "field": "map_obj3225_guardian_mesg",
+    "en": "Once, not too long in the past this was a pretty little town where a traveler could rest their head at the Tavern.  Now there isn't much left.  The few citizens who have stayed here are being slaughtered as they emerge from their dwellings, in order to enlarge the horrid army rotting in their town.",
+    "ua": "Не так давно на цьому місці стояло маленьке симпатичне містечко. Втомлений подорожній завжди знаходив притулок у місцевій таверні. Тепер не залишилося нічого. Ті, хто не встиг втекти, були схоплені і звернені в нежить, щоб поповнити армію гниючих тіл."
+  },
+  {
+    "var": "FIRE_M2_obj3226_guardian_mesg",
+    "field": "map_obj3226_guardian_mesg",
+    "en": "Upon approaching the half destroyed town of Basdar, mutterings can be heard within the troop ranks.  Worried about their homes and families they begin to wonder if they will ever return, and if there will be anything to return to.  Such talk causes the men's morale to falter.  Something must be done soon.  Good news needs to arrive, for if it does not you will surely lose the war.",
+    "ua": "Попереду руїни Басдару. Воїни починають перешіптуватися. Вони бояться за свої будинки та сім'ї. Чи судилося їм повернутися? Та чи буде, куди повертатися? Бойовий дух солдатів неухильно падає. Треба щось робити. Терміново необхідні добрі вісті, інакше війну можна вважати програною."
+  },
+  {
+    "var": "FIRE_M2_obj3228_guardian_mesg",
+    "field": "map_obj3228_guardian_mesg",
+    "en": "This small fishing village has been destroyed.  Only a few of the dwellings still exist and are scattered about.  Undead have stopped all production within the town and are laying waste to the land.  People are huddled into corners, fearing the worst.  Time to liberate the Tatalians.",
+    "ua": "Маленьке рибальське село повністю розорене. Залишилося лише кілька самотніх хатин. Мерці зупинили всю діяльність міста і гублять природу в окрузі. Люди поховалися і бояться вилізти назовні. Пора принести їм звільнення."
+  },
+  {
+    "var": "FIRE_M2_obj3233_guardian_mesg",
+    "field": "map_obj3233_guardian_mesg",
+    "en": "In order to utilize the Tatalian resources you must first seek the blessing of an elder.  Once you have visited his tent he will send word and you can gain access to the great riches held safe behind this gate.  What is contained here will most certainly pay for many troops in the upcoming battles.",
+    "ua": "Щоб забрати багатства Таталії, необхідно одержати благословіння місцевого старійшини. Коли ви відвідаєте його намет, він пустить звістку про вас по всій землі - і тоді ви зможете заволодіти незліченними скарбами, що лежать за цими воротами. Цих грошей вистачить на те, щоб найняти цілу армію."
+  },
+  {
+    "var": "FIRE_M2_obj3252_guardian_mesg",
+    "field": "map_obj3252_guardian_mesg",
+    "en": "This area is quiet and peaceful, the undead invasion not quite so prevalent.  Even so, nervous glances are cast at every rustle within the forests.  As the men move forward to collect gold, just as many keep an eye out for an attack that never comes.  For once there may be relief from the tension.",
+    "ua": "Мирний, тихий куточок. Тут зовсім не відчувається присутність нежиті. І все одно - будь-який шурхіт примушує вас здригнутися. Солдати приймаються наповнювати мішки золотом; їх товариші стежать, чи не вдарить біда. Але цього разу небезпека минула. Хоч якесь полегшення."
+  },
+  {
+    "var": "FIRE_M2_obj3255_guardian_mesg",
+    "field": "map_obj3255_guardian_mesg",
+    "en": "As your men stumble along, exhausted from the lengthy battles, you rejoice as you about to liberate another Tatalian town.  Before your men can take one more step they are fired at - Ambush!  Quickly the lines are formed up and you face the enemy head on.",
+    "ua": "Воїни повільно бредуть вперед. Довгі місяці боїв відібрали у них всі сили. Попереду ще одне місто, яке треба звільнити. І тут у землю біля ваших ніг встромляється стріла. Засідка! Солдати вихоплюють клинки і готуються зустріти ворога лицем до лиця."
+  },
+  {
+    "var": "FIRE_M2_obj3256_guardian_mesg",
+    "field": "map_obj3256_guardian_mesg",
+    "en": "The winds are blowing southerly today, bringing with them the stench of decaying bodies and rotting abominations.  They can be seen patrolling what once was a Tatalian Garrison.  Now it oozes with the slime and excrement of undead and a faint wail can be heard as you move closer.",
+    "ua": "Південний вітер доносить запах гниючої плоті. Мерці патрулюють те, що залишилося від таталійського гарнізону. Стіни покриті слизом і екскрементами мерців; здалеку доноситься ледь чутний плач."
+  },
+  {
+    "var": "FIRE_M2_obj3257_guardian_mesg",
+    "field": "map_obj3257_guardian_mesg",
+    "en": "A child's broken doll lies in the path.  Stopping to pick it up, one of the men stares blankly at the doll before breaking down.  He clutches the tattered toy to his chest, weeping for the lost children  of this war.  Along with all others he has seen and killed his fair share of the undead children who listlessly shuffle forward in battles.  The horror of slaying a walking corpse, which used to be a child wears on the most steeled and cold of soldiers.",
+    "ua": "Посеред дороги лежить зламана лялька. Один із солдатів піднімає її і притискає до грудей. Його очі наповнюються сльозами. Він оплакує дітей, загиблих у цій війні, гірше того - дітей, яких він вбивав, дітей, звернених у живих мерців. Скільки їх гине в кожній битві! А вбивство дитини, хай вона й стала нежиттю, може зламати найзагартованіше серце."
+  },
+  {
+    "var": "FIRE_M2_obj3259_guardian_mesg",
+    "field": "map_obj3259_guardian_mesg",
+    "en": "Playing quietly by the fountain are some ragged looking children.  Their gay laughter warms the heart.  Long, red welts and scars can be seen in between the tattered rags of their clothing.  Despite the possibility of death these children seem happy.  Ordering the orphans to be fed and properly tended to, a boy of near twelve approaches.  \"Thank you for your care.  Take this Badge, it gave us courage, but I am sure you will need it more in the future.\"",
+    "ua": "Біля фонтану тихо граються маленькі обідранці. Веселий сміх зігріває серце. Крізь діри одягу видно сліди побоїв і шрами на худеньких спинах. Навколо бродить смерть, але діти не падають духом. Ви наказуєте нагодувати дітей і подбати про них. Хлопчик років дванадцяти простягає вам Знак Мужності і вимовляє: \"Спасибі вам за турботу. Візьміть цей значок. Він давав нам мужності, але вам вона знадобиться набагато більше\"."
+  },
+  {
+    "var": "FIRE_M2_obj3260_guardian_mesg",
+    "field": "map_obj3260_guardian_mesg",
+    "en": "With relief your troops push forward to Scarlum.  This town has a reputation for being tough and ready for anything.  You know the undead here will not have had an easy time of bullying or keeping the locals in tow.  From this town some of the toughest Beastmasters have been born and raised.  Heroes of the Restoration War have called Scarlum home.  The citizens of Scarlum may not have much, but they are proud of what they accomplish and do not cherish the frills of life, but cherish sturdy hearts and bodies.  Citizens of Scarlum will be a welcome addition to your ranks.",
+    "ua": "Війська підступають до Скарлуму. Нарешті. Кажуть, це місто було добре захищене і готове до будь-яких несподіванок. Мерцям не так просто підпорядкувати собі його жителів. Звідси родом кращі зі звіроловів. Тут будинок великих героїв Воєн за Відродження. Жителі Скарлума небагаті, але пишаються тим, що мають. І понад усе для них не посмішка долі, але міцне серце і сильне тіло. Вони будуть відмінними воїнами."
+  },
+  {
+    "var": "FIRE_M2_obj3262_guardian_mesg",
+    "field": "map_obj3262_guardian_mesg",
+    "en": "Approaching the school you are glad it's doors never had to close.  Here you can sharpen a skill and become better at fending off undead menace.  Somehow, the mindless rotting creatures missed this place, sparing its teachers the horrors of being raised into the enemies' army.",
+    "ua": "Проходячи повз школу, ви з радістю помічаєте, що її двері досі відкриті. Тут навчають новим прийомам боротьби проти нежиті. Якимось дивом безмозкі мерці обійшли цей куточок стороною, і вчителів минула жахлива доля."
+  },
+  {
+    "var": "FIRE_M2_obj3265_guardian_mesg",
+    "field": "map_obj3265_guardian_mesg",
+    "en": "Peeking at the serene waters of a Great Lake you wish for days of ease and peace.  Turning to go back down the path a young child with the wisdom of the ages approaches you.  \"For those who enter my sheltered cove and have a pure heart I offer many rewards.\"  The child vanishes, but leaves a reward.",
+    "ua": "Дивлячись в тихі води Великого Озера, ви мрієте про часи, коли настане мир і злагода. На стежку виходить дитя з очима навченого старця. \"Ті, хто знаходять мій притулок і зберігають чистоту серця, не йдуть від мене без нагороди\". Дитя зникає; перед вами залишається його подарунок."
+  },
+  {
+    "var": "FIRE_M2_obj3267_guardian_mesg",
+    "field": "map_obj3267_guardian_mesg",
+    "en": "In this ravine the stench of undead is gone.  All traces of unnatural horrors are wiped away, as if they have never been here.  Who knows, maybe they missed this area by accident.  If so, it is a boon to all living creatures here.  Fear of attack washes away, floating downstream like yesterday's garbage.  Breathing a sigh of relief you continue to carefully pick your way along the river.  For once, it is calm",
+    "ua": "Над цією ущелиною не витає дух смерті. Ні сліду недавніх жахів, ніби їх ніколи й не було. Можливо, біда обійшла це місце стороною. Якщо так, мешканцям ущелини посміхнулася невимовна удача. Страх перед нападом випаровується, ніби пил вчорашніх доріг. Ви полегшено зітхаєте і продовжуєте шлях вздовж річки. На сьогодні небезпека минула."
+  },
+  {
+    "var": "FIRE_M2_obj3268_guardian_mesg",
+    "field": "map_obj3268_guardian_mesg",
+    "en": "Huddled in the underbrush are hundreds of frightened Gnolls.  Not until the horrid creatures were crushed would they dare come out.  Seeing the menace gone they greet you joyfully and show the supplies they have been able to hide for some time.  Immediately they are brought into your ranks.",
+    "ua": "У підліску ховаються сотні до смерті наляканих гнолів. Вони відмовляються вилазити, поки нечисть, що налякала їх, не буде вбита. Ледве останній мрець падає на землю, вони вибігають вам назустріч і присягаються служити вам вірою і правдою. І відразу ж віддають вам всі припаси, які їм вдалося зберегти."
+  },
+  {
+    "var": "FIRE_M2_obj3309_monster_mesg",
+    "field": "map_obj3309_monster_mesg",
+    "en": "Help!  Please help us!  Some Death Knight came through here a few weeks ago, burning the swamp to the ground.  Fortunately swampland regrows quickly, but he is still moving through Tatalia burning the land.  We will join you in order to destroy this force of evil.",
+    "ua": "Допоможіть! Заклинаю вас, допоможіть! Декілька тижнів назад пройшла група лицарів Смерті. Вони спалювали все на своєму шляху. На щастя, болота швидко затягує рани; але лицарі без зупину просуваються по Таталії, випалюючи ліса до тла. Ми з радістю до вас приєднаємось. Разом ми швидше переможемо ворога."
+  },
+  {
+    "var": "FIRE_M2_obj3310_monster_mesg",
+    "field": "map_obj3310_monster_mesg",
+    "en": "\"Halt!  Only those who are loyal to Tatalia may pass.\"  One Lizardman comes forward and realizes you are flying the Tatalian Banner, and you are a great hero.  \"Excellent!  Help has finally come.  We will join in the fight to get rid of the undead plaguing our lands.\"",
+    "ua": "Ані руш! Ворогам Таталії тут не пройти. - Тут ящір зауважує над головою грізного загону прапор Таталії. - Нарешті прибув порятунок! Ми примкнемо до вас і допоможемо позбавити Таталію від нечисті\"."
+  },
+  {
+    "var": "FIRE_M2_obj3388_guardian_mesg",
+    "field": "map_obj3388_guardian_mesg",
+    "en": "A peasant comes forward and says, \"Beware the one way monoliths.  The Necromancers use them to quickly arrive here and quell uprising.  If you are not wary they will attack you when you least expect it.",
+    "ua": "До вас наближається селянин. \"Бійтеся односторонніх порталів. Некроманти з'являються, коли їх чекаєш найменше. Вони не допускають бунтів і готові придушити найменший опір. Будьте насторожі\"."
+  },
+  {
+    "var": "FIRE_M2_obj4739_guardian_mesg",
+    "field": "map_obj4739_guardian_mesg",
+    "en": "Following the river you come to an area where it has worn down the bedrock and created another place where plant life can flourish.  Down here the stench is immense, as no winds can wash away the constant smell of rotting corpses.  Here you must find and liberate the trapped Tatalians.",
+    "ua": "По берегу річки ви виходите до місця, де русло майже пересохло. Там буяють пишні зарості. Дух смерті тут витає нестерпний; береги загороджують низину від вітрів. Тут ви маєте знайти і врятувати нещасних таталійців."
+  },
+  {
+    "var": "FIRE_M2_obj4741_guardian_mesg",
+    "field": "map_obj4741_guardian_mesg",
+    "en": "Down here the Hydras had fled, temporarily escaping the hordes of undead.  Now the most powerful of beasts, the Dragons, wait at their door and slaughter the new Hydras emerging from the dwellings.  It is a battle they can only lose, unless someone helps them quickly.",
+    "ua": "Тут, під землею, знайшли тимчасовий порятунок гідри. Але тепер дракони, найнебезпечніші створіння некромантов, вартують вихід з їх лігва і знищують молодих гідр, варто їм висунутися назовні. Без допомоги ззовні гідри скоро загинуть."
+  },
+  {
+    "var": "FIRE_M2_obj4744_guardian_mesg",
+    "field": "map_obj4744_guardian_mesg",
+    "en": "It seems the undead are indiscriminate as to who they slaughter to fill their ranks.  The Elementals of Water have found themselves victim of the same tactics Tatalia is suffering.  If you can obliterate the undead invading their homes it is most likely these Water Elementals will join your cause.",
+    "ua": "Як видно, нежить вбиває без розбору. Їх вабить одна мета - поповнити свої ряди. Від цього страждають не тільки таталійці, але і їхні сусіди - водні елементалі. Якщо ви позбудетеся від мерців, що руйнують їхні будинки, елементали з радістю до вас приєднаються."
+  },
+  {
+    "var": "FIRE_M2_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "History",
+    "ua": "History"
+  },
+  {
+    "var": "FIRE_M2_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "Freeing the Erathian-Tatalian border from the grasp of undead you push further into Tatalia, fearing what you see.  This Death Knight has a good lead on you and your troops.  And he has not squandered that lead.  Smoldering ruins were here not too long ago.  Now the land is recuperating, but it will be a while before the lush swamps heal the land.  For the time being plants and trees are starting to quickly grow back in certain areas, but others are still a little bare.  The First Lieutenant asks why you are smiling to yourself.  \"It is difficult to burn these swamps, there is much water to extinguish the fires.  These fires burned large sections of the forests and mountains, but the land is healing faster than they might have expected.  Only outsiders do not understand how quickly our swamplands recover.\"  Your smile turns to a grimace at the sight of decaying bodies.",
+    "ua": "Очистивши кордон Ерафії й Таталії від нежиті, ви рухаєтеся вглиб країни. Побачене лякає. Лицарю Смерті добре відомо, хто ви і звідки. І він не витрачає час даремно. Ще недавно тут диміли руїни. Країна повільно приходить до тями, але пройдуть ще роки, перш ніж волога боліт залікує всі рани. Трави і дерева починають загоювати пустки, але подекуди, як і раніше, одна випалена земля. Ваш ад'ютант дивується - чому посміхається пані? \"Не так-то просто випалити болота. Вода поглине вогонь. Пожежі знищили ліси і гірські схили, але земля заліковує рани швидше, ніж припускає ворог. Чужинець зрозумів, як швидко набирають силу болота\". Посмішка на вашому обличчі змінюється гримасою відрази, коли ви звертаєте свій погляд на гниючі трупи."
+  },
+  {
+    "var": "FIRE_M2_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Purpose",
+    "ua": "Purpose"
+  },
+  {
+    "var": "FIRE_M2_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "You begin to look around, searching for a place to set up home base.  Reports tell of such a town to the east, but the path is blocked by undead.  Scouts are sent out to look for the enemy and discover their strengths.  The rest of your forces are to spread out, find the town and wipe out the undead.",
+    "ua": "Ви починаєте шукати відповідне місце для табору. Розвідники говорять про місто на сході, але нежить перегороджує шлях. Розвідці наказано виявити ворогів і встановити їх чисельність. Решті військам доведеться розсіятися по місцевості, знайти місто й позбавити його від мерців."
+  },
+  {
+    "var": "FIRE_M2_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Reports",
+    "ua": "Reports"
+  },
+  {
+    "var": "FIRE_M2_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "Scouts are beginning to return and the news is not good.  The first to return did not get far before running into groups of the undead.  It seems the Death Knight had an ingenious thought.  His troops were left to guard the dwellings of all citizens of Tatalia.  When the new recruits, ready to fight for Tatalia emerged each week, the undead were to attack.  Powerful magicks were placed so if a group of undead simply stayed in the area, their numbers would cause the fallen Tatalians to rise from the dead and join the ranks of the enemy.  With this tactic the Death Knight's armies will swell each week, and soon be unstoppable.  The next few scouts reported this tactic as being used in a widespread manner.  The undead must be cleared from the land and the Tatalians freed from their bony grasp. ",
+    "ua": "Починають повертатися розвідники. Їх новини невтішні. Не встиг перший розвідник відійти від табору, як шлях йому перегородив загін нежиті. Схоже, наш Лицар Смерті не такий вже й простий. Він залишив частину військ стерегти житла мешканців Таталії. І як тільки в будинках і лігвах з'являється приріст, мерці кидаються на них і вбивають. Лицар наклав на своїх воїнів жахливе закляття: полеглі таталійці самі звертаються в нежить, якщо поблизу стоїть загін живих мерців. Армія лорда Хаарта зростає з кожним тижнем, незабаром ніщо не зможе їй протистояти. Інші розвідники лише підтверджують перші донесення: всюди твориться одне і те ж. Належить вигнати нежить із країни і вирвати Таталію з кістлявих лап смерті."
+  },
+  {
+    "var": "FIRE_M2_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "Scouts",
+    "ua": "Scouts"
+  },
+  {
+    "var": "FIRE_M2_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "The last few scouts return with more news.  None of it is good.  Fleeing Tatalians went deep underground into the marshy tunnels that run underneath this area.  Undead blindly followed and have continued to do as instructed.  Deep beneath the earth are several dwellings of powerful Tatalian citizens who are being slaughtered and turned into powerful undead.  Wincing at the news, your troubled looks are hard to hide from the men.  Word spreads of great forces of Undead ready to erupt from under their very feet.  It will be some time before the rumors fade away.",
+    "ua": "Зі свіжими новинами повернулися останні розвідники. І знову нічого втішного. Таталійські біженці поховалися глибоко в заболочених тунелях підземного світу. Нежить, виконуючи наказ господаря, сліпо послідувала за ними. Там, під землею, ховаються житла найсильніших воїнів Таталії. Мешканці їх вбиті і звернені в наймогутніших мерців. Ви такі похмурі; це не ховається від солдатів. По табору розносяться чутки про цілі армії нежиті, які ось-ось вирвуться прямо з-під землі. Пройдуть тижні, перш ніж ці чутки вляжуться."
+  },
+  {
+    "var": "FIRE_M2_mapevent4_name",
+    "field": "map_mapevent4_name",
+    "en": "Intelligence",
+    "ua": "Intelligence"
+  },
+  {
+    "var": "FIRE_M2_mapevent4_mesg",
+    "field": "map_mapevent4_mesg",
+    "en": "It may be that the troops of undead are not all that smart, but it seems one of the Death Knights or Liches got a brilliant idea.  Because Tatalians rely so heavily on wood and ore to build their towns and cities more powerful creations would guard them.  Leaving the lowest creations to guard the least needed mines, more powerful ones can be found lurking around the wood and ore mines.  It seems these undead are more wretched than you had imagined.",
+    "ua": "Можливо, рядові мерці і не відрізняються розумом, але в голові якогось Ліча або Лицаря Смерті виник геніальний план. Оскільки для своїх міст таталійцям життєво необхідні деревина і руда, доступ до лісопилок і шахт повинен бути надійно перекритий. Їх охороняють найзлісніші тварини, навколо інших рудників бродить слабша нежить. Схоже, мерці куди підступніші, ніж вам здавалося."
+  },
+  {
+    "var": "FIRE_M2_mapevent5_name",
+    "field": "map_mapevent5_name",
+    "en": "Rumors",
+    "ua": "Rumors"
+  },
+  {
+    "var": "FIRE_M2_mapevent5_mesg",
+    "field": "map_mapevent5_mesg",
+    "en": "Rumors of Basilisks trapped on one of the Great Lakes have reached your ears.  Seems they were trying to escape the hordes and swarms of undead only to be brought down by some Water Elemental who did not appreciate the invasion into their territory.  With any luck some could still be alive.",
+    "ua": "До ваших вух дійшли невиразні чутки про василісків, яких нежить загнала до одного з Великих Озер. Звірі бігли від страшної долі - тільки щоб потрапити у пастку до водних елементалів, які не шанують чужинців. Можливо, кілька гадюк все ще живі..."
+  },
+  {
+    "var": "FIRE_M2_mapevent6_name",
+    "field": "map_mapevent6_name",
+    "en": "Trouble",
+    "ua": "Trouble"
+  },
+  {
+    "var": "FIRE_M2_mapevent6_mesg",
+    "field": "map_mapevent6_mesg",
+    "en": "\"My lady, there is trouble.  An outside Witch has come to the area in order to aid us.  She was pleased to find some were already working hard to rid Tatalia of this plague, until she found out about you, Adrienne.  Your use of Fire Magic has caused her to leave, going to the Leaders in order to report of your transgression.  Her fear may very well cause our efforts to be for naught.\"  The advisor's face is solemn.  He has been a good advisor, honest and forthright.  You are waiting for the bad news.  \"If she does make it to the Leaders it will be several weeks from now. Then she must wait in order to present her case to the Leaders.  With the advent of the Festival of Life in Krewlod our leaders wait to see who will be the new king, if there is indeed one.  Until Krewlod's new leader is assessed our leaders will want to keep heavy forces on their border.\"  He pauses, and continues, \"But once all of that has been determined the Leaders will be able to turn their attention to you.  If we fail they will blame you, even if none of this is your fault.  Because of your use of Fire Magic Tatalians will shun you unless their lives are in jeopardy.\"  He spat on the ground, disgusted at his own people's view of Fire Magic.  Only with such knowledge have you been able to rid the border of those undead, and now free the citizens.  People have such short memories.  \"We should be well clear of this area by then, and hopefully hot on the trail of the real menace.\"  \"I agree, my friend.  My choice in power is my burden to bear.  It is not one you have to bear as well.\"  You say to him, knowing his answer.  \"That is rubbish and you know it.\"  He replies.  \"Now we should get back to the matter at hand - destroying these abominations.\"  You nod in agreement.",
+    "ua": "\"Пані, наглянула біда. Поки ви були у від'їзді, в табір приходила відьма. Спочатку вона зраділа, що знайшла союзників у боротьбі за звільнення Таталії... Але потім вона дізналася про вас, Адріана. Почувши, що ви володієте магією вогню, вона сполошилася і втекла геть. Адріана, вона прямує до Старійшин, щоб донести, що ви перейшли на бік вогню. Страх людей перед вогнем здатний звести всю нашу боротьбу нанівець. Особа радника похмура. Він завжди був прямий і чесний з вами. Ви готуєтеся до гіршого - Якщо їй і вдасться дістатися до Старійшин, дорога займе у неї кілька тижнів. Потім їй доведеться чекати аудієнції. Наближається Фестиваль Життя: всі війська зосереджені на кордоні з Крюлодом. Старійшини не знають, хто стане новим королем, і будуть чекати результатів... випробувань - Помовчавши, радник продовжує: - Але як тільки все вирішиться, Старійшини знайдуть час зайнятися вами. Не дай Боже нам зазнати поразки - у всьому будуть звинувачувати тільки вас, навіть якщо вашої провини в тому не буде. Ледве небезпека мине, таталійці будуть бігти від вогненної магії, як раніше - Радник гнівно спльовує на землю. Йому соромно за свій народ. Їх не хвилює, що без вогненної магії вони не перемогли б нежить на кордоні, не зуміли б звільнити людей. У народу коротка пам'ять - До того часу ми вже покинемо ці краї і кинемося по сліду головної загрози\". - \"Ти маєш рацію, друже мій. Але мій вибір - Мій власний хрест. Ти не зобов'язаний допомагати мені нести його\". Ви заздалегідь знаєте відповідь. \"Нісенітниця. Не кажіть дурниць\". - І після мовчання: - Досить слів, пора братися до справи. Треба знищити породження нежиті\". Ви погоджено киваєте."
+  },
+  {
+    "var": "FIRE_M2_mapevent7_name",
+    "field": "map_mapevent7_name",
+    "en": "Lord Haart",
+    "ua": "Lord Haart"
+  },
+  {
+    "var": "FIRE_M2_mapevent7_mesg",
+    "field": "map_mapevent7_mesg",
+    "en": "A scout returns, Lord Haart has definitely moved out of the area, leaving only two of his minions behind in order to keep the area under his sway.  You will have to defeat both of them in order to free all of Tatalia.  There is one far to the north and west, and another not so far and to the east.  The latter will be of greater trouble.",
+    "ua": "Черговий розвідник доповідає: лорд Хаарт покинув землі, залишивши в якості охорони двох своїх наближених. Щоб звільнити Таталію, треба знищити обох. Перший герой засів далеко на північний захід, але другий вже підбирається до вас зі східної сторони. Від нього можна чекати всяких бід."
+  },
+  {
+    "var": "FIRE_M2_mapevent8_name",
+    "field": "map_mapevent8_name",
+    "en": "Information",
+    "ua": "Information"
+  },
+  {
+    "var": "FIRE_M2_mapevent8_mesg",
+    "field": "map_mapevent8_mesg",
+    "en": "In order to see how things are going you send a scout to the Krewlod border.  There they can find out who wins, if anyone does, The Festival of Life.  Once the King has been decided Tatalia will know how to react to the king, and have time to turn attentions elsewhere.  It would be best if you had freed another area before they hear the other Hero's case.",
+    "ua": "Щоб бути в курсі всього, ви спрямовуєте розвідника до крюлодського кордону. Йому належить дізнатися, чи визначився переможець Фестивалю Життя - і хто він. Ледве новий король зійде на трон, Старійшини заспокояться і знайдуть час вирішити вашу долю. Треба встигнути позбавити цей край від нежиті, поки відьма не донесла їм про ваші здібності."
+  },
+  {
+    "var": "FIRE_M2_mapevent9_name",
+    "field": "map_mapevent9_name",
+    "en": "Great Treasure",
+    "ua": "Great Treasure"
+  },
+  {
+    "var": "FIRE_M2_mapevent9_mesg",
+    "field": "map_mapevent9_mesg",
+    "en": "Rumors of great treasure far to the northeast have trickled into camp.  Much needed supplies could be found there, along with other riches beyond the wildest imagination.  You're not so sure about that, you can imagine quite a bit.  Either way it is worth checking into.",
+    "ua": "Табору досягли чутки про те, що в долині на північний схід лежать незчисленні скарби. Там дорогоцінні ресурси, там багатства, яких не можна й уявити. Ну, це навряд чи, але дещо там напевно є. Варто перевірити ці чутки."
+  },
+  {
+    "var": "FIRE_M2_mapevent10_name",
+    "field": "map_mapevent10_name",
+    "en": "Treasure",
+    "ua": "Treasure"
+  },
+  {
+    "var": "FIRE_M2_mapevent10_mesg",
+    "field": "map_mapevent10_mesg",
+    "en": "The rumors have been confirmed.  There is a great treasure far to the north.  Of course you'll have to go through the Necromancers.  Also, there is a catch.  You will need to visit someone named the Key master - as a matter of fact; you'll need to visit two.  Apparently there are two areas of great treasure, but both are heavily guarded.  Only word from the Key master will let you pass.",
+    "ua": "Чутки підтвердилися. В ущелині на північ дійсно лежать купи золота. Правда, шлях туди перепиняють некроманти. І є ще одне \"але\": щоб дістатися до скарбів, необхідно дізнатися пароль у Хранителя ключа. Більше того, виявилося, що ущелин не одна, а цілих дві; їх охороняють дві могутніх армії, і доведеться відвідати двох Хранителів..."
+  },
+  {
+    "var": "FIRE_M2_mapevent11_name",
+    "field": "map_mapevent11_name",
+    "en": "Below",
+    "ua": "Below"
+  },
+  {
+    "var": "FIRE_M2_mapevent11_mesg",
+    "field": "map_mapevent11_mesg",
+    "en": "Below the surface the stacks of undead grow as young creatures leave their homes each week.  Several dwellings of Hydras are there, but the Dragons cannot create more of themselves from the Hydras.  At least that is one bit of good news.",
+    "ua": "Кожного тижня із загрожених жител визирають молоденькі істоти... За мить вони поповнюють ряди нежиті. Під землею живуть і гідри, слава богу, дракони розучилися воскрешати собі подібних з їхніх тіл."
+  },
+  {
+    "var": "FIRE_M2_mapevent12_name",
+    "field": "map_mapevent12_name",
+    "en": "Kilgor",
+    "ua": "Kilgor"
+  },
+  {
+    "var": "FIRE_M2_mapevent12_mesg",
+    "field": "map_mapevent12_mesg",
+    "en": "It has been confirmed.  Kilgor is the new King of Krewlod, having successfully passed the Four Trials.  You know nothing of this young Barbarian, but he must be an excellent warrior.  It does not matter.  Soon the Leaders will have time to turn their attentions toward your activities here.  You will need a distraction.",
+    "ua": "Ось і все. Чотири випробування успішно пройдені. Новим королем Крюлода став Кілґор. Ви про нього ніколи раніше не чули. Напевно він відмінний воїн. Втім, яка різниця? Дуже скоро Старійшини знайдуть час для вас. Добре б їх як-небудь відвернути..."
+  },
+  {
+    "var": "FIRE_M2_mapevent13_name",
+    "field": "map_mapevent13_name",
+    "en": "Birthday",
+    "ua": "Birthday"
+  },
+  {
+    "var": "FIRE_M2_mapevent13_mesg",
+    "field": "map_mapevent13_mesg",
+    "en": "Today is a depressing day for you.  It is your Birthday.  Unlike so many others you cannot celebrate with your family, and not even your countrymen would celebrate an event with you.  Quietly, you go into the forests to be alone and contemplate.  A day of quiet would be nice, but a few hours in the early morning shall have to suffice.",
+    "ua": "Важкий день. Ваш день народження. Не буде гостей, ні рідні, ні одноплемінники не прийдуть вас привітати. Непомітно від всіх ви віддаляєтеся в ліс поміркувати в тиші. Просидіти б так до вечора... Але доводиться задовольнятися короткими ранковими годинами."
+  },
+  {
+    "var": "FIRE_M2_mapevent14_name",
+    "field": "map_mapevent14_name",
+    "en": "Birthday Present",
+    "ua": "Birthday Present"
+  },
+  {
+    "var": "FIRE_M2_mapevent14_mesg",
+    "field": "map_mapevent14_mesg",
+    "en": "\"Excuse me\" One of your lieutenants approaches cautiously, knowing your bad mood the past few days.  \"We understand it was your Birthday a few days ago.  Well we have gotten you a little something.\"  Curious, you accept the rolled up scroll.  This is what it says;\n\nLeaders:\n\n   The situation is dire.  We are overrun with undead.  All of the villages have fallen in the area.  We are few in number, and the enemy is twice as great in number.  It has been confirmed that Lord Haart was raised from the dead and is leading his followers, who are all Liches and Death Knights.  They are burning the swampland until there is nothing left.  Help us or all of Tatalia will burn.\n\nTiva\n\nYou love your Birthday Present.",
+    "ua": "\"Пані - ад'ютант підходить з побоюванням; останні кілька днів у вогненної відьми похмурий настрій - Ми дізналися, що у вас був день народження. Ми приготували вам подарунок\". З цікавістю ви розгортаєте сувій пергаменту.\n\n\"Старійшини:\n\nМи потрапили у важке становище. Нас тіснить нежить. Всі села впали під натиском мерців. Всі наші армії вдвічі менші їх війська. Чутки підтвердилися: лорд Хаарт повстав з мертвих і сам виступає на чолі Лічів і Лицарів Смерті. Вони випалять болота до основи. Допоможіть, або вся Таталія згорить у вогні пожеж\".\n\nТива\n\nЩо за дивний подарунок!"
+  },
+  {
+    "var": "FIRE_M2_mapevent15_name",
+    "field": "map_mapevent15_name",
+    "en": "It worked!",
+    "ua": "It worked!"
+  },
+  {
+    "var": "FIRE_M2_mapevent15_mesg",
+    "field": "map_mapevent15_mesg",
+    "en": "With the delivering of the message the Leaders had no choice but to investigate such a claim.  If Lord Haart were truly on the loose, then it would take precedence over a Witch using fire.  The Leaders have been stalled - at least for now.",
+    "ua": "Лист не залишив Старійшинам вибору. Справа вимагає термінового розслідування. Якщо лорд Хаарт і справді повстав із мертвих, їм буде не до жалюгідної вогненної відьми. Ми виграли час."
+  },
+  {
+    "var": "FIRE_M2_mapevent16_name",
+    "field": "map_mapevent16_name",
+    "en": "Leaders",
+    "ua": "Leaders"
+  },
+  {
+    "var": "FIRE_M2_mapevent16_mesg",
+    "field": "map_mapevent16_mesg",
+    "en": "The leaders have responded:\n\nTiva,\n\n   We have assessed the immediate situation.  It is definitely Lord Haart and his followers who are burning Tatalia, not the Fire Witch.  Henceforth any indiscretion on her part will be assessed at a later date.  We will send aid soon as possible.  Continue with your excellent progress.\n\nLeaders.\n\nYou laugh out loud.  Any other response would have turned ugly.",
+    "ua": "Старійшини надіслали відповідь:\n\n«Тива! -\n\nМи усвідомили всю важливість ситуації. Чутки підтвердилися: Таталія палахкотить у полум'ї пожеж лорда Хаарта, а не Вогняної Відьми. Доведеться відкласти розгляд її справи. Ми негайно висилаємо допомогу. Продовжуй, твої донесення воістину безцінні.\n\nСтарійшини»\n\nВи не можете втриматися від сміху. Все складається найкращим чином."
+  },
+  {
+    "var": "FIRE_M2_mapevent17_name",
+    "field": "map_mapevent17_name",
+    "en": "True to their word",
+    "ua": "True to their word"
+  },
+  {
+    "var": "FIRE_M2_mapevent17_mesg",
+    "field": "map_mapevent17_mesg",
+    "en": "True to their word the Leaders have sent help.  Some troops are now assembling in Scarlum, having returned home from the border.  These will be seasoned, and hardened troops, ready for battle.",
+    "ua": "Старійшини стримали слово і надали допомогу. Війська, які повернулися з кордону, починають стікатися в Скарлум - досвідчені, загартовані в боях солдати, готові кинутися в битву."
+  },
+  {
+    "var": "FIRE_M2_mapevent18_name",
+    "field": "map_mapevent18_name",
+    "en": "Scholars",
+    "ua": "Scholars"
+  },
+  {
+    "var": "FIRE_M2_mapevent18_mesg",
+    "field": "map_mapevent18_mesg",
+    "en": "It has been rumored that Scholars have knowledge of great spells, but are heavily guarded.  Seems these Scholars do not want to be disturbed by the fainthearted.  Only those willing to destroy the Diamond Golems blocking the path will learn of the powerful spell each Scholar has.",
+    "ua": "Кажуть, вчені книжники знають потужні закляття, але боязкому серцем до них не пробитися. Тільки той, хто зуміє перемогти алмазних големів, що перегороджують шлях, зможе дізнатися таємниці книжників."
+  }
+]

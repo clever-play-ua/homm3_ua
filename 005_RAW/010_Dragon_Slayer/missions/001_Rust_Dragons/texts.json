@@ -1,0 +1,176 @@
+[
+  {
+    "var": "SLAYER_M1_prolog",
+    "field": "wrapper_prolog",
+    "en": "Now in search of the mighty Azure  you hear of disturbances to the North.   Burned villages and destroyed mines are causing the region to suffer.   Without the mines in full production the region will not have the resources to defend themselves against Krewlod invasions or eat.  Knowing you are the destined Dragon Slayer, it is time to follow the road north in search of ways to hone your skills.",
+    "ua": "Під час пошуків великого лазурного дракона ви почули про заворушення на півночі. Спалені села і зруйновані шахти говорять про те, що в цей регіон прийшла біда. Без шахт регіон не зможе чинити опір загарбникам Крюлода, не зможе забезпечувати себе продовольством. Якщо ви хочете стати справжнім Убивцею Драконів, вам прийшов час вирушити на північ, щоб там відточити свою майстерність."
+  },
+  {
+    "var": "SLAYER_M1_epilog",
+    "field": "wrapper_epilog",
+    "en": "Rust dragons have taken to feeding from the mines near the town of Ochre.  These uncommon beasts have chased off the peasantry and now their livelihoods are in jeopardy.  As a hero, I should do this for the town's people.  Yet, I do this to hone my skills.  Where rust dragons abound, the Azure may be nearby.",
+    "ua": "У шахти поблизу міста Охри прилітають годуватися іржаві дракони. Ці незвичайні звірі розігнали місцевих селян. Їх життя і ферми в небезпеці. Як справжній герой, я повинен допомогти людям. Але найголовніше, це дозволить мені набратися досвіду. А де іржаві дракони, там можуть виявитися і лазурні."
+  },
+  {
+    "var": "SLAYER_M1_map_name",
+    "field": "map_map_name",
+    "en": "Rust Dragons",
+    "ua": "Іржаві дракони"
+  },
+  {
+    "var": "SLAYER_M1_map_desc",
+    "field": "map_map_desc",
+    "en": "Rust dragons have invaded the area, halting mine production.  Flag all of the mines within six months, but do not lose the Dragon Slayer or your cause will be lost.  Dracon, his skills, spells and Experience up to level 24 will carry over to the next scenario.",
+    "ua": "Іржаві дракони вдерлися сюди і паралізували роботу шахт. Візьміть всі шахти за шість місяців, але не втратьте Убивцю Драконів, інакше ви програли. Герой Дракон обмежений 24 рівнем. Його навички, заклинання і досвід, перейдуть у наступний сценарій."
+  },
+  {
+    "var": "SLAYER_M1_obj421_town_name",
+    "field": "map_obj421_town_name",
+    "en": "Asenius",
+    "ua": "Асеніус"
+  },
+  {
+    "var": "SLAYER_M1_obj1592_sign_mesg",
+    "field": "map_obj1592_sign_mesg",
+    "en": "Castle Asenius------- North\nCastle Talirindл------ East",
+    "ua": "Замок Асеніус------- на північ\nЗамок Таліринд------ на схід"
+  },
+  {
+    "var": "SLAYER_M1_obj1618_guardian_mesg",
+    "field": "map_obj1618_guardian_mesg",
+    "en": "Hidden behind an unused part of the Water Mill is what looks like a very old book. ",
+    "ua": "За заднім фасадом, покинутої частини Водного млина, ви побачили приховану дуже старовинну книгу."
+  },
+  {
+    "var": "SLAYER_M1_obj1749_town_name",
+    "field": "map_obj1749_town_name",
+    "en": "Ochre",
+    "ua": "Вохра"
+  },
+  {
+    "var": "SLAYER_M1_obj2552_sign_mesg",
+    "field": "map_obj2552_sign_mesg",
+    "en": "Crystal Valley",
+    "ua": "Кришталева долина"
+  },
+  {
+    "var": "SLAYER_M1_obj2924_town_name",
+    "field": "map_obj2924_town_name",
+    "en": " Talirindл",
+    "ua": "Таліринд"
+  },
+  {
+    "var": "SLAYER_M1_obj3786_guardian_mesg",
+    "field": "map_obj3786_guardian_mesg",
+    "en": "As you walk towards the entrance you notice it is unusually quiet.  Then just before you enter the cave two dragons appear out of nowhere and block you from pressing on.  Then as you turn to back up a little to give yourself some fighting room you are surrounded from behind.  ",
+    "ua": "Наблизившись до входу, ви звертаєте увагу на неприродну тишу. Як тільки ви збираєтеся увійти всередину, з нізвідки з'являються два дракони, змушуючи вас зупинитися. Поки ви відступаєте, звільняючи собі простір для маневру, вас оточують і ззаду."
+  },
+  {
+    "var": "SLAYER_M1_obj3810_monster_mesg",
+    "field": "map_obj3810_monster_mesg",
+    "en": "It took you all day to get to the sawmill.  Then again, the people in the nearby village said it would. The sun was just setting below the horizon when you spotted the dragons that put all the people in the nearby village out of work. After taking a hefty breath you set out to kill the dragons.  ",
+    "ua": "Ви потратили цілий день, аби дістатися до лісопилки. З іншої сторони, селяни з поселення поблизу так і сказали. Сонце як раз сідало за горизонт, коли ви вистежили драконів, які позбули роботи все поселення. Лишень відпочивши, ви починаєте винищувати драконів. "
+  },
+  {
+    "var": "SLAYER_M1_obj3829_monster_mesg",
+    "field": "map_obj3829_monster_mesg",
+    "en": "As you enter the crystal mine you hear death filled screams that would make any other man go mad.  You head towards a faint light that looks to be deep within the cave.   As you approach the light you see a dragons holding a man, who turns his head toward you and in a faint whisper says \"Help us\". ",
+    "ua": "Зайшовши до шахти, ви чуєте голоси сповнені смертельного жаху, які змели будь-кого з розуму, окрім вас. Ви йдете на слабке світло, що, скоріш за все, йде десь з глибини печери.  Наблизившись до джерела, ви бачите драконів, які схопили чоловіка. З його вуст ледь-ледь чути шепіт \"Врятуй нас\". "
+  },
+  {
+    "var": "SLAYER_M1_obj3836_monster_mesg",
+    "field": "map_obj3836_monster_mesg",
+    "en": "On your travels you come across a very old man lying on the ground.  With a bandage over his head and a sling around his neck, he looks to be unconscious if not dead.  Closing your eyes and shaking your head you decide to rid the land of the dragons that did this. ",
+    "ua": "Під час походу, ви натрапили на дуже старого чолов'ягу, який лежав на землі. З бинтом на голові і чимось обмотаним навколо шиї, він виглядав напівживим - якщо не мертвим. Зажмурившись і струсивши головою, ви наповнюєтесь рішучістю позбавити країну від драконів, які заподіяли це. "
+  },
+  {
+    "var": "SLAYER_M1_obj3840_monster_mesg",
+    "field": "map_obj3840_monster_mesg",
+    "en": "It has been a long trek through the mountains and trees.  Up ahead of you is the gem pond that the dragons are said to have taken control of.  Just as you are about to break through the trees you feel the sting of acid on your shoulder.   You look up just in time to see that the dragons are attacking you.",
+    "ua": "Це був довгий шлях через ліса та гори. Прямо перед вами знаходиться став самоцвітів, який, як кажуть, захоплений драконами. Майже вибравшись з хащі, ви відчуваєте на своєму плечі опік від кислоти.  Піднімаєте погляд як раз вчасно, аби побачити драконів, які летіли на вас."
+  },
+  {
+    "var": "SLAYER_M1_obj3848_monster_mesg",
+    "field": "map_obj3848_monster_mesg",
+    "en": "The smell is excruciatingly bad.  The sun is beating down on the blood covering the sulfur.   The dragons have done a number here.  It was time to find the dragons and rectify the situation. ",
+    "ua": "Сморід просто несказанний. Під палючим сонцем димиться кров, яка заливає сірчані поклади.  Дракони влаштували тут справжню бойню. Час знайти їх і виправити ситуацію. "
+  },
+  {
+    "var": "SLAYER_M1_obj3853_monster_mesg",
+    "field": "map_obj3853_monster_mesg",
+    "en": "While you are hiking through the mountains you see a glint of reddish orange in the not too distant sky.  As you walk up to the gold mine you feel a slight breeze.  Seeing the dragons land you smile at your precise timing. \" Nobody but the dragons will get hurt this time,  you tell yourself.\" ",
+    "ua": "Пробираючись крізь гори, ви бачите червоно-помаранчевий спалах не дуже високо в небі. Наближаючись до золотоносної шахти, ви відчуваєте легенький вітерець. Побачивши землі драконів, ви посміхаєтесь своїй кмітливості. \"На цей раз ніхто, крім драконів, не постраждає\", - кажете ви собі. "
+  },
+  {
+    "var": "SLAYER_M1_obj3859_monster_mesg",
+    "field": "map_obj3859_monster_mesg",
+    "en": "As you approach the pond you are almost run down by an avalanche of prospectors.  At a quick glance you take notice of how battered and broken the people are.  Not wanting the people to suffer any longer you quickly run in to slay the dragons who are tormenting them.     ",
+    "ua": "Наближаючись до ставу, ви ледь не були збити навалою старателів. Окинув їх швидким поглядом, ви помічаєте, як вони пошматовані і зломлені. Бажаючи як найшвидше зупинити їхні страждання, ви поспішаєте до шахти, аби перебити драконів, які знущаються над людьми."
+  },
+  {
+    "var": "SLAYER_M1_obj3882_guardian_mesg",
+    "field": "map_obj3882_guardian_mesg",
+    "en": "As you approach the mine you notice that it is very very quite. ",
+    "ua": "Наблизившись до шахти, ви помічаєте, що там дуже, дуже тихо."
+  },
+  {
+    "var": "SLAYER_M1_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Intro",
+    "ua": "Intro"
+  },
+  {
+    "var": "SLAYER_M1_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "The people of Bracada have kept the Krewlodians at bay by controlling the mines.  Now Rust Dragons have taken control and all of this lands resources will be gone in six months.  The people are in need of help and your skills could use some sharpening. ",
+    "ua": "Народ Бракади міг протистояти крюлодцям завдяки контролю над шахтами. Тепер шахти захоплені іржавими драконами, і ресурсів країни вистачить не більше ніж на шість місяців. Людям потрібна допомога, а вам не завадить відточити свої навички."
+  },
+  {
+    "var": "SLAYER_M1_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Collar CarryOver",
+    "ua": "Collar CarryOver"
+  },
+  {
+    "var": "SLAYER_M1_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "After a few drinks you and your troops start to exchange war stories.  One of the tales that was told stuck out in your head.  Unfortunately after all of the drinking you only remember some of it.  The words that stuck out in your head were \"...Collar of Conjuring...great riches.\"",
+    "ua": "Пропустивши по чарочці, ви з вашими воїнами починаєте ділитися військовими історіями. Одна з байок западає вам у голову. На жаль, після всього випитого ви можете згадати лише її уривки. Лише кілька слів застрягли у вашій пам'яті: \"Кольє заклинача... великі багатства.\""
+  },
+  {
+    "var": "SLAYER_M1_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Carry over of Crown",
+    "ua": "Carry over of Crown"
+  },
+  {
+    "var": "SLAYER_M1_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "Not wanting to make a habit of getting drunk every night you decide to go to sleep early.  Your night was anything but restful. Sometime in the night you started to have a dream.  You surprisingly remembered much of it. ",
+    "ua": "Не бажаючи, щоб вечірні п'янки перетворилися для вас у звичку, ви вирішили лягти спати раніше. Ніч принесла вам що завгодно, окрім відпочинку. В якийсь момент ви почали бачити сон. Ви запам'ятали його напрочуд докладно."
+  },
+  {
+    "var": "SLAYER_M1_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "carry over of crown 2",
+    "ua": "carry over of crown 2"
+  },
+  {
+    "var": "SLAYER_M1_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "You remember seeing yourself fighting a Blue Dragon, awesome in size.  What really caught your eye though was the crown you were wearing.  It was the Crown of Dragontooth.  Realizing what you must do you set out in search for the crown. ",
+    "ua": "Ви пам'ятаєте, що бачили себе борцем із лазурним драконом жахливих розмірів. Однак що по-справжньому привернуло вашу увагу, так це надіта на вас корона. Це була Корона дракона. Усвідомивши, що вам слід робити, ви пускаєтеся на пошуки корони."
+  },
+  {
+    "var": "SLAYER_M1_mapevent4_name",
+    "field": "map_mapevent4_name",
+    "en": "Stuff for Enemy",
+    "ua": "Stuff for Enemy"
+  },
+  {
+    "var": "SLAYER_M1_mapevent4_mesg",
+    "field": "map_mapevent4_mesg",
+    "en": "Here",
+    "ua": "Тут"
+  }
+]

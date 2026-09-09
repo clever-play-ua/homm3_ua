@@ -1,0 +1,20 @@
+[
+  {
+    "var": "GEM_campaign_name",
+    "field": "wrapper_campaign_name",
+    "en": "New Beginning",
+    "ua": "Новий початок"
+  },
+  {
+    "var": "GEM_campaign_desc",
+    "field": "wrapper_campaign_desc",
+    "en": "Gem arrives from Enroth fresh from the Succession Wars.  She first helps the Clovergreen Militia and then aids a wizard's apprentice against the Necromancers of Deyja.",
+    "ua": "Ґем прибула з Енрота, поповнивши сили після безперервних війн. Для початку їй необхідно допомогти ополченню міста Кловергрін. Потім вона повинна приєднатися до чарівників у їхній боротьбі з некромантами."
+  },
+  {
+    "var": "GEM_campaign_epilogue",
+    "field": "wrapper_campaign_epilogue",
+    "en": "Sandro has tricked me!  But to what purpose?  Why would he run off with the Dead Man's Boots without paying me?  Did he keep the money for himself?  Did he give Ethric the other artifacts?  He certainly couldn't have been an agent for Deyja - the undead troops I destroyed to get the artifacts were worth more than the artifacts themselves.  None of this makes sense!  I will have to write to Ethric in Bracada and tell Lord Fayette about this immediately.",
+    "ua": "Сандро мене обдурив! Але навіщо? Чому він втік з Черевиками мерця, не заплативши мені ні копійки? Чи залишив він ці гроші собі? Чи віддав він інші артефакти Етріку? Він не міг бути шпигуном Деї, бо натовпи нежиті, які я винищила, коштували набагато більше, ніж здобуті артефакти. У чому тут сенс? Не розумію! Доведеться написати про все Етріку в Бракаду, а заодно й негайно послати донесення лорду Файету."
+  }
+]

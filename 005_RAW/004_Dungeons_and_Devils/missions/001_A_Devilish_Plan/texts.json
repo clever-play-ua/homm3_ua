@@ -1,0 +1,68 @@
+[
+  {
+    "var": "EVIL1_M1_prolog",
+    "field": "wrapper_prolog",
+    "en": "Before Erathia has a chance to call upon the elves of AvLee for assistance, we have decided to strike at the heart of AvLee's strength - the Gold Dragon Queen. By eliminating the elves' strongest ally, they will be unable to lend aid to Erathia.",
+    "ua": "Поки Ерафія не встигла покликати на допомогу Ав-Лі, ми вирішили вразити ельфів у саме серце - вбити Королеву золотих драконів. Якщо в нас вийде усунути таким чином найсильнішого союзника ельфів, їм не буде чого запропонувати ерафійцям."
+  },
+  {
+    "var": "EVIL1_M1_epilog",
+    "field": "wrapper_epilog",
+    "en": "A large elvish population inhabits Erathia’s southeastern coast.  Green and gold dragons, native to the region, augment their military strength.  Before we conquer this region, and detour our forces to Steadwick, we must annihilate these dragons.  Our Kreegan allies from Eeofol requested the honor of this mission.  The Kreegans are fierce warriors.  They will enjoy the slaughter.",
+    "ua": "На південно-східному березі Ерафії мешкає безліч ельфів. Їхні війська посилені зеленими і золотими драконами, споконвічними мешканцями тих місць. Перш ніж ми зможемо захопити ці території і піти війною на Стедвік, дракони повинні бути знищені. Наші союзники - криганці з Еофола випросили честі виконати цю місію. Криганці - люті воїни. Різанина буде їм до душі."
+  },
+  {
+    "var": "EVIL1_M1_map_name",
+    "field": "map_map_name",
+    "en": "A Devilish Plan",
+    "ua": "Диявольський план"
+  },
+  {
+    "var": "EVIL1_M1_map_desc",
+    "field": "map_map_desc",
+    "en": "To win, you must find and kill the Gold Dragon Queen. Your Heroes will be limited to 12th level in this scenario, but your 8 strongest Heroes will be available to you in the final scenario of this campaign.",
+    "ua": "Щоб здобути перемогу, вам доведеться знайти Королеву Золотих Драконів і покінчити з нею. У цьому сценарії ваші герої зможуть піднятися лише до дванадцятого рівня, але вісім найсильніших з них перейдуть з вами до останнього сценарію цієї кампанії."
+  },
+  {
+    "var": "EVIL1_M1_rumor0_name",
+    "field": "map_rumor0_name",
+    "en": "Hint 1",
+    "ua": "Hint 1"
+  },
+  {
+    "var": "EVIL1_M1_rumor0_desc",
+    "field": "map_rumor0_desc",
+    "en": "There is a man in the southwest who has access to the Dragons Dale.",
+    "ua": "На південному заході є людина, яка знає, як потрапити в Долину Драконів."
+  },
+  {
+    "var": "EVIL1_M1_obj468_guardian_mesg",
+    "field": "map_obj468_guardian_mesg",
+    "en": "Your scouts report that the immediate area is rich in resources, and that to the south there is a shaman who is familiar with this area and might be willing to help us.",
+    "ua": "Розвідники доповідають, що ці краї багаті корисними копалинами. На півдні живе шаман, який добре знає місцевість і, можливо, погодиться допомогти нам."
+  },
+  {
+    "var": "EVIL1_M1_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Intro",
+    "ua": "Intro"
+  },
+  {
+    "var": "EVIL1_M1_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "Our underlings have done well. They have managed to raise a volcano and erect a fort in a sparsely populated forest just outside of Erathia's border. While the Dungeon Overlords make their way underground toward the Erathian capitol, you must strike at their allies, the elves of AvLee.",
+    "ua": "Наші люди постаралися на славу. Їм вдалося пробудити вулкан і побудувати форт в малонаселеному лісі, що поблизу кордону з Ерафією. Поки Володарі Підземелля пробираються до столиці Ерафії під землею, завдайте удару їхнім союзникам, ельфам з Ав-Лі."
+  },
+  {
+    "var": "EVIL1_M1_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Intro Part 2",
+    "ua": "Intro Part 2"
+  },
+  {
+    "var": "EVIL1_M1_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "The Gold Dragon Queen is a powerful ally of AvLee. You must find her lair and see to her demise, as this will greatly weaken the elves and make them less of a threat to our plans to destroy Erathia. Go now, and make us proud!",
+    "ua": "Королева Золотих Драконів - могутній союзник Ав-Лі. Ви повинні відшукати її лігво і змусити відректися від престолу. Це сильно послабить позиції ельфів, тоді вони вже не будуть представляти загрозу нашим планам зруйнувати Ерафію. Отже, вперед, прославте наше ім'я!"
+  }
+]

@@ -1,0 +1,440 @@
+[
+  {
+    "var": "GOOD1_M1_prolog",
+    "field": "wrapper_prolog",
+    "en": "Queen Catherine has departed to elicit military support from King Gavin Magnus of Bracada. Other generals are fanning through the region. Establish a base of operations, rally local militia, determine the extent of the Nighon occupation, and find their invasion route.",
+    "ua": "Королева Катерина покинула країну, щоб випросити військової допомоги у Ґевіна Магнуса, короля Бракади. Інші полководці прочісують околиці. Розташуйтесь на місці, зберіть місцеве ополчення, розвідайте, наскільки далеко проникли ніґонські загарбники, і визначте шлях їх вторгнення."
+  },
+  {
+    "var": "GOOD1_M1_epilog",
+    "field": "wrapper_epilog",
+    "en": "Our initial landing has captured a devastated outpost.  Information is scarce and unreliable at best.  Neighboring citizens have fled their villages.  Remaining survivors tell conflicting stories.  Evidence points to a Nighon invasion.  Rally local militia and train them quickly.  Destroy all hostile forces you encounter.  Assume the worst.  Assume we are at war.",
+    "ua": "Висадившись на берег, ми захопили розорену сторожову заставу. Відомості ненадійні. Села покинуті жителями. Розповіді тих хто вижив суперечать один одному. Все вказує на вторгнення ніґонців. Набери ополчення і навчи його в найкоротші терміни. Ламай будь-який опір. Дій, виходячи з найгірших припущень. Дій так, ніби йде війна."
+  },
+  {
+    "var": "GOOD1_M1_map_name",
+    "field": "map_map_name",
+    "en": "Homecoming",
+    "ua": "Повернення додому"
+  },
+  {
+    "var": "GOOD1_M1_map_desc",
+    "field": "map_map_desc",
+    "en": "To win, you must locate and capture the town of Terraneus. Your Heroes will be limited to 6th level in this scenario, but your 4 strongest Heroes will travel with you to the next scenario of this campaign.",
+    "ua": "Для перемоги вам необхідно знайти і захопити місто Теранеус. У цьому сценарії ваші герої зможуть піднятися лише до шостого рівня, але четверо найсильніших з них перейдуть з вами в наступний сценарій цієї кампанії."
+  },
+  {
+    "var": "GOOD1_M1_rumor0_name",
+    "field": "map_rumor0_name",
+    "en": "Imprisoned Erathian Heroes",
+    "ua": "Полонені герої Ерафії"
+  },
+  {
+    "var": "GOOD1_M1_rumor0_desc",
+    "field": "map_rumor0_desc",
+    "en": "Before the Nighon Overlords invaded, this region was protected by some of Erathia's finest heroes. No one knows where they have gone.",
+    "ua": "До вторгнення ніґонських правителів ці землі були під захистом кращих героїв Ерафії. Нікому не відомо, що з ними сталось."
+  },
+  {
+    "var": "GOOD1_M1_rumor1_name",
+    "field": "map_rumor1_name",
+    "en": "Is it true Queen Catherine has returned to Erathia?",
+    "ua": "Чи правда, що королева Катерина повернулася до Ерафії?"
+  },
+  {
+    "var": "GOOD1_M1_rumor1_desc",
+    "field": "map_rumor1_desc",
+    "en": "Is it true Queen Catherine has returned to Erathia?",
+    "ua": "Чи правда, що Королева Катерина повернулася в Ерафію?"
+  },
+  {
+    "var": "GOOD1_M1_rumor2_name",
+    "field": "map_rumor2_name",
+    "en": "The Knight Gier",
+    "ua": "Лицар Ґір"
+  },
+  {
+    "var": "GOOD1_M1_rumor2_desc",
+    "field": "map_rumor2_desc",
+    "en": "I have heard the knight, Gier, is being held prisoner northwest of Mirham.",
+    "ua": "Я чув, що лицаря Ґіра тримають в полоні на північному заході Мірхема."
+  },
+  {
+    "var": "GOOD1_M1_rumor3_name",
+    "field": "map_rumor3_name",
+    "en": "Whirlpools",
+    "ua": "Вири"
+  },
+  {
+    "var": "GOOD1_M1_rumor3_desc",
+    "field": "map_rumor3_desc",
+    "en": "Debris from many ships orbit ocean whirlpools. Surviving captains consider themselves stronger for suffering the ordeal. However, the crew many think otherwise.",
+    "ua": "Уламки багатьох кораблів кружляють у морських вирах. Капітани, що залишилися живими, вважають, що суворі випробування зробили їх сильнішими. Навряд чи так само думають матроси."
+  },
+  {
+    "var": "GOOD1_M1_rumor4_name",
+    "field": "map_rumor4_name",
+    "en": "Thanks for the Rescue",
+    "ua": "Подяка за порятунок"
+  },
+  {
+    "var": "GOOD1_M1_rumor4_desc",
+    "field": "map_rumor4_desc",
+    "en": "Many thanks for rescuing our city.",
+    "ua": "Дуже дякуємо за порятунок нашого міста."
+  },
+  {
+    "var": "GOOD1_M1_rumor5_name",
+    "field": "map_rumor5_name",
+    "en": "Nighon occupation",
+    "ua": "Окупація Ніґона"
+  },
+  {
+    "var": "GOOD1_M1_rumor5_desc",
+    "field": "map_rumor5_desc",
+    "en": "Many cities in this region are still under Nighon occupation.",
+    "ua": "Багато міст в цих краях досі залишаються під гнітом ніґонців."
+  },
+  {
+    "var": "GOOD1_M1_rumor6_name",
+    "field": "map_rumor6_name",
+    "en": "Contact with Steadwick",
+    "ua": "Зв'язок зі Стедвіком"
+  },
+  {
+    "var": "GOOD1_M1_rumor6_desc",
+    "field": "map_rumor6_desc",
+    "en": "Have you heard any news from Steadwick?",
+    "ua": "Чи є новини зі Стедвіка?"
+  },
+  {
+    "var": "GOOD1_M1_rumor7_name",
+    "field": "map_rumor7_name",
+    "en": "Has Steadwick fallen?",
+    "ua": "Чи впав Стедвік?"
+  },
+  {
+    "var": "GOOD1_M1_rumor7_desc",
+    "field": "map_rumor7_desc",
+    "en": "Has Steadwick fallen? Is our nation's capitol under Nighon occupation?",
+    "ua": "Чи правда, що Стедвік впав? Нашу столицю захопили ніґонці?"
+  },
+  {
+    "var": "GOOD1_M1_rumor8_name",
+    "field": "map_rumor8_name",
+    "en": "How much of Erathia has fallen?",
+    "ua": "Яка частина Ерафії впала?"
+  },
+  {
+    "var": "GOOD1_M1_rumor8_desc",
+    "field": "map_rumor8_desc",
+    "en": "Is it true more than half of Erathia has fallen to Nighon, Krewlod, and Tatalia?",
+    "ua": "Чи правда, що більш ніж половину території Ерафії захопили ніґонці, крюлодці й таталійці?"
+  },
+  {
+    "var": "GOOD1_M1_rumor9_name",
+    "field": "map_rumor9_name",
+    "en": "Eeofol and Nighon are working together",
+    "ua": "Еофол і Ніґон діють спільно"
+  },
+  {
+    "var": "GOOD1_M1_rumor9_desc",
+    "field": "map_rumor9_desc",
+    "en": "We have seen dungeon dwellers and devils. Eeofol must be allied with Nighon.",
+    "ua": "Ми бачили мешканців підземелля і дияволів. Мабуть, Еофол воює на боці Ніґона."
+  },
+  {
+    "var": "GOOD1_M1_rumor10_name",
+    "field": "map_rumor10_name",
+    "en": "King Gryphonheart: murdered",
+    "ua": "Король Гріфонхарт: убитий"
+  },
+  {
+    "var": "GOOD1_M1_rumor10_desc",
+    "field": "map_rumor10_desc",
+    "en": "Enroth may not have heard. King Gryphonheart did not die of natural causes.",
+    "ua": "Енрот, можливо, ще не знає, що Король Гріфонхарт помер не своєю смертю."
+  },
+  {
+    "var": "GOOD1_M1_rumor11_name",
+    "field": "map_rumor11_name",
+    "en": "King Gryphonheart: poisoned",
+    "ua": "Король Гріфонхарт: отруєний"
+  },
+  {
+    "var": "GOOD1_M1_rumor11_desc",
+    "field": "map_rumor11_desc",
+    "en": "I have heard King Gryphonheart died from poison in his food.",
+    "ua": "Я чув, Короля Гріфонхарта отруїли."
+  },
+  {
+    "var": "GOOD1_M1_rumor12_name",
+    "field": "map_rumor12_name",
+    "en": "Griffin Tower north of Caryatid",
+    "ua": "Башта Грифонів на північ від Каріатид"
+  },
+  {
+    "var": "GOOD1_M1_rumor12_desc",
+    "field": "map_rumor12_desc",
+    "en": "There is a Griffin Tower north of Caryatid. It was one of the first targets of the invasion.",
+    "ua": "На північ від Каріатид є Башта Грифонів. Це була, мабуть, найкраща мета для вторгнення."
+  },
+  {
+    "var": "GOOD1_M1_rumor13_name",
+    "field": "map_rumor13_name",
+    "en": "Guardhouse north of Caryatid",
+    "ua": "Караул на північ від Каріатид"
+  },
+  {
+    "var": "GOOD1_M1_rumor13_desc",
+    "field": "map_rumor13_desc",
+    "en": "I have a relative who was training to be a Pikeman in the Guardhouse north of Caryatid. I pray he survived the invasion.",
+    "ua": "Один з моїх родичів готувався стати списоносцем і служити в караулі на півночі від Каріатид. Я молюся, щоб він не загинув при вторгненні ворогів."
+  },
+  {
+    "var": "GOOD1_M1_rumor14_name",
+    "field": "map_rumor14_name",
+    "en": "Archer's Tower northeast of Plinth",
+    "ua": "Вежа стрільців на північний схід від Плінта"
+  },
+  {
+    "var": "GOOD1_M1_rumor14_desc",
+    "field": "map_rumor14_desc",
+    "en": "I heard the Archer's Tower northeast of Plinth fell easily to a horde of Troglodytes.",
+    "ua": "Я чув, вежа стрільців на північний схід від Плінти швидко впала під навалою орди троглодитів."
+  },
+  {
+    "var": "GOOD1_M1_rumor15_name",
+    "field": "map_rumor15_name",
+    "en": "Monastery northwest of Mirham",
+    "ua": "Монастир на північний захід від Мірхема"
+  },
+  {
+    "var": "GOOD1_M1_rumor15_desc",
+    "field": "map_rumor15_desc",
+    "en": "Though we haven't heard from the Monastery northwest of Mirham, it is known enemy reinforcements were recently sent to their location.",
+    "ua": "Попри те, що ми не отримували звісток з Монастиря, що на північному заході від Мірхема, ми знаємо, що нещодавно туди було направлено вороже підкріплення."
+  },
+  {
+    "var": "GOOD1_M1_rumor16_name",
+    "field": "map_rumor16_name",
+    "en": "Barracks southwest of Trailia",
+    "ua": "Казарми на південний захід від Траілії"
+  },
+  {
+    "var": "GOOD1_M1_rumor16_desc",
+    "field": "map_rumor16_desc",
+    "en": "Some of the best Swordsmen in Erathia are trained in the Barracks southwest of Trailia.",
+    "ua": "Найкращих мечників Ерафії готують в казармах на північному заході від Траілії."
+  },
+  {
+    "var": "GOOD1_M1_rumor17_name",
+    "field": "map_rumor17_name",
+    "en": "Hut of the Magi",
+    "ua": "Хижа волхва"
+  },
+  {
+    "var": "GOOD1_M1_rumor17_desc",
+    "field": "map_rumor17_desc",
+    "en": "East of Mirham in a large hut lives a magi. One of the local heroes told me he 'keeps an eye' on troop movements over the western mountain line in Bracada.",
+    "ua": "На схід від Мірхему стоїть велика хижа, в якій живе волхв. Один з тутешніх героїв підказав мені, що він наглядає за переходом військ через гірський хребет на заході."
+  },
+  {
+    "var": "GOOD1_M1_rumor18_name",
+    "field": "map_rumor18_name",
+    "en": "Bracada Mountain Range",
+    "ua": "Гірський хребет Бракади"
+  },
+  {
+    "var": "GOOD1_M1_rumor18_desc",
+    "field": "map_rumor18_desc",
+    "en": "Being from Enroth, you should know the western mountain range is the border shared between our region and the nation of Bracada.",
+    "ua": "Ти прийшов з Енрота і повинен знати, що гірський хребет на заході відокремлює нашу територію від країни Бракади."
+  },
+  {
+    "var": "GOOD1_M1_rumor19_name",
+    "field": "map_rumor19_name",
+    "en": "Invasion: They came without warning",
+    "ua": "Вторгнення: вони з'явилися без попередження"
+  },
+  {
+    "var": "GOOD1_M1_rumor19_desc",
+    "field": "map_rumor19_desc",
+    "en": "There was no warning. During the night, we found ourselves surrounded by dungeon dwellers and devils. Some believe the armies were part of a 'mass teleport'.",
+    "ua": "Все сталося несподівано. Серед ночі нас оточили мешканці підземель і дияволи. Дехто вважає, що їх полчища були миттєво телепортовані сюди."
+  },
+  {
+    "var": "GOOD1_M1_rumor20_name",
+    "field": "map_rumor20_name",
+    "en": "Invasion: Where did they come from",
+    "ua": "Вторгнення: звідки вони з'явилися"
+  },
+  {
+    "var": "GOOD1_M1_rumor20_desc",
+    "field": "map_rumor20_desc",
+    "en": "Nighon is across the ocean, but we haven't seen any boats.",
+    "ua": "Ніґон стоїть на тому березі океану, але ми не бачили жодного корабля."
+  },
+  {
+    "var": "GOOD1_M1_rumor21_name",
+    "field": "map_rumor21_name",
+    "en": "Creature Generator: Pikemen_Mirham",
+    "ua": "Генератор істот: списоносці_Мірхем"
+  },
+  {
+    "var": "GOOD1_M1_rumor21_desc",
+    "field": "map_rumor21_desc",
+    "en": "West of Mirham is a Guardhouse where new recruits to the Erathian military receive their initial training.",
+    "ua": "На захід від Мірхему стоїть караул, в якому новобранці армії Ерафії проходять курс молодого бійця."
+  },
+  {
+    "var": "GOOD1_M1_obj4_town_name",
+    "field": "map_obj4_town_name",
+    "en": "Plinth",
+    "ua": "Плінт"
+  },
+  {
+    "var": "GOOD1_M1_obj16_town_name",
+    "field": "map_obj16_town_name",
+    "en": "Caryatid",
+    "ua": "Каріатид"
+  },
+  {
+    "var": "GOOD1_M1_obj598_town_name",
+    "field": "map_obj598_town_name",
+    "en": "Mirham",
+    "ua": "Мірхем"
+  },
+  {
+    "var": "GOOD1_M1_obj629_town_name",
+    "field": "map_obj629_town_name",
+    "en": "Trailia",
+    "ua": "Траілія"
+  },
+  {
+    "var": "GOOD1_M1_obj1086_sign_mesg",
+    "field": "map_obj1086_sign_mesg",
+    "en": "Plinth: Southwest.   Mirham: Northeast.",
+    "ua": "Плінт: на південному заході. Мірхем: на північному сході."
+  },
+  {
+    "var": "GOOD1_M1_obj1087_sign_mesg",
+    "field": "map_obj1087_sign_mesg",
+    "en": "Trailia: Northeast.  Mirham: Southwest.",
+    "ua": "Траілія: на північному сході. Мірхем: на півдні."
+  },
+  {
+    "var": "GOOD1_M1_obj1088_sign_mesg",
+    "field": "map_obj1088_sign_mesg",
+    "en": "Mirham: west.  Caryatid: Follow the mountains east, then south.",
+    "ua": "Мірхем: на заході. Каріатид: Іди вздовж гір на схід, потім на південь."
+  },
+  {
+    "var": "GOOD1_M1_obj1451_guardian_mesg",
+    "field": "map_obj1451_guardian_mesg",
+    "en": "Having defeated the Troglodytes, your men free the Guardhouse.  Within, the occupying Pikemen are eager to fight at your side.",
+    "ua": "Перемігши троглодитів, ваші воїни звільняють караул. Списоносці, що перебували там у полоні, охоче приєднуються до вашого війська."
+  },
+  {
+    "var": "GOOD1_M1_obj1454_town_name",
+    "field": "map_obj1454_town_name",
+    "en": "Terraneus",
+    "ua": "Теранеус"
+  },
+  {
+    "var": "GOOD1_M1_obj1454_event_name",
+    "field": "map_obj1454_event_name",
+    "en": "Computer Timber Supplies",
+    "ua": "Комп'ютерні поставки деревини"
+  },
+  {
+    "var": "GOOD1_M1_obj1454_event_mesg",
+    "field": "map_obj1454_event_mesg",
+    "en": "A caravan from the surface arrives with your weekly wood supplies.",
+    "ua": "Із поверхні прибуває караван із щотижневою поставкою деревини."
+  },
+  {
+    "var": "GOOD1_M1_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Story Background, pt1",
+    "ua": "Передісторія, ч.1"
+  },
+  {
+    "var": "GOOD1_M1_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "From Catherine Ironfist, Queen of Enroth: \"General, our initial landing shows evidence of an invasion by the Dungeon Overlords of Nighon.\"",
+    "ua": "Послання від Королеви Енрота Катерини Залізний кулак: \"Генерал, наш перший десант виявив ознаки вторгнення ніґонських Правителів Підземелля\"."
+  },
+  {
+    "var": "GOOD1_M1_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Story Background, pt2",
+    "ua": "Передісторія, ч.2"
+  },
+  {
+    "var": "GOOD1_M1_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "\"These people have been under Nighon military rule for the past thirty days. We assume the adjacent towns of Plinth, Mirham, and Trailia are also under Nighon or Eeofol occupation.\"",
+    "ua": "\"Весь останній місяць ці люди жили під окупацією Ніґона. Гадаємо, сусідні міста Плінт, Мірхем і Траілія теж захоплені Ніґоном або Еофолом."
+  },
+  {
+    "var": "GOOD1_M1_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Story Background, pt3",
+    "ua": "Передісторія, ч.3"
+  },
+  {
+    "var": "GOOD1_M1_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "\"Other generals are fanning through the region to determine the extent of the territorial violation. For this area, your goal is simple. Establish a base of operations, rally local militia, determine the extent of the Nighon occupation, and find their invasion route.\"",
+    "ua": "\"Інші генерали прочісують місцевість, щоб визначити масштаб вторгнення. Ваше завдання на цій ділянці просте. Організуйте роботу, створіть загони народного ополчення, визначте масштаб ніґонської окупації і з'ясуйте, за яким маршрутом пройшли їхні війська.\""
+  },
+  {
+    "var": "GOOD1_M1_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "Story Background, pt4",
+    "ua": "Передісторія, ч.4"
+  },
+  {
+    "var": "GOOD1_M1_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "\"If you can secure their main base of operations, we will be able to quickly eliminate any remaining forces. Good luck.\"",
+    "ua": "\"Якщо можете, займіться їх командним центром, тоді ми швидко знищимо залишилися війська. Успіху!\""
+  },
+  {
+    "var": "GOOD1_M1_mapevent4_name",
+    "field": "map_mapevent4_name",
+    "en": "Recon: Mirham",
+    "ua": "Розвідка: Мірхем"
+  },
+  {
+    "var": "GOOD1_M1_mapevent4_mesg",
+    "field": "map_mapevent4_mesg",
+    "en": "Returning from Mirham, a scout enters the Caryatid courtyard and reports, \"Mirham is under occupation by Eeofol and Nighon troops.\"",
+    "ua": "У Каріатиди повернувся шпигун з Мірхема. Він повідомляє: \"Мірхем зайнятий військами Еофола і Ніґона\"."
+  },
+  {
+    "var": "GOOD1_M1_mapevent5_name",
+    "field": "map_mapevent5_name",
+    "en": "Recon: Plinth",
+    "ua": "Розвідка: Плінт"
+  },
+  {
+    "var": "GOOD1_M1_mapevent5_mesg",
+    "field": "map_mapevent5_mesg",
+    "en": "One of your aids approaches and hands you a scroll, mentioning that the scout who just delivered it was suffering from numerous injuries. You unfurl and read the scroll: \"Plinth is occupied by Eeofol's troops.\"",
+    "ua": "Підходить один з ваших помічників та подає послання. Розвідник, який його доставив, весь поранений. Ви розгортаєте лист і читаєте: «Плінт зайнятий військами Еофолу.\""
+  },
+  {
+    "var": "GOOD1_M1_mapevent6_name",
+    "field": "map_mapevent6_name",
+    "en": "Recon: Trailia",
+    "ua": "Розвідка: Траілія"
+  },
+  {
+    "var": "GOOD1_M1_mapevent6_mesg",
+    "field": "map_mapevent6_mesg",
+    "en": "Leading his griffin mount, a scout bearing the cuts of arrows and harpy scratches, approaches, kneels, and delivers his report, \"General, Trailia is under the strong hand of Nighon monsters.\"",
+    "ua": "\"Ведучи бойового Грифона, підходить розвідник. Він поранений, з його тіла стирчать уламки стріл. Опускаючись на коліно, він доповідає: \"Генерале, Траілія захоплена великою армією чудовиськ з Ніґона.\""
+  }
+]

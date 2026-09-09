@@ -1,0 +1,122 @@
+[
+  {
+    "var": "CAMPHIGH_Rank",
+    "en": "Rank\tPlayer\tLand\tDays\tScore",
+    "ua": "Rank\tPlayer\tLand\tDays\tScore"
+  },
+  {
+    "var": "CAMPHIGH_1",
+    "en": "1\tSandro\tDead and Buried\t75\t200",
+    "ua": "1\tСандро\tПомерлі й поховані\t75\t200"
+  },
+  {
+    "var": "CAMPHIGH_2",
+    "en": "2\tAstral\tAll for One\t100\t190",
+    "ua": "2\tАстрал\tВсі за одного\t100\t190"
+  },
+  {
+    "var": "CAMPHIGH_3",
+    "en": "3\tOris\tKnee Deep in the Dead\t125\t180",
+    "ua": "3\tОріс\tПо коліна в смерті\t125\t180"
+  },
+  {
+    "var": "CAMPHIGH_4",
+    "en": "4\tLord Haart\tTitan's Winter\t150\t170",
+    "ua": "4\tЛорд Хаарт\tЗима титанів\t150\t170"
+  },
+  {
+    "var": "CAMPHIGH_5",
+    "en": "5\tAlamar\tDragon Orb\t175\t160",
+    "ua": "5\tАламар\tСфера Дракона\t175\t160"
+  },
+  {
+    "var": "CAMPHIGH_6",
+    "en": "6\tStyg\tEmerald Isles\t200\t150",
+    "ua": "6\tСтіґ\tСмарагдові острови\t200\t150"
+  },
+  {
+    "var": "CAMPHIGH_7",
+    "en": "7\tYog\tOverthrow Thy Neighbors\t250\t140",
+    "ua": "7\tЙоґ\tПовалення твоїх сусідів\t250\t140"
+  },
+  {
+    "var": "CAMPHIGH_8",
+    "en": "8\tAjit\tSearch for the Grail\t500\t130",
+    "ua": "8\tАджит\tУ пошуках Грааля\t500\t130"
+  },
+  {
+    "var": "CAMPHIGH_9",
+    "en": "9\tIona\tThe Mandate of Heaven\t750\t120",
+    "ua": "9\tІона\tМандат Раю\t750\t120"
+  },
+  {
+    "var": "CAMPHIGH_10",
+    "en": "10\tTazar\tMyth and Legend\t1000\t100",
+    "ua": "10\tТазар\tMyth and Legend\t1000\t100"
+  },
+  {
+    "var": "CAMPHIGH_11",
+    "en": "11\tYour Name\tJust play a Map\t2000\t1",
+    "ua": "11\tВи\tСпробуйте зіграти\t2000\t1"
+  },
+  {
+    "var": "CAMPHIGH_Rank",
+    "en": "Rank\tPlayer\tCampaign\tDays\t",
+    "ua": "Rank\tPlayer\tCampaign\tDays\t"
+  },
+  {
+    "var": "CAMPHIGH_1",
+    "en": "1\tFafner\tSong for the Father\t500\t1000",
+    "ua": "1\tФафнер\tХвала батьку\t500\t1000"
+  },
+  {
+    "var": "CAMPHIGH_2",
+    "en": "2\tGretchin\tLong Live the King\t550\t875",
+    "ua": "2\tҐретхін\tХай живе король!\t550\t875"
+  },
+  {
+    "var": "CAMPHIGH_3",
+    "en": "3\tGundula\tSpoils of War\t600\t750",
+    "ua": "3\tҐундула\tВійськові трофеї\t600\t750"
+  },
+  {
+    "var": "CAMPHIGH_4",
+    "en": "4\tDrakon\tLiberation\t650\t625",
+    "ua": "4\tДракон\tВизволення\t650\t625"
+  },
+  {
+    "var": "CAMPHIGH_5",
+    "en": "5\tIngham\tDungeons and Devils\t700\t500",
+    "ua": "5\tІнґхам\tПідземелля та демони\t700\t500"
+  },
+  {
+    "var": "CAMPHIGH_6",
+    "en": "6\tTamika\tLong Live the Queen\t750\t375",
+    "ua": "6\tТаміка\tХай живе королева!\t750\t375"
+  },
+  {
+    "var": "CAMPHIGH_7",
+    "en": "7\tNymus\tSeeds of Discontent\t800\t250",
+    "ua": "7\tНімус\tСім'я невдоволення\t800\t250"
+  },
+  {
+    "var": "CAMPHIGH_8",
+    "en": "8\tMalcom\tLiberation\t850\t225",
+    "ua": "8\tМалком\tВизволення\t850\t225"
+  },
+  {
+    "var": "CAMPHIGH_9",
+    "en": "9\tSorsha\tSeeds of Discontent\t900\t200",
+    "ua": "9\tСорша\tСім'я невдоволення\t900\t200"
+  },
+  {
+    "var": "CAMPHIGH_10",
+    "en": "10\tZydar\tLong Live the King\t1000\t175",
+    "ua": "10\tЗідар\tХай живе король!\t1000\t175"
+  },
+  {
+    "var": "CAMPHIGH_11",
+    "en": "11\tYour Name\tJust play a Map\t2000\t1",
+    "ua": "11\tВи\tСпробуйте зіграти\t2000\t1"
+  }
+]

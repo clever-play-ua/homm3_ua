@@ -1,0 +1,142 @@
+[
+  {
+    "var": "XTRAINFO_1",
+    "en": "(+1 morale until next battle)",
+    "ua": "(+1 до Моралі у наступному бою)"
+  },
+  {
+    "var": "XTRAINFO_2",
+    "en": "(+2 luck until next battle)",
+    "ua": "(+2 до Удачі у наступному бою)"
+  },
+  {
+    "var": "XTRAINFO_3",
+    "en": "(+1 luck until next battle)",
+    "ua": "(+1 до Удачі у наступному бою)"
+  },
+  {
+    "var": "XTRAINFO_4",
+    "en": "(Changes luck until next battle)",
+    "ua": "(Змінює удачу в наступному бою)"
+  },
+  {
+    "var": "XTRAINFO_5",
+    "en": "(+1 knowledge once per hero)",
+    "ua": "(+1 до Знання кожного героя)"
+  },
+  {
+    "var": "XTRAINFO_6",
+    "en": "(+1000 experience once per hero)",
+    "ua": "(+1000 очок досвіду для кожного героя)"
+  },
+  {
+    "var": "XTRAINFO_7",
+    "en": "\"(+2 attack, defense, spell power, and knowledge once per hero)\"",
+    "ua": "(+2 до Атаки, Захисту, Сили магії й Знання кожного героя)"
+  },
+  {
+    "var": "XTRAINFO_8",
+    "en": "(+1 defense once per hero)",
+    "ua": "(+1 до Захисту для кожного героя)"
+  },
+  {
+    "var": "XTRAINFO_9",
+    "en": "(+1 attack once per hero)",
+    "ua": "(+1 до Атаки для кожного героя)"
+  },
+  {
+    "var": "XTRAINFO_10",
+    "en": "(+1 spell power or knowledge for 1000 gold once per hero)",
+    "ua": "(+1 до Сили магії та Знання за 1000 золотих для кожного героя)"
+  },
+  {
+    "var": "XTRAINFO_11",
+    "en": "(+1 attack or defense for 1000 gold once per hero)",
+    "ua": "(+1 до Атаки або Захисту за 1000 золотих для кожного героя)"
+  },
+  {
+    "var": "XTRAINFO_12",
+    "en": "(+1 spell power once per hero)",
+    "ua": "(+1 до Сили магії кожного героя)"
+  },
+  {
+    "var": "XTRAINFO_13",
+    "en": "(Learn a secondary skill)",
+    "ua": "(Освоєння вторинної навички)"
+  },
+  {
+    "var": "XTRAINFO_14",
+    "en": "(+1 morale until next battle and extra movement for one day)",
+    "ua": "(+1 до Моралі у наст. бою та бонус очок руху на день)"
+  },
+  {
+    "var": "XTRAINFO_15",
+    "en": "(Upgrade creatures)",
+    "ua": "(Підвищення рангу воїнів)"
+  },
+  {
+    "var": "XTRAINFO_16",
+    "en": "(Double maximum spell points once per week)",
+    "ua": "(Подвоєння максимального запасу очок магії 1 раз на тиждень)"
+  },
+  {
+    "var": "XTRAINFO_17",
+    "en": "(+1 luck until next battle)",
+    "ua": "(+1 до Удачі в наступному бою)"
+  },
+  {
+    "var": "XTRAINFO_18",
+    "en": "(+1 luck and morale until next battle and extra movement for one day)",
+    "ua": "(+1 до Удачі і Моралі у наступному бою та бонус очок руху на день)"
+  },
+  {
+    "var": "XTRAINFO_19",
+    "en": "(+1 level)",
+    "ua": "(+1 рівень)"
+  },
+  {
+    "var": "XTRAINFO_20",
+    "en": "(Learn 1st level spell)",
+    "ua": "(Вивчення заклинання 1-го рівня)"
+  },
+  {
+    "var": "XTRAINFO_21",
+    "en": "(Learn 2nd level spell)",
+    "ua": "(Вивчення заклинання 2-го рівня)"
+  },
+  {
+    "var": "XTRAINFO_22",
+    "en": "(Learn 3rd level spell)",
+    "ua": "(Вивчення заклинання 3-го рівня)"
+  },
+  {
+    "var": "XTRAINFO_23",
+    "en": "(+1 luck or +1 morale until next battle)",
+    "ua": "(+1 до Удачі або Моралі у наступному бою)"
+  },
+  {
+    "var": "XTRAINFO_24",
+    "en": "(Increases morale until next battle)",
+    "ua": "(Підвищує мораль до наступної битви)"
+  },
+  {
+    "var": "XTRAINFO_25",
+    "en": "(Learn secondary skills for 2000 gold)",
+    "ua": "(Освоєння вторинних навичок за 2000 золотих)"
+  },
+  {
+    "var": "XTRAINFO_26",
+    "en": "(Restore spell points once per day)",
+    "ua": "(Відновлення магічної енергії один раз на день)"
+  },
+  {
+    "var": "XTRAINFO_27",
+    "en": "(+1 morale until next battle and extra movement for one day)",
+    "ua": "(+1 до Моралі в наступному бою і збільшення очок руху протягом дня)"
+  },
+  {
+    "var": "XTRAINFO_28",
+    "en": "(+1 morale until next battle and extra movement for one day)",
+    "ua": "(+1 до Моралі в наступному бою і збільшення очок руху протягом дня)"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "var": "NEUTRAL1_campaign_name",
+    "field": "wrapper_campaign_name",
+    "en": "Spoils of War",
+    "ua": "Відлуння війни"
+  },
+  {
+    "var": "NEUTRAL1_campaign_desc",
+    "field": "wrapper_campaign_desc",
+    "en": "In times of strife, your mercenary ways will earn you great rewards.  With Erathia collapsing under the weight of the Nighon onslaught in the east, the opportunity for some land grabbing has presented itself in the west.  Erathia's lands are ours for the taking.",
+    "ua": "Неспокійні часи обіцяють найманцям солодке життя. Поки ерафійська гвардія б'ється з ніґонською загрозою на сході, західні землі так і просять, щоб їх захопили. А що завадить нам це зробити?"
+  }
+]

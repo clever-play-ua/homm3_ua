@@ -1,0 +1,398 @@
+[
+  {
+    "var": "AB_M7_prolog",
+    "field": "wrapper_prolog",
+    "en": "Catherine has lost support in Erathia.  They are tired of war and do not wish to pursue this any further.  To ensure victory, Catherine has stepped down as Queen and joined Roland with the Conflux army, pushing deeper into Eeofol.  General Kendal has been left to see to the task of picking Erathia's next ruler.  In secret, he has dispatched Gelu and his Forestguard to help his former Queen and good friend in this most serious of endeavors.",
+    "ua": "Катерина втратила підтримку Ерафії. Лорди втомилися від війни і більше не хочуть її продовжувати. Щоб забезпечити перемогу, Катерина зреклася трону й об'єднала війська Роланда з армією елементалів, висунувшись далеко вглиб Еофола. Генерал Кендал вирушив спостерігати за вибором нового правителя Ерафії. Він таємно направив Ґело і його Лісову варту на допомогу їх колишній королеві і доброму другу. Їм належить найсерйозніше випробування."
+  },
+  {
+    "var": "AB_M7_epilog",
+    "field": "wrapper_epilog",
+    "en": "With the majority of the Kreegan forces destroyed, Erathia's lords have grown weary of this war and have withdrawn their support.  They do not understand.  This is a critical moment.  To continue this war, I have stepped down as Erathia's Queen.   Myself, Roland, and the Conflux forces will continue to press to the capitol of Eeofol.  However, between us and the demon king stands the hero Xeron.  We are told he wields Armageddon's Blade.  We must succeed for the safety of Erathia, and the world.",
+    "ua": "Тепер, коли більша частина криганських військ знищено, ерафійські лорди відкликають своїх солдатів. Вони втомилися воювати і не хочуть зрозуміти, що настав переломний момент. Щоб продовжувати війну, я зреклася трону. Ми з Роландом поведемо свої армії на столицю Еофола. Між нами і королем демонів встав якийсь Ксерон. Кажуть, Клинок Армагеддону зараз у його руках. Заради порятунку Ерафії, заради порятунку світу, ми повинні його здолати!"
+  },
+  {
+    "var": "AB_M7_map_name",
+    "field": "map_map_name",
+    "en": "To Kill A Hero",
+    "ua": "Убити героя"
+  },
+  {
+    "var": "AB_M7_map_desc",
+    "field": "map_map_desc",
+    "en": "Catherine, Gelu and Roland must defeat the Demoniac hero Xeron. If any one of them falls, all is lost.  Catherine, Roland and Gelu will be allowed to reach 36th Level and carry over all spells, skills, and experience to the next scenario.",
+    "ua": "Катерині, Ґело і Роланду належить знищити одержимого - Ксерона. Якщо хоча б один з героїв загине, все втрачено. Катерина, Роланд і Ґело обмежені 36 рівнем. Якщо вони переможуть, їх досвід, первинні та вторинні навички, а також Чарівні книги перейдуть у наступний сценарій разом з ними."
+  },
+  {
+    "var": "AB_M7_rumor0_name",
+    "field": "map_rumor0_name",
+    "en": "Halflings 1",
+    "ua": "Halflings 1"
+  },
+  {
+    "var": "AB_M7_rumor0_desc",
+    "field": "map_rumor0_desc",
+    "en": "Halfling spies have infiltrated the palace.",
+    "ua": "У палац проникли розвідники халфлінгів."
+  },
+  {
+    "var": "AB_M7_rumor1_name",
+    "field": "map_rumor1_name",
+    "en": "Halflings 2",
+    "ua": "Halflings 2"
+  },
+  {
+    "var": "AB_M7_rumor1_desc",
+    "field": "map_rumor1_desc",
+    "en": "Xeron has taken several Halflings as slaves.  These slaves are actually planted spies.",
+    "ua": "Ксерон взяв в рабство кількох халфлінгів. Виявляється, це був умисний хід: нові слуги демона - розвідники партизан."
+  },
+  {
+    "var": "AB_M7_rumor2_name",
+    "field": "map_rumor2_name",
+    "en": "Xeron 1",
+    "ua": "Xeron 1"
+  },
+  {
+    "var": "AB_M7_rumor2_desc",
+    "field": "map_rumor2_desc",
+    "en": "Gelu killed Xeron's mother and he wants revenge as a result of it.",
+    "ua": "Ґело убив матір Ксерона. Демон жадає помсти."
+  },
+  {
+    "var": "AB_M7_rumor3_name",
+    "field": "map_rumor3_name",
+    "en": "Xeron 2",
+    "ua": "Xeron 2"
+  },
+  {
+    "var": "AB_M7_rumor3_desc",
+    "field": "map_rumor3_desc",
+    "en": "Xeron's mother, a succubus, seduced an Erathian knight who was changed as a result of their encounter.  His soul was tainted irrevocably.",
+    "ua": "Мати Ксерона, суккуб, спокусила ерафійського лицаря і очорнила його душу на віки вічні."
+  },
+  {
+    "var": "AB_M7_rumor4_name",
+    "field": "map_rumor4_name",
+    "en": "Xeron 3",
+    "ua": "Xeron 3"
+  },
+  {
+    "var": "AB_M7_rumor4_desc",
+    "field": "map_rumor4_desc",
+    "en": "Xeron wears the Blade on his back nearly all the time and even sleeps with it.",
+    "ua": "Ксерон не розлучається з Клинком Армагеддону навіть увісні."
+  },
+  {
+    "var": "AB_M7_rumor5_name",
+    "field": "map_rumor5_name",
+    "en": "Armageddon's Blade 1",
+    "ua": "Armageddon's Blade 1"
+  },
+  {
+    "var": "AB_M7_rumor5_desc",
+    "field": "map_rumor5_desc",
+    "en": "Armageddon's Blade allows the wielder to cast the spell Armageddon.",
+    "ua": "Клинок Армагеддону дозволяє власнику накладати закляття \"Армагеддон\"."
+  },
+  {
+    "var": "AB_M7_rumor6_name",
+    "field": "map_rumor6_name",
+    "en": "Armageddon's Blade 2",
+    "ua": "Armageddon's Blade 2"
+  },
+  {
+    "var": "AB_M7_rumor6_desc",
+    "field": "map_rumor6_desc",
+    "en": "It is said that he who wields the Blade is immune to the spell of its namesake.",
+    "ua": "Кажуть, власник Клинка отримує імунітет до закляття \"Армагеддон\"."
+  },
+  {
+    "var": "AB_M7_rumor7_name",
+    "field": "map_rumor7_name",
+    "en": "Armageddon's Blade 3",
+    "ua": "Armageddon's Blade 3"
+  },
+  {
+    "var": "AB_M7_rumor7_desc",
+    "field": "map_rumor7_desc",
+    "en": "He who wields the Blade is nigh invincible.",
+    "ua": "Носій Клинка майже невразливий."
+  },
+  {
+    "var": "AB_M7_rumor8_name",
+    "field": "map_rumor8_name",
+    "en": "Halflings 3",
+    "ua": "Halflings 3"
+  },
+  {
+    "var": "AB_M7_rumor8_desc",
+    "field": "map_rumor8_desc",
+    "en": "Tavin's Guerillas are operating in the area in secret.",
+    "ua": "В цих краях таємно орудують партизани Тевіна."
+  },
+  {
+    "var": "AB_M7_rumor9_name",
+    "field": "map_rumor9_name",
+    "en": "Armageddon's Blade 4",
+    "ua": "Armageddon's Blade 4"
+  },
+  {
+    "var": "AB_M7_rumor9_desc",
+    "field": "map_rumor9_desc",
+    "en": "Armageddon's Blade was born of Chaos, shaped by Magic, and bound by steel and flesh.",
+    "ua": "Клинок Армагеддону народжений Хаосом, виліплений магією і скріплений холодною сталлю і людською плоттю."
+  },
+  {
+    "var": "AB_M7_rumor10_name",
+    "field": "map_rumor10_name",
+    "en": "Armageddon's Blade 5",
+    "ua": "Armageddon's Blade 5"
+  },
+  {
+    "var": "AB_M7_rumor10_desc",
+    "field": "map_rumor10_desc",
+    "en": "The Blade feeds on the souls of the dead.",
+    "ua": "Клинок живиться душами мертвих."
+  },
+  {
+    "var": "AB_M7_rumor11_name",
+    "field": "map_rumor11_name",
+    "en": "Armageddon's Blade 6",
+    "ua": "Armageddon's Blade 6"
+  },
+  {
+    "var": "AB_M7_rumor11_desc",
+    "field": "map_rumor11_desc",
+    "en": "The Blade was forged of all four elements mixed with demon ichor.",
+    "ua": "Клинок викований з елементів чотирьох стихій, змішаних з іхором із жил демонів."
+  },
+  {
+    "var": "AB_M7_rumor12_name",
+    "field": "map_rumor12_name",
+    "en": "Xeron 4",
+    "ua": "Xeron 4"
+  },
+  {
+    "var": "AB_M7_rumor12_desc",
+    "field": "map_rumor12_desc",
+    "en": "Xeron has been feeding the Blade by sowing the seeds of chaos.  It thrives on turmoil and strife.",
+    "ua": "Ксерон живить Клинок, сіючи навколо хаос. Меч насичується людською нуждою і болем."
+  },
+  {
+    "var": "AB_M7_obj0_town_name",
+    "field": "map_obj0_town_name",
+    "en": "Kelvishen",
+    "ua": "Келвішен"
+  },
+  {
+    "var": "AB_M7_obj0_event_name",
+    "field": "map_obj0_event_name",
+    "en": "Fresh troops",
+    "ua": "Fresh troops"
+  },
+  {
+    "var": "AB_M7_obj0_event_mesg",
+    "field": "map_obj0_event_mesg",
+    "en": "Here.",
+    "ua": "Тримайте підкріплення."
+  },
+  {
+    "var": "AB_M7_obj1_town_name",
+    "field": "map_obj1_town_name",
+    "en": "Shadowden",
+    "ua": "Шадовден"
+  },
+  {
+    "var": "AB_M7_obj1_event_name",
+    "field": "map_obj1_event_name",
+    "en": "Fresh Troops",
+    "ua": "Fresh Troops"
+  },
+  {
+    "var": "AB_M7_obj1_event_mesg",
+    "field": "map_obj1_event_mesg",
+    "en": "Here",
+    "ua": "Тримайте підкріплення."
+  },
+  {
+    "var": "AB_M7_obj131_town_name",
+    "field": "map_obj131_town_name",
+    "en": "Reyn Tarrina",
+    "ua": "Рейн-Тарина"
+  },
+  {
+    "var": "AB_M7_obj183_town_name",
+    "field": "map_obj183_town_name",
+    "en": "Tormentalis",
+    "ua": "Торменталис"
+  },
+  {
+    "var": "AB_M7_obj269_town_name",
+    "field": "map_obj269_town_name",
+    "en": "Xent'a",
+    "ua": "Зента"
+  },
+  {
+    "var": "AB_M7_obj269_event_name",
+    "field": "map_obj269_event_name",
+    "en": "Fresh troops",
+    "ua": "Fresh troops"
+  },
+  {
+    "var": "AB_M7_obj330_town_name",
+    "field": "map_obj330_town_name",
+    "en": "Xent'ara",
+    "ua": "Зентара"
+  },
+  {
+    "var": "AB_M7_obj330_event_name",
+    "field": "map_obj330_event_name",
+    "en": "Fresh Troops",
+    "ua": "Fresh Troops"
+  },
+  {
+    "var": "AB_M7_obj330_event_mesg",
+    "field": "map_obj330_event_mesg",
+    "en": "Her",
+    "ua": "Тримайте підкріплення."
+  },
+  {
+    "var": "AB_M7_obj481_town_name",
+    "field": "map_obj481_town_name",
+    "en": "Shanimar",
+    "ua": "Шенимар"
+  },
+  {
+    "var": "AB_M7_obj1193_town_name",
+    "field": "map_obj1193_town_name",
+    "en": "Fayadon",
+    "ua": "Фаядон"
+  },
+  {
+    "var": "AB_M7_obj1625_guardian_mesg",
+    "field": "map_obj1625_guardian_mesg",
+    "en": "Here ya go Xeron.  Here's the big bad sword.",
+    "ua": "Так-так-так, Ксерон. Де наш великий грізний меч?.."
+  },
+  {
+    "var": "AB_M7_obj1626_monster_mesg",
+    "field": "map_obj1626_monster_mesg",
+    "en": "\"Armed and ready sir.  What are your orders?\"",
+    "ua": "\"Озброєний і готовий до бою. Які будуть накази?\""
+  },
+  {
+    "var": "AB_M7_obj1633_monster_mesg",
+    "field": "map_obj1633_monster_mesg",
+    "en": "\"Armed and ready sir.  What are your orders?\"",
+    "ua": "\"Озброєний і готовий до бою. Які будуть накази?\""
+  },
+  {
+    "var": "AB_M7_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Opening",
+    "ua": "Opening"
+  },
+  {
+    "var": "AB_M7_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "Support has greatly waned amongst the Erathian nobility, for this war in the past few months.  It has been costly in both gold and lives, precious commodities all to be certain.  However, this endeavor is of utmost import if what the soothsayer said is true.  Should they really have Armageddon's Blade, King Lucifer must not be allowed to continue in his mad quest.  The line must be drawn here and now.\n\nSeeing as how the Erathian people see this war as being over, they have refused to fund your war any longer.  Disheartened, as you were, you decreed General Morgan Kendal would act as Regent in your stead, his primary task to find a new leader for the kingdom your father made so great.  You chose to abdicate the Erathian throne and ally yourself with the Elemental Confluxes in an effort to destroy this mad king and his demonic hordes once and for all.  \nTeary eyed, yet stoic, you transferred control of the kingdom of your birth to General Kendal and rode off towards your destiny.  When all was said and done, you and Roland were going to return to Enroth and your son Nicolai at last.  Erathia was free to rule itself, without interference from Enroth.  Its destiny was now it's own.  You had a war to win, a world to save, and could not be burdened by grief over the terrible choices you were forced to make.",
+    "ua": "В останні місяці ерафійські лорди майже не надають нам підтримки. Війна обходиться дорого. Перемоги оплачені ціною золота і крові - що може бути сумніше для країни? Але, якщо вірити віщунам, попереду один з головних боїв. Якщо вони мають рацію, якщо король Люцифер заволодів Клинком Армагеддону, його плани необхідно порушити. Все вирішується тут і зараз.\n\nАле ерафійці вважають, що їхня війна закінчена. Вони відмовляються допомагати. У відчаю, ви викликаєте генерала Моргана Кендалла й назначаєте його регентом королівства. Він мусить знайти нового правителя для Ерафії, держави, яку ваш батько так довго вів до величі. Ви ж лишите трон, аби укласти союз з елементалами й знищити короля-безумця раз і назавжди.\n\nНа очі нагортаються сльози. Але стійкості вам не займати. Ви передаєте рідне королівство в руки генерала Кендалла й вирушаєте назустріч долі. Коли війна скінчиться, ви разом із Роландом повернетесь в Енрот, до сина. Нехай Ерафія сама вирішує, як жити; Енрот не стане втручатися. У кожної країни своя доля. А вам - вам потрібно виграти війну і врятувати світ. Нема коли засмучуватись, що зроблено, те зроблено."
+  },
+  {
+    "var": "AB_M7_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Opening Part II",
+    "ua": "Opening Part II"
+  },
+  {
+    "var": "AB_M7_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "The days ahead will be filled with rough terrain and sleepless nights.  Roland and your forces marched across the fire-ravaged plains of Eeofol en route to Kreelah, the capital city.  Word soon spread of your approach and you were met with great resistance.  Though the fighting was brutal, your tactical prowess and Roland's tenacity proved to be the better of the enemy and you forced them back nearly to the capitol itself.  Now, you have a firm hold on the majority of Eeofol, Conflux fortresses sprouting up everywhere.\n\nThe problem came when word was sent that Xeron, Eeofol's brilliant warlord, had arrived with the near totality of his Sons of Erebus, Eeofol's elite royal guard.  Worse still, spies report he bears a great sword of immense power.  It appears in fact that your worst fears have been realized; Armageddon's Blade is not only real, but here on the field of battle as well.\n\nXeron must fall and the Blade recovered if this assault is to succeed.  Once he has been defeated, the rest will be mere practice.",
+    "ua": "Попереду чекають довгі переходи і безсонні ночі. Ви з Роландом скачете на чолі армій крізь випалені рівнини Еофола до столиці. Демони дізналися про ваш похід і не збираються здаватися без бою. Низка жорстоких битв; але мужність Роланда і ваш талант стратега допомогли перемогти і відтіснити ворога до самої Крили. Велика частина Еофола у ваших руках. Всюди виникають Колонії Елементалів.\n\nАле незабаром виникла нова проблема: пройшов слух, що поблизу Крили з'явилися \"Сини Еребуса\", елітна гвардія короля Люцифера, на чолі з блискучим полководцем Ксероном. Більш того, в руках демона меч небаченої сили. Найгірші побоювання підтвердилися: Клинок Армагеддону існує, і він вже почав свою руйнівну дію.\n\nКсерон повинен бути знищений. Для перемоги необхідно, щоб Клинок Армагеддону опинився в наших руках. Решта - лише справа техніки."
+  },
+  {
+    "var": "AB_M7_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Cat Learns Gelu is here",
+    "ua": "Cat Learns Gelu is here"
+  },
+  {
+    "var": "AB_M7_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "A runner from the north approaches your encampment with caution.  He wears the markings of a Forest Guard scout and bears a scroll in hand.\n\nYou wave him over, take the scroll, open it and read its contents.  After a brief reading, you turn to the runner and tell him to inform King Roland of this message.  The runner leaves to go inform King Roland that Gelu has been sent along as well, at the request of General Kendal.  Erathia still supports your quest, just not as it has in the past.  It is a good feeling to know this war will be won and won much more easily now that Gelu and his forces have arrived as well.  However, the nagging feeling that Xeron is not going to be easy to defeat continues to plague you in the back of your mind.  This is a dangerous time, a possible turning point, one you cannot back away from.  That Blade has to be taken from the terrible hands which now wield it, no matter the cost.",
+    "ua": "З півночі до табору обережно наближається гонець. На його одязі емблема Лісової варти; в його руках сувій пергаменту.\n\nВи підкликаєте гінця і берете лист. Пробігши його поглядом, ви кажете гінцеві оповістити про все короля Роланда. Гонець зникає. Виявляється, за наказом генерала Кендала в Еофол направляється Ґело. Ерафія знову, як колись, підтримує ваш похід. Приємно нарешті усвідомити, що війна неодмінно увінчається перемогою, та якнайшвидшою - за допомогою Ґело. І все ж у глибині душі ви побоюєтеся, що Ксерона не так-то просто здолати. Настав тривожний час, поворотний момент війни, і пізно відступати. Клинок треба вирвати з лап демона за будь-яку ціну."
+  },
+  {
+    "var": "AB_M7_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "Conflux Warning",
+    "ua": "Conflux Warning"
+  },
+  {
+    "var": "AB_M7_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "A shadowy figure slips into the meeting chamber where you sit with your advisors.  This wispy figure takes shape, that of a humanoid made of pure wind.  It's voice, one of crackling lightning and booming thunder, rips through the meeting area gaining everyone's attention.\n\n\"I represent the Elemental Lords of the Great Conflux.  I come before you to bring a warning.  The use of Armageddon's Blade will soon tear this world asunder.  It must be contained else it consumes us all.  Do not dally with this Xeron.  He is cunning and treacherous.  Be wary of his power, be warned of his might.\"\n\nIt's warning having been issued; the elemental being dissipates and returns to its masters.  Those in attendance sit stock-still; unable to comment on the proclamation of dread just uttered here this day.  You clear your throat and draw their attention back to you.\n\n\"My friends and compatriots, we have now seen proof positive these Conflux Lords are indeed working for our benefit and the benefit of the world as a whole.  We must heed this warning and take Armageddon's Blade for ourselves.  This way, WE control the weapon, thus controlling our enemy.  If we can locate and defeat this Xeron, we can contain his terrible weapon of annihilation before he gets an opportunity to use its complete power.  Now, let's get back to work and figure out a way to stop these madmen.\"",
+    "ua": "Посеред Зали Ради виникає темна примара. Поступово вона набуває форми - і ось перед вами людина, чиє тіло складається з бурхливих вихорів. У його голосі звучать громи і блискавки, його слова перекривають шепіт радників. Всі погляди прикуті до нього.\n\n\"Я маю честь представляти лордів-елементалів Великої Колонії. Я прийшов попередити вас: Клинок Армагеддону розірве весь світ на частини Необхідно стримати його зло, інакше воно поглине нас всіх. Не баріться; Ксерон повинен бути знищений. Він хитрий і підступний, могутній і сильний.\"\n\nЗ цими словами посол елементалів тане в повітрі, повертаючись у свій вимір. Радники заціпеніли, не в силах вимовити ні слова. Ви відкашлюється, і їхні очі звертаються до вас.\n\n\"Друзі і соратники! Щойно ми власними очима бачили підтвердження тому, що лорди Колоній на нашому боці - і на стороні світу. Варто до них прислухатися, необхідно забрати в демонів меч, Контролюючи знаряддя ворога, ми отримаємо контроль над самим ворогом. Треба знайти... і знищити Ксерона; тоді ми зуміємо стримати силу Клинка, поки він не встиг застосувати його на повну потужність. Повернемося до справи. Треба знайти спосіб зупинити божевільних демонів,\""
+  },
+  {
+    "var": "AB_M7_mapevent4_name",
+    "field": "map_mapevent4_name",
+    "en": "Kendal Sends Covert Aid",
+    "ua": "Kendal Sends Covert Aid"
+  },
+  {
+    "var": "AB_M7_mapevent4_mesg",
+    "field": "map_mapevent4_mesg",
+    "en": "A small supply wagon shows up with a note proclaiming this wagon is a gift from a friend.  Upon reading this note, you smile and allow your thoughts to drift back to Steadwick and an old friend.",
+    "ua": "До табору під'їжджає скромний візок з припасами, супровідний лист говорить: \"Від друга.\" Ви посміхаєтеся. Думки несуться в Стедвік, де хвилюється за вас старий бойовий друг."
+  },
+  {
+    "var": "AB_M7_mapevent5_name",
+    "field": "map_mapevent5_name",
+    "en": "Roland's Semi-Evil Speech",
+    "ua": "Roland's Semi-Evil Speech"
+  },
+  {
+    "var": "AB_M7_mapevent5_mesg",
+    "field": "map_mapevent5_mesg",
+    "en": "Roland stood to address his troops, marching back and forth across the makeshift stage he had set up expressly for this purpose.  The need for a morale boost became an almost tangible feeling, for tensions were high and some infighting had taken place.  No major injuries reported, but there were some incidents.  He needed to do something quickly to rally the troops.\n\n\"Lo these many months we have pressed onward, trudging through the bleak desolate regions of this accursed land.  The time has come where again we are the ones on the attack.  Our enemy is in sight and the opportunity has arisen to deliver a crushing blow to these twisted freaks.  As you all know, I was held captive by these animals for many years, so I know of which I speak when I say we cannot allow these things to exist ANY longer in our world!  They must be excised from the face of Antagarich like the boil they are!  To that end I need you, your strength, your courage.  We must press forward, on to Kreelah, and obliterate these monsters once and for all; send them back to Hell!  There shall be no quarter; no survivors.\"\n\nThe crowd's cheers bring Roland's speech of genocide to a rousing close.  Upon leaving the stage, Roland is near visibly shaking.  The rage in his heart on the surface at last, bringing with it a cloud to his once sparkling eyes; a dark cloud showing the damage done to his soul.  Captivity has marred his spirit such that nothing short of total victory can bring him peace.  The Kreegans must pay for what they have done to him, regardless of the cost to him and his immortal soul.",
+    "ua": "Роланд підіймається на імпровізовану трибуну і починає свою промову. Солдатам терміново необхідна моральна підтримка: напруга зросла надзвичайно, справа дійшла до сутичок між бійцями. Ніхто серйозно не постраждав, і все ж не можна це так просто залишити. Треба швидше підняти бойовий дух солдатів.\n\n\"Ось вже багато місяців ми рухаємося вперед через похмурі випалені землі. Прокляті землі. Із захисників ми знову стали завойовниками. Ворог вже близько; прекрасна можливість завдати мерзотникам нищівного удару. Всім вам відомо: я довгі роки був бранцем цих порідь. Я знаю, про що кажу. Цим тварюкам не місце в нашому світі. Їх треба стерти з лиця Антагріча - вони давно це заслужили. Мені знадобиться вся ваша сила та хоробрість. Потрібно рухатися далі, на Крилу! Потрібно піддати цих чудовиськ вогню і загнати їх у пекло, з якого вони прийшли. Пощади не буде! Не виживе жоден!\"\n\nУ відповідь чується захоплений рев солдатів. Їм до душі проповідь вбивства. Роланд сходить із трибуни. Його тіло здригається. Гнів вирвався з серця і захлеснув його цілком. Колись блискучі очі затуманились темною хмарою. Чорна тінь лягла на душу. Полон спотворив його серце. Ніщо, крім повної й остаточної перемоги, не принесе йому спокою. Демони дадуть відповідь йому за все - нехай він поплатиться за це безсмертям душі."
+  },
+  {
+    "var": "AB_M7_mapevent6_name",
+    "field": "map_mapevent6_name",
+    "en": "Portents of Doom",
+    "ua": "Portents of Doom"
+  },
+  {
+    "var": "AB_M7_mapevent6_mesg",
+    "field": "map_mapevent6_mesg",
+    "en": "\"My Queen,\" reports a page to you, \"you have a visitor.  He is claiming he represents the Conflux.\"  \n\nYou wave the boy to show the man in and off he goes to retrieve this visitor.  He returns moments later with a tall slender man dressed in long robes, his face hidden behind an azure hood.  The silver runic trim of the deep blue robes glimmers slightly, diverting attention away from his withdrawn countenance.  All that is visible of this mysterious man's face is his neatly trimmed black beard and strong lower jaw.  He speaks in low tones, barely above a whisper, with a slight accent noticeable.\n\n\"Greetings Catherine Ironfist of Enroth.  I am called Tamar the Wanderer.  I am a walker of the planes, a seeker of knowledge, a protector of lives worth saving.  I am also the Elemental Lord of Air.  I come here this day to share with you a vision I have had.  In this vision I saw possible futures, both of light and of shadow.  You just passed a crossroads, Catherine, choosing the path of Light.  There are others, loved ones and those trusted deeply, who now face that same crossroad.  They are beginning to choose a path, which may be divergent from yours.  It is not too late to alter their course.  They can be persuaded to return to the path carved in the sun, as opposed to the one entrenched in the night.  Choose wisely Catherine, for if you do not help those whom you love and trust, I fear you will know much grief.\"\n\nA flash of lightning rips across the stormy sky and when your eyes clear from the momentary blindness, Tamar the Wanderer is no longer in your presence.  The warnings of this so-called Elemental Lord stir in your mind and give you to pause.  Could he have meant Roland?  His pain and suffering might be getting the better of him.  Perhaps you should speak to him about this war and it's effect on his mind.  Your fear that he might slip away and let his need for revenge consume him is almost overwhelming.  \n\nYou send a letter to Roland immediately.  Dispatching the messenger brings a slight lift to your wounded soul and allows you to sleep, albeit not well.",
+    "ua": "Паж згинається в поклоні. \"Моя королева, до вас відвідувач. Він представився послом Колоній\". \n\nВи кажете юнакові впустити посла, і незабаром до зали входить високий худий чоловік у довгому одязі. Лазурний капюшон приховує обличчя. Срібляться рунічні письмена синьої мантії, відволікаючи увагу від особи. З-під каптура видніється лише акуратна чорна борідка і владна нижня щелепа загадкового гостя. Він говорить напівпошепки, у мові прослизає легкий акцент. \n\n\"Вітаю, Катерина Айронфіст, королева Енрота. Мене звуть Тамар-мандрівник. Я мандрую між вимірами, шукаю знань і захищаю життя тих, хто його вартий. За сумісництвом я ще і Повелитель Повітря. Я прийшов сюди, щоб розповісти про своє видіння. Я бачив подвійність майбутнього: те, чому судилося бути, якщо переможе Світло - і Пітьма. Ви зробили свій вибір. Ви йдете в Світлі. Але інші, ті, кого ви любите, ті, кому довіряєте, все ще стоять на роздоріжжі. Вони роблять перші кроки... дорогою - і дорога їх відрізняється від вашої. Ще не пізно все виправити. Ще не пізно повернути їх зі шляху ночі на шлях сонця. Подумайте, Катерина, якщо ви не зумієте допомогти їм, боюся, вас чекає багато печалі,\" \n\nГрозове небо пронизує спалах блискавки, засліплюючи вас на мить. Тамар-мандрівник зник. Грізні попередження Повелителя Повітря луною звучать у вашій голові і не бажають стихати. Невже він говорив про Роланда? Можливо, біль і страждання затьмарили його розум? Потрібно поговорити з ним про війну та її наслідки. Вас охоплює страх: раптом жага помсти поглине його повністю? \n\nВи, не зволікаючи, пишете Роланду лист. Гонець від'їжджає. На душі стає трохи легше. Вдається заснути, але сон не приносить забуття."
+  },
+  {
+    "var": "AB_M7_mapevent7_name",
+    "field": "map_mapevent7_name",
+    "en": "Atrocities",
+    "ua": "Atrocities"
+  },
+  {
+    "var": "AB_M7_mapevent7_mesg",
+    "field": "map_mapevent7_mesg",
+    "en": "A report comes in to Roland.  The message tells of horrible atrocities committed by the Kreegans.  Tales of slaves being stripped and beaten, impaled upon spikes for apparent sport, used for hideous black magic rites, even used as food for monstrous beasts.\n\nAs he reads, the fires of vengeance burn deep in Roland's breast.  These monsters are doing the unthinkable.  The memories of torture and the screams flood his mind once again, bringing with them the smells and sounds of his capture.  He seethes in rage, slowly shredding the parchment he is reading.  When the pressure finally gets to him, he bellows out in rage.  \"I shall kill them all!!!  No matter where they hide, no matter where they choose to flee.  There will be no escape from my wrath.  Know this King Lucifer, your minion's will all drown in lakes of their own ichor.  I will have my vengeance!\"  \nAfter tossing the torn parchment to the ashen ground, he storms off to gather his armor and weapons to prepare for battle once more.",
+    "ua": "Роланду прийшло донесення. У ньому йдеться про гидоти, які учиняють криганці над полоненими. Б'ють, білують живцем, садять на палю, влаштовують криваві жертвопринесення і навіть згодовують своїм чудовиськам.\n\nЖага помсти з новою силою розгорається в грудях Роланда. Неймовірні жахи... Мозок знов наповнюють спогади про муки полону, крики товаришів, запахи і звуки смерті. Не тямлячи себе від гніву, Роланд повільно рве пергамент на частини. Біль стає нестерпним. З грудей рветься крик: \"Я всіх вас прикінчу! Вам не втекти, не сховатися! Мій гнів наздожене скрізь. Запам'ятай, король Люцифер, твої демони потонуть в калюжах іхору з власних жил! Гряде помста!\"\n\nВін кидає клаптики пергаменту на випалену землю і наказує принести зброю. Час кинутися до бою."
+  },
+  {
+    "var": "AB_M7_mapevent8_name",
+    "field": "map_mapevent8_name",
+    "en": "A Letter to Roland from Catherine",
+    "ua": "A Letter to Roland from Catherine"
+  },
+  {
+    "var": "AB_M7_mapevent8_mesg",
+    "field": "map_mapevent8_mesg",
+    "en": "Roland awoke early this morning to a messenger bringing with him a letter bearing the scent of perfume he knew immediately belonged to Catherine, a scent she knew he loved.  He tore open the seal and read it immediately.\n\n\"Dearest husband Roland, I have recently received a visit from someone who brought me a warning.  His warning spoke of crossroads we all reach and I had made my choice recently, taken my path.  His warning also spoke of others whom I love and trust deeply, who face these same crossroads and are on a road different than mine.  I fear that he speaks of you and your recent imprisonment.  I do hope you are not taking the road cloaked in shadow, but are preparing to join me on the path of light.  Please write me back and make me believe I have not lost you to revenge.  I do not want to walk the path alone.  I love you my husband and shall always do so, no matter the path you choose, but do not expect me to allow you down the road of shadow without a fight.  This journey can be altered.  If you have become consumed with feelings of revenge and hate, I will be there to help, any way I can.  Take care my love.  I shall meet you once we have defeated this Xeron and his Sons of Erebus.\"\n\nRoland rolled up the scroll and returned to his tent, eyes filled with tears, for he was beginning to suspect she might be right.",
+    "ua": "На світанку гонець доставив Роланду лист. О, аромат парфумів Катерини, бажаний запах! Геть печать, швидше, швидше за читання.\n\n\"Милий Роланд, люб'язний мій чоловік, Я отримала попередження від дивного незнайомця. Всі ми стоїмо на роздоріжжі, і я вже обрала свою дорогу. Але він говорив про інших, про тих, кого я люблю, тих, кому довіряю; І шлях їх різниться від мого. Боюся, він говорив про тебе і твоєму полоні. Я так сподіваюся, що ти не обереш шлях Тьми, але підеш рука об руку зі мною по дорозі Світла. Напиши мені, благаю... дай мені знати, що я тебе не втрачаю, що ти не вважав за краще помсту. Я не хочу йти одна. Я кохаю тебе всім серцем і буду кохати вічно, яку б дорогу ти не обрав... але знай, я буду битися за тебе і не віддамся тіням з покірністю. Ще не пізно все змінити... Якщо тебе палить ненависть і лють - знай, я прийду на допомогу і зроблю все, що в моїх силах. Бережи себе, улюблений. Ми зустрінемося знову, коли Ксерон буде розбитий, а \"Сини Еребуса\"знищені.\"\n\nРоланд згорнув пергамент і повернувся до намету. Очі застеляли сльози, що, якщо Катерина права?"
+  }
+]

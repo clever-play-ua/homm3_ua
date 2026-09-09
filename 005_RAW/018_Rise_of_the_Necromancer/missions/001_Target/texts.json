@@ -1,0 +1,152 @@
+[
+  {
+    "var": "SANDRO_M1_prolog",
+    "field": "wrapper_prolog",
+    "en": "Ethric is a sly old Warlock.  He has spread word of Sandro and the artifacts he carries to the lords of this region.  Some of the lords want these artifacts for their own use; others want to destroy them.  Sandro must defeat all these lords and get into Deyja.",
+    "ua": "Етрік - старий підступний чаклун. Це він поширив чутки про артефакти Сандро серед лордів цієї місцевості. Деякі лорди хочуть роздобути ці артефакти для себе, інші - для того, щоб зруйнувати їх. Сандро повинен перемогти всіх цих лордів і дістатися до Деї."
+  },
+  {
+    "var": "SANDRO_M1_epilog",
+    "field": "wrapper_epilog",
+    "en": "It seems Ethric, my old master, has finally tracked me down.  He hasn't been too happy about me becoming a Necromancer and wants to remove the blight from his career.  Ethric is no fool.  He spread word of my location to those who would stop me.  It does not matter.  I will defeat these fools, soundly beat my master and continue on to Deyja, where they will appreciate my talents.",
+    "ua": "Схоже, моєму колишньому наставнику Етріку все-таки вдалося мене вистежити. Йому з самого початку не подобалося, що я став некромантом, і тепер він хоче змити цю пляму зі своєї репутації. Етрік не дурень. Він розповів усім, хто здатний перегородити мені шлях, де мене можна знайти. Я зверну у втечу цих дурнів, як слід провчу свого пронозливого наставника і все-таки прорвуся в Дею. Вже там мої таланти оцінять за заслугами!"
+  },
+  {
+    "var": "SANDRO_M1_map_name",
+    "field": "map_map_name",
+    "en": "Target",
+    "ua": "Ціль"
+  },
+  {
+    "var": "SANDRO_M1_map_desc",
+    "field": "map_map_desc",
+    "en": "Defeat all of Sandro's enemies to win the scenario.  However, if Sandro is defeated in combat, the scenario is lost.  Sandro is limited to level 5 but will carry his experience, skills and spells on to the next scenario.",
+    "ua": "Переможіть всіх ворогів Сандро, щоб виграти сценарій. Якщо Сандро переможений - сценарій програний. Сандро обмежений 5 рівнем, але збереже свій накопичений досвід."
+  },
+  {
+    "var": "SANDRO_M1_obj327_town_name",
+    "field": "map_obj327_town_name",
+    "en": "Hoddar",
+    "ua": "Годдар"
+  },
+  {
+    "var": "SANDRO_M1_obj1436_guardian_mesg",
+    "field": "map_obj1436_guardian_mesg",
+    "en": "This place looks familiar.  You have a hazy memory of bringing a beautiful maiden here several years back, and... your thoughts are interrupted when one of your spies approaches.  \"Sir, Lord Jabarkas knows you are in the area and is planning to kill you.  He has not forgotten you kidnapping his daughter and violating her.  He has recruited a large army from another Stronghold in the northeast and plans to attack you shortly.\"\n\n\"Did he make mention of the artifacts?\" you ask.\n\n\"No, sir.\" \n\"Well done.  Dismissed.\"",
+    "ua": "Це місце виглядає знайомим. В примарних спогадах ви бачите, як декілька років назад, приносите сюди прекрасну дівчину, і... ваші спогади перериваються прибувшим шпигуном. \"Сер, Лорд Джабаркас знає, де ви знаходитесь і планує вас вбити. Він не забув, як ви вкрали його доньку і познущалися з неї. Він зібрав величезну армію з іншого Бастіону і планує атаку\".\n\n\"Він що-небудь говорив про артефакти?\" питаєте ви.\n\n\"Ні, сер.\" \n\"Чудово, вільний\"."
+  },
+  {
+    "var": "SANDRO_M1_obj1444_guardian_mesg",
+    "field": "map_obj1444_guardian_mesg",
+    "en": "Your spies report overhearing the following conversation between Lord Ufretin and one of his commanders:\n\n\"Yes, sir.  Ethric's message was received this morning.  Sandro is in the area and does hold the artifacts.  We have replied to Ethric that we will retrieve the artifacts and give them to Jeddite.  Shall we prepare to attack Sandro's army, sir?\"\n\n\"Yes, we had best do that, and quickly.  That Sandro is a sly one.  He could be right under our noses.  He is said to strike as suddenly and silently as a wraith!  Prepare your men.\"\n\nWord travels fast in these parts, you think to yourself.  So much for a surprise attack!",
+    "ua": "Ваші шпигуни доповідають, що підслухали наступний діалог між Лордом Уфреном і одним з його командирів:\n\n\"Так, сер. Повідомлення Етріка було отримано цього ранку. Сандро в цій місцевості і він дійсно має артефакти. Ми відповіли Етріку, що відвоюємо їх і віддамо Джеддіту. Нам готувати атаку?\"\n\n\"Так, нам потрібно зробити це швидко. Цей Сандро хитрун. Він може бути просто у нас під носом. Кажуть, що він може несподівано з'явитися як привид! Готуйте людей.\"\n\nЧутки в цих місцях швидко поширюються, думаєте ви. Стільки хороших ознак для несподіваної атаки!"
+  },
+  {
+    "var": "SANDRO_M1_obj1454_guardian_mesg",
+    "field": "map_obj1454_guardian_mesg",
+    "en": "Your neighboring town is coming into view.  Jeddite has become quite a powerful lord as well as a powerful warlock.  You have learned he is a man of his word and has never backed down from a battle.  You wonder if going into combat against a former friend will affect his strategy.  After all, both sides have the advantage of knowing exactly what and how each other will act in battle.",
+    "ua": "Ваше сусіднє місто відкрилося погляду. Джеддіт став могутнім лордом і чаклуном. Ви вже знаєте, що він людина слова і не відступить з поля бою. Вам цікаво, чи спрацює його тактика проти старого друга. Зрештою, обидві сторони знають переваги один одного, і як кожен поведе себе в битві."
+  },
+  {
+    "var": "SANDRO_M1_obj1472_guardian_mesg",
+    "field": "map_obj1472_guardian_mesg",
+    "en": "A rustle comes from a bush alongside the road. You leap off your horse, sword in hand, to investigate. You peer into the bush for a moment and then suddenly thrust your arm inside and pull out a man-sized, red-skinned creature.  The pit fiend picks himself off the ground and dusts himself off.\n\n\"Who are you and why have you been spying on us!\" you demand.\n\nThe pit fiend looks at you and smirks.  \"I am Shalongrarg.  I am here on orders from my brother from the north-east.\"\n\n\"And just who is your brother to order you to spy on me?\"\n\"My brother is The Great Lord Jared,\" the pit fiend declares proudly. \"No doubt you have heard of him.  His conquests are legendary.  All tremble at his name.\"\n\nThe pit fiend's arrogant smile vanishes as you burst out laughing.  \"Jared?  Yes, I know of him.  I have heard that he is a two-bit highwayman who leads a ragtag band of hedge thieves on miserable little raids.  Legendary conquests?  His laughable escapades are like the buzzing of a gnat that is barely worth the effort to swat.   And you, Shalongrarg, have the gall to try to intimidate me with such a pathetic reputation!.  Tell me, you sunburned toad, what does this laughingstock of a lord want with the great Sandro?\"\n \n\"I... I have orders to remain silent.\" Shalongrarg stammers, at a loss for words.  Never before has anyone dared to speak of his brother thus. \n\"Tell me of your brother's plans or I will have you quartered one limb at a time.\"\n\nThe pit fiend slouches and stares silently at the ground.  You grab his horns and force him to look you in the eyes.  \"You have been looking for Sandro and now you have found him. Now tell me why your worm of a brother is interested in him!\"  Shalongrarg's eyes bulge and ears bleed under the immense pressure of your grip.  You pull him close to your face.  \"I will crush your skull like an eggshell if you don't answer my questions!\"  You suddenly release the wretched demon, and he falls to the ground.  You raise your foot and place it on top of his head.\n\n\"Wait, wait!\" the pit fiend sobs.  \"I'll tell you want to know.  When my brother learned that you had the artifacts, he ordered his troops to seize them from you at all costs.  I was sent to get information on your numbers and movements.\"\n\nYou pick Shalongrarg up by the head again and look him in his terrified eyes again.  \"So, your brother plans to challenge me.  Perhaps some of your people have courage in them.  Perhaps they are not all like you, sheep to be slaughtered.\"  With a quick twist of your wrist, Shalongrarg's neck snaps loudly and he falls to the ground.  Suddenly you hear a loud noise from all of the bushes surrounding you.  A large army attacks you.",
+    "ua": "Пролунав шерех з кущів неподалік від дороги. Ви зістрибнули з коня, і з мечем у руці вирушили з'ясувати, в чому справа. Ви миттєво розсунули кущі, просунули туди свою руку і несподівано витягли червоношкіру істоту. Демон піднявся з землі і струсив бруд.\n\n\"Хто ти і чому за нами шпигував?!\" - питаєте ви.\n\nДемон дивиться на вас і посміхається. \"Я Шалонграрг. Я тут за наказом свого брата з Північного Сходу.\"\n\n\"А хто твій брат, що шпигує за мною?\"\n\"Мій брат - великий Лорд Джаред\", гордо відповідає демон. \"Без сумніву ви чули про нього. Його подвиги - легендарні. Всі бояться його імен.\"\n\nЗарозуміла посмішка демона зникає, коли ви починаєте бурхливо сміятися. \"Джаред? Так, я знаю його. Я чув, що він нікудишній грабіжник доріг, який керує бандою покидьків. Легендарні подвиги? Його шалені витівки як дзижчача муха, що коштує хіба що ляпанця. І ти, Шалонграг, мав нахабство пишатися такою репутацією! Скажи, згоріла жаба, що таке посміховисько, лорд хоче від великого Сандро?\"\n \n\"Я... У мене наказ мовчати\",- заїкається Шалограрг. Ніхто досі не смів так говорити про його брата.\n\"Розкажи мені про плани твого брата, або ти будеш миттєво четвертований.\"\n\nДемон сутулиться і мовчки дивиться в землю. Ви хапаєте його за роги і змушуєте його подивитися вам в очі. \"Ти шукав Сандро і тепер знайшов. Говори мені, чому твій братик-черв'як зацікавився мною!\" Очі Шалонграрга випинаються, а вуха заливаються кров'ю під вашим тиском. Ви тримайте його ближче до себе. \"Я розіб'ю твій череп, як яйця орла, якщо ти мені не скажеш!\" Ви несподівано відпускаєте нещасного демона, і він падає на землю. Ви піднімаєте свою ногу і ставите на його череп.\n\n\"Почекайте, Зачекайте!\" схлипує демон. \"Я скажу вам, що ви хочете знати. Коли мій брат дізнався про ваші артефакти, він наказав відвоювати їх у вас за будь-яку ціну. Мене послали, щоб з'ясувати будь-яку інформацію про ваше пересування.\"\n\nВи підіймаєте Шалонграрга і знову дивитеся в його перелякані очі. \"Так твій брат кидає мені виклик. Можливо, деякі ваші люди мають таку хоробрість. Можливо, що не всі такі як ти, вівця для різанини.\" Моментальним рухом вашої кисті, шия Шалограрга голосно тріснула, і він впав на землю. Раптово, ви чуєте шарудіння у всіх кущах навколо вас. Вас атакує величезна армія."
+  },
+  {
+    "var": "SANDRO_M1_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Day 1",
+    "ua": "Day 1"
+  },
+  {
+    "var": "SANDRO_M1_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "At last!  You have the Cloak of the Undead King and the Armor of the Damned!  Your plans to take over Deyja can now commence!  Ethric, your old master, became furious when he received word you became a Necromancer.  When he learns about your plans with these two artifacts, he will be absolutely livid!\n\nYou have also learned Ethric has spread word of your whereabouts to those who lost these two precious artifacts and to others who have their own reasons for despising Necromancers. Your journey to Deyja might have a difficult start, so you send a party of scouts ahead to search for any signs of an ambush.",
+    "ua": "Нарешті! Ви отримали Плащ Короля нечисті й Броню Проклятих! Ваші плани із захоплення Деї можуть тепер стартувати! Етрік, ваш старий майстер, був в люті, коли дізнався, що ви стали некромантом. Коли він зрозуміє ваші плани, він побагровіє від злості!\n\nВи також дізналися, що Етрік поширив чутки про ваше місцезнаходження для тих, хто бажає володіти вашими артефактами і для тих, хто просто ненавидить некромантів. Ваша подорож в Дею може стати важким початком, тому ви посилаєте скаутів, щоб дізнатися, чи немає засідки."
+  },
+  {
+    "var": "SANDRO_M1_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Letter from Jeddite",
+    "ua": "Letter from Jeddite"
+  },
+  {
+    "var": "SANDRO_M1_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "You have just received a threatening letter from the Barbarians due west.  It reads:\n\n\"Sandro,\n\nMy name is Jeddite.  Perhaps you remember me, if your memories are not clouded by your undead mind.  We were students together under Ethric.  By becoming Necromancer, you have completely shamed me, for it was I who introduced you to Ethric.  I should have listened to him.  From the start, he doubted your ability to wisely endure the burden of magical knowledge.\n\nEthric told me of the two artifacts now in your possession.  Know this, Sandro: you will not get past me on your journey to Deyja.  I have allied with the Rampart town up north, and they stand with me against you.  I will take the artifacts from your rotting corpse and return them to Ethric.\"\n\nYou do remember this Jeddite.  Not only was he one of Ethric's best students, he was also your best friend.  So, he feels guilty for introducing you to Ethric.  You will have to find a way use this weakness against him.",
+    "ua": "Ви отримали загрозливий лист від варварів із заходу. Він говорить:\n\n\"Сандро,\n\nМоє ім'я Джеддіт. Можливо, ви пам'ятаєте мене, якщо ваша пам'ять не затуманена вашим нечестивим розумом. Ми обидва були учнями Етріка. Ставши некромантом, ви повністю збезчестили мене, оскільки саме я представив вас Етріку. Мені слід було б його послухати. З самого початку, він сумнівався, що ви зможете винести відповідальність за магічні знання.\n\nЕтрік повідав мені про два артефакти, що знаходяться у вас. Знайте, Сандро: ви не зможете пройти повз мене на вашому шляху в Дею. Я об'єднався з Бастіонами на півночі, і вони на моєму боці проти вас. Я заберу артефакти з вашого гниючого тіла і поверну їх Етріку.\"\n\nВи добре пам'ятаєте цього Джеддіта. Він був не тільки кращим учнем Етріка, але і вашим кращим другом. Отже, він відчуває провину за те, що представив вас Етріку. Вам доведеться знайти спосіб використовувати цю його слабкість проти нього."
+  },
+  {
+    "var": "SANDRO_M1_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Reply to Jeddite",
+    "ua": "Reply to Jeddite"
+  },
+  {
+    "var": "SANDRO_M1_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "Your advisors remind you it has been almost a week since you received that threatening letter from your old friend.  They suggest you reply to it soon if you are to use your friendship to your advantage.  You order for a messenger.\n\n\"Deliver this message to Jeddite: I have received your letter of warning.  Am I suppose run and hide, fearful of your vow to stop me?  No, your threat only strengthens my resolve.  I will take these artifacts to Deyja, where I shall use them rise to the top of the Deyja hierarchy.  You and your pitiful little band cannot stop me.  If you stand in my way, I will kill every living soul under your command and convert their undead bodies to my cause.  By the way, thank you for introducing me to the powers of magic.  Without your help, I would never have achieved such greatness.\"\n\nThe messenger quickly writes your message onto a scroll and goes on his way.  You wonder to yourself if the message was perhaps a little too confident.  But, hopefully, giving him a glimpse of the monster he helped to create will shatter his own confidence.",
+    "ua": "Ваші радники нагадують вам, що вже минув тиждень, відколи ви одержали попередження про небезпеку від ваших старих друзів. Вони розраховують швидко отримати відповідь на підтвердження вашої дружби. Ви направляєте посланця.\n\n\"Зробіть це повідомлення Джеддіту: Я отримав ваше попередження. Мені напевно треба втікати і ховатися, у страху від вашої клятви зупинити мене. Ні, ваша загроза тільки додала мені сил. Я візьму ці артефакти в Дею, де я збираючись встати на вершину місцевої ієрархії. Ви і ваша нещасна маленька банда не зупинять мене. Якщо ви станете на моєму шляху, я вб'ю кожну живу душу під вашим керівництвом і зверну їх під своє командування. Між іншим, дякую вам, що розповідали про могутність магії. Без вашої допомоги, я ніколи не зміг би досягти такої могутності.\"\n\nПосланник швидко записує те, що ви сказали на сувій і збирається в дорогу. Вам цікаво, чи не буде це послання занадто самовпевненим. Але, на щастя, показавши йому посмішку монстра, якого він допоміг створити, ви знизите його власну самовпевненість."
+  },
+  {
+    "var": "SANDRO_M1_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "Letters to Enemies.",
+    "ua": "Letters to Enemies."
+  },
+  {
+    "var": "SANDRO_M1_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "Sending a message confidently announcing your intentions to your enemy is not normally your approach. You prefer a deceitful manipulation or a surprise attack to the chivalry of civilized warfare.  However, you are paying your advisors a large sum of gold to reveal your enemies' weaknesses to you, and they advise you thusly: \"Send a message to all towns in this area announcing you hold the artifacts.  Then explain with excruciating detail just how terribly powerful you will become when you use them. Tell them if they don't permit you to pass, you will use the artifacts in battle and cast the shadow of death over their land.\"\n\nYou agree that the announcement will at the very least shake your enemy's confidence and perhaps even delay them with debate so that you can continue your journey into Deyja.  If the message fails to deter them from blocking your passage, then you can always fall back on the more sinister methods of persuasion you prefer.  After several hours of rough drafts and wine goblets, you finally settle upon the final wording to be sent at the next dawn.",
+    "ua": "Розсилка послань, які відкрито говорять про ваші наміри, не входить у ваші плани. Ви віддаєте перевагу підступній маніпуляції або несподіваній атаці, а не лицарству і цивілізованій війні. Однак, ви платите вашим радникам велику суму золота, щоб отримувати інформацію про слабкості своїх противників, і вони вам радять: \"Пошліть повідомлення всім довколишнім містам про те, що ви володієте цими артефактами. Потім докладно опишіть, які ви могутні з ними. Скажіть їм , що якщо не дозволять вам пройти, то над їх головами прослизне тінь смерті.\"\n\nВи погоджуєтесь, що це буде дуже хорошим ходом, і навіть можливо змусить їх залишити вас у спокої на шляху в Дею. Якщо послання як-небудь не зможе дійти до них, то ви зможете застосувати більш жорстокі способи досягнення своєї мети. Після декількох годин зборів армії і кількох келихів вина, ви нарешті приступаєте до остаточного формулювання, яке завтра буде надіслане."
+  },
+  {
+    "var": "SANDRO_M1_mapevent4_name",
+    "field": "map_mapevent4_name",
+    "en": "Everyone knows",
+    "ua": "Everyone knows"
+  },
+  {
+    "var": "SANDRO_M1_mapevent4_mesg",
+    "field": "map_mapevent4_mesg",
+    "en": "By now, all the fools standing between you and Deyja know about carry the artifacts you carry; however, there has been no official response to your message.  This could mean a few things: they are quietly preparing a surprise attack; they don't believe you are a threat worthy of serious consideration, or they are a very weak and easily frightened people.  You suspect that latter explanation and wonder what Ethric was thinking when he enlisted these people in his cause.",
+    "ua": "Тепер, всі дурні, що стоять між вами і Деєю, знають про ваші артефакти, тим не менш, жодної реакції на вашу заяву не було. Це могло означати кілька речей: вони готують несподівану атаку, як і раніше не вважаючи вас серйозною загрозою, або вони налякані до напівсмерті. Ви підозрюєте, що саме останнє послужило причиною мовчання."
+  },
+  {
+    "var": "SANDRO_M1_mapevent5_name",
+    "field": "map_mapevent5_name",
+    "en": "Rumors",
+    "ua": "Rumors"
+  },
+  {
+    "var": "SANDRO_M1_mapevent5_mesg",
+    "field": "map_mapevent5_mesg",
+    "en": "A spy returns with word has come about internal conflicts among your enemies.  Your old friend Jeddite and his allies want to seize the artifacts and promptly return them to Ethric.  However, two other allied stronghold towns to the North and to the Northeast want the artifacts to remain in their possession.  According to you advisors, Lord Jabarkas, the leader of these two towns, is Ethric's illegitimate younger brother suffers from Little Man's Syndrome.  It seems that Jabarkas has always been envious of his older brother's prestige, and you suspect that he believes he can gain more respect from his peers were he to have the two artifacts.\n\nYou permit yourself a sinister smile.  Psychological attacks are the kind you enjoy most.  With any luck, your enemies might just kill each other off, and you can pass through to Deyja like a shadow in the night.\"",
+    "ua": "Шпигун повернувся з новиною, що ваша заява послужила відкриттю конфлікту серед ваших ворогів. Ваш старий друг і його союзники хочуть, що б не сталося, повернути артефакти Етріку. Проте, два інших об'єднаних бастіони на півночі і північному сході хотіли б отримати артефакти у своє розпорядження. Як і передбачали ваші радники, Лорд Джабаркас, ватажок цих двох міст, незаконнонароджений молодший брат Етріка страждає від синдрому маленької людини. Джабаркас завжди заздрив престижу старшого брата, і ви підозрюєте, що він сподівається отримати великий авторитет з цими артефактами.\n\nВи зловісно посміхаєтеся. Психологічні атаки - ваша найулюбленіша розвага. Ваші вороги можуть перебити один одного самі, а ви спокійно пройдете в Деєю як нічна тінь."
+  },
+  {
+    "var": "SANDRO_M1_mapevent6_name",
+    "field": "map_mapevent6_name",
+    "en": "Message",
+    "ua": "Message"
+  },
+  {
+    "var": "SANDRO_M1_mapevent6_mesg",
+    "field": "map_mapevent6_mesg",
+    "en": "Your spies send a message: \n\n\"My Sovereign,\n\nAs difficult as our travels may be now, we don't foresee them getting any easier.  We have learned desert surrounds our base of operations.  This desert is infested with hostile creatures guarding all mines, taverns and anything else they can lay claim to.  Our enemies have great numbers with many heroes to command them. You must travel very carefully and be prepared for battle at all times.\"",
+    "ua": "Ваші шпигуни посилають повідомлення:\n\n\"Мій повелителю,\n\nнаша подорож так ускладнилася, ми не бачимо ніяких поліпшень. Ми дізналися, що нас оточує пустеля. Ця пустеля кишить ворожими істотами, що охороняють рудники, таверни і все, що тільки можна. Наші вороги мають великі сили з багатьма героями на чолі. Ви повинні подорожувати дуже обережно і бути готовим до сутички в будь-який момент.\""
+  },
+  {
+    "var": "SANDRO_M1_mapevent7_name",
+    "field": "map_mapevent7_name",
+    "en": "Attempt to assassinate",
+    "ua": "Attempt to assassinate"
+  },
+  {
+    "var": "SANDRO_M1_mapevent7_mesg",
+    "field": "map_mapevent7_mesg",
+    "en": "\"Dreadful news, sir!\"  A soldier frantically runs up to you and tells you that someone broke into your quarters, slashed your linens, and drove a large sword through the middle of you bed.  Attached was a note saying, \"Sandro, death to you and all who would follow you.  I will seize those artifacts you have stolen.\"  The note was unsigned.\n\n\"Sir, I'm sorry to report that the intruder, whoever it was, came and went undetected,\" the soldier continues.  \"And the news gets worse, sir.  The intruder took your hidden gold --. all of it.  A thousand apologies, sir.\"\n\nWith a snarl, you raise your sword and lop off the soldier's head.  You could have been assassinated had you slept in your bed last night.  Your troops need to be better trained in the art of defending against covert attacks.",
+    "ua": "\"Жахливі новини, сер!\" Солдат падає ниць перед вами і розповідає, що хтось увірвався в ваш тент, почикрижив вашу постіль і встромив величезний меч посеред неї. У прикріпленій записці сказано: \"Сандро, смерть тобі і всім хто піде за тобою. Я відберу артефакти, які ти вкрав.\" Записка була непідписана.\n\n\"Сер, я жалкую про те, що мені доводиться доповідати про це, хто б це не був, що пробрався до вас непоміченим\" продовжує солдат. \"І це ще не все. Він взяв ваше заховане золото, все. Тисяча вибачень, сер.\"\n\nЗ диким риком ви підіймаєте меч і обрушуєте його на голову солдата. Ви могли б бути вбитим минулої ночі. Вашим воїнам слід бути більш підготовленими, щоб не допускати такого надалі."
+  }
+]

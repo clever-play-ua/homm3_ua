@@ -1,0 +1,15 @@
+{
+  "sequences": [
+    {
+      "group": 0,
+      "frames": [
+        "MMENUNG.dir\\00_00.png",
+        "MMENUNG.dir\\00_01.png",
+        "MMENUNG.dir\\00_02.png",
+        "MMENUNG.dir\\00_03.png"
+      ]
+    }
+  ],
+  "type": 66,
+  "format": 1
+}

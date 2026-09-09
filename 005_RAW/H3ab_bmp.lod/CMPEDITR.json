@@ -1,0 +1,817 @@
+[
+  {
+    "var": "CMPEDITR_1",
+    "en": "\"Note: Do not change the headings in this file, they are used to detect problems\"",
+    "ua": "\"Note: Do not change the headings in this file, they are used to detect problems\""
+  },
+  {
+    "var": "CMPEDITR_2",
+    "en": "General",
+    "ua": "General"
+  },
+  {
+    "var": "CMPEDITR_3",
+    "en": "Heroes of Might and Magic(tm) III Campaign Editor",
+    "ua": "Редактор Кампаній Героїв Меча та Магії® III"
+  },
+  {
+    "var": "CMPEDITR_4",
+    "en": "\"© 1999 The 3DO Company. All Rights Reserved. 3DO, Heroes of Might and Magic, Armageddon's Blade, New World Computing, and their respective logos, are trademarks and/or service marks of The 3DO Company in the U.S. and other countries. New World Computing is a division of The 3DO Company.\"",
+    "ua": "\"© 2000 The 3DO Company. Всі права захищено. 3DO, Heroes, Heroes of Might and Magic, New World Computing, The Shadow of Death, та їхні логотипи, є торговими і/або обслуговуючими марками 3DO Company у США та інших країнах. New World Computing є підрозділом The 3DO Company.\""
+  },
+  {
+    "var": "CMPEDITR_5",
+    "en": "Version %s",
+    "ua": "Версія %s"
+  },
+  {
+    "var": "CMPEDITR_6",
+    "en": "Heroes 3 Campaign Files (*.h3c)",
+    "ua": "Файли Кампаній Героїв 3 (*.h3c)"
+  },
+  {
+    "var": "CMPEDITR_7",
+    "en": "Heroes 3 Campaign",
+    "ua": "Кампанії Героїв 3"
+  },
+  {
+    "var": "CMPEDITR_8",
+    "en": "Your display must be set to at least 16-bit color to run the Campaign Editor!",
+    "ua": "На вашому моніторі повинно бути встановлено щонайменше 16-біт кольору для запуску Редактора Кампаній!"
+  },
+  {
+    "var": "CMPEDITR_9",
+    "en": "Debug Build",
+    "ua": "Налагоджувана версія"
+  },
+  {
+    "var": "CMPEDITR_10",
+    "en": "Release Build",
+    "ua": "Реліз"
+  },
+  {
+    "var": "CMPEDITR_11",
+    "en": "OK",
+    "ua": "Гаразд"
+  },
+  {
+    "var": "CMPEDITR_12",
+    "en": "About Campaign Editor",
+    "ua": "Про редактор кампаній"
+  },
+  {
+    "var": "CMPEDITR_13",
+    "en": "Player %d (%s)",
+    "ua": "Гравець %d (%s)"
+  },
+  {
+    "var": "CMPEDITR_14",
+    "en": "Random Town",
+    "ua": "Випадкове місто"
+  },
+  {
+    "var": "CMPEDITR_15",
+    "en": "\"\"\"%s\"\" is invalid or corrupt.  Unable to import.\"",
+    "ua": "\"\"\"%s\"\" неправильний або пошкоджений.  Неможливо імпортувати.\""
+  },
+  {
+    "var": "CMPEDITR_16",
+    "en": "\"\"\"%s\"\" is unplayable.  Unable to import.\"",
+    "ua": "\"\"\"%s\"\" невідтворюваний.  Неможливо імпортувати.\""
+  },
+  {
+    "var": "CMPEDITR_17",
+    "en": "\"\"\"%s\"\" has an invalid format version.  Unable to import.\"",
+    "ua": "\"\"\"%s\"\" має неправильну версію формату.  Неможливо імпортувати.\""
+  },
+  {
+    "var": "CMPEDITR_18",
+    "en": "\"\"\"%s\"\" has an old format version.  Unable to import.\"",
+    "ua": "\"\"\"%s\"\" має стару версію формату.  Неможливо імпортувати.\""
+  },
+  {
+    "var": "CMPEDITR_19",
+    "en": "\"Invalid campaign file version!\n\nFile version = %d\nCurrent version = %d\"",
+    "ua": "\"Неправильна версія файлу кампанії!\n\nВерсія файлу = %d\nПоточна версія = %d\""
+  },
+  {
+    "var": "CMPEDITR_20",
+    "en": "Invalid or corrupt campaign file!",
+    "ua": "Неправильний або пошкоджений файл кампанії!"
+  },
+  {
+    "var": "CMPEDITR_21",
+    "en": "\"%s already exists.\nDo you want to replace it?\"",
+    "ua": "\"%s вже існує.\nБажаєте замінити?\""
+  },
+  {
+    "var": "CMPEDITR_22",
+    "en": "Properties...",
+    "ua": "Властивості…"
+  },
+  {
+    "var": "CMPEDITR_23",
+    "en": "Most Powerful Hero",
+    "ua": "Найсильніший герой"
+  },
+  {
+    "var": "CMPEDITR_24",
+    "en": "Generated Hero",
+    "ua": "Герой, що генерується"
+  },
+  {
+    "var": "CMPEDITR_25",
+    "en": "and",
+    "ua": "і"
+  },
+  {
+    "var": "CMPEDITR_26",
+    "en": "Random Hero",
+    "ua": "Випадковий герой"
+  },
+  {
+    "var": "CMPEDITR_27",
+    "en": "(None)",
+    "ua": "(Немає)"
+  },
+  {
+    "var": "CMPEDITR_28",
+    "en": "Easy",
+    "ua": "Легко"
+  },
+  {
+    "var": "CMPEDITR_29",
+    "en": "Normal",
+    "ua": "Нормально"
+  },
+  {
+    "var": "CMPEDITR_30",
+    "en": "Hard",
+    "ua": "Складно"
+  },
+  {
+    "var": "CMPEDITR_31",
+    "en": "Expert",
+    "ua": "Дуже складно"
+  },
+  {
+    "var": "CMPEDITR_32",
+    "en": "Impossible",
+    "ua": "Неможливо"
+  },
+  {
+    "var": "CMPEDITR_33",
+    "en": "\"Heroes 3 Map Files (*.h3m)\n.h3m\"",
+    "ua": "\"Файли карт Героїв 3 (*.h3m)\n.h3m\""
+  },
+  {
+    "var": "CMPEDITR_34",
+    "en": "Prologue",
+    "ua": "Пролог"
+  },
+  {
+    "var": "CMPEDITR_35",
+    "en": "&Has prologue",
+    "ua": "&Має пролог"
+  },
+  {
+    "var": "CMPEDITR_36",
+    "en": "Epilogue",
+    "ua": "Епілог"
+  },
+  {
+    "var": "CMPEDITR_37",
+    "en": "&Has epilogue",
+    "ua": "&Має епілог"
+  },
+  {
+    "var": "CMPEDITR_38",
+    "en": "Scenario Properties",
+    "ua": "Властивості сценарію"
+  },
+  {
+    "var": "CMPEDITR_39",
+    "en": "%s spell",
+    "ua": "Закляття %s"
+  },
+  {
+    "var": "CMPEDITR_40",
+    "en": "Give %s to %s",
+    "ua": "Дати %s - %s"
+  },
+  {
+    "var": "CMPEDITR_41",
+    "en": "Build %s at Main Town",
+    "ua": "Побудувати %s в головному місті"
+  },
+  {
+    "var": "CMPEDITR_42",
+    "en": "Receive %d %s",
+    "ua": "Отримати %d %s"
+  },
+  {
+    "var": "CMPEDITR_43",
+    "en": "Cancel",
+    "ua": "Відміна"
+  },
+  {
+    "var": "CMPEDITR_44",
+    "en": "Help",
+    "ua": "Довідка"
+  },
+  {
+    "var": "CMPEDITR_45",
+    "en": "Campaign Properties Dialog",
+    "ua": "\"Текстові файли (*.txt)\n.txt\""
+  },
+  {
+    "var": "CMPEDITR_46",
+    "en": "Campaign Properties",
+    "ua": "\"Неможливо імпортувати файл \"\"%s\"\".\""
+  },
+  {
+    "var": "CMPEDITR_47",
+    "en": "Map:",
+    "ua": "\"Файл \"\"%s\"\" вдало імпортований.\""
+  },
+  {
+    "var": "CMPEDITR_48",
+    "en": "&Name:",
+    "ua": "Ім'я:"
+  },
+  {
+    "var": "CMPEDITR_49",
+    "en": "&Description",
+    "ua": "Опис"
+  },
+  {
+    "var": "CMPEDITR_50",
+    "en": "&Scenario difficulty is user selectable",
+    "ua": "Текст після натискання правою кнопкою миші"
+  },
+  {
+    "var": "CMPEDITR_51",
+    "en": "&Theme music:",
+    "ua": "Пролог"
+  },
+  {
+    "var": "CMPEDITR_52",
+    "en": "Edit Hero Crossover Option Dialog",
+    "ua": "Епілог"
+  },
+  {
+    "var": "CMPEDITR_53",
+    "en": "Edit Hero Crossover Option",
+    "ua": "Campaign Properties Dialog"
+  },
+  {
+    "var": "CMPEDITR_54",
+    "en": "&Source scenario:",
+    "ua": "Властивості кампанії"
+  },
+  {
+    "var": "CMPEDITR_55",
+    "en": "&Player position:",
+    "ua": "Карта:"
+  },
+  {
+    "var": "CMPEDITR_56",
+    "en": "Edit Starting Bonus Type Dialog",
+    "ua": "&Ім'я:"
+  },
+  {
+    "var": "CMPEDITR_57",
+    "en": "Edit Starting Bonus",
+    "ua": "&Опис"
+  },
+  {
+    "var": "CMPEDITR_58",
+    "en": "Select a bonus type:",
+    "ua": "Рівень &складності сценарію може бути вибраний гравцем"
+  },
+  {
+    "var": "CMPEDITR_59",
+    "en": "&Spell",
+    "ua": "&Музика:"
+  },
+  {
+    "var": "CMPEDITR_60",
+    "en": "&Creature",
+    "ua": "Версія кампанії"
+  },
+  {
+    "var": "CMPEDITR_61",
+    "en": "&Building",
+    "ua": "&Клинок Армагеддону"
+  },
+  {
+    "var": "CMPEDITR_62",
+    "en": "&Artifact",
+    "ua": "&Подих Смерті"
+  },
+  {
+    "var": "CMPEDITR_63",
+    "en": "Sp&ell scroll",
+    "ua": "Edit Hero Crossover Option Dialog"
+  },
+  {
+    "var": "CMPEDITR_64",
+    "en": "&Primary skill",
+    "ua": "Редагувати властивості героя, що переходить"
+  },
+  {
+    "var": "CMPEDITR_65",
+    "en": "Sec&ondary skill",
+    "ua": "&Вихідний сценарій:"
+  },
+  {
+    "var": "CMPEDITR_66",
+    "en": "&Resource",
+    "ua": "Позиція г&равця:"
+  },
+  {
+    "var": "CMPEDITR_67",
+    "en": "Recipient:",
+    "ua": "Edit Starting Bonus Type Dialog"
+  },
+  {
+    "var": "CMPEDITR_68",
+    "en": "Artifact:",
+    "ua": "Редагувати початковий бонус"
+  },
+  {
+    "var": "CMPEDITR_69",
+    "en": "Creature type:",
+    "ua": "Вибрати тип бонусу:"
+  },
+  {
+    "var": "CMPEDITR_70",
+    "en": "Quantity:",
+    "ua": "&Закляття"
+  },
+  {
+    "var": "CMPEDITR_71",
+    "en": "Building:",
+    "ua": "&Створіння"
+  },
+  {
+    "var": "CMPEDITR_72",
+    "en": "Spell:",
+    "ua": "&Споруда"
+  },
+  {
+    "var": "CMPEDITR_73",
+    "en": "Attack skill:",
+    "ua": "&Артефакт"
+  },
+  {
+    "var": "CMPEDITR_74",
+    "en": "Defense skill:",
+    "ua": "Су&вій із заклинанням"
+  },
+  {
+    "var": "CMPEDITR_75",
+    "en": "Spell power:",
+    "ua": "&Основна навичка"
+  },
+  {
+    "var": "CMPEDITR_76",
+    "en": "Knowledge:",
+    "ua": "&Додаткове вміння"
+  },
+  {
+    "var": "CMPEDITR_77",
+    "en": "Secondary skill:",
+    "ua": "&Ресурси"
+  },
+  {
+    "var": "CMPEDITR_78",
+    "en": "Mastery:",
+    "ua": "Одержувач:"
+  },
+  {
+    "var": "CMPEDITR_79",
+    "en": "Resource type:",
+    "ua": "Артефакт:"
+  },
+  {
+    "var": "CMPEDITR_80",
+    "en": "Edit Starting Hero Option Dialog",
+    "ua": "Тип створіння:"
+  },
+  {
+    "var": "CMPEDITR_81",
+    "en": "Edit Starting Hero Option",
+    "ua": "Кількість:"
+  },
+  {
+    "var": "CMPEDITR_82",
+    "en": "&Hero identity:",
+    "ua": "Споруда:"
+  },
+  {
+    "var": "CMPEDITR_83",
+    "en": "&Player position:",
+    "ua": "Закляття:"
+  },
+  {
+    "var": "CMPEDITR_84",
+    "en": "New Campaign Dialog",
+    "ua": "Вміння Нападу:"
+  },
+  {
+    "var": "CMPEDITR_85",
+    "en": "New Campaign",
+    "ua": "Вміння Захисту:"
+  },
+  {
+    "var": "CMPEDITR_86",
+    "en": "Campaign &map:",
+    "ua": "Сила Магії:"
+  },
+  {
+    "var": "CMPEDITR_87",
+    "en": "Scenario Properties Crossover Page",
+    "ua": "Знання:"
+  },
+  {
+    "var": "CMPEDITR_88",
+    "en": "Crossover Options",
+    "ua": "Додаткове вміння:"
+  },
+  {
+    "var": "CMPEDITR_89",
+    "en": "Crossover heroes retain:",
+    "ua": "Майстерність:"
+  },
+  {
+    "var": "CMPEDITR_90",
+    "en": "&Experience",
+    "ua": "Тип ресурсу:"
+  },
+  {
+    "var": "CMPEDITR_91",
+    "en": "&Primary skills",
+    "ua": "Edit Starting Hero Option Dialog"
+  },
+  {
+    "var": "CMPEDITR_92",
+    "en": "Sec&ondary skills",
+    "ua": "Редагування властивостей початкового героя"
+  },
+  {
+    "var": "CMPEDITR_93",
+    "en": "&Spells",
+    "ua": "&Особа героя:"
+  },
+  {
+    "var": "CMPEDITR_94",
+    "en": "&Artifacts",
+    "ua": "&Гравець:"
+  },
+  {
+    "var": "CMPEDITR_95",
+    "en": "&Creature types:",
+    "ua": "New Campaign Dialog"
+  },
+  {
+    "var": "CMPEDITR_96",
+    "en": "A&ll",
+    "ua": "Нова Кампанія"
+  },
+  {
+    "var": "CMPEDITR_97",
+    "en": "&None",
+    "ua": "&Мапа кампанії:"
+  },
+  {
+    "var": "CMPEDITR_98",
+    "en": "Crossover a&rtifacts:",
+    "ua": "Версія кампанії"
+  },
+  {
+    "var": "CMPEDITR_99",
+    "en": "Scenario Properties General Page",
+    "ua": "Клинок &Армагеддону"
+  },
+  {
+    "var": "CMPEDITR_100",
+    "en": "General",
+    "ua": "&Подих Смерті"
+  },
+  {
+    "var": "CMPEDITR_101",
+    "en": "Region name:",
+    "ua": "Scenario Properties Crossover Page"
+  },
+  {
+    "var": "CMPEDITR_102",
+    "en": "Region &color:",
+    "ua": "Налаштування героїв, що переходять"
+  },
+  {
+    "var": "CMPEDITR_103",
+    "en": "Scenario name:",
+    "ua": "Герої, що переходять зберігають:"
+  },
+  {
+    "var": "CMPEDITR_104",
+    "en": "Map file",
+    "ua": "&Досвід"
+  },
+  {
+    "var": "CMPEDITR_105",
+    "en": "&Import...",
+    "ua": "&Основні навички"
+  },
+  {
+    "var": "CMPEDITR_106",
+    "en": "Re&fresh...",
+    "ua": "&Додаткове вміння"
+  },
+  {
+    "var": "CMPEDITR_107",
+    "en": "&Export...",
+    "ua": "&Закляття"
+  },
+  {
+    "var": "CMPEDITR_108",
+    "en": "&Remove",
+    "ua": "&Артефакти"
+  },
+  {
+    "var": "CMPEDITR_109",
+    "en": "Default &difficulty:",
+    "ua": "&Типи істот:"
+  },
+  {
+    "var": "CMPEDITR_110",
+    "en": "&Prerequisites:",
+    "ua": "У&се"
+  },
+  {
+    "var": "CMPEDITR_111",
+    "en": "Re&gion right-click text:",
+    "ua": "&Нічого"
+  },
+  {
+    "var": "CMPEDITR_112",
+    "en": "Scenario Properties Prologue Page",
+    "ua": "&Перехід артефактів:"
+  },
+  {
+    "var": "CMPEDITR_113",
+    "en": "M&ovie:",
+    "ua": "Scenario Properties General Page"
+  },
+  {
+    "var": "CMPEDITR_114",
+    "en": "M&usic:",
+    "ua": "Загальне"
+  },
+  {
+    "var": "CMPEDITR_115",
+    "en": "&Message:",
+    "ua": "Назва регіону:"
+  },
+  {
+    "var": "CMPEDITR_116",
+    "en": "Scenario Properties Starting Options Page",
+    "ua": "&Колір регіону:"
+  },
+  {
+    "var": "CMPEDITR_117",
+    "en": "Starting Options",
+    "ua": "Назва сценарію:"
+  },
+  {
+    "var": "CMPEDITR_118",
+    "en": "Starting options are:",
+    "ua": "Файли мап"
+  },
+  {
+    "var": "CMPEDITR_119",
+    "en": "&Starting bonus options",
+    "ua": "&Імпортувати…"
+  },
+  {
+    "var": "CMPEDITR_120",
+    "en": "Hero &crossover options",
+    "ua": "&Оновити…"
+  },
+  {
+    "var": "CMPEDITR_121",
+    "en": "Starting &hero options",
+    "ua": "&Експортувати…"
+  },
+  {
+    "var": "CMPEDITR_122",
+    "en": "&Player position",
+    "ua": "&Видалити"
+  },
+  {
+    "var": "CMPEDITR_123",
+    "en": "Starting bonus &options",
+    "ua": "&Складність за замовчуванням:"
+  },
+  {
+    "var": "CMPEDITR_124",
+    "en": "&Add...",
+    "ua": "&Умови:"
+  },
+  {
+    "var": "CMPEDITR_125",
+    "en": "&Edit...",
+    "ua": "&Текст регіону по правому кліку:"
+  },
+  {
+    "var": "CMPEDITR_126",
+    "en": "&Remove",
+    "ua": "Scenario Properties Prologue Page"
+  },
+  {
+    "var": "CMPEDITR_127",
+    "en": "Source scenario",
+    "ua": "&Відео:"
+  },
+  {
+    "var": "CMPEDITR_128",
+    "en": "Hero",
+    "ua": "&Музика:"
+  },
+  {
+    "var": "CMPEDITR_Main Menu Text",
+    "en": "Main Menu Text\t",
+    "ua": "&Повідомлення:"
+  },
+  {
+    "var": "CMPEDITR_&File",
+    "en": "&File\t",
+    "ua": "Scenario Properties Starting Options Page"
+  },
+  {
+    "var": "CMPEDITR_&Edit",
+    "en": "&Edit\t",
+    "ua": "Початкові опції"
+  },
+  {
+    "var": "CMPEDITR_&Help",
+    "en": "&Help\t",
+    "ua": "Початкові опції:"
+  },
+  {
+    "var": "CMPEDITR_File Menu",
+    "en": "File Menu\t",
+    "ua": "Вибір стартових &бонусів"
+  },
+  {
+    "var": "CMPEDITR_&New…",
+    "en": "&New…\tCtrl+N",
+    "ua": "Вибір &героїв, що переходять"
+  },
+  {
+    "var": "CMPEDITR_&Open…",
+    "en": "&Open…\tCtrl+O",
+    "ua": "Вибір &початкових героїв"
+  },
+  {
+    "var": "CMPEDITR_&Save",
+    "en": "&Save\tCtrl+S",
+    "ua": "&Гравець"
+  },
+  {
+    "var": "CMPEDITR_Save &As…",
+    "en": "Save &As…\t",
+    "ua": "Налаштування стартових &бонусів"
+  },
+  {
+    "var": "CMPEDITR_&Refresh Scenario Maps",
+    "en": "&Refresh Scenario Maps\tCtrl+R",
+    "ua": "&Додати…"
+  },
+  {
+    "var": "CMPEDITR_&Export Scenario Maps",
+    "en": "&Export Scenario Maps\tCtrl+E",
+    "ua": "&Змінити…"
+  },
+  {
+    "var": "CMPEDITR_Recent Files",
+    "en": "Recent Files\t",
+    "ua": "&Видалити"
+  },
+  {
+    "var": "CMPEDITR_E&xit",
+    "en": "E&xit\t",
+    "ua": "Вихідний сценарій"
+  },
+  {
+    "var": "CMPEDITR_Edit Menu",
+    "en": "Edit Menu\t",
+    "ua": "Герой"
+  },
+  {
+    "var": "CMPEDITR_&Campaign Properties…",
+    "en": "&Campaign Properties…\tCtrl+Enter",
+    "ua": "Main Menu Text"
+  },
+  {
+    "var": "CMPEDITR_&Scenario Properties…",
+    "en": "&Scenario Properties…\tEnter",
+    "ua": "&Файл"
+  },
+  {
+    "var": "CMPEDITR_145",
+    "en": "Help Menu",
+    "ua": "&Змінити\t"
+  },
+  {
+    "var": "CMPEDITR_146",
+    "en": "&Help Topics",
+    "ua": "&Довідка\t"
+  },
+  {
+    "var": "CMPEDITR_147",
+    "en": "&About Campaign Editor…",
+    "ua": "File Menu\t"
+  },
+  {
+    "var": "CMPEDITR_148",
+    "en": null,
+    "ua": "&Створити…\tCtrl+N"
+  },
+  {
+    "var": "CMPEDITR_149",
+    "en": null,
+    "ua": "&Відкрити…\tCtrl+O"
+  },
+  {
+    "var": "CMPEDITR_150",
+    "en": null,
+    "ua": "&Зберегти\tCtrl+S"
+  },
+  {
+    "var": "CMPEDITR_151",
+    "en": null,
+    "ua": "Зберегти &як…\t"
+  },
+  {
+    "var": "CMPEDITR_152",
+    "en": null,
+    "ua": "&Експортувати текст…\t"
+  },
+  {
+    "var": "CMPEDITR_153",
+    "en": null,
+    "ua": "&Імпортувати текст…\t"
+  },
+  {
+    "var": "CMPEDITR_154",
+    "en": null,
+    "ua": "О&новити мапи сценарію\tCtrl+R"
+  },
+  {
+    "var": "CMPEDITR_155",
+    "en": null,
+    "ua": "Е&кспортувати мапи сценарію\tCtrl+E"
+  },
+  {
+    "var": "CMPEDITR_156",
+    "en": null,
+    "ua": "Останні файли\t"
+  },
+  {
+    "var": "CMPEDITR_157",
+    "en": null,
+    "ua": "&Вихід\t"
+  },
+  {
+    "var": "CMPEDITR_158",
+    "en": null,
+    "ua": "Edit Menu\t"
+  },
+  {
+    "var": "CMPEDITR_159",
+    "en": null,
+    "ua": "Властивості &кампанії…\tCtrl+Enter"
+  },
+  {
+    "var": "CMPEDITR_160",
+    "en": null,
+    "ua": "Властивості &сценарію…\tEnter"
+  },
+  {
+    "var": "CMPEDITR_161",
+    "en": null,
+    "ua": "Help Menu"
+  },
+  {
+    "var": "CMPEDITR_162",
+    "en": null,
+    "ua": "&Розділи допомоги"
+  },
+  {
+    "var": "CMPEDITR_163",
+    "en": null,
+    "ua": "&Про редактор кампаній…"
+  }
+]

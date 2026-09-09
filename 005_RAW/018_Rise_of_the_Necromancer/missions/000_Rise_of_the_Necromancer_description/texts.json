@@ -1,0 +1,20 @@
+[
+  {
+    "var": "SANDRO_campaign_name",
+    "field": "wrapper_campaign_name",
+    "en": "Rise of the Necromancer",
+    "ua": "Піднесення некроманта"
+  },
+  {
+    "var": "SANDRO_campaign_desc",
+    "field": "wrapper_campaign_desc",
+    "en": "Sandro must fight his way past his old master and several other lords who want the artifacts he carries.  Once in Deyja he will make allies and soon rise to the top of the Deyja hierarchy.",
+    "ua": "Сандро повинен битися зі своїм старим учителем і декількома іншими лордами, які хотіли б мати його артефакти. Він знайде собі соратників у Деї і незабаром дістанеться до вершин ієрархії некромантів."
+  },
+  {
+    "var": "SANDRO_campaign_epilogue",
+    "field": "wrapper_campaign_epilogue",
+    "en": "Our plan has been a great success!  We are quickly on the rise.  The King is impressed with Finneas' stunning show of force and ability.  Soon the King will understand the full view of my vision.  Then it will be too late for him.",
+    "ua": "Наш розрахунок увінчався блискучим успіхом! Справи наші швидко йдуть в гору. Короля дуже вразила демонстрація наших сил і можливостей, яку влаштував Фінеас. Скоро король зрозуміє всю грандіозність моїх планів, але буде вже пізно!"
+  }
+]

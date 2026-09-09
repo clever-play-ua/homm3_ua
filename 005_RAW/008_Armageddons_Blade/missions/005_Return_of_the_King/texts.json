@@ -1,0 +1,290 @@
+[
+  {
+    "var": "AB_M5_prolog",
+    "field": "wrapper_prolog",
+    "en": "King Roland and General Morgan Kendal are on the western shores of the Great Lake and must take a mixed Erathian-Conflux army deep into Kreegan territory.  They must cross the lake and go through the mountains and prepare to make a push towards Catherine's army in the north, thus trapping the devils between the two forces.",
+    "ua": "Король Роланд і генерал Морган Кендал знаходяться на західному узбережжі Великого Озера і повинні провести об'єднану армію ерафійців і елементалів вглиб території Кригану. Вони повинні перетнути озеро, пройти через гори і приготуватися зробити кидок назустріч армії Катерини на півночі. Таким чином, дияволи будуть затиснуті між двох армій."
+  },
+  {
+    "var": "AB_M5_epilog",
+    "field": "wrapper_epilog",
+    "en": "Heroes from the Confluxes tell us the elemental gods have sent them to us, so together, we might destroy Lucifer Kreegan and his quest to set the world on fire.  Catherine trusts these new allies.  I am not as giving.  However, we do not have a choice as support for the war wanes and our forces dwindle.  If these elemental heroes are to be our allies, they will prove themselves in this forthcoming battle... under my command.",
+    "ua": "Герої з Колоній говорять, що їх послали нам самі боги Елементали. Разом ми повинні знищити Люцифера Кригана і запобігти загибелі світу. Катерина їм довіряє. Я ж більш обережний. Але вибору немає; Ерафія відмовляє нам у підтримці, і наші сили тануть. Якщо воїни елементалів хочуть стати нашими союзниками, саме час перевірити, на що вони здатні. Я поведу їх у бій."
+  },
+  {
+    "var": "AB_M5_map_name",
+    "field": "map_map_name",
+    "en": "Return of the King",
+    "ua": "Повернення короля"
+  },
+  {
+    "var": "AB_M5_map_desc",
+    "field": "map_map_desc",
+    "en": "Roland must defeat the demonic armies camped on the other side of the Great Lake.  Without Roland, the men will go their separate ways.  Roland will be allowed to attain 24th Level.  All of his experience, skills, and spells will carry over to his next scenario.",
+    "ua": "Роланду належить розгромити армії демонів на іншому березі Великого Озера. Без Роланда військо розпадеться. Роланд обмежений 24 рівнем. Якщо він переможе, його досвід, первинні та вторинні навички, а також Чарівна книга перейдуть у наступний сценарій разом з ним."
+  },
+  {
+    "var": "AB_M5_p1_owned_hero_name",
+    "field": "map_p1_owned_hero_name",
+    "en": "Gen. Kendal",
+    "ua": "Кендал"
+  },
+  {
+    "var": "AB_M5_rumor0_name",
+    "field": "map_rumor0_name",
+    "en": "Black Market",
+    "ua": "Black Market"
+  },
+  {
+    "var": "AB_M5_rumor0_desc",
+    "field": "map_rumor0_desc",
+    "en": "Hidden away on an island in the middle of the Great Lake is a thieves haven for stolen goods of a magical variety.",
+    "ua": "На маленькому острівці посеред Великого Озера причаївся розбійницький табір, де торгують краденими артефактами."
+  },
+  {
+    "var": "AB_M5_rumor1_name",
+    "field": "map_rumor1_name",
+    "en": "Gold Mine",
+    "ua": "Gold Mine"
+  },
+  {
+    "var": "AB_M5_rumor1_desc",
+    "field": "map_rumor1_desc",
+    "en": "The near inexhaustible treasure of some Regnan pirates can be found on an island east of Faler-on-Sea.",
+    "ua": "На схід від Фалера-на-Море лежить острів, де сховані невичерпні скарби піратів Регни."
+  },
+  {
+    "var": "AB_M5_rumor2_name",
+    "field": "map_rumor2_name",
+    "en": "Regnan Pirates 1",
+    "ua": "Regnan Pirates 1"
+  },
+  {
+    "var": "AB_M5_rumor2_desc",
+    "field": "map_rumor2_desc",
+    "en": "The Great Lake was once a hiding place for Regnan pirates escaping the Erathian Navy.  Many a ship may yet still be there, awaiting plunder.",
+    "ua": "Колись у водах Великого Озера ховалися від ерафійського флоту кораблі піратів Регни. До цієї пори вони борознять води озера, готові до легкої наживи."
+  },
+  {
+    "var": "AB_M5_rumor3_name",
+    "field": "map_rumor3_name",
+    "en": "Regnan Pirates 2",
+    "ua": "Regnan Pirates 2"
+  },
+  {
+    "var": "AB_M5_rumor3_desc",
+    "field": "map_rumor3_desc",
+    "en": "Erathian Admiral Magnus Bonn cornered the dread female pirate Pirouette in this lake.  Here she was defeated in battle and thus the Regnans ceased using this lake as a hiding place.",
+    "ua": "Магнус Бонн, адмірал ерафійського флоту, наздогнав у цьому озері Пірокету, зловісну королеву піратів. Після її смерті пірати Регни назавжди залишили озеро."
+  },
+  {
+    "var": "AB_M5_rumor4_name",
+    "field": "map_rumor4_name",
+    "en": "Halflings 1",
+    "ua": "Halflings 1"
+  },
+  {
+    "var": "AB_M5_rumor4_desc",
+    "field": "map_rumor4_desc",
+    "en": "I recently saw some Halflings and they looked mean, like they were getting ready for a fight or something.",
+    "ua": "Нещодавно я бачив халфлінгів, і очі їх горіли лютим вогнем, ніби вони шукали битви."
+  },
+  {
+    "var": "AB_M5_rumor5_name",
+    "field": "map_rumor5_name",
+    "en": "Halflings 2",
+    "ua": "Halflings 2"
+  },
+  {
+    "var": "AB_M5_rumor5_desc",
+    "field": "map_rumor5_desc",
+    "en": "Eeofol used to be the homeland of the Halflings.  That is, until the Night of Shooting Stars when the devils came.",
+    "ua": "Еофол був батьківщиною халфлінгів. Все змінила Ніч падучих зірок, коли прийшли дияволи."
+  },
+  {
+    "var": "AB_M5_rumor6_name",
+    "field": "map_rumor6_name",
+    "en": "Halflings 3",
+    "ua": "Halflings 3"
+  },
+  {
+    "var": "AB_M5_rumor6_desc",
+    "field": "map_rumor6_desc",
+    "en": "A Kreegan supply wagon was destroyed inexplicably last week and the only indication of who did it was a note carved in the wood that read \"Tavin's Guerillas were here.\"",
+    "ua": "Минулого тижня незрозумілим чином був знищений ще один криганський обоз. Грабіжники вирізали напис на розграбованому возі: \"Тут були партизани Тевіна\"."
+  },
+  {
+    "var": "AB_M5_rumor7_name",
+    "field": "map_rumor7_name",
+    "en": "Xeron's Helper",
+    "ua": "Xeron's Helper"
+  },
+  {
+    "var": "AB_M5_rumor7_desc",
+    "field": "map_rumor7_desc",
+    "en": "Someone of great knowledge is helping the Kreegan general Xeron.  I hear that he was once in contention for some arbiter post somewhere.",
+    "ua": "У криганського генерала Ксерона з'явився мудрий радник. За чутками, колись він оскаржував пост самого Судді в наших краях."
+  },
+  {
+    "var": "AB_M5_obj0_town_name",
+    "field": "map_obj0_town_name",
+    "en": "Doom's Crest",
+    "ua": "Пік Долі"
+  },
+  {
+    "var": "AB_M5_obj1_town_name",
+    "field": "map_obj1_town_name",
+    "en": "Death's Gate",
+    "ua": "Брама Смерті"
+  },
+  {
+    "var": "AB_M5_obj2_town_name",
+    "field": "map_obj2_town_name",
+    "en": "Sorrow Glen",
+    "ua": "Ущелина Смутку"
+  },
+  {
+    "var": "AB_M5_obj3_town_name",
+    "field": "map_obj3_town_name",
+    "en": "Keventry",
+    "ua": "Кевентрі"
+  },
+  {
+    "var": "AB_M5_obj5_town_name",
+    "field": "map_obj5_town_name",
+    "en": "Chillwater",
+    "ua": "Чілвотер"
+  },
+  {
+    "var": "AB_M5_obj18_town_name",
+    "field": "map_obj18_town_name",
+    "en": "Bane Bridge",
+    "ua": "Бейн-Бридж"
+  },
+  {
+    "var": "AB_M5_obj21_town_name",
+    "field": "map_obj21_town_name",
+    "en": "Reaver Cove",
+    "ua": "Рівер-Коув"
+  },
+  {
+    "var": "AB_M5_obj101_town_name",
+    "field": "map_obj101_town_name",
+    "en": "Gelliston",
+    "ua": "Гелістон"
+  },
+  {
+    "var": "AB_M5_obj111_town_name",
+    "field": "map_obj111_town_name",
+    "en": "Highcastle",
+    "ua": "Хайкасл"
+  },
+  {
+    "var": "AB_M5_obj161_town_name",
+    "field": "map_obj161_town_name",
+    "en": "Faler-on-Sea",
+    "ua": "Фалер-на-Море"
+  },
+  {
+    "var": "AB_M5_obj181_town_name",
+    "field": "map_obj181_town_name",
+    "en": "Shaynda",
+    "ua": "Шинда"
+  },
+  {
+    "var": "AB_M5_obj318_hero_name",
+    "field": "map_obj318_hero_name",
+    "en": "Gen. Kendal",
+    "ua": "Кендал"
+  },
+  {
+    "var": "AB_M5_obj786_guardian_mesg",
+    "field": "map_obj786_guardian_mesg",
+    "en": "This small tidal pool is in fact the resting place of a powerful Aquamancer.  Upon disturbing his final resting place, the guardians he ensorcelled into protecting his body commence their brutal attack. ",
+    "ua": "Невелика коралова западина, залита водою, виявилася місцем останнього спочинку могутнього Водяника. Він огородив свою водну могилу від грабіжників особливим заклинанням. Назустріч вам піднімаються чарівні вартові."
+  },
+  {
+    "var": "AB_M5_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Opening",
+    "ua": "Opening"
+  },
+  {
+    "var": "AB_M5_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "Standing on the edge of the Great Lake, you, the King of Enroth, contemplate the situation.  Your army stands on the western shores looking out over the smoldering fields of the Eeofol controlled regions to the east.  Yours and General Kendal's forces have arrived recently on a mission of great import.  \n\nHere you have met with your new allies from the Elemental Conflux to cut off the Kreegan supply routes and push the Eeofol army back from the Erathia/Eeofol border right into Catherine and Gelu's troops.  If successful, the Kreegans from Eeofol will be forced to wage a defensive war.  \n\nYou must keep this alliance together, for Erathian support is growing increasingly difficult to maintain.  Even Catherine herself is facing increasing pressure to end the conflict quickly.  It is obvious those fools truly have no idea of the gravity of consequences of failure.  Should you be ineffective in stopping King Lucifer in his mad campaign of terror and destruction, not just Erathia will suffer his wrath, but all of Antagarich.  Perhaps even your beloved Enroth may fall under the flames of this accursed demon king.\n\nShuddering at that dark thought, you compose yourself, straighten your tunic, and stride back to your officers.  Mounting your powerful Erathian-bred stallion, you shout the order to move out.  There is a war to be waged and a world to be won.",
+    "ua": "Государ Енрота, ви стоїте на краю Великого Озера, занурившись у тривожні роздуми. Солдати зібралися на західному березі. Вони оглядають димлячі поля на схід, що полягли до рук демонів. Об'єднавшись із загонами генерала Кендала, ви виступили в найважливіший похід.\n\nНа цьому березі ви зустрілися з новими союзниками з Колоній елементалів, щоб разом відрізати всі шляхи обозам криганської армії і вибити війська Еофола з кордону - прямо в руки Катерини та Ґело. Якщо ваш план спрацює, криганцям доведеться піти в глуху оборону.\n\nВам необхідно зберегти союз з Колоніями за будь-яку ціну: ерафійські лорди допомагають все з меншим бажанням. Навіть на Катерину постійно чинять тиск, примушуючи як можна швидше закінчувати війну. Вони поняття не мають, які можуть бути наслідки невдачі. Якщо вам не вдасться зупинити божевільний похід короля Люцифера, постраждає не тільки Ерафія; гнів його накриє весь Антагріч. Навіть вашому рідному Енроту не встояти перед полум'яним мечем короля демонів.\n\nЗдригнувшись від похмурих думок, ви знову берете себе в руки. Поправити обладунок - і назад до офіцерів. Ви сідлаєте могутнього ерафійського жеребця і віддаєте наказ виступати. Напевно виграти війну і відстояти мир."
+  },
+  {
+    "var": "AB_M5_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Letter from Catherine",
+    "ua": "Letter from Catherine"
+  },
+  {
+    "var": "AB_M5_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "A letter arrived in your encampment last night from Catherine.  You lit up like a child at Solstice time.  The note smelled of many things, the most important being her special perfume, the one you loved so much for her to wear.\n\n\"My dearest Roland, I write you to bring you bad news.  My spies have reported the Kreegan hero called Xeron has achieved the unthinkable, he has built Armageddon's Blade.  Be warned, for I hear he is sending a great force to your position.  Come back safe to me and give my best to General Kendal.  I know you will succeed, for I have faith in you both.\" -- Catherine.",
+    "ua": "Минулого вечора прийшов лист від Катерини. Ви радієте, як дитина в свято Літнього сонцестояння. До інших запахів домішується тонкий аромат її парфумів - ваших улюблених парфумів.\n\n\"Милий мій Роланд У мене погані вісті. За донесеннями розвідників, криганський герой Ксерон зробив немислиме: він викував Клинок Армагеддону. Бережися, він шле тобі назустріч величезну армію, Передай мої найкращі побажання генералу Кендалу. Я знаю, ви переможете - я вірю у вас обох!\" - Катерина."
+  },
+  {
+    "var": "AB_M5_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Spies Find Gold",
+    "ua": "Spies Find Gold"
+  },
+  {
+    "var": "AB_M5_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "A message came in late last night that some scouts located an island east of Faler-on-Sea that was unapproachable.  The glitter of gold could be seen on its shores.  Perhaps this is where the dreaded Regnan Pirates' treasure troves are kept.  The trouble is how does one get to the island?  There must be some way, either a tunnel or monolith.",
+    "ua": "Ближче до ночі прибуло донесення: розвідка виявила на схід від Фалера-на-Море неприступний острів. На берегах блищать купи золота. Напевно це легендарний притулок, де зберігаються скарби зловісних піратів Регни. Питання лише в тому, як потрапити на острів. Швидше за все, туди веде підземний тунель - або портал."
+  },
+  {
+    "var": "AB_M5_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "The Farmer",
+    "ua": "The Farmer"
+  },
+  {
+    "var": "AB_M5_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "As General Kendal prepares to address his troops for the morning, a timid farmer is brought before him.  This farmer tells the noble General of the encroachment by these wicked devilkin and how he feels they are the ones responsible for stealing his cattle.\n\nGeneral Kendal, being the diplomat that he is, made the farmer feel that he personally was going to see that this man's cattle was returned or avenged. The farmer leaves, contented and assured, as he knows that Morgan Kendal is a man of his word.",
+    "ua": "Вранці, коли генерал Кендал об'їжджав війська, до нього привели місцевого жителя. Той боязко розповів про зазіхання дияволів на його ферму, здається, вони навіть крадуть худобу.\n\nМайстерний дипломат, Морган Кендал запевнив фермера: він особисто простежить, щоб дияволи повернули худобу або отримали по заслугах. Зраділий фермер кланяється. Всі знають: генерал Кендал - людина слова."
+  },
+  {
+    "var": "AB_M5_mapevent4_name",
+    "field": "map_mapevent4_name",
+    "en": "Centaur Messenger",
+    "ua": "Centaur Messenger"
+  },
+  {
+    "var": "AB_M5_mapevent4_mesg",
+    "field": "map_mapevent4_mesg",
+    "en": "A young centaur messenger arrives this morning just after breakfast was being cleared up, presenting you a message from Gelu.  You thank the young scout and the centaur trots off to return to his master.  You open the letter and read it's contents.\n\n\"My lord and husband of my Queen, I have sent Hrisleagh here with this message to report on our status.  Our guerilla actions are proceeding well and the enemy is feeling the sting of loss due to our attacks.  He has been pulling back steadily, but I have lost a great many men doing it.  I have begun integrating the troops from our new allies and have found them to be very effective.  They fight hard and well.  You would do well to trust them, for they are loyal and fierce.  Good fortune be with you my lord.  May the Light always shine upon thee.\" -- Gelu, Captain of the Forest Guard.",
+    "ua": "Незабаром після сніданку в таборі з'явився молоденький кентавр. Він несе звістку від Ґело. Ви дякуєте юнаку, і він радісно скаче в зворотний шлях. Ви розкриваєте конверт.\n\n\"О, пане мій, і чоловік моєї королеви. Хріслінг доставить вам це послання. Я зобов'язаний доповісти обстановку. Партизанська війна йде успішно, наші уколи чутливі для ворога. Він відступає, але і я постійно втрачаю людей. Я почав приймати в загін наших нових союзників - о, вони добрі. Вони наполегливі, сильні бійці. Їм можна довіритися. Вони надзвичайно віддані, і люті їм не позичати. Хай буде з вами удача, і нехай осяє вас Світло!\" - Ґело, капітан Лісової варти."
+  },
+  {
+    "var": "AB_M5_mapevent5_name",
+    "field": "map_mapevent5_name",
+    "en": "Roland's Nightmare",
+    "ua": "Roland's Nightmare"
+  },
+  {
+    "var": "AB_M5_mapevent5_mesg",
+    "field": "map_mapevent5_mesg",
+    "en": "Images and sounds swirl through your mind as you sleep; terrible images brought forth from your damaged soul which cries out for peace of mind.  You had been held captive for nearly seven years and the torture inflicted upon you was unimaginable.  Now you suffer the ill effects of those seven years.\n\nThe dream is the same every time.  You are locked in a cell; the walls made of some dank, cool gray stone, with a single door the only egress.  You are chained to a bed, your flesh crawling with bugs of some sort, and forced to listen to the screams of the tortured souls that accompany you on your road to hell.  The sickening sounds of a whip cracking on flesh tear at your very being with each snap and wail from the lash's victims.  You struggle to be free of this terrible nightmare, but are instead dragged down even further.\n\nAs the sounds of suffering continue, your door is opened and several grotesque figures enter the cell, unchain you, and drag your near useless body out into a courtyard.  There you are placed in the stocks and have your skin slowly peeled away.  You try desperately not to cry out, but can only hold out for so long.  While you are being flayed alive, you catch a glimpse of the demons' lords, all of who are laughing at the helpless king.  You grit your teeth at the pain and hold back the tears that want to flow heavily.\n\nAfter finishing their fun, they throw you back in your cell, healed of the wounds, but not relieved of the pain.  Unable to move from the sheer agony of your injuries, you simply lie there, writhing in a near fetal position.  Lifting your head from the cold stone floor, you peer through eyes swollen shut from fists and see the spectral face of your twisted brother laughing at you.  Archibald's dreamghost points at you and laughs a chilling laugh, one that angers you beyond your knowing.  You have never been so helpless as then.  Not since your banishment during the Succession Wars have you felt so alone.\n\nYou want to die, to simply cease to exist, but the devils come again and whisk you away to be beaten once more.  As they reach for your arms your eyes shoot open and you curl deeper into your bedding.  This is not the first night that this nightmare has visited you, but is the first time in many weeks.  You must find a way to quiet these inner demons, something to chase away the nightmares once and for all.",
+    "ua": "Ваш сон пронизують видіння і звуки, страшні картини спливають із надр понівеченої душі, спраглої спокою. Майже сім років ви провели в полоні, сім років терпіли нестерпні тортури. Рубці тих семи років досі полум'яніють в душі.\n\nКожен раз один і той самий сон. Ви замкнуті в камері. Вас оточують стіни, холодні сірі стіни. Назовні ведуть самотні двері. Ви прикуті до нар, комахи гризуть вашу плоть; у вухах лунають крики нещасних, що йдуть по дорозі в пекло разом з вами. Жахливий свист батога і крики жертв гострими голками втикаються в серце. Ви намагаєтеся прокинутися, стряхнути ману - але сон затягує все глибше і глибше...\n\nКрики не змовкають ні на секунду; двері камери відчиняються, на порозі виникають потворні чудовиська. Вони знімають ланцюга і тягнуть ваше скалічене тіло на подвір'я. Там вас приковують в лещата і починають повільно здирати шкіру. Ви силитесь не кричати, але всьому є межа... Кілька місцевих лордів сміються над безпорадним королем, якого білують живцем... Ви стискуєте зуби й силитесь стримати сльози...\n\nВдосталь натішившись, демони жбурляють вас назад у камеру. Рани вилікувані, але біль не вщухає. Ви не в змозі поворухнутися, ви лежите на кам'яних плитах, згорнувшись, як зародок в утробі матері. Коли вдається розліпити розпухлі очі, перед вами виникає примарне обличчя брата. Арчибальд сміється. Він показує на вас пальцем і заливається реготом, що морозить душу. У вас закипає гнів. Ніколи ви ще не були так безпомічні й самотні - з самих часів вигнання в ході Воєн за Спадщину.\n\nВи хочете померти. Припинити існування. Але знову приходять демони і знову ведуть вас на тортури. Ледве диявол доторкається до вашої руки, ви відкриваєте очі - і зариваєтеся обличчям у подушку. Цей сон відвідав вас в перший раз за багато тижнів. Пора змусити демонів всередині себе замовкнути, назавжди позбутися від нічних кошмарів."
+  },
+  {
+    "var": "AB_M5_mapevent6_name",
+    "field": "map_mapevent6_name",
+    "en": "Nicolai's Birthday",
+    "ua": "День народження Миколая"
+  },
+  {
+    "var": "AB_M5_mapevent6_mesg",
+    "field": "map_mapevent6_mesg",
+    "en": "You stand atop a small rise and look out over the Great Lake, eyes filled with tears, for today is the 16th anniversary of your son Nicolai's birth and here you are, far away fighting a war.  The pang of loss and the grief of missing your son fuels your depression even more, what with the nightmares returning and now this.  Life did not seem very fair.\n\nIn a far off land your son is becoming a man while you stay here to battle these accursed demons once more.  You hope this time will be the last.  You have had enough of war.",
+    "ua": "Ви стоїте на невеликому пагорбі біля Великого Озера. Очі наповнюються сльозами. Сьогодні Миколаю, вашому синові, виповнюється шістнадцять років - а ви знову зайняті війною. Біль втрати лише підсилює скорботу. Нічні кошмари - день народження сина - все одне до одного...\n\nУ далекому краю хлопчик непомітно став юнаком, а ви все воюєте і боретеся з демонами. Залишається сподіватися, це в останній раз. Ви дуже втомилися від воєн."
+  }
+]

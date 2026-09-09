@@ -1,0 +1,37 @@
+[
+  {
+    "var": "CASTINFO_1",
+    "en": "Attack Skill",
+    "ua": "Напад"
+  },
+  {
+    "var": "CASTINFO_2",
+    "en": "Defense Skill",
+    "ua": "Захист"
+  },
+  {
+    "var": "CASTINFO_3",
+    "en": "Damage per Attack",
+    "ua": "Пошкоджень при нападі"
+  },
+  {
+    "var": "CASTINFO_4",
+    "en": "Health",
+    "ua": "Здоров'я"
+  },
+  {
+    "var": "CASTINFO_5",
+    "en": "Speed",
+    "ua": "Швидкість"
+  },
+  {
+    "var": "CASTINFO_6",
+    "en": "Growth per Week",
+    "ua": "Тижневий приріст"
+  },
+  {
+    "var": "CASTINFO_7",
+    "en": "Exit %s",
+    "ua": "%s: вихід"
+  }
+]

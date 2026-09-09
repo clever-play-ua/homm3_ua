@@ -1,0 +1,97 @@
+[
+  {
+    "var": "ARTSLOTS_1",
+    "en": "Head",
+    "ua": "Голова"
+  },
+  {
+    "var": "ARTSLOTS_2",
+    "en": "Shoulders",
+    "ua": "Плечі"
+  },
+  {
+    "var": "ARTSLOTS_3",
+    "en": "Neck",
+    "ua": "Шия"
+  },
+  {
+    "var": "ARTSLOTS_4",
+    "en": "Right Hand",
+    "ua": "Права Рука"
+  },
+  {
+    "var": "ARTSLOTS_5",
+    "en": "Left Hand",
+    "ua": "Ліва Рука"
+  },
+  {
+    "var": "ARTSLOTS_6",
+    "en": "Torso",
+    "ua": "Торс"
+  },
+  {
+    "var": "ARTSLOTS_7",
+    "en": "Right Ring",
+    "ua": "Праве Кільце"
+  },
+  {
+    "var": "ARTSLOTS_8",
+    "en": "Left Ring",
+    "ua": "Ліве Кільце"
+  },
+  {
+    "var": "ARTSLOTS_9",
+    "en": "Feet",
+    "ua": "Ноги"
+  },
+  {
+    "var": "ARTSLOTS_10",
+    "en": "Misc 1",
+    "ua": "Різне 1"
+  },
+  {
+    "var": "ARTSLOTS_11",
+    "en": "Misc 2",
+    "ua": "Різне 2"
+  },
+  {
+    "var": "ARTSLOTS_12",
+    "en": "Misc 3",
+    "ua": "Різне 3"
+  },
+  {
+    "var": "ARTSLOTS_13",
+    "en": "Misc 4",
+    "ua": "Різне 4"
+  },
+  {
+    "var": "ARTSLOTS_14",
+    "en": "War Machine 1",
+    "ua": "Бойова машина 1"
+  },
+  {
+    "var": "ARTSLOTS_15",
+    "en": "War Machine 2",
+    "ua": "Бойова машина 2"
+  },
+  {
+    "var": "ARTSLOTS_16",
+    "en": "War Machine 3",
+    "ua": "Бойова машина 3"
+  },
+  {
+    "var": "ARTSLOTS_17",
+    "en": "War Machine 4",
+    "ua": "Бойова машина 4"
+  },
+  {
+    "var": "ARTSLOTS_18",
+    "en": "Spell Book",
+    "ua": "Книга Заклинань"
+  },
+  {
+    "var": "ARTSLOTS_19",
+    "en": null,
+    "ua": "Різне 5"
+  }
+]

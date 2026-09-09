@@ -1,0 +1,20 @@
+[
+  {
+    "var": "FINAL_campaign_name",
+    "field": "wrapper_campaign_name",
+    "en": "Unholy Alliance",
+    "ua": "Нечистий альянс"
+  },
+  {
+    "var": "FINAL_campaign_desc",
+    "field": "wrapper_campaign_desc",
+    "en": "Four heroes must uncover the plot brewing on the AvLee-Deyjan border and the Erathian-Deyjan border.  From there they must find the Angelic Alliance, invade Deyja and stop Sandro, the powerful lich who plans to conquer the world.",
+    "ua": "Чотири герої повинні розсіяти темряву на кордонах Деї з Ерафією й Ав-Лі. Вони повинні знайти Ангельський союз, завоювати Дею і зупинити Сандро, могутнього некроманта, готового завоювати весь світ."
+  },
+  {
+    "var": "FINAL_campaign_epilogue",
+    "field": "wrapper_campaign_epilogue",
+    "en": "After realizing how corrupting these artifacts are, we decided to split them up into less powerful components and disperse them throughout Antagarich.  As for us, we decided to separate as well, to distance our thoughts from a disaster history may never record.",
+    "ua": "Зрозумівши, наскільки сильні й небезпечні ці артефакти, ми вирішили розділити їх на дрібні частини і розкидати по всьому Антагрічу. Самі ми теж вирішили розлучитися, щоб більше не думати про катастрофу, місця якої не знайдеться в історії, бо сама історія закінчиться разом з нею."
+  }
+]

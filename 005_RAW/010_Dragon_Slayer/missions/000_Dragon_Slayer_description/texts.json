@@ -1,0 +1,14 @@
+[
+  {
+    "var": "SLAYER_campaign_name",
+    "field": "wrapper_campaign_name",
+    "en": "Dragon Slayer",
+    "ua": "Убивця драконів"
+  },
+  {
+    "var": "SLAYER_campaign_desc",
+    "field": "wrapper_campaign_desc",
+    "en": "To prove himself a Dragon Slayer Dracon must first defeat the Crystal Golem Dragon.   From there he will seek out the Azure Dragon, with plans of defeating the greatest Dragon to ever live.  In his quest for perfection he will find, and destroy the Purple and Rust Dragons.",
+    "ua": "Щоб перевірити свою силу, Убивця Драконів повинен перемогти кристального дракона-голема, могутніх лазурних драконів і хитрих казкових драконів."
+  }
+]

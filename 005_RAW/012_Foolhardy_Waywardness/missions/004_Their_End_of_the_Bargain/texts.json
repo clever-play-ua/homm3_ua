@@ -1,0 +1,314 @@
+[
+  {
+    "var": "FOOL_M4_prolog",
+    "field": "wrapper_prolog",
+    "en": "The natives where so happy at Sir Christian's success, they completely forgot about the agreement to help him in return. The days and days of celebration turned into weeks of endless parties leaving Sir Christian very angry.  While the natives were celebrating he traveled to the tavern and met with the former leaders of the towns he'd just beaten. The leaders come to the conclusion Sir Christian was too dangerous to have around.  The bargain was struck and Sir Christian would gain their lands and they would gladly help him to leave.",
+    "ua": "Місцеві жителі так сильно зраділи, що сер Крістіан допоміг їм, що забули у відповідь допомогти йому повернутися додому. Дні святкування проносилися, перетворюючись на тижні розгнузданих оргій. Це все більше дратувало сера Крістіана. Поки місцеве населення святкувало, сер Крістіан відвідав таверну, де зіткнувся з північним правителем, якого він нещодавно переміг. Правитель вирішив, що якщо сер Крістіан буде продовжувати шлятися по окрузі, це добром не закінчиться. Правитель був радий допомогти серу Крістіану покинути це невдячне місце, але - з однією умовою..."
+  },
+  {
+    "var": "FOOL_M4_epilog",
+    "field": "wrapper_epilog",
+    "en": "I swear... these natives only know two things: how to start a war and how to throw a party.  Apparantly, the natives I just defeated want me off the island as much as I want off.  One condition, I must reclaim the lands I just took from them.   Ugh.   The stench.",
+    "ua": "Присягаюся, переможені мною аборигени знають толк всього у двох речах: як задирати сусідів і як закотити вечірку. Вони явно хочуть позбутися від мене не менше, ніж я від них. Вони готові мене відпустити за однієї умови: я повинен відродити землі, які сам же спустошив. Фу! Ну і сморід."
+  },
+  {
+    "var": "FOOL_M4_map_name",
+    "field": "map_map_name",
+    "en": "Their End of the Bargain",
+    "ua": "Кінець договору"
+  },
+  {
+    "var": "FOOL_M4_map_desc",
+    "field": "map_map_desc",
+    "en": "To win, Sir Christian must defeat all the enemies. He now has an allied town, which lies, in the northwestern region. He is limited to level 16 in this scenario, but he will carry over his skills, spells, secondary skills and experience to the next scenario.",
+    "ua": "Щоб перемогти, сер Крістіан повинен знищити всіх своїх ворогів. На північному заході карти лежить місто союзників. У цьому сценарії герой обмежений 16 рівнем, але всі його первинні і вторинні навички, досвід і заклинання перейдуть разом з ним у наступний сценарій."
+  },
+  {
+    "var": "FOOL_M4_obj239_sign_mesg",
+    "field": "map_obj239_sign_mesg",
+    "en": "Venice II",
+    "ua": "Венеція II"
+  },
+  {
+    "var": "FOOL_M4_obj240_sign_mesg",
+    "field": "map_obj240_sign_mesg",
+    "en": "Venice I",
+    "ua": "Венеція I"
+  },
+  {
+    "var": "FOOL_M4_obj241_sign_mesg",
+    "field": "map_obj241_sign_mesg",
+    "en": "Venice III was here.",
+    "ua": "Колишня Венеція III"
+  },
+  {
+    "var": "FOOL_M4_obj244_sign_mesg",
+    "field": "map_obj244_sign_mesg",
+    "en": "Malibu I",
+    "ua": "Малібу I"
+  },
+  {
+    "var": "FOOL_M4_obj249_sign_mesg",
+    "field": "map_obj249_sign_mesg",
+    "en": "Muscle Beach I",
+    "ua": "Масл-Біч I"
+  },
+  {
+    "var": "FOOL_M4_obj251_sign_mesg",
+    "field": "map_obj251_sign_mesg",
+    "en": "Muscle Beach IV",
+    "ua": "Масл-Біч IV"
+  },
+  {
+    "var": "FOOL_M4_obj254_sign_mesg",
+    "field": "map_obj254_sign_mesg",
+    "en": "Zuma III",
+    "ua": "Зума-біч III"
+  },
+  {
+    "var": "FOOL_M4_obj255_sign_mesg",
+    "field": "map_obj255_sign_mesg",
+    "en": "Zuma II",
+    "ua": "Зума-біч II"
+  },
+  {
+    "var": "FOOL_M4_obj256_sign_mesg",
+    "field": "map_obj256_sign_mesg",
+    "en": "Zuma I",
+    "ua": "Зума-біч I"
+  },
+  {
+    "var": "FOOL_M4_obj257_sign_mesg",
+    "field": "map_obj257_sign_mesg",
+    "en": "Malibu V",
+    "ua": "Малібу V"
+  },
+  {
+    "var": "FOOL_M4_obj258_sign_mesg",
+    "field": "map_obj258_sign_mesg",
+    "en": "Malibu IV",
+    "ua": "Малібу IV"
+  },
+  {
+    "var": "FOOL_M4_obj259_sign_mesg",
+    "field": "map_obj259_sign_mesg",
+    "en": "Malibu III was here.",
+    "ua": "Колишня Малібу III"
+  },
+  {
+    "var": "FOOL_M4_obj281_sign_mesg",
+    "field": "map_obj281_sign_mesg",
+    "en": "Zuma IV was here.",
+    "ua": "Колишня Зума-біч IV"
+  },
+  {
+    "var": "FOOL_M4_obj392_sign_mesg",
+    "field": "map_obj392_sign_mesg",
+    "en": "Waikiki I",
+    "ua": "Вайкікі I"
+  },
+  {
+    "var": "FOOL_M4_obj945_sign_mesg",
+    "field": "map_obj945_sign_mesg",
+    "en": "Muscle Beach III",
+    "ua": "Масл-біч III"
+  },
+  {
+    "var": "FOOL_M4_obj1052_sign_mesg",
+    "field": "map_obj1052_sign_mesg",
+    "en": "Waikiki II was here.",
+    "ua": "Колишня Вайкики II"
+  },
+  {
+    "var": "FOOL_M4_obj1075_sign_mesg",
+    "field": "map_obj1075_sign_mesg",
+    "en": "Zuma V was here.",
+    "ua": "Колишня Зума-біч V"
+  },
+  {
+    "var": "FOOL_M4_obj1077_sign_mesg",
+    "field": "map_obj1077_sign_mesg",
+    "en": "Beware of Area 51.",
+    "ua": "Не ходіть в зону 51."
+  },
+  {
+    "var": "FOOL_M4_obj1086_sign_mesg",
+    "field": "map_obj1086_sign_mesg",
+    "en": "Malibu II was here.",
+    "ua": "Колишня Малібу II"
+  },
+  {
+    "var": "FOOL_M4_obj1138_sign_mesg",
+    "field": "map_obj1138_sign_mesg",
+    "en": "Muscle Beach II was here.",
+    "ua": "Колишня Масл-біч II"
+  },
+  {
+    "var": "FOOL_M4_obj1233_guardian_mesg",
+    "field": "map_obj1233_guardian_mesg",
+    "en": "You look out to sea and daydream about home. Suddenly, something in the rocks catches your eye.  You bend over to pick up a small cylindrical package wrapped in a stained piece of parchment. You notice a tab that reads \"tug here\" and so you do. Carefully you unwrap the parchment.",
+    "ua": "Дивлячись на море, ви мрієте про повернення додому. Раптом ви помічаєте якийсь предмет серед каміння. Спішившись, ви піднімаєте його. Це невеликий циліндрик, обгорнутий пергаментом. На краєчку пергаменту написано \"Потягніть тут\". Слідуючи інструкції, ви розгортаєте пергамент."
+  },
+  {
+    "var": "FOOL_M4_obj1251_guardian_mesg",
+    "field": "map_obj1251_guardian_mesg",
+    "en": "While traveling through a wood your horse stumbles across a small wooden box. You dismount and pick it up to see what might be in it. You pry open the box and much to everyone's surprise you pull out a six pack of New World Lager long neck bottles. You pass them around.",
+    "ua": "У лісі ваш кінь спотикається об маленький дерев'яну скриню. Ви спішується і піднімаєте його. Зламавши скриньку, ви виявляєте всередині шість пляшок улюбленого елю \"Нью Ворлд Лонг Нек\". Ви ділитеся знахідкою з військами."
+  },
+  {
+    "var": "FOOL_M4_obj1252_guardian_mesg",
+    "field": "map_obj1252_guardian_mesg",
+    "en": "You hear a sudden rustling in the bushes nearby. Hushed, you and your troops hit the ground. All is silent for a few moments as you look around cautiously. Suddenly, a rock flies through the air and hits you square in the noggin, knocking you unconscious. An hour passes by before you come to. You find a note tied to the rock. \"We are watching your every move. You AND your little troops, too! We have a wonderful new capitol, and we can live quite happily there for some time...So whenever you feel like dying, feel free to visit!  P.S. Watch out for, well, falling rocks.\"",
+    "ua": "Із сусідніх кущів раптово лунає шум. Ви командуєте військам залягти, і тривожно озирається. Кілька секунд нічого не відбувається, а потім вам на голову падає камінь. Від удару ви втрачаєте свідомість, і приходите в себе лише через годину. Виявляється, до каменя була прив'язана записка: \"Ми стежимо за кожним твоїм кроком. Твоїм і твоєї жалюгідної армії теж. Мені добре з моїми воїнами в нашому Капітолії... Заходь в гості, якщо будеш в настрої померти.\nP.S. Бережися (хе-хе!) каменів, що падають.\""
+  },
+  {
+    "var": "FOOL_M4_obj1254_guardian_mesg",
+    "field": "map_obj1254_guardian_mesg",
+    "en": "You stop suddenly. \"Everything well, sir?\" asks one of your advisors. \"You have no idea what I just stepped in,\" You reply back.",
+    "ua": "Раптом ви зупиняєтеся. \"Все в порядку, сер?\" - Запитує один з ваших радників. \"Ти навіть не уявляєш, у що я щойно вступив\", - відповідаєте ви."
+  },
+  {
+    "var": "FOOL_M4_obj1262_guardian_mesg",
+    "field": "map_obj1262_guardian_mesg",
+    "en": "As you approach the town entrance, you overhear two maidens gossiping. \"Have you ever seen Sir Christian? He's so dreamy!\" One of them asks, giddily. Are you crazy? He washes his body. That's no unnatural. Not like the real men around here.\" the other maiden replies. \"He is a crude beast. A beast that slouches in the shape of a man.  He is remarkably unattractive. You like him?\" Yes, you're right,\" the first maiden says while laughing. Both of them giggle and walk off. You gather your broken ego and carry it away.",
+    "ua": "Увійшовши в місто, ви підслуховує розмову двох дівчат. Одна мрійливо запитує в іншого: \"Зустрічала ти сера Крістіана? Він такий душка!\" \"Та ти що! Він же миється! Це так протиприродно! Справжні чоловіки так не роблять\", - відповіла друга, - \"Він - груба тварина, якій хтось надав вигляд чоловіка. Жахливо гидкий! Як він може комусь подобатися?\" \"Та вже, ти права\", - зі сміхом погодилася перша. Хихикаючи, вони йдуть. Ви підбираєте з землі свою впавшу самооцінку і дбайливо забираєте геть."
+  },
+  {
+    "var": "FOOL_M4_obj1352_monster_mesg",
+    "field": "map_obj1352_monster_mesg",
+    "en": "\"Please allow me to introduce myself. My name is Dushnar. I would like to commend your excellence and thank you for building a castle in my hometown. My fellow townsmen have greatly betrayed you. Ashamed of my homeland I beg for your forgiveness and wish to join you in your efforts.\"",
+    "ua": "\"Дозвольте представитись - мене звати Душнар. Я хотів би віддячити ваше величність за те, що ви побудували замок в нашому місті. Мої співгромадяни зрадили вас. Я хочу попросити у вас пробачення за них і приєднатися до ваших військ\"."
+  },
+  {
+    "var": "FOOL_M4_obj1368_guardian_mesg",
+    "field": "map_obj1368_guardian_mesg",
+    "en": "YOU GET NOTHING! YOU LOSE! GOOD DAY SIR!\n",
+    "ua": "А ОТ І НЕ ВГАДАЛИ! НІЧОГО ТУТ НЕМА! ВСЬОГО НАЙКРАЩОГО!"
+  },
+  {
+    "var": "FOOL_M4_obj1372_guardian_mesg",
+    "field": "map_obj1372_guardian_mesg",
+    "en": "A decrepit old man with a walking cane approaches you. You stop and greet the old gentleman. He looks you dead in the eye and says, \"Your mother never told you. She never told you the truth about your father! I am your father.\" Shocked, you look at the old man in disbelief. \"Do I have a twin sister?\" you ask. He just stares at you and says, \"Take this.\" He hands you something loosely in his cloak and then disappears.\"",
+    "ua": "До вас підходить старий дідок з ціпком. Натягнувши повіддя, ви вітаєте його. Поглянувши вам прямо в очі, він вимовляє: \"Твоя мати ніколи не казала тобі. Вона ніколи не говорила тобі правду про твого батька. Я - твій батько.\" Вражений цією звісткою, ви дивитеся на старого з недовірою. \"А сестри-близнюка в мене немає?\" - Питаєте ви. Але він лише вимовляє: \"Візьми ось це\". Старий дістає щось із складок свого одягу, протягує вам цей предмет і зникає."
+  },
+  {
+    "var": "FOOL_M4_obj1379_guardian_mesg",
+    "field": "map_obj1379_guardian_mesg",
+    "en": "A young knight stops you in his tracks. \"HALT!\" he shouts. \"You mustn't go any further. Don't you see? If you go that way,\" he points, \"You're off the deep end of your rocker and if you go that way\" He points the other way, \"Your grappling hook don't reach the top battlement if you go that way! You'd be crazy to go so turn back now! GO! GO!\" You laugh at the young man in and carry on. While passing him, you throw him a few gold coins and thank him for the melodramatic moment and suggest that he audition for that Shakespeare fellow.",
+    "ua": "Вас зупиняє молодий лицар. \"Зупиніться, нещасні!\" - Кричить він, - \"Не ходіть туди! Невже ви не розумієте? Якщо ви підете туди\", - Лицар вказує в один бік, - \"впадете у рів, а якщо підете туди\", - лицар вказує в інший бік, - \"потонете в болоті. То ж повертайтеся додому! Ідіть же! скачіть!\"Посміявшись над молодиком, ви продовжуєте свій шлях. Проїжджаючи повз нього, ви кидаєте йому кілька золотих, дякуєте йому за інформацію і пропонуєте записатися на прослуховування до В. Шекспіра."
+  },
+  {
+    "var": "FOOL_M4_obj1381_event_name",
+    "field": "map_obj1381_event_name",
+    "en": "Day 39",
+    "ua": "Day 39"
+  },
+  {
+    "var": "FOOL_M4_obj1382_guardian_mesg",
+    "field": "map_obj1382_guardian_mesg",
+    "en": "\"Ooohhh scary\" you laugh. \"It's about time they build up some defense. Of course they couldn't do that when I ruled the roost.\" You think to yourself. \"But I seem to remember another way around that I'm quite sure these fools, judging by their intellect, or lack thereof, wouldn't have thought to guard.\" Feeling very full of yourself you bask in you self-proclaimed heroism. Suddenly a sharp object pokes you in the back. \"I don't mean to burst your bubble, sir, but can we get on with this?\" one of your troops asks. \"I got the wife and a cold ale waiting.\" ",
+    "ua": "\"Ой, як страшно\", - смієтеся ви. \"Нарешті вони налагодили оборону. Коли я тут правив, вони цього, бачте, не могли зробити\", - Думаєте ви про себе, - \"Але я знаю, що тут є обхідний шлях, які це дурні, судячи з їх інтелекту , або, точніше, його відсутності, швидше за все, залишили без охорони.\" Відчуваючи себе господарем становища, ви насолоджуєтеся власною перевагою. Раптом ви відчуваєте укол у спину. \"Вибачте, що перериваю вас, сер, але чи не пора вам закруглитися?\" - Запитує один з воїнів, - \"Мене дружина чекає, і кухоль холодного елю\""
+  },
+  {
+    "var": "FOOL_M4_obj1396_guardian_mesg",
+    "field": "map_obj1396_guardian_mesg",
+    "en": "A merchant approaches you in a panic. \"Run Sir! Run for your life! The natives from the south approach quickly. You must get to your station now and prepare for war! Take this!' He gives you a green clover. \"This will give you lu...\"  From out of nowhere a flying arrow lands in a tree right in between the merchant and you. Tied to the arrow is a note that reads: \"BE AFRAID. BE VERY AFRAID.\"",
+    "ua": "До вас підбігає переляканий торговець: \"Біжіть, сер! Рятуйтеся, хто може! Жителі півдня наступають! Займайте укріплення і готуйтеся до битви! Ось, візьміть.\" Він передає вам зелений листочок конюшини: \"Він принесе вам удачу...\" Раптово в дерево якраз між вами і торговцем втикається стріла. До стріли прив'язана записка: \"Бійтеся\"."
+  },
+  {
+    "var": "FOOL_M4_obj1407_guardian_mesg",
+    "field": "map_obj1407_guardian_mesg",
+    "en": "\"Stop!\" Groups of lizardmen emerge from the trees and completely surround you. One of them speaks. \"Well, well, well.  Do me a favor and walk over to me.\" (Insert dramatic pause here.) \"So you can remember what it's like to walk for the last time.\" ",
+    "ua": "\"Стій!\" - З-за дерев виходять загони ящерів. Вони повністю оточують вас. Один з них каже: \"Так-так-так. Зроби послугу, підійди ближче.\" Після драматичної паузи він продовжує: \"Запам'ятай кожен свій крок, тому що більше тобі ходити не доведеться \"."
+  },
+  {
+    "var": "FOOL_M4_obj1425_monster_mesg",
+    "field": "map_obj1425_monster_mesg",
+    "en": "\"You killed my brother. Prepare to die.\"",
+    "ua": "\"Ти вбив мого брата. Готуйся до смерті\"."
+  },
+  {
+    "var": "FOOL_M4_obj1427_guardian_mesg",
+    "field": "map_obj1427_guardian_mesg",
+    "en": "You can hardly believe your eyes. There stands a dendroid feeding a large bonfire from a stack of branches. \"Are you cold, sir, uh...?\" you ask. \"No, I'm not cold, you odd little fleshy thing! I'm destroying a bane to all dendroids, a very curse upon creation!\" says the dendroid. He turns to you abruptly. \"Have you ever been married?\" \"Well, actually, no I haven't\" you answer. \"Oh, well I guess you wouldn't understand about mothers-in-law then.\" The dendroid begins to add more wood to the fire. He invites you over for dry roasted pine nuts and you contribute a bottle of New World Stout Ale.",
+    "ua": "Ви не можете повірити своїм очам, коли бачите дендроіда, що підкидає гілку за гілкою у велике багаття. \"Що, замерзли, е-е, сер?\" - Питаєте ви у нього. \"Ні, істота з плоті і крові, я не замерз! Я знищую загрозу всім дендроідам, дане прокляття всього сущого!\" Раптово він обертається: \"Чи був ти одружений коли-небудь?\" \"Взагалі-то ні\", - відповідаєте ви. \"Ну тоді про тещ тобі не зрозуміти\", - говорить дендроід, підкидаючи ще хмизу у вогонь. Він запрошує вас покуштувати смаженого соснового насіння, а ви, зі свого боку, пропонуєте йому випити елю."
+  },
+  {
+    "var": "FOOL_M4_obj1429_guardian_mesg",
+    "field": "map_obj1429_guardian_mesg",
+    "en": "You have found new confidence in yourself after meeting with your new allies. You finish off your last bottle of New World Dark Ale and began the journey to your new home-away-from-home, from which you will destroy all that you have just built for your old so-called allies.",
+    "ua": "Отримавши нових союзників, ви знову набули впевненості в собі. Допивши останню пляшку темного елю, ви пускаєтеся в дорогу на пошуки свого нового будинку, зупинившись в якому, ви повинні будете знищити все, що не так давно побудували для ваших старих союзників."
+  },
+  {
+    "var": "FOOL_M4_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Intro 1",
+    "ua": "Intro 1"
+  },
+  {
+    "var": "FOOL_M4_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "The natives were so happy at Sir Christian's success that they completely forgot about the agreement to help him in return. The days and nights of celebration turned into weeks of endless parties. When Sir Christian reminded them of their end of the bargain they laughed and suggested that he kiss the south end of a northbound donkey. Leaving the celebrating natives behind, Sir Christian traveled to a tavern to drink his homesickness into oblivion. As he sat at the bar staring at the dregs of his New World Lager Lite, he suddenly felt a knife at his throat. \"Turn around, slowly.\" He turned and looked into the face of the defeated leader of the northern towns. Sir Christian thought as quickly as he could in his inebriated state. \"Can we talk?\" he asked. The leader and his troops sat with Sir Christian as he explained the situation. They were suspicious, but they all agreed that Sir Christian was too dangerous to have on the island. After a long and heated discussion and a lot of drinking a bargain was struck. If Sir Christian agreed to accept a mission to kill off those pesky natives down south, they would gladly help him in getting back home. To protect himself from another possible betrayal, Sir Christian staggered to his feet and demanded a treaty signed in blood by the leaders and himself. ",
+    "ua": "Місцеві жителі так зраділи перемозі сера Крістіана, що зовсім забули про свою обіцянку допомогти йому. Святкування йшли цілодобово протягом декількох тижнів. Коли ж сер Крістіан спробував нагадати їм про операцію, вони лише розсміялися й порадили йому поцілувати той кінець корови, яким вона не мукає. Залишивши тріумфуючих тубільців, сер Крістіан попрямував до таверни - залити кухлем елю тугу за домом. Він сидів у таверні і розглядав бульбашки, які тануть на дні чергової спустошеної кварти, як раптом відчув біля свого горла холодне лезо ножа. \"Обернись. Повільно\". Обернувшись, він побачив перед собою володаря північних земель. Сер Крістіан спробував швидко прийняти рішення, що в його стані було не так-то просто. Нарешті, він вимовив: \"Може, спочатку поговоримо?\" Коли північний володар і його воїни зібралися за столом, сер Крістіан пояснив їм ситуацію. Вони недовірливо вислухали його, проте погодилися, що якщо герой залишиться на острові, остров'янам доведеться погано. Після довгих переговорів, в ході яких було випито чимало елю, була укладена угода наступна: якщо сер Крістіан погодиться перебити нахабних жителів півдня, північні жителі з радістю допоможуть йому повернутися додому. Похитуючись, сер Крістіан встав з-за столу і оголосив, що щоб уникнути чергової зради він вимагає, щоб угода була підписана кров'ю."
+  },
+  {
+    "var": "FOOL_M4_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Day 4",
+    "ua": "Day 4"
+  },
+  {
+    "var": "FOOL_M4_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "As you are traveling to your new quarters you sort out your thoughts and strategies as to how, exactly, you will complete your new quest. This trip is also giving your body a chance to heal from all the bumps and bruises you've acquired from previous battles and bar brawls  (not to mention the headache that you will get from drinking that entire bottle of Redwood Pale Ale). You dig into your backpack and take out the bottle. The label reads: \nREDWOOD PALE ALE \nWhile riding you suddenly hop off of your horse, run into the bushes and spill your oats (and barley and hops.) Your whole life passes before your eyes and you swear on your grandfather's grave that you'll never do this again. \n\"Quantity is our middle name.\"\n\"No wonder it was on sale.\" you think to yourself.\n",
+    "ua": "На шляху до вашого нового будинку ви будуєте стратегічні плани, роздумуючи над тим, як вам виконати ваше нове завдання. Ви сподіваєтеся, що в дорозі заживуть і ті синці та ґулі, які ви заробили під час минулих битв і п'яних бійок в тавернах, не кажучи вже про головний біль, що з'явився після того, як ви разом осушили пляшку редвудского світлого елю. Потонувши в сумі, ви дістаєте пляшку. Етикетка говорить:\nРЕДВУДСЬКИЙ СВІТЛИЙ ЕЛЬ\nРаптом ви зістрибуєте з коня і ховаєтеся в кущах, де у вас з голови вилітають залишки хмілю (таким собі широким струменем). Все життя проноситься у вас перед очима, і ви присягаєтеся могилою дідуся, що ніколи більше не будете пити цю гидоту.\n\"Правильний ель\",\n- Було написано на етикетці. \"Я б замінив букву \"п\" на \"т\", - думаєте ви."
+  },
+  {
+    "var": "FOOL_M4_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Spies return",
+    "ua": "Spies return"
+  },
+  {
+    "var": "FOOL_M4_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "Your valiant spies have returned! A very noxious stench fills your nostrils. The stench worsens as you get closer to them. Their matted hair and tattered clothing make you think twice about the credibility of your troops. One of them staggers forward to speak. \"Sir. We, your valiant spies, have returned...BURP!\" He staggers back into his ranks and starts to pick something foul out of his ear. \"You reek of New World Stout Longneck, vintage 1087!\" You shout. \"Sir. Ya certainly know your ales, sir,\" the spy slurs, obviously impressed. He belches loudly. The other spy speaks up next. \"Uh...The enemies are building their towns and...uh...their troops as fast as possible sir...HIC!\" \"Oh. So go ahead and tell us something we don't know, you vomitus hairballs!\" you scream. The spies fall over, bellowing with laughter, as you stomp away in a fit of rage saying to yourself,  \"Next time I'll call on Rent-A-Spy.\"",
+    "ua": "Ваші доблесні розвідники повернулися! Неприємний запах б'є вам в ніс. У міру того, як розвідники наближаються, запах стає все сильнішим. Волосся їх сплутане, одяг роздертий. Ви замислюєтеся, чи правильно ви зробили, що послали саме їх у розвідку. Тим часом один з них, похитуючись, виходить вперед і вимовляє: \"Сер! Ми, ваші доблесні розвідники, повернулися! Блее!\" Колупаючись у вусі, він намагається стати в стрій.\" Та від тебе несе елем \"Нью Ворлд Лонг Нек\" врожаю 1087\", - розлючений кричите ви. \"О, так, сер. Я бачу, ви знавець, сер.\", - Бурмоче шпигун, після чого голосно блює. Ви явно вразили його своїми знаннями. Слово бере інший розвідник: \"Е-е... Вороги зміцнюють міста і... це... збирають війська, сер! Ік.!\" \"Он як? Чому б вам не розповісти мені що-небудь, чого я не знаю, ах ви, волохаті слимаки!\" - Кричите ви. Шпигуни валяться на землю, знемагаючи від сміху. На зло тупаючи ногами, ви залишаєте цю жалюгідну сцену, обіцяючи собі, що наступного разу скористаєтеся послугами \"Шпигунів за викликом.\""
+  },
+  {
+    "var": "FOOL_M4_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "Day 29",
+    "ua": "Day 29"
+  },
+  {
+    "var": "FOOL_M4_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "It is another blazing hot day. You and your troops are beyond exhaustion. You stop and sit down to take a load off. Suddenly two gorgeous, scantily clad women wearing little more than chainmail bodices approach and hand you a 12 pack of New World Genuine Draft Ale. You quickly look at the bottom of the bottle to be sure the ale is, in fact, fit to drink. You look back at the young ladies. On of the women winks at you, touches your lips with her finger, then touches her own lips. They turn and walk away. You have never seen such a beautiful sight.  Your hands become clammy and you experience a feeling that you have never felt before. \"This must be love!\" you shout. You then pop open the bottle and suddenly a strong breeze blows from the north. You take a drink. It is fresh, clean and has no aftertaste. The winds grow stronger and it begins to snow. \"This is too much.\" You again shout, \"I must be in love! Or this one fine ale!\" You pass around the rest of the NWGD to your troops. ",
+    "ua": "Вже котрий день стоїть жахлива спека. Ви і ваші воїни стомлені до крайнього ступеню. Ви зупиняєтеся відпочити, як раптом, звідки не візьмися, з'являються двоє прекрасних дівчат, на яких, здається, немає нічого, крім легких кольчуг, і дарують вам ящик елю \"Нью Ворлд Драфт\". Ви кидаєте погляд на денце пляшки, щоб визначити, чи годиться цей ель для пиття, потім знову дивитися на дівчат. Одна з них підморгує вам, торкається вказівним пальцем до ваших губ, потім до своїх. Вони йдуть. Ви ніколи не бачили більш прекрасного видовища. Ви відчуваєте якесь нове почуття, якого раніше не знали. \"Напевно, це кохання! \" - Кричите ви. Тремтячими руками ви відкриваєте пляшку, і негайно ж з півночі налітає порив вітру. Ви відпиваєте ковток, і відчуваєте свіжий, міцний смак без неприємного присмаку. Вітер здіймається, починає йти сніг. Це вже занадто... Ви знову скажете: \"Так, напевно, це любов! Я люблю цей ель!\" Залишок \"Нью Ворлд Драфт\" ви роздаєте військам."
+  },
+  {
+    "var": "FOOL_M4_mapevent4_name",
+    "field": "map_mapevent4_name",
+    "en": "Day 15 send out spies",
+    "ua": "Day 15 send out spies"
+  },
+  {
+    "var": "FOOL_M4_mapevent4_mesg",
+    "field": "map_mapevent4_mesg",
+    "en": "Your advisor suggests that you send out spies to gather information from behind the enemy lines. You agree and order four of your troops to go and get all the information they could about the enemy and return in five days.",
+    "ua": "Ваш радник пропонує вам вислати шпигунів, щоб вони зібрали інформацію про те, що твориться в стані ворога. Погодившись з ним, ви наказуєте чотирьом своїм воїнам відправитися в розвідку і повернутися через п'ять днів з докладним доповіддю про ворога."
+  },
+  {
+    "var": "FOOL_M4_mapevent5_name",
+    "field": "map_mapevent5_name",
+    "en": "Pick up?",
+    "ua": "Pick up?"
+  },
+  {
+    "var": "FOOL_M4_mapevent5_mesg",
+    "field": "map_mapevent5_mesg",
+    "en": "You spot a young female warrior facing away from you. It looks like she is repairing her battle armor. Entranced by her beauty, you try desperately to think of a way to impress her. Since reading \"How to Pick Up Female Warriors\" at the tavern library corner last week, you feel suave and confident. You saunter up to her and try one of the \"never-fail\" lines from the book. \n\"Didn't we meet last year at the Psychus Town slaughtering?\" \nShe does not respond. Maybe she didn't hear you. The strong wind in the trees is rather loud. You didn't like that line any way. You think of another one that's sure to capture her heart. You draw closer so you know she'll hear you.  You speak.\n\"Every second of every hour of every day is like a thousand knives of fire stabbing me in the heart. I long for thee incessantly; so much that mine sorrow seems without surcease. My alliteration is small comfort next to the warm gaze of thine azure eyes. I crave the comfort of thine embrace like some lost child cold and alone in the dark.\" \n Again nothing. It is as if you're not even speaking. You tap her on the shoulder. She suddenly jumps to her feet with a dagger in her hand.  \n\"Can I help you?\" she asks abruptly. \n\" Greeting miss, My name is Sir...\"\n\"What?\" she interrupts.\n\"My name is...\"\n\"What? I can't hear you,\" she says louder than before. \nYou shout \"MY NAME IS SIR....\"\n\"Just a minute!\"  Again, she interrupts you. She reaches up and pulls something out of her ears. \n\"Sorry. I wear these earplugs to keep the nasty bugs out of my ears. So, what were you saying? \nYou stand there and just stare at her amazing beauty while panicking about to say you try desperately to think of another one of those great lines from that book. \n\"How about going out with a guy who doesn't have the plague for a change?\"\nShe folds her arms and glares at you. You start blushing and become uneasy. In a last ditch effort to strike up conversation you try another one.\n\"Uh...Want some jerky?\"\n\"You Pervert! I'll have you know that I want nothing to do with your sick fantasies!\" She walks up to you and slaps you across the face, gets on her horse and rides away.\n",
+    "ua": "Ви помічаєте дівчину-воїна, що стоїть до вас спиною. Схоже, вона зайнята лагодженням бойового обладунку. Зачарований її красою, ви вирішуєте привернути її увагу з допомогою чарівних змов з книги \"Як зачарувати дівчину-воїна\", прочитаної вами не так давно в одній з таверн.\n- Скажіть, чи не зустрічалися ми в минулому році під час бійні у міста Психус?\nДівчина не відповідає. Можливо, вона просто не розчула вас за шумом вітру? Втім, ця фраза вам не дуже сподобалася. Ви згадуєте іншу, підходите ближче, щоб дівчина точно розчула, і вимовляєте:\n- Кожна секунда кожної години кожного дня тисячею ножів втикається мені прямо в серце. Я постійно мрію про тебе, і смуток горить у грудях. Навіть ця алітерація не може зрівнятися з ніжним поглядом твоїх блакитних очей. Я спраглий твоїх обіймів, як самотня замерзла дитина, яка загубилася в темряві.\nНіякої реакції - немов ви нічого і не говорили. Ви чіпаєте дівчину за плече. Вона різко підхоплюється, і, наставивши на вас кинджал, раптово запитує:\n- Чим можу бути корисною?\n- Добрий день, міс, мене звуть сер...\n\"Що?\" - Перериває вас вона.\n- Мене звуть...\n\"Що? Я вас не чую!\", - вимовляє вона ще голосніше, ніж раніше.\nВи кажете: \"МЕНЕ КЛИЧУТЬ СЕР...\"\n\"Хвилиночку!\" - Знову перебиває вона, дістаючи щось з вух.\n- Вибачте. Я ношу у вухах ці затички, щоб жучки туди не забиралися.\nВи мовчки дивуєтесь її неземною красою, одночасно панічно перебираючи фрази з книги.\n- Як щодо побачення з одним із небагатьох хлопців, ще не заражених чумою?\nДівчина складає руки на грудях і кидає на вас скептичний погляд. В останній відчайдушній спробі завести розмову, ви вимовляєте:\n- Е-е... Чи не хочете ковбаски?\n\"Послухай, збочинець. Можеш залишити свої хворі фантазії для кого-небудь іншого!\" Сказавши це, вона дає вам дзвінкий ляпас, схоплюється на коня і мчить геть."
+  }
+]

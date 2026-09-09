@@ -1,0 +1,1807 @@
+[
+  {
+    "var": "ARTRAITS_1",
+    "en": "\t\tHero Slots\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\tHero Slots\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_Name",
+    "en": "Name\tCost\tSpell Book\tWar Machine 4\tWar Machine 3\tWar Machine 2\tWar Machine 1\tMisc 5\tMisc 4\tMisc 3\tMisc 2\tMisc 1\tFeet\tLeft Ring\tRight Ring\tTorso\tLeft Hand\tRight Hand\tNeck\tShoulders\tHead\t\"Class (S,T,N,J,R)\"\tDescription",
+    "ua": "Name\tCost\tSpell Book\tWar Machine 4\tWar Machine 3\tWar Machine 2\tWar Machine 1\tMisc 5\tMisc 4\tMisc 3\tMisc 2\tMisc 1\tFeet\tLeft Ring\tRight Ring\tTorso\tLeft Hand\tRight Hand\tNeck\tShoulders\tHead\t\"Class (S,T,N,J,R)\"\tDescription"
+  },
+  {
+    "var": "ARTRAITS_Spell Book",
+    "en": "Spell Book\t0\tx\t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \t \t \t \tS\t\"{Spell Book}\n\nLeft-click on the spell book to view your spells.\"",
+    "ua": "Магічна книга\t0\tx\t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \t \t \t \tS\t\"{Магічна книга}\n\nЩоб переглянути список доступних заклинань, відкрийте Магічну книгу натисканням лівої кнопки миші.\""
+  },
+  {
+    "var": "ARTRAITS_Spell Scroll",
+    "en": "Spell Scroll\t2500\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tS\t\"{Spell Scroll}\n\nThis scroll contains the [spell name] spell which is added into your spell book for as long as you carry the scroll.\"",
+    "ua": "Сувій заклинання\t2500\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tS\t\"{Сувій заклинання}\n\nНа цьому сувої записано заклинання [spell name], яке додасться до вашої Магічної книги, поки сувій буде у вас.\""
+  },
+  {
+    "var": "ARTRAITS_The Grail",
+    "en": "The Grail\t0\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \t \t \t \tS\t\"{The Grail}\n\nCarry the Grail to the city of your choice and the populace there will build a fantastic structure which will provide a tremendous advantage to the city's owner.\"",
+    "ua": "Грааль\t0\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \t \t \t \tS\t\"{Грааль}\n\nВіднесіть Грааль в будь-яке місто за вашим вибором, і населення цього міста зведе надзвичайну споруду, яка дасть величезні переваги власнику міста.\""
+  },
+  {
+    "var": "ARTRAITS_Catapult",
+    "en": "Catapult\t1000\t \tx\t \t \t \t\t \t \t \t \t \t \t \t \t \t \t \t \t \tS\t\"{Catapult}\n\nUse this war machine to target your enemy's fortifications in combat.\"",
+    "ua": "Катапульта\t1000\t \tx\t \t \t \t\t \t \t \t \t \t \t \t \t \t \t \t \t \tS\t\"{Катапульта}\n\nЦя бойова машина призначена для обстрілу укріплень супротивника під час облоги.\""
+  },
+  {
+    "var": "ARTRAITS_Ballista",
+    "en": "Ballista\t2500\t \t \t \t \tx\t\t \t \t \t \t \t \t \t \t \t \t \t \t \tS\t\"{Ballista}\n\nUse this war machine to target your enemy's troops in combat.\"",
+    "ua": "Баліста\t2500\t \t \t \t \tx\t\t \t \t \t \t \t \t \t \t \t \t \t \t \tS\t\"{Баліста}\n\nЦя бойова машина призначена для обстрілу військ супротивника під час облоги.\""
+  },
+  {
+    "var": "ARTRAITS_Ammo Cart",
+    "en": "Ammo Cart\t1000\t \t \t \tx\t \t\t \t \t \t \t \t \t \t \t \t \t \t \t \tS\t\"{Ammo Cart}\n\nThe Ammo Cart ensures that your missile troops will never run out of ammunition in combat.\"",
+    "ua": "Візок\t1000\t \t \t \tx\t \t\t \t \t \t \t \t \t \t \t \t \t \t \t \tS\t\"{Візок}\n\nВізок гарантує, що під час бою боєприпаси у ваших стрільців не вичерпаються.\""
+  },
+  {
+    "var": "ARTRAITS_First Aid Tent",
+    "en": "First Aid Tent\t750\t \t \tx\t \t \t\t \t \t \t \t \t \t \t \t \t \t \t \t \tS\t\"{First Aid Tent}\n\nThe First Aid Tent provides healing to your troops during each round of combat.\"",
+    "ua": "Намет першої допомоги\t750\t \t \tx\t \t \t\t \t \t \t \t \t \t \t \t \t \t \t \t \tS\t\"{Намет першої допомоги}\n\nНамет першої допомоги дозволяє лікувати ваші війська після кожного раунду.\""
+  },
+  {
+    "var": "ARTRAITS_Centaurs Axe",
+    "en": "Centaurs Axe\t2000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \tx\t \t \t \tT\t\"{Centaur's Axe}\n\nThis right handed weapon increases your Attack skill by +2.\"",
+    "ua": "Сокира кентавра\t2000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \tx\t \t \t \tT\t\"{Сокира кентавра}\n\nЦя зброя, яку тримають у правій руці, додає до вашої Атаки 2 одиниці.\""
+  },
+  {
+    "var": "ARTRAITS_Blackshard of the Dead Knight",
+    "en": "Blackshard of the Dead Knight\t3000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \tx\t \t \t \tN\t\"{Blackshard of the Dead Knight}\n\nThis right handed weapon increases your Attack skill by +3.\"",
+    "ua": "Чорне лезо Лицаря Смерті\t3000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \tx\t \t \t \tN\t\"{Чорне лезо Лицаря Смерті}\n\nЦя зброя, яку тримають у правій руці, додає до вашої Атаки 3 одиниці.\""
+  },
+  {
+    "var": "ARTRAITS_Greater Gnoll's Flail",
+    "en": "Greater Gnoll's Flail\t4000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \tx\t \t \t \tN\t\"{Greater Gnoll's Flail}\n\nThis right handed weapon increases your Attack skill by +4.\"",
+    "ua": "Бойовий ціп гнола\t4000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \tx\t \t \t \tN\t\"{Бойовий ціп гнола}\n\nЦя зброя, яку тримають у правій руці, додає до вашої Атаки 4 одиниці.\""
+  },
+  {
+    "var": "ARTRAITS_Ogre's Club of Havoc",
+    "en": "Ogre's Club of Havoc\t5000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \tx\t \t \t \tJ\t\"{Ogre's Club of Havoc}\n\nThis right handed weapon increases your Attack skill by +5.\"",
+    "ua": "Дубина руйнації Огра\t5000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \tx\t \t \t \tJ\t\"{Дубина руйнації Огра}\n\nЦя зброя, яку тримають у правій руці, додає до вашої Атаки 5 одиниць.\""
+  },
+  {
+    "var": "ARTRAITS_Sword of Hellfire",
+    "en": "Sword of Hellfire\t6000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \tx\t \t \t \tJ\t\"{Sword of Hellfire}\n\nThis right handed weapon increases your Attack skill by +6.\"",
+    "ua": "Меч пекельного вогню\t6000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \tx\t \t \t \tJ\t\"{Меч пекельного вогню}\n\nЦя зброя, яку тримають у правій руці, додає до вашої Атаки 6 одиниць.\""
+  },
+  {
+    "var": "ARTRAITS_Titan's Gladius",
+    "en": "Titan's Gladius\t10000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \tx\t \t \t \tR\t\"{Titan's Gladius}\n\nHeld with the right hand, this massive relic increases your Attack skill by +12, but reduces your Defense skill by -3.\"",
+    "ua": "Ґладіус Титана\t10000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \tx\t \t \t \tR\t\"{Ґладіус Титана}\n\nЦя важка стародавня зброя, яку тримають у правій руці, додає до вашої Атаки 12 одиниць, але при цьому зменшує Захист на 3 одиниці.\""
+  },
+  {
+    "var": "ARTRAITS_Shield of the Dwarven Lords",
+    "en": "Shield of the Dwarven Lords\t2000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \tx\t \t \t \t \tT\t\"{Shield of the Dwarven Lords}\n\nThis left handed item increases your Defense skill by +2.\"",
+    "ua": "Щит короля гномів\t2000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \tx\t \t \t \t \tT\t\"{Щит короля гномів}\n\nЦей щит, який тримають в лівій руці, додає до вашого Захисту 2 одиниці.\""
+  },
+  {
+    "var": "ARTRAITS_Shield of the Yawning Dead",
+    "en": "Shield of the Yawning Dead\t3000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \tx\t \t \t \t \tN\t\"{Shield of the Yawning Dead}\n\nThis left handed item increases your Defense skill by +3.\"",
+    "ua": "Щит неупокоєних\t3000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \tx\t \t \t \t \tN\t\"{Щит неупокоєних}\n\nЦей щит, який тримають в лівій руці, додає до вашого Захисту 3 одиниці.\""
+  },
+  {
+    "var": "ARTRAITS_Buckler of the Gnoll King",
+    "en": "Buckler of the Gnoll King\t4000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \tx\t \t \t \t \tN\t\"{Buckler of the Gnoll King}\n\nThis left handed item increases your Defense skill by +4.\"",
+    "ua": "Щит короля гнолів\t4000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \tx\t \t \t \t \tN\t\"{Щит короля гнолів}\n\nЦей щит, який тримають в лівій руці, додає до вашого Захисту 4 одиниці.\""
+  },
+  {
+    "var": "ARTRAITS_Targ of the Rampaging Ogre",
+    "en": "Targ of the Rampaging Ogre\t5000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \tx\t \t \t \t \tJ\t\"{Targ of the Rampaging Ogre}\n\nThis left handed item increases your Defense skill by +5.\"",
+    "ua": "Щит скаженого огра\t5000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \tx\t \t \t \t \tJ\t\"{Щит скаженого огра}\n\nЦей щит, який тримають в лівій руці, додає до вашого Захисту 5 одиниць.\""
+  },
+  {
+    "var": "ARTRAITS_Shield of the Damned",
+    "en": "Shield of the Damned\t6000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \tx\t \t \t \t \tJ\t\"{Shield of the Damned}\n\nThis left handed item increases your Defense skill by +6.\"",
+    "ua": "Щит проклятих\t6000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \tx\t \t \t \t \tJ\t\"{Щит проклятих}\n\nЦей щит, який тримають в лівій руці, додає до вашого Захисту 6 одиниць.\""
+  },
+  {
+    "var": "ARTRAITS_Sentinel's Shield",
+    "en": "Sentinel's Shield\t10000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \tx\t \t \t \t \tR\t\"{Sentinel's Shield}\n\nHeld with the left hand, this relic increases your Defense skill by +12, but reduces your Attack skill by -3.\"",
+    "ua": "Щит вартового\t10000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \tx\t \t \t \t \tR\t\"{Щит вартового}\n\nЦей стародавній щит, який тримають в лівій руці, додає до вашого Захисту 12 одиниць, але при цьому зменшує Атаку на 3 одиниці.\""
+  },
+  {
+    "var": "ARTRAITS_Helm of the Alabaster Unicorn",
+    "en": "Helm of the Alabaster Unicorn\t1000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \t \t \tx\tT\t\"{Helm of the Alabaster Unicorn}\n\nWorn on the head, this item increases your Knowledge skill by +1.\"",
+    "ua": "Шолом білого єдинорога\t1000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \t \t \tx\tT\t\"{Шолом білого єдинорога}\n\nЦей шолом, який носять на голові, додає до Знання 1 одиницю.\""
+  },
+  {
+    "var": "ARTRAITS_Skull Helmet",
+    "en": "Skull Helmet\t3000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \t \t \tx\tT\t\"{Skull Helmet}\n\nWorn on the head, this item increases your Knowledge skill by +2.\"",
+    "ua": "Шолом-череп\t3000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \t \t \tx\tT\t\"{Шолом-череп}\n\nЦей шолом, який носять на голові, додає до Знання 2 одиниці.\""
+  },
+  {
+    "var": "ARTRAITS_Helm of Chaos",
+    "en": "Helm of Chaos\t4000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \t \t \tx\tN\t\"{Helm of Chaos}\n\nWorn on the head, this item increases your Knowledge skill by +3.\"",
+    "ua": "Шолом хаосу\t4000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \t \t \tx\tN\t\"{Шолом Хаосу}\n\nЦей шолом, який носять на голові, додає до Знання 3 одиниці.\""
+  },
+  {
+    "var": "ARTRAITS_Crown of the Supreme Magi",
+    "en": "Crown of the Supreme Magi\t5000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \t \t \tx\tN\t\"{Crown of the Supreme Magi}\n\nWorn on the head, this item increases your Knowledge skill by +4.\"",
+    "ua": "Корона верховного мага\t5000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \t \t \tx\tN\t\"{Корона верховного мага}\n\nЦей шолом, який носять на голові, додає до Знання 4 одиниці.\""
+  },
+  {
+    "var": "ARTRAITS_Hellstorm Helmet",
+    "en": "Hellstorm Helmet\t6000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \t \t \tx\tJ\t\"{Hellstorm Helmet}\n\nWorn on the head, this item increases your Knowledge skill by +5.\"",
+    "ua": "Шолом пекельної бурі\t6000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \t \t \tx\tJ\t\"{Шолом пекельної бурі}\n\nЦей шолом, який носять на голові, додає до Знання 5 одиниць.\""
+  },
+  {
+    "var": "ARTRAITS_Thunder Helmet",
+    "en": "Thunder Helmet\t10000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \t \t \tx\tR\t\"{Thunder Helmet}\n\nWhen worn, this relic increases your Knowledge skill by +10, but reduces your Power skill by -2.\"",
+    "ua": "Громовий шолом\t10000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \t \t \tx\tR\t\"{Громовий шолом}\n\nЦей древній шолом, який носять на голові, додає до Знання 10 одиниць, але при цьому зменшує Силу магії на 2 одиниці.\""
+  },
+  {
+    "var": "ARTRAITS_Breastplate of Petrified Wood",
+    "en": "Breastplate of Petrified Wood\t1000\t \t \t \t \t \t\t \t \t \t \t \t \t \tx\t \t \t \t \t \tT\t\"{Breastplate of Petrified Wood}\n\nWorn on the torso, this item increases your Power skill by +1.\"",
+    "ua": "Нагрудник зі скам'янілого дерева\t1000\t \t \t \t \t \t\t \t \t \t \t \t \t \tx\t \t \t \t \t \tT\t\"{Нагрудник зі скам'янілого дерева}\n\nЦей нагрудник, який носять на тілі, додає до вашої Сили магії 1 одиницю.\""
+  },
+  {
+    "var": "ARTRAITS_Rib Cage",
+    "en": "Rib Cage\t3000\t \t \t \t \t \t\t \t \t \t \t \t \t \tx\t \t \t \t \t \tN\t\"{Rib Cage}\n\nWorn on the torso, this item increases your Power skill by +2.\"",
+    "ua": "Каркас з Ребр\t3000\t \t \t \t \t \t\t \t \t \t \t \t \t \tx\t \t \t \t \t \tN\t\"{Каркас з ребр}\n\nЦі обладунки, які носять на тілі, додають до вашої Сили магії 2 одиниці.\""
+  },
+  {
+    "var": "ARTRAITS_Scales of the Greater Basilisk",
+    "en": "Scales of the Greater Basilisk\t4000\t \t \t \t \t \t\t \t \t \t \t \t \t \tx\t \t \t \t \t \tN\t\"{Scales of the Greater Basilisk}\n\nWorn on the torso, this item increases your Power skill by +3.\"",
+    "ua": "Луска великого василіска\t4000\t \t \t \t \t \t\t \t \t \t \t \t \t \tx\t \t \t \t \t \tN\t\"{Луска великого василіска}\n\nЦі обладунки, які носять на тілі, додають до вашої Сили магії 3 одиниці.\""
+  },
+  {
+    "var": "ARTRAITS_Tunic of the Cyclops King",
+    "en": "Tunic of the Cyclops King\t5000\t \t \t \t \t \t\t \t \t \t \t \t \t \tx\t \t \t \t \t \tJ\t\"{Tunic of the Cyclops King}\n\nWorn on the torso, this item increases your Power skill by +4.\"",
+    "ua": "Туніка короля циклопів\t5000\t \t \t \t \t \t\t \t \t \t \t \t \t \tx\t \t \t \t \t \tJ\t\"{Туніка короля циклопів}\n\nЦя туніка, яку носять на тілі, додає до вашої Сили магії 4 одиниці.\""
+  },
+  {
+    "var": "ARTRAITS_Breastplate of Brimstone",
+    "en": "Breastplate of Brimstone\t6000\t \t \t \t \t \t\t \t \t \t \t \t \t \tx\t \t \t \t \t \tJ\t\"{Breastplate of Brimstone}\n\nWorn on the torso, this item increases your Power skill by +5.\"",
+    "ua": "Нагрудник зі кам'яної сірки\t6000\t \t \t \t \t \t\t \t \t \t \t \t \t \tx\t \t \t \t \t \tJ\t\"{Нагрудник зі кам'яної сірки}\n\nЦей нагрудник, який носять на тілі, додає до вашої Сили магії 5 одиниць.\""
+  },
+  {
+    "var": "ARTRAITS_Titan's Cuirass",
+    "en": "Titan's Cuirass\t10000\t \t \t \t \t \t\t \t \t \t \t \t \t \tx\t \t \t \t \t \tR\t\"{Titan's Cuirass}\n\nWhen worn, this massive relic increases your Power skill by +10, but reduces your Knowledge skill by -2.\"",
+    "ua": "Кіраса Титана\t10000\t \t \t \t \t \t\t \t \t \t \t \t \t \tx\t \t \t \t \t \tR\t\"{Кіраса титана}\n\nЦі масивні стародавні обладунки, які носять на тілі, додають до вашої Силі магії 10 одиниць, але при цьому зменшують Знання на 2 одиниці.\""
+  },
+  {
+    "var": "ARTRAITS_Armor of Wonder",
+    "en": "Armor of Wonder\t4000\t \t \t \t \t \t\t \t \t \t \t \t \t \tx\t \t \t \t \t \tN\t\"{Armor of Wonder}\n\nWorn on the torso, the Armor of Wonder increases all four primary skills by +1.\"",
+    "ua": "Дивний обладунок\t4000\t \t \t \t \t \t\t \t \t \t \t \t \t \tx\t \t \t \t \t \tN\t\"{Дивний обладунок}\n\nДивний обладунок, який носять на тілі, додає до всіх ваших чотирьох основних навичок по 1 одиниці.\""
+  },
+  {
+    "var": "ARTRAITS_Sandals of the Saint",
+    "en": "Sandals of the Saint\t8000\t \t \t \t \t \t\t \t \t \t \tx\t \t \t \t \t \t \t \t \tR\t\"{Sandals of the Saint}\n\nWorn on the feet, the Sandals of the Saint increase all four primary skills by +2.\"",
+    "ua": "Сандалі святого\t8000\t \t \t \t \t \t\t \t \t \t \tx\t \t \t \t \t \t \t \t \tR\t\"{Сандалі святого}\n\nСандалі святого, які носять на ногах, додають до всіх ваших чотирьох основних навичок по 2 одиниці.\""
+  },
+  {
+    "var": "ARTRAITS_Celestial Necklace of Bliss",
+    "en": "Celestial Necklace of Bliss\t12000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \tx\t \t \tR\t\"{Celestial Necklace of Bliss}\n\nWorn about the neck, the Celestial Necklace of Bliss increases all four primary skills by +3.\"",
+    "ua": "Намисто небесного блаженства\t12000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \tx\t \t \tR\t\"{Намисто небесного блаженства}\n\nНамисто небесного блаженства, яке носять на шиї, додає до всіх ваших чотирьох основних навичок по 3 одиниці.\""
+  },
+  {
+    "var": "ARTRAITS_Lion's Shield of Courage",
+    "en": "Lion's Shield of Courage\t16000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \tx\t \t \t \t \tR\t\"{Lion's Shield of Courage}\n\nHeld with the left hand, the Lion's Shield of Courage increases all four primary skills by +4.\"",
+    "ua": "Щит лев'ячої мужності\t16000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \tx\t \t \t \t \tR\t\"{Щит лев'ячої мужності}\n\nЩит лев'ячої мужності, який тримають в лівій руці, додає до всіх ваших чотирьох основних навичок по 4 одиниці.\""
+  },
+  {
+    "var": "ARTRAITS_Sword of Judgement",
+    "en": "Sword of Judgement\t20000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \tx\t \t \t \tR\t\"{Sword of Judgement}\n\nHeld with the right hand, the Sword of Judgement increases all four primary skills by +5.\"",
+    "ua": "Меч правосуддя\t20000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \tx\t \t \t \tR\t\"{Меч правосуддя}\n\nМеч правосуддя, який тримають в правій руці, додає до всіх ваших чотирьох основних навичок по 5 одиниць.\""
+  },
+  {
+    "var": "ARTRAITS_Helm of Heavenly Enlightenment",
+    "en": "Helm of Heavenly Enlightenment\t24000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \t \t \tx\tR\t\"{Helm of Heavenly Enlightenment}\n\nWorn on the head, the Helm of Heavenly Enlightenment increases all four primary skills by +6.\"",
+    "ua": "Шолом небесного просвітлення\t24000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \t \t \tx\tR\t\"{Шолом небесного просвітлення}\n\nШолом небесного просвітління, який носять на голові, додає до всіх ваших основних навичок по 6 одиниць.\""
+  },
+  {
+    "var": "ARTRAITS_Quiet Eye of the Dragon",
+    "en": "Quiet Eye of the Dragon\t2000\t \t \t \t \t \t\t \t \t \t \t \tx\tx\t \t \t \t \t \t \tT\t\"{Quiet Eye of the Dragon}\n\nWorn on a finger, this item increases your Attack and Defense skills by +1.\"",
+    "ua": "Мовчазне око дракона\t2000\t \t \t \t \t \t\t \t \t \t \t \tx\tx\t \t \t \t \t \t \tT\t\"{Мовчазне око дракона}\n\nЦей перстень, який носять на пальці, додає до ваших навичок Атаки і Захисту по 1 одиниці.\""
+  },
+  {
+    "var": "ARTRAITS_Red Dragon Flame Tongue",
+    "en": "Red Dragon Flame Tongue\t4000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \tx\t \t \t \tN\t\"{Red Dragon Flame Tongue}\n\nHeld with the right hand, this item increases your Attack and Defense skills by +2.\"",
+    "ua": "Язик полум'я червоного дракона\t4000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \tx\t \t \t \tN\t\"{Язик полум'я червоного дракона}\n\nЦей меч, який тримають в правій руці, додає до ваших навичок Атаки і Захисту по 2 одиниці.\""
+  },
+  {
+    "var": "ARTRAITS_Dragon Scale Shield",
+    "en": "Dragon Scale Shield\t6000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \tx\t \t \t \t \tJ\t\"{Dragon Scale Shield}\n\nHeld with the left hand, this item increases your Attack and Defense skills by +3.\"",
+    "ua": "Щит дракона\t6000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \tx\t \t \t \t \tJ\t\"{Щит дракона}\n\nЦей щит, який носять в лівій руці, додає до ваших навичок Атаки і Захисту по 3 одиниці.\""
+  },
+  {
+    "var": "ARTRAITS_Dragon Scale Armor",
+    "en": "Dragon Scale Armor\t8000\t \t \t \t \t \t\t \t \t \t \t \t \t \tx\t \t \t \t \t \tR\t\"{Dragon Scale Armor}\n\nWorn on a torso, this item increases your Attack and Defense skills by +4.\"",
+    "ua": "Обладунок дракона\t8000\t \t \t \t \t \t\t \t \t \t \t \t \t \tx\t \t \t \t \t \tR\t\"{Обладунок дракона}\n\nЦі обладунки, які носять на тілі, додають до ваших навичок Атаки і Захисту по 4 одиниці.\""
+  },
+  {
+    "var": "ARTRAITS_Dragonbone Greaves",
+    "en": "Dragonbone Greaves\t2000\t \t \t \t \t \t\t \t \t \t \tx\t \t \t \t \t \t \t \t \tT\t\"{Dragonbone Greaves}\n\nWorn on the feet, this item increases your Knowledge and Power skills by +1.\"",
+    "ua": "Поножі з кістки дракона\t2000\t \t \t \t \t \t\t \t \t \t \tx\t \t \t \t \t \t \t \t \tT\t\"{Поножі з кістки дракона}\n\nЦі поножі, які носять на ногах, додають до Знань та Сили магії по 1 одиниці.\""
+  },
+  {
+    "var": "ARTRAITS_Dragon Wing Tabard",
+    "en": "Dragon Wing Tabard\t4000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \t \tx\t \tN\t\"{Dragon Wing Tabard}\n\nWorn on the shoulders, this item increases your Knowledge and Power skills by +2.\"",
+    "ua": "Плащ з крила дракона\t4000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \t \tx\t \tN\t\"{Плащ з крила дракона}\n\nЦя накидка, яку носять на плечах, додає до Знання та Сили магії по 2 одиниці.\""
+  },
+  {
+    "var": "ARTRAITS_Necklace of Dragonteeth",
+    "en": "Necklace of Dragonteeth\t6000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \tx\t \t \tJ\t\"{Necklace of Dragonteeth}\n\nWorn about the neck, this item increases your Knowledge and Power skills by +3.\"",
+    "ua": "Намисто із зубів дракона\t6000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \tx\t \t \tJ\t\"{Намисто із зубів дракона}\n\nЦе намисто, яке носять на шиї, додає до Знання та Сили магії по 3 одиниці.\""
+  },
+  {
+    "var": "ARTRAITS_Crown of Dragontooth",
+    "en": "Crown of Dragontooth\t8000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \t \t \tx\tR\t\"{Crown of Dragontooth}\n\nWorn on the head, this item increases your Knowledge and Power skills by +4.\"",
+    "ua": "Корона дракона\t8000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \t \t \tx\tR\t\"{Корона дракона}\n\nЦя корона, яку носять на голові, додає до Знання та до Сили магії по 4 одиниці.\""
+  },
+  {
+    "var": "ARTRAITS_Still Eye of the Dragon",
+    "en": "Still Eye of the Dragon\t2000\t \t \t \t \t \t\t \t \t \t \t \tx\tx\t \t \t \t \t \t \tT\t\"{Still Eye of the Dragon}\n\nWorn on the finger, this item increases your Luck and Morale by +1.\"",
+    "ua": "Непорушне око дракона\t2000\t \t \t \t \t \t\t \t \t \t \t \tx\tx\t \t \t \t \t \t \tT\t\"{Непорушне око дракона}\n\nЦей перстень, який носять на пальці, додає до вашої Удачі і Моралі по 1 одиниці.\""
+  },
+  {
+    "var": "ARTRAITS_Clover of Fortune",
+    "en": "Clover of Fortune\t1000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tT\t\"{Clover of Fortune}\n\nThe Clover of Fortune increases your Luck by +1.\"",
+    "ua": "Чотирилисник конюшини\t1000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tT\t\"{Чотирилисник конюшини}\n\nЧотирилисник конюшини додає до вашої Удачі 1 одиницю.\""
+  },
+  {
+    "var": "ARTRAITS_Cards of Prophecy",
+    "en": "Cards of Prophecy\t1000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tT\t\"{Cards of Prophecy}\n\nThe Cards of Prophecy increase your Luck by +1.\"",
+    "ua": "Карти пророцтва\t1000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tT\t\"{Карти пророцтва}\n\nКарти пророцтва додають до вашої Удачі 1 одиницю.\""
+  },
+  {
+    "var": "ARTRAITS_Ladybird of Luck",
+    "en": "Ladybird of Luck\t1000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tT\t\"{Ladybird of Luck}\n\nThe Ladybird of Luck increases your Luck by +1.\"",
+    "ua": "Пташка удачі\t1000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tT\t\"{Пташка удачі}\n\nПташка удачі додає до вашої Удачі 1 одиницю.\""
+  },
+  {
+    "var": "ARTRAITS_Badge of Courage",
+    "en": "Badge of Courage\t1000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tT\t\"{Badge of Courage}\n\nThe Badge of Courage increases your Morale by +1.\"",
+    "ua": "Знак мужності\t1000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tT\t\"{Знак мужності}\n\nЗнак мужності додає до вашої Моралі 1 одиницю.\""
+  },
+  {
+    "var": "ARTRAITS_Crest of Valor",
+    "en": "Crest of Valor\t1000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tT\t\"{Crest of Valor}\n\nThe Crest of Valor increases your Morale by +1.\"",
+    "ua": "Хрест відваги\t1000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tT\t\"{Хрест відваги}\n\nХрест відваги додає до вашої Моралі 1 одиницю.\""
+  },
+  {
+    "var": "ARTRAITS_Glyph of Gallantry",
+    "en": "Glyph of Gallantry\t1000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tT\t\"{Glyph of Gallantry}\n\nThe Glyph of Gallantry increases your Morale by +1.\"",
+    "ua": "Гліф доблесті\t1000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tT\t\"{Гліф доблесті}\n\nГліф доблесті додає до вашої Моралі 1 одиницю.\""
+  },
+  {
+    "var": "ARTRAITS_Speculum",
+    "en": "Speculum\t1000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tT\t\"{Speculum}\n\nThe Speculum increases your Scouting radius by +1.\"",
+    "ua": "Телескоп\t1000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tT\t\"{Телескоп}\n\nТелескоп збільшує зону огляду навколо героя на 1 клітинку.\""
+  },
+  {
+    "var": "ARTRAITS_Spyglass",
+    "en": "Spyglass\t1000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tT\t\"{Spyglass}\n\nThe Spyglass increases your Scouting radius by +1.\"",
+    "ua": "Підзорна труба\t1000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tT\t\"{Підзорна труба}\n\nПідзорна труба збільшує зону огляду навколо героя на 1 клітинку.\""
+  },
+  {
+    "var": "ARTRAITS_Amulet of the Undertaker",
+    "en": "Amulet of the Undertaker\t2000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \tx\t \t \tT\t\"{Amulet of the Undertaker}\n\nWorn about the neck, this amulet increases your Necromancy skill by 5%.\"",
+    "ua": "Амулет некроманта\t2000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \tx\t \t \tT\t\"{Амулет некроманта}\n\nЦей амулет, який носять на шиї, покращує ваше вміння некромантії на 5%.\""
+  },
+  {
+    "var": "ARTRAITS_Vampire's Cowl",
+    "en": "Vampire's Cowl\t4000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \t \tx\t \tN\t\"{Vampire's Cowl}\n\nWorn about the shoulders, this cowl increases your Necromancy skill by 10%.\"",
+    "ua": "Плащ вампіра\t4000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \t \tx\t \tN\t\"{Плащ вампіра}\n\nЦей плащ з каптуром, який носять на плечах, покращує ваше вміння некромантії на 10%.\""
+  },
+  {
+    "var": "ARTRAITS_Dead Man's Boots",
+    "en": "Dead Man's Boots\t6000\t \t \t \t \t \t\t \t \t \t \tx\t \t \t \t \t \t \t \t \tJ\t\"{Dead Man's Boots}\n\nWorn on the feet, these boots increase your Necromancy skill by 15%.\"",
+    "ua": "Черевики мерця\t6000\t \t \t \t \t \t\t \t \t \t \tx\t \t \t \t \t \t \t \t \tJ\t\"{Черевики мерця}\n\nЦі черевики, які носять на ногах, покращують ваше вміння некромантії на 15%.\""
+  },
+  {
+    "var": "ARTRAITS_Garniture of Interference",
+    "en": "Garniture of Interference\t2000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \tx\t \t \tJ\t\"{Garniture of Interference}\n\nWorn about the neck, this item increases your Magic Resistance by 5%.\"",
+    "ua": "Спадковий обладунок\t2000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \tx\t \t \tJ\t\"{Спадковий обладунок}\n\nСпадковий обладунок, який носять на шиї, підвищує ваш Опір магії на 5%.\""
+  },
+  {
+    "var": "ARTRAITS_Surcoat of Counterpoise",
+    "en": "Surcoat of Counterpoise\t4000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \t \tx\t \tJ\t\"{Surcoat of Counterpoise}\n\nWorn about the shoulders, this item increases your Magic Resistance by 10%.\"",
+    "ua": "Плащ рівноваги\t4000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \t \tx\t \tJ\t\"{Плащ рівноваги}\n\nЦей плащ, який носять на плечах, підвищує ваш Опір магії на 10%.\""
+  },
+  {
+    "var": "ARTRAITS_Boots of Polarity",
+    "en": "Boots of Polarity\t6000\t \t \t \t \t \t\t \t \t \t \tx\t \t \t \t \t \t \t \t \tR\t\"{Boots of Polarity}\n\nWorn on the feet, these boots increase your Magic Resistance by 15%.\"",
+    "ua": "Черевики полярності\t6000\t \t \t \t \t \t\t \t \t \t \tx\t \t \t \t \t \t \t \t \tR\t\"{Черевики полярності}\n\nЦі черевики, які носять на ногах, підвищують ваш Опір магії на 15%.\""
+  },
+  {
+    "var": "ARTRAITS_Bow of Elven Cherrywood",
+    "en": "Bow of Elven Cherrywood\t2000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tT\t\"{Bow of Elven Cherrywood}\n\nThis bow increases your Archery skill by 5%.\"",
+    "ua": "Ельфійський лук з вишневого дерева\t2000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tT\t\"{Ельфійський лук з вишневого дерева}\n\nЦей лук підвищує ваше вміння стрільби на 5%.\""
+  },
+  {
+    "var": "ARTRAITS_Bowstring of the Unicorn's Mane",
+    "en": "Bowstring of the Unicorn's Mane\t4000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tN\t\"{Bowstring of the Unicorn's Mane}\n\nThis bowstring increases your Archery skill by 10%.\"",
+    "ua": "Тятива з гриви єдинорога\t4000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tN\t\"{Тятива з гриви єдинорога}\n\nЦя тятива підвищує ваше вміння стрільби на 10%.\""
+  },
+  {
+    "var": "ARTRAITS_Angel Feather Arrows",
+    "en": "Angel Feather Arrows\t6000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tJ\t\"{Angel Feather Arrows}\n\nThese arrows increase your Archery skill by 15%.\"",
+    "ua": "Стріли з пір'ям ангела\t6000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tJ\t\"{Стріли з пір'ям ангела}\n\nЦі стріли підвищують ваше вміння стрільби на 15%.\""
+  },
+  {
+    "var": "ARTRAITS_Bird of Perception",
+    "en": "Bird of Perception\t1000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tT\t\"{Bird of Perception}\n\nThis figurine increases your Eagle Eye skill by 5%.\"",
+    "ua": "Птах проникливості\t1000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tT\t\"{Птах проникливості}\n\nЦя статуетка покращує вашу навичку орлиного зору на 5%.\""
+  },
+  {
+    "var": "ARTRAITS_Stoic Watchman",
+    "en": "Stoic Watchman\t2000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tT\t\"{Stoic Watchman}\n\nThis figurine increases your Eagle Eye skill by 10%.\"",
+    "ua": "Непорушний сторож\t2000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tT\t\"{Непорушний сторож}\n\nЦя статуетка покращує вашу навичку орлиного зору на 10%.\""
+  },
+  {
+    "var": "ARTRAITS_Emblem of Cognizance",
+    "en": "Emblem of Cognizance\t3000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tN\t\"{Emblem of Cognizance}\n\nThis item increases your Eagle Eye skill by 15%.\"",
+    "ua": "Символ знання\t3000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tN\t\"{Символ знань}\n\nЦей талісман покращує вашу навичку орлиного зору на 15%.\""
+  },
+  {
+    "var": "ARTRAITS_Statesman's Medal",
+    "en": "Statesman's Medal\t5000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \tx\t \t \tJ\t\"{Statesman's Medal}\n\nWorn about the neck, the Statesman's Medal reduces the cost of surrendering.\"",
+    "ua": "Медаль чиновника\t5000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \tx\t \t \tJ\t\"{Медаль чиновника}\n\nМедаль чиновника, яку носять на шиї, зменшує ціну викупу з полону.\""
+  },
+  {
+    "var": "ARTRAITS_Diplomat's Ring",
+    "en": "Diplomat's Ring\t5000\t \t \t \t \t \t\t \t \t \t \t \tx\tx\t \t \t \t \t \t \tJ\t\"{Diplomat's Ring}\n\nWorn on the finger, the Diplomat's Ring reduces the cost of surrendering.\"",
+    "ua": "Перстень дипломата\t5000\t \t \t \t \t \t\t \t \t \t \t \tx\tx\t \t \t \t \t \t \tJ\t\"{Перстень дипломата}\n\nПерстень дипломата, який носять на пальці, зменшує ціну викупу з полону.\""
+  },
+  {
+    "var": "ARTRAITS_Ambassador's Sash",
+    "en": "Ambassador's Sash\t5000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \t \tx\t \tJ\t\"{Ambassador's Sash}\n\nWorn about the shoulders, the Ambassador's Sash reduces the cost of surrendering.\"",
+    "ua": "Стрічка посла\t5000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \t \tx\t \tJ\t\"{Стрічка посла}\n\nСтрічка посла, яку носять на плечах, зменшує ціну викупу з полону.\""
+  },
+  {
+    "var": "ARTRAITS_Ring of the Wayfarer",
+    "en": "Ring of the Wayfarer\t5000\t \t \t \t \t \t\t \t \t \t \t \tx\tx\t \t \t \t \t \t \tJ\t\"{Ring of the Wayfarer}\n\nWhen placed on the finger, this ring increases the combat speed of all your units by +1.\"",
+    "ua": "Перстень мандрівника\t5000\t \t \t \t \t \t\t \t \t \t \t \tx\tx\t \t \t \t \t \t \tJ\t\"{Перстень мандрівника}\n\nЦей перстень, який носять на пальці, додає до швидкості ваших загонів на полі бою 1 одиницю.\""
+  },
+  {
+    "var": "ARTRAITS_Equestrian's Gloves",
+    "en": "Equestrian's Gloves\t3000\t \t \t \t \t \t\t \t \t \t \t \tx\tx\t \t \t \t \t \t \tN\t\"{Equestrian's Gloves}\n\nWorn on the hands, these gloves increase your hero's movement rate over land.\"",
+    "ua": "Рукавиці вершника\t3000\t \t \t \t \t \t\t \t \t \t \t \tx\tx\t \t \t \t \t \t \tN\t\"{Рукавиці вершника}\n\nЦі рукавички, які носять на руках, збільшують дальність пересування героя по землі.\""
+  },
+  {
+    "var": "ARTRAITS_Necklace of Ocean Guidance",
+    "en": "Necklace of Ocean Guidance\t10000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \tx\t \t \tJ\t\"{Necklace of Ocean Guidance}\n\nWorn about the neck, this necklace increases your hero's movement rate at sea.\"",
+    "ua": "Намисто навігатора\t10000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \tx\t \t \tJ\t\"{Намисто навігатора}\n\nЦе намисто, яке носять на шиї, збільшує дальність пересування героя морем.\""
+  },
+  {
+    "var": "ARTRAITS_Angel Wings",
+    "en": "Angel Wings\t20000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \t \tx\t \tR\t\"{Angel Wings}\n\nWorn about the shoulders, these wings allow you to fly.\"",
+    "ua": "Крила ангела\t20000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \t \tx\t \tR\t\"{Крила ангела}\n\nЦі крила, які носять на плечах, дозволяють вам літати.\""
+  },
+  {
+    "var": "ARTRAITS_Charm of Mana",
+    "en": "Charm of Mana\t500\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tT\t\"{Charm of Mana}\n\nThis charm helps you recover 1 extra spell point per day.\"",
+    "ua": "Амулет мани\t500\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tT\t\"{Амулет мани}\n\nЦей амулет допомагає вам відновлювати 1 додаткове очко магії на день.\""
+  },
+  {
+    "var": "ARTRAITS_Talisman of Mana",
+    "en": "Talisman of Mana\t1000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tT\t\"{Talisman of Mana}\n\nThis talisman helps you recover 2 extra spell points per day.\"",
+    "ua": "Талісман мани\t1000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tT\t\"{Талісман мани}\n\nЦей талісман допомагає вам відновлювати 2 додаткових очка магії на день.\""
+  },
+  {
+    "var": "ARTRAITS_Mystic Orb of Mana",
+    "en": "Mystic Orb of Mana\t1500\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tT\t\"{Mystic Orb of Mana}\n\nThis orb helps you recover 3 extra spell points per day.\"",
+    "ua": "Магічна медаль мани\t1500\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tT\t\"{Магічна медаль мани}\n\nЦя медаль допомагає вам відновлювати 3 додаткових очки магії на день.\""
+  },
+  {
+    "var": "ARTRAITS_Collar of Conjuring",
+    "en": "Collar of Conjuring\t500\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \tx\t \t \tT\t\"{Collar of Conjuring}\n\nWorn about the neck, this item increases the duration of all your spells by 1.\"",
+    "ua": "Кольє заклинача\t500\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \tx\t \t \tT\t\"{Кольє заклинача}\n\nЦе кольє, яке носять на шиї, збільшує тривалість дії всіх ваших заклинань на 1 одиницю.\""
+  },
+  {
+    "var": "ARTRAITS_Ring of Conjuring",
+    "en": "Ring of Conjuring\t1000\t \t \t \t \t \t\t \t \t \t \t \tx\tx\t \t \t \t \t \t \tT\t\"{Ring of Conjuring}\n\nWorn on a finger, this item increases the duration of all your spells by 2.\"",
+    "ua": "Перстень заклинача\t1000\t \t \t \t \t \t\t \t \t \t \t \tx\tx\t \t \t \t \t \t \tT\t\"{Перстень заклинача}\n\nЦей перстень, який носять на пальці, збільшує тривалість дії всіх ваших заклинань на 2 одиниці.\""
+  },
+  {
+    "var": "ARTRAITS_Cape of Conjuring",
+    "en": "Cape of Conjuring\t1500\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \t \tx\t \tT\t\"{Cape of Conjuring}\n\nWorn about the shoulders, this item increases the duration of all your spells by 3.\"",
+    "ua": "Накидка заклинача\t1500\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \t \tx\t \tT\t\"{Накидка заклинача}\n\nЦя накидка, яку носять на плечах, збільшує тривалість дії всіх ваших заклинань на 3 одиниці.\""
+  },
+  {
+    "var": "ARTRAITS_Orb of the Firmament",
+    "en": "Orb of the Firmament\t6000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tJ\t\"{Orb of the Firmament}\n\nThis powerful orb causes your Air spells to inflict an additional 50% damage.\"",
+    "ua": "Сфера небесної тверді\t6000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tJ\t\"{Сфера небесної тверді}\n\nЦей могутній артефакт на 50% збільшує силу заклинань магії Повітря.\""
+  },
+  {
+    "var": "ARTRAITS_Orb of Silt",
+    "en": "Orb of Silt\t6000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tJ\t\"{Orb of Silt}\n\nThis powerful orb causes your Earth spells to inflict an additional 50% damage.\"",
+    "ua": "Сфера земної тверді\t6000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tJ\t\"{Сфера земної тверді}\n\nЦей могутній артефакт на 50% збільшує силу заклинань магії Землі.\""
+  },
+  {
+    "var": "ARTRAITS_Orb of Tempestuous Fire",
+    "en": "Orb of Tempestuous Fire\t6000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tJ\t\"{Orb of Tempestuous Fire}\n\nThis powerful orb causes your Fire spells to inflict an additional 50% damage.\"",
+    "ua": "Сфера буйного вогню\t6000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tJ\t\"{Сфера буйного вогню}\n\nЦей могутній артефакт на 50% збільшує силу заклинань магії Вогню.\""
+  },
+  {
+    "var": "ARTRAITS_Orb of Driving Rain",
+    "en": "Orb of Driving Rain\t6000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tJ\t\"{Orb of Driving Rain}\n\nThis powerful orb causes your Water spells to inflict an additional 50% damage.\"",
+    "ua": "Сфера дощу\t6000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tJ\t\"{Сфера дощу}\n\nЦей могутній артефакт на 50% збільшує силу заклинань магії Води.\""
+  },
+  {
+    "var": "ARTRAITS_Recanter's Cloak",
+    "en": "Recanter's Cloak\t8000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \t \tx\t \tJ\t\"{Recanter's Cloak}\n\nWhile wearing this cloak, neither you nor your opponent will be able to cast level 3 or higher spells during combat.\"",
+    "ua": "Накидка зречення\t8000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \t \tx\t \tJ\t\"{Накидка зречення}\n\nКоли ця накидка покриває ваші плечі, ні ви, ні ваш супротивник не зможете використовувати під час битви заклинання 3-го і більш високих рівнів.\""
+  },
+  {
+    "var": "ARTRAITS_Spirit of Oppression",
+    "en": "Spirit of Oppression\t2000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tT\t\"{Spirit of Oppression}\n\nThis item negates all Morale bonuses during combat for both you and your opponent.\"",
+    "ua": "Дух пригнічення\t2000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tT\t\"{Дух пригнічення}\n\nЦей артефакт нейтралізує бонуси Моралі, які можете мати ви або ваш супротивник.\""
+  },
+  {
+    "var": "ARTRAITS_Hourglass of the Evil Hour",
+    "en": "Hourglass of the Evil Hour\t2000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tT\t\"{Hourglass of the Evil Hour}\n\nThis item negates all Luck bonuses during combat for both you and your opponent.\"",
+    "ua": "Годинник злого часу\t2000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tT\t\"{Годинник злого часу}\n\nЦей артефакт нейтралізує на час битви бонуси Удачі, які можете мати ви або ваш супротивник.\""
+  },
+  {
+    "var": "ARTRAITS_Tome of Fire Magic",
+    "en": "Tome of Fire Magic\t20000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tR\t\"{Tome of Fire Magic}\n\nThis heavy book contains all spells in the school of Fire Magic.  It must be equipped for the spells to be available.\"",
+    "ua": "Книга магії вогню\t20000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tR\t\"{Книга магії Вогню}\n\nУ цьому об'ємному томі записані всі заклинання, пов'язані з магією Вогню. Ви повинні мати цю книгу в одній з активних клітинок, щоб заклинання були доступні для використання.\""
+  },
+  {
+    "var": "ARTRAITS_Tome of Air Magic",
+    "en": "Tome of Air Magic\t20000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tR\t\"{Tome of Air Magic}\n\nThis heavy book contains all spells in the school of Air Magic.  It must be equipped for the spells to be available.\"",
+    "ua": "Книга магії повітря\t20000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tR\t\"{Книга магії Повітря}\n\nУ цьому об'ємному томі записані всі заклинання, пов'язані з магією Повітря. Ви повинні мати цю книгу в одній з активних клітинок, щоб заклинання були доступні для використання.\""
+  },
+  {
+    "var": "ARTRAITS_Tome of Water Magic",
+    "en": "Tome of Water Magic\t20000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tR\t\"{Tome of Water Magic}\n\nThis heavy book contains all spells in the school of Water Magic.  It must be equipped for the spells to be available.\"",
+    "ua": "Книга магії води\t20000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tR\t\"{Книга магії Води}\n\nУ цьому об'ємному томі записані всі заклинання, пов'язані з магією Води. Ви повинні мати цю книгу в одній з активних клітинок, щоб заклинання були доступні для використання.\""
+  },
+  {
+    "var": "ARTRAITS_Tome of Earth Magic",
+    "en": "Tome of Earth Magic\t20000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tR\t\"{Tome of Earth Magic}\n\nThis heavy book contains all spells in the school of Earth Magic.  It must be equipped for the spells to be available.\"",
+    "ua": "Книга магії землі\t20000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tR\t\"{Книга магії Землі}\n\nУ цьому об'ємному томі записані всі заклинання, пов'язані з магією Землі. Ви повинні мати цю книгу в одній з активних клітинок, щоб заклинання були доступні для використання.\""
+  },
+  {
+    "var": "ARTRAITS_Boots of Levitation",
+    "en": "Boots of Levitation\t10000\t \t \t \t \t \t\t \t \t \t \tx\t \t \t \t \t \t \t \t \tR\t\"{Boots of Levitation}\n\nWhen worn, these boots allow you to walk across water.\"",
+    "ua": "Черевики левітації\t10000\t \t \t \t \t \t\t \t \t \t \tx\t \t \t \t \t \t \t \t \tR\t\"{Черевики левітації}\n\nУ цих черевиках ви можете ходити по воді.\""
+  },
+  {
+    "var": "ARTRAITS_Golden Bow",
+    "en": "Golden Bow\t8000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tJ\t\"{Golden Bow}\n\nWhen wielded, the Golden Bow allows your troops to shoot through any obstacle or at any range without penalty.\"",
+    "ua": "Золотий лук\t8000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tJ\t\"{Золотий лук}\n\nЗолотий лук дозволяє вашим воїнам стріляти через перепони на будь-які відстані без зниження ефективності стрільби.\""
+  },
+  {
+    "var": "ARTRAITS_Sphere of Permanence",
+    "en": "Sphere of Permanence\t7500\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tJ\t\"{Sphere of Permanence}\n\nWielding this sphere renders your units immune to the Dispel Magic spell.\"",
+    "ua": "Сфера стабільності\t7500\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tJ\t\"{Сфера постійності}\n\nЦя сфера робить ваших воїнів несприйнятливими до дії заклинання \"\"Розсіювання\"\".\""
+  },
+  {
+    "var": "ARTRAITS_Orb of Vulnerability",
+    "en": "Orb of Vulnerability\t25000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tR\t\"{Orb of Vulnerability}\n\nDuring combat, this orb negates the natural magic resistance of all creatures on the battlefield.\"",
+    "ua": "Сфера вразливості\t25000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tR\t\"{Сфера вразливості}\n\nПід час бою цей артефакт нейтралізує природну несприйнятливість до магії, яка може бути характерна для деяких загонів на полі бою.\""
+  },
+  {
+    "var": "ARTRAITS_Ring of Vitality",
+    "en": "Ring of Vitality\t5000\t \t \t \t \t \t\t \t \t \t \t \tx\tx\t \t \t \t \t \t \tT\t\"{Ring of Vitality}\n\nThis item increases the health of all your units by +1.\"",
+    "ua": "Перстень здоров'я\t5000\t \t \t \t \t \t\t \t \t \t \t \tx\tx\t \t \t \t \t \t \tT\t\"{Перстень здоров'я}\n\nЦей перстень додає 1 одиницю здоров'я для всіх ваших загонів.\""
+  },
+  {
+    "var": "ARTRAITS_Ring of Life",
+    "en": "Ring of Life\t5000\t \t \t \t \t \t\t \t \t \t \t \tx\tx\t \t \t \t \t \t \tN\t\"{Ring of Life}\n\nThis item increases the health of all your units by +1.\"",
+    "ua": "Перстень життя\t5000\t \t \t \t \t \t\t \t \t \t \t \tx\tx\t \t \t \t \t \t \tN\t\"{Перстень життя}\n\nЦей перстень додає 1 одиницю здоров'я для всіх ваших загонів.\""
+  },
+  {
+    "var": "ARTRAITS_Vial of Lifeblood",
+    "en": "Vial of Lifeblood\t10000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tJ\t\"{Vial of Lifeblood}\n\nThis item increases the health of all your units by +2.\"",
+    "ua": "Флакон з кров'ю життя\t10000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tJ\t\"{Флакон з кров'ю життя}\n\nЦей артефакт додає 2 очки до здоров'я всіх ваших загонів.\""
+  },
+  {
+    "var": "ARTRAITS_Necklace of Swiftness",
+    "en": "Necklace of Swiftness\t5000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \tx\t \t \tT\t\"{Necklace of Swiftness}\n\nWorn about the neck, this necklace increases the combat speed of all your units by +1.\"",
+    "ua": "Намисто швидкості\t5000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \tx\t \t \tT\t\"{Намисто швидкості}\n\nЦе намисто, яке носять на шиї, додає 1 одиницю до швидкості всіх ваших загонів на полі бою.\""
+  },
+  {
+    "var": "ARTRAITS_Boots of Speed",
+    "en": "Boots of Speed\t6000\t \t \t \t \t \t\t \t \t \t \tx\t \t \t \t \t \t \t \t \tN\t\"{Boots of Speed}\n\nWorn on the feet, these boots increase your hero's movement rate over land.\"",
+    "ua": "Черевики швидкості\t6000\t\t\t\t\t\t\t\t\t\t\tx\t\t\t\t\t\t\t\t\tN\t\"{Черевики швидкості}\n\nОдягнені, ці черевики збільшують дальність пересування героя сушею.\""
+  },
+  {
+    "var": "ARTRAITS_Cape of Velocity",
+    "en": "Cape of Velocity\t10000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \t \tx\t \tJ\t\"{Cape of Velocity}\n\nWorn about the shoulders, this cape increases the combat speed of all your units by +2.\"",
+    "ua": "Каптур швидкості\t10000\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tx\t\tJ\t\"{Плащ швидкості}\n\nЦей плащ, який носять на плечах, збільшує швидкість ваших загонів у бою на 2.\""
+  },
+  {
+    "var": "ARTRAITS_Pendant of Dispassion",
+    "en": "Pendant of Dispassion\t1000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \tx\t \t \tT\t\"{Pendant of Dispassion}\n\nWearing this item renders your units immune to the Berserk spell.\"",
+    "ua": "Кулон безпристрасності\t1000\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tx\t\t\tT\t\"{Кулон безпристрасності}\n\nОдягнений, цей кулон дарує вашим загонам імунітет до заклинання Берсерк.\""
+  },
+  {
+    "var": "ARTRAITS_Pendant of Second Sight",
+    "en": "Pendant of Second Sight\t5000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \tx\t \t \tJ\t\"{Pendant of Second Sight}\n\nWearing this item renders your units immune to the Blind spell.\"",
+    "ua": "Кулон другого зору\t5000\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tx\t\t\tJ\t\"{Кулон другого зору}\n\nОдягнений, цей кулон дарує вашим загонам імунітет до заклинання Сліпота.\""
+  },
+  {
+    "var": "ARTRAITS_Pendant of Holiness",
+    "en": "Pendant of Holiness\t1000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \tx\t \t \tT\t\"{Pendant of Holiness}\n\nWearing this item renders your units immune to the Curse spell.\"",
+    "ua": "Кулон святості\t1000\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tx\t\t\tT\t\"{Кулон святості}\n\nОдягнений, цей кулон дарує вашим загонам імунітет до заклинання Прокляття.\""
+  },
+  {
+    "var": "ARTRAITS_Pendant of Life",
+    "en": "Pendant of Life\t2500\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \tx\t \t \tT\t\"{Pendant of Life}\n\nWearing this item renders your units immune to the Death Ripple spell.\"",
+    "ua": "Кулон життя\t2500\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tx\t\t\tT\t\"{Кулон життя}\n\nОдягнений, цей кулон дарує вашим загонам імунітет до заклинання Смертельне тремтіння.\""
+  },
+  {
+    "var": "ARTRAITS_Pendant of Death",
+    "en": "Pendant of Death\t2500\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \tx\t \t \tT\t\"{Pendant of Death}\n\nWearing this item renders your units immune to the Destroy Undead spell.\"",
+    "ua": "Кулон смерті\t2500\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tx\t\t\tT\t\"{Кулон смерті}\n\nОдягнений, цей кулон дарує вашим загонам імунітет до заклинання Знищити нежить.\""
+  },
+  {
+    "var": "ARTRAITS_Pendant of Free Will",
+    "en": "Pendant of Free Will\t1000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \tx\t \t \tT\t\"{Pendant of Free Will}\n\nWearing this item renders your units immune to the Hypnotize spell.\"",
+    "ua": "Кулон незалежної волі\t1000\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tx\t\t\tT\t\"{Кулон незалежної волі}\n\nОдягнений, цей кулон дарує вашим загонам імунітет до заклинання Гіпноз.\""
+  },
+  {
+    "var": "ARTRAITS_Pendant of Negativity",
+    "en": "Pendant of Negativity\t5000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \tx\t \t \tJ\t\"{Pendant of Negativity}\n\nWearing this item renders your units immune to the Lightning Bolt and Chain Lightning spells.\"",
+    "ua": "Кулон заперечення\t5000\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tx\t\t\tJ\t\"{Кулон заперечення}\n\nОдягнений, цей кулон дарує вашим загонам імунітет до заклинань Блискавка і Ланцюгова блискавка.\""
+  },
+  {
+    "var": "ARTRAITS_Pendant of Total Recall",
+    "en": "Pendant of Total Recall\t3000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \tx\t \t \tT\t\"{Pendant of Total Recall}\n\nWearing this item renders your units immune to the Forgetfulness spell.\"",
+    "ua": "Кулон абсолютної пам'яті\t3000\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tx\t\t\tT\t\"{Кулон абсолютної пам'яті}\n\nОдягнений, цей кулон дарує вашим загонам імунітет до заклинання Забудькуватість.\""
+  },
+  {
+    "var": "ARTRAITS_Pendant of Courage",
+    "en": "Pendant of Courage\t7000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \tx\t \t \tJ\t\"{Pendant of Courage}\n\nWhen worn, this item bestows +3 Luck and Morale to your hero's troops.\"",
+    "ua": "Кулон відваги\t7000\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tx\t\t\tJ\t\"{Кулон відваги}\n\nКоли одягнений, цей кулон дає +3 до Удачі і Моралі загонів героя.\""
+  },
+  {
+    "var": "ARTRAITS_Everflowing Crystal Cloak",
+    "en": "Everflowing Crystal Cloak\t5000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \t \tx\t \tJ\t\"{Everflowing Crystal Cloak}\n\nWhen worn, this cloak increases your Crystal production by +1 per day.\"",
+    "ua": "Плащ нескінченних кристалів\t5000\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tx\t\tJ\t\"{Плащ нескінченних кристалів}\n\nКоли одягнений, цей плащ збільшує видобуток кристалів на 1 в день.\""
+  },
+  {
+    "var": "ARTRAITS_Ring of Infinite Gems",
+    "en": "Ring of Infinite Gems\t5000\t \t \t \t \t \t\t \t \t \t \t \tx\tx\t \t \t \t \t \t \tJ\t\"{Ring of Infinite Gems}\n\nWhen worn, this ring increases your Gem production by +1 per day.\"",
+    "ua": "Перстень незлічених самоцвітів\t5000\t\t\t\t\t\t\t\t\t\t\t\tx\tx\t\t\t\t\t\t\tJ\t\"{Перстень незлічених самоцвітів}\n\nКоли одягнений, цей перстень збільшує видобуток самоцвітів на 1 в день.\""
+  },
+  {
+    "var": "ARTRAITS_Everpouring Vial of Mercury",
+    "en": "Everpouring Vial of Mercury\t5000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t\t \t \tJ\t\"{Everpouring Vial of Mercury}\n\nWhen equipped, this vial increases your Mercury production by +1 per day.\"",
+    "ua": "Бездонний флакон ртуті\t5000\t\t\t\t\t\tx\tx\tx\tx\tx\t\t\t\t\t\t\t\t\t\tJ\t\"{Бездонний флакон ртуті}\n\nКоли використовується, цей флакон збільшує виробництво ртуті на 1 в день.\""
+  },
+  {
+    "var": "ARTRAITS_Inexhaustible Cart of Ore",
+    "en": "Inexhaustible Cart of Ore\t5000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tN\t\"{Inexhaustible Cart of Ore}\n\nWhen equipped, this cart provides you with an additional +1 Ore per day.\"",
+    "ua": "Невичерпний візок руди\t5000\t\t\t\t\t\tx\tx\tx\tx\tx\t\t\t\t\t\t\t\t\t\tN\t\"{Невичерпний візок руди}\n\nКоли використовується, збільшує видобуток руди на 1 в день.\""
+  },
+  {
+    "var": "ARTRAITS_Eversmoking Ring of Sulfur",
+    "en": "Eversmoking Ring of Sulfur\t5000\t \t \t \t \t \t\t \t \t \t \t \tx\tx\t \t \t \t \t \t \tJ\t\"{Eversmoking Ring of Sulfur}\n\nWhen worn, this ring increases your Sulfur production by +1 per day.\"",
+    "ua": "Вічно-тхнучий перстень сірки\t5000\t\t\t\t\t\t\t\t\t\t\t\tx\tx\t\t\t\t\t\t\tJ\t\"{Вічно-тхнучий перстень сірки}\n\nКоли одягнений, цей перстень збільшує добування сірки на 1 в день.\""
+  },
+  {
+    "var": "ARTRAITS_Inexhaustible Cart of Lumber",
+    "en": "Inexhaustible Cart of Lumber\t5000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tN\t\"{Inexhaustible Cart of Lumber}\n\nWhen equipped, this cart provides you with an additional +1 Wood per day.\"",
+    "ua": "Невичерпний візок деревини\t5000\t\t\t\t\t\tx\tx\tx\tx\tx\t\t\t\t\t\t\t\t\t\tN\t\"{Невичерпний візок деревини}\n\nКоли використовується, збільшує видобуток деревини на 1 в день.\""
+  },
+  {
+    "var": "ARTRAITS_Endless Sack of Gold",
+    "en": "Endless Sack of Gold\t10000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tR\t\"{Endless Sack of Gold}\n\nWhen equipped, the Endless Sack of Gold increases your income by 1000 gold per day.\"",
+    "ua": "Нескінченний мішок золота\t10000\t\t\t\t\t\tx\tx\tx\tx\tx\t\t\t\t\t\t\t\t\t\tR\t\"{Нескінченний мішок золота}\n\nКоли використовується, приносить вам 1000 золотих щодня.\""
+  },
+  {
+    "var": "ARTRAITS_Endless Bag of Gold",
+    "en": "Endless Bag of Gold\t7500\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tJ\t\"{Endless Bag of Gold}\n\nWhen equipped, the Endless Bag of Gold increases your income by 750 gold per day.\"",
+    "ua": "Нескінченна сумка золота\t7500\t\t\t\t\t\tx\tx\tx\tx\tx\t\t\t\t\t\t\t\t\t\tJ\t\"{Нескінченна сумка золота}\n\nКоли використовується, приносить вам 750 золотих щодня.\""
+  },
+  {
+    "var": "ARTRAITS_Endless Purse of Gold",
+    "en": "Endless Purse of Gold\t5000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tJ\t\"{Endless Purse of Gold}\n\nWhen equipped, the Endless Purse of Gold increases your income by 500 gold per day.\"",
+    "ua": "Нескінченний гаманець золота\t5000\t\t\t\t\t\tx\tx\tx\tx\tx\t\t\t\t\t\t\t\t\t\tJ\t\"{Нескінченний гаманець з золотом}\n\nКоли використовується, приносить вам 500 золотих щодня\""
+  },
+  {
+    "var": "ARTRAITS_Legs of Legion",
+    "en": "Legs of Legion\t5000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tT\t\"{Legs of Legion}\n\nThis item, when equipped by a hero in a town, increases the growth of your 2nd level units (in that town) by 5 per week.\"",
+    "ua": "Ноги легіону\t5000\t\t\t\t\t\tx\tx\tx\tx\tx\t\t\t\t\t\t\t\t\t\tT\t\"{Ноги легіону}\n\nЦя річ, коли використовується героєм в місті, збільшує приріст істот 2-го рівня (в цьому місті) на 5 за тиждень.\""
+  },
+  {
+    "var": "ARTRAITS_Loins of Legion",
+    "en": "Loins of Legion\t5000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tN\t\"{Loins of Legion}\n\nThis item, when equipped by a hero in a town, increases the growth of your 3rd level units (in that town) by 4 per week.\"",
+    "ua": "Пояс легіону\t5000\t\t\t\t\t\tx\tx\tx\tx\tx\t\t\t\t\t\t\t\t\t\tN\t\"{Пояс легіону}\n\nЦя річ, коли використовується героєм в місті, збільшує приріст істот 3-го рівня (в цьому місті) на 4 за тиждень.\""
+  },
+  {
+    "var": "ARTRAITS_Torso of Legion",
+    "en": "Torso of Legion\t5000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tN\t\"{Torso of Legion}\n\nThis item, when equipped by a hero in a town, increases the growth of your 4th level units (in that town) by 3 per week.\"",
+    "ua": "Торс легіону\t5000\t\t\t\t\t\tx\tx\tx\tx\tx\t\t\t\t\t\t\t\t\t\tN\t\"{Торс легіону}\n\nЦя річ, коли використовується героєм в місті, збільшує приріст істот 4-го рівня (в цьому місті) на 3 за тиждень.\""
+  },
+  {
+    "var": "ARTRAITS_Arms of Legion",
+    "en": "Arms of Legion\t5000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tJ\t\"{Arms of Legion}\n\nThis item, when equipped by a hero in a town, increases the growth of your 5th level units (in that town) by 2 per week.\"",
+    "ua": "Руки легіону\t5000\t\t\t\t\t\tx\tx\tx\tx\tx\t\t\t\t\t\t\t\t\t\tJ\t\"{Руки легіону}\n\nЦя річ, коли використовується героєм в місті, збільшує приріст істот 5-го рівня (в цьому місті) на 2 за тиждень.\""
+  },
+  {
+    "var": "ARTRAITS_Head of Legion",
+    "en": "Head of Legion\t5000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t \t \t \t \t \tJ\t\"{Head of Legion}\n\nThis item, when equipped by a hero in a town, increases the growth of your 6th level units (in that town) by 1 per week.\"",
+    "ua": "Голова легіону\t5000\t\t\t\t\t\tx\tx\tx\tx\tx\t\t\t\t\t\t\t\t\t\tJ\t\"{Голова легіону}\n\nЦя річ, коли використовується героєм в місті, збільшує приріст істот 6-го рівня (в цьому місті) на 1 за тиждень.\""
+  },
+  {
+    "var": "ARTRAITS_Sea Captain's Hat",
+    "en": "Sea Captain's Hat\t15000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \t \t \tx\tR\t\"{Sea Captain's Hat}\n\nWhen worn, this hat increases your movement at sea, allows you to summon and destroy boats, and protects you from whirlpools.\"",
+    "ua": "Капелюх морського капітана\t15000\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tx\tR\t\"{Капелюх морського капітана}\n\nКоли одягнений, цей капелюх збільшує дальність пересування морем, дозволяє викликати та знищувати судна, і захищає від вирів.\""
+  },
+  {
+    "var": "ARTRAITS_Spellbinder's Hat",
+    "en": "Spellbinder's Hat\t30000\t \t \t \t \t \t\t \t \t \t \t \t \t \t \t \t \t \t \tx\tR\t\"{Spellbinder's Hat}\n\nWhen worn, this hat allows you to cast all 5th level spells.\"",
+    "ua": "Капелюх Заклинача\t30000\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tx\tR\t\"{Капелюх Заклинача}\n\nКоли одягнений, дозволяє накладати усі заклинання 5-го рівня.\""
+  },
+  {
+    "var": "ARTRAITS_Shackles of War",
+    "en": "Shackles of War\t5000\t \t \t \t \t \tx\tx\tx\tx\tx\t \t \t \t \t\t\t \t \t \tJ\t\"{Shackles of War}\n\nWhen these shackles are wielded in combat, neither you nor your opponent may retreat or surrender.\"",
+    "ua": "Кайдани війни\t5000\t\t\t\t\t\tx\tx\tx\tx\tx\t\t\t\t\t\t\t\t\t\tJ\t\"{Кайдани війни}\n\nКоли використовуються в бою, ні ви, ні ваш ворог не можете ні здатися, ні втекти.\""
+  },
+  {
+    "var": "ARTRAITS_Orb of Inhibition",
+    "en": "Orb of Inhibition\t20000\t \t \t \t \t \tx\tx\tx\tx\tx\t\t \t \t \t \t \t \t \t \tR\t\"{Orb of Inhibition}\n\nThis powerful orb prevents all spell casting in combat.\"",
+    "ua": "Сфера стримування\t20000\t\t\t\t\t\tx\tx\tx\tx\tx\t\t\t\t\t\t\t\t\t\tR\t\"{Сфера стримування}\n\nЦя могутня сфера забороняє накладання будь-яких заклять у бою.\""
+  },
+  {
+    "var": "ARTRAITS_Vial of Dragon Blood",
+    "en": "Vial of Dragon Blood\t20000\t\t\t\t\t\tx\tx\tx\tx\tx\t\t\t\t\t\t\t\t\t\tR\t\"{Vial of Dragon Blood}\n\nAll dragons under your command receive +5 to their attack and +5 to defense.\"",
+    "ua": "Флакон з Кров'ю Дракона\t20000\t\t\t\t\t\tx\tx\tx\tx\tx\t\t\t\t\t\t\t\t\t\tR\t\"{Флакон з Кров'ю Дракона}\n\nУсі дракони під вашим командуванням отримують +5 до атаки і +5 до захисту.\""
+  },
+  {
+    "var": "ARTRAITS_Armageddon's Blade",
+    "en": "Armageddon's Blade\t50000\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tx\t\t\t\tR\t\"{Armageddon's Blade}\n\n+ 3 Attack. + 3 Defense. + 6 Knowledge. + 3 Power. Places Expert Armageddon Spell in your hero's spell book. All allied creatures become immune to Armageddon.\"",
+    "ua": "Клинок Армагеддону\t50000\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tx\t\t\t\tR\t\"{Клинок Армагеддону}\n\n+3 до Атаки, +3 до Захисту, +6 до Знання, +3 Магічної сили. Додає заклинання Армагеддон у магічну книгу. Усі дружні істоти стають невразливі до заклинання Армагеддон.\""
+  },
+  {
+    "var": "ARTRAITS_Angelic Alliance",
+    "en": "Angelic Alliance\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tx\t\t\t\tR\t\"{Angelic Alliance}\n\nAllows Rampart, Tower, Fortress, Stronghold and Castle creatures to be mixed without a morale penalty, for the player.  Casts Expert Prayer at the start of combat.\"",
+    "ua": "Альянс Ангелів\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tx\t\t\t\tR\t\"{Альянс Ангелів}\n\nДозволяє об'єднувати в одну армію істот Твердині, Вежі, Фортеці, Цитаделі та Замку без втрат моралі.  Накладає Молитву 3-го рівня на початку кожного бою.\""
+  },
+  {
+    "var": "ARTRAITS_Cloak of the Undead King",
+    "en": "Cloak of the Undead King\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tx\t\tR\t\"{Cloak of the Undead King}\n\n30% of battlefield dead are resurrected as Skeletons.  If hero already has the Necromancy skill then the percentages are added to the skill and the level of skill determines what type is resurrected.  Basic: Zombies\nAdvanced: Wights\nExpert:  Liches\"",
+    "ua": "Накидка Короля Нежиті\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tx\t\tR\t\"{Накидка Короля Нежиті}\n\n30% полеглих на полі бою повстають у вигляді Скелетів.  Якщо герой вже володіє Некромантією то цей бонус додається до вміння і визначає, який тип істот повстане.  1 рівень: Зомбі\nДругий: Привиди\nТретій: Лічі\""
+  },
+  {
+    "var": "ARTRAITS_Elixir of Life",
+    "en": "Elixir of Life\t\t\t\t\t\t\tx\tx\tx\tx\tx\t\t\t\t\t\t\t\t\t\tR\t\"{Elixir of Life}\n\nAll creatures get a 25% health bonus and gain the regeneration ability.  Does not work on Undead or unliving creatures\"",
+    "ua": "Еліксир життя\t\t\t\t\t\t\tx\tx\tx\tx\tx\t\t\t\t\t\t\t\t\t\tR\t\"{Еліксир життя}\n\nУсі істоти отримують +25% до здоров'я і отримують здатність до регенерації.  Не працює для нежиті і неживих істот.\""
+  },
+  {
+    "var": "ARTRAITS_Armor of the Damned",
+    "en": "Armor of the Damned\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tx\t\t\t\t\t\tR\t\"{Armor of the Damned}\n\nAll opponents have these spells effective on them for fifty turns: Slow, Curse, Weakness, and Misfortune.\"",
+    "ua": "Обладунки Проклятого\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tx\t\t\t\t\t\tR\t\"{Обладунки Проклятого}\n\nУсі ворожі істоти будуть піддаватись дії цих заклинань на 50 ходів: Уповільнення, Прокляття, Слабкість і Невдача.\""
+  },
+  {
+    "var": "ARTRAITS_Statue of Legion",
+    "en": "Statue of Legion\t\t\t\t\t\t\tx\tx\tx\tx\tx\t\t\t\t\t\t\t\t\t\tR\t\"{Statue of Legion}\n\nAll creature production increases by 50%, in all towns based off of the castle creature generation level, does not include flagged structures or other like bonuses.\"",
+    "ua": "Статуя легіону\t\t\t\t\t\t\tx\tx\tx\tx\tx\t\t\t\t\t\t\t\t\t\tR\t\"{Статуя легіону}\n\nПриріст усіх істот збільшується на 50%, у всіх інших містах без замку також збільшується приріст істот. Не діє на житла істот поза містами, а також на інші бонуси приросту.\""
+  },
+  {
+    "var": "ARTRAITS_Power of the Dragon Father",
+    "en": "Power of the Dragon Father\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tx\t\t\t\t\t\tR\t\"{Power of the Dragon Father}\n\n+6 to all primary skills, all troops are immune to 1-4th level spells.\"",
+    "ua": "Могутність Батька Драконів\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tx\t\t\t\t\t\tR\t\"{Могутність Батька Драконів}\n\n+6 до всіх основних навичок, усі загони отримують імунітет до заклинань 1-4 рівнів.\""
+  },
+  {
+    "var": "ARTRAITS_Titan's Thunder",
+    "en": "Titan's Thunder\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tx\t\t\t\tR\t\"{Titan's Thunder}\n\nHero gains the ability to cast Lightning Bolt for 600 points of damage, does not cost any spell points, adds a spell book into their inventory (permanently).\"",
+    "ua": "Грім Титана\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tx\t\t\t\tR\t\"{Грім Титана}\n\nГерой отримує здатність викликати блискавку, що завдає 600 пошкоджень і не витрачає мани, додає книгу заклинань до спорядження (постійно).\""
+  },
+  {
+    "var": "ARTRAITS_Admiral's Hat",
+    "en": "Admiral's Hat\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tx\tR\t\"{Admiral's Hat}\n\nNo boarding or unboarding ship penalty.  Converts movement points between the Hero's Land and Water movement.\"",
+    "ua": "Капелюх Адмірала\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tx\tR\t\"{Капелюх Адмірала}\n\nЗнімає штраф очків руху за підняття на борт чи вихід на берег.  Перетворює очки руху між сушею і морем.\""
+  },
+  {
+    "var": "ARTRAITS_Bow of the Sharpshooter",
+    "en": "Bow of the Sharpshooter\t\t\t\t\t\t\tx\tx\tx\tx\tx\t\t\t\t\t\t \t\t\t\tR\t\"{Bow of the Sharpshooter}\n\nRanged shooters may fire projectiles while adjacent to an enemy creature.  No archery penalty for range or obstacle\"",
+    "ua": "Лук Снайпера\t\t\t\t\t\t\tx\tx\tx\tx\tx\t\t\t\t\t\t\t\t\t\tR\t\"{Лук Снайпера}\n\nДозволяє стрільцям робити постріли, навіть якщо поруч стоять вороги.  Знімає штраф відстані при стрільбі.\""
+  },
+  {
+    "var": "ARTRAITS_Wizard's Well",
+    "en": "Wizard's Well\t\t\t\t\t\t\tx\tx\tx\tx\tx\t\t\t\t\t\t\t\t\t\tR\t\"{Wizard's Well}\n\nRegenerates all spell points each day\"",
+    "ua": "Джерело Чарівника\t\t\t\t\t\t\tx\tx\tx\tx\tx\t\t\t\t\t\t\t\t\t\tR\t\"{Джерело Чарівника}\n\nКожного дня повністю відновлює очки магії.\""
+  },
+  {
+    "var": "ARTRAITS_Ring of the Magi",
+    "en": "Ring of the Magi\t\t\t\t\t\t\t\t\t\t\t\t\tx\tx\t\t\t\t\t\t\tR\t\"{Ring of the Magi}\n\nAdd 50 rounds to spell duration.\"",
+    "ua": "Перстень Мага\t\t\t\t\t\t\t\t\t\t\t\t\tx\tx\t\t\t\t\t\t\tR\t\"{Перстень Мага}\n\nДодає 50 ходів до тривалості заклинань.\""
+  },
+  {
+    "var": "ARTRAITS_Cornucopia",
+    "en": "Cornucopia\t\t\t\t\t\t\tx\tx\tx\tx\tx\t\t\t\t\t\t\t\t\t\tR\t\"{Cornucopia}\n\nGenerates 4 of each precious resource, each day.\"",
+    "ua": "Ріг достатку\t\t\t\t\t\t\tx\tx\tx\tx\tx\t\t\t\t\t\t\t\t\t\tR\t\"{Ріг достатку}\n\nДарує по 4 одиниці всіх дорогоцінних ресурсів щодня.\""
+  },
+  {
+    "var": "ARTRAITS_Diplomat's Suit",
+    "en": "Diplomat's Suit\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tx\t\tR\t\"{Diplomat's Suit}\n\nThis is a kick-ass artifact.\"",
+    "ua": "Костюм дипломата\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tx\t\tR\t\"{Костюм дипломата}\n\nЦе безглуздий артефакт.\""
+  },
+  {
+    "var": "ARTRAITS_Mired in Neutrality",
+    "en": "Mired in Neutrality\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tx\t\t\t\t\t\tR\t\"{Mired in Neutrality}\n\nThis is a kick-ass artifact.\"",
+    "ua": "Mired in Neutrality\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tx\t\t\t\t\t\tR\t\"{Mired in Neutrality}\n\nЦе безглуздий артефакт.\""
+  },
+  {
+    "var": "ARTRAITS_Ironfist of the Ogre",
+    "en": "Ironfist of the Ogre\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tx\t\t\t\tR\t\"{Ironfist of the Ogre}\n\nThis is a kick-ass artifact.\"",
+    "ua": "Залізний кулак Огра\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tx\t\t\t\tR\t\"{Залізний кулак Огра}\n\nЦе безглуздий артефакт.\""
+  },
+  {
+    "var": "ARTRAITS_147",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_148",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_149",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_150",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_151",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_152",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_153",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_154",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_155",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_156",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_157",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_158",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_159",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_160",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_161",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_162",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_163",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_164",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_165",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_166",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_167",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_168",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_169",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_170",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_171",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_172",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_173",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_174",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_175",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_176",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_177",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_178",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_179",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_180",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_181",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_182",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_183",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_184",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_185",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_186",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_187",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_188",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_189",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_190",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_191",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_192",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_193",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_194",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_195",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_196",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_197",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_198",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_199",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_200",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_201",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_202",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_203",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_204",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_205",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_206",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_207",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_208",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_209",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_210",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_211",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_212",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_213",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_214",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_215",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_216",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_217",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_218",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_219",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_220",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_221",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_222",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_223",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_224",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_225",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_226",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_227",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_228",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_229",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_230",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_231",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_232",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_233",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_234",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_235",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_236",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_237",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_238",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_239",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_240",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_241",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_242",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_243",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_244",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_245",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_246",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_247",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_248",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_249",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_250",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_251",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_252",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_253",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_254",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_255",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_256",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_257",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_258",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_259",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_260",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_261",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_262",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_263",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_264",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_265",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_266",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_267",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_268",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_269",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_270",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_271",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_272",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_273",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_274",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_275",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_276",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_277",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_278",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_279",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_280",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_281",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_282",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_283",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_284",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_285",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_286",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_287",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_288",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_289",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_290",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_291",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_292",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_293",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_294",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_295",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_296",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_297",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_298",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_299",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_300",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_301",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_302",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_303",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_304",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_305",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_306",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_307",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_308",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_309",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_310",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_311",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_312",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_313",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_314",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_315",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_316",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_317",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_318",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_319",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_320",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_321",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_322",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_323",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_324",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_325",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_326",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_327",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_328",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_329",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_330",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_331",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_332",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_333",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_334",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_335",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_336",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_337",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_338",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_339",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_340",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_341",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_342",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_343",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_344",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_345",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_346",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_347",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_348",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_349",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_350",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_351",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_352",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_353",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_354",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_355",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_356",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_357",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_358",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_359",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_360",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "ARTRAITS_361",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

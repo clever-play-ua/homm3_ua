@@ -1,0 +1,194 @@
+[
+  {
+    "var": "FESTIVAL_M3_prolog",
+    "field": "wrapper_prolog",
+    "en": "This area is kept wild and is only culled every thirty years during the Festival of Life.  Each prospective is given a small section to clear and three allies to command in order to prove your capabilities as a leader.  In order to prove you are truly capable you must eliminate all creatures in this region, once this is completed you will have passed this test.",
+    "ua": "Ця територія залишається дикою і недоторканою протягом тих тридцяти років, що проходять між Фестивалями Життя. Кожен охочий отримує в цій землі наділ, який повинен повністю очистити від істот. Крім тебе, тут будуть три твоїх союзники, і у тебе буде шанс проявити себе як лідера.\n"
+  },
+  {
+    "var": "FESTIVAL_M3_epilog",
+    "field": "wrapper_epilog",
+    "en": "I have tamed a great beast.  Now I must tame the monsters of the land.  As the carnage grows, so does my power and bloodlust.  I will sit upon the throne of Krewlod.  Neither man or beast will stand in my way. ",
+    "ua": "Я приручив могутнього звіра. Залишилося підпорядкувати собі інших мешканців цих земель. Моя сила, моя жага крові ростуть разом з горами трупів навколо. Я зійду на трон Крулода. Бережися вставати в мене на шляху, будь ти людина або звір!"
+  },
+  {
+    "var": "FESTIVAL_M3_map_name",
+    "field": "map_map_name",
+    "en": "Taming of the wild",
+    "ua": "Приборкання норовливих"
+  },
+  {
+    "var": "FESTIVAL_M3_map_desc",
+    "field": "map_map_desc",
+    "en": "To prove you can keep land safe for the citizens you must defeat all of the creatures inhabiting this area inside of four months. If Kilgor or any of his lieutenants are killed, you lose.  Levels will be limited to twenty.",
+    "ua": "Щоб довести, що ви можете захистити своїх підданих, ви повинні перемогти всіх ворожих істот на цих землях протягом чотирьох місяців. Якщо Кілґор або будь-хто з його генералів програє і залишить вас, ви втратите шанси на перемогу. Розвиток героїв обмежено двадцятим рівнем."
+  },
+  {
+    "var": "FESTIVAL_M3_obj287_guardian_mesg",
+    "field": "map_obj287_guardian_mesg",
+    "en": "You save a swamp dweller from a couple of Dragonflies, in gratitude he gives you his spare axe.",
+    "ua": "В подяку за порятунок від летучих зміїв мандрівник дарує вам один зі своїх трофеїв."
+  },
+  {
+    "var": "FESTIVAL_M3_obj307_guardian_mesg",
+    "field": "map_obj307_guardian_mesg",
+    "en": "You find a small Griffin's lair containing an axe and some eggs.",
+    "ua": "У гнізді грифона ви знаходите декілька яєць і сокиру."
+  },
+  {
+    "var": "FESTIVAL_M3_obj314_guardian_mesg",
+    "field": "map_obj314_guardian_mesg",
+    "en": "You find an old barbarian in a cave and share some food and stories with him. In exchange for your hospitality he gives you his old (but extremely well made) shield.",
+    "ua": "Зустрівши в печері старого варвара, ви ділитеся з ним припасами та бойовими історіями. У подяку за гостинність він дарує вам древній, але дуже майстерно зроблений щит."
+  },
+  {
+    "var": "FESTIVAL_M3_obj728_guardian_mesg",
+    "field": "map_obj728_guardian_mesg",
+    "en": "An old speculum lies half-buried in the sand.",
+    "ua": "Ви знаходите в пісках древній телескоп."
+  },
+  {
+    "var": "FESTIVAL_M3_obj841_guardian_mesg",
+    "field": "map_obj841_guardian_mesg",
+    "en": "A strange man dressed in black throws an amulet to you, bows and then vanishes.",
+    "ua": "Дивакуватий незнайомець, одягнений в усе чорне, дарує вам амулет, кланяється і зникає."
+  },
+  {
+    "var": "FESTIVAL_M3_obj842_guardian_mesg",
+    "field": "map_obj842_guardian_mesg",
+    "en": "It looks like a careless vampire left this lying about.",
+    "ua": "Схоже цей предмет забув якийсь розсіяний вампір."
+  },
+  {
+    "var": "FESTIVAL_M3_obj1268_sign_mesg",
+    "field": "map_obj1268_sign_mesg",
+    "en": "Do not feed the Dragonflies.",
+    "ua": "Годувати зміємух заборонено!"
+  },
+  {
+    "var": "FESTIVAL_M3_obj1269_sign_mesg",
+    "field": "map_obj1269_sign_mesg",
+    "en": "Use of \"Live\" wood in a campfire is prohibited.",
+    "ua": "Забороняється розводити вогнища з дендроідів!"
+  },
+  {
+    "var": "FESTIVAL_M3_obj1273_sign_mesg",
+    "field": "map_obj1273_sign_mesg",
+    "en": "Beware of Dog.",
+    "ua": "Увага, злий пес!"
+  },
+  {
+    "var": "FESTIVAL_M3_obj1274_sign_mesg",
+    "field": "map_obj1274_sign_mesg",
+    "en": "Cyclops area...always keep one eye open.",
+    "ua": "Тут живуть циклопи... Бажаєте глянути одним оком?"
+  },
+  {
+    "var": "FESTIVAL_M3_obj1275_sign_mesg",
+    "field": "map_obj1275_sign_mesg",
+    "en": "Manticores and Scorpicores, beware the sting! Armor is always a good repellent.",
+    "ua": "Бійтеся жал мантикор і скорпікор! Хороша броня вам не завадить."
+  },
+  {
+    "var": "FESTIVAL_M3_obj1276_sign_mesg",
+    "field": "map_obj1276_sign_mesg",
+    "en": "Behemoth area, if you stand really still they might not attack.",
+    "ua": "Тут живуть чудовиська. Не рухайтеся, і вони не нападуть. Напевно."
+  },
+  {
+    "var": "FESTIVAL_M3_obj1277_sign_mesg",
+    "field": "map_obj1277_sign_mesg",
+    "en": "Griffin area, watch it, for they are known to eat horses.",
+    "ua": "Прямо підеш - коня втратиш. Грифони полюбляють конину!"
+  },
+  {
+    "var": "FESTIVAL_M3_obj1278_sign_mesg",
+    "field": "map_obj1278_sign_mesg",
+    "en": "Orc tribe Kismit, intruders are neither welcome nor tolerated.",
+    "ua": "Орче плем'я Кісміт не потерпить вторгнення загарбників!"
+  },
+  {
+    "var": "FESTIVAL_M3_obj1279_sign_mesg",
+    "field": "map_obj1279_sign_mesg",
+    "en": "The Wolf Riders of Threth welcome you to your doom.",
+    "ua": "Наїзники на вовках з племені Трет викликають тебе на бій!"
+  },
+  {
+    "var": "FESTIVAL_M3_obj1281_sign_mesg",
+    "field": "map_obj1281_sign_mesg",
+    "en": "You are now in the territory of the Goblin tribe named Utopia. \"We eat Barbarians for breakfast\" is their motto.",
+    "ua": "Ви вдерлись на землі гоблінів із плем'я Утопія. Наш девіз: \"З'їж зранку варвара, і цілий день вільний!\""
+  },
+  {
+    "var": "FESTIVAL_M3_obj1282_sign_mesg",
+    "field": "map_obj1282_sign_mesg",
+    "en": "Beware of Dog.",
+    "ua": "Увага, злий пес!"
+  },
+  {
+    "var": "FESTIVAL_M3_obj1283_sign_mesg",
+    "field": "map_obj1283_sign_mesg",
+    "en": "Ogre tribe \"Plith\" welcomes you..",
+    "ua": "Ороче плем'я Плит вітає тебе."
+  },
+  {
+    "var": "FESTIVAL_M3_obj1295_guardian_mesg",
+    "field": "map_obj1295_guardian_mesg",
+    "en": "An old retired warrior decides to give you one of his spare axes.",
+    "ua": "Старий ветеран дарує вам одну зі своїх запасних сокир."
+  },
+  {
+    "var": "FESTIVAL_M3_obj1389_guardian_mesg",
+    "field": "map_obj1389_guardian_mesg",
+    "en": "A note on the boots reads:  \"Dead men tell no tales\".",
+    "ua": "В чоботах лежить записка: \"Мертві не кусаються\"."
+  },
+  {
+    "var": "FESTIVAL_M3_obj1486_guardian_mesg",
+    "field": "map_obj1486_guardian_mesg",
+    "en": "The vein of crystal you find seems especially thick.",
+    "ua": "Ви знайшли жилу кристалів – і немаленьку."
+  },
+  {
+    "var": "FESTIVAL_M3_obj1597_sign_mesg",
+    "field": "map_obj1597_sign_mesg",
+    "en": "Beware! A woman's gaze can be deadly.",
+    "ua": "Обережно! Жіночий погляд може бути смертельно небезпечним."
+  },
+  {
+    "var": "FESTIVAL_M3_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Lieutenants",
+    "ua": "Lieutenants"
+  },
+  {
+    "var": "FESTIVAL_M3_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "To prove your leadership three lieutenants are given for your command.  Use them wisely for they are the key to clearing this area.  You have been given four months to complete the task so do not waste any time!  Good hunting and good luck!",
+    "ua": "У ваше розпорядження надходять три герої-генерали. Вони - ключ до контролю над цими землями, то ж розпорядиться ними мудро. На виконання завдання відводиться всього чотири місяці, тому не втрачайте жодного дня. Успіху в бою!"
+  },
+  {
+    "var": "FESTIVAL_M3_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Scout report1.",
+    "ua": "Scout report1."
+  },
+  {
+    "var": "FESTIVAL_M3_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "Scouts report there are many areas that have one type of creature: from Griffins to Wolf-Riders and many more.  The scouts seem to think, by the looks of it, that none of these creatures seem likely to join your army.  All of them seem truly \"wild.\"",
+    "ua": "Розвідники повідомляють, що в різних куточках цієї країни водяться різні істоти, причому родичі тримаються поблизу один від одного - грифони з грифонами, гобліни з гоблінами, і так далі. Схоже, ніхто з них не згоден приєднатися до вашої армії. Всі вони налаштовані люто і готові до битви."
+  },
+  {
+    "var": "FESTIVAL_M3_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Scout report 2.",
+    "ua": "Scout report 2."
+  },
+  {
+    "var": "FESTIVAL_M3_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "Scouts report the three lieutenants seem to be trapped in their area by a border guard who wants the correct orders to let them pass.  Its up to you to find those orders.",
+    "ua": "Наші вивідачі доповідають, що три генерали не можуть пройти через вежу Прикордонної варта, не віддавши правильний наказ. Ваше завдання - дізнатися, що це за наказ."
+  }
+]

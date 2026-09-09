@@ -1,0 +1,1162 @@
+[
+  {
+    "var": "OBJNAMES_Nothing",
+    "en": "Nothing\t",
+    "ua": "Нічого\t"
+  },
+  {
+    "var": "OBJNAMES_2",
+    "en": "\t",
+    "ua": "\t"
+  },
+  {
+    "var": "OBJNAMES_Altar of Sacrifice",
+    "en": "Altar of Sacrifice\t",
+    "ua": "Жертовник\t"
+  },
+  {
+    "var": "OBJNAMES_Anchor Point",
+    "en": "Anchor Point\t",
+    "ua": "Якірна стоянка\t"
+  },
+  {
+    "var": "OBJNAMES_Arena",
+    "en": "Arena\t",
+    "ua": "Арена\t"
+  },
+  {
+    "var": "OBJNAMES_Artifact",
+    "en": "Artifact\t",
+    "ua": "Артефакт\t"
+  },
+  {
+    "var": "OBJNAMES_Pandora's Box",
+    "en": "Pandora's Box\t",
+    "ua": "Скринька Пандори\t"
+  },
+  {
+    "var": "OBJNAMES_Black Market",
+    "en": "Black Market\t",
+    "ua": "Чорний ринок\t"
+  },
+  {
+    "var": "OBJNAMES_Boat",
+    "en": "Boat\t",
+    "ua": "Корабель\t"
+  },
+  {
+    "var": "OBJNAMES_Border Guard",
+    "en": "Border Guard\t",
+    "ua": "Прикордонний пост\t"
+  },
+  {
+    "var": "OBJNAMES_Keymaster's Tent",
+    "en": "Keymaster's Tent\t",
+    "ua": "Намет хранителя ключів\t"
+  },
+  {
+    "var": "OBJNAMES_Buoy",
+    "en": "Buoy\t",
+    "ua": "Буй\t"
+  },
+  {
+    "var": "OBJNAMES_Campfire",
+    "en": "Campfire\t",
+    "ua": "Багаття\t"
+  },
+  {
+    "var": "OBJNAMES_Cartographer",
+    "en": "Cartographer\t",
+    "ua": "Картограф\t"
+  },
+  {
+    "var": "OBJNAMES_Swan Pond",
+    "en": "Swan Pond\t",
+    "ua": "Лебедине озеро\t"
+  },
+  {
+    "var": "OBJNAMES_Cover of Darkness",
+    "en": "Cover of Darkness\t",
+    "ua": "Завіса Темряви\t"
+  },
+  {
+    "var": "OBJNAMES_17",
+    "en": "Creature Bank",
+    "ua": "Накопичувач монстрів"
+  },
+  {
+    "var": "OBJNAMES_18",
+    "en": "Creature Generator 1",
+    "ua": "Генератор монстрів 1"
+  },
+  {
+    "var": "OBJNAMES_19",
+    "en": "Creature Generator 2",
+    "ua": "Генератор монстрів 2"
+  },
+  {
+    "var": "OBJNAMES_20",
+    "en": "Creature Generator 3",
+    "ua": "Генератор монстрів 3"
+  },
+  {
+    "var": "OBJNAMES_21",
+    "en": "Creature Generator 4",
+    "ua": "Генератор монстрів 4"
+  },
+  {
+    "var": "OBJNAMES_22",
+    "en": "Cursed Ground",
+    "ua": "Прокляті землі"
+  },
+  {
+    "var": "OBJNAMES_23",
+    "en": "Corpse",
+    "ua": "Скелет"
+  },
+  {
+    "var": "OBJNAMES_24",
+    "en": "Marletto Tower",
+    "ua": "Вежа Марлетто"
+  },
+  {
+    "var": "OBJNAMES_25",
+    "en": "Derelict Ship",
+    "ua": "Корабель-привид"
+  },
+  {
+    "var": "OBJNAMES_26",
+    "en": "Dragon Utopia",
+    "ua": "Утопія драконів"
+  },
+  {
+    "var": "OBJNAMES_27",
+    "en": "Event",
+    "ua": "Подія"
+  },
+  {
+    "var": "OBJNAMES_28",
+    "en": "Eye of the Magi",
+    "ua": "Магічне око"
+  },
+  {
+    "var": "OBJNAMES_29",
+    "en": "Faerie Ring",
+    "ua": "Коло фей"
+  },
+  {
+    "var": "OBJNAMES_30",
+    "en": "Flotsam",
+    "ua": "Уламки"
+  },
+  {
+    "var": "OBJNAMES_31",
+    "en": "Fountain of Fortune",
+    "ua": "Фонтан удачі"
+  },
+  {
+    "var": "OBJNAMES_32",
+    "en": "Fountain of Youth",
+    "ua": "Фонтан молодості"
+  },
+  {
+    "var": "OBJNAMES_33",
+    "en": "Garden of Revelation",
+    "ua": "Сад одкровень"
+  },
+  {
+    "var": "OBJNAMES_34",
+    "en": "Garrison",
+    "ua": "Гарнізон"
+  },
+  {
+    "var": "OBJNAMES_35",
+    "en": "Hero",
+    "ua": "Герой"
+  },
+  {
+    "var": "OBJNAMES_36",
+    "en": "Hill Fort",
+    "ua": "Фортеця на пагорбі"
+  },
+  {
+    "var": "OBJNAMES_37",
+    "en": "Grail",
+    "ua": "Грааль"
+  },
+  {
+    "var": "OBJNAMES_38",
+    "en": "Hut of the Magi",
+    "ua": "Магічне вікно"
+  },
+  {
+    "var": "OBJNAMES_39",
+    "en": "Idol of Fortune",
+    "ua": "Ідол удачі"
+  },
+  {
+    "var": "OBJNAMES_40",
+    "en": "Lean To",
+    "ua": "Навіс"
+  },
+  {
+    "var": "OBJNAMES_41",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "OBJNAMES_42",
+    "en": "Library of Enlightenment",
+    "ua": "Бібліотека втаємничених"
+  },
+  {
+    "var": "OBJNAMES_43",
+    "en": "Lighthouse",
+    "ua": "Маяк"
+  },
+  {
+    "var": "OBJNAMES_44",
+    "en": "Monolith One Way Entrance",
+    "ua": "Портал входу"
+  },
+  {
+    "var": "OBJNAMES_45",
+    "en": "Monolith One Way Exit",
+    "ua": "Портал виходу"
+  },
+  {
+    "var": "OBJNAMES_46",
+    "en": "Monolith Two Way",
+    "ua": "Портал"
+  },
+  {
+    "var": "OBJNAMES_47",
+    "en": "Magic Plains",
+    "ua": "Чарівні рівнини"
+  },
+  {
+    "var": "OBJNAMES_48",
+    "en": "School of Magic",
+    "ua": "Школа магії"
+  },
+  {
+    "var": "OBJNAMES_49",
+    "en": "Magic Spring",
+    "ua": "Чарівне джерело"
+  },
+  {
+    "var": "OBJNAMES_50",
+    "en": "Magic Well",
+    "ua": "Чарівний колодязь"
+  },
+  {
+    "var": "OBJNAMES_51",
+    "en": "Market of Time",
+    "ua": "Звалище часів"
+  },
+  {
+    "var": "OBJNAMES_52",
+    "en": "Mercenary Camp",
+    "ua": "Табір найманців"
+  },
+  {
+    "var": "OBJNAMES_53",
+    "en": "Mermaids",
+    "ua": "Русалки"
+  },
+  {
+    "var": "OBJNAMES_54",
+    "en": "Mine",
+    "ua": "Шахта"
+  },
+  {
+    "var": "OBJNAMES_55",
+    "en": "Monster",
+    "ua": "Монстр"
+  },
+  {
+    "var": "OBJNAMES_56",
+    "en": "Mystical Garden",
+    "ua": "Таємничий сад"
+  },
+  {
+    "var": "OBJNAMES_57",
+    "en": "Oasis",
+    "ua": "Оазис"
+  },
+  {
+    "var": "OBJNAMES_58",
+    "en": "Obelisk",
+    "ua": "Обеліск"
+  },
+  {
+    "var": "OBJNAMES_59",
+    "en": "Redwood Observatory",
+    "ua": "Обсерваторія на дереві"
+  },
+  {
+    "var": "OBJNAMES_60",
+    "en": "Ocean Bottle",
+    "ua": "Пляшка"
+  },
+  {
+    "var": "OBJNAMES_61",
+    "en": "Pillar of Fire",
+    "ua": "Вогненний стовп"
+  },
+  {
+    "var": "OBJNAMES_62",
+    "en": "Star Axis",
+    "ua": "Зоряна вісь"
+  },
+  {
+    "var": "OBJNAMES_63",
+    "en": "Prison",
+    "ua": "В'язниця"
+  },
+  {
+    "var": "OBJNAMES_64",
+    "en": "Pyramid",
+    "ua": "Піраміда"
+  },
+  {
+    "var": "OBJNAMES_65",
+    "en": "Rally Flag",
+    "ua": "Стяг єднання"
+  },
+  {
+    "var": "OBJNAMES_66",
+    "en": "Random Artifact",
+    "ua": "Випадковий артефакт"
+  },
+  {
+    "var": "OBJNAMES_67",
+    "en": "Random Treasure Artifact",
+    "ua": "Випадковий цінний артефакт"
+  },
+  {
+    "var": "OBJNAMES_68",
+    "en": "Random Minor Artifact",
+    "ua": "Випадковий малий артефакт"
+  },
+  {
+    "var": "OBJNAMES_69",
+    "en": "Random Major Artifact",
+    "ua": "Випадковий великий артефакт"
+  },
+  {
+    "var": "OBJNAMES_70",
+    "en": "Random Relic",
+    "ua": "Випадкова реліквія"
+  },
+  {
+    "var": "OBJNAMES_71",
+    "en": "Random Hero",
+    "ua": "Випадковий герой"
+  },
+  {
+    "var": "OBJNAMES_72",
+    "en": "Random Monster",
+    "ua": "Випадковий монстр"
+  },
+  {
+    "var": "OBJNAMES_73",
+    "en": "Random Monster 1",
+    "ua": "Випадковий монстр 1"
+  },
+  {
+    "var": "OBJNAMES_74",
+    "en": "Random Monster 2",
+    "ua": "Випадковий монстр 2"
+  },
+  {
+    "var": "OBJNAMES_75",
+    "en": "Random Monster 3",
+    "ua": "Випадковий монстр 3"
+  },
+  {
+    "var": "OBJNAMES_76",
+    "en": "Random Monster 4",
+    "ua": "Випадковий монстр 4"
+  },
+  {
+    "var": "OBJNAMES_77",
+    "en": "Random Resource",
+    "ua": "Випадковий ресурс"
+  },
+  {
+    "var": "OBJNAMES_78",
+    "en": "Random Town",
+    "ua": "Випадкове місто"
+  },
+  {
+    "var": "OBJNAMES_79",
+    "en": "Refugee Camp",
+    "ua": "Табір біженців"
+  },
+  {
+    "var": "OBJNAMES_80",
+    "en": "Resource",
+    "ua": "Ресурс"
+  },
+  {
+    "var": "OBJNAMES_81",
+    "en": "Sanctuary",
+    "ua": "Прихисток"
+  },
+  {
+    "var": "OBJNAMES_82",
+    "en": "Scholar",
+    "ua": "Учений"
+  },
+  {
+    "var": "OBJNAMES_83",
+    "en": "Sea Chest",
+    "ua": "Скриня"
+  },
+  {
+    "var": "OBJNAMES_84",
+    "en": "Seer's Hut",
+    "ua": "Хатина ясновидця"
+  },
+  {
+    "var": "OBJNAMES_85",
+    "en": "Crypt",
+    "ua": "Склеп"
+  },
+  {
+    "var": "OBJNAMES_86",
+    "en": "Shipwreck",
+    "ua": "Розбитий корабель"
+  },
+  {
+    "var": "OBJNAMES_87",
+    "en": "Shipwreck Survivor",
+    "ua": "Потерпілий з корабля"
+  },
+  {
+    "var": "OBJNAMES_88",
+    "en": "Shipyard",
+    "ua": "Верф"
+  },
+  {
+    "var": "OBJNAMES_89",
+    "en": "Shrine of Magic Incantation",
+    "ua": "Вівтар магічного співу"
+  },
+  {
+    "var": "OBJNAMES_90",
+    "en": "Shrine of Magic Gesture",
+    "ua": "Вівтар магічних жестів"
+  },
+  {
+    "var": "OBJNAMES_91",
+    "en": "Shrine of Magic Thought",
+    "ua": "Вівтар магічних думок"
+  },
+  {
+    "var": "OBJNAMES_92",
+    "en": "Sign",
+    "ua": "Вказівник"
+  },
+  {
+    "var": "OBJNAMES_93",
+    "en": "Sirens",
+    "ua": "Сирени"
+  },
+  {
+    "var": "OBJNAMES_94",
+    "en": "Spell Scroll",
+    "ua": "Чарівний сувій"
+  },
+  {
+    "var": "OBJNAMES_95",
+    "en": "Stables",
+    "ua": "Стайні"
+  },
+  {
+    "var": "OBJNAMES_96",
+    "en": "Tavern",
+    "ua": "Корчма"
+  },
+  {
+    "var": "OBJNAMES_97",
+    "en": "Temple",
+    "ua": "Храм"
+  },
+  {
+    "var": "OBJNAMES_98",
+    "en": "Den of Thieves",
+    "ua": "Злодійське кубло"
+  },
+  {
+    "var": "OBJNAMES_99",
+    "en": "Town",
+    "ua": "Місто"
+  },
+  {
+    "var": "OBJNAMES_100",
+    "en": "Trading Post",
+    "ua": "Ринок"
+  },
+  {
+    "var": "OBJNAMES_101",
+    "en": "Learning Stone",
+    "ua": "Камінь знань"
+  },
+  {
+    "var": "OBJNAMES_102",
+    "en": "Treasure Chest",
+    "ua": "Скринька зі скарбом"
+  },
+  {
+    "var": "OBJNAMES_103",
+    "en": "Tree of Knowledge",
+    "ua": "Дерево Пізнання"
+  },
+  {
+    "var": "OBJNAMES_104",
+    "en": "Subterranean Gate",
+    "ua": "Підземна брама"
+  },
+  {
+    "var": "OBJNAMES_105",
+    "en": "University",
+    "ua": "Університет"
+  },
+  {
+    "var": "OBJNAMES_106",
+    "en": "Wagon",
+    "ua": "Віз"
+  },
+  {
+    "var": "OBJNAMES_107",
+    "en": "War Machine Factory",
+    "ua": "Майстерня бойових машин"
+  },
+  {
+    "var": "OBJNAMES_108",
+    "en": "School of War",
+    "ua": "Військова академія"
+  },
+  {
+    "var": "OBJNAMES_109",
+    "en": "Warrior's Tomb",
+    "ua": "Гробниця воїна"
+  },
+  {
+    "var": "OBJNAMES_110",
+    "en": "Water Wheel",
+    "ua": "Водний млин"
+  },
+  {
+    "var": "OBJNAMES_111",
+    "en": "Watering Hole",
+    "ua": "Джерело"
+  },
+  {
+    "var": "OBJNAMES_112",
+    "en": "Whirlpool",
+    "ua": "Вир"
+  },
+  {
+    "var": "OBJNAMES_113",
+    "en": "Windmill",
+    "ua": "Вітряк"
+  },
+  {
+    "var": "OBJNAMES_114",
+    "en": "Witch Hut",
+    "ua": "Хатина відьми"
+  },
+  {
+    "var": "OBJNAMES_115",
+    "en": "Brush",
+    "ua": "Чагарники"
+  },
+  {
+    "var": "OBJNAMES_116",
+    "en": "Bush",
+    "ua": "Кущ"
+  },
+  {
+    "var": "OBJNAMES_117",
+    "en": "Cactus",
+    "ua": "Кактус"
+  },
+  {
+    "var": "OBJNAMES_118",
+    "en": "Canyon",
+    "ua": "Каньйон"
+  },
+  {
+    "var": "OBJNAMES_119",
+    "en": "Crater",
+    "ua": "Тріщини"
+  },
+  {
+    "var": "OBJNAMES_120",
+    "en": "Dead Vegetation",
+    "ua": "Мертва рослинність"
+  },
+  {
+    "var": "OBJNAMES_121",
+    "en": "Flowers",
+    "ua": "Квіти"
+  },
+  {
+    "var": "OBJNAMES_122",
+    "en": "Frozen Lake",
+    "ua": "Замерзле озеро"
+  },
+  {
+    "var": "OBJNAMES_123",
+    "en": "Hedge",
+    "ua": "Тин"
+  },
+  {
+    "var": "OBJNAMES_124",
+    "en": "Hill",
+    "ua": "Пагорб"
+  },
+  {
+    "var": "OBJNAMES_125",
+    "en": "Hole",
+    "ua": "Нора"
+  },
+  {
+    "var": "OBJNAMES_126",
+    "en": "Kelp",
+    "ua": "Водорості"
+  },
+  {
+    "var": "OBJNAMES_127",
+    "en": "Lake",
+    "ua": "Озеро"
+  },
+  {
+    "var": "OBJNAMES_128",
+    "en": "Lava Flow",
+    "ua": "Потоки лави"
+  },
+  {
+    "var": "OBJNAMES_Lava Lake",
+    "en": "Lava Lake\t",
+    "ua": "Озеро лави\t"
+  },
+  {
+    "var": "OBJNAMES_Mushrooms",
+    "en": "Mushrooms\t",
+    "ua": "Гриби\t"
+  },
+  {
+    "var": "OBJNAMES_Log",
+    "en": "Log\t",
+    "ua": "Колода\t"
+  },
+  {
+    "var": "OBJNAMES_Mandrake",
+    "en": "Mandrake\t",
+    "ua": "Мандрагора\t"
+  },
+  {
+    "var": "OBJNAMES_Moss",
+    "en": "Moss\t",
+    "ua": "Мох\t"
+  },
+  {
+    "var": "OBJNAMES_Mound",
+    "en": "Mound\t",
+    "ua": "Курган\t"
+  },
+  {
+    "var": "OBJNAMES_Mountain",
+    "en": "Mountain\t",
+    "ua": "Гора\t"
+  },
+  {
+    "var": "OBJNAMES_Oak Trees",
+    "en": "Oak Trees\t",
+    "ua": "Діброва\t"
+  },
+  {
+    "var": "OBJNAMES_Outcropping",
+    "en": "Outcropping\t",
+    "ua": "Кам'янистий ґрунт\t"
+  },
+  {
+    "var": "OBJNAMES_Pine Trees",
+    "en": "Pine Trees\t",
+    "ua": "Сосновий бір\t"
+  },
+  {
+    "var": "OBJNAMES_Plant",
+    "en": "Plant\t",
+    "ua": "Рослина\t"
+  },
+  {
+    "var": "OBJNAMES_140",
+    "en": "\t",
+    "ua": "\t"
+  },
+  {
+    "var": "OBJNAMES_141",
+    "en": "\t",
+    "ua": "\t"
+  },
+  {
+    "var": "OBJNAMES_142",
+    "en": "\t",
+    "ua": "\t"
+  },
+  {
+    "var": "OBJNAMES_143",
+    "en": "\t",
+    "ua": "\t"
+  },
+  {
+    "var": "OBJNAMES_River Delta",
+    "en": "River Delta\t",
+    "ua": "Дельта річки\t"
+  },
+  {
+    "var": "OBJNAMES_145",
+    "en": "\t",
+    "ua": "\t"
+  },
+  {
+    "var": "OBJNAMES_146",
+    "en": "\t",
+    "ua": "\t"
+  },
+  {
+    "var": "OBJNAMES_147",
+    "en": "\t",
+    "ua": "\t"
+  },
+  {
+    "var": "OBJNAMES_Rock",
+    "en": "Rock\t",
+    "ua": "Скеля\t"
+  },
+  {
+    "var": "OBJNAMES_Sand Dune",
+    "en": "Sand Dune\t",
+    "ua": "Піщана дюна\t"
+  },
+  {
+    "var": "OBJNAMES_Sand Pit",
+    "en": "Sand Pit\t",
+    "ua": "Піщана яма\t"
+  },
+  {
+    "var": "OBJNAMES_Shrub",
+    "en": "Shrub\t",
+    "ua": "Чагарник\t"
+  },
+  {
+    "var": "OBJNAMES_Skull",
+    "en": "Skull\t",
+    "ua": "Череп\t"
+  },
+  {
+    "var": "OBJNAMES_Stalagmite",
+    "en": "Stalagmite\t",
+    "ua": "Сталагміт\t"
+  },
+  {
+    "var": "OBJNAMES_Stump",
+    "en": "Stump\t",
+    "ua": "Пень\t"
+  },
+  {
+    "var": "OBJNAMES_Tar Pit",
+    "en": "Tar Pit\t",
+    "ua": "Смоляна яма\t"
+  },
+  {
+    "var": "OBJNAMES_Trees",
+    "en": "Trees\t",
+    "ua": "Дерева\t"
+  },
+  {
+    "var": "OBJNAMES_Vine",
+    "en": "Vine\t",
+    "ua": "Виноградник\t"
+  },
+  {
+    "var": "OBJNAMES_Volcanic Vent",
+    "en": "Volcanic Vent\t",
+    "ua": "Жерло вулкана\t"
+  },
+  {
+    "var": "OBJNAMES_Volcano",
+    "en": "Volcano\t",
+    "ua": "Вулкан\t"
+  },
+  {
+    "var": "OBJNAMES_Willow Trees",
+    "en": "Willow Trees\t",
+    "ua": "Верби\t"
+  },
+  {
+    "var": "OBJNAMES_161",
+    "en": "Yucca Trees",
+    "ua": "Юкка"
+  },
+  {
+    "var": "OBJNAMES_162",
+    "en": "Reef",
+    "ua": "Риф"
+  },
+  {
+    "var": "OBJNAMES_163",
+    "en": "Random Monster 5",
+    "ua": "Випадковий монстр 5"
+  },
+  {
+    "var": "OBJNAMES_164",
+    "en": "Random Monster 6",
+    "ua": "Випадковий монстр 6"
+  },
+  {
+    "var": "OBJNAMES_165",
+    "en": "Random Monster 7",
+    "ua": "Випадковий монстр 7"
+  },
+  {
+    "var": "OBJNAMES_166",
+    "en": "Brush",
+    "ua": "Зарості"
+  },
+  {
+    "var": "OBJNAMES_167",
+    "en": "Bush",
+    "ua": "Кущ"
+  },
+  {
+    "var": "OBJNAMES_168",
+    "en": "Cactus",
+    "ua": "Кактус"
+  },
+  {
+    "var": "OBJNAMES_169",
+    "en": "Canyon",
+    "ua": "Каньйон"
+  },
+  {
+    "var": "OBJNAMES_170",
+    "en": "Crater",
+    "ua": "Тріщини"
+  },
+  {
+    "var": "OBJNAMES_171",
+    "en": "Dead Vegetation",
+    "ua": "Мертва рослинність"
+  },
+  {
+    "var": "OBJNAMES_172",
+    "en": "Flowers",
+    "ua": "Квіти"
+  },
+  {
+    "var": "OBJNAMES_173",
+    "en": "Frozen Lake",
+    "ua": "Замерзле озеро"
+  },
+  {
+    "var": "OBJNAMES_174",
+    "en": "Hedge",
+    "ua": "Тин"
+  },
+  {
+    "var": "OBJNAMES_175",
+    "en": "Hill",
+    "ua": "Пагорб"
+  },
+  {
+    "var": "OBJNAMES_176",
+    "en": "Hole",
+    "ua": "Нора"
+  },
+  {
+    "var": "OBJNAMES_177",
+    "en": "Kelp",
+    "ua": "Водорості"
+  },
+  {
+    "var": "OBJNAMES_178",
+    "en": "Lake",
+    "ua": "Озеро"
+  },
+  {
+    "var": "OBJNAMES_179",
+    "en": "Lava Flow",
+    "ua": "Потоки лави"
+  },
+  {
+    "var": "OBJNAMES_180",
+    "en": "Lava Lake",
+    "ua": "Озеро лави"
+  },
+  {
+    "var": "OBJNAMES_181",
+    "en": "Mushrooms",
+    "ua": "Гриби"
+  },
+  {
+    "var": "OBJNAMES_182",
+    "en": "Log",
+    "ua": "Колода"
+  },
+  {
+    "var": "OBJNAMES_183",
+    "en": "Mandrake",
+    "ua": "Мандрагора"
+  },
+  {
+    "var": "OBJNAMES_184",
+    "en": "Moss",
+    "ua": "Мох"
+  },
+  {
+    "var": "OBJNAMES_185",
+    "en": "Mound",
+    "ua": "Курган"
+  },
+  {
+    "var": "OBJNAMES_186",
+    "en": "Mountain",
+    "ua": "Гора"
+  },
+  {
+    "var": "OBJNAMES_187",
+    "en": "Oak Trees",
+    "ua": "Діброва"
+  },
+  {
+    "var": "OBJNAMES_188",
+    "en": "Outcropping",
+    "ua": "Кам'янистий ґрунт"
+  },
+  {
+    "var": "OBJNAMES_189",
+    "en": "Pine Trees",
+    "ua": "Сосновий бір"
+  },
+  {
+    "var": "OBJNAMES_190",
+    "en": "Plant",
+    "ua": "Рослина"
+  },
+  {
+    "var": "OBJNAMES_191",
+    "en": "River Delta",
+    "ua": "Дельта річки"
+  },
+  {
+    "var": "OBJNAMES_192",
+    "en": "Rock",
+    "ua": "Скеля"
+  },
+  {
+    "var": "OBJNAMES_193",
+    "en": "Sand Dune",
+    "ua": "Піщана дюна"
+  },
+  {
+    "var": "OBJNAMES_194",
+    "en": "Sand Pit",
+    "ua": "Піщана яма"
+  },
+  {
+    "var": "OBJNAMES_195",
+    "en": "Shrub",
+    "ua": "Чагарник"
+  },
+  {
+    "var": "OBJNAMES_196",
+    "en": "Skull",
+    "ua": "Череп"
+  },
+  {
+    "var": "OBJNAMES_197",
+    "en": "Stalagmite",
+    "ua": "Сталагміт"
+  },
+  {
+    "var": "OBJNAMES_198",
+    "en": "Stump",
+    "ua": "Пень"
+  },
+  {
+    "var": "OBJNAMES_199",
+    "en": "Tar Pit",
+    "ua": "Смоляна яма"
+  },
+  {
+    "var": "OBJNAMES_200",
+    "en": "Trees",
+    "ua": "Дерева"
+  },
+  {
+    "var": "OBJNAMES_201",
+    "en": "Vine",
+    "ua": "Виноградник"
+  },
+  {
+    "var": "OBJNAMES_202",
+    "en": "Volcanic Vent",
+    "ua": "Жерло вулкана"
+  },
+  {
+    "var": "OBJNAMES_203",
+    "en": "Volcano",
+    "ua": "Вулкан"
+  },
+  {
+    "var": "OBJNAMES_204",
+    "en": "Willow Trees",
+    "ua": "Верби"
+  },
+  {
+    "var": "OBJNAMES_205",
+    "en": "Yucca Trees",
+    "ua": "Юкка"
+  },
+  {
+    "var": "OBJNAMES_206",
+    "en": "Reef",
+    "ua": "Риф"
+  },
+  {
+    "var": "OBJNAMES_207",
+    "en": "Desert Hills",
+    "ua": "Бархани"
+  },
+  {
+    "var": "OBJNAMES_208",
+    "en": "Dirt Hills",
+    "ua": "Насипи"
+  },
+  {
+    "var": "OBJNAMES_209",
+    "en": "Grass Hills",
+    "ua": "Трав'янисті пагорби"
+  },
+  {
+    "var": "OBJNAMES_210",
+    "en": "Rough Hills",
+    "ua": "Кручі"
+  },
+  {
+    "var": "OBJNAMES_211",
+    "en": "Subterranean Rocks",
+    "ua": "Підземні скелі"
+  },
+  {
+    "var": "OBJNAMES_212",
+    "en": "Swamp Foliage",
+    "ua": "Болотяна рослинність"
+  },
+  {
+    "var": "OBJNAMES_213",
+    "en": "Border Gate",
+    "ua": "Прикордонна брама"
+  },
+  {
+    "var": "OBJNAMES_214",
+    "en": "Freelancer's Guild",
+    "ua": "Гільдія найманців"
+  },
+  {
+    "var": "OBJNAMES_215",
+    "en": "Hero Placeholder",
+    "ua": "Маркер героя"
+  },
+  {
+    "var": "OBJNAMES_216",
+    "en": "Quest Guard",
+    "ua": "Вартовий завдання"
+  },
+  {
+    "var": "OBJNAMES_217",
+    "en": "Random Dwelling",
+    "ua": "Випадкове помешкання"
+  },
+  {
+    "var": "OBJNAMES_218",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "OBJNAMES_219",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "OBJNAMES_220",
+    "en": "Garrison",
+    "ua": "Гарнізон"
+  },
+  {
+    "var": "OBJNAMES_221",
+    "en": "Mine",
+    "ua": "Рудник"
+  },
+  {
+    "var": "OBJNAMES_222",
+    "en": "Trading Post",
+    "ua": "Базар"
+  },
+  {
+    "var": "OBJNAMES_223",
+    "en": null,
+    "ua": "Поле конюшини"
+  },
+  {
+    "var": "OBJNAMES_224",
+    "en": null,
+    "ua": "Прокляті землі"
+  },
+  {
+    "var": "OBJNAMES_225",
+    "en": null,
+    "ua": "Зловісний туман"
+  },
+  {
+    "var": "OBJNAMES_226",
+    "en": null,
+    "ua": "Попутні вітри"
+  },
+  {
+    "var": "OBJNAMES_227",
+    "en": null,
+    "ua": "Вогненна земля"
+  },
+  {
+    "var": "OBJNAMES_228",
+    "en": null,
+    "ua": "Свята земля"
+  },
+  {
+    "var": "OBJNAMES_229",
+    "en": null,
+    "ua": "Прозорі водойми"
+  },
+  {
+    "var": "OBJNAMES_230",
+    "en": null,
+    "ua": "Чарівні хмари"
+  },
+  {
+    "var": "OBJNAMES_231",
+    "en": null,
+    "ua": "Чарівні рівнини"
+  },
+  {
+    "var": "OBJNAMES_232",
+    "en": null,
+    "ua": "Кам'яниста земля"
+  }
+]

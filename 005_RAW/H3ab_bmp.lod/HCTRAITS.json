@@ -1,0 +1,197 @@
+[
+  {
+    "var": "HCTRAITS_1",
+    "en": "\t\tInitial Skills\t\t\t\tProbability of gaining a skill (out of 100)\t\t\t\t\t\t\t\tProbability of gaining a secondary skill (out of 112)\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\"Selection Probability\n (out of 100)\"\t\t\t\t\t\t\t\t",
+    "ua": "\t\tInitial Skills\t\t\t\tProbability of gaining a skill (out of 100)\t\t\t\t\t\t\t\tProbability of gaining a secondary skill (out of 112)\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\"Selection Probability\n (out of 100)\"\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HCTRAITS_Name",
+    "en": "Name\tAggression\tAttack\tDefense\tSpell Power\tKnowledge\tAttack (2 - 9)\tDefense (2-9)\tPower (2-9)\tKnowledge (2-9)\tAttack (10+)\tDefense (10+)\tPower (10+)\tKnowledge (10+)\tPathfinding\tArchery\tLogistics\tScouting\tDiplomacy\tNavigation\tLeadership\tWisdom\tMysticism\tLuck\tSiege Ballistics\tEagle Eye\tNecromancy\tEstates\tSchool of Fire Magic\tSchool of Air Magic\tSchool of Water Magic\tSchool of Earth Magic\tMagic Scholar\tBattle Tactics\tBattlefield Ballistics\tLearning\tOffense\tDefense\tIntelligence\tSorcery\tMagic Resistance\tFirst Aid\tCastle\tRampart\t Tower\tInferno\tNecro\tDungeon\tStronghold\tFortress\tConflux",
+    "ua": "Name\tAggression\tAttack\tDefense\tSpell Power\tKnowledge\tAttack (2 - 9)\tDefense (2-9)\tPower (2-9)\tKnowledge (2-9)\tAttack (10+)\tDefense (10+)\tPower (10+)\tKnowledge (10+)\tPathfinding\tArchery\tLogistics\tScouting\tDiplomacy\tNavigation\tLeadership\tWisdom\tMysticism\tLuck\tSiege Ballistics\tEagle Eye\tNecromancy\tEstates\tSchool of Fire Magic\tSchool of Air Magic\tSchool of Water Magic\tSchool of Earth Magic\tMagic Scholar\tBattle Tactics\tBattlefield Ballistics\tLearning\tOffense\tDefense\tIntelligence\tSorcery\tMagic Resistance\tFirst Aid\tCastle\tRampart\t Tower\tInferno\tNecro\tDungeon\tStronghold\tFortress\tConflux"
+  },
+  {
+    "var": "HCTRAITS_Ëèöàð",
+    "en": "Ëèöàð\t1.00\t2\t2\t1\t1\t35\t45\t10\t10\t30\t30\t20\t20\t4\t5\t5\t4\t4\t8\t10\t3\t2\t3\t8\t2\t0\t6\t1\t3\t4\t2\t1\t7\t5\t4\t7\t5\t1\t1\t5\t2\t6\t6\t6\t5\t5\t5\t6\t6\t6",
+    "ua": "Лицар\t1.00\t2\t2\t1\t1\t35\t45\t10\t10\t30\t30\t20\t20\t4\t5\t5\t4\t4\t8\t10\t3\t2\t3\t8\t2\t0\t6\t1\t3\t4\t2\t1\t7\t5\t4\t7\t5\t1\t1\t5\t2\t6\t6\t6\t5\t5\t5\t6\t6\t6"
+  },
+  {
+    "var": "HCTRAITS_Êë³ðèê",
+    "en": "Êë³ðèê\t0.80\t1\t0\t2\t2\t20\t15\t30\t35\t20\t20\t30\t30\t2\t3\t4\t3\t7\t5\t2\t7\t4\t5\t4\t6\t0\t3\t2\t4\t4\t3\t6\t2\t2\t4\t4\t3\t6\t5\t2\t10\t6\t6\t6\t5\t5\t5\t6\t6\t5",
+    "ua": "Клірик\t0.80\t1\t0\t2\t2\t20\t15\t30\t35\t20\t20\t30\t30\t2\t3\t4\t3\t7\t5\t2\t7\t4\t5\t4\t6\t0\t3\t2\t4\t4\t3\t6\t2\t2\t4\t4\t3\t6\t5\t2\t10\t6\t6\t6\t5\t5\t5\t6\t6\t5"
+  },
+  {
+    "var": "HCTRAITS_Ðåéíäæåð",
+    "en": "Ðåéíäæåð\t1.00\t1\t3\t1\t1\t35\t45\t10\t10\t30\t30\t20\t20\t7\t8\t5\t7\t4\t3\t6\t3\t3\t6\t4\t2\t0\t2\t0\t1\t3\t3\t1\t5\t6\t4\t5\t8\t2\t2\t9\t3\t6\t6\t6\t5\t5\t5\t6\t5\t5",
+    "ua": "Рейнджер\t1.00\t1\t3\t1\t1\t35\t45\t10\t10\t30\t30\t20\t20\t7\t8\t5\t7\t4\t3\t6\t3\t3\t6\t4\t2\t0\t2\t0\t1\t3\t3\t1\t5\t6\t4\t5\t8\t2\t2\t9\t3\t6\t6\t6\t5\t5\t5\t6\t5\t5"
+  },
+  {
+    "var": "HCTRAITS_Äðó¿ä",
+    "en": "Äðó¿ä\t0.80\t0\t2\t1\t2\t10\t20\t35\t35\t20\t20\t30\t30\t5\t5\t5\t2\t4\t2\t2\t8\t6\t9\t4\t7\t0\t3\t1\t2\t4\t4\t8\t1\t1\t4\t1\t3\t7\t6\t1\t7\t6\t6\t6\t5\t5\t5\t5\t6\t6",
+    "ua": "Друїд\t0.80\t0\t2\t1\t2\t10\t20\t35\t35\t20\t20\t30\t30\t5\t5\t5\t2\t4\t2\t2\t8\t6\t9\t4\t7\t0\t3\t1\t2\t4\t4\t8\t1\t1\t4\t1\t3\t7\t6\t1\t7\t6\t6\t6\t5\t5\t5\t5\t6\t6"
+  },
+  {
+    "var": "HCTRAITS_Àëõ³ì³ê",
+    "en": "Àëõ³ì³ê\t1.00\t1\t1\t2\t2\t30\t30\t20\t20\t30\t30\t20\t20\t4\t5\t6\t4\t3\t3\t3\t6\t4\t2\t6\t3\t0\t4\t1\t4\t2\t3\t3\t4\t4\t10\t6\t8\t4\t3\t5\t2\t6\t6\t6\t5\t5\t5\t6\t5\t5",
+    "ua": "Алхімік\t1.00\t1\t1\t2\t2\t30\t30\t20\t20\t30\t30\t20\t20\t4\t5\t6\t4\t3\t3\t3\t6\t4\t2\t6\t3\t0\t4\t1\t4\t2\t3\t3\t4\t4\t10\t6\t8\t4\t3\t5\t2\t6\t6\t6\t5\t5\t5\t6\t5\t5"
+  },
+  {
+    "var": "HCTRAITS_×àð³âíèê",
+    "en": "×àð³âíèê\t1.00\t0\t0\t2\t3\t10\t10\t40\t40\t30\t20\t20\t30\t2\t2\t2\t2\t4\t1\t4\t10\t8\t4\t4\t8\t0\t5\t2\t6\t3\t3\t9\t1\t1\t4\t1\t1\t10\t8\t0\t7\t6\t6\t6\t5\t5\t5\t5\t6\t6",
+    "ua": "Чарівник\t1.00\t0\t0\t2\t3\t10\t10\t40\t40\t30\t20\t20\t30\t2\t2\t2\t2\t4\t1\t4\t10\t8\t4\t4\t8\t0\t5\t2\t6\t3\t3\t9\t1\t1\t4\t1\t1\t10\t8\t0\t7\t6\t6\t6\t5\t5\t5\t5\t6\t6"
+  },
+  {
+    "var": "HCTRAITS_Äåìîíîëîã",
+    "en": "Äåìîíîëîã\t1.20\t2\t2\t1\t1\t35\t35\t15\t15\t30\t30\t20\t20\t4\t6\t10\t5\t4\t4\t3\t4\t2\t2\t7\t3\t0\t3\t4\t2\t1\t3\t2\t6\t5\t4\t8\t7\t2\t3\t6\t2\t5\t5\t5\t6\t6\t6\t6\t5\t5",
+    "ua": "Демонолог\t1.20\t2\t2\t1\t1\t35\t35\t15\t15\t30\t30\t20\t20\t4\t6\t10\t5\t4\t4\t3\t4\t2\t2\t7\t3\t0\t3\t4\t2\t1\t3\t2\t6\t5\t4\t8\t7\t2\t3\t6\t2\t5\t5\t5\t6\t6\t6\t6\t5\t5"
+  },
+  {
+    "var": "HCTRAITS_ªðåòèê",
+    "en": "ªðåòèê\t1.10\t1\t1\t2\t1\t15\t15\t35\t35\t20\t20\t30\t30\t4\t4\t3\t3\t3\t2\t2\t8\t10\t2\t6\t4\t0\t2\t5\t3\t2\t4\t5\t4\t4\t4\t4\t4\t6\t6\t3\t5\t5\t5\t5\t6\t6\t6\t5\t6\t5",
+    "ua": "Єретик\t1.10\t1\t1\t2\t1\t15\t15\t35\t35\t20\t20\t30\t30\t4\t4\t3\t3\t3\t2\t2\t8\t10\t2\t6\t4\t0\t2\t5\t3\t2\t4\t5\t4\t4\t4\t4\t4\t6\t6\t3\t5\t5\t5\t5\t6\t6\t6\t5\t6\t5"
+  },
+  {
+    "var": "HCTRAITS_Ëèöàð Ñìåðò³",
+    "en": "Ëèöàð Ñìåðò³\t1.20\t1\t2\t2\t1\t30\t25\t20\t25\t25\t25\t25\t25\t4\t5\t5\t4\t2\t8\t0\t6\t4\t1\t7\t4\t10\t0\t1\t2\t3\t4\t2\t5\t5\t4\t7\t5\t5\t4\t5\t0\t5\t5\t5\t6\t6\t6\t6\t5\t5",
+    "ua": "Лицар Смерті\t1.20\t1\t2\t2\t1\t30\t25\t20\t25\t25\t25\t25\t25\t4\t5\t5\t4\t2\t8\t0\t6\t4\t1\t7\t4\t10\t0\t1\t2\t3\t4\t2\t5\t5\t4\t7\t5\t5\t4\t5\t0\t5\t5\t5\t6\t6\t6\t6\t5\t5"
+  },
+  {
+    "var": "HCTRAITS_Íåêðîìàíò",
+    "en": "Íåêðîìàíò\t1.00\t1\t0\t2\t2\t15\t15\t35\t35\t25\t25\t25\t25\t6\t2\t4\t2\t4\t5\t0\t8\t6\t1\t5\t7\t10\t3\t2\t3\t3\t8\t6\t2\t3\t4\t3\t2\t6\t6\t1\t0\t5\t5\t5\t6\t6\t6\t5\t6\t6",
+    "ua": "Некромант\t1.00\t1\t0\t2\t2\t15\t15\t35\t35\t25\t25\t25\t25\t6\t2\t4\t2\t4\t5\t0\t8\t6\t1\t5\t7\t10\t3\t2\t3\t3\t8\t6\t2\t3\t4\t3\t2\t6\t6\t1\t0\t5\t5\t5\t6\t6\t6\t5\t6\t6"
+  },
+  {
+    "var": "HCTRAITS_Ïîâåëèòåëü",
+    "en": "Ïîâåëèòåëü\t1.00\t2\t2\t1\t1\t35\t35\t15\t15\t30\t30\t20\t20\t5\t6\t8\t5\t3\t4\t8\t3\t3\t1\t7\t2\t0\t4\t2\t1\t0\t3\t1\t10\t8\t4\t8\t6\t1\t2\t6\t1\t5\t5\t5\t6\t6\t6\t6\t5\t5",
+    "ua": "Повелитель\t1.00\t2\t2\t1\t1\t35\t35\t15\t15\t30\t30\t20\t20\t5\t6\t8\t5\t3\t4\t8\t3\t3\t1\t7\t2\t0\t4\t2\t1\t0\t3\t1\t10\t8\t4\t8\t6\t1\t2\t6\t1\t5\t5\t5\t6\t6\t6\t6\t5\t5"
+  },
+  {
+    "var": "HCTRAITS_×àêëóí",
+    "en": "×àêëóí\t1.00\t0\t0\t3\t2\t10\t10\t50\t30\t20\t20\t30\t30\t2\t2\t2\t2\t4\t4\t3\t10\t8\t2\t6\t8\t0\t5\t5\t2\t2\t5\t8\t1\t1\t4\t1\t1\t8\t10\t0\t6\t5\t5\t5\t6\t6\t6\t5\t6\t6",
+    "ua": "Чаклун\t1.00\t0\t0\t3\t2\t10\t10\t50\t30\t20\t20\t30\t30\t2\t2\t2\t2\t4\t4\t3\t10\t8\t2\t6\t8\t0\t5\t5\t2\t2\t5\t8\t1\t1\t4\t1\t1\t8\t10\t0\t6\t5\t5\t5\t6\t6\t6\t5\t6\t6"
+  },
+  {
+    "var": "HCTRAITS_Âàðâàð",
+    "en": "Âàðâàð\t1.10\t4\t0\t1\t1\t55\t35\t5\t5\t30\t30\t20\t20\t8\t7\t7\t8\t1\t2\t5\t2\t3\t3\t8\t2\t0\t2\t2\t3\t0\t3\t1\t8\t8\t4\t10\t6\t1\t1\t6\t1\t6\t6\t6\t6\t6\t6\t6\t5\t6",
+    "ua": "Варвар\t1.10\t4\t0\t1\t1\t55\t35\t5\t5\t30\t30\t20\t20\t8\t7\t7\t8\t1\t2\t5\t2\t3\t3\t8\t2\t0\t2\t2\t3\t0\t3\t1\t8\t8\t4\t10\t6\t1\t1\t6\t1\t6\t6\t6\t6\t6\t6\t6\t5\t6"
+  },
+  {
+    "var": "HCTRAITS_Áîéîâèé Ìàã",
+    "en": "Áîéîâèé Ìàã\t1.10\t2\t1\t1\t1\t30\t20\t25\t25\t25\t25\t25\t25\t4\t4\t9\t4\t3\t0\t4\t6\t4\t2\t6\t5\t0\t1\t3\t3\t3\t3\t4\t5\t4\t4\t8\t4\t5\t6\t4\t4\t6\t6\t6\t6\t6\t6\t6\t6\t5",
+    "ua": "Бойовий Маг\t1.10\t2\t1\t1\t1\t30\t20\t25\t25\t25\t25\t25\t25\t4\t4\t9\t4\t3\t0\t4\t6\t4\t2\t6\t5\t0\t1\t3\t3\t3\t3\t4\t5\t4\t4\t8\t4\t5\t6\t4\t4\t6\t6\t6\t6\t6\t6\t6\t6\t5"
+  },
+  {
+    "var": "HCTRAITS_Ïîâåëèòåëü Çâ³ð³â",
+    "en": "Ïîâåëèòåëü Çâ³ð³â\t0.90\t0\t4\t1\t1\t30\t50\t10\t10\t30\t30\t20\t20\t8\t7\t8\t7\t1\t8\t5\t2\t2\t2\t7\t1\t0\t1\t0\t1\t2\t3\t1\t6\t8\t4\t5\t10\t1\t1\t5\t6\t6\t6\t6\t6\t6\t6\t6\t6\t6",
+    "ua": "Повелитель Звірів\t0.90\t0\t4\t1\t1\t30\t50\t10\t10\t30\t30\t20\t20\t8\t7\t8\t7\t1\t8\t5\t2\t2\t2\t7\t1\t0\t1\t0\t1\t2\t3\t1\t6\t8\t4\t5\t10\t1\t1\t5\t6\t6\t6\t6\t6\t6\t6\t6\t6\t6"
+  },
+  {
+    "var": "HCTRAITS_Â³äüìà",
+    "en": "Â³äüìà\t1.00\t0\t1\t2\t2\t5\t15\t40\t40\t20\t20\t30\t30\t2\t3\t3\t2\t2\t6\t1\t8\t8\t4\t8\t10\t0\t1\t3\t3\t3\t3\t7\t1\t1\t4\t2\t4\t7\t8\t0\t8\t6\t6\t6\t6\t6\t6\t5\t6\t6",
+    "ua": "Відьма\t1.00\t0\t1\t2\t2\t5\t15\t40\t40\t20\t20\t30\t30\t2\t3\t3\t2\t2\t6\t1\t8\t8\t4\t8\t10\t0\t1\t3\t3\t3\t3\t7\t1\t1\t4\t2\t4\t7\t8\t0\t8\t6\t6\t6\t6\t6\t6\t5\t6\t6"
+  },
+  {
+    "var": "HCTRAITS_Ìàíäð³âíèê",
+    "en": "Ìàíäð³âíèê\t0.90\t3\t1\t1\t1\t45\t25\t15\t15\t30\t30\t20\t20\t6\t8\t8\t6\t2\t5\t3\t2\t3\t2\t8\t2\t0\t3\t3\t2\t2\t3\t1\t8\t8\t8\t9\t5\t1\t1\t2\t1\t5\t5\t5\t5\t5\t5\t5\t5\t6",
+    "ua": "Мандрівник\t0.90\t3\t1\t1\t1\t45\t25\t15\t15\t30\t30\t20\t20\t6\t8\t8\t6\t2\t5\t3\t2\t3\t2\t8\t2\t0\t3\t3\t2\t2\t3\t1\t8\t8\t8\t9\t5\t1\t1\t2\t1\t5\t5\t5\t5\t5\t5\t5\t5\t6"
+  },
+  {
+    "var": "HCTRAITS_Åëåìåíòàë³ñò",
+    "en": "Åëåìåíòàë³ñò\t1.00\t0\t0\t3\t3\t15\t15\t35\t35\t25\t25\t25\t25\t2\t2\t2\t2\t4\t4\t3\t8\t8\t2\t4\t8\t0\t3\t6\t6\t6\t6\t8\t1\t1\t4\t1\t1\t8\t8\t0\t4\t5\t5\t5\t5\t5\t5\t5\t5\t6",
+    "ua": "Елементаліст\t1.00\t0\t0\t3\t3\t15\t15\t35\t35\t25\t25\t25\t25\t2\t2\t2\t2\t4\t4\t3\t8\t8\t2\t4\t8\t0\t3\t6\t6\t6\t6\t8\t1\t1\t4\t1\t1\t8\t8\t0\t4\t5\t5\t5\t5\t5\t5\t5\t5\t6"
+  },
+  {
+    "var": "HCTRAITS_21",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "HCTRAITS_22",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "HCTRAITS_23",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "HCTRAITS_24",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HCTRAITS_25",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HCTRAITS_26",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HCTRAITS_27",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HCTRAITS_28",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HCTRAITS_29",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HCTRAITS_30",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HCTRAITS_31",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HCTRAITS_32",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "HCTRAITS_33",
+    "en": "\t\t\t\t\t",
+    "ua": "\t\t\t\t\t"
+  },
+  {
+    "var": "HCTRAITS_34",
+    "en": "\t\t\t\t\t",
+    "ua": "\t\t\t\t\t"
+  },
+  {
+    "var": "HCTRAITS_35",
+    "en": "\t\t\t\t\t",
+    "ua": "\t\t\t\t\t"
+  },
+  {
+    "var": "HCTRAITS_36",
+    "en": "\t\t\t\t\t",
+    "ua": "\t\t\t\t\t"
+  },
+  {
+    "var": "HCTRAITS_37",
+    "en": "\t\t\t\t\t",
+    "ua": "\t\t\t\t\t"
+  },
+  {
+    "var": "HCTRAITS_38",
+    "en": "\t\t\t\t\t",
+    "ua": "\t\t\t\t\t"
+  },
+  {
+    "var": "HCTRAITS_39",
+    "en": "\t\t\t\t\t",
+    "ua": "\t\t\t\t\t"
+  }
+]

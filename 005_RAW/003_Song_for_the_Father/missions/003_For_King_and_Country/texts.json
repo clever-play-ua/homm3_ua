@@ -1,0 +1,44 @@
+[
+  {
+    "var": "GOOD3_M3_prolog",
+    "field": "wrapper_prolog",
+    "en": "This is the final battle. Our presence has already begun to restore life to the land, but we must destroy this last fortress of death that King Gryphonheart has retreated to. It is time to return the dead to their graves.",
+    "ua": "Настав час останньої битви. Одна наша присутність знову наповнює землі життям. Залишається розгромити останній оплот смерті, куди втік король Гріфонхарт. Пора загнати мерців назад до могил!"
+  },
+  {
+    "var": "GOOD3_M3_epilog",
+    "field": "wrapper_epilog",
+    "en": "What remains of my father's undead army is the Necropolis where he resides. His last legions of undead are significant.  I will join this difficult battle, but you will command the field.  There is one more order you must follow without question. Lord Haart must not die. He is our traitor. We have confirmed the information the necromancers gave to us. Lord Haart was part of King Vilmar's necromantic cult. With Lord Haart's access to Steadwick, poisoning King Gryphonheart's food was a simple task. Acting on orders from King Vilmar, he sought to avenge the banishment of the necromancers from Erathia. I have special plans for Lord Haart.",
+    "ua": "Від усього царства нежиті, яким правив мій батько, залишився лише Некрополь, його резиденція. Ім'я його захисникам - легіон. Я сама поведу в бій один із загонів, але командування приймеш ти. Є один наказ, який вимагає неухильного виконання. Лорд Хаарт повинен залишитися живим - він той, хто зрадив нас. Лорд Хаарт був одним з наближених некромантів володаря Вілмара. З його допомогою вбивця короля Гріфонхарта легко проник в Стедвік і підсипав отруту батькові в їжу. Він виконував наказ Вілмара, що жадав помсти за вигнання некромантів з Ерафії. У мене з цим зрадником особливі рахунки."
+  },
+  {
+    "var": "GOOD3_M3_map_name",
+    "field": "map_map_name",
+    "en": "For King and Country",
+    "ua": "За короля і вітчизну"
+  },
+  {
+    "var": "GOOD3_M3_map_desc",
+    "field": "map_map_desc",
+    "en": "To win, you must capture all enemy towns and castles and defeat all enemy heroes, without losing either Queen Catherine or Lord Haart. This is the final battle... good luck!",
+    "ua": "Щоб перемогти, вам потрібно захопити всі ворожі міста і замки і розгромити всіх героїв противника, не допустивши загибелі Королеви Катерини і Лорда Хаарта. Це остання битва... Успіху!"
+  },
+  {
+    "var": "GOOD3_M3_obj137_town_name",
+    "field": "map_obj137_town_name",
+    "en": "Stonecastle",
+    "ua": "Стоункасл"
+  },
+  {
+    "var": "GOOD3_M3_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Intro part 1",
+    "ua": "Intro part 1"
+  },
+  {
+    "var": "GOOD3_M3_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "The city containing the tomb of King Gryphonheart, along with the city where the King currently has his throne, are the targets of this attack. Both cities must fall, or we shall never be able to unseat the King from his throne.",
+    "ua": "Ми нападаємо на місто, в якому знаходиться усипальниця Короля Гріфонхарта, і місто, в якому зараз знаходиться королівський трон. Потрібно стерти з лиця землі обидва міста, інакше нам ніколи не позбавити Короля його трону."
+  }
+]

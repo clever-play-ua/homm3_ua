@@ -1,0 +1,56 @@
+[
+  {
+    "var": "EVIL2_M1_prolog",
+    "field": "wrapper_prolog",
+    "en": "King Gryphonheart, the man who banished us from Erathia, is dead. The Nighon and Eeofol invasion has given us the gift of death. At last we can build our armies and invade Erathia ourselves. First, however, we need a tactician. You must find the tomb of King Gryphonheart.",
+    "ua": "Король Гріфонхарт, смертний, який вигнав нас з Ерафії, мертвий. Вторгнення Ніґона й Еофола обдарувало нас цілою армією нежиті. Нарешті ми можемо зібрати достатньо військ, щоб напасти на Ерафію! Але для цього нам потрібен хороший стратег. Розшукайте могилу короля Гріфонхарта."
+  },
+  {
+    "var": "EVIL2_M1_epilog",
+    "field": "wrapper_epilog",
+    "en": "Our nation's goal was to kill the man who banished us from Erathia. However, Nighon and Eeofol's subsequent invasion has done us an unexpected favor.  Erathia is strewn with the dead.  For the necromancers, this is a season of harvest. This is a season for war.  Queen Catherine is a formidable foe. To defeat Erathia's remaining military, we need a tactician greater than her. We have a plan... an ironic plan. While Catherine organizes the last stages of her war with Nighon and Eeofol, you will sneak into Erathia and locate King Gryphonheart’s grave. Be wary. The region is occupied by scattered Erathian. When the gravesite is found, we will resurrect the dead king and make him our pawn. With King Gryphonheart commanding our armies, his former home will become our land of the dead.",
+    "ua": "Наша держава прагнула знищити смертного, який вигнав нас з Ерафії. Але майже одночасне вторгнення Ніґона й Еофола несподівано зіграло нам на руку. Вся Ерафія всіяна полеглими воїнами. Для нас, некромантів, настав час жнив. Час війни. Королева Катерина - гідний супротивник. Щоб розгромити залишки її війська, потрібен ще кращий стратег. У нас є план... Що за іронія! Поки Катерина завершує війну проти Ніґона й Еофола, проберися в Ерафію і розшукай могилу короля Гріфонхарта. Будь обережний. Окремі частини ерафійської гвардії утримують місцевість. Коли ти знайдеш могилу, ми пробудимо мертвого короля і зробимо його пішаком у нашій грі. З королем Гріфонхартом на чолі армії нежиті його колишня батьківщина стане країною мерців."
+  },
+  {
+    "var": "EVIL2_M1_map_name",
+    "field": "map_map_name",
+    "en": "A Gryphon's Heart",
+    "ua": "Серце Грифона"
+  },
+  {
+    "var": "EVIL2_M1_map_desc",
+    "field": "map_map_desc",
+    "en": "To win, you must bring the Spirit of Oppression to the city of Stonecastle within 3 months. Seek out the Seer - completing the Seer's Quest will allow you to carry the reward to the next scenario.",
+    "ua": "Для перемоги вам необхідно протягом трьох місяців встигнути принести Годинник Злого Часу в місто Кам'яний Замок. Шукайте провидця. Виконавши його прохання, ви зможете взяти винагороду з собою в наступний сценарій."
+  },
+  {
+    "var": "EVIL2_M1_obj91_town_name",
+    "field": "map_obj91_town_name",
+    "en": "Stonecastle",
+    "ua": "Кам'яний Замок"
+  },
+  {
+    "var": "EVIL2_M1_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Intro part 1",
+    "ua": "Intro part 1"
+  },
+  {
+    "var": "EVIL2_M1_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "Our spies tell us that the tomb of King Gryphonheart is located in the town of Stonecastle, near Erathia's northern border, in a place that was clear of the war with Nighon and Eeofol. Seek this place out and capture it so that we may animate the body of the King.",
+    "ua": "Наші розвідники повідомляють, що Король Гріфонхарт був похований в місті Кам'яний Замок, що поблизу північного кордону Ерафії. Місце поховання не було порушено війною з Ніґоном і Еофолом. Знайдіть це місце і захопіть, щоб ми могли оживити тіло Короля."
+  },
+  {
+    "var": "EVIL2_M1_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Intro part 2",
+    "ua": "Intro part 2"
+  },
+  {
+    "var": "EVIL2_M1_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "You must also seek out the Spirit of Oppression and bring it to Stonecastle, as it is one of the items we need for the ritual to animate the King's body. But you must act quickly - the body will be of no use to us if its spirit departs.",
+    "ua": "Ви повинні відшукати Годинник Злого Часу і принести його в Кам'яний Замок. Це один з предметів, необхідних для ритуалу оживлення тіла Короля. Але поспішайте - діяти потрібно швидко, інакше дух покине тіло і наш план буде зірваний."
+  }
+]

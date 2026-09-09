@@ -1,0 +1,116 @@
+[
+  {
+    "var": "SLAYER_M3_prolog",
+    "field": "wrapper_prolog",
+    "en": "Finally, you have tracked down the Azure Dragons.  Now it is time to face the great dragon in their home territory.  The locals are willing to join your cause, but the paths are guarded by dragons.  Clear these paths and you can gain support.  The Azure Dragons are both mighty and elusive.  Track them down and kill them before they moves on to new territory.  You estimate in six months they will move again. Once you have gained their support you can then seek your prize.  Beware the other Dragons who guard the Azure, keeping out the fainthearted and unworthy of such a challenge.",
+    "ua": "Нарешті, ви знайшли лазурних драконів. Настав час зустрітися з великими зміями на їх території. Мешканці хочуть приєднатися до вас, але дракони перегороджують їм шлях. Очистивши цей шлях, ви забезпечите собі підтримку. Лазурні дракони могутні й невловимі. Вистежіть їх і убийте, перш ніж вони перемістяться на нове місце. Бійтеся інших драконів, які охороняють лазурних."
+  },
+  {
+    "var": "SLAYER_M3_epilog",
+    "field": "wrapper_epilog",
+    "en": "I have found a nest of  mighty Azure Dragons.  I have also found my destiny.  Azure Dragons do not nest for long and commands an entourage of dragons of all colors.  The task is great, but I am determined.",
+    "ua": "Я знайшов гніздо могутніх лазурних драконів. Я знайшов своє призначення. Блакитні дракони швидко вилітають із гнізда. До того ж, їх захищає військо драконів всіх мастей. Завдання не з легких, але я не звик відступати."
+  },
+  {
+    "var": "SLAYER_M3_map_name",
+    "field": "map_map_name",
+    "en": "Azure Dragons",
+    "ua": "Лазурні дракони"
+  },
+  {
+    "var": "SLAYER_M3_map_desc",
+    "field": "map_map_desc",
+    "en": "Defeat the great Azure Dragons within six months for eternal fame.  Once you have slain this ancient beast you will have proven yourself to be a Dragon Slayer extraordinaire.   Failure means death of Dracon and eternal branding as a foolish child.",
+    "ua": "Здобудьте вічну славу, розбивши великих лазурних драконів за шість місяців. Знищить цих стародавніх тварин, і вас проголосять кращим у світі Убивцею Драконів. Невдача ж буде означати смерть Дракона і посмертну славу дурного молодика на ньому."
+  },
+  {
+    "var": "SLAYER_M3_obj1868_sign_mesg",
+    "field": "map_obj1868_sign_mesg",
+    "en": "Beware the Foothills of the Dragon.",
+    "ua": "Стережіться Передгір'я Дракона."
+  },
+  {
+    "var": "SLAYER_M3_obj2549_guardian_mesg",
+    "field": "map_obj2549_guardian_mesg",
+    "en": "As you pass by the medusa stones you become aware of some medusas that have been sleeping behind the stones awaiting some naive stranger to pass by.  ",
+    "ua": "Проходячи повз каменів медуз, ви дізнаєтесь, що декілька медуз, які спали за камінням, тільки і чекали, коли якийсь наївний чужинець пройде повз них."
+  },
+  {
+    "var": "SLAYER_M3_obj3006_guardian_mesg",
+    "field": "map_obj3006_guardian_mesg",
+    "en": "You close your eyes and say a prayer to your god,  realizing these might be your last steps on level ground for a long time...if ever.     ",
+    "ua": "Ви закриваєте очі і несете молитву вашому богу, розуміючи, що цей шлях може виявитися для вас останнім."
+  },
+  {
+    "var": "SLAYER_M3_obj3008_guardian_mesg",
+    "field": "map_obj3008_guardian_mesg",
+    "en": "Immediately after the battle you sit down for a rest.   \"This is gonna be harder than I thought,\" you think to yourself. ",
+    "ua": "Відразу ж після битви ви сідаєте відпочити. \"Схоже, буде ще важче, ніж здавалося\", - думаєте ви про себе."
+  },
+  {
+    "var": "SLAYER_M3_obj3009_guardian_mesg",
+    "field": "map_obj3009_guardian_mesg",
+    "en": "The journey has been a long one.  And now it is almost over.  The only thing standing between you and your destiny is the Azure Dragon.  Smiling to yourself you ride on ahead to claim the victory that has been waiting for you for so long. ",
+    "ua": "Подорож була довгою. І тепер вона майже закінчена. Єдине, що стоїть між вами і вашим призначенням, - це лазурний дракон. Посміхнувшись про себе, ви поспішаєте вперед, назустріч перемозі, яка чекала вас так довго."
+  },
+  {
+    "var": "SLAYER_M3_obj3016_guardian_mesg",
+    "field": "map_obj3016_guardian_mesg",
+    "en": "After several days up the mountain your army is getting restless.  There have been many hard battles, and many people have died. Your army's morale has been good up until now. Now they are starting to fear. The upcoming battle might be too much for them.  After some rest, they agree to go on. ",
+    "ua": "Провівши кілька днів у горах, ваші воїни почали хвилюватися. Ви пережили багато тяжких битв, і багато загинуло. Але бойовий дух вашої армії був досі високий. Тепер же страх почав роз'їдати його. Грядучий бій може бути занадто жорстоким. Відпочивши трохи, ваше військо погоджується рухатися далі."
+  },
+  {
+    "var": "SLAYER_M3_obj3017_guardian_mesg",
+    "field": "map_obj3017_guardian_mesg",
+    "en": "You and your army have made it this far.  Morale has not been good, but your army has a newly found confidence.  On the ground are deep blue scales coated in blood.  \"If it can bleed, then it can die\" you think to yourself, knowing everyone else must be thinking the same thing.  ",
+    "ua": "Ви і ваша армія поки що тримаєтеся. Бойовий дух був не дуже високий, але раптово сталося щось обнадійливе. Ви знайшли на землі кілька синіх лусочок, покритих кров'ю. \"Якщо йому можна пустити кров, значить, його можна убити\", говорите ви собі, знаючи, що всі інші, мабуть, думають про те ж."
+  },
+  {
+    "var": "SLAYER_M3_obj3983_guardian_mesg",
+    "field": "map_obj3983_guardian_mesg",
+    "en": "Your army has broken up the scales and split them between themselves.  They now wear the scale pieces on their necks and on their armor as good luck.  Everyone is still scared, but knowing something that is said to be unbeatable can be killed has brought morale up.",
+    "ua": "Ваші бійці розламали лусочки і розділили їх між собою. Тепер вони носять осколки луски на шиї або прикріплюють до збруї, як талісман. Вони досі випробовують страх, але усвідомлення того, що монстр, який вважався непереможним, може бути переможений, піднімає бойовий дух."
+  },
+  {
+    "var": "SLAYER_M3_obj3992_monster_mesg",
+    "field": "map_obj3992_monster_mesg",
+    "en": "We are the last stand against our leader.  You will not get by us. ",
+    "ua": "Ми - останній заслон на шляху до нашого господаря. Ми не пропустимо тебе. "
+  },
+  {
+    "var": "SLAYER_M3_obj4003_sign_mesg",
+    "field": "map_obj4003_sign_mesg",
+    "en": "Keep trying, you'll know when you get there.",
+    "ua": "Продовжуй пошуки - ти дізнаєшся, коли натрапиш на потрібне місце."
+  },
+  {
+    "var": "SLAYER_M3_obj4029_monster_mesg",
+    "field": "map_obj4029_monster_mesg",
+    "en": "I have been watching your progress for some time now.  Let's see what you are truly made of...",
+    "ua": "Я вже певний час спостерігаю за твоїм просуванням. Давай подивимося, з чого ти зроблений насправді..."
+  },
+  {
+    "var": "SLAYER_M3_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Intro",
+    "ua": "Intro"
+  },
+  {
+    "var": "SLAYER_M3_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "\"It is now time,\" you tell yourself as you prepare for the long journey.  You have been waiting for this moment for a long time.  Gathering all of the courage you can muster, you set out to face the last challenge that will make you the best Dragon Slayer of them all...the Azure Dragon. ",
+    "ua": "\"Настав час\", говорите ви собі, готуючись у довгу путь. Як довго ви чекали цього моменту! Зібравши всю свою мужність, ви виступаєте в похід, щоб гідно зустріти останнє випробування, успіх в якому зробить вас кращим у світі Убивцею Драконів... ім'я йому - Лазурний дракон."
+  },
+  {
+    "var": "SLAYER_M3_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "No Magic",
+    "ua": "No Magic"
+  },
+  {
+    "var": "SLAYER_M3_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "As you walk around  you notice that the towns around the base of the mountains are very primitive.  They have no mage guilds what-so-ever.  It is then that you realize that you must use your magic wisely, for you have no way of recharging your mana. ",
+    "ua": "Обходячи околиці, ви помічаєте, що міста біля підніжжя гір не можуть похвалитися багатством архітектури. У них немає взагалі ніяких магічних гільдій. У цей момент ви розумієте, що повинні використовувати магію з розумом, оскільки відновити ману тут просто ніде."
+  }
+]

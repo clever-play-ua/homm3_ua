@@ -1,0 +1,1772 @@
+[
+  {
+    "var": "RANDTVRN_1",
+    "en": "\"The Black Dragon may be stronger than a Titan, but not even a Titan could defeat an Archangel without help.\"",
+    "ua": "\"Можливо чорний дракон і сильніший від титана, однак і лише одному титану не перемогти архангела самотужки.\""
+  },
+  {
+    "var": "RANDTVRN_2",
+    "en": "\"A wise man once said, \"\"Don't share your wisdom with anybody.\"\"\"",
+    "ua": "\"Мудрець якось сказав: \"\"Ні з ким не ділися своєю мудрістю\"\".\""
+  },
+  {
+    "var": "RANDTVRN_3",
+    "en": "The scarlet swan swims in a small lake.",
+    "ua": "У маленькому озерці мешкає багряний лебідь."
+  },
+  {
+    "var": "RANDTVRN_4",
+    "en": "Blood is thicker than water.",
+    "ua": "Кров густіша, ніж вода."
+  },
+  {
+    "var": "RANDTVRN_5",
+    "en": "\"What the imps and familiars lack in strength, they make up for in numbers.\"",
+    "ua": "Можливо чорти й біси несильні поодинці, зате вони завжди ходять зграями."
+  },
+  {
+    "var": "RANDTVRN_6",
+    "en": "To thine own self be true.",
+    "ua": "Не відрікайтеся від своєї натури."
+  },
+  {
+    "var": "RANDTVRN_7",
+    "en": "The Cover of Darkness can be used to elude your enemies.",
+    "ua": "За допомогою завіси темряви легко ховатися від ворогів."
+  },
+  {
+    "var": "RANDTVRN_8",
+    "en": "Find the Grail - it is more powerful than you can imagine.",
+    "ua": "Відшукай Грааль - він значно могутніший, ніж ти можеш це собі уявити."
+  },
+  {
+    "var": "RANDTVRN_9",
+    "en": "\"Find a good cartographer.  Though his maps may cost more, they are extremely accurate.\"",
+    "ua": "Розшукай картографа. Його карти недешеві, зате надзвичайно точні."
+  },
+  {
+    "var": "RANDTVRN_10",
+    "en": "Beware Kreegans bearing gifts.",
+    "ua": "Бійтесь криганців, що приносять дари."
+  },
+  {
+    "var": "RANDTVRN_11",
+    "en": "Always protect your missile troops in combat.",
+    "ua": "Завжди прикривай стрільців у бою."
+  },
+  {
+    "var": "RANDTVRN_12",
+    "en": "Sometimes the best way to avoid defeat is by avoiding combat!",
+    "ua": "Інколи уникнути поразки найнадійніше запобігши бою!"
+  },
+  {
+    "var": "RANDTVRN_13",
+    "en": "Attack where your enemy is weak.",
+    "ua": "Завжди шукай слабке місце ворога."
+  },
+  {
+    "var": "RANDTVRN_14",
+    "en": "Did you ever hear the one about the frog who dreamed of being a king... and then became one?",
+    "ua": "Чув анекдот про жабу, яка хотіла стати королем... і стала?"
+  },
+  {
+    "var": "RANDTVRN_15",
+    "en": "A wizard recently discovered a spell that will make a whole ARMY fly!",
+    "ua": "Нещодавно один чарівник винайшов закляття, від якого усе військо піднімається у повітря!"
+  },
+  {
+    "var": "RANDTVRN_16",
+    "en": "Chaos is an Overlord's best friend.",
+    "ua": "Хаос - найкращий друг Верховного лорда."
+  },
+  {
+    "var": "RANDTVRN_17",
+    "en": "It is said that no defense can stand up to the attack of an Ancient Behemoth.",
+    "ua": "Ходять чутки, що жоден захист не витримає натиску стародавнього чудовиська."
+  },
+  {
+    "var": "RANDTVRN_18",
+    "en": "Never get involved in a land war in Erathia.",
+    "ua": "У сухопутну війну з Ерафією краще не вв'язуватися."
+  },
+  {
+    "var": "RANDTVRN_19",
+    "en": "\"Troglodytes have no eyes, but they can still see.\"",
+    "ua": "Дурниці, що у троглодитів немає очей, бачать вони краще за нас."
+  },
+  {
+    "var": "RANDTVRN_20",
+    "en": "\"Never ignore a subterranean gate, lest you allow an enemy to approach unseen.\"",
+    "ua": "Не залишайте підземні тунелі без нагляду. Ворог підкрадеться непоміченим!"
+  },
+  {
+    "var": "RANDTVRN_21",
+    "en": "\"Only the Green and Gold Dragons are good.  Red and Black Dragons serve Nighon, and Bone and Ghost Dragons are the vile creations of the Necromancers.\"",
+    "ua": "Лише зелені та золоті дракони - друзі людини. Червоні та чорні служать Ніґону, а кістляві дракони-привиди - взагалі озлоблені створіння некромантів."
+  },
+  {
+    "var": "RANDTVRN_22",
+    "en": "Today is yesterday's tomorrow.",
+    "ua": "\"\"\"Сьогодні\"\" ще вчора було \"\"завтра\"\".\""
+  },
+  {
+    "var": "RANDTVRN_23",
+    "en": "A traveler told me that the Ironfists of Enroth have lost the mandate of heaven.",
+    "ua": "Один мандрівник нашепотів мені, що династія Айронфіст втратила Благословіння Небес."
+  },
+  {
+    "var": "RANDTVRN_24",
+    "en": "\"Once you've mastered a school of magic, most spells affecting only one unit will now effect all your allies or all your enemies - and sometimes both!\"",
+    "ua": "Варто повною мірою оволодіти школою магії - і закляття, які діяли лише на одну ціль, будуть діяти одразу на всіх дружніх або ворожих істот, а інколи і на тих, і на тих одночасно!"
+  },
+  {
+    "var": "RANDTVRN_25",
+    "en": "\"When travelling across the desert, seek out an oasis, for it will speed your journey.\"",
+    "ua": "Переходячи пустелю, навідайся до оази - це значно пришвидшить рух."
+  },
+  {
+    "var": "RANDTVRN_26",
+    "en": "\"Seek out the learning stones that are scattered about the land.  You can only learn from each one once, but you learn much.\"",
+    "ua": "Не проходь повз каміння вченості, що розкидані по країні. Кожний навчає лише раз, зате багато чому."
+  },
+  {
+    "var": "RANDTVRN_27",
+    "en": "\"There is safety in numbers, especially if those numbers are in the thousands!\"",
+    "ua": "Таємниця безпеки - у кількості, особливо коли вона дорівнює тисячам!"
+  },
+  {
+    "var": "RANDTVRN_28",
+    "en": "Remember that the black dragon is immune to all spells - only a Slayer can bring additional harm to it.",
+    "ua": "\"Пам'ятай, на чорних драконів не діє жодне закляття - лише \"\"Убивця\"\" може завдати їм додаткових пошкоджень.\""
+  },
+  {
+    "var": "RANDTVRN_29",
+    "en": "\"The Haste and Slow spells can be powerful allies in combat, especially at higher levels of proficiency.\"",
+    "ua": "Закляття прискорення чи сповільнення можуть надавати неоціненну допомогу у бою, особливо, якщо ти досяг найвищого рівня майстерності."
+  },
+  {
+    "var": "RANDTVRN_30",
+    "en": "Fight Fire with Protection from Fire.",
+    "ua": "\"Проти вогню допоможе \"\"Оберіг Вогню\"\".\""
+  },
+  {
+    "var": "RANDTVRN_31",
+    "en": "Water can do little harm to those who have mastered it.",
+    "ua": "Вода не завдає шкоди тому, хто підкорив її собі."
+  },
+  {
+    "var": "RANDTVRN_32",
+    "en": "Air can do little harm to those who have mastered it.",
+    "ua": "Повітря не завдає шкоди тому, хто підкорив його собі."
+  },
+  {
+    "var": "RANDTVRN_33",
+    "en": "Earth can do little harm to those who have mastered it.",
+    "ua": "Земля не завдає шкоди тому, хто підкорив її собі."
+  },
+  {
+    "var": "RANDTVRN_34",
+    "en": "The university can teach you anything...  for the right price.",
+    "ua": "В університеті тебе погодяться навчити чому завгодно... були б гроші."
+  },
+  {
+    "var": "RANDTVRN_35",
+    "en": "Archangels are the most powerful creature of the Castles.",
+    "ua": "У Замку немає нікого сильнішого за архангела."
+  },
+  {
+    "var": "RANDTVRN_36",
+    "en": "Gold Dragons are the most powerful creature of the Ramparts.",
+    "ua": "У Бастіоні немає нікого сильнішого за золотого дракона."
+  },
+  {
+    "var": "RANDTVRN_37",
+    "en": "Titans are the most powerful creature of the Towers.",
+    "ua": "У Вежі немає нікого сильнішого за титана."
+  },
+  {
+    "var": "RANDTVRN_38",
+    "en": "Arch Devils are the most powerful creature of the Infernos.",
+    "ua": "В Інферно немає нікого сильнішого за архидиявола."
+  },
+  {
+    "var": "RANDTVRN_39",
+    "en": "Ghost Dragons are the most powerful creature of the Necropolis.",
+    "ua": "У всьому Некрополі немає нікого сильнішого за дракона-привида."
+  },
+  {
+    "var": "RANDTVRN_40",
+    "en": "Black Dragons are the most powerful creature of the Dungeons.",
+    "ua": "У Підземеллі немає нікого сильнішого за чорного дракона."
+  },
+  {
+    "var": "RANDTVRN_41",
+    "en": "Ancient Behemoths are the most powerful creature of the Strongholds.",
+    "ua": "У Твердині немає нікого сильнішого за стародавнього чудовиська."
+  },
+  {
+    "var": "RANDTVRN_42",
+    "en": "Chaos Hydras are the most powerful creature of the Fortresses.",
+    "ua": "У Фортеці немає нікого сильнішого за гідру хаосу."
+  },
+  {
+    "var": "RANDTVRN_43",
+    "en": "\"With the right spell, you can scuttle your boats to prevent your enemies from using them.  It makes for a one way trip, but that's what Summon Boat is for!\"",
+    "ua": "Якщо знати потрібне закляття, можна затопити власний корабель, аби він не дістався ворогові. Мандрівка в один кінець - та на те ти й маг, аби у випадку необхідності викликати новий корабель!"
+  },
+  {
+    "var": "RANDTVRN_44",
+    "en": "Nothing hits the spot quite like my famous Baked Erathian Eel.  No?  Well how about some Pegasus Pot Pie?",
+    "ua": "Скуштуйте мого знаменитого печеного ерафійського вугря! Не бажаєте? А як з приводу пиріжка з пегасятиною?"
+  },
+  {
+    "var": "RANDTVRN_45",
+    "en": "\"Hey, I'm all out of rumors, because people like YOU don't come here enough to share them with me!\"",
+    "ua": "Не знаю я свіжих чуток, пліткарі на кшталт ТЕБЕ не так часто сюди заходять!"
+  },
+  {
+    "var": "RANDTVRN_46",
+    "en": "\"At this time of year, the waters around the elvish island of Vori freeze.\"",
+    "ua": "У цей час море довкола Ельфійскього осторова Ворі замерзає."
+  },
+  {
+    "var": "RANDTVRN_47",
+    "en": "Vori is an isolationist nation.",
+    "ua": "Ворі - окрема нація."
+  },
+  {
+    "var": "RANDTVRN_48",
+    "en": "I've heard the elves of Vori have snow white skin.",
+    "ua": "За чутками, в ельфів з Ворі шкіра біліша снігу!"
+  },
+  {
+    "var": "RANDTVRN_49",
+    "en": "Did you know the elves of AvLee are descended from the elves of Vori?",
+    "ua": "Знаєш, а ельфи Ав-Лі - нащадки мешканців Ворі!"
+  },
+  {
+    "var": "RANDTVRN_50",
+    "en": "Towns with a Citadel attract more troops than a town with a Fort.",
+    "ua": "Варто відбудувати в місті Цитадель - і до тебе буде стікатися більше війська, ніж у місто з Фортом."
+  },
+  {
+    "var": "RANDTVRN_51",
+    "en": "I have heard the Towers trade in artifacts.",
+    "ua": "Кажуть, у Вежах живуть торговці артефактами."
+  },
+  {
+    "var": "RANDTVRN_52",
+    "en": "Do you know the Strongholds trade in creatures?",
+    "ua": "Уявляєш, у Твердинях торгують істотами!"
+  },
+  {
+    "var": "RANDTVRN_53",
+    "en": "I have heard heroes could travel between Infernos without moving.",
+    "ua": "Я чув, герої можуть переміщуватися між Інферно, не роблячи жодного кроку."
+  },
+  {
+    "var": "RANDTVRN_54",
+    "en": "The Thieves' Guild is friend to everyone and no one.",
+    "ua": "Гільдія грабіжників - товариші всім і нікому."
+  },
+  {
+    "var": "RANDTVRN_55",
+    "en": "Any Castle under the guard of the Brotherhood of the Sword stands a better chance in siege combat.",
+    "ua": "Під захистом Братства меча місту легше витримати облогу."
+  },
+  {
+    "var": "RANDTVRN_56",
+    "en": "I've heard the residents of the Castles will construct a giant Colossus to honor any hero who brings them the Grail.",
+    "ua": "За чутками, мешканці Замку зведуть статую Колоса на честь героя, який принесе їм Грааль."
+  },
+  {
+    "var": "RANDTVRN_57",
+    "en": "I've heard the residents of the Ramparts will construct a Spirit Guardian to honor any hero who brings them the Grail.",
+    "ua": "За чутками, мешканці Бастіону зведуть статую Духа-хоронителя в честь героя, який принесе їм Грааль."
+  },
+  {
+    "var": "RANDTVRN_58",
+    "en": "I've heard the residents of the Towers will construct a great Skyship to honor any hero who brings them the Grail.",
+    "ua": "За чутками, мешканці Башні збудують велетенський Небесний корабель на честь сміливця, який принесе їм Грааль."
+  },
+  {
+    "var": "RANDTVRN_59",
+    "en": "I've heard the residents of the Infernos will summon a Diety of Fire to honor any hero who brings them the Grail.",
+    "ua": "За чутками, мешканці Инферно прикличуть Бога Вогню на честь героя, який принесе їм Грааль."
+  },
+  {
+    "var": "RANDTVRN_60",
+    "en": "I've heard the residents of the Necropolis will construct a Soul Prison to honor any hero who brings them the Grail.",
+    "ua": "Я чув, мешканці Некрополісу зведуть Темницю душ на честь героя, який принесе їм Грааль."
+  },
+  {
+    "var": "RANDTVRN_61",
+    "en": "I've heard the residents of the Dungeons will summon a Guardian of Earth to honor any hero who brings them the Grail.",
+    "ua": "Я чув, мешканці Підземелля прикличуть Охоронця землі на честь героя, який принесе їм Грааль."
+  },
+  {
+    "var": "RANDTVRN_62",
+    "en": "I've heard the residents of the Strongholds will construct a Warlords' Monument to honor any hero who brings them the Grail.",
+    "ua": "Кажуть, мешканці Твердині зведуть Монумент полководця на честь героя, який принесе їм Грааль."
+  },
+  {
+    "var": "RANDTVRN_63",
+    "en": "I've heard the residents of the Fortresses will grow a great Carnivorous Plant to honor any hero who brings them the Grail.",
+    "ua": "Кажуть, мешканці Фортеці виростять могутню М'ясоїдну рослину на честь героя, який принесе їм Грааль."
+  },
+  {
+    "var": "RANDTVRN_64",
+    "en": "Erathian horses are the swiftest in the land.",
+    "ua": "Коні з Ерафії - найшвидші в околиці."
+  },
+  {
+    "var": "RANDTVRN_65",
+    "en": "Erathian Marksmen can shoot two arrows in the time a normal Archer could shoot one.",
+    "ua": "Ерафійські лучники випустять дві стріли там, де простий стрілець лише раз натягне тятиву."
+  },
+  {
+    "var": "RANDTVRN_66",
+    "en": "Giffins trained in the royal courts are ferocious defenders.",
+    "ua": "Грифони, вирощенні при дворі - запеклі захисники свого господаря."
+  },
+  {
+    "var": "RANDTVRN_67",
+    "en": "Erathian Crusaders can strike two blows in the time a normal Swordsman could strike once.",
+    "ua": "Ерафійський хрестоносець вдарить двічі там, де звичайний мечник ледве встигне замахнутися мечем."
+  },
+  {
+    "var": "RANDTVRN_68",
+    "en": "Have you heard?  Zealots are beings of pure energy.",
+    "ua": "Чув? Фанатики, виявляється, цілком з чистої енергії!"
+  },
+  {
+    "var": "RANDTVRN_69",
+    "en": "Let your Champions run their enemies through.  You will like the results.  Farther is better.",
+    "ua": "Дозволь своїм чемпіонам насадити ворога на спис. Тобі сподобається. Чим більший розбіг, тим кращий результат."
+  },
+  {
+    "var": "RANDTVRN_70",
+    "en": "Angels fight more ferociously when striking a Devil.",
+    "ua": "Ангели б'ються куди запекліше, коли їхній супротивник диявол."
+  },
+  {
+    "var": "RANDTVRN_71",
+    "en": "\"In the heat of battle, I have seen Archangels resurrect fallen comrades.\"",
+    "ua": "Я бачив, як у запалі бою архангели відроджували своїх загиблих товаришів."
+  },
+  {
+    "var": "RANDTVRN_72",
+    "en": "\"It is said an Angel will brighten the morale of any army, except the dead.\"",
+    "ua": "Кажуть, ангели підвищують бойовий дух війська - якщо воно складається не з нежиті."
+  },
+  {
+    "var": "RANDTVRN_73",
+    "en": "I once saw a Dwarf resist a spell cast upon him.",
+    "ua": "Мені доводилося бачити, як гном встояв проти закляття, направленого на нього."
+  },
+  {
+    "var": "RANDTVRN_74",
+    "en": "It is said the Grand Elven Archers of AvLee can best Erathian Marksmen.",
+    "ua": "Кажуть, вищі ельфи з Ав-Лі стріляють краще навіть від ерафійських лучників."
+  },
+  {
+    "var": "RANDTVRN_75",
+    "en": "It is said a Pegasus will make an enemy spell caster work harder.",
+    "ua": "Кажуть, пегас змусить супротивника як слід попрацювати перш, ніж дозволить себе зачарувати."
+  },
+  {
+    "var": "RANDTVRN_76",
+    "en": "Roots of the Dendroids will bind their enemies in place.",
+    "ua": "Коріння дендроідів обплутують ноги ворога та приковують його до землі."
+  },
+  {
+    "var": "RANDTVRN_77",
+    "en": "\"If you want to protect yourself from spells, stand next to a Unicorn.\"",
+    "ua": "Якщо шукаєш захисту ворожого мага, стань поруч з єдинорогом."
+  },
+  {
+    "var": "RANDTVRN_78",
+    "en": "\"Though not as immune as Gold Dragons, Green Dragons resist most spells.\"",
+    "ua": "У зелених драконів імунітет до магії не такий сильний, як у золотих, та все ж, простим закляттям його не візьмеш."
+  },
+  {
+    "var": "RANDTVRN_79",
+    "en": "\"Gold Dragons resist more spells than Green, but not as much as Black.\"",
+    "ua": "Золотому дракону важче завдати шкоди закляттями, ніж зеленому, і все ж не так важко, як чорному."
+  },
+  {
+    "var": "RANDTVRN_80",
+    "en": "\"Familiars will drain mana from any spells you cast, and give it to their general.\"",
+    "ua": "Чорти беруть ману з кожного закляття супротивника і віддають її своєму генералу."
+  },
+  {
+    "var": "RANDTVRN_81",
+    "en": "\"Magogs throw exploding balls of fire, burning everything around their target.\"",
+    "ua": "Магоги метають вогняні кулі, які спопеляють усе довкола своєї цілі."
+  },
+  {
+    "var": "RANDTVRN_82",
+    "en": "It is impossible to retaliate against the vicious attack of a three-headed Cerberus.",
+    "ua": "Коли на тебе нападе триголовий цербер, просто не встигаєш відповісти ударом на удар."
+  },
+  {
+    "var": "RANDTVRN_83",
+    "en": "Once I saw a Pit Lord resurrect Demons from fallen allies.",
+    "ua": "Я бачив своїми очима, як володар безодні піднімає демонів із тіл загиблих соратників."
+  },
+  {
+    "var": "RANDTVRN_84",
+    "en": "\"Being from the Plane of Fire, Efreet are unaffected by spells of Fire Magic.\"",
+    "ua": "Іфрити походять із Виміру Вогню, і вогняна магія на них не діє."
+  },
+  {
+    "var": "RANDTVRN_85",
+    "en": "Efreet strike with extra furor when attacking Genies.",
+    "ua": "Найбільш запекло іфрити б'ються проти джинів."
+  },
+  {
+    "var": "RANDTVRN_86",
+    "en": "Efreet Sultans are naturally protected by a shield of fire.",
+    "ua": "Султани іфритів захищені природнім вогняним щитом."
+  },
+  {
+    "var": "RANDTVRN_87",
+    "en": "Good luck is not to be had in the presence of Devils.",
+    "ua": "Якщо диявол неподалік, удачі не бачити."
+  },
+  {
+    "var": "RANDTVRN_88",
+    "en": "\"When a Devil travels, it journeys to its plane before returning to our world.\"",
+    "ua": "Коли диявол кудись іде, він переміщується у свій вимір, а тоді знову крокує на землю."
+  },
+  {
+    "var": "RANDTVRN_89",
+    "en": "It is impossible to retaliate against the swiping scythe of a Devil.",
+    "ua": "Коли диявол косить усе живе, відповісти йому неможливо."
+  },
+  {
+    "var": "RANDTVRN_90",
+    "en": "\"When attacking an Angel, Devils strike with tremendous anger.\"",
+    "ua": "Ангелів дияволи б'ють з особливою ненавистю."
+  },
+  {
+    "var": "RANDTVRN_91",
+    "en": "Beware the touch of the Zombies.  You may find yourself with disease.",
+    "ua": "Бережіться дотику зомбі. Неважко й заразу підхопити."
+  },
+  {
+    "var": "RANDTVRN_92",
+    "en": "\"Wights and Wraiths are foul spirits.  If you do not kill one with the first blow, it will heal itself whole.\"",
+    "ua": "Привиди й мара - озлоблені духи. Якщо не вбити їх з одного удару, вони негайно відновлять здоров'я."
+  },
+  {
+    "var": "RANDTVRN_93",
+    "en": "Wraiths subsist on magic energies.  Mana disappears in their presence.",
+    "ua": "Привиди споживають магічну енергію. Варто їм з'явитися - вся мана зникає."
+  },
+  {
+    "var": "RANDTVRN_94",
+    "en": "I have heard the Ghosts of Enroth are far more dangerous than the Wights and Wraiths of Erathia.",
+    "ua": "За чутками, привиди Енроту куди жахливіші та підступніші ерафійських."
+  },
+  {
+    "var": "RANDTVRN_95",
+    "en": "\"On the battlefield, the troop who strikes first, wins most often.\"",
+    "ua": "На полі бою перемога часто за тими, хто перший завдає удару."
+  },
+  {
+    "var": "RANDTVRN_96",
+    "en": "\"On the battlefield, speed is life, life is speed.\"",
+    "ua": "У бою швидкість - це життя, а життя - це швидкість."
+  },
+  {
+    "var": "RANDTVRN_97",
+    "en": "I have seen dying Vampire Lords reborn in the blood of fallen enemies.",
+    "ua": "Я бачив, як вмираючий лорд вампірів оживає, посмакувавши крові своїх жертв."
+  },
+  {
+    "var": "RANDTVRN_98",
+    "en": "It is impossible to retaliate in the face of a Vampire's fearsome assault.",
+    "ua": "Напад вампіра настільки жахливий, що від страху не можеш йому відповісти."
+  },
+  {
+    "var": "RANDTVRN_99",
+    "en": "A Lich's attack shreds the living while leaving the dead unscathed.",
+    "ua": "Ліч вражає усе живе, однак не чіпає своїх співплемінників-мерців."
+  },
+  {
+    "var": "RANDTVRN_100",
+    "en": "A strike from a Black Knight can curse an enemy.",
+    "ua": "Удар чорного лицаря може наслати прокляття."
+  },
+  {
+    "var": "RANDTVRN_101",
+    "en": "Dread Knights are powerful warriors able to cut down their enemies with a powerful death blow.",
+    "ua": "Зловісні лицарі - могутні воїни, здатні одним ударом розрубати ворога навпіл."
+  },
+  {
+    "var": "RANDTVRN_102",
+    "en": "\"On the battlefield, Bone and Ghost Dragons strike fear into the hearts of their enemies.\"",
+    "ua": "Кістяні дракони і дракони-привиди наповнюють жахом серця відважних героїв на полі бою."
+  },
+  {
+    "var": "RANDTVRN_103",
+    "en": "\"Ghost Dragons thirst of the vitality of the young.  Beware, you may find yourself old.\"",
+    "ua": "Дракон-привид впивається енергією молодості. Бережись, постарієш в момент."
+  },
+  {
+    "var": "RANDTVRN_104",
+    "en": "Golems do not have a mind of their own.",
+    "ua": "У големів немає власного розуму."
+  },
+  {
+    "var": "RANDTVRN_105",
+    "en": "Golems are animated through magic means unknown to most men.",
+    "ua": "Големом рухає магія, недоступна для розуміння більшості людей."
+  },
+  {
+    "var": "RANDTVRN_106",
+    "en": "\"Because of their animated nature, Golems endure the punishment of spells longer than most.\"",
+    "ua": "Оскільки големи - штучні створіння, вони довше протистоять руйнівним закляттям."
+  },
+  {
+    "var": "RANDTVRN_107",
+    "en": "It is said Magi and Arch Magi assist heroes in casting their spells.",
+    "ua": "Кажуть, маги та архімаги допомагають героям у чарах."
+  },
+  {
+    "var": "RANDTVRN_108",
+    "en": "Arch Magi throw magic with the precision greater than most archers.",
+    "ua": "Чарівні стріли архімагів вражають точніше, ніж звичайні стріли більшості лучників."
+  },
+  {
+    "var": "RANDTVRN_109",
+    "en": "Efreet are the natural enemies of Genies.",
+    "ua": "Іфрити - природні вороги джинів."
+  },
+  {
+    "var": "RANDTVRN_110",
+    "en": "Genies strike Efreet with a hatred I have rarely seen.",
+    "ua": "Джини кидаються в бій з іфритами із небаченою люттю."
+  },
+  {
+    "var": "RANDTVRN_111",
+    "en": "Master Genies can cast spells as well as any hero.",
+    "ua": "Володарі джинів творять закляття не гірше їхніх полководців."
+  },
+  {
+    "var": "RANDTVRN_112",
+    "en": "\"Under the four- and six-armed attack of a Naga, no one can hope to retaliate.\"",
+    "ua": "Коли нага б'є тебе чотирма, а то й шістьма мечами водночас, удар у відповідь просто не встигаєш завдати."
+  },
+  {
+    "var": "RANDTVRN_113",
+    "en": "A Naga's attack is an exercise in precise swordsmanship.",
+    "ua": "Атака наги - прекрасний зразок майстерного володіння мечем."
+  },
+  {
+    "var": "RANDTVRN_114",
+    "en": "Only the Angel and Archangel can best a Naga in swordsmanship.",
+    "ua": "У бою на мечах нагу переплюнуть лише ангел та архангел."
+  },
+  {
+    "var": "RANDTVRN_115",
+    "en": "Most underestimate the intelligence of Giants and Titans.  Their minds cannot be possessed.",
+    "ua": "Не варто недооцінювати інтелект гігантів та титанів. Їх розум ще нікому не вдалося підкорити."
+  },
+  {
+    "var": "RANDTVRN_116",
+    "en": "Titans will strike Black Dragons with more ferocity than any other enemy.",
+    "ua": "Найзапекліше титани б'ються проти чорних драконів."
+  },
+  {
+    "var": "RANDTVRN_117",
+    "en": "Wolf Raiders are quick creatures.  They'll hit you twice before you can get your shield up.",
+    "ua": "Вершники на вовках швидкі та вправні. Встигають ударити двічі перш, ніж ти встигнеш прикритися щитом."
+  },
+  {
+    "var": "RANDTVRN_118",
+    "en": "Ogre Magi are terrifying monsters.  They stir a bloodlust in their allies I have never seen before.",
+    "ua": "Огри-маги - моторошні супротивники. Вони розпалюють в соратників нестримну жагу крові."
+  },
+  {
+    "var": "RANDTVRN_119",
+    "en": "The attack of a Thunderbird is said to bring lightning from the sky.",
+    "ua": "Кажуть, громовий птах атакує ворога блискавкою."
+  },
+  {
+    "var": "RANDTVRN_120",
+    "en": "\"If you want to conquer a town, bring along several Cyclopes.  Their boulder throwing skills bring town walls faster than any catapult.\"",
+    "ua": "Якщо хочеш захопити місто, не забудь пару циклопів. Своїм камінням вони розтрощать стіни швидше за будь-яку катапульту."
+  },
+  {
+    "var": "RANDTVRN_121",
+    "en": "Few have lived from the assault of a Behemoth.  Some say there is no defense against them.",
+    "ua": "Небагатьом вдалося вижити після сутички з чудовиськом. Кажуть, від них немає захисту."
+  },
+  {
+    "var": "RANDTVRN_122",
+    "en": "\"Because Troglodytes have no eyes, they cannot be blinded.\"",
+    "ua": "У троглодитів немає очей, і тому їх не можна осліпити."
+  },
+  {
+    "var": "RANDTVRN_123",
+    "en": "\"Many armies have fallen under the swooping attacks of Harpies, without causing a single casualty.\"",
+    "ua": "Багато армій впало під нестримним натиском гарпій, так і не вбивши жодної."
+  },
+  {
+    "var": "RANDTVRN_124",
+    "en": "Harpy Hags strike quick and are gone before you have a chance to retaliate.",
+    "ua": "Гарпії-відьми клюють і відлітають вбік, доки їм не встигли дати здачу."
+  },
+  {
+    "var": "RANDTVRN_125",
+    "en": "\"Beholders are the most confident creatures.  Even when surrounded, they do not loose their composure.\"",
+    "ua": "Бехолдери ніколи не втрачають впевненості у собі. Навіть оточені зі всіх боків, вони умудряються зберігати крижаний спокій."
+  },
+  {
+    "var": "RANDTVRN_126",
+    "en": "Many fear the petrifying attack of the Medusa.  You should fear more their golden arrows.",
+    "ua": "Усі бояться погляду медузи, що обертає ворога на камінь. Та її золоті стріли значно небезпечніші."
+  },
+  {
+    "var": "RANDTVRN_127",
+    "en": "\"Even against overwhelming odds, the Minotaur revels in the bloodlust of combat.\"",
+    "ua": "Навіть у нерівному бою, мінотавр, охоплений спрагою крові, шматує своїх ворогів направо й наліво."
+  },
+  {
+    "var": "RANDTVRN_128",
+    "en": "It is said the powerful venom of the Scropicore could paralyze a golem.",
+    "ua": "Кажуть, жало скорпікори здатне паралізувати навіть голема."
+  },
+  {
+    "var": "RANDTVRN_129",
+    "en": "Not a spell in the world could harm the Black Dragon.",
+    "ua": "Жодне заклинання у світі не зможе зашкодити Чорному Дракону."
+  },
+  {
+    "var": "RANDTVRN_130",
+    "en": "It is said the Orb of Vulnerability can humble the mighty Black Dragon.",
+    "ua": "Кажуть, лише Сфера Вразливості може упокорити могутнього Чорного Дракона."
+  },
+  {
+    "var": "RANDTVRN_131",
+    "en": "\"When in battle, it is said Black Dragons seek out Titans.\"",
+    "ua": "\"В битві, якщо вірити словам, Чорний Дракон вишукує титанів.\""
+  },
+  {
+    "var": "RANDTVRN_132",
+    "en": "\"Few understand how, but the Dragon Fly can extinguish spells.\"",
+    "ua": "\"Мало хто розуміє як, але політ дракона гасить заклинання.\""
+  },
+  {
+    "var": "RANDTVRN_133",
+    "en": "Little is known of the Mighty Gorgon.  I once heard to look into its eyes was instant death.",
+    "ua": "Мало відомо про Могутню Горгону.  Якось я чув, що в її очах ховається сама смерть: хто в них загляне - помре на місці."
+  },
+  {
+    "var": "RANDTVRN_134",
+    "en": "Beware the poison of the Wyvern Monarch.  It will rob you of health faster than the beast can fly.",
+    "ua": "Остерігайтесь отрути Виверни Монарха.  Вона забере ваше здоров'я швидше ніж звір може летіти."
+  },
+  {
+    "var": "RANDTVRN_135",
+    "en": "It is impossible to retaliate in the onslaught of the many headed Hydra.",
+    "ua": "Неможливо протистояти натиску багатоголової Гідри."
+  },
+  {
+    "var": "RANDTVRN_136",
+    "en": "\"If you want to learn quickly, visit a Battle Scholars' Academy in a Dungeon.\"",
+    "ua": "Якщо хочете швидко чогось навчитись - відвідайте Академію військових вчених у в'язниці."
+  },
+  {
+    "var": "RANDTVRN_137",
+    "en": "It is believed the Warlocks are able to create a Mana Vortex capable of doubling their mana capacity.",
+    "ua": "Вважається, що Чорнокнижники здатні створити Вир Мани, який подвоює потужність їхньої мани."
+  },
+  {
+    "var": "RANDTVRN_138",
+    "en": "\"With the Portal of Summoning, the Dungeon can recruit creatures from the surface.\"",
+    "ua": "З порталом виклику, в'язниця може вербувати істот з поверхні."
+  },
+  {
+    "var": "RANDTVRN_139",
+    "en": "Fortresses construct the Blood Obelisk to increase the ferocity of their town defenders.",
+    "ua": "Фореці будують Кривавий Обеліск, щоб збільшити лють захисників міста."
+  },
+  {
+    "var": "RANDTVRN_140",
+    "en": "\"After a day in the Cage of Warlords, you will know how to better defend yourself.\"",
+    "ua": "Лише день в Клітці Королів війни - і ти навчишся значно краще захищатись."
+  },
+  {
+    "var": "RANDTVRN_141",
+    "en": "\"When invading an Inferno, you will see Brimstone Stormclouds.  Beware, their spell casters feed on its power.\"",
+    "ua": "При вторгненні пекла ви побачите штормові хмари Брімстона.  Остерігайтесь, їх заклинання живляться його силою."
+  },
+  {
+    "var": "RANDTVRN_142",
+    "en": "It is said Infernos are linked through dimensional portals.  Simple folk call them Castle Gates.",
+    "ua": "Кажуть, пекла пов'язані між собою порталами вимірів.  Простолюдини називають їх Воротами Замку."
+  },
+  {
+    "var": "RANDTVRN_143",
+    "en": "\"If your heroes desire more power, visit the Order of Fire in an Inferno.\"",
+    "ua": "Якщо вашому герою захочеться більше сил, відвідайте Орден Полум'я в пеклі."
+  },
+  {
+    "var": "RANDTVRN_144",
+    "en": "A Cover of Darkness blankets all under the reign of the Necromancers.",
+    "ua": "Покров темряви вкриває усе пеленою влади Некромантів."
+  },
+  {
+    "var": "RANDTVRN_145",
+    "en": "It is believed prisoners of war are led to a Necropolis to be flayed into Skeletons for the undead hordes of the Necromancer and Death Knight.",
+    "ua": "Вважається, що військовополонених приводять до Некрополю, де з них здирають плоть, перетворюючи на скелетів для орди нежиті Некроманта та Лицаря Смерті."
+  },
+  {
+    "var": "RANDTVRN_146",
+    "en": "Some believe each Necropolis builds a 'Necromancy Amplifier' to help its heroes raise the dead.",
+    "ua": "Дехто вірить, що в кожному Некрополі будують 'Підсилювач некроманії' щоб допомогти своїм героям пробуджувати мертвих."
+  },
+  {
+    "var": "RANDTVRN_147",
+    "en": "More rare than the Gem Pond is the Mystic Pond.  You never know what precious resources you will find.",
+    "ua": "Таємниче озеро більш рідкісне ніж ставок Самоцвітів.  Ви не можете знати напевно, які дорогоцінні ресурси там знайдете."
+  },
+  {
+    "var": "RANDTVRN_148",
+    "en": "Ramparts create Fountains of Fortune to imbue its defenders with amazing luck.",
+    "ua": "У твердині створили Фонтан Удачі щоб наповнити його захисників неймовірною удачею."
+  },
+  {
+    "var": "RANDTVRN_149",
+    "en": "\"If you desire money, store it at the Dwarven Treasury in a Rampart.\"",
+    "ua": "Якщо ваше бажання - гроші, зберігайте їх в скарбниці гномів в Твердині."
+  },
+  {
+    "var": "RANDTVRN_150",
+    "en": "Some Strongholds build Escape Tunnels for a quick retreat during a losing siege.",
+    "ua": "Деякі цитаделі будують тунелі для втечі, щоб королі мали змогу швидко відступити в разі втрати трону."
+  },
+  {
+    "var": "RANDTVRN_151",
+    "en": "Heroes visiting the Hall of Valhalla in a Stronghold become better warriors.",
+    "ua": "Герої, котрі відвідали залу Валхалли в Цитаделі стали кращими воїнами."
+  },
+  {
+    "var": "RANDTVRN_152",
+    "en": "\"If you want to know more, visit the glyphic Wall of Knowledge in a Tower.\"",
+    "ua": "Якщо хочете примножити свої знання, відвідайте різьблену стіну Знань у Вежі."
+  },
+  {
+    "var": "RANDTVRN_153",
+    "en": "\"On cursed ground, no one has the advantage.\"",
+    "ua": "На проклятій землі переваги не має ніхто."
+  },
+  {
+    "var": "RANDTVRN_154",
+    "en": "\"On the magic plains, even the common man can cast spells like the greatest wizard.\"",
+    "ua": "На магічних рівнинах навіть простолюдин може накладати заклинання як наймогутніший чаклун."
+  },
+  {
+    "var": "RANDTVRN_155",
+    "en": "I've heard the residents of the Castles will construct a giant Colossus to honor any hero who brings them the Grail.",
+    "ua": "Я чув, що жителі замку побудують велетенський Колос, щоб вшанувати героя, який принесе їм Грааль."
+  },
+  {
+    "var": "RANDTVRN_156",
+    "en": "Any Castle under the guard of the Brotherhood of the Sword stands a better chance in siege combat.",
+    "ua": "Будь-який замок під охороною братства Меча має більше шансів у боротьбі під час облоги."
+  },
+  {
+    "var": "RANDTVRN_157",
+    "en": "The Thieves' Guild is friend to everyone and no one.",
+    "ua": "Гільдія злодіїв - товариш для всіх і нікого."
+  },
+  {
+    "var": "RANDTVRN_158",
+    "en": "I have heard heroes could travel between Infernos without moving.",
+    "ua": "Я чув, Герої можуть подорожувати між пеклами без жодного руху."
+  },
+  {
+    "var": "RANDTVRN_159",
+    "en": "Do you know the Strongholds trade in creatures?",
+    "ua": "Ви знали, що Цитадель торгує істотами?"
+  },
+  {
+    "var": "RANDTVRN_160",
+    "en": "I have heard the Towers trade in artifacts.",
+    "ua": "Я чув, що Вежа торгує артефактами."
+  },
+  {
+    "var": "RANDTVRN_161",
+    "en": "Towns with a Citadel attract more troops than a town with a Fort.",
+    "ua": "Міста, в яких є цитадель, привертають більше ніж міста з фортом."
+  },
+  {
+    "var": "RANDTVRN_162",
+    "en": "\"The Black Dragon may be stronger than a Titan, but not even a Titan could defeat an Archangel without help.\"",
+    "ua": "Чорний Дракон може й сильніший від Титана, але навіть Титан не здолає Архангела без допомоги."
+  },
+  {
+    "var": "RANDTVRN_163",
+    "en": "\"A wise man once said, \"\"Don't share your wisdom with anybody.\"\"\"",
+    "ua": "\"Мудрець сказав, \"\"Не діліться мудрістю ні з ким.\"\"\""
+  },
+  {
+    "var": "RANDTVRN_164",
+    "en": "The scarlet swan swims in a small lake.",
+    "ua": "Яскраво червоний лебідь плаває в невеликому озері."
+  },
+  {
+    "var": "RANDTVRN_165",
+    "en": "Blood is thicker than water.",
+    "ua": "Кров густіша від води."
+  },
+  {
+    "var": "RANDTVRN_166",
+    "en": "\"What the imps and familiars lack in strength, they make up for in numbers.\"",
+    "ua": "Біси та Фамільяри не надто сильні, але компенсують це кількістю."
+  },
+  {
+    "var": "RANDTVRN_167",
+    "en": "To thine own self be true.",
+    "ua": "Будьте чесними з собою."
+  },
+  {
+    "var": "RANDTVRN_168",
+    "en": "The Cover of Darkness can be used to elude your enemies.",
+    "ua": "Ви можете уникати ворогів під покровом темряви."
+  },
+  {
+    "var": "RANDTVRN_169",
+    "en": "Find the Grail - it is more powerful than you can imagine.",
+    "ua": "Знайдіть Грааль - він потужніший, ніж ви можете уявити."
+  },
+  {
+    "var": "RANDTVRN_170",
+    "en": "\"Find a good cartographer.  Though his maps may cost more, they are extremely accurate.\"",
+    "ua": "Знайдіть хорошого картографа.  Його мапи дорожчі, проте неймовірно деталізовані."
+  },
+  {
+    "var": "RANDTVRN_171",
+    "en": "Beware Kreegans bearing gifts.",
+    "ua": "Остерігайтесь дарів, які носять криганці."
+  },
+  {
+    "var": "RANDTVRN_172",
+    "en": "Always protect your missile troops in combat.",
+    "ua": "Завжди захищайте своїх стрільців в битві."
+  },
+  {
+    "var": "RANDTVRN_173",
+    "en": "Sometimes the best way to avoid defeat is by avoiding combat!",
+    "ua": "Інколи найкращий спосіб уникнути поразки - уникати битви!"
+  },
+  {
+    "var": "RANDTVRN_174",
+    "en": "Attack where your enemy is weak.",
+    "ua": "Атакуйте слабке місце ворога."
+  },
+  {
+    "var": "RANDTVRN_175",
+    "en": "Did you ever hear the one about the frog who dreamed of being a king... and then became one?",
+    "ua": "Ви ніколи не чули ту, де жаба мріяла стати королем... а потім ним стала?"
+  },
+  {
+    "var": "RANDTVRN_176",
+    "en": "A wizard recently discovered a spell that will make a whole ARMY fly!",
+    "ua": "Чаклун нещодавно відкрив заклинання, яке змусить усю армію літати!"
+  },
+  {
+    "var": "RANDTVRN_177",
+    "en": "Chaos is an Overlord's best friend.",
+    "ua": "Хаос - найкращий друг сюзерена."
+  },
+  {
+    "var": "RANDTVRN_178",
+    "en": "It is said that no defense can stand up to the attack of an Ancient Behemoth.",
+    "ua": "Кажуть, жоден захист не вистоїть проти атаки древнього чудовиська."
+  },
+  {
+    "var": "RANDTVRN_179",
+    "en": "Never get involved in a land war in Erathia.",
+    "ua": "Ніколи не втручайтесь в сухопутні війни в Ерафії."
+  },
+  {
+    "var": "RANDTVRN_180",
+    "en": "\"Troglodytes have no eyes, but they can still see.\"",
+    "ua": "Троглодити не мають очей, але все добре можуть бачити."
+  },
+  {
+    "var": "RANDTVRN_181",
+    "en": "\"Never ignore a subterranean gate, lest you allow an enemy to approach unseen.\"",
+    "ua": "Ніколи не залишайте підземні ворота без нагляду, інакше дозволите ворогам підійти непоміченими."
+  },
+  {
+    "var": "RANDTVRN_182",
+    "en": "\"Only the Green and Gold Dragons are good.  Red and Black Dragons serve Nighon, and Bone and Ghost Dragons are the vile creations of the Necromancers.\"",
+    "ua": "Серед драконів є лише два добрих - Зелений і Золотий.  Червоний та Чорний дракони служать Ніґону, а Дракон-Скелет та Дракон-Привид - брудні творіння Некромантів."
+  },
+  {
+    "var": "RANDTVRN_183",
+    "en": "Today is yesterday's tomorrow.",
+    "ua": "\"\"\"Сьогодні\"\" - вчорашнє \"\"завтра\"\".\""
+  },
+  {
+    "var": "RANDTVRN_184",
+    "en": "A traveler told me that the Ironfists of Enroth have lost the mandate of heaven.",
+    "ua": "Подорожній сказав мені, що Залізні кулаки втратили небесний мандат."
+  },
+  {
+    "var": "RANDTVRN_185",
+    "en": "\"Once you've mastered a school of magic, most spells affecting only one unit will now effect all your allies or all your enemies - and sometimes both!\"",
+    "ua": "Після вдосконалення школи магії більшість заклинань, що впливали лише на один підрозділ, впливатимуть на усіх ваших союзників чи ворогів, а інколи - на всіх!"
+  },
+  {
+    "var": "RANDTVRN_186",
+    "en": "\"When travelling across the desert, seek out an oasis, for it will speed your journey.\"",
+    "ua": "Коли подорожуєте через пустелю, вишукуйте оази - це прискорить вашу подорож."
+  },
+  {
+    "var": "RANDTVRN_187",
+    "en": "\"Seek out the learning stones that are scattered about the land.  You can only learn from each one once, but you learn much.\"",
+    "ua": "Шукайте навчальні камені, вони розкидані по усій землі.  Ви можете вивчити камінь лише раз, але знань отримаєте багато."
+  },
+  {
+    "var": "RANDTVRN_188",
+    "en": "\"There is safety in numbers, especially if those numbers are in the thousands!\"",
+    "ua": "Безпека в кількості, особливо якщо кількість в тисячах!"
+  },
+  {
+    "var": "RANDTVRN_189",
+    "en": "Remember that the black dragon is immune to all spells - only a Slayer can bring additional harm to it.",
+    "ua": "Не варто забувати, що у чорного дракона є імунітет до усіх заклинань - лише вбивця драконів може завдати йому додаткових пошкоджень."
+  },
+  {
+    "var": "RANDTVRN_190",
+    "en": "\"The Haste and Slow spells can be powerful allies in combat, especially at higher levels of proficiency.\"",
+    "ua": "Швидкі та повільні заклинання можуть стати потужними союзниками, особливо якщо ваша майстерність на високому рівні."
+  },
+  {
+    "var": "RANDTVRN_191",
+    "en": "Fight Fire with Protection from Fire.",
+    "ua": "\"Найкращий спосіб боротьби з вогнем - захист від вогню.\""
+  },
+  {
+    "var": "RANDTVRN_192",
+    "en": "Water can do little harm to those who have mastered it.",
+    "ua": "Вода не завдасть багато шкоди тим, хто освоїв її."
+  },
+  {
+    "var": "RANDTVRN_193",
+    "en": "Air can do little harm to those who have mastered it.",
+    "ua": "Повітря завдасть мало пошкоджень тим, хто освоїв його."
+  },
+  {
+    "var": "RANDTVRN_194",
+    "en": "Earth can do little harm to those who have mastered it.",
+    "ua": "Земля може принести мало шкоди тим, хто освоїв її."
+  },
+  {
+    "var": "RANDTVRN_195",
+    "en": "The university can teach you anything...  for the right price.",
+    "ua": "Університет може дати вам багато знань... За певну плату, звичайно ж."
+  },
+  {
+    "var": "RANDTVRN_196",
+    "en": "Archangels are the most powerful creature of the Castles.",
+    "ua": "Архангели - наймогутніші створіння Замків."
+  },
+  {
+    "var": "RANDTVRN_197",
+    "en": "Gold Dragons are the most powerful creature of the Ramparts.",
+    "ua": "Золоті Дракони - наймогутніші створіння в Твердині."
+  },
+  {
+    "var": "RANDTVRN_198",
+    "en": "Titans are the most powerful creature of the Towers.",
+    "ua": "Титани - наймогутніші створіння Вежі."
+  },
+  {
+    "var": "RANDTVRN_199",
+    "en": "Arch Devils are the most powerful creature of the Infernos.",
+    "ua": "Архідияволи - наймогутніші істоти Інферно."
+  },
+  {
+    "var": "RANDTVRN_200",
+    "en": "Ghost Dragons are the most powerful creature of the Necropolis.",
+    "ua": "Дракони-привиди - наймогутніші створіння Некрополісу."
+  },
+  {
+    "var": "RANDTVRN_201",
+    "en": "Black Dragons are the most powerful creature of the Dungeons.",
+    "ua": "Чорні Дракони - наймогутніші створіння Підземель."
+  },
+  {
+    "var": "RANDTVRN_202",
+    "en": "Ancient Behemoths are the most powerful creature of the Strongholds.",
+    "ua": "Стародавні чудовиська - наймогутніші створіння Цитаделі."
+  },
+  {
+    "var": "RANDTVRN_203",
+    "en": "Chaos Hydras are the most powerful creature of the Fortresses.",
+    "ua": "Гідри Хаосу - наймогутніші істоти Фортеці."
+  },
+  {
+    "var": "RANDTVRN_204",
+    "en": "\"With the right spell, you can scuttle your boats to prevent your enemies from using them.  It makes for a one way trip, but that's what Summon Boat is for!\"",
+    "ua": "З правильним заклинанням ви можете затопити ваші човни, щоб не дозволити ворогам їх використати.  Ваша мандрівка буде лише в один кінець, але для цього і використовують Виклик Судна!"
+  },
+  {
+    "var": "RANDTVRN_205",
+    "en": "Nothing hits the spot quite like my famous Baked Erathian Eel.  No?  Well how about some Pegasus Pot Pie?",
+    "ua": "Ніщо не смакує так, як мій знаменитий ерафійський запечений вугор.  Ні?  Тоді як щодо пирога з пегаса?"
+  },
+  {
+    "var": "RANDTVRN_206",
+    "en": "\"Hey, I'm all out of rumors, because people like YOU don't come here enough to share them with me!\"",
+    "ua": "Гей, я не знаю багато чуток, бо сюди не приходить достатньо таких людей як ТИ, щоб поділитись ними зі мною!"
+  },
+  {
+    "var": "RANDTVRN_207",
+    "en": "\"At this time of year, the waters around the elvish island of Vori freeze.\"",
+    "ua": "В цей час року вода навколо ельфійського острова Ворі замерзає."
+  },
+  {
+    "var": "RANDTVRN_208",
+    "en": "Vori is an isolationist nation.",
+    "ua": "Ворі - нація ізоляціоністів."
+  },
+  {
+    "var": "RANDTVRN_209",
+    "en": "I've heard the elves of Vori have snow white skin.",
+    "ua": "Я чув, у ельфів з Ворі білосніжна шкіра."
+  },
+  {
+    "var": "RANDTVRN_210",
+    "en": "Did you know the elves of AvLee are descended from the elves of Vori?",
+    "ua": "Ти знав, що ельфи з Ав-Лі походять від ельфів з Ворі?"
+  },
+  {
+    "var": "RANDTVRN_211",
+    "en": "Towns with a Citadel attract more troops than a town with a Fort.",
+    "ua": "Міста, в яких є цитадель, мають приріст істот більший ніж міста з фортом."
+  },
+  {
+    "var": "RANDTVRN_212",
+    "en": "I have heard the Towers trade in artifacts.",
+    "ua": "Я чув, що Вежа торгує артефактами."
+  },
+  {
+    "var": "RANDTVRN_213",
+    "en": "Do you know the Strongholds trade in creatures?",
+    "ua": "Ви знали, що Цитадель торгує істотами?"
+  },
+  {
+    "var": "RANDTVRN_214",
+    "en": "I have heard heroes could travel between Infernos without moving.",
+    "ua": "Я чув, герої можуть подорожувати між Інферно без жодного руху."
+  },
+  {
+    "var": "RANDTVRN_215",
+    "en": "The Thieves' Guild is friend to everyone and no one.",
+    "ua": "Гільдія злодіїв - товариш для всіх і нікого."
+  },
+  {
+    "var": "RANDTVRN_216",
+    "en": "Any Castle under the guard of the Brotherhood of the Sword stands a better chance in siege combat.",
+    "ua": "Будь-який замок під охороною братства Меча має більше шансів у боротьбі під час облоги."
+  },
+  {
+    "var": "RANDTVRN_217",
+    "en": "I've heard the residents of the Castles will construct a giant Colossus to honor any hero who brings them the Grail.",
+    "ua": "Я чув що жителі Замків збудують гігантський Колос, щоб вшанувати героя, який принесе їм Грааль."
+  },
+  {
+    "var": "RANDTVRN_218",
+    "en": "I've heard the residents of the Ramparts will construct a Spirit Guardian to honor any hero who brings them the Grail.",
+    "ua": "Я чув що жителі Твердині зведуть Дух Охоронця, щоб вшанувати героя, який принесе їм Грааль."
+  },
+  {
+    "var": "RANDTVRN_219",
+    "en": "I've heard the residents of the Towers will construct a great Skyship to honor any hero who brings them the Grail.",
+    "ua": "Я чув що жителі Вежі збудують величезне небесне судно, щоб вшанувати героя, який принесе їм Грааль."
+  },
+  {
+    "var": "RANDTVRN_220",
+    "en": "I've heard the residents of the Infernos will summon a Diety of Fire to honor any hero who brings them the Grail.",
+    "ua": "Я чув що жителі Інферно викличуть Вогняного Бога, щоб вшанувати героя, який принесе їм Грааль."
+  },
+  {
+    "var": "RANDTVRN_221",
+    "en": "I've heard the residents of the Necropolis will construct a Soul Prison to honor any hero who brings them the Grail.",
+    "ua": "Я чув що жителі Некрополісу збудують В'язницю душ щоб, вшанувати героя, який принесе їм Грааль."
+  },
+  {
+    "var": "RANDTVRN_222",
+    "en": "I've heard the residents of the Dungeons will summon a Guardian of Earth to honor any hero who brings them the Grail.",
+    "ua": "Я чув що жителі Підземель викличуть Охоронця Землі, щоб вшанувати героя, який принесе їм Грааль."
+  },
+  {
+    "var": "RANDTVRN_223",
+    "en": "I've heard the residents of the Strongholds will construct a Warlords' Monument to honor any hero who brings them the Grail.",
+    "ua": "Я чув що жителі Цитаделі збудують Монумент Королів Війни, щоб вшанувати героя, який принесе їм Грааль."
+  },
+  {
+    "var": "RANDTVRN_224",
+    "en": "I've heard the residents of the Fortresses will grow a great Carnivorous Plant to honor any hero who brings them the Grail.",
+    "ua": "Я чув що жителі Фортець виростять величезну М'ясоїдну рослину, щоб вшанувати героя, який принесе їм Грааль."
+  },
+  {
+    "var": "RANDTVRN_225",
+    "en": "Erathian horses are the swiftest in the land.",
+    "ua": "Ерафійські коні найпрудкіші на всіх земних просторах."
+  },
+  {
+    "var": "RANDTVRN_226",
+    "en": "Erathian Marksmen can shoot two arrows in the time a normal Archer could shoot one.",
+    "ua": "Ерафійські стрільці можуть вистрілити дві стріли за той час, що звичайний лучник вистрілює одну."
+  },
+  {
+    "var": "RANDTVRN_227",
+    "en": "Giffins trained in the royal courts are ferocious defenders.",
+    "ua": "Грифони, треновані при королівському дворі - люті захисники."
+  },
+  {
+    "var": "RANDTVRN_228",
+    "en": "Erathian Crusaders can strike two blows in the time a normal Swordsman could strike once.",
+    "ua": "Ерафійські хрестоносці можуть завдати двох ударів за час, який потрібен звичайному мечнику, щоб завдати одного."
+  },
+  {
+    "var": "RANDTVRN_229",
+    "en": "Have you heard?  Zealots are beings of pure energy.",
+    "ua": "Ви чули?  Фанатики - істоти з чистої енергії."
+  },
+  {
+    "var": "RANDTVRN_230",
+    "en": "Let your Champions run their enemies through.  You will like the results.  Farther is better.",
+    "ua": "Нехай ваші чемпіони простромлять ворогів.  Результат вам сподобається.  Чим більший розбіг, тим краще."
+  },
+  {
+    "var": "RANDTVRN_231",
+    "en": "Angels fight more ferociously when striking a Devil.",
+    "ua": "Ангели б'ються більш люто, коли атакують дияволів."
+  },
+  {
+    "var": "RANDTVRN_232",
+    "en": "\"In the heat of battle, I have seen Archangels resurrect fallen comrades.\"",
+    "ua": "В розпалі битви я бачив, як архангели відроджували полеглих товаришів."
+  },
+  {
+    "var": "RANDTVRN_233",
+    "en": "\"It is said an Angel will brighten the morale of any army, except the dead.\"",
+    "ua": "Кажуть, ангел піднімає мораль будь-якого війська, окрім війська нежиті."
+  },
+  {
+    "var": "RANDTVRN_234",
+    "en": "I once saw a Dwarf resist a spell cast upon him.",
+    "ua": "Я якось бачив, як гном протистояв заклинанню, що на нього наклали."
+  },
+  {
+    "var": "RANDTVRN_235",
+    "en": "It is said the Grand Elven Archers of AvLee can best Erathian Marksmen.",
+    "ua": "Кажуть, вищі лучники ельфів з Ав-Лі навіть кращі за ерафійських стрільців."
+  },
+  {
+    "var": "RANDTVRN_236",
+    "en": "It is said a Pegasus will make an enemy spell caster work harder.",
+    "ua": "Кажуть, пегас ускладнює роботу ворожих заклиначів."
+  },
+  {
+    "var": "RANDTVRN_237",
+    "en": "Roots of the Dendroids will bind their enemies in place.",
+    "ua": "Коріння дендроідів може зв'язати їхніх ворогів на місці."
+  },
+  {
+    "var": "RANDTVRN_238",
+    "en": "\"If you want to protect yourself from spells, stand next to a Unicorn.\"",
+    "ua": "\"Якщо хочете захиститись від заклинань - ставайте біля єдинорога.\""
+  },
+  {
+    "var": "RANDTVRN_239",
+    "en": "\"Though not as immune as Gold Dragons, Green Dragons resist most spells.\"",
+    "ua": "Зелені дракони протистоять більшості заклинанням, хоча й не в такій кількості, як золоті дракони."
+  },
+  {
+    "var": "RANDTVRN_240",
+    "en": "\"Gold Dragons resist more spells than Green, but not as much as Black.\"",
+    "ua": "Золоті дракони опираються більшій кількості заклинань, ніж зелені, але все ж не такій кількості, як чорні."
+  },
+  {
+    "var": "RANDTVRN_241",
+    "en": "\"Familiars will drain mana from any spells you cast, and give it to their general.\"",
+    "ua": "Фамільяри витягують ману з ваших заклинань і віддають її своєму генералу."
+  },
+  {
+    "var": "RANDTVRN_242",
+    "en": "\"Magogs throw exploding balls of fire, burning everything around their target.\"",
+    "ua": "Маґоґи кидають вибухові вогняні кулі, які спалюють усе навколо їхньої цілі."
+  },
+  {
+    "var": "RANDTVRN_243",
+    "en": "It is impossible to retaliate against the vicious attack of a three-headed Cerberus.",
+    "ua": "Неможливо протистояти порочному нападу триголового цербера."
+  },
+  {
+    "var": "RANDTVRN_244",
+    "en": "Once I saw a Pit Lord resurrect Demons from fallen allies.",
+    "ua": "Якось я бачив, як володар підземель відроджував полеглих союзних демонів."
+  },
+  {
+    "var": "RANDTVRN_245",
+    "en": "\"Being from the Plane of Fire, Efreet are unaffected by spells of Fire Magic.\"",
+    "ua": "Будучи з площини вогню, іфрити не отримують пошкоджень від заклинань магії Вогню."
+  },
+  {
+    "var": "RANDTVRN_246",
+    "en": "Efreet strike with extra furor when attacking Genies.",
+    "ua": "Іфрити атакують з додатковим гнівом, коли ціль їхньої атаки - джин."
+  },
+  {
+    "var": "RANDTVRN_247",
+    "en": "Efreet Sultans are naturally protected by a shield of fire.",
+    "ua": "Іфрити-султани мають природний щит з полум'я."
+  },
+  {
+    "var": "RANDTVRN_248",
+    "en": "Good luck is not to be had in the presence of Devils.",
+    "ua": "Удача - на неї можете не розраховувати в присутності дияволів."
+  },
+  {
+    "var": "RANDTVRN_249",
+    "en": "\"The Black Dragon may be stronger than a Titan, but not even a Titan could defeat an Archangel without help.\"",
+    "ua": "Чорний дракон може й сильніший від титана, але навіть титан не здолає архангела без допомоги."
+  },
+  {
+    "var": "RANDTVRN_250",
+    "en": "\"A wise man once said, \"\"Don't share your wisdom with anybody.\"\"\"",
+    "ua": "\"Мудрець сказав: \"\"Не діліться мудрістю ні з ким.\"\"\""
+  },
+  {
+    "var": "RANDTVRN_251",
+    "en": "The scarlet swan swims in a small lake.",
+    "ua": "Яскраво червоний лебідь плаває в невеликому озері."
+  },
+  {
+    "var": "RANDTVRN_252",
+    "en": "Blood is thicker than water.",
+    "ua": "Кров густіша від води."
+  },
+  {
+    "var": "RANDTVRN_253",
+    "en": "\"What the imps and familiars lack in strength, they make up for in numbers.\"",
+    "ua": "Біси та фамільяри не надто сильні, але компенсують це кількістю."
+  },
+  {
+    "var": "RANDTVRN_254",
+    "en": "To thine own self be true.",
+    "ua": "Будьте чесними з собою."
+  },
+  {
+    "var": "RANDTVRN_255",
+    "en": "The Cover of Darkness can be used to elude your enemies.",
+    "ua": "Ви можете уникати ворогів під покровом темряви."
+  },
+  {
+    "var": "RANDTVRN_256",
+    "en": "Find the Grail - it is more powerful than you can imagine.",
+    "ua": "Знайдіть Грааль - він потужніший, ніж ви можете уявити."
+  },
+  {
+    "var": "RANDTVRN_257",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_258",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_259",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_260",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_261",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_262",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_263",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_264",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_265",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_266",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_267",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_268",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_269",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_270",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_271",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_272",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_273",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_274",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_275",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_276",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_277",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_278",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_279",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_280",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_281",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_282",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_283",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_284",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_285",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_286",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_287",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_288",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_289",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_290",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_291",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_292",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_293",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_294",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_295",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_296",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_297",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_298",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_299",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_300",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_301",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_302",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_303",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_304",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_305",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_306",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_307",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_308",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_309",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_310",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_311",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_312",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_313",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_314",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_315",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_316",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_317",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_318",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_319",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_320",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_321",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_322",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_323",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_324",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_325",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_326",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_327",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_328",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_329",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_330",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_331",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_332",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_333",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_334",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_335",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_336",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_337",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_338",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_339",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_340",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_341",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_342",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_343",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_344",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_345",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_346",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_347",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_348",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_349",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_350",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_351",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_352",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_353",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "RANDTVRN_354",
+    "en": "",
+    "ua": ""
+  }
+]

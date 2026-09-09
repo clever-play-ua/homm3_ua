@@ -1,0 +1,140 @@
+[
+  {
+    "var": "GELU_M4_prolog",
+    "field": "wrapper_prolog",
+    "en": "The Vampire Lord Vokial has been using the Vial of Lifeblood to supplement his feedings.  Take it, and he will be forced to suffer the indignation of feeding the old fashioned way.  Stealing it from him will cause him great harm and embarrassment.",
+    "ua": "Лорд вампірів Вок'ял, використовував Фіал з кров'ю життя для задоволення своїх апетитів. Заберіть його, і він буде обурений від того, що йому доведеться харчуватися старим способом."
+  },
+  {
+    "var": "GELU_M4_epilog",
+    "field": "wrapper_epilog",
+    "en": "The final artifact needed to construct the Elixir of Life is in the undead hands of the Vampire Lord Vokial.  It is said the Vial of Lifeblood allows him to sustain himself without having to resort to more distasteful means of bloodletting.  Although this artifact can be said to be preventing some evil where it is, our need for the Vial is even more desperate.  You must find a way to steal the Vial from this Vampire.  But keep in mind that not every task need be accomplished by direct means.  Use your training wisely and stay sharp.",
+    "ua": "Останній компонент Еліксиру життя знаходиться в нетлінних руках лорда вампірів Вок'яла. Кажуть, що Фіал з кров'ю життя потрібен йому, щоб підтримувати існування, не вдаючись до ще більш жахливих способів видобутку крові. Цей артефакт славний своєю здатністю протистояти злу, і тому ми просто зобов'язані мати його в нашому арсеналі. Ти повинен знайти спосіб викрасти Фіал у проклятого Вампіра. Пам'ятай, що не кожне завдання можна вирішити простими і явними засобами. Освіжи в пам'яті все, чому тебе вчили, і будь напоготові."
+  },
+  {
+    "var": "GELU_M4_map_name",
+    "field": "map_map_name",
+    "en": "A Thief in the Night",
+    "ua": "Тать в ноші"
+  },
+  {
+    "var": "GELU_M4_map_desc",
+    "field": "map_map_desc",
+    "en": "Steal the Vial of Lifeblood from the Vampire Lord Vokial to create the Elixir of Life and win the campaign.  However, if Gelu is defeated in combat, the scenario is lost.  Gelu is limited to level 25 but will carry his experience, skills and spells on to his next campaign.",
+    "ua": "Укради Фіал з кров'ю життя у лорда вампірів Вок'яла. Це дозволить вам створити Еліксир життя і виграти кампанію. Якщо Ґело впаде в битві, ви програли. Ґело обмежений 25 рівнем, проте його досвід, первинні та вторинні навички, а також Чарівна книга перейдуть у наступну кампанію."
+  },
+  {
+    "var": "GELU_M4_obj884_quest_proposal",
+    "field": "map_obj884_quest_proposal",
+    "en": "\"Psst.  Hey.  Over here.  We hear you are looking for a vial owned by a particular Vampire Lord.  We of the Thieves' Guild are looking for a few things ourselves.  You do us a favor and we do you one in return.  If you bring us the Titan's Gladius and the Sentinel's Shield, we can acquire said vial from this particular Vampire Lord's home.  Do we have a deal?  I thought so.\"",
+    "ua": "\"Тссс! Агов! Ти! Так, саме ти! Чули, що ти шукаєш Фіал, який належить одному лорду вампірів. Ми, Гільдія Злодіїв, теж дещо шукаємо. Допоможи нам, а ми допоможемо тобі. Принеси нам Ґладіус Титана і Щит часового. А ми дістанемо цей Фіал із будинку того самого лорда вампірів. Домовились? Ну от і добре\"."
+  },
+  {
+    "var": "GELU_M4_obj884_quest_progress",
+    "field": "map_obj884_quest_progress",
+    "en": "\"Haven't found it yet, eh?  Well if you want that vial so bad, you better get out there and start looking a little harder, capiche?\"",
+    "ua": "\"Що, не знайшов? Ну, якщо тобі так потрібен цей Фіал, краще бери ноги в руки і починай шукати як слід. Зрозумів?\"."
+  },
+  {
+    "var": "GELU_M4_obj884_quest_completion",
+    "field": "map_obj884_quest_completion",
+    "en": "\"Alright!  Now we're talking merchandise.  So, we had a deal.  Hand over the Sentinel's Shield and Titan's Gladius, and my friend here will give you the Vial of Lifeblood.  Do we have a deal?\"",
+    "ua": "\"Чудово! Тепер можна переходити до справ. Так, домовляємось. Віддай нам Щит часового і Ґладіус Титана, і мій друг передасть тобі Фіал із кров'ю життя. Домовились?\""
+  },
+  {
+    "var": "GELU_M4_obj1403_monster_mesg",
+    "field": "map_obj1403_monster_mesg",
+    "en": "How dare you enter my domain to thieve from us!  Now we shall feast upon your charred remains.",
+    "ua": "Як смієш ти вдиратися в наші володіння і красти наше майно! Сьогодні ми пообідаємо твоїми обгорілими останками!"
+  },
+  {
+    "var": "GELU_M4_obj1408_monster_mesg",
+    "field": "map_obj1408_monster_mesg",
+    "en": "Thieves!  Awaken my children, for lunch is served!",
+    "ua": "Злодії! Прокидайтеся, діти мої, сніданок поданий!"
+  },
+  {
+    "var": "GELU_M4_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Opening",
+    "ua": "Opening"
+  },
+  {
+    "var": "GELU_M4_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "Now the time has come to obtain the Elixir of Life's final component, the Vial of Lifeblood.  For a long time the Vial has been in the clutches of the Vampire Lord Vokial.  He uses the Vial to supplement his need to feed on human blood.  It is said he finds the old fashioned way of feeding to be distasteful, boorish, and beneath one such as he.  Stealing this artifact from him will accomplish two things: complete the Elixir and cause him great embarrassment and discomfort.  It might even kill him, but I doubt we will be so lucky.",
+    "ua": "Прийшов час добути останній компонент Еліксиру життя, Фіал з кров'ю життя. Довгий час Фіал залишався в лапах лорда вампірів Вок'яла. Фіал живить його людською кров'ю. Кажуть, Вок'ял знаходить старий спосіб їжі огидним і грубим і вважає його нижчим своєї гідності. Вкравши у нього Фіал, ви досягнете відразу двох цілей: робота над Еліксиром буде закінчена, а Вок'ялу доведеться пережити жахливе приниження і великі незручності. Можливо, це навіть вб'є його, але я не став би розраховувати на таку велику удачу."
+  },
+  {
+    "var": "GELU_M4_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Words of Encouragement",
+    "ua": "Words of Encouragement"
+  },
+  {
+    "var": "GELU_M4_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "You have served me well thus far, Gelu.  I, Lord Falorel, am pleased with your service and shall report this to your superiors in the Forest Guard.  This joint venture with Erathia has served us well and perhaps will go a long way to heal the wounds suffered in the Timber Wars.  I shall reward your loyalty to me with a small token of gold.  Please accept this with my thankful gratitude for your endeavors to save AvLee and protect her people.",
+    "ua": "Досі ви добре служили мені, Ґело. Я, лорд Фалорель, задоволений вашою службою та сповіщу про це ваших наставників із Лісової варти. Цей похід, здійснений в союзі з Ерафією, дуже допоміг нам, а надалі, можливо, слугуватиме тому, щоб скоріше залікувати рани, завдані Древніми Війнами. Я винагороджу вашу вірність невеликою сумою в золоті. Будь ласка, прийміть цей дар разом з моєю глибокою вдячністю за те, що ви зробили, намагаючись врятувати Ав-Лі і захистити її народ."
+  },
+  {
+    "var": "GELU_M4_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Vokial",
+    "ua": "Вок'ял"
+  },
+  {
+    "var": "GELU_M4_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "Vokial is a powerful vampire lord and will be well defended.  Take great care when you invade Deyja to steal the Vial, for he will be wary of thieves such as you.",
+    "ua": "Вок'ял – могутній лорд вампірів, його будуть захищати. Будьте дуже обережні, намагаючись вкрасти Фіал з Деї. Вок'ял буде готовий до зустрічі зі злодіями, як ви."
+  },
+  {
+    "var": "GELU_M4_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "The Titans Gladius",
+    "ua": "The Titans Gladius"
+  },
+  {
+    "var": "GELU_M4_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "Rumor has it the sword of a Titan can be found guarded by Black Dragons living in a valley to the Southwest.",
+    "ua": "Ходять чутки, що Меч титана знаходиться під охороною чорних драконів, які живуть у долині на північний захід звідси."
+  },
+  {
+    "var": "GELU_M4_mapevent4_name",
+    "field": "map_mapevent4_name",
+    "en": "The Sentinel Shield",
+    "ua": "The Sentinel Shield"
+  },
+  {
+    "var": "GELU_M4_mapevent4_mesg",
+    "field": "map_mapevent4_mesg",
+    "en": "A passerby tells tales of a glimmering shield he saw once somewhere in the Southeast.  He would have taken the shield but a Red Dragon chased him away.",
+    "ua": "Перехожий розповідає байки про блискучий щит, який він бачив одного разу десь на південному сході. Він хотів узяти його, але був звернений до втечі червоним драконом."
+  },
+  {
+    "var": "GELU_M4_mapevent5_name",
+    "field": "map_mapevent5_name",
+    "en": "Beware the Guild of Cutthroats",
+    "ua": "Beware the Guild of Cutthroats"
+  },
+  {
+    "var": "GELU_M4_mapevent5_mesg",
+    "field": "map_mapevent5_mesg",
+    "en": "Be wary of the Thieves Guild, for they are treacherous and cunning.  Make certain you have what they seek and be sure to see the object you seek before you give them that which they desire.",
+    "ua": "Остерігайтеся Гільдії злодіїв: вони хитрі й схильні до зради. Віддайте їм те, чого вони попросять, тільки тоді, коли предмет, який ви шукаєте, виявиться у ваших руках."
+  },
+  {
+    "var": "GELU_M4_mapevent6_name",
+    "field": "map_mapevent6_name",
+    "en": "Elixir",
+    "ua": "Elixir"
+  },
+  {
+    "var": "GELU_M4_mapevent6_mesg",
+    "field": "map_mapevent6_mesg",
+    "en": "Once you have the Vial of Lifeblood, combine it with the Ring of Life and the Ring of Vitality to create the Elixir of Life.  You must have all three to form the Elixir and all three must remain together to keep the Elixir stable.\n\nThe process is simple.  Place the Rings inside the Vial and thrice chant the words on the scroll you were given.  Once you complete the third chant, the Elixir will come into being.  Then bring it to me immediately.",
+    "ua": "Як тільки Фіал з кров'ю життя опиниться в ваших руках, поєднайте його з Перснем життя і Перснем здоров'я, щоб створити Еліксир життя. Для Еліксиру необхідні всі три компоненти, і всі вони повинні залишатися разом, щоб сила Еліксиру не вичерпалася.\n\nРецепт простий. Помістіть Персні у Фіал і тричі промовите заклинання, написане на врученому вам сувої. Як тільки ви вимовите заклинання втретє, Еліксир оживе. Після цього негайно принесіть його мені."
+  }
+]

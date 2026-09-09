@@ -1,0 +1,722 @@
+[
+  {
+    "var": "TOWNNAME_1",
+    "en": "Castellatus",
+    "ua": "Сузір'я"
+  },
+  {
+    "var": "TOWNNAME_2",
+    "en": "Cornerstone",
+    "ua": "Наріжний камінь"
+  },
+  {
+    "var": "TOWNNAME_3",
+    "en": "Kanan",
+    "ua": "Канан"
+  },
+  {
+    "var": "TOWNNAME_4",
+    "en": "Highcastle",
+    "ua": "Високий замок"
+  },
+  {
+    "var": "TOWNNAME_5",
+    "en": "Whitemoon",
+    "ua": "Білий місяць"
+  },
+  {
+    "var": "TOWNNAME_6",
+    "en": "Transom",
+    "ua": "Трансом"
+  },
+  {
+    "var": "TOWNNAME_7",
+    "en": "Middleheim",
+    "ua": "Середзем'я"
+  },
+  {
+    "var": "TOWNNAME_8",
+    "en": "Brettonia",
+    "ua": "Бретонія"
+  },
+  {
+    "var": "TOWNNAME_9",
+    "en": "Alexandretta",
+    "ua": "Александрета"
+  },
+  {
+    "var": "TOWNNAME_10",
+    "en": "Whitestone",
+    "ua": "Білий камінь"
+  },
+  {
+    "var": "TOWNNAME_11",
+    "en": "Claxton",
+    "ua": "Клакстон"
+  },
+  {
+    "var": "TOWNNAME_12",
+    "en": "Armitage",
+    "ua": "Армітаж"
+  },
+  {
+    "var": "TOWNNAME_13",
+    "en": "Whistledale",
+    "ua": "Вістлідер"
+  },
+  {
+    "var": "TOWNNAME_14",
+    "en": "Gateway",
+    "ua": "Шлюз"
+  },
+  {
+    "var": "TOWNNAME_15",
+    "en": "Dunwall",
+    "ua": "Данська стіна"
+  },
+  {
+    "var": "TOWNNAME_16",
+    "en": "Kildare",
+    "ua": "Вбивця"
+  },
+  {
+    "var": "TOWNNAME_17",
+    "en": "Wise Oak",
+    "ua": "Мудрий дуб"
+  },
+  {
+    "var": "TOWNNAME_18",
+    "en": "Forest",
+    "ua": "Лісовий"
+  },
+  {
+    "var": "TOWNNAME_19",
+    "en": "Fortune Keep",
+    "ua": "Щасливий"
+  },
+  {
+    "var": "TOWNNAME_20",
+    "en": "Still Water",
+    "ua": "Вічна вода"
+  },
+  {
+    "var": "TOWNNAME_21",
+    "en": "Elfwind",
+    "ua": "Ельф вітру"
+  },
+  {
+    "var": "TOWNNAME_22",
+    "en": "Serenity",
+    "ua": "Затишний"
+  },
+  {
+    "var": "TOWNNAME_23",
+    "en": "Ceiliedgh",
+    "ua": "Кейліген"
+  },
+  {
+    "var": "TOWNNAME_24",
+    "en": "Gladeroot",
+    "ua": "Луговий корінь"
+  },
+  {
+    "var": "TOWNNAME_25",
+    "en": "Forest Glen",
+    "ua": "Лісовий глен"
+  },
+  {
+    "var": "TOWNNAME_26",
+    "en": "Rainhaven",
+    "ua": "Небесний дощ"
+  },
+  {
+    "var": "TOWNNAME_27",
+    "en": "Strongglen",
+    "ua": "Непорушний"
+  },
+  {
+    "var": "TOWNNAME_28",
+    "en": "Marishen",
+    "ua": "Марішен"
+  },
+  {
+    "var": "TOWNNAME_29",
+    "en": "Bath'iere",
+    "ua": "Безіре"
+  },
+  {
+    "var": "TOWNNAME_30",
+    "en": "Green Falls",
+    "ua": "Зелена хвиля"
+  },
+  {
+    "var": "TOWNNAME_31",
+    "en": "Emerald Moor",
+    "ua": "Смарагдовий мур"
+  },
+  {
+    "var": "TOWNNAME_32",
+    "en": "Wild Willow",
+    "ua": "Дикі поля"
+  },
+  {
+    "var": "TOWNNAME_33",
+    "en": "Machina",
+    "ua": "Макіна"
+  },
+  {
+    "var": "TOWNNAME_34",
+    "en": "Stronggale",
+    "ua": "Непереможний"
+  },
+  {
+    "var": "TOWNNAME_35",
+    "en": "Corona",
+    "ua": "Корона"
+  },
+  {
+    "var": "TOWNNAME_36",
+    "en": "Silverwing",
+    "ua": "Срібне крило"
+  },
+  {
+    "var": "TOWNNAME_37",
+    "en": "Facture",
+    "ua": "Фактура"
+  },
+  {
+    "var": "TOWNNAME_38",
+    "en": "Cloudfire",
+    "ua": "Вогненні хмари"
+  },
+  {
+    "var": "TOWNNAME_39",
+    "en": "Cloudspire",
+    "ua": "Захмарний шпиль"
+  },
+  {
+    "var": "TOWNNAME_40",
+    "en": "Equinox",
+    "ua": "Рівнодення"
+  },
+  {
+    "var": "TOWNNAME_41",
+    "en": "Athenaeum",
+    "ua": "Атенеум"
+  },
+  {
+    "var": "TOWNNAME_42",
+    "en": "Valtara",
+    "ua": "Валтара"
+  },
+  {
+    "var": "TOWNNAME_43",
+    "en": "Tirith",
+    "ua": "Тіріт"
+  },
+  {
+    "var": "TOWNNAME_44",
+    "en": "Fallen Star",
+    "ua": "Осіння зоря"
+  },
+  {
+    "var": "TOWNNAME_45",
+    "en": "Mystos",
+    "ua": "Містика"
+  },
+  {
+    "var": "TOWNNAME_46",
+    "en": "Ayer",
+    "ua": "Повітряний"
+  },
+  {
+    "var": "TOWNNAME_47",
+    "en": "Silverspire",
+    "ua": "Срібний шпиль"
+  },
+  {
+    "var": "TOWNNAME_48",
+    "en": "Manufactury",
+    "ua": "Мануфактура"
+  },
+  {
+    "var": "TOWNNAME_49",
+    "en": "Abaddon",
+    "ua": "Аваддон"
+  },
+  {
+    "var": "TOWNNAME_50",
+    "en": "Acheron",
+    "ua": "Ахерон"
+  },
+  {
+    "var": "TOWNNAME_51",
+    "en": "Ashden",
+    "ua": "Спопелілий"
+  },
+  {
+    "var": "TOWNNAME_52",
+    "en": "Brimstone",
+    "ua": "Камінь Брима"
+  },
+  {
+    "var": "TOWNNAME_53",
+    "en": "Candent",
+    "ua": "Розпечений"
+  },
+  {
+    "var": "TOWNNAME_54",
+    "en": "Cinderspire",
+    "ua": "Недосяжний шпиль"
+  },
+  {
+    "var": "TOWNNAME_55",
+    "en": "Daemon Gate",
+    "ua": "Брама демона"
+  },
+  {
+    "var": "TOWNNAME_56",
+    "en": "Enkindle",
+    "ua": "Вогненний"
+  },
+  {
+    "var": "TOWNNAME_57",
+    "en": "Gehenna",
+    "ua": "Гієна"
+  },
+  {
+    "var": "TOWNNAME_58",
+    "en": "Firebrand",
+    "ua": "Омана"
+  },
+  {
+    "var": "TOWNNAME_59",
+    "en": "Ashcombe",
+    "ua": "Ашкомб"
+  },
+  {
+    "var": "TOWNNAME_60",
+    "en": "Hellwind",
+    "ua": "Пекельний вітер"
+  },
+  {
+    "var": "TOWNNAME_61",
+    "en": "Stygius",
+    "ua": "Стигіус"
+  },
+  {
+    "var": "TOWNNAME_62",
+    "en": "Styx",
+    "ua": "Стікс"
+  },
+  {
+    "var": "TOWNNAME_63",
+    "en": "Tartaros",
+    "ua": "Татар"
+  },
+  {
+    "var": "TOWNNAME_64",
+    "en": "Blackburn",
+    "ua": "Чорний вогонь"
+  },
+  {
+    "var": "TOWNNAME_65",
+    "en": "Haunt's Wind",
+    "ua": "Мисливець вітру"
+  },
+  {
+    "var": "TOWNNAME_66",
+    "en": "Cessacioun",
+    "ua": "Незнищенний"
+  },
+  {
+    "var": "TOWNNAME_67",
+    "en": "Agony",
+    "ua": "Агонія"
+  },
+  {
+    "var": "TOWNNAME_68",
+    "en": "Sanctum",
+    "ua": "Святилище"
+  },
+  {
+    "var": "TOWNNAME_69",
+    "en": "Terminus",
+    "ua": "Вокзал"
+  },
+  {
+    "var": "TOWNNAME_70",
+    "en": "Blackquarter",
+    "ua": "Чорний квартал"
+  },
+  {
+    "var": "TOWNNAME_71",
+    "en": "Death's Gate",
+    "ua": "Брама смерті"
+  },
+  {
+    "var": "TOWNNAME_72",
+    "en": "Grave Raven",
+    "ua": "Могила Ворона"
+  },
+  {
+    "var": "TOWNNAME_73",
+    "en": "Dark Cloud",
+    "ua": "Чорна хмара"
+  },
+  {
+    "var": "TOWNNAME_74",
+    "en": "Coldsoul",
+    "ua": "Холодна душа"
+  },
+  {
+    "var": "TOWNNAME_75",
+    "en": "Coldreign",
+    "ua": "Володар холоду"
+  },
+  {
+    "var": "TOWNNAME_76",
+    "en": "Dark Eternal",
+    "ua": "Чорний дух"
+  },
+  {
+    "var": "TOWNNAME_77",
+    "en": "Ghostwind",
+    "ua": "Дух вітру"
+  },
+  {
+    "var": "TOWNNAME_78",
+    "en": "Blight",
+    "ua": "Отруйний"
+  },
+  {
+    "var": "TOWNNAME_79",
+    "en": "Shadow Keep",
+    "ua": "Тінь"
+  },
+  {
+    "var": "TOWNNAME_80",
+    "en": "Worm Warren",
+    "ua": "Уоррен Хробак"
+  },
+  {
+    "var": "TOWNNAME_81",
+    "en": "Veks",
+    "ua": "Векс"
+  },
+  {
+    "var": "TOWNNAME_82",
+    "en": "Sorrow Crown",
+    "ua": "Корона Саурона"
+  },
+  {
+    "var": "TOWNNAME_83",
+    "en": "Chillwater",
+    "ua": "Зникаючі води"
+  },
+  {
+    "var": "TOWNNAME_84",
+    "en": "Deepshadow",
+    "ua": "Глибокі тіні"
+  },
+  {
+    "var": "TOWNNAME_85",
+    "en": "Darkhold",
+    "ua": "Темний провідник"
+  },
+  {
+    "var": "TOWNNAME_86",
+    "en": "Blindroot",
+    "ua": "Сліпий корінь"
+  },
+  {
+    "var": "TOWNNAME_87",
+    "en": "Shadowden",
+    "ua": "Захмарний"
+  },
+  {
+    "var": "TOWNNAME_88",
+    "en": "Scar",
+    "ua": "Шрам"
+  },
+  {
+    "var": "TOWNNAME_89",
+    "en": "Malev",
+    "ua": "Малев"
+  },
+  {
+    "var": "TOWNNAME_90",
+    "en": "Castigare",
+    "ua": "Кастігер"
+  },
+  {
+    "var": "TOWNNAME_91",
+    "en": "Dragonnade",
+    "ua": "Драконячий"
+  },
+  {
+    "var": "TOWNNAME_92",
+    "en": "Shade",
+    "ua": "Тінь"
+  },
+  {
+    "var": "TOWNNAME_93",
+    "en": "Evernight",
+    "ua": "Вічна ніч"
+  },
+  {
+    "var": "TOWNNAME_94",
+    "en": "Darkburrow",
+    "ua": "Темна нора"
+  },
+  {
+    "var": "TOWNNAME_95",
+    "en": "Lost Hold",
+    "ua": "Забуття"
+  },
+  {
+    "var": "TOWNNAME_96",
+    "en": "Coldshadow",
+    "ua": "Холодні тіні"
+  },
+  {
+    "var": "TOWNNAME_97",
+    "en": "Kragg",
+    "ua": "Крег"
+  },
+  {
+    "var": "TOWNNAME_98",
+    "en": "Drago Breach",
+    "ua": "Міст дракона"
+  },
+  {
+    "var": "TOWNNAME_99",
+    "en": "Hartgrim",
+    "ua": "Похмуре серце"
+  },
+  {
+    "var": "TOWNNAME_100",
+    "en": "Sandflash",
+    "ua": "Піщаний"
+  },
+  {
+    "var": "TOWNNAME_101",
+    "en": "Morganheim",
+    "ua": "Замок Моргани"
+  },
+  {
+    "var": "TOWNNAME_102",
+    "en": "Cragmoor",
+    "ua": "Крагмур"
+  },
+  {
+    "var": "TOWNNAME_103",
+    "en": "Dragonspire",
+    "ua": "Шпиль дракона"
+  },
+  {
+    "var": "TOWNNAME_104",
+    "en": "Battlement",
+    "ua": "Зубці"
+  },
+  {
+    "var": "TOWNNAME_105",
+    "en": "Bocc",
+    "ua": "Бокк"
+  },
+  {
+    "var": "TOWNNAME_106",
+    "en": "Slau",
+    "ua": "Словлен"
+  },
+  {
+    "var": "TOWNNAME_107",
+    "en": "Tormina",
+    "ua": "Терміна"
+  },
+  {
+    "var": "TOWNNAME_108",
+    "en": "Dolere",
+    "ua": "Долоре"
+  },
+  {
+    "var": "TOWNNAME_109",
+    "en": "Rockwarren",
+    "ua": "Мис Ворена"
+  },
+  {
+    "var": "TOWNNAME_110",
+    "en": "Strongglen",
+    "ua": "Сильний Глен"
+  },
+  {
+    "var": "TOWNNAME_111",
+    "en": "Kruber",
+    "ua": "Кровбер"
+  },
+  {
+    "var": "TOWNNAME_112",
+    "en": "Rovener",
+    "ua": "Ровена"
+  },
+  {
+    "var": "TOWNNAME_113",
+    "en": "Marshank",
+    "ua": "Маршанк"
+  },
+  {
+    "var": "TOWNNAME_114",
+    "en": "Deadfall",
+    "ua": "Мертва петля"
+  },
+  {
+    "var": "TOWNNAME_115",
+    "en": "Coolmire",
+    "ua": "Гора нечисті"
+  },
+  {
+    "var": "TOWNNAME_116",
+    "en": "Backwater",
+    "ua": "Відновлені води"
+  },
+  {
+    "var": "TOWNNAME_117",
+    "en": "Marshchoke",
+    "ua": "Маршчок"
+  },
+  {
+    "var": "TOWNNAME_118",
+    "en": "Lostmoor",
+    "ua": "Забутий мур"
+  },
+  {
+    "var": "TOWNNAME_119",
+    "en": "Silt",
+    "ua": "Іл"
+  },
+  {
+    "var": "TOWNNAME_120",
+    "en": "Deadwood",
+    "ua": "Мертвий ліс"
+  },
+  {
+    "var": "TOWNNAME_121",
+    "en": "Edgewater",
+    "ua": "Стояча вода"
+  },
+  {
+    "var": "TOWNNAME_122",
+    "en": "Stillbog",
+    "ua": "Старе болото"
+  },
+  {
+    "var": "TOWNNAME_123",
+    "en": "Drakenmoor",
+    "ua": "Дракенмур"
+  },
+  {
+    "var": "TOWNNAME_124",
+    "en": "Hermit Cove",
+    "ua": "Відлюдник Ков"
+  },
+  {
+    "var": "TOWNNAME_125",
+    "en": "Mosswood",
+    "ua": "Ліс Моса"
+  },
+  {
+    "var": "TOWNNAME_126",
+    "en": "Marshwall",
+    "ua": "Стіна Марша"
+  },
+  {
+    "var": "TOWNNAME_127",
+    "en": "Mossden",
+    "ua": "Мосден"
+  },
+  {
+    "var": "TOWNNAME_128",
+    "en": "Mudshire",
+    "ua": "Звалище"
+  },
+  {
+    "var": "TOWNNAME_129",
+    "en": "Elementon",
+    "ua": "Оселя духів"
+  },
+  {
+    "var": "TOWNNAME_130",
+    "en": "Styriam",
+    "ua": "Стиріам"
+  },
+  {
+    "var": "TOWNNAME_131",
+    "en": "Fenderen",
+    "ua": "Фендерен"
+  },
+  {
+    "var": "TOWNNAME_132",
+    "en": "Lagumoor",
+    "ua": "Лагмур"
+  },
+  {
+    "var": "TOWNNAME_133",
+    "en": "Wazzar",
+    "ua": "Вазар"
+  },
+  {
+    "var": "TOWNNAME_134",
+    "en": "Lanting",
+    "ua": "Лантінг"
+  },
+  {
+    "var": "TOWNNAME_135",
+    "en": "Vluchton",
+    "ua": "Променистий"
+  },
+  {
+    "var": "TOWNNAME_136",
+    "en": "Solium",
+    "ua": "Сонячний"
+  },
+  {
+    "var": "TOWNNAME_137",
+    "en": "Massein",
+    "ua": "Священний"
+  },
+  {
+    "var": "TOWNNAME_138",
+    "en": "Magmetin",
+    "ua": "Магнетичний"
+  },
+  {
+    "var": "TOWNNAME_139",
+    "en": "Ventu",
+    "ua": "Олтар"
+  },
+  {
+    "var": "TOWNNAME_140",
+    "en": "Fleogan Mills",
+    "ua": "Флеоган Мілс"
+  },
+  {
+    "var": "TOWNNAME_141",
+    "en": "Electrising",
+    "ua": "Електрика"
+  },
+  {
+    "var": "TOWNNAME_142",
+    "en": "Ceald",
+    "ua": "Келд"
+  },
+  {
+    "var": "TOWNNAME_143",
+    "en": "Igne",
+    "ua": "Ігне"
+  },
+  {
+    "var": "TOWNNAME_144",
+    "en": "Froisan",
+    "ua": "Заморожений"
+  }
+]

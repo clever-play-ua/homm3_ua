@@ -1,0 +1,15 @@
+{
+  "sequences": [
+    {
+      "group": 0,
+      "frames": [
+        "GTSINGL.dir\\00_00.png",
+        "GTSINGL.dir\\00_01.png",
+        "GTSINGL.dir\\00_02.png",
+        "GTSINGL.dir\\00_03.png"
+      ]
+    }
+  ],
+  "type": 66,
+  "format": 1
+}

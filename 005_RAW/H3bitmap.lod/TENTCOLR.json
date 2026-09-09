@@ -1,0 +1,42 @@
+[
+  {
+    "var": "TENTCOLR_1",
+    "en": "Light blue",
+    "ua": "Блакитний"
+  },
+  {
+    "var": "TENTCOLR_2",
+    "en": "Green",
+    "ua": "Зелений"
+  },
+  {
+    "var": "TENTCOLR_3",
+    "en": "Red",
+    "ua": "Червоний"
+  },
+  {
+    "var": "TENTCOLR_4",
+    "en": "Dark blue",
+    "ua": "Синій"
+  },
+  {
+    "var": "TENTCOLR_5",
+    "en": "Brown",
+    "ua": "Сірий"
+  },
+  {
+    "var": "TENTCOLR_6",
+    "en": "Purple",
+    "ua": "Фіолетовий"
+  },
+  {
+    "var": "TENTCOLR_7",
+    "en": "White",
+    "ua": "Білий"
+  },
+  {
+    "var": "TENTCOLR_8",
+    "en": "Black",
+    "ua": "Чорний"
+  }
+]

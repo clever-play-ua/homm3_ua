@@ -1,0 +1,152 @@
+[
+  {
+    "var": "SECRET1_M2_prolog",
+    "field": "wrapper_prolog",
+    "en": "The Grail has reached Welnin, but now we must build this city into a capital. Armies from Erathia and AvLee shall attack us from all directions. Soon we shall prove that the Contested Lands are theirs no more!",
+    "ua": "Грааль благополучно досяг Вельніна. Залишається перетворити це селище в столичне місто. З усіх боків на нас рухаються війська Ерафії й Ав-Лі. Дуже скоро всі зрозуміють, що Спірні землі незалежні відтепер і навіки!"
+  },
+  {
+    "var": "SECRET1_M2_epilog",
+    "field": "wrapper_epilog",
+    "en": "We have come far very quickly. Armies from Erathia and AvLee have arrived to 'restore order.' This jeopardizes our quest for independence, and such hostile elements could ignite a larger war. It is our duty to establish Welnin as the capitol of the Contested Lands and the drive rule of Erathia and AvLee from this territory. If we do not, we will lose all we have fought for and two great nations may once again re-enact the carnage of the Timber Wars.  Today we declare our independence from the nations of Erathia and AvLee.",
+    "ua": "Ми просуваємося дуже швидко. Приспіли війська Ерафії й Ав-Лі, щоб \"відновити порядок \". Це загрожує нашій боротьбі, до того ж, присутність чужоземних військ може спровокувати громадянську війну серед населення. Наш обов'язок - зробити Вельнін столицею Спірних земель і вийти з-під впливу Ерафії й Ав-Лі. Програвши, ми втратимо все. Два великих народи потонуть у кривавій бійні, як у роки Древніх Воєн. Сьогодні ми оголошуємо про свою незалежність від Ерафії й Ав-Лі."
+  },
+  {
+    "var": "SECRET1_M2_map_name",
+    "field": "map_map_name",
+    "en": "Independence",
+    "ua": "Незалежність"
+  },
+  {
+    "var": "SECRET1_M2_map_desc",
+    "field": "map_map_desc",
+    "en": "To win, you must build a Capitol in the town of Welnin. Only then will the Contested Lands be free!",
+    "ua": "Для перемоги вам необхідно побудувати Капітолій у місті Вельніні. Тільки після цього спірні землі стануть вільними!"
+  },
+  {
+    "var": "SECRET1_M2_obj38_guardian_mesg",
+    "field": "map_obj38_guardian_mesg",
+    "en": "You find 3 wood.",
+    "ua": "Ви знайшли три одиниці деревини."
+  },
+  {
+    "var": "SECRET1_M2_obj42_guardian_mesg",
+    "field": "map_obj42_guardian_mesg",
+    "en": "You find 3 wood.",
+    "ua": "Ви знайшли три одиниці деревини."
+  },
+  {
+    "var": "SECRET1_M2_obj53_town_name",
+    "field": "map_obj53_town_name",
+    "en": "Welnin",
+    "ua": "Велнін"
+  },
+  {
+    "var": "SECRET1_M2_obj63_town_name",
+    "field": "map_obj63_town_name",
+    "en": "Welnin",
+    "ua": "Велнін"
+  },
+  {
+    "var": "SECRET1_M2_obj197_guardian_mesg",
+    "field": "map_obj197_guardian_mesg",
+    "en": "You find 3 wood.",
+    "ua": "Ви знайшли три одиниці деревини."
+  },
+  {
+    "var": "SECRET1_M2_obj200_guardian_mesg",
+    "field": "map_obj200_guardian_mesg",
+    "en": "You find 3 wood.",
+    "ua": "Ви знайшли три одиниці деревини."
+  },
+  {
+    "var": "SECRET1_M2_obj205_guardian_mesg",
+    "field": "map_obj205_guardian_mesg",
+    "en": "You find 3 wood.",
+    "ua": "Ви знайшли три одиниці деревини."
+  },
+  {
+    "var": "SECRET1_M2_obj214_guardian_mesg",
+    "field": "map_obj214_guardian_mesg",
+    "en": "You find 3 wood.",
+    "ua": "Ви знайшли три одиниці деревини."
+  },
+  {
+    "var": "SECRET1_M2_obj218_guardian_mesg",
+    "field": "map_obj218_guardian_mesg",
+    "en": "You find 5 wood.",
+    "ua": "Ви знайшли п'ять одиниць деревини."
+  },
+  {
+    "var": "SECRET1_M2_obj227_guardian_mesg",
+    "field": "map_obj227_guardian_mesg",
+    "en": "You find 5 wood.",
+    "ua": "Ви знайшли три одиниці деревини."
+  },
+  {
+    "var": "SECRET1_M2_obj330_guardian_mesg",
+    "field": "map_obj330_guardian_mesg",
+    "en": "You find 3 wood.",
+    "ua": "Ви знайшли три одиниці деревини."
+  },
+  {
+    "var": "SECRET1_M2_obj332_guardian_mesg",
+    "field": "map_obj332_guardian_mesg",
+    "en": "You find 2 wood.",
+    "ua": "Ви знайшли дві одиниці деревини."
+  },
+  {
+    "var": "SECRET1_M2_obj485_guardian_mesg",
+    "field": "map_obj485_guardian_mesg",
+    "en": "You find 2 wood.",
+    "ua": "Ви знайшли дві одиниці деревини."
+  },
+  {
+    "var": "SECRET1_M2_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Stolen Wood",
+    "ua": "Stolen Wood"
+  },
+  {
+    "var": "SECRET1_M2_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "With wood in such short supply, the 'timber poachers' are running rampant.",
+    "ua": "Вночі знову був набіг на ваші склади деревини, однак тепер вони стали тягнути ще й золото!"
+  },
+  {
+    "var": "SECRET1_M2_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Stolen Wood and Gold",
+    "ua": "Stolen Wood and Gold"
+  },
+  {
+    "var": "SECRET1_M2_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "Overnight your wood stores were raided again, but now they've started taking gold, too!",
+    "ua": "Ми повинні побудувати Вельнін, але всі лісопилки в країні виведені з ладу, до того ж, почали з'являтися розкрадачі лісу."
+  },
+  {
+    "var": "SECRET1_M2_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Wood shortage",
+    "ua": "Wood shortage"
+  },
+  {
+    "var": "SECRET1_M2_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "We must build Welnin, but the sawmills in the area have been sabotaged, and 'timber poachers' have started to appear.",
+    "ua": "На тлі дефіциту деревини пишним цвітом розквітло злодійство лісу."
+  },
+  {
+    "var": "SECRET1_M2_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "Stolen Wood and Gold repeating",
+    "ua": "Stolen Wood and Gold repeating"
+  },
+  {
+    "var": "SECRET1_M2_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "Dispite our best efforts to stop them, the rebels continue to make off with our wood and gold.",
+    "ua": "Попри наші зусилля зупинити їх, бунтівники продовжують розкрадати нашу деревину і золото."
+  }
+]

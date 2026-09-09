@@ -1,0 +1,182 @@
+[
+  {
+    "var": "FINAL_M10_prolog",
+    "field": "wrapper_prolog",
+    "en": "\"Traveler's Be Warned\" is on so many signs leading to this region that some even call it the \"Land of the Be-warned.\"  Three Barbarian brothers rule this contested border between Erathia and Krewlod.  They hardly trust each other, let alone outsiders.  You've been warned.",
+    "ua": "\"Подорожній, остережися!\" Цей напис був на стількох дорожніх знаках, що вказують дорогу в ці краї, що їх стали називати \"Земля Перестороги\". Три брати-варвари заправляють у цій країні між Ерафією і Крюлодом. Вони сліпо довіряють один одному, не розмовляючи з чужинцями. Ти попереджений."
+  },
+  {
+    "var": "FINAL_M10_epilog",
+    "field": "wrapper_epilog",
+    "en": "Crag and I have been scouring the contested border between Erathia and Krewlod for three Barbarian brothers, each holding one of the artifacts we seek.  However, we have been warned that the brothers hardly trust each other, let alone outsiders.  They will not give up the artifacts without a fight.  For that is what we Barbarians do best.",
+    "ua": "Ми з Краґом прочісуємо спірні прикордонні райони між Ерафією і Крюлодом в пошуках трьох братів-варварів, у кожного з яких зберігається по артефакту, за якими ми полюємо. Нас, проте, попередили, що брати не довіряють навіть один одному, не кажучи вже про чужинців. Вони навряд чи розлучаться з артефактами без хорошої бійки. Що-що, а битися ми, варвари, вміємо!"
+  },
+  {
+    "var": "FINAL_M10_map_name",
+    "field": "map_map_name",
+    "en": "Barbarian Brothers",
+    "ua": "Брати-варвари"
+  },
+  {
+    "var": "FINAL_M10_map_desc",
+    "field": "map_map_desc",
+    "en": "Crag Hack and Yog must find the Sword of Judgment, Armor of Wonder, and Lions Shield of Courage to win the scenario.  However, if either hero is defeated in combat, the scenario is lost.  They are limited to level 37 but will carry their experience, skills and spells on to their next scenario.",
+    "ua": "Для того щоб отримати перемогу в цьому сценарії, Краґ Хак і Йоґ повинні знайти Меч правосуддя, Чудовий обладунок і Щит левової хоробрості. Якщо ж будь-який з героїв програє хоча б один бій, сценарій закінчиться поразкою. Герої обмежені 37 рівнем."
+  },
+  {
+    "var": "FINAL_M10_p1_hero_name",
+    "field": "map_p1_hero_name",
+    "en": "Denarm",
+    "ua": "Денарм"
+  },
+  {
+    "var": "FINAL_M10_p1_owned_hero_name",
+    "field": "map_p1_owned_hero_name",
+    "en": "Denarm",
+    "ua": "Денарм"
+  },
+  {
+    "var": "FINAL_M10_p1_owned_hero_name",
+    "field": "map_p1_owned_hero_name",
+    "en": "Zinitha",
+    "ua": "Денарм"
+  },
+  {
+    "var": "FINAL_M10_p2_hero_name",
+    "field": "map_p2_hero_name",
+    "en": "Swankart",
+    "ua": "Сванкарт"
+  },
+  {
+    "var": "FINAL_M10_p2_owned_hero_name",
+    "field": "map_p2_owned_hero_name",
+    "en": "Venthin",
+    "ua": "Вентин"
+  },
+  {
+    "var": "FINAL_M10_p2_owned_hero_name",
+    "field": "map_p2_owned_hero_name",
+    "en": "Swankart",
+    "ua": "Вентин"
+  },
+  {
+    "var": "FINAL_M10_p3_hero_name",
+    "field": "map_p3_hero_name",
+    "en": "Zorlan",
+    "ua": "Зорлан"
+  },
+  {
+    "var": "FINAL_M10_p3_owned_hero_name",
+    "field": "map_p3_owned_hero_name",
+    "en": "Zorlan",
+    "ua": "Зорлан"
+  },
+  {
+    "var": "FINAL_M10_obj486_hero_name",
+    "field": "map_obj486_hero_name",
+    "en": "Zorlan",
+    "ua": "Зорлан"
+  },
+  {
+    "var": "FINAL_M10_obj487_hero_name",
+    "field": "map_obj487_hero_name",
+    "en": "Swankart",
+    "ua": "Сванкарт"
+  },
+  {
+    "var": "FINAL_M10_obj488_hero_name",
+    "field": "map_obj488_hero_name",
+    "en": "Denarm",
+    "ua": "Денарм"
+  },
+  {
+    "var": "FINAL_M10_obj800_sign_mesg",
+    "field": "map_obj800_sign_mesg",
+    "en": "Krewlod-Erathia border zone.  Current controller - King Boragus of Krewlod.",
+    "ua": "Прикордонні землі між Крулодом та Ерафіею. На даний час знаходять під контролем короля Борагуса Крулодского."
+  },
+  {
+    "var": "FINAL_M10_obj1345_hero_name",
+    "field": "map_obj1345_hero_name",
+    "en": "Venthin",
+    "ua": "Вентин"
+  },
+  {
+    "var": "FINAL_M10_obj1346_hero_name",
+    "field": "map_obj1346_hero_name",
+    "en": "Zinitha",
+    "ua": "Зеница"
+  },
+  {
+    "var": "FINAL_M10_obj1722_guardian_mesg",
+    "field": "map_obj1722_guardian_mesg",
+    "en": "A few Crystal Dragons challenge you for the Sword.  Do you wish to fight them?",
+    "ua": "Меч охороняють кілька кристальних драконів. Ви готові вступити з ними в бій?"
+  },
+  {
+    "var": "FINAL_M10_obj1723_guardian_mesg",
+    "field": "map_obj1723_guardian_mesg",
+    "en": "A small group of Red Dragons flies down from the ceiling and challenge you for the shield.  Do you wish to fight them?",
+    "ua": "Кілька червоних драконів спускаються зі склепінь і перегороджують шлях до щита. Ви готові вступити з ними в бій?"
+  },
+  {
+    "var": "FINAL_M10_obj1799_monster_mesg",
+    "field": "map_obj1799_monster_mesg",
+    "en": "These Red Dragons look rather cramped living down here and decide to take their frustration out on you.",
+    "ua": "Місцеві червоні дракони живуть в дуже скрутних умовах, от вони й вирішили зігнати на вас своє роздратування."
+  },
+  {
+    "var": "FINAL_M10_obj1839_guardian_mesg",
+    "field": "map_obj1839_guardian_mesg",
+    "en": "A horde of angry Minotaur Kings challenges you for the Armor of Wonder.  Do you wish to fight them?",
+    "ua": "Ціла юрба розгніваних королівських мінотаврів перегороджує вам шлях до Чудового обладунку. Ви готові стати з ними до бою?"
+  },
+  {
+    "var": "FINAL_M10_obj1883_event_name",
+    "field": "map_obj1883_event_name",
+    "en": "Barbarian brother reinforcements.",
+    "ua": "Barbarian brother reinforcements."
+  },
+  {
+    "var": "FINAL_M10_obj1883_event_mesg",
+    "field": "map_obj1883_event_mesg",
+    "en": "Reinforcements arrive for the BB's.",
+    "ua": "Для братів-варварів прибуло підкріплення."
+  },
+  {
+    "var": "FINAL_M10_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Barbarian brothers.",
+    "ua": "Barbarian brothers."
+  },
+  {
+    "var": "FINAL_M10_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "Yog and Crag Hack discovered that three of the six artifacts that Yog thought he was rid of forever have resurfaced, bought by three Barbarian brothers living in a small contested area of Krewlod.  The brothers might think they have a legal right to the artifacts, but it is just too dangerous for them to be in possession of these pieces, especially if Sandro finds out.",
+    "ua": "Йоґ і Краґ Хак виявили, що три з шести артефактів, від яких Йоґ, як він думав, колись позбувся навіки, раптом знову спливли на поверхню. Тепер вони належать трьом братам, що живуть в одній з областей Крулода, що розривається міжусобицями. Хоча брати вважають, що володіють цими артефактами по праву, вони не розуміють, яку небезпеку несуть ці магічні речі своїм господарям, особливо якщо про них дізнається Сандро."
+  },
+  {
+    "var": "FINAL_M10_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Flood!",
+    "ua": "Flood!"
+  },
+  {
+    "var": "FINAL_M10_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "As Yog and Hack enter the region where the Barbarian Brothers live, a flash flood strikes and separates the heroes.  Yelling across the rapids, they agree to meet further up the river, if possible, believing it must thin or end somewhere.",
+    "ua": "Не встигли Йоґ і Краґ Хак прибути в район, де живуть брати-варвари, як почалася повінь і розділила друзів непереборною перешкодою. Перегукуючись над швидкими водами, вони домовились зустрітися вище за течією, вважаючи, що потопу повинен коли-небудь наступити кінець."
+  },
+  {
+    "var": "FINAL_M10_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Reinforcements.",
+    "ua": "Reinforcements."
+  },
+  {
+    "var": "FINAL_M10_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "Scouts report that the brothers are bringing in reinforcements from other parts of Krewlod to help defend their artifacts.  Conquering their castles here might not mean they're utterly defeated.",
+    "ua": "Розвідники повідомляють, що брати отримують підкріплення з інших частин Крюлода, які повинні допомогти їм захистити артефакти від посягань. Навіть якщо ми захопимо їх замки, ми не зможемо бути впевнені в остаточній перемозі."
+  }
+]

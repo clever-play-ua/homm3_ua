@@ -1,0 +1,80 @@
+[
+  {
+    "var": "EVIL1_M2_prolog",
+    "field": "wrapper_prolog",
+    "en": "Our forces will cover most of the distance to the Erathian capitol by using underground tunnels. To maintain the element of surprise, you must attack any Erathian settlement you find. Use the vast network of caves in this area to accomplish this goal.",
+    "ua": "Велику частину шляху до столиці Ерафії наші війська подолають підземними тунелями. Щоб забезпечити фактор несподіванки, винищуйте всіх у кожному селищі на своєму шляху. Використовуйте розгалужену систему підземних печер."
+  },
+  {
+    "var": "EVIL1_M2_epilog",
+    "field": "wrapper_epilog",
+    "en": "Reports claim a fleet of Enrothian warships have landed on the southern coast of Erathia. We do not know who commands this force, or its size. Through sources in Eeofol, we know Roland Ironfist cannot lead this fleet. Regardless, our plans remain unchanged.  We start the last phase of our underground invasion and solidify our position along the southeastern coast.  Afterwards, we can transport more reinforcements from Nighon.  We have dug the last tunnels to this area.  You will have the tactical advantage.",
+    "ua": "За нашими даними, до південного берега Ерафії пристала військова флотилія Енрота. Ми не знаємо ні її розмірів, ні імені командувача. Наші джерела в Еофолі стверджують, що на чолі може стояти хто завгодно, тільки не Роланд Айронфіст. Як би там не було, це не вплине на наші плани. Ми приступаємо до заключної фази підземного кидка. Необхідно зміцнитися на південно-східному березі. Після цього ми зможемо отримати з Ніґона підкріплення. Всі тунелі туди вже підведені, тому тактичну перевагу тобі забезпечено."
+  },
+  {
+    "var": "EVIL1_M2_map_name",
+    "field": "map_map_name",
+    "en": "Groundbreaking",
+    "ua": "Нова справа"
+  },
+  {
+    "var": "EVIL1_M2_map_desc",
+    "field": "map_map_desc",
+    "en": "To win, you must capture all enemy towns and castles and defeat all enemy heroes. Your Heroes will be limited to 12th level in this scenario, but your 8 strongest Heroes will be available to you in the final scenario of this campaign.",
+    "ua": "Щоб перемогти, вам потрібно захопити всі ворожі міста і замки та розгромити всіх героїв противника. У цьому сценарії ваші герої зможуть піднятися лише до дванадцятого рівня, але вісім найсильніших з них перейдуть з вами до останнього сценарію цієї кампанії."
+  },
+  {
+    "var": "EVIL1_M2_obj635_guardian_mesg",
+    "field": "map_obj635_guardian_mesg",
+    "en": "A voice booms down from the clouds: \"Infidels! You have violated a sacred place, and must be punished!\" You realize that following your greed, rather than your mission, might not have been such a good idea.",
+    "ua": "Гулкий голос несеться з небес: \"Невірні! Ви ступили на священну землю, порушивши заборону, і вас чекає кара!\" Ви розумієте, що, дозволивши жадібності стати своїм компасом і забувши про свою місію, ви зробили помилку."
+  },
+  {
+    "var": "EVIL1_M2_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Day 1 Intro Part 1",
+    "ua": "Day 1 Intro Part 1"
+  },
+  {
+    "var": "EVIL1_M2_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "As we tunneled into the region, we discovered a splinter colony that had long ago been thought lost. If they could be 'persuaded' to join our cause, they could provide us with additional troops needed to secure the surface towns.",
+    "ua": "Прокладаючи шлях до місця, ми виявили поселення однодумців, що відкололися від нас раніше і давно вважалися зниклими. Якщо нам вдасться \"переконати\" їх примкнути до нашої справи, ми отримаємо додаткові війська, необхідні для зміцнення наземних міст."
+  },
+  {
+    "var": "EVIL1_M2_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Day 1 Intro Part 2",
+    "ua": "Day 1 Intro Part 2"
+  },
+  {
+    "var": "EVIL1_M2_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "We also have an agent who has been spying on the towns in the area from a small, secluded island.  Find him, and he will share his knowledge of the area with you.",
+    "ua": "У нас є розвідник, який давно стежить за містами в цих краях, переховуючись на маленькому затишному острові. Знайдіть його, і він поділиться своїми знаннями."
+  },
+  {
+    "var": "EVIL1_M2_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "News",
+    "ua": "News"
+  },
+  {
+    "var": "EVIL1_M2_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "An advisor approaches. \"We have received report that warships from Enroth have landed along the southern coast of Erathia. At this time we do not know who commands this force, nor do we know its size. Through our sources in Eeofol, we know this fleet cannot be led by Roland Ironfist.\"",
+    "ua": "Наближається радник. \"Нами отримано повідомлення. У ньому говориться, що військові кораблі з Енрота пристали до південних берегів Ерафії. Поки ми не знаємо ні імені командувача цими військами, ні їх чисельності. З наших джерел у Еофолі відомо, що на чолі цього флоту не може бути Роланд Айронфіст.\""
+  },
+  {
+    "var": "EVIL1_M2_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "News",
+    "ua": "News"
+  },
+  {
+    "var": "EVIL1_M2_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "An advisor approaches. \"The news is not good. The Enrothian force to the south is led by Catherine Ironfist, daughter to the late King Gryphonheart of Erathia. She commands a large force, and has established a beachhead along the coast.  Unless we hurry, she may very well reach Steadwick before us.\"",
+    "ua": "Наближається радник. \"Погана новина. Силами Енрота на півдні командує Катерина Айронфіст, дочка покійного Короля Ерафії - Гріфонхарта. Вона привела величезне військо і створила береговий плацдарм. Якщо ми не поспішимо, вона зуміє прийти в Стедвік раніше за нас.\""
+  }
+]

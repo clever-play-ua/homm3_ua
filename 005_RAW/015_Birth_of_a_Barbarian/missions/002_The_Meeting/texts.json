@@ -1,0 +1,80 @@
+[
+  {
+    "var": "YOG_M2_prolog",
+    "field": "wrapper_prolog",
+    "en": "Not long after you conquered the town of Groa a messenger arrived from Ulgak, the capital city of Krewlod.  To your surprise, it was from the Duke himself.  As you read through the letter you found out that the Barbarians of Krewlod are quite interested in your skills.",
+    "ua": "Не минуло й тижня з того моменту, як ви завоювали Гроа, як з Улгаку, столиці Крюлода, прибув посланник. На ваш подив, послання було від самого герцога. З листа випливало, що варвари з Крюлода дуже зацікавлені у ваших уміннях."
+  },
+  {
+    "var": "YOG_M2_epilog",
+    "field": "wrapper_epilog",
+    "en": "Since escaping from Bracada, I have been attacked by a number of Krewlod's armies.  I do not understand why this would be, for I was invited here by the Duke himself!  I must travel to the capital to find out why Winston Boragus and all of his forces have turned against me.",
+    "ua": "Варто було мені вирватися з Бракади, як на мене зразу ж напали одна за одною кілька крюлодських ратей. Не розумію, з чого б це, адже мене запросив сам герцог! Доведеться пробиватися до столиці, і вже там я дізнаюся, за що це на мене ополчився Вїнстон Борагус разом з усіма своїми командирами."
+  },
+  {
+    "var": "YOG_M2_map_name",
+    "field": "map_map_name",
+    "en": "The Meeting",
+    "ua": "Зустріч"
+  },
+  {
+    "var": "YOG_M2_map_desc",
+    "field": "map_map_desc",
+    "en": "Get Yog to Ulgak, the capital of Krewlod, to offer his services to Duke Winston Boragus and win the scenario.  However, if Yog is defeated in combat, the scenario is lost.  Yog is limited to level 15 but will carry his experience and skills on to the next scenario.",
+    "ua": "Щоб виграти, Йоґу необхідно прийти в Улгак, столицю Крюлода, і запропонувати свої послуги герцогу Вінстону Борагусу. Якщо Йоґ буде переможений у битві, він програє. Герой обмежений 15 рівнем. Якщо він переможе, його досвід, первинні та вторинні навички перейдуть у наступний сценарій разом із ним."
+  },
+  {
+    "var": "YOG_M2_obj16_town_name",
+    "field": "map_obj16_town_name",
+    "en": "Ulgak",
+    "ua": "Улгак"
+  },
+  {
+    "var": "YOG_M2_obj369_guardian_mesg",
+    "field": "map_obj369_guardian_mesg",
+    "en": "Journal Entry 11: I would think that my being this close to the capital would attract Winston Boragus' attention.  Well, I'm not just going to sit here while they prepare an attack.  I'm going to make this Barbarian pay for duping me!",
+    "ua": "Запис 11: Гадаю, моє наближення до столиці приверне увагу Вінстона Борагуса. Але я не збираюся сидіти склавши руки і чекати, поки він атакує. Я покажу цьому варвару, як обманювати мене!"
+  },
+  {
+    "var": "YOG_M2_obj751_guardian_mesg",
+    "field": "map_obj751_guardian_mesg",
+    "en": "Journal Entry 10:  I tried getting past the garrison, but the Barbarians have packed them pretty tight.  I again considered finding a pass through the mountains, but my army is just too large to survive such a trek.  Fortunately I spotted some caves leading to underground tunnels.  It may be that my luck is turning around because these caves don't look to be guarded.",
+    "ua": "Запис 10: Я спробував прорватися через заставу, але варвари добре захистили її. Мабуть, доведеться йти через гори, але мої війська занадто великі, щоб витримати подібний перехід. На щастя, я знайшов декілька печер, в яких починаються підземні тунелі. Здається, удача повернулася до мене - печери не охороняються."
+  },
+  {
+    "var": "YOG_M2_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Intro",
+    "ua": "Intro"
+  },
+  {
+    "var": "YOG_M2_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "Aine gave up pursuit even sooner than you hoped.  Not wanting to start a war between Bracada and Krewlod, she retreated shortly after you crossed the border.  To be on the safe side, you still decided to lay low for a couple of weeks before beginning your trek to Ulgak, Krewlod's capital city, to offer your services to Duke Winston Boragus.",
+    "ua": "Ейне відмовилася від погоні навіть раніше, ніж ви очікували. Не бажаючи розв'язувати війну між Бракадою і Крюлодом, вона відступила незабаром після того, як ви перейшли кордон. Однак з метою безпеки ви вирішуєте триматися тихо ще кілька тижнів, а потім почати свій шлях в Улгак, столицю Крюлода, щоб запропонувати свої послуги герцогу Вінстону Борагусу."
+  },
+  {
+    "var": "YOG_M2_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Journal Entry 8 - Day 2",
+    "ua": "Journal Entry 8 - Day 2"
+  },
+  {
+    "var": "YOG_M2_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "Journal Entry 8: My scouts report that there are several routes leading to Ulgak, but large garrisons guard them all.  Krewlod must be expecting a major threat if it all its forces are on alert!  I much reach the capital quickly to offer my assistance.",
+    "ua": "Запис 8: Розвідники повідомляють, що в Улгак веде кілька доріг, але всіх їх охороняють великі гарнізони. У Крюлоді, мабуть, чекають чогось неприємного, якщо всі війська країни приведені в бойову готовність! Треба швидше потрапити до столиці."
+  },
+  {
+    "var": "YOG_M2_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Journal Entry 9 - Day 4",
+    "ua": "Journal Entry 9 - Day 4"
+  },
+  {
+    "var": "YOG_M2_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "Journal Entry 9: My scouts reported have returned with very disturbing news.  Krewlod is readying its military to go to war with my army and me.  I have been tricked!  Duke Winston Boragus lured me here with his invitation to join him, and now I find myself surrounded by hostile forces.  I don't know why I should be the target of such a ploy, but I mean to find out.  I will fight my way to Winston Boragus' doorstep and cut his treacherous throat!",
+    "ua": "Запис 9: Розвідники повернулися з поганими новинами. Крюлод готує війська, щоб поборотися зі мною. Мене зловили в пастку! Герцог Вїнстон Борагус заманив мене сюди, і тепер я в оточенні ворожих військ. Не знаю, навіщо йому знадобився саме я, але неодмінно це з'ясую. Я проб'ю собі шлях до порогу Вінстона Борагуса і переріжу його брехливу горлянку."
+  }
+]

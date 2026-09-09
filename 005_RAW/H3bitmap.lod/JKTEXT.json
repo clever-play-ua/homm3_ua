@@ -1,0 +1,222 @@
+[
+  {
+    "var": "JKTEXT_1",
+    "en": "Hero Window",
+    "ua": "Hero Window"
+  },
+  {
+    "var": "JKTEXT_2",
+    "en": "Attack",
+    "ua": "Атака"
+  },
+  {
+    "var": "JKTEXT_3",
+    "en": "Defense",
+    "ua": "Захист"
+  },
+  {
+    "var": "JKTEXT_4",
+    "en": "Power",
+    "ua": "Магія"
+  },
+  {
+    "var": "JKTEXT_5",
+    "en": "Knowledge",
+    "ua": "Знання"
+  },
+  {
+    "var": "JKTEXT_6",
+    "en": "{Specialty}",
+    "ua": "{Спеціальність}"
+  },
+  {
+    "var": "JKTEXT_7",
+    "en": "{Experience}",
+    "ua": "{Досвід}"
+  },
+  {
+    "var": "JKTEXT_8",
+    "en": "{Spell Points}",
+    "ua": "{Очки магії}"
+  },
+  {
+    "var": "JKTEXT_9",
+    "en": "\"Quest\nLog\"",
+    "ua": "\"Щоденник\nзавдань\""
+  },
+  {
+    "var": "JKTEXT_10",
+    "en": "\"Dismiss\nHero\"",
+    "ua": "\"Звільнити\nгероя\""
+  },
+  {
+    "var": "JKTEXT_11",
+    "en": "Overview Window",
+    "ua": "Overview Window"
+  },
+  {
+    "var": "JKTEXT_12",
+    "en": "Gold Per Day:",
+    "ua": "Щоденний прибуток:"
+  },
+  {
+    "var": "JKTEXT_13",
+    "en": "Shipyard Window",
+    "ua": "Shipyard Window"
+  },
+  {
+    "var": "JKTEXT_14",
+    "en": "Build A New Ship",
+    "ua": "Збудувати новий корабель"
+  },
+  {
+    "var": "JKTEXT_15",
+    "en": "Resource cost:",
+    "ua": "Необхідні ресурси:"
+  },
+  {
+    "var": "JKTEXT_16",
+    "en": "Thieves Guild Window",
+    "ua": "Thieves Guild Window"
+  },
+  {
+    "var": "JKTEXT_17",
+    "en": "1st",
+    "ua": "1-й"
+  },
+  {
+    "var": "JKTEXT_18",
+    "en": "2nd",
+    "ua": "2-й"
+  },
+  {
+    "var": "JKTEXT_19",
+    "en": "3rd",
+    "ua": "3-й"
+  },
+  {
+    "var": "JKTEXT_20",
+    "en": "4th",
+    "ua": "4-й"
+  },
+  {
+    "var": "JKTEXT_21",
+    "en": "5th",
+    "ua": "5-й"
+  },
+  {
+    "var": "JKTEXT_22",
+    "en": "6th",
+    "ua": "6-й"
+  },
+  {
+    "var": "JKTEXT_23",
+    "en": "7th",
+    "ua": "7-й"
+  },
+  {
+    "var": "JKTEXT_24",
+    "en": "8th",
+    "ua": "8-й"
+  },
+  {
+    "var": "JKTEXT_25",
+    "en": "Number of Towns",
+    "ua": "Кількість міст"
+  },
+  {
+    "var": "JKTEXT_26",
+    "en": "Number of Heroes",
+    "ua": "Кількість героїв"
+  },
+  {
+    "var": "JKTEXT_27",
+    "en": "Gold",
+    "ua": "Золото"
+  },
+  {
+    "var": "JKTEXT_28",
+    "en": "Wood & Ore",
+    "ua": "Деревина і руда"
+  },
+  {
+    "var": "JKTEXT_29",
+    "en": "\"Merc, Sulf, Cryst & Gems\"",
+    "ua": "Інші ресурси"
+  },
+  {
+    "var": "JKTEXT_30",
+    "en": "Obelisks Found",
+    "ua": "знайдено обелісків"
+  },
+  {
+    "var": "JKTEXT_31",
+    "en": "Artifacts",
+    "ua": "Артефакти"
+  },
+  {
+    "var": "JKTEXT_32",
+    "en": "Kingdom Army Strength",
+    "ua": "Сила армії королівства"
+  },
+  {
+    "var": "JKTEXT_33",
+    "en": "Income",
+    "ua": "Прибуток"
+  },
+  {
+    "var": "JKTEXT_34",
+    "en": "Best Hero",
+    "ua": "Кращий герой"
+  },
+  {
+    "var": "JKTEXT_35",
+    "en": "Personality",
+    "ua": "Особистість"
+  },
+  {
+    "var": "JKTEXT_36",
+    "en": "Best Monster",
+    "ua": "Кращий монстр"
+  },
+  {
+    "var": "JKTEXT_37",
+    "en": "Tavern Window",
+    "ua": "Tavern Window"
+  },
+  {
+    "var": "JKTEXT_38",
+    "en": "Tavern",
+    "ua": "Корчма"
+  },
+  {
+    "var": "JKTEXT_39",
+    "en": "Heroes for Hire",
+    "ua": "Доступні герої"
+  },
+  {
+    "var": "JKTEXT_40",
+    "en": "Town Gate Window",
+    "ua": "Town Gate Window"
+  },
+  {
+    "var": "JKTEXT_41",
+    "en": "Town Gate",
+    "ua": "Брама міста"
+  },
+  {
+    "var": "JKTEXT_42",
+    "en": "Select a town through the gate.",
+    "ua": "Вибрати місто"
+  },
+  {
+    "var": "JKTEXT_43",
+    "en": "Blacksmith Window",
+    "ua": "Blacksmith Window"
+  },
+  {
+    "var": "JKTEXT_44",
+    "en": "Resource cost:",
+    "ua": "Необхідні ресурси:"
+  }
+]

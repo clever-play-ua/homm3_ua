@@ -1,0 +1,797 @@
+[
+  {
+    "var": "HEROSPEC_Bonus",
+    "en": "Bonus\tBonus\t",
+    "ua": "Bonus\tBonus\t"
+  },
+  {
+    "var": "HEROSPEC_(short)",
+    "en": "(short)\t(long)\tRight Click Text",
+    "ua": "(short)\t(long)\tRight Click Text"
+  },
+  {
+    "var": "HEROSPEC_Archery",
+    "en": "Archery\tSecondary Skill Bonus: Archery\tReceives a 5% per level bonus to Archery skill percentage.",
+    "ua": "Стрілець\t\"Покращення навички \"\"Стрільба\"\"\"\t\"\"\"Стрільба\"\" покращується на 5% за кожен рівень.\""
+  },
+  {
+    "var": "HEROSPEC_Archers",
+    "en": "Archers\tCreature Bonus: Archers\tIncreases the Attack and Defense skills of any Archers or Marksmen for each level attained after 2nd level.",
+    "ua": "Лучники\tПокращення навичок: лучники\tЗбільшує атаку і захист всіх стрільців та лучників при одержанні кожного рівня, починаючи з другого."
+  },
+  {
+    "var": "HEROSPEC_Griffins",
+    "en": "Griffins\tCreature Bonus: Griffins\tIncreases the Attack and Defense skills of any Griffins or Royal Griffins or each level attained after 3rd level.",
+    "ua": "Грифони\tПокращення навичок: грифони\tЗбільшує атаку і захист всіх грифонів та королівських грифонів за кожен рівень після третього."
+  },
+  {
+    "var": "HEROSPEC_Navigation",
+    "en": "Navigation\tSecondary Skill Bonus: Navigation\tReceives a 5% per level bonus to Navigation skill percentage.",
+    "ua": "Навігація\t\"Покращення навички \"\"Навігація\"\"\"\t\"Навичка \"\"Навігація\"\" збільшує свою ефективність на 5% за кожен рівень.\""
+  },
+  {
+    "var": "HEROSPEC_Estates",
+    "en": "Estates\tSecondary Skill Bonus: Estates\tReceives a 5% per level bonus to Estates skill.",
+    "ua": "Скарбник\t\"Покращення навички \"\"Скарбник\"\"\"\t\"Навичка \"\"Скарбник\"\" збільшує свою ефективність на 5% за кожен рівень.\""
+  },
+  {
+    "var": "HEROSPEC_Swordsmen",
+    "en": "Swordsmen\tCreature Bonus: Swordsmen\tIncreases the Attack and Defense skills of any Swordsmen or Crusaders for each level attained after 4th level.",
+    "ua": "Мечники\tПокращення навичок: мечники\tЗбільшує атаку і захист всіх мечників та хрестоносців за кожен рівень після четвертого."
+  },
+  {
+    "var": "HEROSPEC_Ballista",
+    "en": "Ballista\tArtillery Bonus: Ballista\tIncreases the Attack and Defense skill of any Ballista for each level attained after 4th level.",
+    "ua": "Баліста\tПокращення артилерії: баліста\tЗбільшує атаку і захист баліст при одержанні нового рівня, починаючи з четвертого."
+  },
+  {
+    "var": "HEROSPEC_Cavaliers",
+    "en": "Cavaliers\tCreature Bonus: Cavaliers\tIncreases the Attack and Defense skills of any Cavaliers or Champions for each level attained after 6th level.",
+    "ua": "Вершники\tПокращення навичок: вершники\tЗбільшує атаку і захист всіх вершників і чемпіонів за кожен рівень після шостого."
+  },
+  {
+    "var": "HEROSPEC_First Aid",
+    "en": "First Aid\tSecondary Skill Bonus: First Aid\tReceives a 5% per level bonus to First Aid skill.",
+    "ua": "Перша допомога\t\"Покращення навички \"\"Перша допомога\"\"\"\t\"\"\"Перша допомога\"\" посилюється на 5% за кожен рівень.\""
+  },
+  {
+    "var": "HEROSPEC_Bless",
+    "en": "Bless\tSpell Bonus: Bless\t\"Casts Bless with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units).\"",
+    "ua": "Благословення\t\"Посилення ефекту закляття \"\"Благословення\"\"\"\t\"Ефект закляття \"\"Благословення\"\" посилюється залежно від того, як рівень героя переважає рівень цілі (діє сильніше на слабкі війська).\""
+  },
+  {
+    "var": "HEROSPEC_Weakness",
+    "en": "Weakness\tSpell Bonus: Weakness\t\"Casts Weakness with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units).\"",
+    "ua": "Слабкість\t\"Посилення ефекту закляття \"\"Слабкість\"\"\"\t\"Ефект закляття \"\"Слабкість\"\" посилюється залежно від того, як рівень героя переважає рівень цілі (діє сильніше на слабкі війська).\""
+  },
+  {
+    "var": "HEROSPEC_Frost Ring",
+    "en": "Frost Ring\tSpell Bonus: Frost Ring\t\"Casts Frost Ring with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units).\"",
+    "ua": "Крижане коло\t\"Посилення ефекту закляття \"\"Крижане коло\"\"\"\t\"Ефект закляття \"\"Крижане коло\"\" посилюється залежно від того, як рівень героя переважає рівень цілі (діє сильніше на слабкі війська).\""
+  },
+  {
+    "var": "HEROSPEC_Monks",
+    "en": "Monks\tCreature Bonus: Monks\tIncreases the Attack and Defense skills of any Monks or Zealots for each level attained after 5th level.",
+    "ua": "Монахи\tПокращення навичок: монахи\tЗбільшує атаку і захист всіх монахів і фанатиків за кожен рівень після п'ятого."
+  },
+  {
+    "var": "HEROSPEC_Eagle Eye",
+    "en": "Eagle Eye\tSecondary Skill Bonus: Eagle Eye\tReceives a 5% per level bonus to Eagle Eye skill percentage.",
+    "ua": "Орлине око\t\"Бонус до навички \"\"Орлине око\"\"\"\t\"\"\"Орлине око\"\" посилюється на 5% за кожен рівень.\""
+  },
+  {
+    "var": "HEROSPEC_Prayer",
+    "en": "Prayer\tSpell Bonus: Prayer\t\"Casts Prayer with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units).\"",
+    "ua": "Молитва\t\"Посилення ефекту закляття \"\"Молитва\"\"\"\t\"Ефект закляття \"\"Молитва\"\" посилюється залежно від того, як рівень героя переважає рівень цілі (діє сильніше на слабкі війська).\""
+  },
+  {
+    "var": "HEROSPEC_+350 Gold",
+    "en": "+350 Gold\t+350 Gold each day\tIncreases kingdom's income by 350 gold per day.",
+    "ua": "+350 зол./день\t+350 золотих щоденно\tЗбільшує прибуток королівства на 350 золотих щоденно."
+  },
+  {
+    "var": "HEROSPEC_Armorer",
+    "en": "Armorer\tSecondary Skill Bonus: Armorer\tReceives a 5% per level bonus to Armorer skill percentage.",
+    "ua": "Захист\t\"Покращення навички \"\"Захист\"\"\"\t\"\"\"Захист\"\" збільшується на 5% за кожний рівень.\""
+  },
+  {
+    "var": "HEROSPEC_Dwarves",
+    "en": "Dwarves\tCreature Bonus: Dwarves\tIncreases the Attack and Defense skills of any Dwarves of Battle Dwarves for each level attained after 2nd level.",
+    "ua": "Гноми\tПокращення навичок: Гноми\tЗбільшує атаку і захист всіх гномів і бойових гномів за кожен рівень після другого."
+  },
+  {
+    "var": "HEROSPEC_+350 Gold",
+    "en": "+350 Gold\t+350 Gold each day\tIncreases kingdom's income by 350 gold per day.",
+    "ua": "+350 зол./день\t+350 золотих щоденно\tЗбільшує прибуток королівства на 350 золотих щоденно."
+  },
+  {
+    "var": "HEROSPEC_Dendroids",
+    "en": "Dendroids\tCreature Bonus: Dendroids\tIncreases the Attack and Defense skills of any Dendroid Guards or Soldiers for each level attained after 5th level.",
+    "ua": "Дендроіди\tПокращення навичок: дендроіди\tЗбільшує атаку і захист всіх дендроідів за кожен рівень після п'ятого."
+  },
+  {
+    "var": "HEROSPEC_Resistance",
+    "en": "Resistance\tSecondary Skill Bonus: Resistance\tReceives a 5% per level bonus to Resistance skill percentage.",
+    "ua": "Опір\t\"Бонус до навички \"\"Опір\"\"\"\t\"\"\"Опір\"\" посилюється на 5% за кожен рівень.\""
+  },
+  {
+    "var": "HEROSPEC_Elves",
+    "en": "Elves\tCreature Bonus: Elves\tIncreases the Attack and Defense skills of any Wood Elves or Grand Elves for each level attained after 3rd level.",
+    "ua": "Ельфи\tПокращення навичок: ельфи\tЗбільшує атаку і захист всіх ельфів за кожен рівень після третього."
+  },
+  {
+    "var": "HEROSPEC_Unicorns",
+    "en": "Unicorns\tCreature Bonus: Unicorns\tIncreases the Attack and Defense skills of any Unicorns or War Unicorns for each level attained after 6th level.",
+    "ua": "Єдинороги\tПокращення навичок: єдинороги\tЗбільшує атаку і захист єдинорогів за кожен рівень після шостого."
+  },
+  {
+    "var": "HEROSPEC_Logistics",
+    "en": "Logistics\tSecondary Skill Bonus: Logistics\tReceives a 5% per level bonus to Logistics skill percentage.",
+    "ua": "Логістика\t\"Покращення навички \"\"Логістика\"\"\"\t\"Навичка \"\"Логістика\"\" посилюється на 5% за кожен рівень.\""
+  },
+  {
+    "var": "HEROSPEC_Slayer",
+    "en": "Slayer\tSpell Bonus: Slayer\t\"Casts Slayer with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units).\"",
+    "ua": "Вбивця\t\"Посилення ефекту закляття \"\"Вбивця\"\"\"\t\"Ефект закляття \"\"Вбивця\"\" посилюється залежно від того, як рівень героя переважає рівень цілі (діє сильніше на слабкі війська).\""
+  },
+  {
+    "var": "HEROSPEC_Cure",
+    "en": "Cure\tSpell Bonus: Cure\t\"Casts Cure with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units).\"",
+    "ua": "Зцілення\t\"Посилення ефекту закляття \"\"Зцілення\"\"\"\t\"Ефект закляття \"\"Зцілення\"\" посилюється залежно від того, як рівень героя переважає рівень цілі (діє сильніше на слабкі війська).\""
+  },
+  {
+    "var": "HEROSPEC_Intelligence",
+    "en": "Intelligence\tSecondary Skill Bonus: Intelligence\tReceives a 5% per level bonus to Intelligence skill percentage.",
+    "ua": "Мудрість\t\"Покращення навички \"\"Мудрість\"\"\"\t\"\"\"Мудрість\"\" поглиблюється на 5% за кожен рівень.\""
+  },
+  {
+    "var": "HEROSPEC_First Aid",
+    "en": "First Aid\tSecondary Skill Bonus: First Aid\tReceives a 5% per level bonus to First Aid skill.",
+    "ua": "Перша допомога\t\"Покращення навички \"\"Перша допомога\"\"\"\t\"\"\"Перша допомога\"\" покращується на 5% за кожен рівень.\""
+  },
+  {
+    "var": "HEROSPEC_Eagle Eye",
+    "en": "Eagle Eye\tSecondary Skill Bonus: Eagle Eye\tReceives a 5% per level bonus to Eagle Eye skill percentage.",
+    "ua": "Орлине око\t\"Бонус до навички \"\"Орлине око\"\"\"\t\"\"\"Орлине око\"\" посилюється на 5% за кожен рівень.\""
+  },
+  {
+    "var": "HEROSPEC_Fortune",
+    "en": "Fortune\tSpell Bonus: Fortune\t\"Casts Fortune with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units).\"",
+    "ua": "Удача\t\"Посилення ефекту закляття \"\"Удача\"\"\"\t\"Ефект закляття \"\"Удача\"\" посилюється залежно від того, як рівень героя переважає рівень цілі (діє сильніше на слабку війська).\""
+  },
+  {
+    "var": "HEROSPEC_Ice Bolt",
+    "en": "Ice Bolt\tSpell Bonus: Ice Bolt\t\"Casts Ice Bolt with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units).\"",
+    "ua": "Крижана стріла\t\"Посилення ефекту закляття \"\"Крижана стріла\"\"\"\t\"Ефект закляття \"\"Крижана стріла\"\" посилюється залежно від того, як рівень героя переважає рівень цілі (діє сильніше на слабкі війська).\""
+  },
+  {
+    "var": "HEROSPEC_Pegasi",
+    "en": "Pegasi\tCreature Bonus: Pegasi\tIncreases the Attack and Defense skills of any Pegasi or Silver Pegasi for each level attained after 4th level.",
+    "ua": "Пегаси\tПокращення навичок: пегаси\tЗбільшує атаку і захист всіх пегасів і срібних пегасів за кожен рівень після четвертого."
+  },
+  {
+    "var": "HEROSPEC_Gargoyles",
+    "en": "Gargoyles\tCreature Bonus: Gargoyles\tIncreases the Attack and Defense skills of any Stone or Obsidian Gargoyles for each level attained after 2nd level.",
+    "ua": "Горгулії\tПокращення навичок: горгулії\tЗбільшує атаку і захист всіх кам'яних і обсидіанових горгулій за кожен рівень після другого."
+  },
+  {
+    "var": "HEROSPEC_Genies",
+    "en": "Genies\tCreature Bonus: Genies\tIncreases the Attack and Defense skills of any Genies or Master Genies for each level attained after 5th level.",
+    "ua": "Джини\tПокращення навичок: джини\tЗбільшує атаку і захист всіх джинів і володарів джинів за кожен рівень після п'ятого."
+  },
+  {
+    "var": "HEROSPEC_Golems",
+    "en": "Golems\tCreature Bonus: Golems\tIncreases the Attack and Defense skills of any Stone or Iron Golems for each level attained after 3rd level.",
+    "ua": "Големи\tПокращення навичок: големи\tЗбільшує атаку і захист всіх големів за кожен рівень після третього."
+  },
+  {
+    "var": "HEROSPEC_Armorer",
+    "en": "Armorer\tSecondary Skill Bonus: Armorer\tReceives a 5% per level bonus to Armorer skill percentage.",
+    "ua": "Захист\t\"Покращення навички \"\"Захист\"\"\"\t\"\"\"Захист\"\" посилюється на 5% за кожен рівень.\""
+  },
+  {
+    "var": "HEROSPEC_Ballista",
+    "en": "Ballista\tArtillery Bonus: Ballista\tIncreases the Attack and Defense skill of any Ballista for each level attained after 4th level.",
+    "ua": "Баліста\tПокращення артилерії: баліста\tЗбільшує атаку і захист всіх баліст за кожен рівень після четвертого."
+  },
+  {
+    "var": "HEROSPEC_Nagas",
+    "en": "Nagas\tCreature Bonus: Nagas\tIncreases the Attack and Defense skills of any Nagas or Naga Queens for each level attained after 6th level.",
+    "ua": "Наги\tПокращення навичок: наги\tЗбільшує атаку і захист всіх наг за кожен рівень після шостого."
+  },
+  {
+    "var": "HEROSPEC_+1 Mercury",
+    "en": "+1 Mercury\t+1 Mercury each day.\tIncreases kingdom's mercury production by 1 per day.",
+    "ua": "+1 ртуті/день\t+1 одиниця ртуті щоденно\tЗбільшує видобуток ртуті в королівстві на 1 одиницю в день."
+  },
+  {
+    "var": "HEROSPEC_Genies",
+    "en": "Genies\tCreature Bonus: Genies\tIncreases the Attack and Defense skills of any Genies or Master Genies for each level attained after 5th level.",
+    "ua": "Джини\tПокращення навичок: джини\tЗбільшує атаку і захист всіх джинів за кожен рівень після п'ятого."
+  },
+  {
+    "var": "HEROSPEC_Hypnotize",
+    "en": "Hypnotize\tSpell Bonus: Hypnotize\t\"Casts Hypnotize with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units).\"",
+    "ua": "Гіпноз\t\"Посилення ефекту закляття \"\"Гіпноз\"\"\"\t\"Ефект закляття \"\"Гіпноз\"\" посилюється залежно від того, як рівень героя переважає рівень цілі (діє сильніше на слабкі війська).\""
+  },
+  {
+    "var": "HEROSPEC_Mysticism",
+    "en": "Mysticism\tSecondary Skill Bonus: Mysticism\tReceives a 5% per level bonus to Mysticism skill.",
+    "ua": "Містицизм\t\"Покращення навички \"\"Містицизм\"\"\"\t\"\"\"Містицизм\"\" покращується на 5% за кожен рівень.\""
+  },
+  {
+    "var": "HEROSPEC_Eagle Eye",
+    "en": "Eagle Eye\tSecondary Skill Bonus: Eagle Eye\tReceives a 5% per level bonus to Eagle Eye skill percentage.",
+    "ua": "Орлиний зір\t\"Покращення навички \"\"Орлиний зір\"\"\"\t\"Навичка \"\"Орлиний зір\"\" збільшується на 5% за кожен рівень.\""
+  },
+  {
+    "var": "HEROSPEC_Fortune",
+    "en": "Fortune\tSpell Bonus: Fortune\t\"Casts Fortune with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units).\"",
+    "ua": "Удача\t\"Посилення ефекту закляття \"\"Удача\"\"\"\t\"Ефект закляття \"\"Удача\"\" посилюється залежно від того, як рівень героя переважає рівень цілі (діє сильніше на слабкі війська).\""
+  },
+  {
+    "var": "HEROSPEC_Magi",
+    "en": "Magi\tCreature Bonus: Magi\tIncreases the Attack and Defense skills of any Magi or Arch Magi for each level attained after 4th level.",
+    "ua": "Маги\tПокращення навичок: маги\tЗбільшує атаку і захист всіх магів і архімагів за кожен рівень після четвертого."
+  },
+  {
+    "var": "HEROSPEC_Ch. Lightning",
+    "en": "Ch. Lightning\tSpell Bonus: Chain Lightning\t\"Casts Chain Lightning with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units).\"",
+    "ua": "Ланцюгова блискавка\t\"Посилення ефекту закляття \"\"Ланцюгова блискавка\"\"\"\t\"Ефект закляття \"\"Ланцюгова блискавка\"\" посилюється залежно від того, як рівень героя переважає рівень цілі (діє сильніше на слабкі війська).\""
+  },
+  {
+    "var": "HEROSPEC_Haste",
+    "en": "Haste\tSpell Bonus: Haste\t\"Casts Haste with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units).\"",
+    "ua": "Поспіх\t\"Посилення ефекту закляття \"\"Поспіх\"\"\"\t\"Ефект закляття \"\"Поспіх\"\" посилюється залежно від того, як рівень героя переважає рівень цілі (діє сильніше на слабкі війська).\""
+  },
+  {
+    "var": "HEROSPEC_+350 Gold",
+    "en": "+350 Gold\t+350 Gold each day\tIncreases kingdom's income by 350 gold per day.",
+    "ua": "+350 зол./день\t+350 золотих щоденно\tЗбільшує прибуток королівства на 350 золотих щоденно."
+  },
+  {
+    "var": "HEROSPEC_Hell Hounds",
+    "en": "Hell Hounds\tCreature Bonus: Hell Hounds\tIncreases the Attack and Defense skills of any Hell Hounds or Cerberi for each level attained after 3rd level.",
+    "ua": "Пекельні собаки\tПокращення навичок: пекельні собаки\tЗбільшує атаку і захист всіх пекельних собак і церберів за кожен рівень після третього."
+  },
+  {
+    "var": "HEROSPEC_Efreet",
+    "en": "Efreet\tCreature Bonus: Efreet\tIncreases the Attack and Defense skills of any Efreet or Efreet Sultans for each level attained after 6th level.",
+    "ua": "Іфрити\tПокращення навичок: іфрити\tЗбільшує атаку і захист всіх іфритів за кожен рівень після шостого."
+  },
+  {
+    "var": "HEROSPEC_Demons",
+    "en": "Demons\tCreature Bonus: Demons\tIncreases the Attack and Defense skills of any Demons or Horned Demons for each level attained after 4th level.",
+    "ua": "Демони\tПокращення навичок: демони\tЗбільшує атаку і захист всіх демонів за кожний рівень після четвертого."
+  },
+  {
+    "var": "HEROSPEC_Imps",
+    "en": "Imps\tCreature Bonus: Imps\tIncreases the Attack and Defense skills of any Imps or Familiars for each level attained after 1st level.",
+    "ua": "Біси\tПокращення навичок: біси\tЗбільшує атаку і захист всіх бісів і чортів за кожний рівень після першого."
+  },
+  {
+    "var": "HEROSPEC_+350 Gold",
+    "en": "+350 Gold\t+350 Gold each day\tIncreases kingdom's income by 350 gold per day.",
+    "ua": "+350 зол./день\t+350 золотих щоденно\tЗбільшує дохід королівства на 350 золотих щоденно."
+  },
+  {
+    "var": "HEROSPEC_Gogs",
+    "en": "Gogs\tCreature Bonus: Gogs\tIncreases the Attack and Defense skills of any Gogs or Magogs for each level attained after 2nd level.",
+    "ua": "Гог\tПокращення навичок: гоги\tЗбільшує атаку і захист всіх гогів і магогів за кожний рівень після другого."
+  },
+  {
+    "var": "HEROSPEC_Ballista",
+    "en": "Ballista\tArtillery Bonus: Ballista\tIncreases the Attack and Defense skill of any Ballista for each level attained after 4th level.",
+    "ua": "Баліста\tПокращення артилерії: баліста\tЗбільшує атаку і захист всіх баліст за кожний рівень після четвертого."
+  },
+  {
+    "var": "HEROSPEC_Pit Fiends",
+    "en": "Pit Fiends\tCreature Bonus: Pit Fiends\tIncreases the Attack and Defense skills of any Pit Fiends or Lords for each level attained after 5th level.",
+    "ua": "Демони безодні\tПокращення навичок: демони безодні\tЗбільшує атаку і захист всіх демонів безодні за кожний рівень після п'ятого."
+  },
+  {
+    "var": "HEROSPEC_Intelligence",
+    "en": "Intelligence\tSecondary Skill Bonus: Intelligence\tReceives a 5% per level bonus to Intelligence skill percentage.",
+    "ua": "Мудрість\t\"Покращення вміння \"\"Мудрість\"\"\"\t\"\"\"Мудрість\"\" поглиблюється на 5% за кожен рівень.\""
+  },
+  {
+    "var": "HEROSPEC_Inferno",
+    "en": "Inferno\tSpell Bonus: Inferno\t\"Casts Inferno with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units).\"",
+    "ua": "Інферно\t\"Посилення ефекту закляття \"\"Інферно\"\"\"\t\"Ефект закляття \"\"Інферно\"\" посилюється залежно від того, як рівень героя переважає рівень цілі (діє сильніше на слабкі війська).\""
+  },
+  {
+    "var": "HEROSPEC_Mysticism",
+    "en": "Mysticism\tSecondary Skill Bonus: Mysticism\tReceives a 5% per level bonus to Mysticism skill.",
+    "ua": "Містицизм\t\"Покращення навички \"\"Містицизм\"\"\"\t\"\"\"Містицизм\"\" покращується на 5% за кожен рівень.\""
+  },
+  {
+    "var": "HEROSPEC_Weakness",
+    "en": "Weakness\tSpell Bonus: Weakness\t\"Casts Weakness with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units).\"",
+    "ua": "Слабкість\t\"Посилення ефекту закляття \"\"Слабкість\"\"\"\t\"Ефект закляття \"\"Слабкість\"\" посилюється залежно від того, як рівень героя переважає рівень цілі (діє сильніше на слабкі війська).\""
+  },
+  {
+    "var": "HEROSPEC_+1 Sulfur",
+    "en": "+1 Sulfur\t+1 Sulfur each day.\tIncreases kingdom's sulfur production by 1 per day.",
+    "ua": "+1 сірки/день\t+1 од. сірки щоденно\tЗбільшує видобуток сірки в королівстві на 1 одиницю в день."
+  },
+  {
+    "var": "HEROSPEC_Bloodlust",
+    "en": "Bloodlust\tSpell Bonus: Bloodlust\t\"Casts Bloodlust with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units).\"",
+    "ua": "Жага крові\t\"Посилення ефекту закляття \"\"Жага крові\"\"\"\t\"Ефект закляття \"\"Жага крові\"\" посилюється залежно від того, як рівень героя переважає рівень цілі (діє сильніше на слабкі війська).\""
+  },
+  {
+    "var": "HEROSPEC_Sorcery",
+    "en": "Sorcery\tSecondary Skill Bonus: Sorcery\tReceives a 5% per level bonus to Sorcery skill percentage.",
+    "ua": "Чародійство\t\"Покращення навички \"\"Чародійство\"\"\"\t\"\"\"Чародійство\"\" покращується на 5% за кожен рівень.\""
+  },
+  {
+    "var": "HEROSPEC_Fireball",
+    "en": "Fireball\tSpell Bonus: Fireball\t\"Casts Fireball with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units).\"",
+    "ua": "Вогненна куля\t\"Посилення ефекту закляття \"\"Вогненна куля\"\"\"\t\"Ефект закляття \"\"Вогненна куля\"\" посилюється залежно від того, наскільки рівень героя переважає рівень цілі (діє сильніше на слабкі війська).\""
+  },
+  {
+    "var": "HEROSPEC_Walking Dead",
+    "en": "Walking Dead\tCreature Bonus: Walking Dead\tIncreases the Attack and Defense skills of any Walking Dead or Zombies for each level attained after 2nd level.",
+    "ua": "Мерці\tПокращення навичок: ходячі мерці\tЗбільшує атаку і захист всіх живих мерців і зомбі за кожний рівень після другого."
+  },
+  {
+    "var": "HEROSPEC_Vampires",
+    "en": "Vampires\tCreature Bonus: Vampires\tIncreases the Attack and Defense skills of any Vampires or Vampire Lords for each level attained after 4th level.",
+    "ua": "Вампіри\tПокращення навичок: вампіри\tЗбільшує атаку і захист всіх вампірів за кожний рівень після четвертого."
+  },
+  {
+    "var": "HEROSPEC_Liches",
+    "en": "Liches\tCreature Bonus: Liches\tIncreases the Attack and Defense skills of any Liches or Power Liches for each level attained after 5th level.",
+    "ua": "Лічі\tПокращення навичок: лічі\tЗбільшує атаку і захист всіх лічів за кожний рівень після п'ятого."
+  },
+  {
+    "var": "HEROSPEC_Wights",
+    "en": "Wights\tCreature Bonus: Wights\tIncreases the Attack and Defense skills of any Wights or Wraiths for each level attained after 3rd level.",
+    "ua": "Привиди\tПокращення навичок: привиди\tЗбільшує атаку і захист всіх привидів за кожний рівень після третього."
+  },
+  {
+    "var": "HEROSPEC_Black Knights",
+    "en": "Black Knights\tCreature Bonus: Black Knights\tIncreases the Attack and Defense skills of any Black Knights or Dread Knights for each level attained after 6th level.",
+    "ua": "Чорні лицарі\tПокращення навичок: чорні лицарі\tЗбільшує атаку і захист всіх чорних лицарів за кожний рівень після шостого."
+  },
+  {
+    "var": "HEROSPEC_Necromancy",
+    "en": "Necromancy\tSecondary Skill Bonus: Necromancy\tReceives a 5% per level bonus to Necromancy skill percentage.",
+    "ua": "Некромантія\t\"Покращення  \"\"Некромантії\"\"\"\t\"\"\"Некромантія\"\" посилюється на 5% за кожний рівень.\""
+  },
+  {
+    "var": "HEROSPEC_+350 Gold",
+    "en": "+350 Gold\t+350 Gold each day\tIncreases kingdom's income by 350 gold per day.",
+    "ua": "+350 зол./день\t+350 золотих щоденно\tЗбільшує дохід королівства на 350 золотих щоденно."
+  },
+  {
+    "var": "HEROSPEC_Skeletons",
+    "en": "Skeletons\tCreature Bonus: Skeletons\tIncreases the Attack and Defense skills of any Skeletons or Skeleton Warriors for each level attained after 1st level.",
+    "ua": "Скелети\tПокращення навичок: скелети\tЗбільшує атаку і захист всіх скелетів за кожний рівень після першого."
+  },
+  {
+    "var": "HEROSPEC_Death Ripple",
+    "en": "Death Ripple\tSpell Bonus: Death Ripple\t\"Casts Death Ripple with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units).\"",
+    "ua": "Смертельне тремтіння\t\"Посилення ефекту закляття \"\"Смертельне тремтіння\"\"\"\t\"Ефект закляття \"\"Смертельне тремтіння\"\" посилюється залежно від того, наскільки рівень героя переважає рівень цілі (діє сильніше на слабкі війська).\""
+  },
+  {
+    "var": "HEROSPEC_Meteor Shower",
+    "en": "Meteor Shower\tSpell Bonus: Meteor Shower\t\"Casts Meteor Shower with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units).\"",
+    "ua": "Метеоритний дощ\t\"Посилення ефекту закляття \"\"Метеоритний дощ\"\"\"\t\"Ефект закляття \"\"Метеоритний дощ\"\" посилюється залежно від того, наскільки рівень героя переважає рівень цілі (діє сильніше на слабкі війська).\""
+  },
+  {
+    "var": "HEROSPEC_Sorcery",
+    "en": "Sorcery\tSecondary Skill Bonus: Sorcery\tReceives a 5% per level bonus to Sorcery skill percentage.",
+    "ua": "Чародійство\t\"Покращення \"\"Чародійства\"\"\"\t\"\"\"Чародійство\"\" посилюється на 5% за кожний рівень.\""
+  },
+  {
+    "var": "HEROSPEC_Eagle Eye",
+    "en": "Eagle Eye\tSecondary Skill Bonus: Eagle Eye\tReceives a 5% per level bonus to Eagle Eye skill percentage.",
+    "ua": "Орлине око\t\"Покращення навички \"\"Орлине око\"\"\"\t\"Навичка \"\"Орлине око\"\" покращується на 5% за кожний рівень.\""
+  },
+  {
+    "var": "HEROSPEC_Animate Dead",
+    "en": "Animate Dead\tSpell Bonus: Animate Dead\t\"Casts Animate Dead with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units).\"",
+    "ua": "Пробудження мертвих\t\"Посилення ефекту закляття \"\"Пробудження мертвих\"\"\"\t\"Ефект закляття \"\"Пробудження мертвих\"\" посилюється залежно від того, наскільки рівень героя переважає рівень цілі (діє сильніше на слабкі війська).\""
+  },
+  {
+    "var": "HEROSPEC_Stone Skin",
+    "en": "Stone Skin\tSpell Bonus: Stone Skin\t\"Casts Stone Skin with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units).\"",
+    "ua": "Кам'яна шкіра\t\"Посилення ефекту закляття \"\"Кам'яна шкіра\"\"\"\t\"Ефект закляття \"\"Кам'яна шкіра\"\" посилюється залежно від того, наскільки рівень героя переважає рівень цілі (діє сильніше на слабкі війська).\""
+  },
+  {
+    "var": "HEROSPEC_Necromancy",
+    "en": "Necromancy\tSecondary Skill Bonus: Necromancy\tReceives a 5% per level bonus to Necromancy skill percentage.",
+    "ua": "Некромантія\t\"Покращення  \"\"Некромантії\"\"\"\t\"\"\"Некромантія\"\" посилюється на 5% за кожний рівень.\""
+  },
+  {
+    "var": "HEROSPEC_+350 Gold",
+    "en": "+350 Gold\t+350 Gold each day\tIncreases kingdom's income by 350 gold per day.",
+    "ua": "+350 зол./день\t+350 золотих щоденно\tЗбільшує дохід королівства на 350 золотих щоденно."
+  },
+  {
+    "var": "HEROSPEC_Harpies",
+    "en": "Harpies\tCreature Bonus: Harpies\tIncreases the Attack and Defense skills of any Harpies or Harpy Hags for each level attained after 2nd level.",
+    "ua": "Гарпії\tПокращення навичок: гарпії\tЗбільшує атаку і захист всіх гарпій за кожний рівень після другого."
+  },
+  {
+    "var": "HEROSPEC_Ballista",
+    "en": "Ballista\tArtillery Bonus: Ballista\tIncreases the Attack and Defense skill of any Ballista for each level attained after 4th level.",
+    "ua": "Баліста\tПокращення артилерії: баліста\tЗбільшує атаку і захист всіх баліст за кожний рівень після четвертого."
+  },
+  {
+    "var": "HEROSPEC_Minotaurs",
+    "en": "Minotaurs\tCreature Bonus: Minotaurs\tIncreases the Attack and Defense skills of any Minotaurs or Minotaur Kings for each level attained after 5th level.",
+    "ua": "Мінотаври\tПокращення навичок: мінотаври\tЗбільшує атаку і захист всіх мінотаврів за кожний рівень після п'ятого."
+  },
+  {
+    "var": "HEROSPEC_Beholders",
+    "en": "Beholders\tCreature Bonus: Beholders\tIncreases the Attack and Defense skills of any Beholders or Evil Eyes for each level attained after 2nd level.",
+    "ua": "Спостерігачі\tПокращення навичок: спостерігачі\tЗбільшує атаку і захист всіх спостерігачів і злооких за кожний рівень після другого."
+  },
+  {
+    "var": "HEROSPEC_+350 Gold",
+    "en": "+350 Gold\t+350 Gold each day\tIncreases kingdom's income by 350 gold per day.",
+    "ua": "+350 зол./день\t+350 золотих щоденно\tЗбільшує дохід королівства на 350 золотих щоденно."
+  },
+  {
+    "var": "HEROSPEC_Logistics",
+    "en": "Logistics\tSecondary Skill Bonus: Logistics\tReceives a 5% per level bonus to Logistics skill percentage.",
+    "ua": "Логістика\t\"Бонус до \"\"Логістики\"\"\"\t\"\"\"Логістика\"\" покращується на 5% за кожний рівень.\""
+  },
+  {
+    "var": "HEROSPEC_Manticores",
+    "en": "Manticores\tCreature Bonus: Manticores\tIncreases the Attack and Defense skills of any Manticores or Scorpicores for each level attained after 6th level.",
+    "ua": "Мантикори\tПокращення навичок: мантикори\tЗбільшує атаку і захист всіх мантикор і скорпікор за кожний рівень після шостого."
+  },
+  {
+    "var": "HEROSPEC_Troglodytes",
+    "en": "Troglodytes\tCreature Bonus: Troglodytes\tIncreases the Attack and Defense skills of any Troglodytes or Infernal Troglodytes for each level attained after 1st level.",
+    "ua": "Троглодити\tПокращення навичок: троглодити\tЗбільшує атаку і захист всіх троглодитів за кожний рівень після першого."
+  },
+  {
+    "var": "HEROSPEC_Resurrection",
+    "en": "Resurrection\tSpell Bonus: Resurrection\t\"Casts Resurrection with increased effect, based on his level compared to the level of the target unit (the bonus is greater when used on weaker units).\"",
+    "ua": "Відродження\t\"Посилення ефекту закляття \"\"Відродження\"\"\"\t\"Ефект закляття \"\"Відродження\"\" посилюється залежно від того, наскільки рівень героя переважає рівень цілі (діє сильніше на слабкі війська).\""
+  },
+  {
+    "var": "HEROSPEC_Mysticism",
+    "en": "Mysticism\tSecondary Skill Bonus: Mysticism\tReceives a 5% per level bonus to Mysticism skill.",
+    "ua": "Містицизм\t\"Покращення навички \"\"Містицизм\"\"\"\t\"\"\"Містицизм\"\" посилюється на 5% за кожний рівень.\""
+  },
+  {
+    "var": "HEROSPEC_Sorcery",
+    "en": "Sorcery\tSecondary Skill Bonus: Sorcery\tReceives a 5% per level bonus to Sorcery skill percentage.",
+    "ua": "Чародійство\t\"Покращення навички \"\"Чародійство\"\"\"\t\"\"\"Чародійство\"\" посилюється на 5% за кожний рівень.\""
+  },
+  {
+    "var": "HEROSPEC_Resurrection",
+    "en": "Resurrection\tSpell Bonus: Resurrection\t\"Casts Resurrection with increased effect, based on his level compared to the level of the target unit (the bonus is greater when used on weaker units).\"",
+    "ua": "Відродження\t\"Посилення ефекту закляття \"\"Відродження\"\"\"\t\"Ефект закляття \"\"Відродження\"\" посилюється залежно від того, наскільки рівень героя переважає рівень цілі (діє сильніше на слабкі війська).\""
+  },
+  {
+    "var": "HEROSPEC_Eagle Eye",
+    "en": "Eagle Eye\tSecondary Skill Bonus: Eagle Eye\tReceives a 5% per level bonus to Eagle Eye skill percentage.",
+    "ua": "Орлине око\t\"Покращення навички \"\"Орлине око\"\"\"\t\"Навичка \"\"Орлине око\"\" покращується на 5% за кожний рівень.\""
+  },
+  {
+    "var": "HEROSPEC_Meteor Shower",
+    "en": "Meteor Shower\tSpell Bonus: Meteor Shower\t\"Casts Meteor Shower with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units).\"",
+    "ua": "Метеоритний дощ\t\"Посилення ефекту закляття \"\"Метеоритний дощ\"\"\"\t\"Ефект закляття \"\"Метеоритний дощ\"\" посилюється залежно від того, наскільки рівень героя переважає рівень цілі (діє сильніше на слабкі війська).\""
+  },
+  {
+    "var": "HEROSPEC_+1 Crystal",
+    "en": "+1 Crystal\t+1 Crystal each day.\tIncreases kingdom's crystal production by 1 per day.",
+    "ua": "+1 кристал/день\t+1 кристал щоденно\tЗбільшує видобуток кристалів в королівстві на 1 одиницю в день."
+  },
+  {
+    "var": "HEROSPEC_Stone Skin",
+    "en": "Stone Skin\tSpell Bonus: Stone Skin\t\"Casts Stone Skin with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units).\"",
+    "ua": "Кам'яна шкіра\t\"Посилення ефекту закляття \"\"Кам'яна шкіра\"\"\"\t\"Ефект закляття \"\"Кам'яна шкіра\"\" посилюється залежно від того, наскільки рівень героя переважає рівень цілі (діє сильніше на слабкі війська).\""
+  },
+  {
+    "var": "HEROSPEC_Cyclopes",
+    "en": "Cyclopes\tCreature Bonus: Cyclopses\tIncreases the Attack and Defense skills of any Cyclopses or Cyclops Lords for each level attained after 6th level.",
+    "ua": "Циклопи\tПокращення навичок: циклопи\tЗбільшує атаку і захист всіх циклопів за кожний рівень після шостого."
+  },
+  {
+    "var": "HEROSPEC_Ballista",
+    "en": "Ballista\tArtillery Bonus: Ballista\tIncreases the Attack and Defense skill of any Ballista for each level attained after 4th level.",
+    "ua": "Баліста\tПокращення артилерії: баліста\tЗбільшує атаку і захист всіх баліст за кожний рівень після четвертого."
+  },
+  {
+    "var": "HEROSPEC_Orcs",
+    "en": "Orcs\tCreature Bonus: Orcs\tIncreases the Attack and Defense skills of any Orcs or Orc Chieftains for each level attained after 3rd level.",
+    "ua": "Орки\tПокращення навичок: орки\tЗбільшує атаку і захист всіх орків за кожен рівень після третього."
+  },
+  {
+    "var": "HEROSPEC_Rocs",
+    "en": "Rocs\tCreature Bonus: Rocs\tIncreases the Attack and Defense skills of any Rocs or Thunderbirds for each level attained after 5th level.",
+    "ua": "Птахи Рух\tПокращення навичок: птахи Рух\tЗбільшує атаку і захист всіх птахів Рух і буревісників за кожний рівень після п'ятого."
+  },
+  {
+    "var": "HEROSPEC_Goblins",
+    "en": "Goblins\tCreature Bonus: Goblins\tIncreases the Attack and Defense skills of any Goblins or Hobgoblins for each level attained after 1st level.",
+    "ua": "Гобліни\tПокращення навичок: гобліни\tЗбільшує атаку і захист всіх гоблінів і хобгоблінів за кожний рівень після першого."
+  },
+  {
+    "var": "HEROSPEC_Ogres",
+    "en": "Ogres\tCreature Bonus: Ogres\tIncreases the Attack and Defense skills of any Ogres or Ogre Magi for each level attained after 4th level.",
+    "ua": "Огри\tПокращення навичок: огри\tЗбільшує атаку і захист всіх огрів за кожний рівень після четвертого."
+  },
+  {
+    "var": "HEROSPEC_Offense",
+    "en": "Offense\tSecondary Skill Bonus: Offense\tReceives a 5% per level bonus to Offense skill percentage.",
+    "ua": "Атака\t\"Бонус до навички \"\"Атака\"\"\"\t\"Навичка \"\"Атака\"\" покращується на 5% за кожний рівень.\""
+  },
+  {
+    "var": "HEROSPEC_Wolf Riders",
+    "en": "Wolf Riders\tCreature Bonus: Wolf Riders\tIncreases the Attack and Defense skills of any Wolf Riders or Raiders for each level attained after 2nd level.",
+    "ua": "Вовчі вершники\tПокращення навичок: вовчі вершники\tЗбільшує атаку і захист всіх вершників і розбійників на вовках за кожен рівень після другого."
+  },
+  {
+    "var": "HEROSPEC_Sorcery",
+    "en": "Sorcery\tSecondary Skill Bonus: Sorcery\tReceives a 5% per level bonus to Sorcery skill percentage.",
+    "ua": "Чародійство\t\"Покращення навички \"\"Чародійство\"\"\"\t\"\"\"Чародійство\"\" посилюється на 5% за кожний рівень.\""
+  },
+  {
+    "var": "HEROSPEC_Ogres",
+    "en": "Ogres\tCreature Bonus: Ogres\tIncreases the Attack and Defense skills of any Ogres or Ogre Magi for each level attained after 4th level.",
+    "ua": "Огри\tПокращення навичок: огри\tЗбільшує атаку і захист всіх огрів за кожний рівень після четвертого."
+  },
+  {
+    "var": "HEROSPEC_Logistics",
+    "en": "Logistics\tSecondary Skill Bonus: Logistics\tReceives a 5% per level bonus to Logistics skill percentage.",
+    "ua": "Логістика\t\"Покращення навички \"\"Логістика\"\"\"\t\"Навичка \"\"Логістика\"\" покращується на 5% за кожний рівень.\""
+  },
+  {
+    "var": "HEROSPEC_Haste",
+    "en": "Haste\tSpell Bonus: Haste\t\"Casts Haste with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units).\"",
+    "ua": "Поспіх\t\"Посилення ефекту закляття \"\"Поспіх\"\"\"\t\"Ефект закляття \"\"Поспіх\"\"посилюється залежно від того, наскільки рівень героя переважає рівень цілі (діє сильніше на слабкі війська).\""
+  },
+  {
+    "var": "HEROSPEC_Precision",
+    "en": "Precision\tSpell Bonus: Precision\t\"Casts Precision with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units).\"",
+    "ua": "Влучність\t\"Посилення ефекту закляття \"\"Влучність\"\"\"\t\"Ефект закляття \"\"Влучність\"\" посилюється залежно від того, наскільки рівень героя переважає рівень цілі (діє сильніше на слабкі війська).\""
+  },
+  {
+    "var": "HEROSPEC_Offense",
+    "en": "Offense\tSecondary Skill Bonus: Offense\tReceives a 5% per level bonus to Offense skill percentage.",
+    "ua": "Атака\t\"Бонус до навички \"\"Атака\"\"\"\t\"Навичка \"\"Атака\"\" покращується на 5% за кожний рівень.\""
+  },
+  {
+    "var": "HEROSPEC_Eagle Eye",
+    "en": "Eagle Eye\tSecondary Skill Bonus: Eagle Eye\tReceives a 5% per level bonus to Eagle Eye skill percentage.",
+    "ua": "Орлине око\t\"Покращення навички \"\"Орлине око\"\"\"\t\"Навичка \"\"Орлине око\"\" покращується на 5% за кожний рівень.\""
+  },
+  {
+    "var": "HEROSPEC_+1 Gems",
+    "en": "+1 Gems\t+1 Gems each day.\tIncreases kingdom's gem production by 1 per day.",
+    "ua": "+1 самоцв./день\t+1 самоцвіт щоденно\tЗбільшує видобуток самоцвітів в королівстві на 1 одиницю в день."
+  },
+  {
+    "var": "HEROSPEC_Basilisks",
+    "en": "Basilisks\tCreature Bonus: Basilisks\tIncreases the Attack and Defense skills of any Basilisks or Greater Basilisks for each level attained after 4th level.",
+    "ua": "Василіски\tПокращення навичок: василіски\tЗбільшує атаку і захист всіх василісків за кожний рівень після четвертого."
+  },
+  {
+    "var": "HEROSPEC_Gnolls",
+    "en": "Gnolls\tCreature Bonus: Gnolls\tIncreases the Attack and Defense skills of any Gnolls or Gnoll Marauders for each level attained after 1st level.",
+    "ua": "Гноли\tПокращення навичок: гноли\tЗбільшує атаку і захист всіх гнолів за кожний рівень після першого."
+  },
+  {
+    "var": "HEROSPEC_Lizardmen",
+    "en": "Lizardmen\tCreature Bonus: Lizardmen\tIncreases the Attack and Defense skills of any Lizardmen or Lizard Warriors for each level attained after 2nd level.",
+    "ua": "Ящіри\tПокращення навичок: ящіри\tЗбільшує атаку і захист всіх ящірів за кожний рівень після другого."
+  },
+  {
+    "var": "HEROSPEC_Armorer",
+    "en": "Armorer\tSecondary Skill Bonus: Armorer\tTazar receives a 5% per level bonus to his Armorer skill percentage.",
+    "ua": "Захист\t\"Бонус до навички \"\"Захист\"\"\"\t\"Навичка \"\"Захист\"\" посилюється на 5% за кожний рівень.\""
+  },
+  {
+    "var": "HEROSPEC_Gorgons",
+    "en": "Gorgons\tCreature Bonus: Gorgons\tIncreases the Attack and Defense skills of any Gorgons or Mighty Gorgons for each level attained after 5th level.",
+    "ua": "Горгони\tПокращення навичок: горгони\tЗбільшує атаку і захист всіх горгон за кожний рівень після п'ятого."
+  },
+  {
+    "var": "HEROSPEC_Serpent Flies",
+    "en": "Serpent Flies\tCreature Bonus: Serpent Flies\tIncreases the Attack and Defense skills of any Serpent or Dragon Flies for each level attained after 3rd level.",
+    "ua": "Зміємухи\tПокращення навичок: зміємухи\tЗбільшує атаку і захист всіх зміємух і дракомух за кожний рівень після третього."
+  },
+  {
+    "var": "HEROSPEC_Ballista",
+    "en": "Ballista\tArtillery Bonus: Ballista\tIncreases the Attack and Defense skill of any Ballista for each level attained after 4th level.",
+    "ua": "Баліста\tПокращення артилерії: баліста\tЗбільшує атаку і захист всіх баліст за кожний рівень після четвертого."
+  },
+  {
+    "var": "HEROSPEC_Wyverns",
+    "en": "Wyverns\tCreature Bonus: Wyverns\tIncreases the Attack and Defense skills of any Wyverns or Wyvern Monarchs for each level attained after 6th level.",
+    "ua": "Виверни\tПокращення навичок: виверни\tЗбільшує атаку і захист всіх виверн за кожний рівень після шостого."
+  },
+  {
+    "var": "HEROSPEC_Weakness",
+    "en": "Weakness\tSpell Bonus: Weakness\t\"Casts Weakness with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units).\"",
+    "ua": "Слабкість\t\"Посилення ефекту закляття \"\"Слабкість\"\"\"\t\"Ефект закляття \"\"Слабкість\"\" посилюється залежно від того, наскільки рівень героя переважає рівень цілі (діє сильніше на слабкі війська).\""
+  },
+  {
+    "var": "HEROSPEC_Mysticism",
+    "en": "Mysticism\tSecondary Skill Bonus: Mysticism\tReceives a 5% per level bonus to Mysticism skill.",
+    "ua": "Містицизм\t\"Покращення навички \"\"Містицизм\"\"\"\t\"\"\"Містицизм\"\" покращується на 5% за кожний рівень.\""
+  },
+  {
+    "var": "HEROSPEC_Navigation",
+    "en": "Navigation\tSecondary Skill Bonus: Navigation\tReceives a 5% per level bonus to Navigation skill percentage.",
+    "ua": "Навігація\t\"Бонус до навички \"\"Навігація\"\"\"\t\"\"\"Навігація\"\" покращується на 5% за кожний рівень.\""
+  },
+  {
+    "var": "HEROSPEC_First Aid",
+    "en": "First Aid\tSecondary Skill Bonus: First Aid\tReceives a 5% per level bonus to First Aid skill.",
+    "ua": "Перша допомога\t\"Бонус до навички \"\"Перша допомога\"\"\"\t\"\"\"Перша допомога\"\" покращується на 5% за кожний рівень.\""
+  },
+  {
+    "var": "HEROSPEC_Stone Skin",
+    "en": "Stone Skin\tSpell Bonus: Stone Skin\t\"Casts Stone Skin with increased effect, based on her level compared to the level of the target unit (the bonus is greater when used on weaker units).\"",
+    "ua": "Кам'яна шкіра\t\"Посилення ефекту закляття \"\"Кам'яна шкіра\"\"\"\t\"Ефект закляття \"\"Кам'яна шкіра\"\" посилюється залежно від того, наскільки рівень героя переважає рівень цілі (діє сильніше на слабкі війська).\""
+  },
+  {
+    "var": "HEROSPEC_Sorcery",
+    "en": "Sorcery\tSecondary Skill Bonus: Sorcery\tReceives a 5% per level bonus to Sorcery skill percentage.",
+    "ua": "Чародійство\t\"Покращення навички \"\"Чародійство\"\"\"\t\"\"\"Чародійство\"\" посилюється на 5% за кожний рівень.\""
+  },
+  {
+    "var": "HEROSPEC_Intelligence",
+    "en": "Intelligence\tSecondary Skill Bonus: Intelligence\tReceives a 5% per level bonus to Intelligence skill percentage.",
+    "ua": "Мудрість\t\"Покращення навички \"\"Мудрість\"\"\"\t\"\"\"Мудрість\"\" покращується на 5% за кожний рівень.\""
+  },
+  {
+    "var": "HEROSPEC_Eagle Eye",
+    "en": "Eagle Eye\tSecondary Skill Bonus: Eagle Eye\tReceives a 5% per level bonus to Eagle Eye skill percentage.",
+    "ua": "Орлине око\t\"Покращення навички \"\"Орлине око\"\"\"\t\"Навичка \"\"Орлине око\"\" покращується на 5% за кожний рівень.\""
+  },
+  {
+    "var": "HEROSPEC_Psychic Ele.",
+    "en": "Psychic Ele.\tCreature Bonus: Psychic Elementals\tPsychic/Magic elementals receive +3 Att and +3 Def.",
+    "ua": "Психічні елементалі\tПокращення навичок: психічні елементалі\tЗбільшує атаку і захист всіх психічних і магічних елементалів на 3."
+  },
+  {
+    "var": "HEROSPEC_Earth Ele.",
+    "en": "Earth Ele.\tCreature Bonus: Earth Elementals\t\"Earth/Magma elementals receive +2 Att, +1 Def, and +5 Dmg.\"",
+    "ua": "Земні елементалі\tПокращення навичок: земні елементалі\tВсі земні і магмові елементалі отримують +2 до атаки, +1 до захисту і +5 до пошкодження."
+  },
+  {
+    "var": "HEROSPEC_Fire Elementals",
+    "en": "Fire Elementals\tCreature Bonus: Fire Elementals\t\"Fire/Energy elementals receive +1 Att, +2 Def, and +2 Dmg.\"",
+    "ua": "Вогненні елементалі\tПокращення навичок: вогненні елементалі\tВсі вогненні й енергетичні елементалі отримують +1 до атаки, +2 до захисту і +2 до пошкодження."
+  },
+  {
+    "var": "HEROSPEC_Water Ele.",
+    "en": "Water Ele.\tCreature Bonus: Water Elementals\tWater/Ice elementals receive +2 Att.",
+    "ua": "Водні елементалі\tПокращення навичок: водні елементалі\tЗбільшує атаку і захист всіх водних і крижаних елементалів на 2."
+  },
+  {
+    "var": "HEROSPEC_Psychic Ele.",
+    "en": "Psychic Ele.\tCreature Bonus: Psychic Elementals\tPsychic/Magic elementals receive +3 Att and +3 Def.",
+    "ua": "Психічні елементалі\tПокращення навичок: психічні елементалі\tЗбільшує атаку і захист всіх психічних і магічних елементалів на 3."
+  },
+  {
+    "var": "HEROSPEC_Earth Ele.",
+    "en": "Earth Ele.\tCreature Bonus: Earth Elementals\t\"Earth/Magma elementals receive +2 Att, +1 Def, and +5 Dmg.\"",
+    "ua": "Земні елементалі\tПокращення навичок: земні елементалі\tВсі земні і магмові елементалі отримують +2 до атаки, +1 до захисту і +5 до пошкодження."
+  },
+  {
+    "var": "HEROSPEC_Fire Ele.",
+    "en": "Fire Ele.\tCreature Bonus: Fire Elementals\t\"Fire/Energy elementals receive +1 Att, +2 Def, and +2 Dmg.\"",
+    "ua": "Вогненні елементалі\tПокращення навичок: вогненні елементалі\tВсі вогненні й енергетичні елементалі отримують +1 до атаки, +2 до захисту і +2 до пошкодження."
+  },
+  {
+    "var": "HEROSPEC_Water Ele.",
+    "en": "Water Ele.\tCreature Bonus:\tWater/Ice elementals receive +2 Att.",
+    "ua": "Водні елементалі\tПокращення навичок: водні елементалі\tЗбільшує атаку і захист всіх водних і крижаних елементалів на 2."
+  },
+  {
+    "var": "HEROSPEC_Fire Wall",
+    "en": "Fire Wall\tSpell Bonus: Fire Wall\tDamage from Fire Walls is doubled.",
+    "ua": "Стіна вогню\t\"Посилення ефекту закляття \"\"Стіна вогню\"\"\"\t\"Ефект закляття \"\"Стіна вогню\"\" подвоюється.\""
+  },
+  {
+    "var": "HEROSPEC_Haste",
+    "en": "Haste\tSpell Bonus: Haste\t\"Casts Haste with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units).\"",
+    "ua": "Поспіх\t\"Посилення ефекту закляття \"\"Поспіх\"\"\"\t\"Ефект закляття \"\"Поспіх\"\" посилюється залежно від того, наскільки рівень героя переважає рівень цілі (діє сильніше на слабкі війська).\""
+  },
+  {
+    "var": "HEROSPEC_Magic Arrow",
+    "en": "Magic Arrow\tSpell Bonus: Magic Arrow\t\"When cast, Magic Arrow damage is increased 50%.\"",
+    "ua": "Магічна стріла\t\"Посилення ефекту закляття \"\"Магічна стріла\"\"\"\t\"Ефект заклинання \"\"Магічна стріла\"\" посилюється на 50%.\""
+  },
+  {
+    "var": "HEROSPEC_Stone Skin",
+    "en": "Stone Skin\tSpell Bonus: Stone Skin\t\"When cast, Stone Skin is increased +3.\"",
+    "ua": "Кам'яна шкіра\t\"Посилення ефекту закляття \"\"Кам'яна шкіра\"\"\"\t\"Ефект закляття \"\"Кам'яна шкіра\"\" посилюється залежно від того, наскільки рівень героя переважає рівень цілі (діє сильніше на слабкі війська).\""
+  },
+  {
+    "var": "HEROSPEC_Bloodlust",
+    "en": "Bloodlust\tSpell Bonus: Bloodlust\t\"Casts Bloodlust with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units).\"",
+    "ua": "Жага крові\t\"Посилення ефекту закляття \"\"Жага крові\"\"\"\t\"Ефект закляття \"\"Жага крові\"\" посилюється залежно від того, наскільки рівень героя переважає рівень цілі (діє сильніше на слабкі війська).\""
+  },
+  {
+    "var": "HEROSPEC_Disrupting Ray",
+    "en": "Disrupting Ray\tSpell Bonus: Disrupting Ray\t\"When cast, Disrupting Ray is increased +2.\"",
+    "ua": "Розриваючий промінь\t\"Посилення ефекту закляття \"\"Розриваючий промінь\"\"\"\t\"Ефект закляття \"\"Розриваючий промінь\"\" посилюється на 3.\""
+  },
+  {
+    "var": "HEROSPEC_+350 Gold",
+    "en": "+350 Gold\t+350 Gold each day\tIncreases kingdom's income by 350 gold per day.",
+    "ua": "+350 зол./день\t+350 золотих щоденно\tЗбільшує дохід королівства на 350 золотих щоденно."
+  },
+  {
+    "var": "HEROSPEC_+350 Gold",
+    "en": "+350 Gold\t+350 Gold each day\tIncreases kingdom's income by 350 gold per day.",
+    "ua": "+350 зол./день\t+350 золотих щоденно\tЗбільшує дохід королівства на 350 золотих щоденно."
+  },
+  {
+    "var": "HEROSPEC_Speed",
+    "en": "Speed\tCreature Bonus: Speed\tAll creatures receive +2 speed.",
+    "ua": "Швидкість\tЗбільшення швидкості військ\tУсі війська героя отримують +2 до швидкості."
+  },
+  {
+    "var": "HEROSPEC_Fire Magic",
+    "en": "Fire Magic\tSecondary Skill Bonus: Exp. Fire Magic\tStarts with Expert Fire Magic.",
+    "ua": "Магія вогню\t\"\"\"Магія вогню\"\" III рівня\"\t\"Розпочинає гру з навичкою \"\"Магії вогню\"\" III рівня.\""
+  },
+  {
+    "var": "HEROSPEC_Swordsmen",
+    "en": "Swordsmen\tCreature Bonus: Swordsmen\tIncreases the Attack and Defense skills of any Swordsmen or Crusaders for each level attained after 4th level.",
+    "ua": "Мечники\tПокращення навичок: мечники\tЗбільшує атаку і захист всіх мечників і хрестоносців за кожний рівень після четвертого."
+  },
+  {
+    "var": "HEROSPEC_Enchanters",
+    "en": "Enchanters\tCreature Bonus: Enchanters\tCan upgrade Monks or Zealots and Magi or Arch Magi to Enchanters.",
+    "ua": "Чародії\tНавчання чародіїв\tУміє навчати магів, архімагів, монахів і фанатиків, перетворюючи їх у чародіїв."
+  },
+  {
+    "var": "HEROSPEC_Sharpshooters",
+    "en": "Sharpshooters\tCreature Bonus: Sharpshooters\tCan upgrade Archers or Marksmen and Wood Elves or Grand Elves to Sharpshooters.",
+    "ua": "Снайпери\tНавчання снайперів\tУміє навчати стрільців, лучників, лісових і вищих ельфів, перетворюючи їх у снайперів."
+  },
+  {
+    "var": "HEROSPEC_Behemoths",
+    "en": "Behemoths\tCreature Bonus: Behemoths\t\"Behemoths or Ancient Behemoths receive +5 Att, +5 Def, +10 Dmg.\"",
+    "ua": "Чудовиська\tПокращення навичок: чудовиська\tВсі чудовиська отримують +5 до атаки, +5 до захисту і +10 до пошкодження."
+  },
+  {
+    "var": "HEROSPEC_Black Knights",
+    "en": "Black Knights\tCreature Bonus: Black Knights\t\"Black Knights or Dread Knights receive +5 Att, +5 Def, and +10 Dmg.\"",
+    "ua": "Чорні лицарі\tПокращення навичок: чорні лицарі\tВсі чорні лицарі отримують +5 до атаки, +5 до захисту і +10 до пошкодження."
+  },
+  {
+    "var": "HEROSPEC_Dragons",
+    "en": "Dragons\tCreature Bonus: Dragons\t\"All dragons receive +5 Att, +5 Def.\"",
+    "ua": "Дракони\tПокращення навичок: дракони\tЗбільшує атаку і захист всіх драконів на 5."
+  },
+  {
+    "var": "HEROSPEC_Swordsmen",
+    "en": "Swordsmen\tCreature Bonus: Swordsmen\tIncreases the Attack and Defense skills of any Swordsmen or Crusaders for each level attained after 4th level.",
+    "ua": "Мечники\tПокращення навичок: мечники\tЗбільшує атаку і захист всіх мечників і хрестоносців за кожний рівень після четвертого."
+  },
+  {
+    "var": "HEROSPEC_Dragons",
+    "en": "Dragons\tCreature Bonus: Dragons\t\"All dragons receive +5 Att, +5 Def.\"",
+    "ua": "Дракони\tПокращення навичок: дракони\tЗбільшує атаку і захист всіх драконів на 5."
+  },
+  {
+    "var": "HEROSPEC_Ogres",
+    "en": "Ogres\tCreature Bonus: Ogres\tIncreases the Attack and Defense skills of any Ogre or Ogre Mage for each level attained after 4th level.",
+    "ua": "Огри\tПокращення навичок: огри\tЗбільшує атаку і захист всіх огрів за кожний рівень після четвертого."
+  },
+  {
+    "var": "HEROSPEC_Devils",
+    "en": "Devils\tCreature Bonus: Devils\t\"Devils and Arch Devils receive +4 Attack, +2 Defense, and +1 Speed.\"",
+    "ua": "Дияволи\tПокращення навичок: дияволи\tВсі дияволи й архідияволи отримують +4 до атаки, +2 до захисту і +1 до швидкості."
+  },
+  {
+    "var": "HEROSPEC_159",
+    "en": "\t\t ",
+    "ua": "\t\t "
+  }
+]

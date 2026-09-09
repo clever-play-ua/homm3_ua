@@ -1,0 +1,792 @@
+[
+  {
+    "var": "HOTRAITS_1",
+    "en": "\t1st Creature Stack\t\t\t2nd Creature Stack\t\t\t3rd Creature Stack\t\t",
+    "ua": "\t1st Creature Stack\t\t\t2nd Creature Stack\t\t\t3rd Creature Stack\t\t"
+  },
+  {
+    "var": "HOTRAITS_Name",
+    "en": "Name\tLow\tHigh\tType (reference only)\tLow\tHigh\tType (reference only)\tLow\tHigh\tType (reference only)",
+    "ua": "Name\tLow\tHigh\tType (reference only)\tLow\tHigh\tType (reference only)\tLow\tHigh\tType (reference only)"
+  },
+  {
+    "var": "HOTRAITS_Orrin",
+    "en": "Orrin\t10\t20\tPikeman\t4\t7\tLightCrossbowman\t2\t3\tGriffin",
+    "ua": "Оррін\t10\t20\tPikeman\t4\t7\tLightCrossbowman\t2\t3\tGriffin"
+  },
+  {
+    "var": "HOTRAITS_Valeska",
+    "en": "Valeska\t4\t7\tLightCrossbowman\t4\t7\tLightCrossbowman\t4\t7\tLightCrossbowman",
+    "ua": "Валеска\t4\t7\tLightCrossbowman\t4\t7\tLightCrossbowman\t4\t7\tLightCrossbowman"
+  },
+  {
+    "var": "HOTRAITS_Edric",
+    "en": "Edric\t10\t20\tPikeman\t2\t3\tGriffin\t2\t3\tGriffin",
+    "ua": "Едрік\t10\t20\tPikeman\t2\t3\tGriffin\t2\t3\tGriffin"
+  },
+  {
+    "var": "HOTRAITS_Sylvia",
+    "en": "Sylvia\t10\t20\tPikeman\t4\t7\tLightCrossbowman\t2\t3\tGriffin",
+    "ua": "Сильвія\t10\t20\tPikeman\t4\t7\tLightCrossbowman\t2\t3\tGriffin"
+  },
+  {
+    "var": "HOTRAITS_Lord Haart",
+    "en": "Lord Haart\t10\t20\tPikeman\t4\t7\tLightCrossbowman\t2\t3\tGriffin",
+    "ua": "Лорд Хаарт\t10\t20\tPikeman\t4\t7\tLightCrossbowman\t2\t3\tGriffin"
+  },
+  {
+    "var": "HOTRAITS_Sorsha",
+    "en": "Sorsha\t10\t20\tPikeman\t4\t7\tLightCrossbowman\t2\t3\tGriffin",
+    "ua": "Сорша\t10\t20\tPikeman\t4\t7\tLightCrossbowman\t2\t3\tGriffin"
+  },
+  {
+    "var": "HOTRAITS_Christian",
+    "en": "Christian\t10\t20\tPikeman\t1\t1\tBallista\t2\t3\tGriffin",
+    "ua": "Крістіан\t10\t20\tPikeman\t1\t1\tBallista\t2\t3\tGriffin"
+  },
+  {
+    "var": "HOTRAITS_Tyris",
+    "en": "Tyris\t10\t20\tPikeman\t4\t7\tLightCrossbowman\t2\t3\tGriffin",
+    "ua": "Тіріс\t10\t20\tPikeman\t4\t7\tLightCrossbowman\t2\t3\tGriffin"
+  },
+  {
+    "var": "HOTRAITS_Rion",
+    "en": "Rion\t10\t20\tPikeman\t1\t1\tFirstAidTent\t2\t3\tGriffin",
+    "ua": "Ріон\t10\t20\tPikeman\t1\t1\tFirstAidTent\t2\t3\tGriffin"
+  },
+  {
+    "var": "HOTRAITS_Adela",
+    "en": "Adela\t10\t20\tPikeman\t4\t7\tLightCrossbowman\t2\t3\tGriffin",
+    "ua": "Адела\t10\t20\tPikeman\t4\t7\tLightCrossbowman\t2\t3\tGriffin"
+  },
+  {
+    "var": "HOTRAITS_Cuthbert",
+    "en": "Cuthbert\t10\t20\tPikeman\t4\t7\tLightCrossbowman\t2\t3\tGriffin",
+    "ua": "Кусберт\t10\t20\tPikeman\t4\t7\tLightCrossbowman\t2\t3\tGriffin"
+  },
+  {
+    "var": "HOTRAITS_Adelaide",
+    "en": "Adelaide\t10\t20\tPikeman\t4\t7\tLightCrossbowman\t2\t3\tGriffin",
+    "ua": "Аделаїда\t10\t20\tPikeman\t4\t7\tLightCrossbowman\t2\t3\tGriffin"
+  },
+  {
+    "var": "HOTRAITS_Ingham",
+    "en": "Ingham\t10\t20\tPikeman\t4\t7\tLightCrossbowman\t2\t3\tGriffin",
+    "ua": "Інґхам\t10\t20\tPikeman\t4\t7\tLightCrossbowman\t2\t3\tGriffin"
+  },
+  {
+    "var": "HOTRAITS_Sanya",
+    "en": "Sanya\t10\t20\tPikeman\t4\t7\tLightCrossbowman\t2\t3\tGriffin",
+    "ua": "Санія\t10\t20\tPikeman\t4\t7\tLightCrossbowman\t2\t3\tGriffin"
+  },
+  {
+    "var": "HOTRAITS_Loynis",
+    "en": "Loynis\t10\t20\tPikeman\t4\t7\tLightCrossbowman\t2\t3\tGriffin",
+    "ua": "Лойніс\t10\t20\tPikeman\t4\t7\tLightCrossbowman\t2\t3\tGriffin"
+  },
+  {
+    "var": "HOTRAITS_Caitlin",
+    "en": "Caitlin\t10\t20\tPikeman\t4\t7\tLightCrossbowman\t2\t3\tGriffin",
+    "ua": "Каітлін\t10\t20\tPikeman\t4\t7\tLightCrossbowman\t2\t3\tGriffin"
+  },
+  {
+    "var": "HOTRAITS_Mephala",
+    "en": "Mephala\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf",
+    "ua": "Мефала\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf"
+  },
+  {
+    "var": "HOTRAITS_Ufretin",
+    "en": "Ufretin\t3\t5\tDwarf\t3\t5\tDwarf\t3\t5\tDwarf",
+    "ua": "Уфретін\t3\t5\tDwarf\t3\t5\tDwarf\t3\t5\tDwarf"
+  },
+  {
+    "var": "HOTRAITS_Jenova",
+    "en": "Jenova\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf",
+    "ua": "Дженова\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf"
+  },
+  {
+    "var": "HOTRAITS_Ryland",
+    "en": "Ryland\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf",
+    "ua": "Ріланд\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf"
+  },
+  {
+    "var": "HOTRAITS_Thorgrim",
+    "en": "Thorgrim\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf",
+    "ua": "Тхорґрім\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf"
+  },
+  {
+    "var": "HOTRAITS_Ivor",
+    "en": "Ivor\t12\t24\tCentaur\t3\t6\tWoodElf\t3\t6\tWoodElf",
+    "ua": "Івор\t12\t24\tCentaur\t3\t6\tWoodElf\t3\t6\tWoodElf"
+  },
+  {
+    "var": "HOTRAITS_Clancy",
+    "en": "Clancy\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf",
+    "ua": "Кленсі\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf"
+  },
+  {
+    "var": "HOTRAITS_Kyrre",
+    "en": "Kyrre\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf",
+    "ua": "Кірре\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf"
+  },
+  {
+    "var": "HOTRAITS_Coronius",
+    "en": "Coronius\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf",
+    "ua": "Короніус\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf"
+  },
+  {
+    "var": "HOTRAITS_Uland",
+    "en": "Uland\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf",
+    "ua": "Уланд\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf"
+  },
+  {
+    "var": "HOTRAITS_Elleshar",
+    "en": "Elleshar\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf",
+    "ua": "Еллешар\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf"
+  },
+  {
+    "var": "HOTRAITS_Gem",
+    "en": "Gem\t12\t24\tCentaur\t1\t1\tFirstAidTent\t3\t6\tWoodElf",
+    "ua": "Ґем\t12\t24\tCentaur\t1\t1\tFirstAidTent\t3\t6\tWoodElf"
+  },
+  {
+    "var": "HOTRAITS_Malcom",
+    "en": "Malcom\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf",
+    "ua": "Малком\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf"
+  },
+  {
+    "var": "HOTRAITS_Melodia",
+    "en": "Melodia\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf",
+    "ua": "Мелодія\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf"
+  },
+  {
+    "var": "HOTRAITS_Alagar",
+    "en": "Alagar\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf",
+    "ua": "Алаґар\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf"
+  },
+  {
+    "var": "HOTRAITS_Aeris",
+    "en": "Aeris\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf",
+    "ua": "Аеріс\t12\t24\tCentaur\t3\t5\tDwarf\t3\t6\tWoodElf"
+  },
+  {
+    "var": "HOTRAITS_Piquedram",
+    "en": "Piquedram\t3\t5\tStoneGargoyle\t3\t5\tStoneGargoyle\t3\t5\tStoneGargoyle",
+    "ua": "Пікведрам\t3\t5\tStoneGargoyle\t3\t5\tStoneGargoyle\t3\t5\tStoneGargoyle"
+  },
+  {
+    "var": "HOTRAITS_Thane",
+    "en": "Thane\t30\t40\tApprenticeGremlin\t3\t5\tStoneGargoyle\t2\t3\tIronGolem",
+    "ua": "Тан\t30\t40\tApprenticeGremlin\t3\t5\tStoneGargoyle\t2\t3\tIronGolem"
+  },
+  {
+    "var": "HOTRAITS_Josephine",
+    "en": "Josephine\t30\t40\tApprenticeGremlin\t2\t2\tIronGolem\t2\t3\tIronGolem",
+    "ua": "Джозефіна\t30\t40\tApprenticeGremlin\t2\t2\tIronGolem\t2\t3\tIronGolem"
+  },
+  {
+    "var": "HOTRAITS_Neela",
+    "en": "Neela\t30\t40\tApprenticeGremlin\t4\t4\tStoneGargoyle\t2\t3\tIronGolem",
+    "ua": "Неела\t30\t40\tApprenticeGremlin\t4\t4\tStoneGargoyle\t2\t3\tIronGolem"
+  },
+  {
+    "var": "HOTRAITS_Torosar",
+    "en": "Torosar \t30\t40\tApprenticeGremlin\t1\t1\tBallista\t2\t3\tIronGolem",
+    "ua": "Торосар\t30\t40\tApprenticeGremlin\t1\t1\tBallista\t2\t3\tIronGolem"
+  },
+  {
+    "var": "HOTRAITS_Fafner",
+    "en": "Fafner\t30\t40\tApprenticeGremlin\t3\t5\tStoneGargoyle\t2\t3\tIronGolem",
+    "ua": "Фафнер\t30\t40\tApprenticeGremlin\t3\t5\tStoneGargoyle\t2\t3\tIronGolem"
+  },
+  {
+    "var": "HOTRAITS_Rissa",
+    "en": "Rissa\t30\t40\tApprenticeGremlin\t3\t5\tStoneGargoyle\t2\t3\tIronGolem",
+    "ua": "Рісса\t30\t40\tApprenticeGremlin\t3\t5\tStoneGargoyle\t2\t3\tIronGolem"
+  },
+  {
+    "var": "HOTRAITS_Iona",
+    "en": "Iona\t30\t40\tApprenticeGremlin\t3\t5\tStoneGargoyle\t2\t3\tIronGolem",
+    "ua": "Іона\t30\t40\tApprenticeGremlin\t3\t5\tStoneGargoyle\t2\t3\tIronGolem"
+  },
+  {
+    "var": "HOTRAITS_Astral",
+    "en": "Astral\t30\t40\tApprenticeGremlin\t3\t5\tStoneGargoyle\t2\t3\tIronGolem",
+    "ua": "Астрал\t30\t40\tApprenticeGremlin\t3\t5\tStoneGargoyle\t2\t3\tIronGolem"
+  },
+  {
+    "var": "HOTRAITS_Halon",
+    "en": "Halon\t30\t40\tApprenticeGremlin\t3\t5\tStoneGargoyle\t2\t3\tIronGolem",
+    "ua": "Халон\t30\t40\tApprenticeGremlin\t3\t5\tStoneGargoyle\t2\t3\tIronGolem"
+  },
+  {
+    "var": "HOTRAITS_Serena",
+    "en": "Serena\t30\t40\tApprenticeGremlin\t3\t5\tStoneGargoyle\t2\t3\tIronGolem",
+    "ua": "Серена\t30\t40\tApprenticeGremlin\t3\t5\tStoneGargoyle\t2\t3\tIronGolem"
+  },
+  {
+    "var": "HOTRAITS_Daremyth",
+    "en": "Daremyth\t30\t40\tApprenticeGremlin\t3\t5\tStoneGargoyle\t2\t3\tIronGolem",
+    "ua": "Дареміт\t30\t40\tApprenticeGremlin\t3\t5\tStoneGargoyle\t2\t3\tIronGolem"
+  },
+  {
+    "var": "HOTRAITS_Theodorus",
+    "en": "Theodorus\t30\t40\tApprenticeGremlin\t3\t5\tStoneGargoyle\t2\t3\tIronGolem",
+    "ua": "Теодор\t30\t40\tApprenticeGremlin\t3\t5\tStoneGargoyle\t2\t3\tIronGolem"
+  },
+  {
+    "var": "HOTRAITS_Solmyr",
+    "en": "Solmyr\t30\t40\tApprenticeGremlin\t3\t5\tStoneGargoyle\t2\t3\tIronGolem",
+    "ua": "Солмір\t30\t40\tApprenticeGremlin\t3\t5\tStoneGargoyle\t2\t3\tIronGolem"
+  },
+  {
+    "var": "HOTRAITS_Cyra",
+    "en": "Cyra\t30\t40\tApprenticeGremlin\t3\t5\tStoneGargoyle\t2\t3\tIronGolem",
+    "ua": "Кіра\t30\t40\tApprenticeGremlin\t3\t5\tStoneGargoyle\t2\t3\tIronGolem"
+  },
+  {
+    "var": "HOTRAITS_Aine",
+    "en": "Aine\t30\t40\tApprenticeGremlin\t3\t5\tStoneGargoyle\t2\t3\tIronGolem",
+    "ua": "Айн\t30\t40\tApprenticeGremlin\t3\t5\tStoneGargoyle\t2\t3\tIronGolem"
+  },
+  {
+    "var": "HOTRAITS_Fiona",
+    "en": "Fiona\t15\t25\tImp\t3\t4\tHellHound\t3\t4\tHellHound",
+    "ua": "Фіона\t15\t25\tImp\t3\t4\tHellHound\t3\t4\tHellHound"
+  },
+  {
+    "var": "HOTRAITS_Rashka",
+    "en": "Rashka\t15\t25\tImp\t4\t7\tGog\t3\t4\tHellHound",
+    "ua": "Рашка\t15\t25\tImp\t4\t7\tGog\t3\t4\tHellHound"
+  },
+  {
+    "var": "HOTRAITS_Marius",
+    "en": "Marius\t15\t25\tImp\t4\t7\tGog\t3\t4\tHellHound",
+    "ua": "Маріус\t15\t25\tImp\t4\t7\tGog\t3\t4\tHellHound"
+  },
+  {
+    "var": "HOTRAITS_Ignatius",
+    "en": "Ignatius\t15\t25\tImp\t15\t25\tImp\t15\t25\tImp",
+    "ua": "Ігнатіус\t15\t25\tImp\t15\t25\tImp\t15\t25\tImp"
+  },
+  {
+    "var": "HOTRAITS_Octavia",
+    "en": "Octavia\t15\t25\tImp\t4\t7\tGog\t3\t4\tHellHound",
+    "ua": "Октавія\t15\t25\tImp\t4\t7\tGog\t3\t4\tHellHound"
+  },
+  {
+    "var": "HOTRAITS_Calh",
+    "en": "Calh\t4\t7\tGog\t4\t7\tGog\t4\t7\tGog",
+    "ua": "Калх\t4\t7\tGog\t4\t7\tGog\t4\t7\tGog"
+  },
+  {
+    "var": "HOTRAITS_Pyre",
+    "en": "Pyre\t15\t25\tImp\t1\t1\tBallista\t3\t4\tHellHound",
+    "ua": "Пір\t15\t25\tImp\t1\t1\tBallista\t3\t4\tHellHound"
+  },
+  {
+    "var": "HOTRAITS_Nymus",
+    "en": "Nymus\t15\t25\tImp\t4\t7\tGog\t3\t4\tHellHound",
+    "ua": "Німус\t15\t25\tImp\t4\t7\tGog\t3\t4\tHellHound"
+  },
+  {
+    "var": "HOTRAITS_Ayden",
+    "en": "Ayden\t15\t25\tImp\t4\t7\tGog\t3\t4\tHellHound",
+    "ua": "Айден\t15\t25\tImp\t4\t7\tGog\t3\t4\tHellHound"
+  },
+  {
+    "var": "HOTRAITS_Xyron",
+    "en": "Xyron\t15\t25\tImp\t4\t7\tGog\t3\t4\tHellHound",
+    "ua": "Ксайрон\t15\t25\tImp\t4\t7\tGog\t3\t4\tHellHound"
+  },
+  {
+    "var": "HOTRAITS_Axsis",
+    "en": "Axsis\t15\t25\tImp\t4\t7\tGog\t3\t4\tHellHound",
+    "ua": "Аксіс\t15\t25\tImp\t4\t7\tGog\t3\t4\tHellHound"
+  },
+  {
+    "var": "HOTRAITS_Olema",
+    "en": "Olema\t15\t25\tImp\t4\t7\tGog\t3\t4\tHellHound",
+    "ua": "Олема\t15\t25\tImp\t4\t7\tGog\t3\t4\tHellHound"
+  },
+  {
+    "var": "HOTRAITS_Calid",
+    "en": "Calid\t15\t25\tImp\t4\t7\tGog\t3\t4\tHellHound",
+    "ua": "Калід\t15\t25\tImp\t4\t7\tGog\t3\t4\tHellHound"
+  },
+  {
+    "var": "HOTRAITS_Ash",
+    "en": "Ash\t15\t25\tImp\t4\t7\tGog\t3\t4\tHellHound",
+    "ua": "Аш\t15\t25\tImp\t4\t7\tGog\t3\t4\tHellHound"
+  },
+  {
+    "var": "HOTRAITS_Zydar",
+    "en": "Zydar\t15\t25\tImp\t4\t7\tGog\t3\t4\tHellHound",
+    "ua": "Зідар\t15\t25\tImp\t4\t7\tGog\t3\t4\tHellHound"
+  },
+  {
+    "var": "HOTRAITS_Xarfax",
+    "en": "Xarfax\t15\t25\tImp\t4\t7\tGog\t3\t4\tHellHound",
+    "ua": "Ксарфакс\t15\t25\tImp\t4\t7\tGog\t3\t4\tHellHound"
+  },
+  {
+    "var": "HOTRAITS_Straker",
+    "en": "Straker\t4\t6\tZombie\t4\t6\tZombie\t4\t6\tZombie",
+    "ua": "Стракер\t4\t6\tZombie\t4\t6\tZombie\t4\t6\tZombie"
+  },
+  {
+    "var": "HOTRAITS_Vokial",
+    "en": "Vokial\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight",
+    "ua": "Вок'ял\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight"
+  },
+  {
+    "var": "HOTRAITS_Moandor",
+    "en": "Moandor\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight",
+    "ua": "Моандор\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight"
+  },
+  {
+    "var": "HOTRAITS_Charna",
+    "en": "Charna\t20\t30\tSkeleton\t4\t6\tWight\t4\t6\tWight",
+    "ua": "Чарна\t20\t30\tSkeleton\t4\t6\tWight\t4\t6\tWight"
+  },
+  {
+    "var": "HOTRAITS_Tamika",
+    "en": "Tamika\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight",
+    "ua": "Таміка\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight"
+  },
+  {
+    "var": "HOTRAITS_Isra",
+    "en": "Isra\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight",
+    "ua": "Ісра\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight"
+  },
+  {
+    "var": "HOTRAITS_Clavius",
+    "en": "Clavius\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight",
+    "ua": "Клавіус\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight"
+  },
+  {
+    "var": "HOTRAITS_Galthran",
+    "en": "Galthran\t20\t30\tSkeleton\t20\t30\tSkeleton\t20\t30\tSkeleton",
+    "ua": "Ґалтран\t20\t30\tSkeleton\t20\t30\tSkeleton\t20\t30\tSkeleton"
+  },
+  {
+    "var": "HOTRAITS_Septienna",
+    "en": "Septienna\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight",
+    "ua": "Септенна\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight"
+  },
+  {
+    "var": "HOTRAITS_Aislinn",
+    "en": "Aislinn\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight",
+    "ua": "Аіслінн\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight"
+  },
+  {
+    "var": "HOTRAITS_Sandro",
+    "en": "Sandro\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight",
+    "ua": "Сандро\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight"
+  },
+  {
+    "var": "HOTRAITS_Nimbus",
+    "en": "Nimbus\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight",
+    "ua": "Німбус\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight"
+  },
+  {
+    "var": "HOTRAITS_Thant",
+    "en": "Thant\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight",
+    "ua": "Тант\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight"
+  },
+  {
+    "var": "HOTRAITS_Xsi",
+    "en": "Xsi\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight",
+    "ua": "Ксі\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight"
+  },
+  {
+    "var": "HOTRAITS_Vidomina",
+    "en": "Vidomina\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight",
+    "ua": "Відоміна\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight"
+  },
+  {
+    "var": "HOTRAITS_Nagash",
+    "en": "Nagash\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight",
+    "ua": "Нагаш\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight"
+  },
+  {
+    "var": "HOTRAITS_Lorelei",
+    "en": "Lorelei\t4\t6\tHarpy\t4\t6\tHarpy\t4\t6\tHarpy",
+    "ua": "Лорелея\t4\t6\tHarpy\t4\t6\tHarpy\t4\t6\tHarpy"
+  },
+  {
+    "var": "HOTRAITS_Arlach",
+    "en": "Arlach\t30\t40\tTroglodyte\t1\t1\tBallista\t3\t4\tBeholder",
+    "ua": "Арлах\t30\t40\tTroglodyte\t1\t1\tBallista\t3\t4\tBeholder"
+  },
+  {
+    "var": "HOTRAITS_Dace",
+    "en": "Dace\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder",
+    "ua": "Дас\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder"
+  },
+  {
+    "var": "HOTRAITS_Ajit",
+    "en": "Ajit\t30\t40\tTroglodyte\t3\t4\tBeholder\t3\t4\tBeholder",
+    "ua": "Аджит\t30\t40\tTroglodyte\t3\t4\tBeholder\t3\t4\tBeholder"
+  },
+  {
+    "var": "HOTRAITS_Damacon",
+    "en": "Damacon\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder",
+    "ua": "Дамакон\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder"
+  },
+  {
+    "var": "HOTRAITS_Gunnar",
+    "en": "Gunnar\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder",
+    "ua": "Ґуннар\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder"
+  },
+  {
+    "var": "HOTRAITS_Synca",
+    "en": "Synca\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder",
+    "ua": "Сінка\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder"
+  },
+  {
+    "var": "HOTRAITS_Shakti",
+    "en": "Shakti\t30\t40\tTroglodyte\t30\t40\tTroglodyte\t30\t40\tTroglodyte",
+    "ua": "Шакті\t30\t40\tTroglodyte\t30\t40\tTroglodyte\t30\t40\tTroglodyte"
+  },
+  {
+    "var": "HOTRAITS_Alamar",
+    "en": "Alamar\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder",
+    "ua": "Аламар\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder"
+  },
+  {
+    "var": "HOTRAITS_Jaegar",
+    "en": "Jaegar\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder",
+    "ua": "Джаґар\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder"
+  },
+  {
+    "var": "HOTRAITS_Malekith",
+    "en": "Malekith\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder",
+    "ua": "Малекіт\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder"
+  },
+  {
+    "var": "HOTRAITS_Jeddite",
+    "en": "Jeddite\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder",
+    "ua": "Джеддіт\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder"
+  },
+  {
+    "var": "HOTRAITS_Geon",
+    "en": "Geon\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder",
+    "ua": "Ґеот\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder"
+  },
+  {
+    "var": "HOTRAITS_Deemer",
+    "en": "Deemer\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder",
+    "ua": "Дімер\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder"
+  },
+  {
+    "var": "HOTRAITS_Sephinroth",
+    "en": "Sephinroth\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder",
+    "ua": "Сефінрот\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder"
+  },
+  {
+    "var": "HOTRAITS_Darkstorn",
+    "en": "Darkstorn\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder",
+    "ua": "Дарксторн\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder"
+  },
+  {
+    "var": "HOTRAITS_Yog",
+    "en": "Yog\t15\t25\tGoblin\t5\t7\tGoblinWolfRider\t4\t6\tOrc",
+    "ua": "Йоґ\t15\t25\tGoblin\t5\t7\tGoblinWolfRider\t4\t6\tOrc"
+  },
+  {
+    "var": "HOTRAITS_Gurnisson",
+    "en": "Gurnisson\t15\t25\tGoblin\t1\t1\tBallista\t4\t6\tOrc",
+    "ua": "Ґарнісон\t15\t25\tGoblin\t1\t1\tBallista\t4\t6\tOrc"
+  },
+  {
+    "var": "HOTRAITS_Jabarkas",
+    "en": "Jabarkas\t15\t25\tGoblin\t4\t6\tOrc\t4\t6\tOrc",
+    "ua": "Джабаркас\t15\t25\tGoblin\t4\t6\tOrc\t4\t6\tOrc"
+  },
+  {
+    "var": "HOTRAITS_Shiva",
+    "en": "Shiva\t15\t25\tGoblin\t5\t7\tGoblinWolfRider\t4\t6\tOrc",
+    "ua": "Шива\t15\t25\tGoblin\t5\t7\tGoblinWolfRider\t4\t6\tOrc"
+  },
+  {
+    "var": "HOTRAITS_Gretchin",
+    "en": "Gretchin\t15\t25\tGoblin\t15\t25\tGoblin\t15\t25\tGoblin",
+    "ua": "Ґретчін\t15\t25\tGoblin\t15\t25\tGoblin\t15\t25\tGoblin"
+  },
+  {
+    "var": "HOTRAITS_Krellion",
+    "en": "Krellion\t15\t25\tGoblin\t5\t7\tGoblinWolfRider\t4\t6\tOrc",
+    "ua": "Крелліон\t15\t25\tGoblin\t5\t7\tGoblinWolfRider\t4\t6\tOrc"
+  },
+  {
+    "var": "HOTRAITS_Crag Hack",
+    "en": "Crag Hack\t15\t25\tGoblin\t5\t7\tGoblinWolfRider\t4\t6\tOrc",
+    "ua": "Краґ Хак\t15\t25\tGoblin\t5\t7\tGoblinWolfRider\t4\t6\tOrc"
+  },
+  {
+    "var": "HOTRAITS_Tyraxor",
+    "en": "Tyraxor\t5\t7\tGoblinWolfRider\t5\t7\tGoblinWolfRider\t5\t7\tGoblinWolfRider",
+    "ua": "Тіраксор\t5\t7\tGoblinWolfRider\t5\t7\tGoblinWolfRider\t5\t7\tGoblinWolfRider"
+  },
+  {
+    "var": "HOTRAITS_Gird",
+    "en": "Gird\t15\t25\tGoblin\t5\t7\tGoblinWolfRider\t4\t6\tOrc",
+    "ua": "Ґірд\t15\t25\tGoblin\t5\t7\tGoblinWolfRider\t4\t6\tOrc"
+  },
+  {
+    "var": "HOTRAITS_Vey",
+    "en": "Vey\t15\t25\tGoblin\t5\t7\tGoblinWolfRider\t4\t6\tOrc",
+    "ua": "Вей\t15\t25\tGoblin\t5\t7\tGoblinWolfRider\t4\t6\tOrc"
+  },
+  {
+    "var": "HOTRAITS_Dessa",
+    "en": "Dessa\t15\t25\tGoblin\t5\t7\tGoblinWolfRider\t4\t6\tOrc",
+    "ua": "Десса\t15\t25\tGoblin\t5\t7\tGoblinWolfRider\t4\t6\tOrc"
+  },
+  {
+    "var": "HOTRAITS_Terek",
+    "en": "Terek\t15\t25\tGoblin\t5\t7\tGoblinWolfRider\t4\t6\tOrc",
+    "ua": "Терек\t15\t25\tGoblin\t5\t7\tGoblinWolfRider\t4\t6\tOrc"
+  },
+  {
+    "var": "HOTRAITS_Zubin",
+    "en": "Zubin\t15\t25\tGoblin\t5\t7\tGoblinWolfRider\t4\t6\tOrc",
+    "ua": "Зубін\t15\t25\tGoblin\t5\t7\tGoblinWolfRider\t4\t6\tOrc"
+  },
+  {
+    "var": "HOTRAITS_Gundula",
+    "en": "Gundula\t15\t25\tGoblin\t5\t7\tGoblinWolfRider\t4\t6\tOrc",
+    "ua": "Гундула\t15\t25\tGoblin\t5\t7\tGoblinWolfRider\t4\t6\tOrc"
+  },
+  {
+    "var": "HOTRAITS_Oris",
+    "en": "Oris\t15\t25\tGoblin\t5\t7\tGoblinWolfRider\t4\t6\tOrc",
+    "ua": "Оріс\t15\t25\tGoblin\t5\t7\tGoblinWolfRider\t4\t6\tOrc"
+  },
+  {
+    "var": "HOTRAITS_Saurug",
+    "en": "Saurug\t15\t25\tGoblin\t5\t7\tGoblinWolfRider\t4\t6\tOrc",
+    "ua": "Сауруґ\t15\t25\tGoblin\t5\t7\tGoblinWolfRider\t4\t6\tOrc"
+  },
+  {
+    "var": "HOTRAITS_Bron",
+    "en": "Bron\t10\t20\tGnoll\t4\t7\tPrimitiveLizardman\t2\t4\tSerpentFly",
+    "ua": "Брон\t10\t20\tGnoll\t4\t7\tPrimitiveLizardman\t2\t4\tSerpentFly"
+  },
+  {
+    "var": "HOTRAITS_Drakon",
+    "en": "Drakon\t10\t20\tGnoll\t10\t20\tGnoll\t10\t20\tGnoll",
+    "ua": "Дракон\t10\t20\tGnoll\t10\t20\tGnoll\t10\t20\tGnoll"
+  },
+  {
+    "var": "HOTRAITS_Wystan",
+    "en": "Wystan\t4\t7\tPrimitiveLizardman\t4\t7\tPrimitiveLizardman\t4\t7\tPrimitiveLizardman",
+    "ua": "Вістан\t4\t7\tPrimitiveLizardman\t4\t7\tPrimitiveLizardman\t4\t7\tPrimitiveLizardman"
+  },
+  {
+    "var": "HOTRAITS_Tazar",
+    "en": "Tazar\t10\t20\tGnoll\t4\t7\tPrimitiveLizardman\t2\t4\tSerpentFly",
+    "ua": "Тазар\t10\t20\tGnoll\t4\t7\tPrimitiveLizardman\t2\t4\tSerpentFly"
+  },
+  {
+    "var": "HOTRAITS_Alkin",
+    "en": "Alkin\t10\t20\tGnoll\t4\t7\tPrimitiveLizardman\t2\t4\tSerpentFly",
+    "ua": "Алкін\t10\t20\tGnoll\t4\t7\tPrimitiveLizardman\t2\t4\tSerpentFly"
+  },
+  {
+    "var": "HOTRAITS_Korbac",
+    "en": "Korbac\t10\t20\tGnoll\t2\t4\tSerpentFly\t2\t4\tDragonFly",
+    "ua": "Корбак\t10\t20\tGnoll\t2\t4\tSerpentFly\t2\t4\tDragonFly"
+  },
+  {
+    "var": "HOTRAITS_Gerwulf",
+    "en": "Gerwulf\t10\t20\tGnoll\t1\t1\tBallista\t2\t4\tSerpentFly",
+    "ua": "Ґервульф\t10\t20\tGnoll\t1\t1\tBallista\t2\t4\tSerpentFly"
+  },
+  {
+    "var": "HOTRAITS_Broghild",
+    "en": "Broghild\t10\t20\tGnoll\t4\t7\tPrimitiveLizardman\t2\t4\tSerpentFly",
+    "ua": "Броґхіл\t10\t20\tGnoll\t4\t7\tPrimitiveLizardman\t2\t4\tSerpentFly"
+  },
+  {
+    "var": "HOTRAITS_Mirlanda",
+    "en": "Mirlanda\t10\t20\tGnoll\t4\t7\tPrimitiveLizardman\t2\t4\tSerpentFly",
+    "ua": "Мірланда\t10\t20\tGnoll\t4\t7\tPrimitiveLizardman\t2\t4\tSerpentFly"
+  },
+  {
+    "var": "HOTRAITS_Rosic",
+    "en": "Rosic\t10\t20\tGnoll\t4\t7\tPrimitiveLizardman\t2\t4\tSerpentFly",
+    "ua": "Росика\t10\t20\tGnoll\t4\t7\tPrimitiveLizardman\t2\t4\tSerpentFly"
+  },
+  {
+    "var": "HOTRAITS_Voy",
+    "en": "Voy\t10\t20\tGnoll\t4\t7\tPrimitiveLizardman\t2\t4\tSerpentFly",
+    "ua": "Воя\t10\t20\tGnoll\t4\t7\tPrimitiveLizardman\t2\t4\tSerpentFly"
+  },
+  {
+    "var": "HOTRAITS_Verdish",
+    "en": "Verdish\t10\t20\tGnoll\t1\t1\tFirstAidTent\t2\t4\tSerpentFly",
+    "ua": "Вердиш\t10\t20\tGnoll\t1\t1\tFirstAidTent\t2\t4\tSerpentFly"
+  },
+  {
+    "var": "HOTRAITS_Merist",
+    "en": "Merist\t10\t20\tGnoll\t4\t7\tPrimitiveLizardman\t2\t4\tSerpentFly",
+    "ua": "Меріста\t10\t20\tGnoll\t4\t7\tPrimitiveLizardman\t2\t4\tSerpentFly"
+  },
+  {
+    "var": "HOTRAITS_Styg",
+    "en": "Styg\t10\t20\tGnoll\t4\t7\tPrimitiveLizardman\t2\t4\tSerpentFly",
+    "ua": "Стига\t10\t20\tGnoll\t4\t7\tPrimitiveLizardman\t2\t4\tSerpentFly"
+  },
+  {
+    "var": "HOTRAITS_Andra",
+    "en": "Andra\t10\t20\tGnoll\t4\t7\tPrimitiveLizardman\t2\t4\tSerpentFly",
+    "ua": "Андра\t10\t20\tGnoll\t4\t7\tPrimitiveLizardman\t2\t4\tSerpentFly"
+  },
+  {
+    "var": "HOTRAITS_Tiva",
+    "en": "Tiva\t10\t20\tGnoll\t4\t7\tPrimitiveLizardman\t2\t4\tSerpentFly",
+    "ua": "Тива\t10\t20\tGnoll\t4\t7\tPrimitiveLizardman\t2\t4\tSerpentFly"
+  },
+  {
+    "var": "HOTRAITS_Pasis",
+    "en": "Pasis\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tAir Elementals",
+    "ua": "Разіс\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tAir Elementals"
+  },
+  {
+    "var": "HOTRAITS_Thunar",
+    "en": "Thunar\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tWater Elementals",
+    "ua": "Тунара\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tWater Elementals"
+  },
+  {
+    "var": "HOTRAITS_Ignissa",
+    "en": "Ignissa\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tWater Elementals",
+    "ua": "Іґнісса\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tWater Elementals"
+  },
+  {
+    "var": "HOTRAITS_Lacus",
+    "en": "Lacus\t15\t25\tPixies\t3\t5\tWater Elementals\t1\t2\tWater Elementals",
+    "ua": "Лакус\t15\t25\tPixies\t3\t5\tWater Elementals\t1\t2\tWater Elementals"
+  },
+  {
+    "var": "HOTRAITS_Monere",
+    "en": "Monere\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tAir Elementals",
+    "ua": "Монере\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tAir Elementals"
+  },
+  {
+    "var": "HOTRAITS_Erdamon",
+    "en": "Erdamon\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tWater Elementals",
+    "ua": "Ердамон\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tWater Elementals"
+  },
+  {
+    "var": "HOTRAITS_Fiur",
+    "en": "Fiur\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tWater Elementals",
+    "ua": "Фіур\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tWater Elementals"
+  },
+  {
+    "var": "HOTRAITS_Kalt",
+    "en": "Kalt\t15\t25\tPixies\t3\t5\tWater Elementals\t1\t2\tWater Elementals",
+    "ua": "Кальт\t15\t25\tPixies\t3\t5\tWater Elementals\t1\t2\tWater Elementals"
+  },
+  {
+    "var": "HOTRAITS_Luna",
+    "en": "Luna\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tWater Elementals",
+    "ua": "Луна\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tWater Elementals"
+  },
+  {
+    "var": "HOTRAITS_Brissa",
+    "en": "Brissa\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tWater Elementals",
+    "ua": "Брісса\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tWater Elementals"
+  },
+  {
+    "var": "HOTRAITS_Ciele",
+    "en": "Ciele\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tWater Elementals",
+    "ua": "Сіель\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tWater Elementals"
+  },
+  {
+    "var": "HOTRAITS_Labetha",
+    "en": "Labetha\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tWater Elementals",
+    "ua": "Лабета\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tWater Elementals"
+  },
+  {
+    "var": "HOTRAITS_Inteus",
+    "en": "Inteus\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tWater Elementals",
+    "ua": "Інтеус\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tWater Elementals"
+  },
+  {
+    "var": "HOTRAITS_Aenain",
+    "en": "Aenain\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tWater Elementals",
+    "ua": "Аенайн\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tWater Elementals"
+  },
+  {
+    "var": "HOTRAITS_Gelare",
+    "en": "Gelare\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tWater Elementals",
+    "ua": "Ґелар\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tWater Elementals"
+  },
+  {
+    "var": "HOTRAITS_Grindan",
+    "en": "Grindan\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tWater Elementals",
+    "ua": "Ґріндан\t15\t25\tPixies\t3\t5\tAir Elementals\t2\t3\tWater Elementals"
+  },
+  {
+    "var": "HOTRAITS_Sir Mullich",
+    "en": "Sir Mullich\t10\t20\tPikeman\t4\t7\tArcher\t2\t3\tGriffin",
+    "ua": "Сер Мюлліх\t10\t20\tPikeman\t4\t7\tArcher\t2\t3\tGriffin"
+  },
+  {
+    "var": "HOTRAITS_Adrienne",
+    "en": "Adrienne\t10\t20\tGnoll\t4\t7\tLizardman\t2\t4\tSerpent Fly",
+    "ua": "Адріана\t10\t20\tGnoll\t4\t7\tLizardman\t2\t4\tSerpent Fly"
+  },
+  {
+    "var": "HOTRAITS_Catherine",
+    "en": "Catherine\t10\t20\tPikeman\t4\t7\tArcher\t2\t3\tGriffin",
+    "ua": "Катерина\t10\t20\tPikeman\t4\t7\tArcher\t2\t3\tGriffin"
+  },
+  {
+    "var": "HOTRAITS_Dracon",
+    "en": "Dracon\t6\t6\tEnchanters\t3\t3\tEnchanters\t1\t1\tEnchanters",
+    "ua": "Дракон\t6\t6\tEnchanters\t3\t3\tEnchanters\t1\t1\tEnchanters"
+  },
+  {
+    "var": "HOTRAITS_Gelu",
+    "en": "Gelu\t6\t6\tSharpshooters\t3\t3\tSharpshooters\t1\t1\tSharpshooters",
+    "ua": "Ґело\t6\t6\tSharpshooters\t3\t3\tSharpshooters\t1\t1\tSharpshooters"
+  },
+  {
+    "var": "HOTRAITS_Kilgor",
+    "en": "Kilgor\t15\t25\tGoblins\t5\t7\tGoblin Wolf Rider\t4\t6\tOrc",
+    "ua": "Кілґор\t15\t25\tGoblins\t5\t7\tGoblin Wolf Rider\t4\t6\tOrc"
+  },
+  {
+    "var": "HOTRAITS_Lord Haart",
+    "en": "Lord Haart\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight",
+    "ua": "Лорд Хаарт\t20\t30\tSkeleton\t4\t6\tZombie\t4\t6\tWight"
+  },
+  {
+    "var": "HOTRAITS_Mutare",
+    "en": "Mutare\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder",
+    "ua": "Мутара\t30\t40\tTroglodyte\t4\t6\tHarpy\t3\t4\tBeholder"
+  },
+  {
+    "var": "HOTRAITS_Roland",
+    "en": "Roland\t10\t20\tPikeman\t4\t7\tArcher\t2\t3\tGriffin",
+    "ua": "Роланд\t10\t20\tPikeman\t4\t7\tArcher\t2\t3\tGriffin"
+  },
+  {
+    "var": "HOTRAITS_Mutare Drake",
+    "en": "Mutare Drake\t10\t20\tPikeman\t4\t7\tArcher\t2\t3\tGriffin",
+    "ua": "Мутара Драк\t10\t20\tPikeman\t4\t7\tArcher\t2\t3\tGriffin"
+  },
+  {
+    "var": "HOTRAITS_Boragus",
+    "en": "Boragus\t10\t20\tPikeman\t4\t7\tArcher\t2\t3\tGriffin",
+    "ua": "Бораґус\t10\t20\tPikeman\t4\t7\tArcher\t2\t3\tGriffin"
+  },
+  {
+    "var": "HOTRAITS_Xeron",
+    "en": "Xeron\t10\t20\tPikeman\t4\t7\tArcher\t2\t3\tGriffin",
+    "ua": "Ксерон\t10\t20\tPikeman\t4\t7\tArcher\t2\t3\tGriffin"
+  }
+]

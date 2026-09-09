@@ -1,0 +1,14 @@
+[
+  {
+    "var": "FESTIVAL_campaign_name",
+    "field": "wrapper_campaign_name",
+    "en": "Festival of life",
+    "ua": "Фестиваль Життя"
+  },
+  {
+    "var": "FESTIVAL_campaign_desc",
+    "field": "wrapper_campaign_desc",
+    "en": "Every thirty years the youth of Krewlod are given the opportunity to replace the clan leaders and vie for the throne.  Defeat the ancient behemoth Razor Claw, clear an area of beasts left wild for thirty years, defeat the other rivals for the throne and finally challenge the king himself!  ",
+    "ua": "Раз на тридцять років молоді юнаки Крулода мають шанс поборотися за трон правителя. Для цього необхідно знищити стародавнє чудовисько, очистити територію від диких істот, що заповнили її за останні тридцять років, а потім перемогти решту претендентів на трон."
+  }
+]

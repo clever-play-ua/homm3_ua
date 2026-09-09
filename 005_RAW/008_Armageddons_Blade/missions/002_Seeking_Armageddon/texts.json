@@ -1,0 +1,194 @@
+[
+  {
+    "var": "AB_M2_prolog",
+    "field": "wrapper_prolog",
+    "en": "The greatest hero in all Eeofol is Xeron the Terrible.  He has been attempting to fulfill King Lucifer's vision for some time now, but every time he has gotten close to one of the objects needed to build Armageddon's Blade, a hero from the Elemental Conflux has arrived to take it.  Now he has them cornered in Avlee and they are ripe for the picking.",
+    "ua": "Найвеличніший герой Еофола - це Жахливий Ксерон. Він був покликаний, щоб здійснити давню мрію Люцифера, але варто йому впритул підібратися до будь-якого з артефактів, необхідних для створення Клинка Армагеддону, як герої Колоній випереджають його. Але тепер він загнав їх у кут в Ав-Лі, і готовий розправитися з ними."
+  },
+  {
+    "var": "AB_M2_epilog",
+    "field": "wrapper_epilog",
+    "en": "My quest is sacred, given to me by the king himself.  I have searched the continent for the relics he desires.  When I have come close, a mysterious hero has spirited my prize away.  I have pursued these heroes for months.  Now, I have them cornered.  They will either surrender the relics, their lives... or both.",
+    "ua": "Мій похід освячено наказом самого короля. Я пройшов по всьому континенту у пошуках бажаних його серцю реліквій. Коли мета була вже близька, таємничі вершники випередили мене. Я переслідував їх довгі місяці, поки, нарешті, не загнав у кут. Доведеться їм вибирати, з чим розлучитися: з реліквіями або з життям... або і з тим, і з іншим одночасно."
+  },
+  {
+    "var": "AB_M2_map_name",
+    "field": "map_map_name",
+    "en": "Seeking Armageddon",
+    "ua": "У пошуках Клинка"
+  },
+  {
+    "var": "AB_M2_map_desc",
+    "field": "map_map_desc",
+    "en": "Xeron must gather the Sword of Hellfire, Breastplate of Brimstone, and Shield of the Damned.  If he dies, Eeofol's hopes die with him.  He will be able to advance to 12th Level, all of his experience, skills, and spells shall transfer with him to the next scenario.",
+    "ua": "Ксерон повинен відшукати Меч пекельного полум'я, Збрую самородної сірки і Щит проклятих. Його смерть зруйнує всі надії на перемогу Еофола. Зерон обмежений 12 рівнем. Якщо він переможе, його досвід, первинні та вторинні навички, а також Чарівна книга перейдуть у наступний сценарій разом з ним."
+  },
+  {
+    "var": "AB_M2_obj0_town_name",
+    "field": "map_obj0_town_name",
+    "en": "Mourningdale",
+    "ua": "Мурнингдейл"
+  },
+  {
+    "var": "AB_M2_obj1_town_name",
+    "field": "map_obj1_town_name",
+    "en": "Havoc Peak",
+    "ua": "Пік Хаосу"
+  },
+  {
+    "var": "AB_M2_obj12_town_name",
+    "field": "map_obj12_town_name",
+    "en": "Blackpool",
+    "ua": "Блекпул"
+  },
+  {
+    "var": "AB_M2_obj197_town_name",
+    "field": "map_obj197_town_name",
+    "en": "Sevenar",
+    "ua": "Севенар"
+  },
+  {
+    "var": "AB_M2_obj297_town_name",
+    "field": "map_obj297_town_name",
+    "en": "Tieldis",
+    "ua": "Тільдис"
+  },
+  {
+    "var": "AB_M2_obj395_town_name",
+    "field": "map_obj395_town_name",
+    "en": "Shantalla",
+    "ua": "Шанталія"
+  },
+  {
+    "var": "AB_M2_obj1504_guardian_mesg",
+    "field": "map_obj1504_guardian_mesg",
+    "en": "Gleaming in the sun is a breastplate that glows with an eerie orange light.  As you get closer, you notice that flames appear to dance within the metal, under its surface.  It is an odd looking sight to be sure.  You immediately recognize that which you have sought for so long, The Breastplate of Brimstone.",
+    "ua": "У променях сонця виблискує незвичайний обладунок, сяє загадковим помаранчевим блиском. Підійшовши ближче, ви помічаєте, що язички полум'я грають всередині самої сталі. Ви одразу ж впізнаєте довгоочікувану Збрую самородної сірки."
+  },
+  {
+    "var": "AB_M2_obj1514_guardian_mesg",
+    "field": "map_obj1514_guardian_mesg",
+    "en": "As the ground glistens from the coursing magical energy surrounding it, you notice a shield that is charged with hellish flame.  Red and black flames lick about its surface and outline it in an ominous way.",
+    "ua": "Земля тут випромінює темну силу. Ви помічаєте щит, заряджений пекельним полум'ям. По його поверхні пробігають чорні та червоні язики полум'я, зловісно відбиваючись у полірованій поверхні."
+  },
+  {
+    "var": "AB_M2_obj1519_guardian_mesg",
+    "field": "map_obj1519_guardian_mesg",
+    "en": "Lying atop a small altar is a sword, its blade forged in the putrid flames of Hell itself.  It calls to you and you oblige its wicked desire for carnage by strapping it to your side.",
+    "ua": "На невеликому вівтарі спочиває меч, викуваний у вогні скверни - у глибині пекла. Меч волає до вас, він жадає проливати кров. Підкоряючись поклику, ви чіпляєте його собі на пояс."
+  },
+  {
+    "var": "AB_M2_obj1521_town_name",
+    "field": "map_obj1521_town_name",
+    "en": "Phaedral",
+    "ua": "Федраль"
+  },
+  {
+    "var": "AB_M2_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Opening",
+    "ua": "Opening"
+  },
+  {
+    "var": "AB_M2_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "\"You, my faithful Xeron, have been given the glorious task of locating the artifacts needed to construct Armageddon's Blade.  Your past failures aside, you are the one best suited to this task.  My visions have told me such,\" the visage of Lucifer speaks in gentle but powerful tones.\n\n\"The three Elemental heroes who bested you in the past have been located and seem contained for the moment.  Though they have taunted you by gathering that which you seek prior to your arrival, you must concentrate on your quest.  Do not let petty things like pride get in your way.  Xenofex was a fool and allowed himself to be arrogant and prideful.  It was these things that lead to his demise at the hands of those heroes from Erathia.\"\n\n\"You have been given the Shackles of War as a method of ensuring that these heroes will not get away.  Corner them, locate the artifacts you need, and punish them for their transgression.  How dare they stand in our way.\"\n\n\"You were chosen for your loyalty and tenacity.  Do not fail me.  I will be watching your progress.\"  With that, the image fades and you are left to your own devices and planning.  This time, you vow by all that is dark and unholy, failure is no longer acceptable.  To fail is to die; to succeed, your only purpose in life.",
+    "ua": "\"Мій вірний Ксерон, тобі випала величезна честь зібрати і доставити до моїх ніг артефакти, з яких ми викуємо великий Клинок Армагеддону Забудемо помилки минулого; Ти як і раніше мій найкращий воїн Так кажуть видіння\". - Голос Люцифера м'який, але суворий.\n\n\"Ми виявили полководців-елементалів, яким ти зобов'язаний своєю невдачею. Вони в пастці. Колись вони завдали тобі тяжкої образи, випередивши на лічені хвилини. Але не варто відволікатися на помсту. Не можна дозволяти дурній гордині брати верх над розумом. Зінофекс був дурнем. Занадто гордий і сміливий. Тому й упав від руки ерафійців.\n\nТвоїм ворогам не сховатися, для цього я вручаю тобі Кайдани війни. Зажени ворога в кут, відбери артефакти і покарай за зухвалість. Ніхто не сміє ставати у нас на шляху.\n\nТи був обраний мною за відданість і завзятість. Гляди ж, не підведи... Я буду наглядати за тобою\"- Видіння тане Далі доведеться діяти самому Ви присягаєтесь силами великої темряви, що цього разу принесете королю перемогу. Поразка означає для вас смерть, перемога - єдина мета вашого життя..."
+  },
+  {
+    "var": "AB_M2_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "A Visit from Sleen",
+    "ua": "A Visit from Sleen"
+  },
+  {
+    "var": "AB_M2_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "With a \"bamf\" sound and a cloud of brimstone teleports in Xex, the messenger you sent to locate a knowledgeable sage.  Xex has in his clutches a smallish human with dark features and a bushy mustache.  The man dusts himself off as if he could simply brush away the noxious smell of the demonic teleportation.\n\n\"Are you that which I seek human?\"\n  \nSleen looks a bit nervous, but bows deeply and replied \"I am he, Judge Sleen, Master Sage and Arcane Historian.\"\n\n\"Tell me all you know of the three Conflux heroes who have eluded me so these many weeks.  I shall know that which you know or I shall rip your heart from your breast and have myself a little snack.\"\n\nGulping deeply, Sleen replies \"They are Fiur of the Fire Domain, Ciele of the Eternal Ocean, and Erdamon, he of the Plane of Earth.  Fiur guards the Shield of the Damned; Ciele the Sword of Hellfire; and Erdamon the Breastplate of Brimstone.  When combined correctly, the three can be formed into a weapon of immense power, dubbed most aptly Armageddon's Blade.\"\n\n\"Excellent, human.  You may live yet another hour.  And tell me, where might I find these heroes?\"  You then begin drumming your fingertips against one another in a contemplative fashion.\n\n\"Fiur can be found to the Southwest.  I know not the location of the other two your unholiness,\" Sleen oozes.  \"But I would be most pleased and honored if you would allow me to discover the whereabouts of this elusive pair.\"\n\n\"Very well, Sage, but if you do not bring me that which I seek in one week I shall send Xex to retrieve your still beating heart for my supper.  Now GO!\" \n\n With that Xex grabs the frightened sage and \"bamfs\" away.  You smile an evil smile and call to your captains.  Fiur is again within your grasp with nowhere to go this time.",
+    "ua": "Хлоп! У хмарі сірки перед вами виникає Зексе, гонець, якого ви відправили підшукати якнайнадійнішого мудреця. У його пазурах бовтається крихітний темношкірий чоловічок з пишними вусами. Чоловічок ніяково обтрушується - ніби так просто вбити отруйний запах демонічного порталу!\n\n\"Смертний, ти той, кого я шукав?\"\n\nЧоловічок злегка хвилюється. Він відважує низький уклін і вимовляє: \"О, так, мілорд Я Сліїн, верховний мудрець, і знавець давньої історії.\"\n\n\"Так розкажи мені все, що тобі відомо про трьох героїв Колонії, які раз по раз від мене вислизають. Дай мені це знання, або я вирву твоє заяче серце і засмажу собі на обід\".\n\nВажко ковтнувши, Сліїн відповідає: \"Їх імена - Фіур з Дому Полум'я, Сійла з одвічного Океану й Ердамон з Виміру Землі. Фіур стереже Щит проклятих, Сійла охороняє Меч пекельного полум'я, а Ердамон - Збрую самородної сірки Якщо належним чином поєднати ці три артефакти...  вийде зброя надзвичайної потужності, відома світу як Клинок Армагеддону\".\n\n\"Вітаю, смертний. Вважай, ти відстрочив свою загибель на цілу годину. А тепер розкажи мені, де шукати цих героїв? - Ви нетерпляче поклацуєте пальцями.\n\n\"Фіур живе на північний захід звідси. Решта - не можу знати, ваша нечисть, - стелиться перед вами Сліїн -. Надайте милість, дозвольте мені відправитися назад і розшукати їх для вас\".\n\n\"Домовилися, мудрець. Даю тобі терміну тиждень. Якщо до того часу не принесеш мені вістів, я пришлю Зексе. Та не за тобою, а за твоїм серцем. І підсмажу-таки його на вечерю. Іди геть!\"\n\nЗексе хапає переляканого мудреця в кігті, хлоп! - І вони зникають. Зловісно посміхаючись, ви закликаєте начальників варти. До хатини Фіура рукою подати, і цього разу йому не вислизнути з ваших лещат!"
+  },
+  {
+    "var": "AB_M2_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "To Catch a Spy",
+    "ua": "To Catch a Spy"
+  },
+  {
+    "var": "AB_M2_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "You were out pacing in the darkness last night, pondering the possibilities, when you suddenly heard a noise to your left.  Slowly you spun to see the source of said noise.  To your delight you noticed a small elven man shimmying up a tree with a spyglass and quiver of arrows.  You grinned to yourself and teleported to the man's position.  The stench of brimstone filled the elf's nostrils and nearly caused him to gag.  You smiled evilly at the spy and snatched him away to interrogate him.\n\nThe interrogation was long and excruciatingly painful for the elf, but alas, he would not talk.  The Erathians train their Forestguard well, or so it would appear.  The leader of these raids must be located and dealt with.",
+    "ua": "Минулої ночі ви ніяк не могли заснути і блукали навколо намету, прикидаючи ваші можливості. Раптово в деревах зліва почувся шурхіт. Обережно повернувши голову, ви помітили в гілках дерева невисокого ельфа з підзорної трубою і сагайдаком стріл. Ага! Ви миттю телепортувалися наверх, поширюючи задушливий запах сірки, зловісно усміхнулися шпигунові і повели його на допит.\n\nТортури були довгими і неймовірно жорстокими, але ельф зціпив зуби і мовчав. Шкода. Все-таки ерафійці знають толк в навчанні Лісової варти. Треба б знайти і покарати їх ватажка..."
+  },
+  {
+    "var": "AB_M2_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "Guerilla Raid",
+    "ua": "Guerilla Raid"
+  },
+  {
+    "var": "AB_M2_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "Your minions report that several key supply trains have been ambushed, the contents looted, and the wagons smashed.  Unfortunately the bandits escaped before any could be captured.  This will be a costly problem.",
+    "ua": "Варта повідомляє, що частина обозів потрапила в засідку. Майно розграбоване, вози розламані на тріски. Розбійникам вдалося сховатися. Жорстока втрата."
+  },
+  {
+    "var": "AB_M2_mapevent4_name",
+    "field": "map_mapevent4_name",
+    "en": "Sleen Returns",
+    "ua": "Sleen Returns"
+  },
+  {
+    "var": "AB_M2_mapevent4_mesg",
+    "field": "map_mapevent4_mesg",
+    "en": "The flap to your tent is flung aside and a human figure thrown to the floor at his feet.  You twist your face into a toothy grin and gaze down upon the pathetic excuse for a man that lay there, broken and battered.  \n\n\"Good morning Sleen, what brings you to my door on this fine dreary day?\"\n\nSleen simply rolls over onto his back and tries to focus his eyes, which are glazing over due to injuries caused by your rather overanxious guards.  \n\n\"I bring news to you, Your Eminence, of the two Conflux heroes you seek.  Ciele the Waverider is to be found near the town of Phaedral and is heavily fortified.  Erdamon the Earth Channeler is located southeast of that town, and not too far away either,\" the slippery human reports, his eyes darting about the tent seeking a way out should this dark lord become displeased with the report.\n\n\"Very well, human.  You may return to your wretched little life.  I shall spare you as I said I would.  Now go!  Leave my presence before I decide it is time to snack.  XEX!  Get this pathetic worm away from here.  Take him someplace. . .unpleasant.\" \n\nWith that, the big devil Xex grasps Sleen by the wrist and \"bamfs\" out.  Returning moments later, Xex reports he dropped Sleen in the midst of a battle between some young wizard's army of Archmagi and a group of purple dragons with butterfly wings.  He figured it was as unpleasant as he could get without killing him.",
+    "ua": "Полог намету розорюється, і до ваших ніг падає людина - або людини жалюгідна подоба. Ви оголює зуби в зловісній усмішці. Кістки прохача переламані; він сильно побитий.\n\n\"Добрий Ранок, Сліїн, як вдало воно не склалося для декого, га? Що привело тебе до мене?\" - Сліїн перевертається на спину, намагаючись зловити ваш погляд. Заплилі очі ледь відкриваються; охорона злегка перестаралася.\n\n\"Ваша світлосте, я дізнався про те, що ви просили. Сійла Що-біжить-по-Хвилях живе поблизу міста Федраль під надійною охороною. На південний схід звідти живе й Ердамон, Провідник Землі.\", - Бурмоче слизький чоловічок, а очі вже стріляють навкруги, шукаючи, куди сховатися, якщо темний лорд залишиться ним незадоволений.\n\n\"Добре, смертний. Я не стану забирати твоє життя. Воно занадто незначне; І потім, я давав слово. Біжи, поки я не зголоднів. Зексе Прибери цю нікчему з очей геть. Понеси куди-небудь... де тепліше...\"\n\nГромила Зексе хапає мудреця за зап'ястя і з хлопком зникає. За мить він вже повертається. Він закинув Сліїна в гущу битви між юним чарівником, полководцем архімагом, і стадом кумедних фіолетових драконів. Тепліше не придумаєш: саме пекло."
+  },
+  {
+    "var": "AB_M2_mapevent5_name",
+    "field": "map_mapevent5_name",
+    "en": "Bad News Guerillas",
+    "ua": "Bad News Guerillas"
+  },
+  {
+    "var": "AB_M2_mapevent5_mesg",
+    "field": "map_mapevent5_mesg",
+    "en": "Reports start pouring in from all across the land.  Someone has been hitting small encampments and even a few daring runs into cities.  They are small in number, yet very powerful.  These hit and fade style attacks are difficult to guard against, but you manage to convince your minions it is indeed possible to stop these guerilla raids.",
+    "ua": "З усіх кінців землі починають приходити доноси про дивних і зухвалих розбійників, які нападають на стоянки воїнів і невеликі міста. Розбійники нечисленні, але дуже сильні. Вони приходять в ночі і безслідно зникають вранці. Від них немає порятунку. Все ж вам вдається переконати варту, що покінчити з партизанами цілком можливо."
+  },
+  {
+    "var": "AB_M2_mapevent6_name",
+    "field": "map_mapevent6_name",
+    "en": "Treasure!!!",
+    "ua": "Treasure!!!"
+  },
+  {
+    "var": "AB_M2_mapevent6_mesg",
+    "field": "map_mapevent6_mesg",
+    "en": "One of your spies reports a large cache of gold and resources lies to the north.",
+    "ua": "Розвідники доносять, що на північ звідси виявлений великий поклад золота і ресурсів."
+  },
+  {
+    "var": "AB_M2_mapevent7_name",
+    "field": "map_mapevent7_name",
+    "en": "Sit Rep",
+    "ua": "Sit Rep"
+  },
+  {
+    "var": "AB_M2_mapevent7_mesg",
+    "field": "map_mapevent7_mesg",
+    "en": "\"King Lucifer wishes to know what you are doing to acquire the pieces needed to build that which he has dreamt of non-stop for weeks now, Armageddon's Blade,\" came the deep baritone voice in the red crystal shard kept in the Chamber of Speaking.  Your heart leapt into your throat.\n\n\"I have learned the location of the three heroes you seek, my master.  All that is left is to destroy these excuses for armies.  I shall have them in my possession soon.  Fear not, for failure is not an option for me.\"\n\n\"See that you do, Xeron.  I would hate to think what would happen should you fail.\"  The voice then trails off into the blackness, the crimson stone strangely silent and dull in color, and you are left alone.",
+    "ua": "\"Король Люцифер хоче знати, як просуваються пошуки бажаних його серцю артефактів, числом три, потрібних для створення Клинка Армагеддону, про який він марить ось вже багато тижнів\", - промовив глибокий голос з надр червоного кристалу Зали Промов. Серце стрибнуло і відчайдушно забилося.\n\n\"Мій володарю, я дізнався, де шукати втікачів героїв. Залишилося розбити їх так звані війська. Скоро, дуже скоро артефакти будуть у моїх руках. Не сумнівайтеся в моєму успіху\".\n\n\"Дуже сподіваюся, Ксерон. Ти ж знаєш, що буває з тими, хто мене підводить. Дуже не хочу, щоб те саме сталося і з тобою\". Голос затихає в темряві. Малиновий кристал тьмяніє... гасне... Ви знову один."
+  },
+  {
+    "var": "AB_M2_mapevent8_name",
+    "field": "map_mapevent8_name",
+    "en": "A Union is Formed",
+    "ua": "A Union is Formed"
+  },
+  {
+    "var": "AB_M2_mapevent8_mesg",
+    "field": "map_mapevent8_mesg",
+    "en": "A young pit fiend strides into the center of the encampment and makes his way to you.  Once there, he snaps a salute and informs you that rumor has it Queen Catherine and these accursed Elemental Confluxes have reached an agreement allying themselves against the might of Eeofol.\n\n\"No matter of great concern.  Once the Blade has been constructed, nothing may stand in the way.  They shall all drown in lakes of blood, with fire as their only epitaph.\"",
+    "ua": "Молоденький демон безодні шукає вас по всьому табору. Він витягується в струнку, віддає честь і доповідає: за чутками, королева Катерина щойно уклала союз з Колоніями проти Еофола.\n\n\"Не варто й турбуватися. Як тільки в наших руках опиниться Клинок, ніщо не зможе загородити нам шлях. Їх чекають річки і моря крові, і епітафія на їх могилах буде написана вогнем\"."
+  }
+]

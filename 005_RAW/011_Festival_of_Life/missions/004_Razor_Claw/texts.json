@@ -1,0 +1,224 @@
+[
+  {
+    "var": "FESTIVAL_M4_prolog",
+    "field": "wrapper_prolog",
+    "en": "The time has come for you to challenge the elders for leadership.  Like other young prospects of the tribe you must pass through three tests.  The first test is simple, kill an Ancient Behemoth.  For three generations the Ancient Behemoth Razor Claw has resisted attempts to kill it off, now it is your time to make the attempt.  Complete this simple task to continue with the festival of life.",
+    "ua": "Виступаючи поруч з батьком, Кілґор не раз вбивав звичайних чудовиськ, але стародавніх - ще ніколи. Щоб отримати право оскаржувати трон, він повинен перемогти могутнього звіра.\n"
+  },
+  {
+    "var": "FESTIVAL_M4_epilog",
+    "field": "wrapper_epilog",
+    "en": "Alongside my father I have killed Behemoth before, but never an Ancient Behemoth.  To contest the throne, I must slay one of these fearsome beasts.  I relish the encounter.  After I have slain this one, I will know how to subdue them.  Then I will employ them in my bloody ascension to kingship.",
+    "ua": "Виступаючи поруч з батьком, я не раз вбивав звичайних чудовиськ, але древніх - ще ніколи. Щоб отримати право на трон, я повинен перемогти могутнього звіра. Не можу дочекатися сутички! Вбивши одного, я дізнаюся, як підпорядкувати собі інших. І поведу їх у бій за королівський титул."
+  },
+  {
+    "var": "FESTIVAL_M4_map_name",
+    "field": "map_map_name",
+    "en": "Razor Claw",
+    "ua": "Гострозуб"
+  },
+  {
+    "var": "FESTIVAL_M4_map_desc",
+    "field": "map_map_desc",
+    "en": "The task of killing Razor Claw has been given to you.  Prove yourself and defeat the Ancient Behemoth in three months or lose your chance at becoming King.  If Kilgor is lost then his chance to become king ends also.  Kilgor is limited to twelfth level.\n",
+    "ua": "Ваше завдання - вбивство чудовиська на ім'я Гострозуб. Зробіть все можливе, щоб знищити це древнє чудовисько за три місяці, або втратите шанс стати королем. Якщо Кілґор буде переможений, він також позбудеться права на трон. Розвиток Кілґора обмежено дванадцятим рівнем."
+  },
+  {
+    "var": "FESTIVAL_M4_p0_hero_name",
+    "field": "map_p0_hero_name",
+    "en": "Kilgor",
+    "ua": "Кілґор"
+  },
+  {
+    "var": "FESTIVAL_M4_p0_owned_hero_name",
+    "field": "map_p0_owned_hero_name",
+    "en": "Kilgor",
+    "ua": "Кілґор"
+  },
+  {
+    "var": "FESTIVAL_M4_rumor0_name",
+    "field": "map_rumor0_name",
+    "en": "Spirits of the behemoth's victims.",
+    "ua": "Spirits of the behemoth's victims."
+  },
+  {
+    "var": "FESTIVAL_M4_rumor0_desc",
+    "field": "map_rumor0_desc",
+    "en": "It is said that the spirits of Razor Claw's past victims still roam his lair.",
+    "ua": "Подейкують, що духи жертв Гострозуба відвідують його володіння."
+  },
+  {
+    "var": "FESTIVAL_M4_rumor1_name",
+    "field": "map_rumor1_name",
+    "en": "Underground",
+    "ua": "Underground"
+  },
+  {
+    "var": "FESTIVAL_M4_rumor1_desc",
+    "field": "map_rumor1_desc",
+    "en": "Its rumored that Razor Claw lairs underground and keeps dragons as guard dogs.",
+    "ua": "Кажуть, що Гострозуб ховається в підземеллях і використовує драконів як сторожових собак."
+  },
+  {
+    "var": "FESTIVAL_M4_rumor2_name",
+    "field": "map_rumor2_name",
+    "en": "Razor Claw with family.",
+    "ua": "Razor Claw with family."
+  },
+  {
+    "var": "FESTIVAL_M4_rumor2_desc",
+    "field": "map_rumor2_desc",
+    "en": "Its rumored that Razor Claw sometimes hangs out with his family (a dozen other Behemoths), and sometimes he has Black Dragons as pets.",
+    "ua": "Подейкують, що Гострозуб частенько робить прогулянки в супроводі своїх родичів - дюжини чудовиськ або улюбленців - чорних драконів."
+  },
+  {
+    "var": "FESTIVAL_M4_obj218_guardian_mesg",
+    "field": "map_obj218_guardian_mesg",
+    "en": "You save an old sailor from some Orcs and in gratitude he gives you his Speculum.",
+    "ua": "В подяку за порятунок від орків, старий моряк дарує вам Телескоп."
+  },
+  {
+    "var": "FESTIVAL_M4_obj327_sign_mesg",
+    "field": "map_obj327_sign_mesg",
+    "en": "You no use boat...boat belongs to Yog.  Touch and die!",
+    "ua": "Не чіпай корабля... Він належить Йогу. Тільки спробуй, і помреш!"
+  },
+  {
+    "var": "FESTIVAL_M4_obj373_monster_mesg",
+    "field": "map_obj373_monster_mesg",
+    "en": "The Guardsmen move to protect their school.",
+    "ua": "Стражі захищають свою гільдію."
+  },
+  {
+    "var": "FESTIVAL_M4_obj496_monster_mesg",
+    "field": "map_obj496_monster_mesg",
+    "en": "You find a group of Ogres friendly to your home tribe.",
+    "ua": "Ви зустріли дружелюбний загін огрів."
+  },
+  {
+    "var": "FESTIVAL_M4_obj508_guardian_mesg",
+    "field": "map_obj508_guardian_mesg",
+    "en": "An old archer gives you one of his spare bows.",
+    "ua": "Старий лучник подарував вам один зі своїх трофеїв."
+  },
+  {
+    "var": "FESTIVAL_M4_obj627_monster_mesg",
+    "field": "map_obj627_monster_mesg",
+    "en": "Some renegade ogres decide it would be in their best interest not to fight you.",
+    "ua": "Серед огрів є відступники, які вважають, що битися із вами поза їхніми інтересами."
+  },
+  {
+    "var": "FESTIVAL_M4_obj632_guardian_mesg",
+    "field": "map_obj632_guardian_mesg",
+    "en": "Ambush!",
+    "ua": "Засідка!"
+  },
+  {
+    "var": "FESTIVAL_M4_obj633_guardian_mesg",
+    "field": "map_obj633_guardian_mesg",
+    "en": "Ambush!",
+    "ua": "Засідка!"
+  },
+  {
+    "var": "FESTIVAL_M4_obj794_guardian_mesg",
+    "field": "map_obj794_guardian_mesg",
+    "en": "A large group of friendly Hobgoblins suddenly boil out of the mountains and join you.",
+    "ua": "Раптово з-за пагорбів показується натовп доброзичливо налаштованих хобгоблінів, які негайно приєднуються до вас."
+  },
+  {
+    "var": "FESTIVAL_M4_obj1383_guardian_mesg",
+    "field": "map_obj1383_guardian_mesg",
+    "en": "Black dragons swoop down and ask if they can join in your crusade to fight their long-time, hated enemy Razor Claw (They were once pets).",
+    "ua": "Чорні дракони хочуть приєднатися до вас, щоб битися проти ненависного Гострозуба - адже він використовував їх як домашніх тварин!"
+  },
+  {
+    "var": "FESTIVAL_M4_obj1385_guardian_mesg",
+    "field": "map_obj1385_guardian_mesg",
+    "en": "A large group of friendly Wolf Raiders suddenly appear out of the trees. ",
+    "ua": "Раптово з лісу з'являється велика зграя доброзичливо налаштованих наїзників на вовках."
+  },
+  {
+    "var": "FESTIVAL_M4_obj1386_guardian_mesg",
+    "field": "map_obj1386_guardian_mesg",
+    "en": "Scouts report a stronghold not far to the south (just follow the road), which would make a good first base of operation.",
+    "ua": "Розвідники доповідають, що недалеко звідси в південному напрямі знаходиться фортеця, яка послужить непоганою базою для операції. Дотримуйтесь дороги, щоб потрапити туди."
+  },
+  {
+    "var": "FESTIVAL_M4_obj1393_monster_mesg",
+    "field": "map_obj1393_monster_mesg",
+    "en": "The Gorgons seem to be drinking. They look up and decide a nice snack might also be in order.",
+    "ua": "Схоже, горгони втамовують спрагу. Озирнувшись, вони розуміють, що заодно можуть вгамувати і свій голод."
+  },
+  {
+    "var": "FESTIVAL_M4_obj1415_sign_mesg",
+    "field": "map_obj1415_sign_mesg",
+    "en": "Remember Gor-al the Bold buried on this spot, he fought the Claw but the Claw won.",
+    "ua": "Тут похований Хоробрий Гор-ал:\nВін бився із Гострозубом і програв."
+  },
+  {
+    "var": "FESTIVAL_M4_obj1429_guardian_mesg",
+    "field": "map_obj1429_guardian_mesg",
+    "en": "There seems to be a family of Ogre Mages here guarding three different artifacts.  They dare you to try and take them.",
+    "ua": "Сім'я огрів-магів охороняє три артефакти. Вони пропонують вам битися з ними за ці артефакти."
+  },
+  {
+    "var": "FESTIVAL_M4_obj1484_hero_name",
+    "field": "map_obj1484_hero_name",
+    "en": "Kilgor",
+    "ua": "Кілґор"
+  },
+  {
+    "var": "FESTIVAL_M4_obj1494_guardian_mesg",
+    "field": "map_obj1494_guardian_mesg",
+    "en": "The stench of Razor Claw (worse then your average Behemoth stench) wafts up from the depths.  You also can hear other Behemoths below, perhaps his family (which is rather large from rumors) has decided to join him in his cave.  It does not matter,  they will all fall to your sword.  Unconsciously a shiver runs down your spine as you move toward the entrance..",
+    "ua": "Сморід, що виходить від Гострозубого (гірший, ніж сморід звичайних чудовиськ) піднімається з глибин. Ви також чуєте інших чудовиськ з його почту (з чуток, досить численного), що вирішив приєднатися до нього в його печері. Скільки б їх не було, всі вони повинні впасти від вашого меча. Ви входите в печеру, не зважаючи на пробігаючі по спині мурашки."
+  },
+  {
+    "var": "FESTIVAL_M4_obj1500_guardian_mesg",
+    "field": "map_obj1500_guardian_mesg",
+    "en": "The angry spirits of the Ancient Behemoth's past victims rise up and attack you.",
+    "ua": "Злі духи жертв древнього чудовиська атакують вас."
+  },
+  {
+    "var": "FESTIVAL_M4_obj1513_monster_mesg",
+    "field": "map_obj1513_monster_mesg",
+    "en": "Razor Claw and his family attack!",
+    "ua": "Гострозуб і його посіпаки атакують!"
+  },
+  {
+    "var": "FESTIVAL_M4_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Scout report 1.",
+    "ua": "Scout report 1."
+  },
+  {
+    "var": "FESTIVAL_M4_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "Advanced scouts report that they found three ways past the mountains, one guarded by Cyclops, one by Rocs and the other guarded by Ogres. They did not check the inland sea, but rumors of a whirlpool abound.",
+    "ua": "Розвідники повідомляють, що існує три проходи через гори, один з яких охороняють циклопи, інший - птахи Рух, а третій - огри. Наші розвідники також попереджають, що подорож морем може бути небезпечною через вири."
+  },
+  {
+    "var": "FESTIVAL_M4_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Day 1 event.",
+    "ua": "Day 1 event."
+  },
+  {
+    "var": "FESTIVAL_M4_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "The first test begins.  Razor Claw has been terrorizing this territory for generations; his reign is about to come to an end.  It will be a challenge just reaching him before time runs out and you are eliminated from the Festival of Life, but you are confident of victory over the beast.",
+    "ua": "Перше випробування почалося. Гострозуб наводив жах на ці володіння багато років, але його влада підходить до кінця. Буде непросто встигнути дістатися до нього, поки не минув відведений час, але ви впевнені в тому, що отримаєте перемогу над звіром."
+  },
+  {
+    "var": "FESTIVAL_M4_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Razor-Claws roar.",
+    "ua": "Razor-Claws roar."
+  },
+  {
+    "var": "FESTIVAL_M4_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "The vicious roar of Razor Claw tears through the countryside like flesh being torn from bone.",
+    "ua": "Рев Гострозуба проноситься цими землями громом."
+  }
+]

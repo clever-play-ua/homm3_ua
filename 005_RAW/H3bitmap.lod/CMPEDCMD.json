@@ -1,0 +1,122 @@
+[
+  {
+    "var": "CMPEDCMD_\"Note: Do not change the headings in this file, they are used to detect problems\"",
+    "en": "\"Note: Do not change the headings in this file, they are used to detect problems\"\t",
+    "ua": "\"Note: Do not change the headings in this file, they are used to detect problems\"\t"
+  },
+  {
+    "var": "CMPEDCMD_Status Bar Message",
+    "en": "Status Bar Message\tTool Tip",
+    "ua": "Status Bar Message\tTool Tip"
+  },
+  {
+    "var": "CMPEDCMD_\"For Help, press F1\"",
+    "en": "\"For Help, press F1\"\t",
+    "ua": "\"Для допомоги, натисніть F1\"\t"
+  },
+  {
+    "var": "CMPEDCMD_Create a new campaign",
+    "en": "Create a new campaign\tNew Campaign",
+    "ua": "Створити нову кампанію\tНова кампанія"
+  },
+  {
+    "var": "CMPEDCMD_Open an existing campaign",
+    "en": "Open an existing campaign\tOpen Campaign",
+    "ua": "Відкрити розпочату компанію\tВідкрити Кампанію"
+  },
+  {
+    "var": "CMPEDCMD_Save the current campaign",
+    "en": "Save the current campaign\tSave Campaign",
+    "ua": "Зберегти поточну кампанію\tЗберегти кампанію"
+  },
+  {
+    "var": "CMPEDCMD_Save the current campaign with a new name",
+    "en": "Save the current campaign with a new name\tSave Campaign As",
+    "ua": "Зберегти поточну кампанію під новим ім'ям\tЗберегти кампанію як"
+  },
+  {
+    "var": "CMPEDCMD_\"Display program information, version number and copyright\"",
+    "en": "\"Display program information, version number and copyright\"\tAbout",
+    "ua": "\"Показати інформацію про програму, номер версії та авторські права\"\tПро програму"
+  },
+  {
+    "var": "CMPEDCMD_Quit the campaign editor",
+    "en": "Quit the campaign editor\tExit",
+    "ua": "Вийти з редактора кампаній\tВихід"
+  },
+  {
+    "var": "CMPEDCMD_List Help topics",
+    "en": "List Help topics\tHelp Topics",
+    "ua": "Показати довідку\tДовідка"
+  },
+  {
+    "var": "CMPEDCMD_Display help for current task or command",
+    "en": "Display help for current task or command\tHelp",
+    "ua": "Показати довідку для поточного завдання або команди\tДовідка"
+  },
+  {
+    "var": "CMPEDCMD_Open this campaign",
+    "en": "Open this campaign\t",
+    "ua": "Відкрити кампанію\t"
+  },
+  {
+    "var": "CMPEDCMD_Change the window size",
+    "en": "Change the window size\t",
+    "ua": "Змінити розмір вікна\t"
+  },
+  {
+    "var": "CMPEDCMD_Change the window position",
+    "en": "Change the window position\t",
+    "ua": "Змінити розташування вікна\t"
+  },
+  {
+    "var": "CMPEDCMD_Reduce the window to an icon",
+    "en": "Reduce the window to an icon\t",
+    "ua": "Згорнути вікно\t"
+  },
+  {
+    "var": "CMPEDCMD_Enlarge the window to full size",
+    "en": "Enlarge the window to full size\t",
+    "ua": "Збільшити вікно на повний розмір\t"
+  },
+  {
+    "var": "CMPEDCMD_Close the window",
+    "en": "Close the window\t",
+    "ua": "Закрити вікно\t"
+  },
+  {
+    "var": "CMPEDCMD_Restore the window to normal size",
+    "en": "Restore the window to normal size\t",
+    "ua": "Відновити нормальний розмір вікна\t"
+  },
+  {
+    "var": "CMPEDCMD_Refresh all of the scenario maps in the current campaign",
+    "en": "Refresh all of the scenario maps in the current campaign\t",
+    "ua": "Оновити усі сценарії в поточній кампанії\t"
+  },
+  {
+    "var": "CMPEDCMD_Export all of the scenario maps in the current campaign",
+    "en": "Export all of the scenario maps in the current campaign\t",
+    "ua": "Експортувати усі сценарії в поточній кампанії\t"
+  },
+  {
+    "var": "CMPEDCMD_Modify campaign properties",
+    "en": "Modify campaign properties\tCampaign Properties",
+    "ua": "Змінити властивості кампанії\tВластивості кампанії"
+  },
+  {
+    "var": "CMPEDCMD_Modify scenario properties",
+    "en": "Modify scenario properties\tScenario Properties",
+    "ua": "Змінити властивості сценарію\tВластивості cценарію"
+  },
+  {
+    "var": "CMPEDCMD_Export the text from the current campaign to a text file",
+    "en": "Export the text from the current campaign to a text file\t",
+    "ua": "Експортувати текст кампанії в текстовий файл\t"
+  },
+  {
+    "var": "CMPEDCMD_Import the text from a text file into the current campaign",
+    "en": "Import the text from a text file into the current campaign\t",
+    "ua": "Імпортувати текст із файлу в кампанію\t"
+  }
+]

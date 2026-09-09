@@ -1,0 +1,188 @@
+[
+  {
+    "var": "CRAG_M4_prolog",
+    "field": "wrapper_prolog",
+    "en": "Another group of Necromancers live in this region of Avauntnell along with a small group of former Erathian Militia who have been bribed by the Necromancers to leave them alone.  The Necromancers, called the \"Hand of Death,\" have been relatively quiet, and Erathia hasn't realized yet that some of their militia has been bribed, so they have been left alone over the past few decades.",
+    "ua": "Ще одна група некромантів мешкає в цій частині Авонтнелу. Некроманти, які називають себе \"Рукою Смерті\", поводились досить непомітно, та ще й підкупили ерафійське ополчення, то ж Ерафія поки навіть не підозрює про їхнє існування."
+  },
+  {
+    "var": "CRAG_M4_epilog",
+    "field": "wrapper_epilog",
+    "en": "Now that I gave him the Death Knight's Sword, Sandro wants me to fight some more Necromancers for a shield.  More stinking Undead to fight!  This is not as much fun as I thought.  Grrrr!  At least this is the last thing I have to find for that puny Wizard to get my reward.",
+    "ua": "Тепер у Сандро є меч лицаря смерті і він послав мене проти якихось нових некромантів і хоче роздобути щит. Знову доведеться бруднитися об цю протухлу нежить! Все це не так весело, як я думав. Брр! Одне радує: доставлю останню штуковину чародійчику - і грошики у мене в кишені!"
+  },
+  {
+    "var": "CRAG_M4_map_name",
+    "field": "map_map_name",
+    "en": "Grave Robber",
+    "ua": "Розкрадач могил"
+  },
+  {
+    "var": "CRAG_M4_map_desc",
+    "field": "map_map_desc",
+    "en": "Seize the Yawning Shield of the Dead from the \"Hand of Death\" Necromancer cult to win the campaign.  However, if Crag Hack is defeated in combat, the scenario is lost.  Crag Hack is limited to level 25 but will carry his experience, skills and spells on to his next campaign.",
+    "ua": "Щоб виграти, необхідно заволодіти артефактом Щит неупокоєних, який належить культу некромантів \"Рука смерті\". Якщо Краґ Хак буде переможений у битві, він програє. Герой обмежений 25 рівнем. Якщо він переможе, його досвід, первинні та вторинні навички, а також Чарівна книга перейдуть далі."
+  },
+  {
+    "var": "CRAG_M4_p0_owned_hero_name",
+    "field": "map_p0_owned_hero_name",
+    "en": "Charnath",
+    "ua": "Карнаф"
+  },
+  {
+    "var": "CRAG_M4_obj17_quest_proposal",
+    "field": "map_obj17_quest_proposal",
+    "en": "A skeletal figure in a black robe speaks.  \"Charnath has tried to desecrate the cemetery before you.  He hides now, and only by defeating him shall I let you pass\" ",
+    "ua": "Худа фігура в чорній робі вимовляє: \"Карнаф теж намагався осквернити кладовище. Тепер він ховається. Я пропущу вас, тільки якщо ви його переможете.\""
+  },
+  {
+    "var": "CRAG_M4_obj17_quest_progress",
+    "field": "map_obj17_quest_progress",
+    "en": "The skeletal figure knows Charnath is not dead and will not let you pass.",
+    "ua": "Стражу відомо, що Карнаф ще живий, і він не дозволить вам пройти."
+  },
+  {
+    "var": "CRAG_M4_obj17_quest_completion",
+    "field": "map_obj17_quest_completion",
+    "en": "Now that you have vanquished Charnath, his sins and yours are absolved.  Do you wish to pass?",
+    "ua": "Тепер, коли ви перемогли Карнафа, страж пропускає вас. Ви бажаєте пройти?"
+  },
+  {
+    "var": "CRAG_M4_obj21_event_name",
+    "field": "map_obj21_event_name",
+    "en": "New recruits.",
+    "ua": "New recruits."
+  },
+  {
+    "var": "CRAG_M4_obj21_event_mesg",
+    "field": "map_obj21_event_mesg",
+    "en": "An aggressive recruiting campaign by the captain and his fellow mercenaries at the castle yields some results.",
+    "ua": "Сувора кампанія, яку провів лідер наймитів, по долученню нових рекрутів принесла перші результати."
+  },
+  {
+    "var": "CRAG_M4_obj394_hero_name",
+    "field": "map_obj394_hero_name",
+    "en": "Charnath",
+    "ua": "Карнаф"
+  },
+  {
+    "var": "CRAG_M4_obj439_hero_name",
+    "field": "map_obj439_hero_name",
+    "en": "Slash",
+    "ua": "Слєш"
+  },
+  {
+    "var": "CRAG_M4_obj439_hero_bio",
+    "field": "map_obj439_hero_bio",
+    "en": "Slash was an old drinking buddy of Crag Hack back in Enroth.  He came to Erathia to hide from constables who wanted to question him about some peasants with whom he had a falling out.  Once in Erathia he was promptly arrested for cheating at cards.",
+    "ua": "Слєш - старий закадичний друг Краґа Хака, з яким познайомився у Єнроті. Він втік до Ерафії від констеблів, які хотіли задати йому одне-два питання про селян, з якими одного часу Слєш сильно посварився. Але через деякий час в Ерафії його також заарештували, зловивши на шахрайстві під час гри в карти."
+  },
+  {
+    "var": "CRAG_M4_obj492_guardian_mesg",
+    "field": "map_obj492_guardian_mesg",
+    "en": "From the looks of it, this town has been overrun with undead.  Scouts advise caution -- and a fair amount of troops backing you up -- upon entering.",
+    "ua": "Судячи з усього, у цьому місті повно нежиті. Розвідники радять тобі бути обережним, і не ходити туди інакше, як із великою армією."
+  },
+  {
+    "var": "CRAG_M4_obj1060_guardian_mesg",
+    "field": "map_obj1060_guardian_mesg",
+    "en": "The souls of the damned who are buried here rise up and attack!",
+    "ua": "Душі проклятих, похованих тут, повстають із могил і атакують вас!"
+  },
+  {
+    "var": "CRAG_M4_obj1063_guardian_mesg",
+    "field": "map_obj1063_guardian_mesg",
+    "en": "\"Beware!\" one of the shipwrights tells you, visibly shaken.  \"I have seen undead suddenly rise up out of nowhere on the Island.\"  You flip him a few coins and thank him for the warning.",
+    "ua": "\"Будьте обережні! - Каже вам один із корабельників, - Я своїми очима бачив, як на острові з могил повстає нежить.\" Видно, що він досі не може оговтатись від потрясіння. Ви даєте йому кілька монет і дякуєте за застереження."
+  },
+  {
+    "var": "CRAG_M4_obj1067_sign_mesg",
+    "field": "map_obj1067_sign_mesg",
+    "en": "Enroth Prison #520.  Current Occupant: Slash.",
+    "ua": "В'язниця Єнрота №520. В'язень: Слєш."
+  },
+  {
+    "var": "CRAG_M4_obj1876_sign_mesg",
+    "field": "map_obj1876_sign_mesg",
+    "en": "Death may lie and wait, and death may fly, but with passing eons even death may die.  Welcome to Death Head cemetery.",
+    "ua": "Смерть може лежати і чекати, смерть може на крилах летіти. Але якщо вічність пройде - навіть смерть може померти. Ласкаво просимо на кладовище Мертве."
+  },
+  {
+    "var": "CRAG_M4_obj1889_monster_mesg",
+    "field": "map_obj1889_monster_mesg",
+    "en": "It looks like these vampires killed the regular guards and are now eyeing the prisoner.",
+    "ua": "Схоже, що ці вампіри вбили охорону, і тепер самі охороняють ув'язненого."
+  },
+  {
+    "var": "CRAG_M4_obj1927_guardian_mesg",
+    "field": "map_obj1927_guardian_mesg",
+    "en": "The road to the east disappears into a bunch of litter and bones.",
+    "ua": "На схід дорога зникає в купах сміття та кісток."
+  },
+  {
+    "var": "CRAG_M4_obj1931_guardian_mesg",
+    "field": "map_obj1931_guardian_mesg",
+    "en": "The souls of the damned who are buried here rise up and attack!",
+    "ua": "Душі проклятих, похованих тут, повстають із могил і атакують вас!"
+  },
+  {
+    "var": "CRAG_M4_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Sandro 4",
+    "ua": "Sandro 4"
+  },
+  {
+    "var": "CRAG_M4_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "\"You have the Rib Cage!  Excellent work, Mister Hack\" Sandro says back in the Wingtail tavern.\n\n\"CRAG Hack,\" you correct the wizard wearily.\n\n \"Now for the final item I require.\"  Sandro pulls out a map and points to a region.  \"For this last task I have enlisted some former Erathian militia, now mercenaries, to assist you.  They have a Castle that will be your base of operation.  You are going to need their help, for the last item, The Shield of Yawning Dead, is in the hands of a Necromancer cult called the Hand of Death.  They took the shield from a vampire slayer who had finally met his match when he challenged these Liches.\"\n\n\"Not more undead!\" you groan.\n\n\"Just think your rewards at the end of this task and bring me back the Shield.  Not only will you become a rich man but once again you will be doing Erathia a great service,\" Sandro reminds you.  \"And one last thing.  Like the others you have battled, the Necromancers will lie to you.  Do not listen to them.\" \n\nAs you leave the tavern you think about all the lies you have encountered on Sandro's tasks.  Maybe you should collect your rewards BEFORE handing over the last artifact.",
+    "ua": "\"Ви принесли Каркас! Чудова робота, містер Хак!\" - каже Сандро, у черговий раз зустрічаючи вас у таверні Вінгтейлу.\n\n\"КРАҐ Хак\", - втомлено поправляєте.\n\n\"Отже, залишився лише один артефакт\", - Сандро дістає карту і вказує на неї. \"Для виконання цього завдання я заручився підтримкою декількох колишніх ерафійських солдатів, нині найманців. Вони допоможуть вам. У них є замок, який ви можете використовувати. Вам знадобиться їхня допомога, тому що останній артефакт, Щит неупокоєних мерців, знаходиться в руках культу некромантів, які називають себе \"Рука смерті\". Вони забрали його у вбивці вампірів, який зустрів свою смерть, коли йому довелося битися з лічами.\"\n\n\"Ніякої нежиті, з мене досить!\" - стогнете ви.\n\n\"Думайте про нагороду, яку ви отримаєте вже зовсім скоро. Ви не тільки станете дуже багатою людиною, але і забезпечите Ерафії неоціненну послугу\", - вкрадливо говорить Сандро. \"І останнє. Як і всі інші, з ким ви вже зустрілися, некроманти - страшні брехуни. Не вірте їхнім словам.\"\n\nВиходячи з таверни, ви думаєте про те, що останнім часом вам стало зустрічатися занадто багато шахраїв. Може, варто забрати свою нагороду до того, як передавати останній артефакт?"
+  },
+  {
+    "var": "CRAG_M4_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Captain meeting",
+    "ua": "Captain meeting"
+  },
+  {
+    "var": "CRAG_M4_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "As you approach the castle Sandro indicated on your map, its captain rides out to greet you.  \"Hello! Sandro has told us of your coming and we will give you our full cooperation.\"\n\n\"Good. Tell me what you know of our mission.  We ride soon, and I want to know what lies ahead.\"\n\nThe mercenary captain nods and tells you about the Necromancers to the South.  \"The Hand of Death,\" as the cult is named, kept quietly to themselves until recently. However, soon after Sandro hired the captain, the Necromancers became more restless and started sending undead north.",
+    "ua": "Коли ви наблизилися до замку, вказаного Сандро на карті, його бургомістр виходить привітати вас. \"Вітаю вас! Сандро попереджав нас про ваш прихід. Ми зробимо все можливе, щоб допомогти вам.\"\n\n\"Добре. Розкажіть мені, що вам відомо про майбутнє завдання. Скоро ми рушимо в дорогу, і я хочу знати, чого можна чекати.\"\n\nВатажок найманців киває і розповідає вам про некромантів, що живуть на південь звідси. \"Рука смерті\", як вони себе називають, поводили себе досить тихо, до останнього часу. Коли ж Сандро найняв цих селян, некроманти занепокоїлися і стали посилати на північ нежить."
+  },
+  {
+    "var": "CRAG_M4_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Message from Hand of Death.",
+    "ua": "Message from Hand of Death."
+  },
+  {
+    "var": "CRAG_M4_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "A message arrives from the Hand of Death: \"We know you have been sent by an acquaintance of ours and what it is you seek.  Be warned that the Shield of the Yawning Dead is our relic.  It has been a part of our graveyard for many years.  We have mobilized to stop you and will do so at all costs.\"  More lies, you think as you tear up the scroll, but still doubts remain.  Is Sandro the one who cannot be trusted?",
+    "ua": "Ви отримуєте записку від \"Руки смерті\": \"Ми знаємо, хто вас послав сюди, і що ви шукаєте. Знайте, що Щит неупокоєних мерців - наша реліквія. Довгі роки він є окрасою нашого кладовища. Ми зібрали всі наші сили. Ми зупинимо вас... за будь-яку ціну.\" Знову обман, думаєте ви, жмакаючи записку. Однак у вашій голові з'явилися певні сумніви. А чи не Сандро - єдиний брехун і ошуканець?"
+  },
+  {
+    "var": "CRAG_M4_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "Sandro sends money.",
+    "ua": "Sandro sends money."
+  },
+  {
+    "var": "CRAG_M4_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "Sandro sends gold to help in your search.",
+    "ua": "Сандро висилає грошей, щоб допомогти вам у виконанні завдання."
+  },
+  {
+    "var": "CRAG_M4_mapevent4_name",
+    "field": "map_mapevent4_name",
+    "en": "Barricaded Hand of Death.",
+    "ua": "Barricaded Hand of Death."
+  },
+  {
+    "var": "CRAG_M4_mapevent4_mesg",
+    "field": "map_mapevent4_mesg",
+    "en": "Scouts report the Hand of Death has barricaded their castles very effectively.  This cowardice annoys you to no end, but you decide the mission to capture the Shield is more important than taking the Necromancer castles.",
+    "ua": "Розвідники повідомляють вам, що \"Рука смерті\" дуже ефективно зміцнила свої замки. Це боягузтво страшенно дратує вас, але ви вирішуєте, що добути артефакт важливіше, ніж зайняти замки некромантів."
+  }
+]

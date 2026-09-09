@@ -1,0 +1,23 @@
+# Full repacked game archives (100+ MB, contain the entire copyrighted
+# H3bitmap.lod / H3sprite.lod / H3ab_bmp.lod / H3ab_spr.lod game data,
+# not just the translated resources) - build locally with 004 scripts,
+# do not commit/push to a public repo.
+004_HOMM3_complete/
+006_EASY_INSTALL/gog_complete/Data/
+006_EASY_INSTALL/gog_complete/Maps/
+
+# Campaign intro/mission cutscenes, converted from the game's own copyrighted
+# video assets (VIDEO.VID / H3ab_ahd.vid) - regenerate with
+# 002_TOOLS/scripts/extract_campaign_videos.py, don't push to a public repo.
+005_RAW/*/videos/
+005_RAW/*/voiceover_en/
+
+# Python bytecode cache
+__pycache__/
+*.pyc
+
+# Test archives produced by mp4_to_bik_inject.py (full copies of copyrighted
+# game archives with one clip swapped, used for in-game verification only)
+002_TOOLS/scripts/*.VID
+002_TOOLS/scripts/*.LOD
+002_TOOLS/scripts/*.SND

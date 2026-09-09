@@ -1,0 +1,14 @@
+[
+  {
+    "var": "SECRET1_campaign_name",
+    "field": "wrapper_campaign_name",
+    "en": "Seeds of Discontent",
+    "ua": "Сім'я невдоволення"
+  },
+  {
+    "var": "SECRET1_campaign_desc",
+    "field": "wrapper_campaign_desc",
+    "en": "With the invaders finally driven out of the Contested Lands, the time has come to rebuild.  But one man, Faruk Wlenin, has chosen to free the Contested Lands from Erathia and AvLee forever.",
+    "ua": "Нарешті загарбники вигнані зі Спірних земель. Прийшла пора відродження. Але відважний воїн Фарук Вельнін вирішив навіки звільнити свою батьківщину від гніту Ерафії й Ав-Лі."
+  }
+]

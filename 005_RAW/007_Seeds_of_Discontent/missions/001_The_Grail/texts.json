@@ -1,0 +1,212 @@
+[
+  {
+    "var": "SECRET1_M1_prolog",
+    "field": "wrapper_prolog",
+    "en": "Before we can declare our independence we will need a symbol. That symbol is the Grail, which was lost in this area centuries ago. We must find it, or our plan will dissolve even before we can set it in motion. You have but three months to locate the Grail.",
+    "ua": "Перш ніж ми зможемо проголосити свою незалежність, нам потрібен символ, за яким піде народ. Цей символ - Грааль, загублений століття тому десь у цих землях. Ми повинні його відшукати, інакше всі наші плани впадуть, не встигнувши і почати втілюватися в життя. У нас всього три місяці на пошуки."
+  },
+  {
+    "var": "SECRET1_M1_epilog",
+    "field": "wrapper_epilog",
+    "en": "For the first time in the history of the Contested Lands, humans and elves have fought alongside one another to defend the region from invaders. When the celebration is over, old hatreds will return and we will be citizens of a land in conflict. We must think about the future of the Contested Lands.  It is time to shape its future.  If our fight for independence is to succeed, we need something greater than our armies to motivate the populous. We need a symbolic cornerstone. Seek out the Grail in the enchanted lands where the Unicorns converse with the trees.",
+    "ua": "Вперше в історії Спірних земель люди й ельфи борються пліч-о-пліч, щоб захистити країну від загарбників. Але відгримить перемога - і стара неприязнь відродиться знову, і знову на полях спалахнуть битви. Пора задуматися про майбутнє Спірних земель. Час визначити це майбутнє. Щоб війна за незалежність увінчалася успіхом, нам потрібно щось більше, ніж військо. Нам потрібен символ, за яким піде народ. Відшукай Грааль в чаклунських землях, де єдинороги говорять з деревами."
+  },
+  {
+    "var": "SECRET1_M1_map_name",
+    "field": "map_map_name",
+    "en": "The Grail",
+    "ua": "Грааль"
+  },
+  {
+    "var": "SECRET1_M1_map_desc",
+    "field": "map_map_desc",
+    "en": "To win, you must find the Grail within 2 months.",
+    "ua": "Щоб виграти, ви повинні протягом двох місяців знайти Грааль."
+  },
+  {
+    "var": "SECRET1_M1_rumor0_name",
+    "field": "map_rumor0_name",
+    "en": "Grail Location N",
+    "ua": "Grail Location N"
+  },
+  {
+    "var": "SECRET1_M1_rumor0_desc",
+    "field": "map_rumor0_desc",
+    "en": "The Grail is located somewhere North of Avalon.",
+    "ua": "Грааль знаходиться десь на півночі від Авалону."
+  },
+  {
+    "var": "SECRET1_M1_rumor1_name",
+    "field": "map_rumor1_name",
+    "en": "Grail Location East",
+    "ua": "Grail Location East"
+  },
+  {
+    "var": "SECRET1_M1_rumor1_desc",
+    "field": "map_rumor1_desc",
+    "en": "The Grail is located somewhere East of Dwarf Mountain.",
+    "ua": "Грааль знаходиться десь на схід від Гори гномів."
+  },
+  {
+    "var": "SECRET1_M1_rumor2_name",
+    "field": "map_rumor2_name",
+    "en": "Grail Location West",
+    "ua": "Grail Location West"
+  },
+  {
+    "var": "SECRET1_M1_rumor2_desc",
+    "field": "map_rumor2_desc",
+    "en": "The Grail is located somewhere West of Dwarf Hill.",
+    "ua": "Грааль знаходиться десь на заході від Пагорбу гномів."
+  },
+  {
+    "var": "SECRET1_M1_obj23_town_name",
+    "field": "map_obj23_town_name",
+    "en": "Avalon",
+    "ua": "Авалон"
+  },
+  {
+    "var": "SECRET1_M1_obj961_guardian_mesg",
+    "field": "map_obj961_guardian_mesg",
+    "en": "Ambush!  Erathian Crossbow militia open fire at your forces!",
+    "ua": "Засідка! Ополченці з Ерафії відкривають вогонь з арбалетів по ваших військах!"
+  },
+  {
+    "var": "SECRET1_M1_obj962_sign_mesg",
+    "field": "map_obj962_sign_mesg",
+    "en": "Dwarf Hill",
+    "ua": "Пагорб гномів"
+  },
+  {
+    "var": "SECRET1_M1_obj963_sign_mesg",
+    "field": "map_obj963_sign_mesg",
+    "en": "North to Avalon\nEast to Dwarf Hill\nWest to Dwarf Mountain",
+    "ua": "На північ від Авалону. На схід від Пагорбу гномів. На захід від Гори гномів."
+  },
+  {
+    "var": "SECRET1_M1_obj964_sign_mesg",
+    "field": "map_obj964_sign_mesg",
+    "en": "Dwarf Mountain",
+    "ua": "Гора гномів"
+  },
+  {
+    "var": "SECRET1_M1_obj978_guardian_mesg",
+    "field": "map_obj978_guardian_mesg",
+    "en": "You come across a group of Dwarves and Centaurs who support your goal of independence for the Contested lands. They join you.",
+    "ua": "Ви зустрічаєте групу гномів і кентаврів, які поділяють ваше прагнення дати незалежність спірним землям. Вони приєднуються до вас."
+  },
+  {
+    "var": "SECRET1_M1_obj980_guardian_mesg",
+    "field": "map_obj980_guardian_mesg",
+    "en": "You encounter a group of Centaurs and Dwarves. After you tell them of the plan to form the Contested Lands into an independent state they join you.",
+    "ua": "Ви зустрічаєте групу кентаврів і гномів. Почувши від вас про плани перетворити Спірні землі на незалежну державу, вони приєднуються до вас."
+  },
+  {
+    "var": "SECRET1_M1_obj986_guardian_mesg",
+    "field": "map_obj986_guardian_mesg",
+    "en": "Several Elves, who have heard of your quest to unite the Contested Lands as a separate state, join your forces.",
+    "ua": "Кілька ельфів, почувши про ваше прагнення об'єднати спірні землі в незалежну державу, долучаються до вас."
+  },
+  {
+    "var": "SECRET1_M1_obj1047_guardian_mesg",
+    "field": "map_obj1047_guardian_mesg",
+    "en": "Ambush! AvLee Archer Militia open fire on your forces!",
+    "ua": "Засідка! Лучники з ополчення Ав-Лі відкривають вогонь по ваших військах!"
+  },
+  {
+    "var": "SECRET1_M1_obj1048_guardian_mesg",
+    "field": "map_obj1048_guardian_mesg",
+    "en": "Ambush! AvLee Archer militia open fire on your forces!",
+    "ua": "Засідка! Лучники з ополчення Ав-Лі відкривають вогонь по ваших військах!"
+  },
+  {
+    "var": "SECRET1_M1_obj1057_guardian_mesg",
+    "field": "map_obj1057_guardian_mesg",
+    "en": "Hearing about your struggle for independence, a group of Elves joins you.",
+    "ua": "Почувши про вашу боротьбу за незалежність, група ельфів вступає у ваші ряди."
+  },
+  {
+    "var": "SECRET1_M1_obj1058_guardian_mesg",
+    "field": "map_obj1058_guardian_mesg",
+    "en": "Ambush! Erathian militia attack your troops!",
+    "ua": "Засідка! Ополченці з Ерафії нападають на ваш загін!"
+  },
+  {
+    "var": "SECRET1_M1_obj1059_guardian_mesg",
+    "field": "map_obj1059_guardian_mesg",
+    "en": "Hearing about your struggle for independence, a group of Elves joins you.",
+    "ua": "Почувши про вашу боротьбу за незалежність, група ельфів вступає у ваші ряди."
+  },
+  {
+    "var": "SECRET1_M1_obj1062_guardian_mesg",
+    "field": "map_obj1062_guardian_mesg",
+    "en": "Ambush! Erathian militia attack your troops!",
+    "ua": "Засідка! Ополченці з Ерафії нападають на вас!"
+  },
+  {
+    "var": "SECRET1_M1_obj1063_guardian_mesg",
+    "field": "map_obj1063_guardian_mesg",
+    "en": "A group of Pegasi wish to aid you in your quest to find the Grail.",
+    "ua": "Група пегасів хоче допомогти вам у пошуку Грааля."
+  },
+  {
+    "var": "SECRET1_M1_obj1064_guardian_mesg",
+    "field": "map_obj1064_guardian_mesg",
+    "en": "A group of Pegasi wish to aid you in your quest to find the Grail.",
+    "ua": "Група пегасів хоче допомогти вам у пошуку Грааля."
+  },
+  {
+    "var": "SECRET1_M1_obj1066_guardian_mesg",
+    "field": "map_obj1066_guardian_mesg",
+    "en": "A large force of War Unicorns charge out of the forest and attack! As your General rallies your troops, you can't help but notice your sister standing at the edge of the woods.",
+    "ua": "З лісу з'являється велике військо бойових єдинорогів і нападає на вас. Поки генерал збирає війська, ви помічаєте, що на узбіччі лісу стоїть ваша сестра."
+  },
+  {
+    "var": "SECRET1_M1_obj1079_guardian_mesg",
+    "field": "map_obj1079_guardian_mesg",
+    "en": "A group of Unicorns approach you and wish to join in your quest for independence. They present you with a suit of Armor of Wonder.",
+    "ua": "До вас наближається група єдинорогів, які хочуть брати участь у вашій боротьбі за незалежність. Вони підносять вам Чудесну Броню."
+  },
+  {
+    "var": "SECRET1_M1_obj1638_guardian_mesg",
+    "field": "map_obj1638_guardian_mesg",
+    "en": "Several Elves, who have heard of your quest to unite the Contested Lands a separate state, join your forces.",
+    "ua": "Кілька ельфів, почувши про ваше прагнення об'єднати спірні землі в незалежну державу, долучаються до вас."
+  },
+  {
+    "var": "SECRET1_M1_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Sister text",
+    "ua": "Sister text"
+  },
+  {
+    "var": "SECRET1_M1_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "Scouts report your sister is to the north with a large force of War Unicorns from AvLee. Unlike you, she believes the Contested Lands belong to AvLee and declaring independence is treason. Your spirits sink, as you had hoped to avoid fighting her.",
+    "ua": "Деякі з місцевих жителів стали на ваш бік. Хоча більшість воліють дотримуватися нейтралітету. Ви повинні відшукати Грааль, щоб переконати більшість, що ваше діло праве. Якщо у вас буде Грааль, вони стануть на ваш бік. Якщо Грааля не буде, загони з Ерафії й Ав-Лі розтрощать ваші війська і повішають вас на найближчому дереві."
+  },
+  {
+    "var": "SECRET1_M1_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Intro part 1",
+    "ua": "Intro part 1"
+  },
+  {
+    "var": "SECRET1_M1_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "Even as you gather your forces to find the Grail, word reaches you that Erathian and AvLee forces are mobilizing to crush your bid for independence. Already, local militia from both Erathia and AvLee stand in your path. Fortunately, they lack leadership.",
+    "ua": "За повідомленнями розвідників, ваша сестра зараз на півночі з великою армією бойових єдинорогів з Ав-Лі. На відміну від вас, вона вважає, що спірна територія належить Ав-Лі й оголошення незалежності рівносильне зраді. Ви впали духом, оскільки до цього часу сподівалися, що вам не доведеться битися з нею."
+  },
+  {
+    "var": "SECRET1_M1_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Intro part 2",
+    "ua": "Intro part 2"
+  },
+  {
+    "var": "SECRET1_M1_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "Some of the locals are declaring for you. Most people are not taking sides. You MUST find the Grail to convince the majority that your cause is just. With the Grail, the majority will join you. Without it, troops from AvLee and Erathia will defeat your forces and hang you from the nearest tree.",
+    "ua": "Коли ви збираєте військо для походу за Граалем, до вас доходять чутки, що армії Ерафії й Ав-Лі збираються зруйнувати ваші претензії на незалежність. На вашому шляху вже стоять загони ополченців з Ерафії й Ав-Лі. На щастя, поки у них немає командирів."
+  }
+]

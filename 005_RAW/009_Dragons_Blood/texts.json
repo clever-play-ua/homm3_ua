@@ -1,0 +1,7814 @@
+[
+  {
+    "var": "BLOOD_1",
+    "en": "Dragon's Blood",
+    "ua": "Кров дракона",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_2",
+    "en": "Overlord Mutare, an ambitious Nighon Lady, wishes to take her rightful place among the ranks of powerful Nighon Lords.  In Nighon, you don't inherit your lands - you take them from those too weak to hold them.  Only the strong are fit to rule, and the bones of the weak litter the tunnels of Nighon.",
+    "ua": null,
+    "aligned": false
+  },
+  {
+    "var": "BLOOD_3",
+    "en": "DB1 Culling the Weak.h3m",
+    "ua": "DB1 Culling the Weak.h3m",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_4",
+    "en": "Ordwald, your near neighbor, is the oldest lord in Nighon.  Age has started to effect the old warlock, but he is still able to beat off the other young lords.  Unlike the others, you have patiently waited for Ordwald to stumble before you move.  Last week, Ordwald slipped.  Time to take him down.",
+    "ua": null,
+    "aligned": false
+  },
+  {
+    "var": "BLOOD_5",
+    "en": "Ordwald.  I find the name distasteful.  This old man has held rich Nighon lands given to him by a much greater father.  He has squandered his time and done little to earn his stature.  I have stood in his shadow and by his borders too long.  His lands will be mine.",
+    "ua": null,
+    "aligned": false
+  },
+  {
+    "var": "BLOOD_6",
+    "en": "DB2 Savaging the Scavengers.h3m",
+    "ua": "DB2 Savaging the Scavengers.h3m",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_7",
+    "en": "Interrogation reveals Ordwald didn't personally defend his lands because he is seeking the fabled Vial of Dragon Blood. Unfortunately, Caomham and Preuet have also heard about the Vial. They will certainly follow you into the Deep Caverns after Ordwald if they can. You need to dispose of them first.",
+    "ua": "Розвідка повідомляє, що Орвальд не може особисто захистити свої землі, тому що зайнятий пошуками Фіалу драконячої крові. На нещастя, Каомам і Прюет також чули про цю посудину. Вони також хочуть слідувати вглиб підземель. Тому вам доведеться спочатку розібратися з ними.\n",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_8",
+    "en": "Ordwald is absent.  No wonder his lands were so easy to take.  It seems he has spent his life and his father's fortune in pursuit of the fabled Vial of Dragon Blood.  It is said to hold blood taken from the Dragon Father.  It is believed drinking it will transform the user into a sentient dragon.  Orwald isn't as stupid as I believed.  Still, he is old.  I will find him and the vial, but first, I must dispose of the young lords who have heard the news and nip at my heels.",
+    "ua": "Орвальд у від'їзді. Не дивно, що його землі далися мені так легко. Схоже, він розтратив сили та спадщину в гонитві за легендарним Фіалом драконячої крові. Кажуть, в ньому кров самого прабатька драконів і що один ковток перетворить людину на розумного дракона. Так, Орвальд, схоже, не дурень! І все ж він занадто старий. Я знайду і його, і фіал, але спочатку розберуся з молодими лордами, які дізналися про зміни в країні і наступають мені на п'яти...",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_9",
+    "en": "DB3 Blood of the Dragon Father.h3m",
+    "ua": "DB3 Blood of the Dragon Father.h3m",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_10",
+    "en": "Whoever gains the Vial of Dragon Blood and drinks the Blood of the Dragon Father with transform into a Sentient Dragon.  You MUST beat Ordwald to the Vial and defeat its guardians.  Nothing else matters.  Nothing!",
+    "ua": "Кожен, хто роздобуде Фіал драконячої крові і вип'є кров Отця Драконів, перетвориться на дракона. Ви ПОВИННІ знищити Орвальда і добути цей Фіал. За будь-яку ціну. Будь-яку!",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_11",
+    "en": "I have found Ordwald.  He is close to the vial, but his conservative actions and slow thinking leaves the way open for me to surpass him.  As much as I must worry about Ordwald, I must consider the vial.  Once I have passed him, there is the vial, and no doubt, it will have guardians... dragon guardians.",
+    "ua": "Будь-хто, хто роздобуде Фіал драконячої крові і вип'є кров Отця. Я відшукала Орвальда. Він підібрався зовсім близько до Фіалу, але я ще встигну його обійти. Він так передбачуваний, і розум його занадто повільний. Турбуватися варто не про нього, а про варту Фіала. Сторожових драконів.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_12",
+    "en": "DB4 Blood Thirsty.h3m",
+    "ua": "DB4 Blood Thirsty.h3m",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_13",
+    "en": "Ordwald lied to three powerful Nighon Lords.  He told them, if they were to drink your blood they would also transform into dragons.  Now your old opponent Ordwald and three powerful lords block your access to the upper tunnels.  They want to kill you and drink your blood.  You plan to drink theirs.",
+    "ua": null,
+    "aligned": false
+  },
+  {
+    "var": "BLOOD_14",
+    "en": "I am successful.  Now Ordwald and his lacky's seek to slay me and drink my blood.  They believe it will transform them as the vial transformed me.  They will never drink my blood.  I will be the one to drink their blood.",
+    "ua": "Я виграла цю сутичку. Тепер Орвальд зі своїми дармоїдами жадають випити моєї крові. Вони сподіваються, вона перетворить їх на драконів, як вміст Фіала перетворив мене. У них нічого не вийде. Це я скуштую їх крові.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_15",
+    "en": "Ordwald is dead.  His lackeys are dead.  Their lands and riches belong to me.   Soon, all of Nighon will belong to me.",
+    "ua": null,
+    "aligned": false
+  },
+  {
+    "var": "BLOOD_16",
+    "en": "Culling the Weak",
+    "ua": "Відсів слабких",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_17",
+    "en": "Crush your enemies, but be careful not lose Mutare.  Mutare will be limited to level ten, but will transfer to the next scenario. Gain the Charm of Mana from the Seer's Hut and carry it into the next scenario to access a bonus area.",
+    "ua": "Знищить своїх ворогів, але будьте обережні - не втратьте Мутар. Мутар буде обмежена десятим рівнем, але перейде в наступний сценарій. Відвідайте Хатину провісника, щоб отримати Амулет мани, який перейде з вами в наступний сценарій і дасть можливість потрапити в додаткову область.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_18",
+    "en": "AVWmrnd0.def",
+    "ua": "AVWmrnd0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_19",
+    "en": "AVLholg0.def",
+    "ua": "AVLholg0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_20",
+    "en": "AvTCave.def",
+    "ua": "AvTCave.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_21",
+    "en": "AVLdead4.def",
+    "ua": "AVLdead4.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_22",
+    "en": "AVLdead7.def",
+    "ua": "AVLdead7.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_23",
+    "en": "AVLdead1.def",
+    "ua": "AVLdead1.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_24",
+    "en": "AVMsawl0.def",
+    "ua": "AVMsawl0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_25",
+    "en": "AVLdead5.def",
+    "ua": "AVLdead5.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_26",
+    "en": "AVMorsb0.def",
+    "ua": "AVMorsb0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_27",
+    "en": "AVMordr0.def",
+    "ua": "AVMordr0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_28",
+    "en": "AVCdunx0.def",
+    "ua": "AVCdunx0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_29",
+    "en": "AVXmx1b0.def",
+    "ua": "AVXmx1b0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_30",
+    "en": "AVXmn2g0.def",
+    "ua": "AVXmn2g0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_31",
+    "en": "AVXmx1y0.def",
+    "ua": "AVXmx1y0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_32",
+    "en": "AVXl1sh0.def",
+    "ua": "AVXl1sh0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_33",
+    "en": "AVLmtsb4.def",
+    "ua": "AVLmtsb4.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_34",
+    "en": "AVXmn1y0.def",
+    "ua": "AVXmn1y0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_35",
+    "en": "AVLdead2.def",
+    "ua": "AVLdead2.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_36",
+    "en": "AVLdead0.def",
+    "ua": "AVLdead0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_37",
+    "en": "AVLmtsb2.def",
+    "ua": "AVLmtsb2.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_38",
+    "en": "AVLr01u0.def",
+    "ua": "AVLr01u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_39",
+    "en": "AVLmtsb3.def",
+    "ua": "AVLmtsb3.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_40",
+    "en": "AVLstg10.def",
+    "ua": "AVLstg10.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_41",
+    "en": "AVLstg60.def",
+    "ua": "AVLstg60.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_42",
+    "en": "AVLr15u0.def",
+    "ua": "AVLr15u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_43",
+    "en": "AVLlk3u0.def",
+    "ua": "AVLlk3u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_44",
+    "en": "AVLct2u0.def",
+    "ua": "AVLct2u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_45",
+    "en": "AVLdead3.def",
+    "ua": "AVLdead3.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_46",
+    "en": "AVLct3u0.def",
+    "ua": "AVLct3u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_47",
+    "en": "AVXmn1b0.def",
+    "ua": "AVXmn1b0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_48",
+    "en": "AVLdead6.def",
+    "ua": "AVLdead6.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_49",
+    "en": "AVLmtsb5.def",
+    "ua": "AVLmtsb5.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_50",
+    "en": "AVLr05u0.def",
+    "ua": "AVLr05u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_51",
+    "en": "AVLoc1u0.def",
+    "ua": "AVLoc1u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_52",
+    "en": "AVLms020.def",
+    "ua": "AVLms020.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_53",
+    "en": "AVLct5u0.def",
+    "ua": "AVLct5u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_54",
+    "en": "AVLms050.def",
+    "ua": "AVLms050.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_55",
+    "en": "AVLr13u0.def",
+    "ua": "AVLr13u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_56",
+    "en": "AVLr12u0.def",
+    "ua": "AVLr12u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_57",
+    "en": "AVLmtsb0.def",
+    "ua": "AVLmtsb0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_58",
+    "en": "AVLmtsb1.def",
+    "ua": "AVLmtsb1.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_59",
+    "en": "AVLoc2u0.def",
+    "ua": "AVLoc2u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_60",
+    "en": "AVLct4u0.def",
+    "ua": "AVLct4u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_61",
+    "en": "AVLsh6d0.def",
+    "ua": "AVLsh6d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_62",
+    "en": "AVLsh7d0.def",
+    "ua": "AVLsh7d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_63",
+    "en": "AVLoc1d0.def",
+    "ua": "AVLoc1d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_64",
+    "en": "AVLmd1d0.def",
+    "ua": "AVLmd1d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_65",
+    "en": "AVLct5d0.def",
+    "ua": "AVLct5d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_66",
+    "en": "AVLlk1u0.def",
+    "ua": "AVLlk1u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_67",
+    "en": "AVLlk2u0.def",
+    "ua": "AVLlk2u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_68",
+    "en": "AVLms030.def",
+    "ua": "AVLms030.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_69",
+    "en": "AVLms080.def",
+    "ua": "AVLms080.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_70",
+    "en": "AVLr07u0.def",
+    "ua": "AVLr07u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_71",
+    "en": "AVLms090.def",
+    "ua": "AVLms090.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_72",
+    "en": "AVLr06u0.def",
+    "ua": "AVLr06u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_73",
+    "en": "AVLr04u0.def",
+    "ua": "AVLr04u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_74",
+    "en": "AVLr02u0.def",
+    "ua": "AVLr02u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_75",
+    "en": "AVLms100.def",
+    "ua": "AVLms100.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_76",
+    "en": "AVLstg40.def",
+    "ua": "AVLstg40.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_77",
+    "en": "AVLstg20.def",
+    "ua": "AVLstg20.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_78",
+    "en": "AvLStm1.def",
+    "ua": "AvLStm1.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_79",
+    "en": "AVLrk5d0.def",
+    "ua": "AVLrk5d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_80",
+    "en": "AVLrk3d0.def",
+    "ua": "AVLrk3d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_81",
+    "en": "AvLStm2.def",
+    "ua": "AvLStm2.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_82",
+    "en": "AVLct4d0.def",
+    "ua": "AVLct4d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_83",
+    "en": "AVLms040.def",
+    "ua": "AVLms040.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_84",
+    "en": "AvSMarl.def",
+    "ua": "AvSMarl.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_85",
+    "en": "AVSaxis0.def",
+    "ua": "AVSaxis0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_86",
+    "en": "AVSwtch0.def",
+    "ua": "AVSwtch0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_87",
+    "en": "AVArnd1.def",
+    "ua": "AVArnd1.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_88",
+    "en": "AVWmon2.def",
+    "ua": "AVWmon2.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_89",
+    "en": "AVSring0.def",
+    "ua": "AVSring0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_90",
+    "en": "AVSfntn0.def",
+    "ua": "AVSfntn0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_91",
+    "en": "AVXwelg0.def",
+    "ua": "AVXwelg0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_92",
+    "en": "AVXpost0.def",
+    "ua": "AVXpost0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_93",
+    "en": "adcfra.def",
+    "ua": "adcfra.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_94",
+    "en": "AVXcfds0.def",
+    "ua": "AVXcfds0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_95",
+    "en": "AVLr10u0.def",
+    "ua": "AVLr10u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_96",
+    "en": "AVLr11u0.def",
+    "ua": "AVLr11u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_97",
+    "en": "AVXplns0.def",
+    "ua": "AVXplns0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_98",
+    "en": "AVXtrek0.def",
+    "ua": "AVXtrek0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_99",
+    "en": "AVXcrsd0.def",
+    "ua": "AVXcrsd0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_100",
+    "en": "AVXmktb0.def",
+    "ua": "AVXmktb0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_101",
+    "en": "AVGbhld0.def",
+    "ua": "AVGbhld0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_102",
+    "en": "AVWmon1.def",
+    "ua": "AVWmon1.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_103",
+    "en": "AvLdlog.def",
+    "ua": "AvLdlog.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_104",
+    "en": "AVGmdsa0.def",
+    "ua": "AVGmdsa0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_105",
+    "en": "AVGmino0.def",
+    "ua": "AVGmino0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_106",
+    "en": "AVTgold0.def",
+    "ua": "AVTgold0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_107",
+    "en": "AVTchst0.def",
+    "ua": "AVTchst0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_108",
+    "en": "AVTmyst0.def",
+    "ua": "AVTmyst0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_109",
+    "en": "AVWmedx0.def",
+    "ua": "AVWmedx0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_110",
+    "en": "AVWmon4.def",
+    "ua": "AVWmon4.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_111",
+    "en": "AVLmd3r0.def",
+    "ua": "AVLmd3r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_112",
+    "en": "avlxsu11.def",
+    "ua": "avlxsu11.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_113",
+    "en": "AVLms110.def",
+    "ua": "AVLms110.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_114",
+    "en": "AVLr08r0.def",
+    "ua": "AVLr08r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_115",
+    "en": "AVLr07r0.def",
+    "ua": "AVLr07r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_116",
+    "en": "AVLr11r0.def",
+    "ua": "AVLr11r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_117",
+    "en": "AVLms060.def",
+    "ua": "AVLms060.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_118",
+    "en": "AVLr04r0.def",
+    "ua": "AVLr04r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_119",
+    "en": "avlsh9r0.def",
+    "ua": "avlsh9r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_120",
+    "en": "AVLct1u0.def",
+    "ua": "AVLct1u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_121",
+    "en": "AVLr09r0.def",
+    "ua": "AVLr09r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_122",
+    "en": "AVLr03r0.def",
+    "ua": "AVLr03r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_123",
+    "en": "AVLr06r0.def",
+    "ua": "AVLr06r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_124",
+    "en": "AVLlv2u0.def",
+    "ua": "AVLlv2u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_125",
+    "en": "AVLllk10.def",
+    "ua": "AVLllk10.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_126",
+    "en": "AVLr02r0.def",
+    "ua": "AVLr02r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_127",
+    "en": "AvLStm3.def",
+    "ua": "AvLStm3.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_128",
+    "en": "AVLr13r0.def",
+    "ua": "AVLr13r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_129",
+    "en": "AVLtrRo5.def",
+    "ua": "AVLtrRo5.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_130",
+    "en": "AVLtrRo1.def",
+    "ua": "AVLtrRo1.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_131",
+    "en": "AVLtrRo2.def",
+    "ua": "AVLtrRo2.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_132",
+    "en": "AVLsh4d0.def",
+    "ua": "AVLsh4d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_133",
+    "en": "avlsh6r0.def",
+    "ua": "avlsh6r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_134",
+    "en": "AVLct2d0.def",
+    "ua": "AVLct2d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_135",
+    "en": "avlxdt03.def",
+    "ua": "avlxdt03.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_136",
+    "en": "AVLdun20.def",
+    "ua": "AVLdun20.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_137",
+    "en": "AVLsh8d0.def",
+    "ua": "AVLsh8d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_138",
+    "en": "AVLsh3d0.def",
+    "ua": "AVLsh3d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_139",
+    "en": "AVLdun10.def",
+    "ua": "AVLdun10.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_140",
+    "en": "AVLctds0.def",
+    "ua": "AVLctds0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_141",
+    "en": "AVLct1d0.def",
+    "ua": "AVLct1d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_142",
+    "en": "avlxsu01.def",
+    "ua": "avlxsu01.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_143",
+    "en": "avlxsu10.def",
+    "ua": "avlxsu10.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_144",
+    "en": "AVLmd2d0.def",
+    "ua": "AVLmd2d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_145",
+    "en": "AVLtRo09.def",
+    "ua": "AVLtRo09.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_146",
+    "en": "AVLtRo12.def",
+    "ua": "AVLtRo12.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_147",
+    "en": "AVLr12r0.def",
+    "ua": "AVLr12r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_148",
+    "en": "AVLca080.def",
+    "ua": "AVLca080.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_149",
+    "en": "AVLref60.def",
+    "ua": "AVLref60.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_150",
+    "en": "AVLsh1d0.def",
+    "ua": "AVLsh1d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_151",
+    "en": "avlxro11.def",
+    "ua": "avlxro11.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_152",
+    "en": "AVLsh4g0.def",
+    "ua": "AVLsh4g0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_153",
+    "en": "avlxgr11.def",
+    "ua": "avlxgr11.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_154",
+    "en": "AVLr10r0.def",
+    "ua": "AVLr10r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_155",
+    "en": "AVLct3d0.def",
+    "ua": "AVLct3d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_156",
+    "en": "AVLctrd0.def",
+    "ua": "AVLctrd0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_157",
+    "en": "AVLctrr0.def",
+    "ua": "AVLctrr0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_158",
+    "en": "AVLtRo01.def",
+    "ua": "AVLtRo01.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_159",
+    "en": "avlxsu05.def",
+    "ua": "avlxsu05.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_160",
+    "en": "AVLtrRo6.def",
+    "ua": "AVLtrRo6.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_161",
+    "en": "AVLms010.def",
+    "ua": "AVLms010.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_162",
+    "en": "AVLtrRo3.def",
+    "ua": "AVLtrRo3.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_163",
+    "en": "AVLmd2r0.def",
+    "ua": "AVLmd2r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_164",
+    "en": "AVLmd1r0.def",
+    "ua": "AVLmd1r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_165",
+    "en": "AVLr14r0.def",
+    "ua": "AVLr14r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_166",
+    "en": "AVLglly0.def",
+    "ua": "AVLglly0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_167",
+    "en": "AVLct9r0.def",
+    "ua": "AVLct9r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_168",
+    "en": "AVLct2r0.def",
+    "ua": "AVLct2r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_169",
+    "en": "AVLtrRo4.def",
+    "ua": "AVLtrRo4.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_170",
+    "en": "avlxsu12.def",
+    "ua": "avlxsu12.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_171",
+    "en": "AVLct1r0.def",
+    "ua": "AVLct1r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_172",
+    "en": "AVLct3r0.def",
+    "ua": "AVLct3r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_173",
+    "en": "AVLr15r0.def",
+    "ua": "AVLr15r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_174",
+    "en": "AVLms120.def",
+    "ua": "AVLms120.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_175",
+    "en": "AVLms070.def",
+    "ua": "AVLms070.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_176",
+    "en": "AVLllk20.def",
+    "ua": "AVLllk20.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_177",
+    "en": "AvLRR05.def",
+    "ua": "AvLRR05.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_178",
+    "en": "avlmtrf4.def",
+    "ua": "avlmtrf4.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_179",
+    "en": "avlmtrf5.def",
+    "ua": "avlmtrf5.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_180",
+    "en": "avlxgr02.def",
+    "ua": "avlxgr02.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_181",
+    "en": "avlxgr07.def",
+    "ua": "avlxgr07.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_182",
+    "en": "avlmtdr5.def",
+    "ua": "avlmtdr5.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_183",
+    "en": "avlmtdr4.def",
+    "ua": "avlmtdr4.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_184",
+    "en": "avlmtrf6.def",
+    "ua": "avlmtrf6.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_185",
+    "en": "avlmtrf3.def",
+    "ua": "avlmtrf3.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_186",
+    "en": "AVLr08u0.def",
+    "ua": "AVLr08u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_187",
+    "en": "AVLr16u0.def",
+    "ua": "AVLr16u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_188",
+    "en": "AVLstg30.def",
+    "ua": "AVLstg30.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_189",
+    "en": "AVLr09u0.def",
+    "ua": "AVLr09u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_190",
+    "en": "AVLoc4r0.def",
+    "ua": "AVLoc4r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_191",
+    "en": "AVXseey0.def",
+    "ua": "AVXseey0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_192",
+    "en": "AVLoc1r0.def",
+    "ua": "AVLoc1r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_193",
+    "en": "AVStmpl0.def",
+    "ua": "AVStmpl0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_194",
+    "en": "AVLr14u0.def",
+    "ua": "AVLr14u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_195",
+    "en": "AVLholx0.def",
+    "ua": "AVLholx0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_196",
+    "en": "AVLfl7d0.def",
+    "ua": "AVLfl7d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_197",
+    "en": "AVLfl6d0.def",
+    "ua": "AVLfl6d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_198",
+    "en": "avlxdt05.def",
+    "ua": "avlxdt05.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_199",
+    "en": "AVLtrRo0.def",
+    "ua": "AVLtrRo0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_200",
+    "en": "AVLtr2d0.def",
+    "ua": "AVLtr2d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_201",
+    "en": "AVLtr3d0.def",
+    "ua": "AVLtr3d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_202",
+    "en": "AVLct4r0.def",
+    "ua": "AVLct4r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_203",
+    "en": "AvWRDrg.def",
+    "ua": "AvWRDrg.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_204",
+    "en": "AVMalch0.def",
+    "ua": "AVMalch0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_205",
+    "en": "AVMgosb0.def",
+    "ua": "AVMgosb0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_206",
+    "en": "AVMsulf0.def",
+    "ua": "AVMsulf0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_207",
+    "en": "AVMcrsu0.def",
+    "ua": "AVMcrsu0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_208",
+    "en": "AVMgerf0.def",
+    "ua": "AVMgerf0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_209",
+    "en": "AVLr03u0.def",
+    "ua": "AVLr03u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_210",
+    "en": "AVArnd2.def",
+    "ua": "AVArnd2.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_211",
+    "en": "AVWmon3.def",
+    "ua": "AVWmon3.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_212",
+    "en": "AVLlv1u0.def",
+    "ua": "AVLlv1u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_213",
+    "en": "AvLRD04.def",
+    "ua": "AvLRD04.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_214",
+    "en": "AVLstg50.def",
+    "ua": "AVLstg50.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_215",
+    "en": "AVTrndm0.def",
+    "ua": "AVTrndm0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_216",
+    "en": "AVXgyne0.def",
+    "ua": "AVXgyne0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_217",
+    "en": "AVXschl0.def",
+    "ua": "AVXschl0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_218",
+    "en": "AVXrlly0.def",
+    "ua": "AVXrlly0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_219",
+    "en": "AVXl2sh0.def",
+    "ua": "AVXl2sh0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_220",
+    "en": "AVXdend0.def",
+    "ua": "AVXdend0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_221",
+    "en": "AVXbnk50.def",
+    "ua": "AVXbnk50.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_222",
+    "en": "AVXbnk20.def",
+    "ua": "AVXbnk20.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_223",
+    "en": "AVXbnk60.def",
+    "ua": "AVXbnk60.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_224",
+    "en": "AVSgzbo0.def",
+    "ua": "AVSgzbo0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_225",
+    "en": "AVSidol0.def",
+    "ua": "AVSidol0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_226",
+    "en": "AVGtrog0.def",
+    "ua": "AVGtrog0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_227",
+    "en": "AVGharp0.def",
+    "ua": "AVGharp0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_228",
+    "en": "AVWharp0.def",
+    "ua": "AVWharp0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_229",
+    "en": "AVXbnk40.def",
+    "ua": "AVXbnk40.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_230",
+    "en": "ah10_e.def",
+    "ua": "ah10_e.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_231",
+    "en": "AVLlv3u0.def",
+    "ua": "AVLlv3u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_232",
+    "en": "avlmtrf1.def",
+    "ua": "avlmtrf1.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_233",
+    "en": "AVLoc2d0.def",
+    "ua": "AVLoc2d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_234",
+    "en": "AVLhlds0.def",
+    "ua": "AVLhlds0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_235",
+    "en": "AVLct7r0.def",
+    "ua": "AVLct7r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_236",
+    "en": "AVLspit0.def",
+    "ua": "AVLspit0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_237",
+    "en": "AVLct8r0.def",
+    "ua": "AVLct8r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_238",
+    "en": "AVLoc4u0.def",
+    "ua": "AVLoc4u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_239",
+    "en": "AVLoc3r0.def",
+    "ua": "AVLoc3r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_240",
+    "en": "AVLskul0.def",
+    "ua": "AVLskul0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_241",
+    "en": "AVLtRo06.def",
+    "ua": "AVLtRo06.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_242",
+    "en": "AvLRR01.def",
+    "ua": "AvLRR01.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_243",
+    "en": "avlmtrf2.def",
+    "ua": "avlmtrf2.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_244",
+    "en": "avlmtdr6.def",
+    "ua": "avlmtdr6.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_245",
+    "en": "AVLsh1r0.def",
+    "ua": "AVLsh1r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_246",
+    "en": "Recruits",
+    "ua": "Recruits",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_247",
+    "en": "Additional recruits arrived here today.",
+    "ua": "Нові найманці прибули сьогодні.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_248",
+    "en": "Sinkhole",
+    "ua": "Сток",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_249",
+    "en": "Reinforcements from Home",
+    "ua": "Reinforcements from Home",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_250",
+    "en": "Additional recruits arrived at Sinkhole Castle today.",
+    "ua": "Нові найманці прибули сьогодні до замку Сток.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_251",
+    "en": "Recruits",
+    "ua": "Recruits",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_252",
+    "en": "Additional recruits arrived here today.",
+    "ua": "Нові найманці прибули сьогодні.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_253",
+    "en": "I have a personal experiment which requires 13 Sulfur, 7 Crystal and 13 Gems.  If you or minions supply me with these items, I will give you a magic item.  I have devined this item will be useful in the next year or so on or around a Castle called No Quarter.  Bring me the resources and the item is yours.",
+    "ua": "Заради власних потреб, мені необхідно 13 одиниць сірки, 7 кристалів й 13 самоцвітів.  Якщо ви чи ваші слуги забезпечать мене цими ресурсами, я дам вам магічний предмет.  Я передбачаю, що він вам знадобиться через рік, чи біля того неподалік від замку Мест-Нет.  Принесіть ресурси, і предмет ваш.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_254",
+    "en": "Harpy's Rock",
+    "ua": "Скеля Гарпій",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_255",
+    "en": "Recruits from home",
+    "ua": "Recruits from home",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_256",
+    "en": "Additional recruits arrived at Harpy's Rock Castle today.",
+    "ua": "Нові найманці прибули сьогодні в замок Гарпи-Рок.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_257",
+    "en": "Dead Timber",
+    "ua": "Дед-Тімбер",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_258",
+    "en": "Recruits from home",
+    "ua": "Recruits from home",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_259",
+    "en": "Additional recruits arrived at Dead Timber Castle today.",
+    "ua": "Нові найманці прибули сьогодні в замок Дед-Тімбер.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_260",
+    "en": "Add Townhall",
+    "ua": "Add Townhall",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_261",
+    "en": "Help for Ordwald",
+    "ua": "Допомога Орвальду",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_262",
+    "en": "Add Citadel",
+    "ua": "Add Citadel",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_263",
+    "en": "Help for Ordwald",
+    "ua": "Допомога Орвальду",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_264",
+    "en": "Add Mushroom Rings",
+    "ua": "Add Mushroom Rings",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_265",
+    "en": "Help for Ordwald",
+    "ua": "Допомога Орвальду",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_266",
+    "en": "Death Kiss",
+    "ua": "Цілунок Смерті",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_267",
+    "en": "Reinforcements from Home",
+    "ua": "Reinforcements from Home",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_268",
+    "en": "Additional recruits arrived at Death Kiss Castle today.",
+    "ua": "Нові найманці прибули сьогодні в замок Дед-Кисс.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_269",
+    "en": "Recruits from home",
+    "ua": "Recruits from home",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_270",
+    "en": "Additional recruits arrived here today.",
+    "ua": "Нові найманці прибули сьогодні.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_271",
+    "en": "You see a nest of wild Red Dragons up ahead.  Do you wish to attack?",
+    "ua": "Прямо по курсу ви бачите гніздо диких червоних драконів.  Бажаєте напасти?",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_272",
+    "en": "Recruits from home",
+    "ua": "Recruits from home",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_273",
+    "en": "Additional recruits arrived here today.",
+    "ua": "Нові найманці прибули сьогодні.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_274",
+    "en": "Day 1 Intro",
+    "ua": "Day 1 Intro",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_275",
+    "en": "My spies have brought news; two young and hungry lords have launched near simultaneous attacks on Ordwald.  Surprisingly, they are doing well.  A year ago he would have easily beat off the young lords' attacks.  Ordwald must have lost his edge for them to do so well.",
+    "ua": "Мої шпигуни принесли новини: два молодих та жадібних лорди майже одночасно напали на Орвальда. На мій подив, справи в них просуваються непогано. Рік тому він би з легкістю відбив їхній напад. Напевно, Орвальд втратив свою хватку, судячи з їхніх успіхів.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_276",
+    "en": "Day 1 Intro (con)",
+    "ua": "Day 1 Intro (con)",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_277",
+    "en": "The time is ripe to kick out the young upstart lords and seize the old warlock's lands. Ordwald's banner is blue, while the young lords are flying green and tan.  The time has come to advance my red banner.  The time has come to cull the weak.",
+    "ua": "Зараз саме час вигнати молодих лордів і захопити землі старого чаклуна. Прапор Орвальда блакитний, а молоді лорди носять зелений і сірий кольори. Настав час злетіти моєму червоному прапору. Прийшов час відсіву слабких.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_278",
+    "en": "War Diary Red Dragons",
+    "ua": "War Diary Red Dragons",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_279",
+    "en": "War Diary:  Today my scouts reported a small group of wild Red Dragons have built a nest blocking the most direct route to Ordwald's remaining lands.",
+    "ua": "Військовий щоденник: Сьогодні мої розвідники доповіли про те, що невелика група диких червоних драконів звила гніздо, заблокувавши найкоротший шлях до решти земель Орвальда.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_280",
+    "en": "War Diary Green Lord",
+    "ua": "War Diary Green Lord",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_281",
+    "en": "War Diary:  My western scouts report Lord Caomham's green banner is flying over Harpy's Rock Castle.  Harpy Rock use to be one of Ordwald's castles.",
+    "ua": "Військовий щоденник: Розвідники на заході повідомляють, що зелений прапор лорда Каомама майорить над замком Скеля Гарпій. Раніше Скеля Гарпій належала Орвальду.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_282",
+    "en": "War Diary Tan Lord",
+    "ua": "War Diary Tan Lord",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_283",
+    "en": "War Diary:  This evening an out of breath scout reported Lord Preuet's tan troops have seized Ordwald's Dead Timber Castle.  Dead Timber is located to the north of Death Kiss Castle.",
+    "ua": "Військовий щоденник: Цього вечора захеканий розвідник доповів, що сірі війська лорда Прюета захопили замок Орвальда під назвою Дед-Тімбер. Дед-Тімбер розташований на північ від замку Цілунок Смерті.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_284",
+    "en": "War Diary Upper Caverns",
+    "ua": "War Diary Upper Caverns",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_285",
+    "en": "War Diary:  My scouts say there are at least three castles in the upper caverns. The nearest is called Sinkhole; they don't know the names of the others or even exactly where they are located.  The Master of Scouts says there is some sort of random teleport system, which connects a series of upper level caverns.",
+    "ua": "Військовий щоденник: Мої розвідники повідомляють, що у верхніх печерах є принаймні три замки. Найближчий називається Сток; вони не знають ні назв інших замків, ані навіть точного їх розташування. Начальник розвідки говорить, що тут десь є система випадкових порталів, що з'єднується з декількома верхніми печерами.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_286",
+    "en": "War Diary Sage's Note",
+    "ua": "War Diary Sage's Note",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_287",
+    "en": "War Diary:  Today I receive a note from a sage near Sinkhole Castle asking for a visit.  He apparently needs help with a personal matter and he is willing to pay for my help with something that will be useful to me in the near future.  I decided to visit or send an embassy when time allows.  Sages have been cryptic, but useful in the past.",
+    "ua": "Військовий щоденник: Сьогодні я отримала записку від мудреця, який живе поруч зі Стоком, з проханням відвідати його. Очевидно, йому потрібна допомога в якійсь особовій справі, і він збирається заплатити за мою допомогу чимось, що скоро повинно мені стати в нагоді. Я вирішила відвідати його або відправити до нього емісара у вільний час. Мудреці - люди загадкові, але корисні, як я знаю з минулого досвіду.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_288",
+    "en": "War Diary Troops Need to Guard Homeland",
+    "ua": "War Diary Troops Need to Guard Homeland",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_289",
+    "en": "War Diary:  I received a message today from General Maih.  The neighboring Lords around my original holdings have finally noticed my invasion of Ordwald.  Miah says they are probing to see if they can take my lands while I am occupied here.  I know these Lords. If there is any sign of weakness they will swarm across the borders.  On the other hand none of the neighboring Lords have anything personal against me.  Strong castle garrisons and a strong home army under a competent general, like Maih, will deter an invasion.  I refuse to lose any land.  I'm going to send Maih some of the low-level recruits here to strengthen the home castle garrisons.",
+    "ua": "Військовий щоденник: Сьогодні я отримала повідомлення від генерала Травня. Лорди, чиї землі межують з моїми родовими володіннями, нарешті помітили моє вторгнення до Орвальда. Травень стверджує, що вони не проти зазіхнути на мої землі, поки я зайнята тут. Знаю я цих лордів. Навіть натяку на слабкість досить, щоб вони натовпом ринули через кордони. З іншого боку, жоден із сусідніх лордів не має нічого проти мене особисто. Сильні гарнізони в замках і сильна армія під керівництвом досвідченого генерала - начебто Травня - відлякає окупантів. Не бажаю втрачати жодної зі своїх земель. Я збираюся відправити до Мая деяку кількість місцевих рекрутів низького рівня, щоб посилити гарнізони в родових замках.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_290",
+    "en": "War Diary Town Revolts",
+    "ua": "War Diary Town Revolts",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_291",
+    "en": "War Diary:  Today, a group of scouts reported that four of Ordwald's towns have revolted and are now neutral.  Apparently there were so few garrison troops, the occupants of the towns chased out the remaining troops.  Ordwald is known for a heavy hand with his subjects.  Still, now I wonder where are the troops that were guarding those towns?",
+    "ua": "Військовий щоденник: Сьогодні група розвідників повідомила, що чотири міста Орвальда збунтувалися, і тепер не належать нікому. Очевидно, гарнізони були занадто малі й тікали під натиском бунтівників. Кажуть, Орвальд суворий зі своїми підданими. Однак тепер мені цікаво - де ж війська, що захищали ці міста?",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_292",
+    "en": "War Diary Missing Garrisons",
+    "ua": "War Diary Missing Garrisons",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_293",
+    "en": "War Diary:  Ordwald has not yet been spotted.  Whatever his flaws, he is a powerful warlock and if all the missing garrison forces are with him, he should have a powerful army.  I've ordered the Master of Scouts to find him.  I don't want him launching a surprise attack on me or any of my other forces.",
+    "ua": "Військовий щоденник: Орвальда так досі і не знайшли. Не зважаючи на свої промахи, він могутній чаклун, і, якщо всі гарнізонні війська, що тікали, приєдналися до нього, у нього повинна бути потужна армія. Я наказала начальнику розвідки знайти його. Я не хочу, щоб він раптово атакував мене чи інші мої війська.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_294",
+    "en": "War Diary ?",
+    "ua": "War Diary ?",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_295",
+    "en": "War Diary:  Strange, still no sign of Ordwald.  The Master of Scouts has not located him and cringes whenever I look at him.  The fool, he doesn't realize he does too good a job for me to make an example of him.   I'm starting to wonder if one of the young lords got lucky and actually had Ordwald assassinated.",
+    "ua": "Військовий щоденник: Дивно, досі жодних слідів Орвальда. Начальник розвідки так його і не знайшов, і корчиться від страху, варто мені поглянути на нього. Дурень, він навіть не розуміє, що я не збираюся розкидатися такими працівниками заради показової страти. Я вже починаю думати, чи не пощастило комусь із молодих лордів прикінчити Орвальда.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_296",
+    "en": "War Diary Miah's extra recruits",
+    "ua": "War Diary Miah's extra recruits",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_297",
+    "en": "War Diary:  I received a message from Miah today.  The Lords surrounding my home lands have quit testing the home defenses.  Miah reports skirmishing around Lord Preuet's and Caomham's lands now.  If either was a fool enough to not leave an adequate defense they will pay for it now.  Miah thinks he can spare a few high level recruits now if I want them.  I sent an order allowing him to release the extra troops to me.",
+    "ua": "Військовий щоденник: Сьогодні я отримала нове повідомлення від Травня. Лорди сусідніх земель припинили випробовувати на міцність мою оборону. Травень повідомляє, що зараз сутички йдуть на кордонах володінь Прюета і Каомама. Якщо хтось із них виявився досить дурний і не залишив там пристойного захисту, тепер він за це поплатиться. Травень вважає, що може надіслати трохи рекрутів високого рівня, якщо вони мені потрібні. Я відправила йому наказ відпустити їх до мене.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_298",
+    "en": "War Diary Recruits arrived",
+    "ua": "War Diary Recruits arrived",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_299",
+    "en": "War Diary:  The extra recruits arrived today.  I distributed then evenly over all of my new castles.",
+    "ua": "Військовий щоденник: Сьогодні прибули нові рекрути. Я розподілила їх порівну по всіх моїх замках.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_300",
+    "en": "Savaging the Scavengers",
+    "ua": "Лють сміттярів",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_301",
+    "en": "Obliterate your opponents, but once again do not lose the hero Mutare. To do so would mean instant destruction. Mutare will be limited to eighteenth level, but will carry over the Dragon Scale Shield to use in the next scenario.",
+    "ua": "Знищить своїх супротивників, але не втратьте Мутар. Втрата її означає негайну поразку. Мутар буде обмежена вісімнадцятим рівнем, але Щит дракона перейде з нею в наступний сценарій.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_302",
+    "en": "AVWmrnd0.def",
+    "ua": "AVWmrnd0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_303",
+    "en": "AVLholg0.def",
+    "ua": "AVLholg0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_304",
+    "en": "AVMsulf0.def",
+    "ua": "AVMsulf0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_305",
+    "en": "AVLllk10.def",
+    "ua": "AVLllk10.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_306",
+    "en": "AVLlv1u0.def",
+    "ua": "AVLlv1u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_307",
+    "en": "AVLlv3u0.def",
+    "ua": "AVLlv3u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_308",
+    "en": "AVLmtsb4.def",
+    "ua": "AVLmtsb4.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_309",
+    "en": "AVLmtsb5.def",
+    "ua": "AVLmtsb5.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_310",
+    "en": "AvTCave.def",
+    "ua": "AvTCave.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_311",
+    "en": "AVCdunx0.def",
+    "ua": "AVCdunx0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_312",
+    "en": "AVMorsb0.def",
+    "ua": "AVMorsb0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_313",
+    "en": "AVMsawl0.def",
+    "ua": "AVMsawl0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_314",
+    "en": "AVGtrog0.def",
+    "ua": "AVGtrog0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_315",
+    "en": "AVMwwhl0.def",
+    "ua": "AVMwwhl0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_316",
+    "en": "AVSclvd0.def",
+    "ua": "AVSclvd0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_317",
+    "en": "AVXplns0.def",
+    "ua": "AVXplns0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_318",
+    "en": "AVLmtsb2.def",
+    "ua": "AVLmtsb2.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_319",
+    "en": "AVLr06u0.def",
+    "ua": "AVLr06u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_320",
+    "en": "AVLr04u0.def",
+    "ua": "AVLr04u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_321",
+    "en": "AVLmtsb3.def",
+    "ua": "AVLmtsb3.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_322",
+    "en": "AVLdead5.def",
+    "ua": "AVLdead5.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_323",
+    "en": "AVLdead6.def",
+    "ua": "AVLdead6.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_324",
+    "en": "AVLdead3.def",
+    "ua": "AVLdead3.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_325",
+    "en": "AVLdead1.def",
+    "ua": "AVLdead1.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_326",
+    "en": "AVLms010.def",
+    "ua": "AVLms010.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_327",
+    "en": "AVLstg40.def",
+    "ua": "AVLstg40.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_328",
+    "en": "AVLmtsb1.def",
+    "ua": "AVLmtsb1.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_329",
+    "en": "AVLdead7.def",
+    "ua": "AVLdead7.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_330",
+    "en": "AVLdead0.def",
+    "ua": "AVLdead0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_331",
+    "en": "AVLms080.def",
+    "ua": "AVLms080.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_332",
+    "en": "AVLms040.def",
+    "ua": "AVLms040.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_333",
+    "en": "AVLct5u0.def",
+    "ua": "AVLct5u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_334",
+    "en": "AVLms020.def",
+    "ua": "AVLms020.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_335",
+    "en": "AVLdead4.def",
+    "ua": "AVLdead4.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_336",
+    "en": "AVLlk1u0.def",
+    "ua": "AVLlk1u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_337",
+    "en": "AVMgerf0.def",
+    "ua": "AVMgerf0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_338",
+    "en": "AVLms120.def",
+    "ua": "AVLms120.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_339",
+    "en": "AVLlk3u0.def",
+    "ua": "AVLlk3u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_340",
+    "en": "AVLlk2u0.def",
+    "ua": "AVLlk2u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_341",
+    "en": "AVLr11u0.def",
+    "ua": "AVLr11u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_342",
+    "en": "AVLr14u0.def",
+    "ua": "AVLr14u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_343",
+    "en": "AVLstg30.def",
+    "ua": "AVLstg30.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_344",
+    "en": "AVLstg50.def",
+    "ua": "AVLstg50.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_345",
+    "en": "AVLr15u0.def",
+    "ua": "AVLr15u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_346",
+    "en": "AVLms060.def",
+    "ua": "AVLms060.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_347",
+    "en": "AVLr12u0.def",
+    "ua": "AVLr12u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_348",
+    "en": "AVLr10u0.def",
+    "ua": "AVLr10u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_349",
+    "en": "AVLct1l0.def",
+    "ua": "AVLct1l0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_350",
+    "en": "AVLlv240.def",
+    "ua": "AVLlv240.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_351",
+    "en": "AVLlv190.def",
+    "ua": "AVLlv190.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_352",
+    "en": "AVLlv210.def",
+    "ua": "AVLlv210.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_353",
+    "en": "AVLlv150.def",
+    "ua": "AVLlv150.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_354",
+    "en": "AVLct4u0.def",
+    "ua": "AVLct4u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_355",
+    "en": "AVLct1u0.def",
+    "ua": "AVLct1u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_356",
+    "en": "AVLmtsb0.def",
+    "ua": "AVLmtsb0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_357",
+    "en": "AVLllk20.def",
+    "ua": "AVLllk20.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_358",
+    "en": "AVLr13u0.def",
+    "ua": "AVLr13u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_359",
+    "en": "AVLms110.def",
+    "ua": "AVLms110.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_360",
+    "en": "AVLdead2.def",
+    "ua": "AVLdead2.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_361",
+    "en": "AVLms050.def",
+    "ua": "AVLms050.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_362",
+    "en": "AVLms030.def",
+    "ua": "AVLms030.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_363",
+    "en": "AVLms090.def",
+    "ua": "AVLms090.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_364",
+    "en": "AVLct3u0.def",
+    "ua": "AVLct3u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_365",
+    "en": "AVLr07u0.def",
+    "ua": "AVLr07u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_366",
+    "en": "AVLr08u0.def",
+    "ua": "AVLr08u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_367",
+    "en": "AVLoc3d0.def",
+    "ua": "AVLoc3d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_368",
+    "en": "AvLRG02.def",
+    "ua": "AvLRG02.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_369",
+    "en": "AvLRG03.def",
+    "ua": "AvLRG03.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_370",
+    "en": "AVLsh3g0.def",
+    "ua": "AVLsh3g0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_371",
+    "en": "AVLsh4g0.def",
+    "ua": "AVLsh4g0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_372",
+    "en": "AVLSPTR0.def",
+    "ua": "AVLSPTR0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_373",
+    "en": "AVLSPTR3.def",
+    "ua": "AVLSPTR3.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_374",
+    "en": "AvLStm3.def",
+    "ua": "AvLStm3.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_375",
+    "en": "AvLStm1.def",
+    "ua": "AvLStm1.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_376",
+    "en": "AVLsh6g0.def",
+    "ua": "AVLsh6g0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_377",
+    "en": "AvLStm2.def",
+    "ua": "AvLStm2.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_378",
+    "en": "AvLdlog.def",
+    "ua": "AvLdlog.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_379",
+    "en": "AVLf11g0.def",
+    "ua": "AVLf11g0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_380",
+    "en": "AVLSPTR1.def",
+    "ua": "AVLSPTR1.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_381",
+    "en": "AVLms100.def",
+    "ua": "AVLms100.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_382",
+    "en": "AvLRG07.def",
+    "ua": "AvLRG07.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_383",
+    "en": "AvLRG04.def",
+    "ua": "AvLRG04.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_384",
+    "en": "AvLRG01.def",
+    "ua": "AvLRG01.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_385",
+    "en": "AVLms070.def",
+    "ua": "AVLms070.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_386",
+    "en": "AVLct2u0.def",
+    "ua": "AVLct2u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_387",
+    "en": "AVLstg20.def",
+    "ua": "AVLstg20.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_388",
+    "en": "AVLr05u0.def",
+    "ua": "AVLr05u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_389",
+    "en": "AVLr01u0.def",
+    "ua": "AVLr01u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_390",
+    "en": "AVLSPTR6.def",
+    "ua": "AVLSPTR6.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_391",
+    "en": "AVLf06g0.def",
+    "ua": "AVLf06g0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_392",
+    "en": "AVLf01g0.def",
+    "ua": "AVLf01g0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_393",
+    "en": "AVLmd2g0.def",
+    "ua": "AVLmd2g0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_394",
+    "en": "AVLf08g0.def",
+    "ua": "AVLf08g0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_395",
+    "en": "AvLRG09.def",
+    "ua": "AvLRG09.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_396",
+    "en": "AVXcrsd0.def",
+    "ua": "AVXcrsd0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_397",
+    "en": "AVLlav10.def",
+    "ua": "AVLlav10.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_398",
+    "en": "AVLlv100.def",
+    "ua": "AVLlv100.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_399",
+    "en": "AVLct8l0.def",
+    "ua": "AVLct8l0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_400",
+    "en": "AVLlv170.def",
+    "ua": "AVLlv170.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_401",
+    "en": "AVLstg60.def",
+    "ua": "AVLstg60.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_402",
+    "en": "AVLrk5d0.def",
+    "ua": "AVLrk5d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_403",
+    "en": "AVLoc4u0.def",
+    "ua": "AVLoc4u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_404",
+    "en": "AVLr09u0.def",
+    "ua": "AVLr09u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_405",
+    "en": "AVLr03u0.def",
+    "ua": "AVLr03u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_406",
+    "en": "AVLoc3u0.def",
+    "ua": "AVLoc3u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_407",
+    "en": "AVLoc1u0.def",
+    "ua": "AVLoc1u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_408",
+    "en": "AVLr16u0.def",
+    "ua": "AVLr16u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_409",
+    "en": "AVLrk3d0.def",
+    "ua": "AVLrk3d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_410",
+    "en": "AvLRG06.def",
+    "ua": "AvLRG06.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_411",
+    "en": "AvLRG11.def",
+    "ua": "AvLRG11.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_412",
+    "en": "AVLr02u0.def",
+    "ua": "AVLr02u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_413",
+    "en": "AVMcrsu0.def",
+    "ua": "AVMcrsu0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_414",
+    "en": "AVWmon5.def",
+    "ua": "AVWmon5.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_415",
+    "en": "AVWmon4.def",
+    "ua": "AVWmon4.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_416",
+    "en": "AVLSPTR4.def",
+    "ua": "AVLSPTR4.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_417",
+    "en": "AVSgrdn0.def",
+    "ua": "AVSgrdn0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_418",
+    "en": "AVLsh2g0.def",
+    "ua": "AVLsh2g0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_419",
+    "en": "AvLRD04.def",
+    "ua": "AvLRD04.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_420",
+    "en": "AVLfl6d0.def",
+    "ua": "AVLfl6d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_421",
+    "en": "AVLfl4d0.def",
+    "ua": "AVLfl4d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_422",
+    "en": "AVLfl8d0.def",
+    "ua": "AVLfl8d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_423",
+    "en": "AVSclvg0.def",
+    "ua": "AVSclvg0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_424",
+    "en": "AVSring0.def",
+    "ua": "AVSring0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_425",
+    "en": "AVXmx1r0.def",
+    "ua": "AVXmx1r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_426",
+    "en": "AVLstg10.def",
+    "ua": "AVLstg10.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_427",
+    "en": "AVLoc2u0.def",
+    "ua": "AVLoc2u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_428",
+    "en": "AVGharp0.def",
+    "ua": "AVGharp0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_429",
+    "en": "AVXcovr0.def",
+    "ua": "AVXcovr0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_430",
+    "en": "AVXwelr0.def",
+    "ua": "AVXwelr0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_431",
+    "en": "AVXsanc0.def",
+    "ua": "AVXsanc0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_432",
+    "en": "AVXrlly0.def",
+    "ua": "AVXrlly0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_433",
+    "en": "AVLctrg0.def",
+    "ua": "AVLctrg0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_434",
+    "en": "AVLct5g0.def",
+    "ua": "AVLct5g0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_435",
+    "en": "AVXfyth0.def",
+    "ua": "AVXfyth0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_436",
+    "en": "AVXgyne0.def",
+    "ua": "AVXgyne0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_437",
+    "en": "AVSwtch0.def",
+    "ua": "AVSwtch0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_438",
+    "en": "AVXl1sh0.def",
+    "ua": "AVXl1sh0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_439",
+    "en": "AVSfntn0.def",
+    "ua": "AVSfntn0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_440",
+    "en": "AVXl3sh0.def",
+    "ua": "AVXl3sh0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_441",
+    "en": "AVGmdsa0.def",
+    "ua": "AVGmdsa0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_442",
+    "en": "AVGmino0.def",
+    "ua": "AVGmino0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_443",
+    "en": "AVGmant0.def",
+    "ua": "AVGmant0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_444",
+    "en": "AVXmktb0.def",
+    "ua": "AVXmktb0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_445",
+    "en": "AVXbor70.def",
+    "ua": "AVXbor70.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_446",
+    "en": "AVXbor60.def",
+    "ua": "AVXbor60.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_447",
+    "en": "AVXkey70.def",
+    "ua": "AVXkey70.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_448",
+    "en": "AVXkey60.def",
+    "ua": "AVXkey60.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_449",
+    "en": "AVTgold0.def",
+    "ua": "AVTgold0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_450",
+    "en": "AVTchst0.def",
+    "ua": "AVTchst0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_451",
+    "en": "AVArnd2.def",
+    "ua": "AVArnd2.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_452",
+    "en": "ah10_e.def",
+    "ua": "ah10_e.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_453",
+    "en": "AVSgzbo0.def",
+    "ua": "AVSgzbo0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_454",
+    "en": "AVGerth0.def",
+    "ua": "AVGerth0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_455",
+    "en": "AVXsndg0.def",
+    "ua": "AVXsndg0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_456",
+    "en": "AVSidol0.def",
+    "ua": "AVSidol0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_457",
+    "en": "AVXmn1r0.def",
+    "ua": "AVXmn1r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_458",
+    "en": "AVSutop0.def",
+    "ua": "AVSutop0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_459",
+    "en": "AVLSPTR2.def",
+    "ua": "AVLSPTR2.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_460",
+    "en": "AVXskds0.def",
+    "ua": "AVXskds0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_461",
+    "en": "AVXprmd0.def",
+    "ua": "AVXprmd0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_462",
+    "en": "AVXpost0.def",
+    "ua": "AVXpost0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_463",
+    "en": "AVStmpl0.def",
+    "ua": "AVStmpl0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_464",
+    "en": "AVXbnk10.def",
+    "ua": "AVXbnk10.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_465",
+    "en": "AVTmyst0.def",
+    "ua": "AVTmyst0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_466",
+    "en": "AVXbnk40.def",
+    "ua": "AVXbnk40.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_467",
+    "en": "AVXbnk50.def",
+    "ua": "AVXbnk50.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_468",
+    "en": "AVLSPTR5.def",
+    "ua": "AVLSPTR5.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_469",
+    "en": "AVLlk3g0.def",
+    "ua": "AVLlk3g0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_470",
+    "en": "AVLlk2g0.def",
+    "ua": "AVLlk2g0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_471",
+    "en": "AVLf09g0.def",
+    "ua": "AVLf09g0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_472",
+    "en": "AVLf12g0.def",
+    "ua": "AVLf12g0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_473",
+    "en": "AVLf10g0.def",
+    "ua": "AVLf10g0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_474",
+    "en": "AvLRG05.def",
+    "ua": "AvLRG05.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_475",
+    "en": "AVLsh8d0.def",
+    "ua": "AVLsh8d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_476",
+    "en": "AVLmd1g0.def",
+    "ua": "AVLmd1g0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_477",
+    "en": "AVLsptr8.def",
+    "ua": "AVLsptr8.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_478",
+    "en": "AVLf03g0.def",
+    "ua": "AVLf03g0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_479",
+    "en": "AVLsh1g0.def",
+    "ua": "AVLsh1g0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_480",
+    "en": "AVLsh7d0.def",
+    "ua": "AVLsh7d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_481",
+    "en": "AVLf02g0.def",
+    "ua": "AVLf02g0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_482",
+    "en": "AVLf04g0.def",
+    "ua": "AVLf04g0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_483",
+    "en": "AVXbnk60.def",
+    "ua": "AVXbnk60.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_484",
+    "en": "AVTrndm0.def",
+    "ua": "AVTrndm0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_485",
+    "en": "AVWmon2.def",
+    "ua": "AVWmon2.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_486",
+    "en": "AVWmon3.def",
+    "ua": "AVWmon3.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_487",
+    "en": "AVArnd1.def",
+    "ua": "AVArnd1.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_488",
+    "en": "AVXtomb0.def",
+    "ua": "AVXtomb0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_489",
+    "en": "avlxsu10.def",
+    "ua": "avlxsu10.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_490",
+    "en": "AVSmerc0.def",
+    "ua": "AVSmerc0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_491",
+    "en": "avlxsu04.def",
+    "ua": "avlxsu04.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_492",
+    "en": "avlxsu08.def",
+    "ua": "avlxsu08.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_493",
+    "en": "avlxsu11.def",
+    "ua": "avlxsu11.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_494",
+    "en": "avlxsu12.def",
+    "ua": "avlxsu12.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_495",
+    "en": "avlxsu06.def",
+    "ua": "avlxsu06.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_496",
+    "en": "avlswt14.def",
+    "ua": "avlswt14.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_497",
+    "en": "avlswt15.def",
+    "ua": "avlswt15.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_498",
+    "en": "avlswt09.def",
+    "ua": "avlswt09.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_499",
+    "en": "avlswt19.def",
+    "ua": "avlswt19.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_500",
+    "en": "avlxsw03.def",
+    "ua": "avlxsw03.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_501",
+    "en": "avlxsw05.def",
+    "ua": "avlxsw05.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_502",
+    "en": "avlxsw01.def",
+    "ua": "avlxsw01.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_503",
+    "en": "avlxsw11.def",
+    "ua": "avlxsw11.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_504",
+    "en": "avlxsw10.def",
+    "ua": "avlxsw10.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_505",
+    "en": "avlswt18.def",
+    "ua": "avlswt18.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_506",
+    "en": "AVLfl7d0.def",
+    "ua": "AVLfl7d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_507",
+    "en": "avlswt08.def",
+    "ua": "avlswt08.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_508",
+    "en": "AVLr11r0.def",
+    "ua": "AVLr11r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_509",
+    "en": "AVLr15r0.def",
+    "ua": "AVLr15r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_510",
+    "en": "AVLr10r0.def",
+    "ua": "AVLr10r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_511",
+    "en": "AVLr14r0.def",
+    "ua": "AVLr14r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_512",
+    "en": "AVLr07r0.def",
+    "ua": "AVLr07r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_513",
+    "en": "AVXbnk20.def",
+    "ua": "AVXbnk20.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_514",
+    "en": "AVLrk3w0.def",
+    "ua": "AVLrk3w0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_515",
+    "en": "avlsh9r0.def",
+    "ua": "avlsh9r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_516",
+    "en": "AVMwndd0.def",
+    "ua": "AVMwndd0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_517",
+    "en": "AVLskul0.def",
+    "ua": "AVLskul0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_518",
+    "en": "AVLca080.def",
+    "ua": "AVLca080.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_519",
+    "en": "AVLca050.def",
+    "ua": "AVLca050.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_520",
+    "en": "AVLlv2u0.def",
+    "ua": "AVLlv2u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_521",
+    "en": "AVLlav50.def",
+    "ua": "AVLlav50.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_522",
+    "en": "AVLlav80.def",
+    "ua": "AVLlav80.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_523",
+    "en": "AVLlv110.def",
+    "ua": "AVLlv110.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_524",
+    "en": "AVLlv140.def",
+    "ua": "AVLlv140.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_525",
+    "en": "AVLhlds0.def",
+    "ua": "AVLhlds0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_526",
+    "en": "AVLr13r0.def",
+    "ua": "AVLr13r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_527",
+    "en": "AVLdun20.def",
+    "ua": "AVLdun20.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_528",
+    "en": "avlxsu03.def",
+    "ua": "avlxsu03.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_529",
+    "en": "AVLdun10.def",
+    "ua": "AVLdun10.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_530",
+    "en": "AVLr12r0.def",
+    "ua": "AVLr12r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_531",
+    "en": "AVLr09r0.def",
+    "ua": "AVLr09r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_532",
+    "en": "avlsh7r0.def",
+    "ua": "avlsh7r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_533",
+    "en": "avlxsu05.def",
+    "ua": "avlxsu05.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_534",
+    "en": "AVLr04r0.def",
+    "ua": "AVLr04r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_535",
+    "en": "AVLr02r0.def",
+    "ua": "AVLr02r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_536",
+    "en": "AVLr06r0.def",
+    "ua": "AVLr06r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_537",
+    "en": "AVLr08r0.def",
+    "ua": "AVLr08r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_538",
+    "en": "AVLr03r0.def",
+    "ua": "AVLr03r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_539",
+    "en": "avlsh5r0.def",
+    "ua": "avlsh5r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_540",
+    "en": "AVLoc4r0.def",
+    "ua": "AVLoc4r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_541",
+    "en": "AVLspit0.def",
+    "ua": "AVLspit0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_542",
+    "en": "AVLref60.def",
+    "ua": "AVLref60.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_543",
+    "en": "AVLrk1w0.def",
+    "ua": "AVLrk1w0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_544",
+    "en": "avlxro08.def",
+    "ua": "avlxro08.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_545",
+    "en": "AVLref50.def",
+    "ua": "AVLref50.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_546",
+    "en": "avlxsu01.def",
+    "ua": "avlxsu01.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_547",
+    "en": "AVXpstr0.def",
+    "ua": "AVXpstr0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_548",
+    "en": "AVMalch0.def",
+    "ua": "AVMalch0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_549",
+    "en": "AVLmtds3.def",
+    "ua": "AVLmtds3.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_550",
+    "en": "AVLmtds4.def",
+    "ua": "AVLmtds4.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_551",
+    "en": "avlmtdr3.def",
+    "ua": "avlmtdr3.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_552",
+    "en": "avlmtdr5.def",
+    "ua": "avlmtdr5.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_553",
+    "en": "avlmtdr4.def",
+    "ua": "avlmtdr4.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_554",
+    "en": "avlmtdr1.def",
+    "ua": "avlmtdr1.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_555",
+    "en": "avlxro11.def",
+    "ua": "avlxro11.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_556",
+    "en": "avlxgr02.def",
+    "ua": "avlxgr02.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_557",
+    "en": "avlxgr06.def",
+    "ua": "avlxgr06.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_558",
+    "en": "avlxgr11.def",
+    "ua": "avlxgr11.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_559",
+    "en": "avlxgr07.def",
+    "ua": "avlxgr07.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_560",
+    "en": "avlxgr03.def",
+    "ua": "avlxgr03.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_561",
+    "en": "avlxsw07.def",
+    "ua": "avlxsw07.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_562",
+    "en": "avlswt17.def",
+    "ua": "avlswt17.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_563",
+    "en": "avlswt12.def",
+    "ua": "avlswt12.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_564",
+    "en": "avlswt10.def",
+    "ua": "avlswt10.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_565",
+    "en": "avlswtr3.def",
+    "ua": "avlswtr3.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_566",
+    "en": "AVLs06s0.def",
+    "ua": "AVLs06s0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_567",
+    "en": "AvLRG08.def",
+    "ua": "AvLRG08.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_568",
+    "en": "AVLman30.def",
+    "ua": "AVLman30.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_569",
+    "en": "AVLrk1s0.def",
+    "ua": "AVLrk1s0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_570",
+    "en": "avlmtdr6.def",
+    "ua": "avlmtdr6.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_571",
+    "en": "AVLca110.def",
+    "ua": "AVLca110.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_572",
+    "en": "avlswtr6.def",
+    "ua": "avlswtr6.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_573",
+    "en": "AVLswp40.def",
+    "ua": "AVLswp40.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_574",
+    "en": "AVLs10s0.def",
+    "ua": "AVLs10s0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_575",
+    "en": "AVLmoss0.def",
+    "ua": "AVLmoss0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_576",
+    "en": "avlxdt05.def",
+    "ua": "avlxdt05.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_577",
+    "en": "avlxdt01.def",
+    "ua": "avlxdt01.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_578",
+    "en": "avlxdt03.def",
+    "ua": "avlxdt03.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_579",
+    "en": "AVLtr3d0.def",
+    "ua": "AVLtr3d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_580",
+    "en": "AVLsh5d0.def",
+    "ua": "AVLsh5d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_581",
+    "en": "avlxro12.def",
+    "ua": "avlxro12.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_582",
+    "en": "AVLs07s0.def",
+    "ua": "AVLs07s0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_583",
+    "en": "AVLrk2s0.def",
+    "ua": "AVLrk2s0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_584",
+    "en": "AVLfl2d0.def",
+    "ua": "AVLfl2d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_585",
+    "en": "avlxdt07.def",
+    "ua": "avlxdt07.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_586",
+    "en": "avlxdt04.def",
+    "ua": "avlxdt04.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_587",
+    "en": "avlswt11.def",
+    "ua": "avlswt11.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_588",
+    "en": "avlxsw06.def",
+    "ua": "avlxsw06.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_589",
+    "en": "avlxdt02.def",
+    "ua": "avlxdt02.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_590",
+    "en": "avlxgr08.def",
+    "ua": "avlxgr08.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_591",
+    "en": "avlsh4r0.def",
+    "ua": "avlsh4r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_592",
+    "en": "AvLRR01.def",
+    "ua": "AvLRR01.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_593",
+    "en": "AVLmd2r0.def",
+    "ua": "AVLmd2r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_594",
+    "en": "AVLmd3r0.def",
+    "ua": "AVLmd3r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_595",
+    "en": "AVLmd1r0.def",
+    "ua": "AVLmd1r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_596",
+    "en": "avlmtrf4.def",
+    "ua": "avlmtrf4.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_597",
+    "en": "avlmtrf6.def",
+    "ua": "avlmtrf6.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_598",
+    "en": "avlmtrf5.def",
+    "ua": "avlmtrf5.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_599",
+    "en": "avlmtrf3.def",
+    "ua": "avlmtrf3.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_600",
+    "en": "AVLlv160.def",
+    "ua": "AVLlv160.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_601",
+    "en": "AVLlv130.def",
+    "ua": "AVLlv130.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_602",
+    "en": "AvLRD01.def",
+    "ua": "AvLRD01.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_603",
+    "en": "AVLfl1d0.def",
+    "ua": "AVLfl1d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_604",
+    "en": "AVLfl9d0.def",
+    "ua": "AVLfl9d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_605",
+    "en": "avlxdt00.def",
+    "ua": "avlxdt00.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_606",
+    "en": "avlxgr10.def",
+    "ua": "avlxgr10.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_607",
+    "en": "avlxgr05.def",
+    "ua": "avlxgr05.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_608",
+    "en": "AVLtr1d0.def",
+    "ua": "AVLtr1d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_609",
+    "en": "avlxgr04.def",
+    "ua": "avlxgr04.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_610",
+    "en": "AVLmtgn4.def",
+    "ua": "AVLmtgn4.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_611",
+    "en": "AVLmtgn5.def",
+    "ua": "AVLmtgn5.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_612",
+    "en": "avlxgr12.def",
+    "ua": "avlxgr12.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_613",
+    "en": "AVLPNTR1.def",
+    "ua": "AVLPNTR1.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_614",
+    "en": "AVLmtds2.def",
+    "ua": "AVLmtds2.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_615",
+    "en": "AVLmtds5.def",
+    "ua": "AVLmtds5.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_616",
+    "en": "AHplace.def",
+    "ua": "AHplace.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_617",
+    "en": "ah11_e.def",
+    "ua": "ah11_e.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_618",
+    "en": "AVXmn1y0.def",
+    "ua": "AVXmn1y0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_619",
+    "en": "AVXmx1y0.def",
+    "ua": "AVXmx1y0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_620",
+    "en": "AVGsieg0.def",
+    "ua": "AVGsieg0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_621",
+    "en": "AVSlibr0.def",
+    "ua": "AVSlibr0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_622",
+    "en": "AVArnd3.def",
+    "ua": "AVArnd3.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_623",
+    "en": "AVTsulf0.def",
+    "ua": "AVTsulf0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_624",
+    "en": "AVXschl0.def",
+    "ua": "AVXschl0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_625",
+    "en": "AVSschm0.def",
+    "ua": "AVSschm0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_626",
+    "en": "AVXtrek0.def",
+    "ua": "AVXtrek0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_627",
+    "en": "AVXhilg0.def",
+    "ua": "AVXhilg0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_628",
+    "en": "AVGrefg0.def",
+    "ua": "AVGrefg0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_629",
+    "en": "AVSuniv0.def",
+    "ua": "AVSuniv0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_630",
+    "en": "AVGbhld0.def",
+    "ua": "AVGbhld0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_631",
+    "en": "AVSwar20.def",
+    "ua": "AVSwar20.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_632",
+    "en": "AVXpllr0.def",
+    "ua": "AVXpllr0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_633",
+    "en": "AVXl2sh0.def",
+    "ua": "AVXl2sh0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_634",
+    "en": "avxbor80.def",
+    "ua": "avxbor80.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_635",
+    "en": "avlxsw01.def",
+    "ua": "avlxsw01.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_636",
+    "en": "avlswt07.def",
+    "ua": "avlswt07.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_637",
+    "en": "avlmtdr2.def",
+    "ua": "avlmtdr2.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_638",
+    "en": "AVWmon6.def",
+    "ua": "AVWmon6.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_639",
+    "en": "Gloom Cave",
+    "ua": "Печера Мороку",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_640",
+    "en": "Dank Rock",
+    "ua": "Вогка Скеля",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_641",
+    "en": "Red Spider",
+    "ua": "Червоний Павук",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_642",
+    "en": "Gruen Point",
+    "ua": "Зелень",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_643",
+    "en": "Fetid Cavern",
+    "ua": "Печера Смороду",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_644",
+    "en": "No Quarter",
+    "ua": "Сітка",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_645",
+    "en": "Road to Castle Gloom Cave",
+    "ua": "Дорога до замку Печера Мороку.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_646",
+    "en": "To Upper Tunnels",
+    "ua": "До верхніх тунелів.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_647",
+    "en": "To Upper Tunnels",
+    "ua": "До верхніх тунелів.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_648",
+    "en": "To Upper Tunnels",
+    "ua": "До верхніх тунелів.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_649",
+    "en": "Intro",
+    "ua": "Intro",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_650",
+    "en": "The Vial of Dragon Blood will give me the edge I need to force my way into the ranks of powerful Nighon lords.  To get the Vial I need to defeat the Vial's guardians or Ordwald or both.  I also have to prevent Lords Caomham and Preuet from following me and attacking from behind when I seize the Vial.  Finally, I am loath to yield anything of mine.  Having any of my lands taken while pursuing the Vial would be... annoying.  My current armies should be sufficient to hold Rauric and Ordwalds old lands, especially if I leave all my magic items, except the Charm of Mana, with my generals.",
+    "ua": null,
+    "aligned": false
+  },
+  {
+    "var": "BLOOD_651",
+    "en": "Intro (con)",
+    "ua": "Intro (con)",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_652",
+    "en": "General Miah will mop up the last resistance in Ordwald's old lands and then rebuild the castle defenses and local garrisons.  General Sengana will assume command of my home guard, castles, and garrisons.  When the word gets out about the Vial of Dragon Blood, the borderlands are going to be crawling with Nighon Lords looking for it.  While Miah and Sengana slow down the other Nighon Lords, I will take a small force, establish a base camp near the access to the Deep Caverns and drive Caomham and Preuet from the area so they can't follow me.  Meanwhile my scouts will locate Ordwald.  Once Caomham and Preuet are defeated, I'll follow Ordwald to the Vial and take it for myself.",
+    "ua": null,
+    "aligned": false
+  },
+  {
+    "var": "BLOOD_653",
+    "en": "Charm of Mana",
+    "ua": "Charm of Mana",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_654",
+    "en": "War Diary:  I kept the Charm of Mana, a worthless trinket if I've ever seen one, because the Seer near Sinkhole Castle seemed to think I would need it in the near future.  I hope so for his sake.  If it doesn't prove useful before too long, I'll have him hung.",
+    "ua": "Військовий щоденник: Я зберегла Амулет мани - марну дрібничку, можете мені повірити, - оскільки провидець, що живе у замку Сток, натякнув на те, що в найближчому майбутньому вона мені знадобиться. Сподіваюся, він не помилився, на свою голову. Якщо амулет проваляється в мене без користі занадто довго, я накажу повісити старого базіку.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_655",
+    "en": "No Quarter Scouting Report",
+    "ua": "No Quarter Scouting Report",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_656",
+    "en": "War Diary:  My scouts found a second Dungeon Castle called No Quarter to the northwest of Gloom Lake.  There is still no sign of Lords Caomham and Preuets forces.",
+    "ua": "Військовий щоденник: Мої розвідники виявили другий замок-Підземелля під назвою Сітка на північний захід від Похмурого озера. Досі жодного сліду армій Каомама і Прюета.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_657",
+    "en": "Tan Lord Scouting Report",
+    "ua": "Tan Lord Scouting Report",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_658",
+    "en": "War Diary:  Some of my scouts found Lord Preuet's base.  His troops are flying a tan banner and he has apparently seized a castle to the west called Dank Rock.  Dank Rock appears to be his base of operations.",
+    "ua": "Військовий щоденник: Кілька моїх розвідників вийшли на слід лорда Прюета. Його війська виступають під сірим прапором, і, очевидно, він захопив замок на заході під назвою Вогка Скеля. Схоже, Вогка Скеля - його командний пункт.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_659",
+    "en": "Green Lord Scouting Report",
+    "ua": "Green Lord Scouting Report",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_660",
+    "en": "War Diary:  Several days ago, scouts spotted Lord Caomham's green bannered troops at a castle called Fetid Cavern.  Fetid Cavern is apparently a few days northeast of Gloom Lake.",
+    "ua": "Військовий щоденник: Кілька днів тому розвідники помітили зелені прапори армії Каомама у замку під назвою Печера Смороду. Печера Смороду - це, мабуть, в кількох днях на північний схід від Похмурого озера.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_661",
+    "en": "Questgate Scouting Report",
+    "ua": "Questgate Scouting Report",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_662",
+    "en": "War Diary:  Today, the Master of Scouts reported a strange Border Guard who will only let one pass with a Charm of Mana.  The scouts say the Border Guard is located though the subterranean gate near No Quarter Castle.  I guess I won't have to hang the Seer after all.",
+    "ua": "Військовий щоденник: Сьогодні начальник розвідки повідомив про дивного Вартового кордону, який дозволить пройти тільки власникові Амулета мани. Розвідка донесла, що цей вартовий знаходиться за підземними воротами біля замку Сітка. Схоже, провидця вішати не доведеться.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_663",
+    "en": "Dead Scout",
+    "ua": "Dead Scout",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_664",
+    "en": "War Diary:  I had to kill a scout today.  He was whining about being outnumbered 2 to 1.  I overheard him talking and came up behind him.  My form was excellent, I got a clean behead with the head falling right on top of his body.  I then explained 2 to 1 meant twice as much loot.  That cheered the troops up.",
+    "ua": "Військовий щоденник: Сьогодні довелося вбити розвідника. Він все стогнав, що ворог перевершує нас чисельністю вдвічі. Мені набридло його слухати, і я підійшла до нього ззаду. Я в чудовій формі - голова відлетіла з першого удару і впала на його вже бездиханне тіло. Потім я пояснила, що якщо на кожного припадає по два вороги, то й здобич зростає вдвічі. Це підбадьорило мої війська.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_665",
+    "en": "Tactics",
+    "ua": "Tactics",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_666",
+    "en": "War Diary:  It will be a lot harder to take out Preuet and Caomham if they were smart enough to have allied.  I don't think they are allied, though.  They are probably each hoping the other Lord will hurt me and himself enough that they will have an easy victory over both of us.  This should give me the initiative.  If they aren't allies, I'll take out first one then the other and avoid fighting them both at once.",
+    "ua": "Військовий щоденник: Буде набагато складніше викурити Прюета і Каомама, якщо у них вистачить розуму об'єднатися. Однак я не думаю, що вони це зроблять. Схоже, кожен з них сподівається почекати, поки інший підірве і мої, і свої сили, після чого можна буде з легкістю отримати перемогу над нами обома. Це означає, що ініціатива в моїх руках. Раз вони не в союзі, я позбудуся одного, а потім іншого, уникаючи війни на два фронти.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_667",
+    "en": "Ordwald's Forces",
+    "ua": "Ordwald's Forces",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_668",
+    "en": "War Diary:  My scouts have located some of Ordwald's forces in the Deep Caverns.  From the interrogations, I know he doesn't know the exact location of the Vial of Dragon Blood.  Still, I can't let him get too far ahead of me.  I need to finish here and move on.",
+    "ua": "Військовий щоденник: Мої розвідники виявили частину військ Орвальда в Глибоких печерах. З допитів з'ясувалося, що він не знає точного місця розташування Фіала драконячої крові. Однак я не можу дозволити йому сильно випередити мене. Потрібно закінчувати тут і просуватися далі.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_669",
+    "en": "The Heat is On",
+    "ua": "The Heat is On",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_670",
+    "en": "War Diary:  I received word from General Miah today.  The word is out along the Nighon borderlands that Ordwald, Caomham, Preuet, and myself are after the Vial, but no one knows where we are.  Miah has repulsed numerous probes and several recons in force from other border lords.  They're not trying to take land, he says, they are looking for information.",
+    "ua": null,
+    "aligned": false
+  },
+  {
+    "var": "BLOOD_671",
+    "en": "Matter of Time",
+    "ua": "Matter of Time",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_672",
+    "en": "War Diary:  Miah reports the border lords have changed tactics.  They are flooding the area with scouts.  He has caught dozens of them, but thinks it is just a matter of time before they discover my base of operations.  Apparently, Caomham and Preuet lands are being overrun.  Maybe I'll send condolences.",
+    "ua": "Військовий щоденник: Травень повідомляє, що сусідські лорди змінили тактику. Тепер вони наповнили територію своїми розвідниками. Він ловить їх дюжинами, але вважає, що рано чи пізно вони виявлять мою домашню базу. Землі Каомама і Прюета, очевидно, вже захоплені. Можливо, я пошлю їм своє співчуття.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_673",
+    "en": "Blood of the Dragon Father",
+    "ua": "Кров Батька Драконів",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_674",
+    "en": "Find the Vial of Dragon Blood before Ordwald or lose the race.  Also, losing the hero Mutare means instant destruction.  Mutare and two of her best heroes will be transferred to the next scenario, without level limitations.",
+    "ua": "Знайдіть Фіал драконячої крові до того, як це зробить Орвальд, інакше ви програєте гонку. Втрата героїні Мутар також означає негайний програш. Мутар і два її кращих героя перейдуть у наступний сценарій, їхній рівень необмежений.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_675",
+    "en": "Ordwald",
+    "ua": "Орвальд",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_676",
+    "en": "Ordwald",
+    "ua": "Орвальд",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_677",
+    "en": "Rust Dragons",
+    "ua": "Rust Dragons",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_678",
+    "en": "Supposedly somewhere in the Deep Caverns are a new type of Dragon called a Rust Dragon.  This dragon is supposed to be more powerful than a Black Dragon.",
+    "ua": "Кажуть, що десь у Глибоких печерах водяться дракони нового виду, звані іржавими. З чуток, ці дракони сильніші, ніж чорні.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_679",
+    "en": "Crystal Dragon",
+    "ua": "Crystal Dragon",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_680",
+    "en": "There is said to be a strange type of Dragon guarding a great treasure in the Deep Caverns.  The dragon is supposedly made of crystal.",
+    "ua": "Ходять чутки, що якийсь дивний дракон охороняє скарб в Глибоких печерах. Кажуть, цей дракон зроблений з кристалів.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_681",
+    "en": "AVWmrnd0.def",
+    "ua": "AVWmrnd0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_682",
+    "en": "AVLholg0.def",
+    "ua": "AVLholg0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_683",
+    "en": "AVCdunx0.def",
+    "ua": "AVCdunx0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_684",
+    "en": "AVMsawl0.def",
+    "ua": "AVMsawl0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_685",
+    "en": "AVXbnk20.def",
+    "ua": "AVXbnk20.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_686",
+    "en": "AVGbhld0.def",
+    "ua": "AVGbhld0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_687",
+    "en": "AVMorsb0.def",
+    "ua": "AVMorsb0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_688",
+    "en": "AVWmon6.def",
+    "ua": "AVWmon6.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_689",
+    "en": "AVWmon4.def",
+    "ua": "AVWmon4.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_690",
+    "en": "AVXwhrl0.def",
+    "ua": "AVXwhrl0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_691",
+    "en": "AVXshyd0.def",
+    "ua": "AVXshyd0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_692",
+    "en": "AVLdun10.def",
+    "ua": "AVLdun10.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_693",
+    "en": "AVLctds0.def",
+    "ua": "AVLctds0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_694",
+    "en": "AVLdun20.def",
+    "ua": "AVLdun20.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_695",
+    "en": "AVAflot0.def",
+    "ua": "AVAflot0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_696",
+    "en": "AVLrk4w0.def",
+    "ua": "AVLrk4w0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_697",
+    "en": "AVLmtsb4.def",
+    "ua": "AVLmtsb4.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_698",
+    "en": "AVGharp0.def",
+    "ua": "AVGharp0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_699",
+    "en": "AVXbnk40.def",
+    "ua": "AVXbnk40.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_700",
+    "en": "AVMwndd0.def",
+    "ua": "AVMwndd0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_701",
+    "en": "AVWmon3.def",
+    "ua": "AVWmon3.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_702",
+    "en": "AVXkey00.def",
+    "ua": "AVXkey00.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_703",
+    "en": "AVXbor00.def",
+    "ua": "AVXbor00.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_704",
+    "en": "AVSarna0.def",
+    "ua": "AVSarna0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_705",
+    "en": "AvTCave.def",
+    "ua": "AvTCave.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_706",
+    "en": "AVMgerf0.def",
+    "ua": "AVMgerf0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_707",
+    "en": "AVLc11l0.def",
+    "ua": "AVLc11l0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_708",
+    "en": "AVLct4l0.def",
+    "ua": "AVLct4l0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_709",
+    "en": "AVLct3l0.def",
+    "ua": "AVLct3l0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_710",
+    "en": "AVLctrl0.def",
+    "ua": "AVLctrl0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_711",
+    "en": "AVMsulf0.def",
+    "ua": "AVMsulf0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_712",
+    "en": "AVLlv150.def",
+    "ua": "AVLlv150.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_713",
+    "en": "AVLc12l0.def",
+    "ua": "AVLc12l0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_714",
+    "en": "AVLdead3.def",
+    "ua": "AVLdead3.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_715",
+    "en": "AVLlv240.def",
+    "ua": "AVLlv240.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_716",
+    "en": "AVLct4u0.def",
+    "ua": "AVLct4u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_717",
+    "en": "AVLdead6.def",
+    "ua": "AVLdead6.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_718",
+    "en": "AVLct3u0.def",
+    "ua": "AVLct3u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_719",
+    "en": "AVLms020.def",
+    "ua": "AVLms020.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_720",
+    "en": "AVLlk3u0.def",
+    "ua": "AVLlk3u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_721",
+    "en": "AVMalch0.def",
+    "ua": "AVMalch0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_722",
+    "en": "AVMcrsu0.def",
+    "ua": "AVMcrsu0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_723",
+    "en": "AVLmtsb3.def",
+    "ua": "AVLmtsb3.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_724",
+    "en": "AVLr13u0.def",
+    "ua": "AVLr13u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_725",
+    "en": "AVLr06u0.def",
+    "ua": "AVLr06u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_726",
+    "en": "AVLr14u0.def",
+    "ua": "AVLr14u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_727",
+    "en": "AVLmtsb5.def",
+    "ua": "AVLmtsb5.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_728",
+    "en": "AVLr01u0.def",
+    "ua": "AVLr01u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_729",
+    "en": "AVLstg40.def",
+    "ua": "AVLstg40.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_730",
+    "en": "AVLms040.def",
+    "ua": "AVLms040.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_731",
+    "en": "AVLmtsb2.def",
+    "ua": "AVLmtsb2.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_732",
+    "en": "AVLoc4u0.def",
+    "ua": "AVLoc4u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_733",
+    "en": "AVLoc1u0.def",
+    "ua": "AVLoc1u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_734",
+    "en": "AVLstg10.def",
+    "ua": "AVLstg10.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_735",
+    "en": "AVLmtsb1.def",
+    "ua": "AVLmtsb1.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_736",
+    "en": "AVLr03u0.def",
+    "ua": "AVLr03u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_737",
+    "en": "AVLr08u0.def",
+    "ua": "AVLr08u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_738",
+    "en": "AVLstg30.def",
+    "ua": "AVLstg30.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_739",
+    "en": "AVLr10u0.def",
+    "ua": "AVLr10u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_740",
+    "en": "AVLdead1.def",
+    "ua": "AVLdead1.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_741",
+    "en": "AVLdead0.def",
+    "ua": "AVLdead0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_742",
+    "en": "AVLr04u0.def",
+    "ua": "AVLr04u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_743",
+    "en": "AVLstg50.def",
+    "ua": "AVLstg50.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_744",
+    "en": "AVLstg20.def",
+    "ua": "AVLstg20.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_745",
+    "en": "AVLms100.def",
+    "ua": "AVLms100.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_746",
+    "en": "AVLms080.def",
+    "ua": "AVLms080.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_747",
+    "en": "AVLct5u0.def",
+    "ua": "AVLct5u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_748",
+    "en": "AVLlk2u0.def",
+    "ua": "AVLlk2u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_749",
+    "en": "AVLdun30.def",
+    "ua": "AVLdun30.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_750",
+    "en": "AVLr09u0.def",
+    "ua": "AVLr09u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_751",
+    "en": "AVLstg60.def",
+    "ua": "AVLstg60.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_752",
+    "en": "AVLms050.def",
+    "ua": "AVLms050.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_753",
+    "en": "AVLr12u0.def",
+    "ua": "AVLr12u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_754",
+    "en": "AVLlv3u0.def",
+    "ua": "AVLlv3u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_755",
+    "en": "AVLms070.def",
+    "ua": "AVLms070.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_756",
+    "en": "AVLr11u0.def",
+    "ua": "AVLr11u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_757",
+    "en": "AVLr15u0.def",
+    "ua": "AVLr15u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_758",
+    "en": "AVLr07u0.def",
+    "ua": "AVLr07u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_759",
+    "en": "AVLdead2.def",
+    "ua": "AVLdead2.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_760",
+    "en": "AVLdead5.def",
+    "ua": "AVLdead5.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_761",
+    "en": "AVLms110.def",
+    "ua": "AVLms110.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_762",
+    "en": "AVLr02u0.def",
+    "ua": "AVLr02u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_763",
+    "en": "AVLr05u0.def",
+    "ua": "AVLr05u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_764",
+    "en": "AVLmtsb0.def",
+    "ua": "AVLmtsb0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_765",
+    "en": "AVLms090.def",
+    "ua": "AVLms090.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_766",
+    "en": "AVLdead4.def",
+    "ua": "AVLdead4.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_767",
+    "en": "AVLms030.def",
+    "ua": "AVLms030.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_768",
+    "en": "AVLms120.def",
+    "ua": "AVLms120.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_769",
+    "en": "AVLdead7.def",
+    "ua": "AVLdead7.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_770",
+    "en": "AVLct1u0.def",
+    "ua": "AVLct1u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_771",
+    "en": "AVLct2u0.def",
+    "ua": "AVLct2u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_772",
+    "en": "AVLms060.def",
+    "ua": "AVLms060.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_773",
+    "en": "AVLr16u0.def",
+    "ua": "AVLr16u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_774",
+    "en": "AVXmn1b0.def",
+    "ua": "AVXmn1b0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_775",
+    "en": "AVXmx1b0.def",
+    "ua": "AVXmx1b0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_776",
+    "en": "AvLStm3.def",
+    "ua": "AvLStm3.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_777",
+    "en": "AVLrk5d0.def",
+    "ua": "AVLrk5d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_778",
+    "en": "AVLsh8d0.def",
+    "ua": "AVLsh8d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_779",
+    "en": "AvLRD04.def",
+    "ua": "AvLRD04.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_780",
+    "en": "AVLrk3d0.def",
+    "ua": "AVLrk3d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_781",
+    "en": "AVWmon5.def",
+    "ua": "AVWmon5.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_782",
+    "en": "AVLoc2u0.def",
+    "ua": "AVLoc2u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_783",
+    "en": "AvLStm1.def",
+    "ua": "AvLStm1.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_784",
+    "en": "AVLoc3d0.def",
+    "ua": "AVLoc3d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_785",
+    "en": "AVXplns0.def",
+    "ua": "AVXplns0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_786",
+    "en": "AVLlv1u0.def",
+    "ua": "AVLlv1u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_787",
+    "en": "AVLf04g0.def",
+    "ua": "AVLf04g0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_788",
+    "en": "AVLf07g0.def",
+    "ua": "AVLf07g0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_789",
+    "en": "AVTmyst0.def",
+    "ua": "AVTmyst0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_790",
+    "en": "AVLSPTR1.def",
+    "ua": "AVLSPTR1.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_791",
+    "en": "AVLSPTR0.def",
+    "ua": "AVLSPTR0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_792",
+    "en": "AvLRG03.def",
+    "ua": "AvLRG03.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_793",
+    "en": "AVLms010.def",
+    "ua": "AVLms010.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_794",
+    "en": "AVLlv2u0.def",
+    "ua": "AVLlv2u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_795",
+    "en": "AvLRD01.def",
+    "ua": "AvLRD01.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_796",
+    "en": "AVLfl2d0.def",
+    "ua": "AVLfl2d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_797",
+    "en": "AVSfntn0.def",
+    "ua": "AVSfntn0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_798",
+    "en": "AvLdlog.def",
+    "ua": "AvLdlog.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_799",
+    "en": "AVLoc2d0.def",
+    "ua": "AVLoc2d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_800",
+    "en": "AVLlk1u0.def",
+    "ua": "AVLlk1u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_801",
+    "en": "AVGtrog0.def",
+    "ua": "AVGtrog0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_802",
+    "en": "AVLskul0.def",
+    "ua": "AVLskul0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_803",
+    "en": "AVAsurv0.def",
+    "ua": "AVAsurv0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_804",
+    "en": "AVLrk3w0.def",
+    "ua": "AVLrk3w0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_805",
+    "en": "AVSbuoy0.def",
+    "ua": "AVSbuoy0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_806",
+    "en": "AVGmdsa0.def",
+    "ua": "AVGmdsa0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_807",
+    "en": "AVMgods0.def",
+    "ua": "AVMgods0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_808",
+    "en": "AVLmtds4.def",
+    "ua": "AVLmtds4.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_809",
+    "en": "AVLmtds3.def",
+    "ua": "AVLmtds3.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_810",
+    "en": "AvLRG09.def",
+    "ua": "AvLRG09.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_811",
+    "en": "AVAdlic0.def",
+    "ua": "AVAdlic0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_812",
+    "en": "AVGmino0.def",
+    "ua": "AVGmino0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_813",
+    "en": "AVGmant0.def",
+    "ua": "AVGmant0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_814",
+    "en": "AVMgosb0.def",
+    "ua": "AVMgosb0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_815",
+    "en": "AVGrdrg0.def",
+    "ua": "AVGrdrg0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_816",
+    "en": "AVXgyne0.def",
+    "ua": "AVXgyne0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_817",
+    "en": "AVXpost0.def",
+    "ua": "AVXpost0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_818",
+    "en": "AVSring0.def",
+    "ua": "AVSring0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_819",
+    "en": "AVLf11g0.def",
+    "ua": "AVLf11g0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_820",
+    "en": "AVLtr3d0.def",
+    "ua": "AVLtr3d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_821",
+    "en": "AVXskds0.def",
+    "ua": "AVXskds0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_822",
+    "en": "AVSgzbo0.def",
+    "ua": "AVSgzbo0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_823",
+    "en": "AVWmon2.def",
+    "ua": "AVWmon2.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_824",
+    "en": "AVSidol0.def",
+    "ua": "AVSidol0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_825",
+    "en": "AVStmpl0.def",
+    "ua": "AVStmpl0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_826",
+    "en": "AVSwtch0.def",
+    "ua": "AVSwtch0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_827",
+    "en": "AVXbnk50.def",
+    "ua": "AVXbnk50.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_828",
+    "en": "AVXl1sh0.def",
+    "ua": "AVXl1sh0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_829",
+    "en": "AVXl2sh0.def",
+    "ua": "AVXl2sh0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_830",
+    "en": "AVXmktb0.def",
+    "ua": "AVXmktb0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_831",
+    "en": "AVXsanc0.def",
+    "ua": "AVXsanc0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_832",
+    "en": "AVXcrsd0.def",
+    "ua": "AVXcrsd0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_833",
+    "en": "AVXrlly0.def",
+    "ua": "AVXrlly0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_834",
+    "en": "AVXl3sh0.def",
+    "ua": "AVXl3sh0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_835",
+    "en": "AVArnd1.def",
+    "ua": "AVArnd1.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_836",
+    "en": "AVArnd2.def",
+    "ua": "AVArnd2.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_837",
+    "en": "AVArnd3.def",
+    "ua": "AVArnd3.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_838",
+    "en": "AVTrndm0.def",
+    "ua": "AVTrndm0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_839",
+    "en": "AVXschl0.def",
+    "ua": "AVXschl0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_840",
+    "en": "AVTgold0.def",
+    "ua": "AVTgold0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_841",
+    "en": "AVLmd3r0.def",
+    "ua": "AVLmd3r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_842",
+    "en": "AVLmd1r0.def",
+    "ua": "AVLmd1r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_843",
+    "en": "AVLmd2r0.def",
+    "ua": "AVLmd2r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_844",
+    "en": "AVLr11r0.def",
+    "ua": "AVLr11r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_845",
+    "en": "AVLr10r0.def",
+    "ua": "AVLr10r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_846",
+    "en": "AVLr15r0.def",
+    "ua": "AVLr15r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_847",
+    "en": "AVLr14r0.def",
+    "ua": "AVLr14r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_848",
+    "en": "AVLr06r0.def",
+    "ua": "AVLr06r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_849",
+    "en": "AVLr12r0.def",
+    "ua": "AVLr12r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_850",
+    "en": "AVLr08r0.def",
+    "ua": "AVLr08r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_851",
+    "en": "avlsh9r0.def",
+    "ua": "avlsh9r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_852",
+    "en": "AVLsh1r0.def",
+    "ua": "AVLsh1r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_853",
+    "en": "avlmtdr3.def",
+    "ua": "avlmtdr3.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_854",
+    "en": "avlmtdr4.def",
+    "ua": "avlmtdr4.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_855",
+    "en": "avlmtdr5.def",
+    "ua": "avlmtdr5.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_856",
+    "en": "avlmtdr6.def",
+    "ua": "avlmtdr6.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_857",
+    "en": "avlmtdr8.def",
+    "ua": "avlmtdr8.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_858",
+    "en": "AVLr02r0.def",
+    "ua": "AVLr02r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_859",
+    "en": "AVLr04r0.def",
+    "ua": "AVLr04r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_860",
+    "en": "AVLr07r0.def",
+    "ua": "AVLr07r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_861",
+    "en": "AVLr03r0.def",
+    "ua": "AVLr03r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_862",
+    "en": "AVLr09r0.def",
+    "ua": "AVLr09r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_863",
+    "en": "avlmtrf5.def",
+    "ua": "avlmtrf5.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_864",
+    "en": "AVLr13r0.def",
+    "ua": "AVLr13r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_865",
+    "en": "AVLca080.def",
+    "ua": "AVLca080.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_866",
+    "en": "AVLhlds0.def",
+    "ua": "AVLhlds0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_867",
+    "en": "AVLklp10.def",
+    "ua": "AVLklp10.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_868",
+    "en": "AVLklp20.def",
+    "ua": "AVLklp20.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_869",
+    "en": "AVLllk20.def",
+    "ua": "AVLllk20.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_870",
+    "en": "AVLllk10.def",
+    "ua": "AVLllk10.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_871",
+    "en": "avlxgr10.def",
+    "ua": "avlxgr10.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_872",
+    "en": "avlxgr12.def",
+    "ua": "avlxgr12.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_873",
+    "en": "avlxgr11.def",
+    "ua": "avlxgr11.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_874",
+    "en": "avlxdt05.def",
+    "ua": "avlxdt05.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_875",
+    "en": "avlxdt01.def",
+    "ua": "avlxdt01.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_876",
+    "en": "avlxdt04.def",
+    "ua": "avlxdt04.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_877",
+    "en": "avlxdt03.def",
+    "ua": "avlxdt03.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_878",
+    "en": "avlxdt00.def",
+    "ua": "avlxdt00.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_879",
+    "en": "avlxdt02.def",
+    "ua": "avlxdt02.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_880",
+    "en": "avlxdt09.def",
+    "ua": "avlxdt09.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_881",
+    "en": "AVLmtds5.def",
+    "ua": "AVLmtds5.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_882",
+    "en": "AVLmtds6.def",
+    "ua": "AVLmtds6.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_883",
+    "en": "AVLmtds2.def",
+    "ua": "AVLmtds2.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_884",
+    "en": "AVLtr1d0.def",
+    "ua": "AVLtr1d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_885",
+    "en": "AVLswp40.def",
+    "ua": "AVLswp40.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_886",
+    "en": "avlxdt10.def",
+    "ua": "avlxdt10.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_887",
+    "en": "AVLlv230.def",
+    "ua": "AVLlv230.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_888",
+    "en": "AvLRG05.def",
+    "ua": "AvLRG05.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_889",
+    "en": "AvLRG08.def",
+    "ua": "AvLRG08.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_890",
+    "en": "AvLRG11.def",
+    "ua": "AvLRG11.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_891",
+    "en": "AVLfl6d0.def",
+    "ua": "AVLfl6d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_892",
+    "en": "AvLRG06.def",
+    "ua": "AvLRG06.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_893",
+    "en": "AvLRG04.def",
+    "ua": "AvLRG04.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_894",
+    "en": "AvLRG02.def",
+    "ua": "AvLRG02.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_895",
+    "en": "AVLlv260.def",
+    "ua": "AVLlv260.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_896",
+    "en": "AvLRD02.def",
+    "ua": "AvLRD02.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_897",
+    "en": "AvLRG01.def",
+    "ua": "AvLRG01.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_898",
+    "en": "avlmtdr2.def",
+    "ua": "avlmtdr2.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_899",
+    "en": "avlmtdr1.def",
+    "ua": "avlmtdr1.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_900",
+    "en": "AvLStm2.def",
+    "ua": "AvLStm2.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_901",
+    "en": "avlxsu10.def",
+    "ua": "avlxsu10.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_902",
+    "en": "AVLref50.def",
+    "ua": "AVLref50.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_903",
+    "en": "AVLref60.def",
+    "ua": "AVLref60.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_904",
+    "en": "AVLfl7d0.def",
+    "ua": "AVLfl7d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_905",
+    "en": "avlmtrf3.def",
+    "ua": "avlmtrf3.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_906",
+    "en": "avlmtrf6.def",
+    "ua": "avlmtrf6.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_907",
+    "en": "AVLrk1w0.def",
+    "ua": "AVLrk1w0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_908",
+    "en": "AVLrk2w0.def",
+    "ua": "AVLrk2w0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_909",
+    "en": "AVLSPTR3.def",
+    "ua": "AVLSPTR3.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_910",
+    "en": "AVLtr2d0.def",
+    "ua": "AVLtr2d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_911",
+    "en": "AHplace.def",
+    "ua": "AHplace.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_912",
+    "en": "ah03_e.def",
+    "ua": "ah03_e.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_913",
+    "en": "ahrandom.def",
+    "ua": "ahrandom.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_914",
+    "en": "AVXbnk60.def",
+    "ua": "AVXbnk60.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_915",
+    "en": "AVXprsn0.def",
+    "ua": "AVXprsn0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_916",
+    "en": "AVXamSu.def",
+    "ua": "AVXamSu.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_917",
+    "en": "AVXmn1r0.def",
+    "ua": "AVXmn1r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_918",
+    "en": "AVXbor20.def",
+    "ua": "AVXbor20.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_919",
+    "en": "AVWelmw0.def",
+    "ua": "AVWelmw0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_920",
+    "en": "AVXkey10.def",
+    "ua": "AVXkey10.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_921",
+    "en": "AVXbor10.def",
+    "ua": "AVXbor10.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_922",
+    "en": "AVZevnt0.def",
+    "ua": "AVZevnt0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_923",
+    "en": "AVXcovr0.def",
+    "ua": "AVXcovr0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_924",
+    "en": "AVLct1g0.def",
+    "ua": "AVLct1g0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_925",
+    "en": "AVGsieg0.def",
+    "ua": "AVGsieg0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_926",
+    "en": "AVAwre20.def",
+    "ua": "AVAwre20.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_927",
+    "en": "AVLoc3u0.def",
+    "ua": "AVLoc3u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_928",
+    "en": "AVTchst0.def",
+    "ua": "AVTchst0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_929",
+    "en": "avxbor80.def",
+    "ua": "avxbor80.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_930",
+    "en": "AVWbone0.def",
+    "ua": "AVWbone0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_931",
+    "en": "AVWbonx0.def",
+    "ua": "AVWbonx0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_932",
+    "en": "AvWRDrg.def",
+    "ua": "AvWRDrg.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_933",
+    "en": "AVTgems0.def",
+    "ua": "AVTgems0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_934",
+    "en": "AVWddrx0.def",
+    "ua": "AVWddrx0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_935",
+    "en": "AVWdrax0.def",
+    "ua": "AVWdrax0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_936",
+    "en": "AVArnd4.def",
+    "ua": "AVArnd4.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_937",
+    "en": "AVXtrek0.def",
+    "ua": "AVXtrek0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_938",
+    "en": "AVLSPTR2.def",
+    "ua": "AVLSPTR2.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_939",
+    "en": "AVLf12g0.def",
+    "ua": "AVLf12g0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_940",
+    "en": "AVLsh6g0.def",
+    "ua": "AVLsh6g0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_941",
+    "en": "AVXhild0.def",
+    "ua": "AVXhild0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_942",
+    "en": "AVSutop0.def",
+    "ua": "AVSutop0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_943",
+    "en": "AVXseeb0.def",
+    "ua": "AVXseeb0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_944",
+    "en": "AVXwelr0.def",
+    "ua": "AVXwelr0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_945",
+    "en": "AVXtomb0.def",
+    "ua": "AVXtomb0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_946",
+    "en": "AVLref40.def",
+    "ua": "AVLref40.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_947",
+    "en": "AvLRG10.def",
+    "ua": "AvLRG10.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_948",
+    "en": "avlxgr02.def",
+    "ua": "avlxgr02.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_949",
+    "en": "avlxdt07.def",
+    "ua": "avlxdt07.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_950",
+    "en": "avlxdt06.def",
+    "ua": "avlxdt06.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_951",
+    "en": "avlxgr07.def",
+    "ua": "avlxgr07.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_952",
+    "en": "AVLfl1d0.def",
+    "ua": "AVLfl1d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_953",
+    "en": "avlmtrf4.def",
+    "ua": "avlmtrf4.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_954",
+    "en": "AVWfdrg.def",
+    "ua": "AVWfdrg.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_955",
+    "en": "AVWcdrg.def",
+    "ua": "AVWcdrg.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_956",
+    "en": "AVWmon7.def",
+    "ua": "AVWmon7.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_957",
+    "en": "AVXmx1r0.def",
+    "ua": "AVXmx1r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_958",
+    "en": "AVXkey20.def",
+    "ua": "AVXkey20.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_959",
+    "en": "AVWdrag0.def",
+    "ua": "AVWdrag0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_960",
+    "en": "AVWrust.def",
+    "ua": "AVWrust.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_961",
+    "en": "Ordwald",
+    "ua": "Орвальд",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_962",
+    "en": "His father gave him a warrior's name, but Ordwald rejected the warrior's arts and turned to magic.  He is an old, but powerful, warlock in a land where lords almost never live long enough to grow old.",
+    "ua": null,
+    "aligned": false
+  },
+  {
+    "var": "BLOOD_963",
+    "en": "A group of returning scouts report Ordwald and his armies are near.  The scouts report Ordwald's main base camps are through the Subterranean Gate.  The Vial of Dragon Blood must be on the other side of the gate.",
+    "ua": "Група розвідників, що повернулася, повідомляє, що Орвальд і його армії близько. Розвідники донесли, що головні бази Орвальда знаходяться за підземними воротами. Фіал драконячої крові повинен бути з іншого боку воріт.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_964",
+    "en": "The White Belted Knights of Erathia guard this tower.  They will only let one of their own pass.  To join the order, you must first defeat the Ghost Dragons of the northwestern underground region.",
+    "ua": "Лицарі Білого поясу з Ерафіі охороняють цю вежу. Вони пропустять тільки одного зі своїх. Щоб приєднатися до ордену, ви повинні спочатку перемогти примарних драконів у північно-західній частині підземелля.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_965",
+    "en": "The White Belted Knights still will not let you pass, so you have not conquered the Ghost Dragons of the northwestern underground region.",
+    "ua": "Лицарі Білого поясу все ще не дозволяють вам пройти, оскільки ви не перемогли примарних драконів у північно-західній частині підземелля.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_966",
+    "en": "News of your defeat of the Ghost Dragons of the northwestern underground region travelled quickly.  Do you wish to pass, newest of the White Belted Knighst?",
+    "ua": "Новина про вашу перемогу над примарними драконами в північно-західній частині підземелля поширилася швидко. Чи бажаєте ви пройти, новоспечений лицарю Білого поясу?",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_967",
+    "en": "The Green Belted Knights of Erathia guard this tower.  They will only let one of their own pass.  To join the order, you must first defeat the Green Dragons of the northwestern underground region.",
+    "ua": "Лицарі Зеленого поясу з Ерафіі охороняють цю вежу. Вони пропустять тільки одного зі своїх. Щоб приєднатися до ордену, ви повинні спочатку перемогти зелених драконів у північно-західній частині підземелля.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_968",
+    "en": "The Green Belted Knights still will not let you pass, so you have not conquered the Green Dragons of the northwestern underground region.",
+    "ua": "Лицарі Зеленого поясу все ще не дозволяють вам пройти, оскільки ви не перемогли зелених драконів у північно-західній частині підземелля.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_969",
+    "en": "News of your defeat of the Green Dragons of the northwestern underground region travelled quickly.  Do you wish to pass, newest of the Green Belted Knights?",
+    "ua": "Новина про вашу перемогу над зеленими драконами в північно-західній частині підземелля поширилася швидко. Чи бажаєте ви пройти, новоспечений лицарю Зеленого поясу?",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_970",
+    "en": "The Gold Belted Knights of Erathia guard this tower.  They will only let one of their own pass.  To join the order, you must first defeat the Gold Dragons of the northwestern underground region.",
+    "ua": "Лицарі Золотого поясу з Ерафіі охороняють цю вежу. Вони пропустять тільки одного зі своїх. Щоб приєднатися до ордену, ви повинні спочатку перемогти золотих драконів у північно-західній частині підземелля.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_971",
+    "en": "The Gold Belted Knights still will not let you pass, so you have not conquered the Gold Dragons of the northwestern underground region.",
+    "ua": "Лицарі Золотого поясу все ще не дозволяють вам пройти, оскільки ви не перемогли золотих драконів у північно-західній частині підземелля.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_972",
+    "en": "News of your defeat of the Gold Dragons of the northwestern underground region travelled quickly.  Do you wish to pass, newest of the Gold Belted Knight?",
+    "ua": "Новина про вашу перемогу над золотими драконами в північно-західній частині підземелля поширилася швидко. Чи бажаєте ви пройти, новоспечений лицарю Золотого поясу?",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_973",
+    "en": "The Red Belted Knights of Erathia guard this tower.  They will only let one of their own pass.  To join the order, you must first defeat the Red Dragons of the northwestern underground region.",
+    "ua": "Лицарі Червоного поясу з Ерафіі охороняють цю вежу. Вони пропустять тільки одного зі своїх. Щоб приєднатися до ордену, ви повинні спочатку перемогти червоних драконів у північно-західній частині підземелля.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_974",
+    "en": "The Red Belted Knights still will not let you pass, so you have not conquered the Red Dragons of the northwestern underground region.",
+    "ua": "Лицарі Червоного поясу все ще не дозволяють вам пройти, оскільки ви не перемогли червоних драконів у північно-західній частині підземелля.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_975",
+    "en": "News of your defeat of the Red Dragons of the northwestern underground region travelled quickly.  Do you wish to pass, newest of the Red Belted Knights?",
+    "ua": "Новина про вашу перемогу над червоними драконами в північно-західній частині підземелля поширилася швидко. Чи бажаєте ви пройти, новоспечений лицарю Червоного поясу?",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_976",
+    "en": "The Black Belted Knights of Erathia guard this tower.  They will only let one of their own pass.  To join the order, you must first defeat the Black Dragons of the northern underground region.",
+    "ua": "Лицарі Чорного поясу з Ерафіі охороняють цю вежу. Вони пропустять тільки одного зі своїх. Щоб приєднатися до ордену, ви повинні спочатку перемогти чорних драконів в північній частині підземелля.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_977",
+    "en": "The Black Belted Knights still will not let you pass, so you have not conquered the Black Dragons of the northern underground region.",
+    "ua": "Лицарі Чорного поясу все ще не дозволяють вам пройти, оскільки ви не перемогли чорних драконів в північній частині підземелля.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_978",
+    "en": "News of your defeat of the Black Dragons of the northern underground region travelled quickly.  Do you wish to pass, newest of the Black Belted Knights?",
+    "ua": "Новина про вашу перемогу над чорними драконами в північній частині підземелля поширилася швидко. Чи бажаєте ви пройти, новоспечений лицарю Чорного поясу?",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_979",
+    "en": "Evil spirits guard this tower.  They will only let you pass if you defeat the Faerie Dragons of the northwestern underground region.",
+    "ua": "Злі духи охороняють цю вежу. Вони дозволять вам пройти, тільки якщо ви переможете казкових драконів у північно-західній частині підземелля.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_980",
+    "en": "You may not pass until you defeat the Faerie Dragons of the northwestern underground region.",
+    "ua": "Ви не пройдете, поки не переможете казкових драконів у північно-західній частині підземелля.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_981",
+    "en": "A bargain is a bargain.  Do you wish to pass?",
+    "ua": "Угода є угода. Бажаєте пройти?",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_982",
+    "en": "Monsters with blood dripping from their eyes guard this tower.  They will only let pass the one who defeats the Rust Dragons of the northern underground region.",
+    "ua": "Монстри з очима, з яких тече кров, охороняють цю вежу. Вони дозволять пройти тільки тому, хто переможе іржавих драконів в північній частині підземелля.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_983",
+    "en": "You may not pass.  Go defeat the Rust Dragons of the northern underground region to pass.",
+    "ua": "Слух про твою перемогу над іржавими драконами рознісся швидко. Ти хочеш пройти зараз?",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_984",
+    "en": "Word of your defeat of the Rust Dragons traveled quickly.  Do you wish to pass now?",
+    "ua": "Схоже, що тутешня печера утворилася навколо древнього, дорого прикрашеного ящика.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_985",
+    "en": "The caverns here seem to have grown around an ancient ornate box.",
+    "ua": null,
+    "aligned": false
+  },
+  {
+    "var": "BLOOD_986",
+    "en": "The spirits of legendary knights guard this tower.  They will only let pass one who is worthy.  To prove your worth, you must first defeat the Crystal Dragons of the northern underground region.",
+    "ua": "Духи легендарних лицарів охороняють цю вежу. Вони пропустять лише того, хто гідний. Щоб довести, що ви гідні, потрібно перемогти кристальних драконів в у північній частині підземелля.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_987",
+    "en": "You have not yet proved your worth.  Go defeat the Crystal Dragons of the northern underground region.  Only then may you pass.",
+    "ua": null,
+    "aligned": false
+  },
+  {
+    "var": "BLOOD_988",
+    "en": "We have received word of the defeat of the Crystal Dragons.  Kindred spirit, do you wish to pass?",
+    "ua": null,
+    "aligned": false
+  },
+  {
+    "var": "BLOOD_989",
+    "en": "War Diary:  Some of my scouts report they have discovered strange types of Dragons.  I'll have to see if I can recruit some for myself, when this campaign is over.",
+    "ua": "Військовий щоденник: Кілька моїх розвідників повідомляють, що вони виявили дивні породи драконів. Треба буде з'ясувати, чи не можна їх найняти до себе на службу, коли ця кампанія закінчиться.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_990",
+    "en": "Intro",
+    "ua": "Intro",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_991",
+    "en": "I always thought I would be a powerful noble one day.  Taking Rauric's Lands was only the first step.  But I thought it wouldn't be possible 'til I was old, like 26 or 27.  The Vial changes all my calculations.  Whoever transforms into the Dragon will be able to muscle into the highest ranks of Nighon nobility.",
+    "ua": null,
+    "aligned": false
+  },
+  {
+    "var": "BLOOD_992",
+    "en": "Intro (cont)",
+    "ua": "Intro (cont)",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_993",
+    "en": "General Miah will take command of the troops in my old staging area (and new castles) near the access to the Deep Caverns.  He should be able to make things tough on any Lords trying to follow me, by raiding them, killing their scouts, laying false trails and stomping any overly bold Lords.  Meanwhile I'll take a small force and setup a camp in the Deep Caverns near where my scouts saw some of Ordwald's troops.  A small force should be able to slip in without being noticed by anyone.",
+    "ua": "Генерал Травень візьме командування військами в моїй колишній зоні розташування (і новими замками) біля проходу в Глибокі печери. Сподіваюся, він змусить попотіти лордів, що намагаються піти за мною - здійснюючи нальоти на них, вбиваючи їх розвідників, спрямовуючи по помилковому сліду і залякуючи найзнахабніліших. Між тим, я візьму невелику армію і розіб'ю табір у Глибоких печерах недалеко від того місця, де мої розвідники бачили солдатів Орвальда. Маленька група повинна прослизнути туди непоміченою.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_994",
+    "en": "Scouting Report 1st Castle",
+    "ua": "Scouting Report 1st Castle",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_995",
+    "en": "War Diary:  Today some of my scouts reported Ordwald's troops hold a castle to the West.  They are flying a blue banner.  They say there are four passages leading to the castle.  Wild monsters block each passage.  The scouts don't believe my forces have been spotted yet.",
+    "ua": "Військовий щоденник: Сьогодні кілька моїх розвідників доповіли про те, що війська Орвальда утримують замок на заході. Вони виступають під блакитним прапором. Кажуть, до замку ведуть чотири дороги. Кожну з них вартують дикі монстри. Розвідники вважають, що моя армія досі не помічена.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_996",
+    "en": "Campaign Journal 1",
+    "ua": "Campaign Journal 1",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_997",
+    "en": "War Diary:  I imagine Ordwald's troops near here are picket or screening troops.  As soon as I take them out he'll know I'm in the Deep Caverns.  Getting the Vial first is why I'm here, but I don't think Ordwald is going to let me walk up and take it without a fight.",
+    "ua": "Військовий щоденник: Я вважаю, що війська Орвальда тут - не більше ніж застава чи відволікаючий загін. Як тільки я нападу на них, він дізнається, що я перебуваю в Глибоких печерах. Головна моя мета тут - це Фіал, але я не думаю, що Орвальд дозволить мені просто прийти і взяти його без бою.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_998",
+    "en": "Scout Report River",
+    "ua": "Scout Report River",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_999",
+    "en": "War Diary:  Today my scouts reported that further on to the west past the first enemy castle and a border guard is an underground river.  The river appears to be the only exit from these series of caverns.  My Master of Scouts is convinced Ordwald's armies passed through here about 6 to 8 months ago.",
+    "ua": "Військовий щоденник: Сьогодні мої розвідники повідомили, що далі на захід, за першим ворожим замком і Вартовим кордону знаходиться підземна річка. Схоже, ця річка - єдиний вихід з цієї системи печер. Мій начальник розвідки переконаний, що війська Орвальда проходили тут близько 6-8 місяців тому.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1000",
+    "en": "Campaign Journal 2",
+    "ua": "Campaign Journal 2",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1001",
+    "en": "War Diary:  I talked to the castle's Barkeep the other day.  After tossing him a few gold and tickling him under his chin with my dagger, he told me an interesting story.  Apparently there are rumors of a new type of dragon called a \"Fay\" or \"Faerie\" Dragon.  They apparently have the soul of a leprechaun ",
+    "ua": "Військовий щоденник: Днями я мала розмову з місцевим шинкарем. Після того, як я кинула йому кілька монет і полоскотала під підборіддям кинджалом, він розповів мені цікаву історію. Тут виразно ходять чутки про нову породу драконів, званих \"чарівними\", або \"казковими\", драконами. Кажуть, у них душа лепрекона.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1002",
+    "en": "Campaign Journal 2 (cont) ",
+    "ua": "Campaign Journal 2 (cont) ",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1003",
+    "en": "and the power of a normal dragon.  I was fascinated.  I love my Red and Black Dragons and even the Green and Gold ones respond well to me (too bad they live in the Bright Lands).  I wonder if my affinity would work with these Fairy Dragons?",
+    "ua": null,
+    "aligned": false
+  },
+  {
+    "var": "BLOOD_1004",
+    "en": "Campaign Journal 3",
+    "ua": "Campaign Journal 3",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1005",
+    "en": "War Diary:  Certain resources seem scarce in this part of the Deep Caverns.  I haven't been able to locate any Gem or Crystal mines.  No sulfur dunes either, but at least the dungeon castles have resource silos.  I hate having to deal with Merchants.  I'd kill them all, but then who would trade with me?",
+    "ua": "Військовий щоденник: Схоже, в цій частині Глибоких печер не вистачає деяких ресурсів. Я не змогла досі знайти ні самоцвітних, ні кристальних шахт. Немає і сірчаних покладів, але це, принаймні, компенсується сховищами ресурсів у замках-підземеллях. Ненавиджу мати справу з торговцями. Я б їх усіх вбила, та хто буде тоді торгувати зі мною?",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1006",
+    "en": "Campaign Journal 4",
+    "ua": "Campaign Journal 4",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1007",
+    "en": "War Diary:  I've been thinking about the magical plain areas containing trees and other Bright Land things.  I wonder if I could relocate some Green or Gold Dragons into those areas.  It would be some consolation for these areas' hideous green color.  Plants should be brown not green.",
+    "ua": "Військовий щоденник: Я ось все думаю щодо чарівних рівнин, з деревами та іншими штуками з поверхні. Цікаво, чи не вдасться мені відшукати там парочку зелених або золотих драконів. Це могло б примирити мене з протиприродною зеленню цих рівнин. Рослини повинні бути бурими, а не зеленими.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1008",
+    "en": "Campaign Journal 5",
+    "ua": "Campaign Journal 5",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1009",
+    "en": "War Diary:  I have to wonder if the Father of All Dragons may have once lived in the Deep Caverns.  That would be a worthy quest - finding the Father of Dragons.  I think he might still live, maybe sleeping through the eons.  It could be something I do when I get old.",
+    "ua": "Військовий щоденник: Я волею-неволею починаю шукати відповіді на запитання, чи не жив колись давно Батько усіх Драконів в Глибоких печерах. Ось була б достойна місія - знайти Отця драконів. Я думаю, він може бути досі живий - можливо, він просто спить уже кілька століть. Непогано було б зайнятися цим на схилі років.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1010",
+    "en": "Campaign Journal 6",
+    "ua": "Campaign Journal 6",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1011",
+    "en": "War Diary:  Good commanders have to plan for all the things that might happen.  That way whatever happens, you can still win or at least survive your defeat.  Rauric did not understand that.  Which is why I killed him so easily and took his lands.  If Ordwald gets the Vial first, I may be forced to flee Nighon.",
+    "ua": null,
+    "aligned": false
+  },
+  {
+    "var": "BLOOD_1012",
+    "en": "Campaign Journal 7",
+    "ua": "Campaign Journal 7",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1013",
+    "en": "War Diary:  Miah sent a message that three powerful Nighon Lords are heading for the Borderlands.  Apparently, they have heard about the Vial.  I can't win if I get caught between them and Ordwald, unless I have the Vial.  Still, it will take time for them to find the way down here and find me.",
+    "ua": null,
+    "aligned": false
+  },
+  {
+    "var": "BLOOD_1014",
+    "en": "Scout report prison",
+    "ua": "Scout report prison",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1015",
+    "en": "War Diary:  My scouts found a prison along the river today.  A warlock named Alamar is imprisoned there.  He is willing to join the side of anyone who frees him.  He says he will also contribute his Endless Bag of Gold to his rescuer.",
+    "ua": "Військовий щоденник: Мої розвідники виявили сьогодні в'язницю на березі річки. Там ув'язнений чорнокнижник на ім'я Аламар. Він буде з радістю служити будь-кому, хто звільнить його. До того ж він обіцяє пожалувати своєму рятівнику бездонну торбу золота.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1016",
+    "en": "Blood Thirsty",
+    "ua": "Жага крові",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1017",
+    "en": "Once again you must crush your enemies before they crush you.  If Mutare dies then all is lost.  With your two best aides this will still be a difficult battle.",
+    "ua": "І знову ви повинні знищити ваших ворогів до того, як вони розтрощать вас. Якщо Мутар загине - все втрачено. Навіть із двома вашими кращими помічниками це все одно буде важка битва.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1018",
+    "en": "Ordwald",
+    "ua": "Орвальд",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1019",
+    "en": "Ordwald",
+    "ua": "Орвальд",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1020",
+    "en": "AVWmrnd0.def",
+    "ua": "AVWmrnd0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1021",
+    "en": "AVLholg0.def",
+    "ua": "AVLholg0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1022",
+    "en": "AvTCave.def",
+    "ua": "AvTCave.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1023",
+    "en": "AVCdunx0.def",
+    "ua": "AVCdunx0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1024",
+    "en": "AVMsawl0.def",
+    "ua": "AVMsawl0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1025",
+    "en": "AVMorsb0.def",
+    "ua": "AVMorsb0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1026",
+    "en": "AVMalch0.def",
+    "ua": "AVMalch0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1027",
+    "en": "AVMcrsu0.def",
+    "ua": "AVMcrsu0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1028",
+    "en": "AVMsulf0.def",
+    "ua": "AVMsulf0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1029",
+    "en": "AVLmtsb0.def",
+    "ua": "AVLmtsb0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1030",
+    "en": "AVLmtsb1.def",
+    "ua": "AVLmtsb1.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1031",
+    "en": "AVLmtsb2.def",
+    "ua": "AVLmtsb2.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1032",
+    "en": "AVLmtsb5.def",
+    "ua": "AVLmtsb5.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1033",
+    "en": "AVLr01u0.def",
+    "ua": "AVLr01u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1034",
+    "en": "AVLmtsb4.def",
+    "ua": "AVLmtsb4.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1035",
+    "en": "AVLmtsb3.def",
+    "ua": "AVLmtsb3.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1036",
+    "en": "AVLoc2u0.def",
+    "ua": "AVLoc2u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1037",
+    "en": "AVLoc4u0.def",
+    "ua": "AVLoc4u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1038",
+    "en": "AVLdead7.def",
+    "ua": "AVLdead7.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1039",
+    "en": "AVLdead1.def",
+    "ua": "AVLdead1.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1040",
+    "en": "AVLdead6.def",
+    "ua": "AVLdead6.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1041",
+    "en": "AVLdead5.def",
+    "ua": "AVLdead5.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1042",
+    "en": "AVLdead4.def",
+    "ua": "AVLdead4.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1043",
+    "en": "AVLms100.def",
+    "ua": "AVLms100.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1044",
+    "en": "AVLdead3.def",
+    "ua": "AVLdead3.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1045",
+    "en": "AVLdead0.def",
+    "ua": "AVLdead0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1046",
+    "en": "AVLdead2.def",
+    "ua": "AVLdead2.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1047",
+    "en": "AVLct5u0.def",
+    "ua": "AVLct5u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1048",
+    "en": "AVLct1u0.def",
+    "ua": "AVLct1u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1049",
+    "en": "AVLms030.def",
+    "ua": "AVLms030.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1050",
+    "en": "AVLct3u0.def",
+    "ua": "AVLct3u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1051",
+    "en": "AVLr08u0.def",
+    "ua": "AVLr08u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1052",
+    "en": "AVLr16u0.def",
+    "ua": "AVLr16u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1053",
+    "en": "AVLstg60.def",
+    "ua": "AVLstg60.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1054",
+    "en": "AVLr06u0.def",
+    "ua": "AVLr06u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1055",
+    "en": "AVLr07u0.def",
+    "ua": "AVLr07u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1056",
+    "en": "AVLr11u0.def",
+    "ua": "AVLr11u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1057",
+    "en": "AVLllk20.def",
+    "ua": "AVLllk20.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1058",
+    "en": "AVLms090.def",
+    "ua": "AVLms090.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1059",
+    "en": "AVLr15u0.def",
+    "ua": "AVLr15u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1060",
+    "en": "AVLr02u0.def",
+    "ua": "AVLr02u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1061",
+    "en": "AVLr09u0.def",
+    "ua": "AVLr09u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1062",
+    "en": "AVLr14u0.def",
+    "ua": "AVLr14u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1063",
+    "en": "AVMgerf0.def",
+    "ua": "AVMgerf0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1064",
+    "en": "AVLlk1u0.def",
+    "ua": "AVLlk1u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1065",
+    "en": "AVLms010.def",
+    "ua": "AVLms010.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1066",
+    "en": "AVLr04u0.def",
+    "ua": "AVLr04u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1067",
+    "en": "AVLr13u0.def",
+    "ua": "AVLr13u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1068",
+    "en": "AVLms110.def",
+    "ua": "AVLms110.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1069",
+    "en": "AVLms080.def",
+    "ua": "AVLms080.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1070",
+    "en": "AVLc11l0.def",
+    "ua": "AVLc11l0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1071",
+    "en": "AVLctrl0.def",
+    "ua": "AVLctrl0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1072",
+    "en": "AVLoc3d0.def",
+    "ua": "AVLoc3d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1073",
+    "en": "AVLrk3d0.def",
+    "ua": "AVLrk3d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1074",
+    "en": "AVLsh8d0.def",
+    "ua": "AVLsh8d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1075",
+    "en": "AVLr10u0.def",
+    "ua": "AVLr10u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1076",
+    "en": "AVLr03u0.def",
+    "ua": "AVLr03u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1077",
+    "en": "AVLct2u0.def",
+    "ua": "AVLct2u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1078",
+    "en": "AVLms060.def",
+    "ua": "AVLms060.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1079",
+    "en": "AVLlv3u0.def",
+    "ua": "AVLlv3u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1080",
+    "en": "AVLlk3u0.def",
+    "ua": "AVLlk3u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1081",
+    "en": "AVLms050.def",
+    "ua": "AVLms050.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1082",
+    "en": "AVLms120.def",
+    "ua": "AVLms120.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1083",
+    "en": "AVLstg30.def",
+    "ua": "AVLstg30.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1084",
+    "en": "AVLstg50.def",
+    "ua": "AVLstg50.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1085",
+    "en": "AVLstg40.def",
+    "ua": "AVLstg40.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1086",
+    "en": "AVLlk2u0.def",
+    "ua": "AVLlk2u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1087",
+    "en": "AVLoc1u0.def",
+    "ua": "AVLoc1u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1088",
+    "en": "AVLstg10.def",
+    "ua": "AVLstg10.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1089",
+    "en": "AVLstg20.def",
+    "ua": "AVLstg20.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1090",
+    "en": "AVLrk5d0.def",
+    "ua": "AVLrk5d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1091",
+    "en": "AVLms020.def",
+    "ua": "AVLms020.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1092",
+    "en": "AVXsndg0.def",
+    "ua": "AVXsndg0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1093",
+    "en": "AVLr12u0.def",
+    "ua": "AVLr12u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1094",
+    "en": "AvLdlog.def",
+    "ua": "AvLdlog.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1095",
+    "en": "AVLr02r0.def",
+    "ua": "AVLr02r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1096",
+    "en": "AvLStm3.def",
+    "ua": "AvLStm3.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1097",
+    "en": "AVLc10l0.def",
+    "ua": "AVLc10l0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1098",
+    "en": "AVLc12l0.def",
+    "ua": "AVLc12l0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1099",
+    "en": "AVLc14l0.def",
+    "ua": "AVLc14l0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1100",
+    "en": "AVLlv1u0.def",
+    "ua": "AVLlv1u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1101",
+    "en": "AVLmd1r0.def",
+    "ua": "AVLmd1r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1102",
+    "en": "AVLmd3r0.def",
+    "ua": "AVLmd3r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1103",
+    "en": "AVLr14r0.def",
+    "ua": "AVLr14r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1104",
+    "en": "AVLr12r0.def",
+    "ua": "AVLr12r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1105",
+    "en": "AVLct4u0.def",
+    "ua": "AVLct4u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1106",
+    "en": "AVLr05u0.def",
+    "ua": "AVLr05u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1107",
+    "en": "AVLoc3u0.def",
+    "ua": "AVLoc3u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1108",
+    "en": "AVLms040.def",
+    "ua": "AVLms040.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1109",
+    "en": "AVLllk10.def",
+    "ua": "AVLllk10.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1110",
+    "en": "AvLRD02.def",
+    "ua": "AvLRD02.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1111",
+    "en": "AvLRD01.def",
+    "ua": "AvLRD01.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1112",
+    "en": "avlmtdr5.def",
+    "ua": "avlmtdr5.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1113",
+    "en": "avlmtdr6.def",
+    "ua": "avlmtdr6.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1114",
+    "en": "AVWmon4.def",
+    "ua": "AVWmon4.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1115",
+    "en": "AVSmerc0.def",
+    "ua": "AVSmerc0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1116",
+    "en": "AVXplns0.def",
+    "ua": "AVXplns0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1117",
+    "en": "AVSgrdn0.def",
+    "ua": "AVSgrdn0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1118",
+    "en": "AVLSPTR0.def",
+    "ua": "AVLSPTR0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1119",
+    "en": "AVXhilg0.def",
+    "ua": "AVXhilg0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1120",
+    "en": "AVXhild0.def",
+    "ua": "AVXhild0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1121",
+    "en": "AVWmon5.def",
+    "ua": "AVWmon5.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1122",
+    "en": "AVXrlly0.def",
+    "ua": "AVXrlly0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1123",
+    "en": "AVSuniv0.def",
+    "ua": "AVSuniv0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1124",
+    "en": "AVWmon3.def",
+    "ua": "AVWmon3.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1125",
+    "en": "AVSutop0.def",
+    "ua": "AVSutop0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1126",
+    "en": "AVSgzbo0.def",
+    "ua": "AVSgzbo0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1127",
+    "en": "AVSidol0.def",
+    "ua": "AVSidol0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1128",
+    "en": "AVSwtch0.def",
+    "ua": "AVSwtch0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1129",
+    "en": "AVXcfds0.def",
+    "ua": "AVXcfds0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1130",
+    "en": "AVXcovr0.def",
+    "ua": "AVXcovr0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1131",
+    "en": "AVXdend0.def",
+    "ua": "AVXdend0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1132",
+    "en": "AVXmktb0.def",
+    "ua": "AVXmktb0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1133",
+    "en": "AVXcrsd0.def",
+    "ua": "AVXcrsd0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1134",
+    "en": "AVMwndd0.def",
+    "ua": "AVMwndd0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1135",
+    "en": "AVLlv2u0.def",
+    "ua": "AVLlv2u0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1136",
+    "en": "AVSaxis0.def",
+    "ua": "AVSaxis0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1137",
+    "en": "AVWmon2.def",
+    "ua": "AVWmon2.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1138",
+    "en": "AVGsieg0.def",
+    "ua": "AVGsieg0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1139",
+    "en": "AVXtomb0.def",
+    "ua": "AVXtomb0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1140",
+    "en": "AVXbnk20.def",
+    "ua": "AVXbnk20.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1141",
+    "en": "AVXl3sh0.def",
+    "ua": "AVXl3sh0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1142",
+    "en": "AVXl1sh0.def",
+    "ua": "AVXl1sh0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1143",
+    "en": "AVXl2sh0.def",
+    "ua": "AVXl2sh0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1144",
+    "en": "AVSring0.def",
+    "ua": "AVSring0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1145",
+    "en": "avlxgr03.def",
+    "ua": "avlxgr03.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1146",
+    "en": "avlxgr05.def",
+    "ua": "avlxgr05.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1147",
+    "en": "AVLSPTR6.def",
+    "ua": "AVLSPTR6.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1148",
+    "en": "AVLf08g0.def",
+    "ua": "AVLf08g0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1149",
+    "en": "AVLSPTR1.def",
+    "ua": "AVLSPTR1.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1150",
+    "en": "AVLSPTR2.def",
+    "ua": "AVLSPTR2.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1151",
+    "en": "AvLRG02.def",
+    "ua": "AvLRG02.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1152",
+    "en": "AvLRG06.def",
+    "ua": "AvLRG06.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1153",
+    "en": "AVSfntn0.def",
+    "ua": "AVSfntn0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1154",
+    "en": "AVXgyne0.def",
+    "ua": "AVXgyne0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1155",
+    "en": "AVLSPTR3.def",
+    "ua": "AVLSPTR3.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1156",
+    "en": "avlxgr11.def",
+    "ua": "avlxgr11.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1157",
+    "en": "AvLRG04.def",
+    "ua": "AvLRG04.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1158",
+    "en": "AvLRG03.def",
+    "ua": "AvLRG03.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1159",
+    "en": "AVTwood0.def",
+    "ua": "AVTwood0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1160",
+    "en": "AVTore0.def",
+    "ua": "AVTore0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1161",
+    "en": "AVXbnk40.def",
+    "ua": "AVXbnk40.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1162",
+    "en": "AvSMarl.def",
+    "ua": "AvSMarl.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1163",
+    "en": "avlmtdr8.def",
+    "ua": "avlmtdr8.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1164",
+    "en": "avlmtdr4.def",
+    "ua": "avlmtdr4.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1165",
+    "en": "AVXtrek0.def",
+    "ua": "AVXtrek0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1166",
+    "en": "AVLsptr8.def",
+    "ua": "AVLsptr8.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1167",
+    "en": "AVWmon6.def",
+    "ua": "AVWmon6.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1168",
+    "en": "avlxgr01.def",
+    "ua": "avlxgr01.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1169",
+    "en": "AVTmyst0.def",
+    "ua": "AVTmyst0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1170",
+    "en": "AVLSPTR5.def",
+    "ua": "AVLSPTR5.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1171",
+    "en": "AVLf11g0.def",
+    "ua": "AVLf11g0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1172",
+    "en": "AVLf12g0.def",
+    "ua": "AVLf12g0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1173",
+    "en": "AVMgosb0.def",
+    "ua": "AVMgosb0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1174",
+    "en": "AVXwelr0.def",
+    "ua": "AVXwelr0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1175",
+    "en": "AVGtrog0.def",
+    "ua": "AVGtrog0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1176",
+    "en": "AVGharp0.def",
+    "ua": "AVGharp0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1177",
+    "en": "AVXbnk50.def",
+    "ua": "AVXbnk50.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1178",
+    "en": "AVXbnk60.def",
+    "ua": "AVXbnk60.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1179",
+    "en": "AVGrdrg0.def",
+    "ua": "AVGrdrg0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1180",
+    "en": "AVGmant0.def",
+    "ua": "AVGmant0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1181",
+    "en": "AVGmino0.def",
+    "ua": "AVGmino0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1182",
+    "en": "AVGmdsa0.def",
+    "ua": "AVGmdsa0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1183",
+    "en": "AVGbhld0.def",
+    "ua": "AVGbhld0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1184",
+    "en": "AVArnd1.def",
+    "ua": "AVArnd1.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1185",
+    "en": "AVTrndm0.def",
+    "ua": "AVTrndm0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1186",
+    "en": "AVLskul0.def",
+    "ua": "AVLskul0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1187",
+    "en": "AVArnd3.def",
+    "ua": "AVArnd3.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1188",
+    "en": "AVArnd2.def",
+    "ua": "AVArnd2.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1189",
+    "en": "AVLms070.def",
+    "ua": "AVLms070.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1190",
+    "en": "AVLr04r0.def",
+    "ua": "AVLr04r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1191",
+    "en": "AVLr10r0.def",
+    "ua": "AVLr10r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1192",
+    "en": "avlsh9r0.def",
+    "ua": "avlsh9r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1193",
+    "en": "avlxsu10.def",
+    "ua": "avlxsu10.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1194",
+    "en": "avlmtdr3.def",
+    "ua": "avlmtdr3.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1195",
+    "en": "AVLref60.def",
+    "ua": "AVLref60.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1196",
+    "en": "AVLlv150.def",
+    "ua": "AVLlv150.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1197",
+    "en": "AVLlv130.def",
+    "ua": "AVLlv130.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1198",
+    "en": "AVLlv160.def",
+    "ua": "AVLlv160.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1199",
+    "en": "AVLlv170.def",
+    "ua": "AVLlv170.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1200",
+    "en": "AVLr15r0.def",
+    "ua": "AVLr15r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1201",
+    "en": "AVLr11r0.def",
+    "ua": "AVLr11r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1202",
+    "en": "AVLr09r0.def",
+    "ua": "AVLr09r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1203",
+    "en": "AVLmd2r0.def",
+    "ua": "AVLmd2r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1204",
+    "en": "AVLca080.def",
+    "ua": "AVLca080.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1205",
+    "en": "AVLsh1r0.def",
+    "ua": "AVLsh1r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1206",
+    "en": "AVLmtds4.def",
+    "ua": "AVLmtds4.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1207",
+    "en": "AVLmtds3.def",
+    "ua": "AVLmtds3.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1208",
+    "en": "AVLmtds5.def",
+    "ua": "AVLmtds5.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1209",
+    "en": "AVLmtds6.def",
+    "ua": "AVLmtds6.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1210",
+    "en": "AVLr13r0.def",
+    "ua": "AVLr13r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1211",
+    "en": "AVLr07r0.def",
+    "ua": "AVLr07r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1212",
+    "en": "AVLr06r0.def",
+    "ua": "AVLr06r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1213",
+    "en": "avlxdt00.def",
+    "ua": "avlxdt00.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1214",
+    "en": "avlxdt09.def",
+    "ua": "avlxdt09.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1215",
+    "en": "AVLrk3s0.def",
+    "ua": "AVLrk3s0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1216",
+    "en": "avlxdt04.def",
+    "ua": "avlxdt04.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1217",
+    "en": "avlxdt05.def",
+    "ua": "avlxdt05.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1218",
+    "en": "avlxdt03.def",
+    "ua": "avlxdt03.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1219",
+    "en": "avlxdt07.def",
+    "ua": "avlxdt07.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1220",
+    "en": "avlxdt02.def",
+    "ua": "avlxdt02.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1221",
+    "en": "avlxgr06.def",
+    "ua": "avlxgr06.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1222",
+    "en": "AVLfl6d0.def",
+    "ua": "AVLfl6d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1223",
+    "en": "AVLfl7d0.def",
+    "ua": "AVLfl7d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1224",
+    "en": "AVLs06s0.def",
+    "ua": "AVLs06s0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1225",
+    "en": "AvLRG09.def",
+    "ua": "AvLRG09.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1226",
+    "en": "AvLRG08.def",
+    "ua": "AvLRG08.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1227",
+    "en": "AvLRG11.def",
+    "ua": "AvLRG11.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1228",
+    "en": "AVLr08r0.def",
+    "ua": "AVLr08r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1229",
+    "en": "AVLr03r0.def",
+    "ua": "AVLr03r0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1230",
+    "en": "AvLRG05.def",
+    "ua": "AvLRG05.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1231",
+    "en": "AVLrk3w0.def",
+    "ua": "AVLrk3w0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1232",
+    "en": "AVLholx0.def",
+    "ua": "AVLholx0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1233",
+    "en": "avlmtrf5.def",
+    "ua": "avlmtrf5.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1234",
+    "en": "avlmtrf6.def",
+    "ua": "avlmtrf6.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1235",
+    "en": "avlmtrf4.def",
+    "ua": "avlmtrf4.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1236",
+    "en": "avlmtrf3.def",
+    "ua": "avlmtrf3.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1237",
+    "en": "avlmtrf1.def",
+    "ua": "avlmtrf1.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1238",
+    "en": "avlxgr10.def",
+    "ua": "avlxgr10.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1239",
+    "en": "avlxgr12.def",
+    "ua": "avlxgr12.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1240",
+    "en": "avlxgr04.def",
+    "ua": "avlxgr04.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1241",
+    "en": "avlxgr02.def",
+    "ua": "avlxgr02.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1242",
+    "en": "AVLmtds2.def",
+    "ua": "AVLmtds2.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1243",
+    "en": "AVLmtds1.def",
+    "ua": "AVLmtds1.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1244",
+    "en": "AVLrk2w0.def",
+    "ua": "AVLrk2w0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1245",
+    "en": "AvLStm1.def",
+    "ua": "AvLStm1.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1246",
+    "en": "AVLref50.def",
+    "ua": "AVLref50.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1247",
+    "en": "AVLtr1d0.def",
+    "ua": "AVLtr1d0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1248",
+    "en": "avlxdt01.def",
+    "ua": "avlxdt01.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1249",
+    "en": "AvLRG07.def",
+    "ua": "AvLRG07.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1250",
+    "en": "AvLStm2.def",
+    "ua": "AvLStm2.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1251",
+    "en": "AVLrk4w0.def",
+    "ua": "AVLrk4w0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1252",
+    "en": "AvLRG10.def",
+    "ua": "AvLRG10.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1253",
+    "en": "AvLRG01.def",
+    "ua": "AvLRG01.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1254",
+    "en": "AVLrk1w0.def",
+    "ua": "AVLrk1w0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1255",
+    "en": "AVLs10s0.def",
+    "ua": "AVLs10s0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1256",
+    "en": "AVLs05s0.def",
+    "ua": "AVLs05s0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1257",
+    "en": "AVLs08s0.def",
+    "ua": "AVLs08s0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1258",
+    "en": "ah03_e.def",
+    "ua": "ah03_e.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1259",
+    "en": "AvLRD04.def",
+    "ua": "AvLRD04.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1260",
+    "en": "AVLct4l0.def",
+    "ua": "AVLct4l0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1261",
+    "en": "AVLct9l0.def",
+    "ua": "AVLct9l0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1262",
+    "en": "AVLlav20.def",
+    "ua": "AVLlav20.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1263",
+    "en": "AVLmtvo3.def",
+    "ua": "AVLmtvo3.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1264",
+    "en": "AVLlv210.def",
+    "ua": "AVLlv210.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1265",
+    "en": "AVSschm0.def",
+    "ua": "AVSschm0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1266",
+    "en": "AVSwar20.def",
+    "ua": "AVSwar20.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1267",
+    "en": "AVStmpl0.def",
+    "ua": "AVStmpl0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1268",
+    "en": "AVZevnt0.def",
+    "ua": "AVZevnt0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1269",
+    "en": "avlmtdr1.def",
+    "ua": "avlmtdr1.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1270",
+    "en": "AHplace.def",
+    "ua": "AHplace.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1271",
+    "en": "AVWmon7.def",
+    "ua": "AVWmon7.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1272",
+    "en": "AVXmx1b0.def",
+    "ua": "AVXmx1b0.def",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1273",
+    "en": "To the Surface Tunnels",
+    "ua": "До тунелів на поверхню",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1274",
+    "en": "To Upper Tunnels",
+    "ua": "До верхніх тунелів",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1275",
+    "en": "Ordwald",
+    "ua": "Орвальд",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1276",
+    "en": "Bat Fang",
+    "ua": "Бетфанг",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1277",
+    "en": "Reinforcements arrive from your lands in the Deep Caverns.",
+    "ua": "Прибуло підкріплення з ваших володінь в Глибоких печерах.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1278",
+    "en": "To the Deep Caverns",
+    "ua": "До Глибоких печер",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1279",
+    "en": "Intro",
+    "ua": "Intro",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1280",
+    "en": "Defeating the Lords blocking your access to the surface tunnels and the Nighon borderlands will prove my power to the rest of the Nighon Lords.  You find yourself laughing with glee at the thought of the battles to come.  You pause to admire your beautiful new claws, and then roar for messagers to summon your best two Heroes from the prior campaign.  It's time to show the doubters I'm worthy to join the ranks of Nighon's powerful nobles.  So they want to drink my blood, do they?  I'll drink theirs!",
+    "ua": null,
+    "aligned": false
+  },
+  {
+    "var": "BLOOD_1281",
+    "en": "Campaign Journal 1",
+    "ua": "Campaign Journal 1",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1282",
+    "en": "War Diary:  Things are going according to plan.  I have established a base in the tunnels below my enemies and I don't believe they know I am here.  Locals say there are two more castles nearby.  I plan to quickly take them and then launch a surprise assault up through the subterranean gates.",
+    "ua": "Військовий щоденник: Все іде згідно з планом. Я розташувалася в тунелях під моїми ворогами, і я не думаю, що вони знають про моє місце перебування. Місцеві кажуть, що тут є ще пара замків поблизу. Я збираюся швидко захопити їх, а потім несподівано напасти на ворога через підземну браму.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1283",
+    "en": "Scout Report NW Castle",
+    "ua": "Scout Report NW Castle",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1284",
+    "en": "War Diary:  Today the Master of Scouts reported his scouts found a neutral castle in the caverns to the northwest of our starting castle.   They're still searching for other castles.",
+    "ua": "Військовий щоденник: Сьогодні начальник розвідки доповів, що його підлеглі знайшли нейтральний замок у печерах на північний захід від замку нашого першого. Вони продовжують пошуки інших замків.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1285",
+    "en": "Scout report SE Castle",
+    "ua": "Scout report SE Castle",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1286",
+    "en": "War Diary:  My scouts have located another neutral castle to the southeast from my starting castle.",
+    "ua": "Військовий щоденник: Мої розвідники виявили нейтральний замок на південному сході від замку мого першого.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1287",
+    "en": "Campaign Journal 2",
+    "ua": "Campaign Journal 2",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1288",
+    "en": "War Diary:  A messager from General Miah, arrived today.  He has obtained information, which he believes to be true, that at least two of the lords blocking my access into Nighon have formed an alliance.  I would not be surprised if this is true.  None of the lords I'm fighting now are fools.  I'll beat them anyway.  It will just be harder and victory will be sweeter.",
+    "ua": null,
+    "aligned": false
+  },
+  {
+    "var": "BLOOD_1289",
+    "en": "Campaign Journal 3",
+    "ua": "Campaign Journal 3",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1290",
+    "en": "War Diary:  I'm going to have to counter Ordwald's lies.  If people actually believe they can turn into a sentient dragon by drinking my blood, every Lord in the world is going to try to kill me.  The cleverest lies are the ones people want to hear.",
+    "ua": "Військовий щоденник: Відчуваю, що доведеться мені якось нейтралізувати брехню Орвальда. Якщо люди і справді повірять, що, випивши моєї крові, можна перетворитися на мислячого дракона, всі лорди світу будуть намагатися вбити мене. Наймудріша брехня - та, яку люди хочуть почути.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1291",
+    "en": "Scout report Dragon Utopias",
+    "ua": "Scout report Dragon Utopias",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1292",
+    "en": "War Diary:  A while back scouts located a Dragon Utopia to the northwest, near a subterranean gate.  A few days ago they found another Dragon Utopia located through a subterranean gate to the southwest.  The Dragon Utopia is a day or so east of the gate.",
+    "ua": "Військовий щоденник: Щойно розвідники виявили ідеальне місто драконів на північному заході, поряд з підземною брамою. Кілька днів тому було знайдено ще одне місто драконів - за підземною брамою на південному заході. Від підземної брами до нього близько дня шляху на схід.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1293",
+    "en": "Campaign Journal 4",
+    "ua": "Campaign Journal 4",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1294",
+    "en": "War Diary:  Today I sent a message to General Miah to leak word to the borderlands that drinking my blood just makes people sick.  He's to spread rumors that I had some of my heroes' drink some of my blood and all it did was make them sick for a week or so.  The rumors will spread from borderlands to the rest of Nighon.  Hopefully they will make me less of a target.",
+    "ua": null,
+    "aligned": false
+  },
+  {
+    "var": "BLOOD_1295",
+    "en": "Campaign Journal 5",
+    "ua": "Campaign Journal 5",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1296",
+    "en": "War Diary:  Today I sent a messager to the Sage by Sinkhole Castle.  I asked him to do some research to prove that you have to drink the blood of the Dragon Father, NOT my blood, to turn into a sentient dragon.  I offered him enough gold, he better prove it.",
+    "ua": "Військовий щоденник: Сьогодні я відправила гінця до мудреця у замку Сток. Я просила його провести деякі дослідження, щоб довести, що лише кров Отця драконів, а не МОЯ, перетворює того, хто її вип'є, в розумного дракона. Я послала йому досить золота - і краще б йому погодитися.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1297",
+    "en": "Campaign Journal 6",
+    "ua": "Campaign Journal 6",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1298",
+    "en": "War Diary:  I got a message back from the sage agreeing to do the research. Unfortunately, he requires some additional precious resources to conduct the research, blah, blah, blah.  FINE, he can have them!  If he asks for anything else, though, I will have him for supper!  My other lands can pay the gold, I'll pay the resource cost.",
+    "ua": null,
+    "aligned": false
+  },
+  {
+    "var": "BLOOD_1299",
+    "en": "Scout Report Gold and Leprechaun",
+    "ua": "Scout Report Gold and Leprechaun",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1300",
+    "en": "War Diary:  My Master of Scouts reported the Subterranean Gate near Castle Bat Fang leads to an enchanted area with a Leprechaun and Gold Mine.",
+    "ua": "Військовий щоденник: Мій начальник розвідки повідомив, що підземні ворота біля замку Бетфанг ведуть в зачаровану землю, на якій знаходиться лепрекон і золота шахта.",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1301",
+    "en": "Scout Reinforcements from Deep Caverns",
+    "ua": "Scout Reinforcements from Deep Caverns",
+    "aligned": true
+  },
+  {
+    "var": "BLOOD_1302",
+    "en": "War Diary:  My Master of Scouts had good news and bad news today.  The good news was a group of my forces from the Deep Caverns have arrived nearby to reinforce me.  The bad news is they can't reach me 'til some monsters are cleared from the road to the Deep Caverns.  Fortunately the road ends near Castle Bat Fang.",
+    "ua": "Військовий щоденник: Сьогодні начальник розвідки приніс дві новини: хорошу і погану. Хороша новина в тому, що з Глибоких печер прибуло підкріплення. Погана новина - вони не зможуть до мене дістатися, поки дорога в Глибокі печери не буде очищена від монстрів. На щастя, дорога закінчується поруч із замком Бетфанг.",
+    "aligned": true
+  }
+]

@@ -1,0 +1,9032 @@
+[
+  {
+    "var": "FESTIVAL_1",
+    "en": "Festival of life",
+    "ua": "Фестиваль Життя",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_2",
+    "en": "Every thirty years the youth of Krewlod are given the opportunity to replace the clan leaders and vie for the throne.  Defeat the ancient behemoth Razor Claw, clear an area of beasts left wild for thirty years, defeat the other rivals for the throne and finally challenge the king himself!  ",
+    "ua": "Раз на тридцять років молоді юнаки Крулода мають шанс поборотися за трон правителя. Для цього необхідно знищити стародавнє чудовисько, очистити територію від диких істот, що заповнили її за останні тридцять років, а потім перемогти решту претендентів на трон.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_3",
+    "en": "Festival of life 4.h3m",
+    "ua": "Festival of life 4.h3m",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_4",
+    "en": "You have risen through the ranks quickly, proving your worth and capabilities as a warrior and leader.  Now you challenge King Boragus for the Throne of Krewlod itself.  If you can defeat the powerful Boragus it will prove your battle skills and determination are unrivaled in all of Krewlod.  This one is to the death.  The winner rules.",
+    "ua": null,
+    "aligned": false
+  },
+  {
+    "var": "FESTIVAL_5",
+    "en": "Many respect King Boragus.  Many feel he is one of the greatest rulers Krewlod has ever known.  I do not know this king personally and I find his accomplishments unimpressive.  If he is to earn my respect, he will do so only when he stands over my grave.",
+    "ua": "Люди шанують короля Борагуса. Багато хто вважає його одним з найбільших правителів Крюлода. Сам я з ним не зустрічався, його діяння мене не вражають. Щоб заслужити мою повагу, йому доведеться здолати мене у чесному бою.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_6",
+    "en": "I have bathed in the blood of my enemies and sit upon the throne of Krewlod.  My reign begins now.  I am king.",
+    "ua": "Я омився кров'ю ворогів і по праву зайняв трон Крюлода. Починається моя ера. Тепер я король.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_7",
+    "en": "Festival of Life 3.h3m",
+    "ua": "Festival of Life 3.h3m",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_8",
+    "en": "Excellent work young one!  Now you and three others must compete for the chance to challenge the king.  Defeat them and their lieutenants in order to claim victory.  The three allies that helped you in the second mission will assist you in this one, good luck.",
+    "ua": "Чудова робота! Тепер ти і троє інших готові до бою з королем. Знищ його і його соратників, щоб здобути перемогу. Троє союзників допоможуть тобі у твоїй справі.\n",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_9",
+    "en": "In the Festival of Life, those who fail, either die at the hands of their enemies, or by their own hand after capture.  I will be merciful toward my opponents.  I will take no prisoners.",
+    "ua": "На Фестивалі Життя переможений воїн знаходить смерть від руки супротивника - або від власного кинджала, не бажаючи терпіти полон. Я буду милостивий до суперників. Я не стану брати полонених.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_10",
+    "en": "Festival of life 2.h3m",
+    "ua": "Festival of life 2.h3m",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_11",
+    "en": "This area is kept wild and is only culled every thirty years during the Festival of Life.  Each prospective is given a small section to clear and three allies to command in order to prove your capabilities as a leader.  In order to prove you are truly capable you must eliminate all creatures in this region, once this is completed you will have passed this test.",
+    "ua": "Ця територія залишається дикою і недоторканою протягом тих тридцяти років, що проходять між Фестивалями Життя. Кожен охочий отримує в цій землі наділ, який повинен повністю очистити від істот. Крім тебе, тут будуть три твоїх союзники, і у тебе буде шанс проявити себе як лідера.\n",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_12",
+    "en": "I have tamed a great beast.  Now I must tame the monsters of the land.  As the carnage grows, so does my power and bloodlust.  I will sit upon the throne of Krewlod.  Neither man or beast will stand in my way. ",
+    "ua": "Я приручив могутнього звіра. Залишилося підпорядкувати собі інших мешканців цих земель. Моя сила, моя жага крові ростуть разом з горами трупів навколо. Я зійду на трон Крулода. Бережися вставати в мене на шляху, будь ти людина або звір!",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_13",
+    "en": "Festival of life 1.h3m",
+    "ua": "Festival of life 1.h3m",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_14",
+    "en": "The time has come for you to challenge the elders for leadership.  Like other young prospects of the tribe you must pass through three tests.  The first test is simple, kill an Ancient Behemoth.  For three generations the Ancient Behemoth Razor Claw has resisted attempts to kill it off, now it is your time to make the attempt.  Complete this simple task to continue with the festival of life.",
+    "ua": null,
+    "aligned": false
+  },
+  {
+    "var": "FESTIVAL_15",
+    "en": "Alongside my father I have killed Behemoth before, but never an Ancient Behemoth.  To contest the throne, I must slay one of these fearsome beasts.  I relish the encounter.  After I have slain this one, I will know how to subdue them.  Then I will employ them in my bloody ascension to kingship.",
+    "ua": "Виступаючи поруч з батьком, я не раз вбивав звичайних чудовиськ, але древніх - ще ніколи. Щоб отримати право на трон, я повинен перемогти могутнього звіра. Не можу дочекатися сутички! Вбивши одного, я дізнаюся, як підпорядкувати собі інших. І поведу їх у бій за королівський титул.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_16",
+    "en": "For the Throne",
+    "ua": "Битва за трон",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_17",
+    "en": "You have three months to depose the king while keeping Kilgor alive.  This is for the throne of Krewlod so do not fail.",
+    "ua": null,
+    "aligned": false
+  },
+  {
+    "var": "FESTIVAL_18",
+    "en": "Duke Boragus",
+    "ua": null,
+    "aligned": false
+  },
+  {
+    "var": "FESTIVAL_19",
+    "en": "Duke Boragus",
+    "ua": null,
+    "aligned": false
+  },
+  {
+    "var": "FESTIVAL_20",
+    "en": "Back way in.",
+    "ua": "Back way in.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_21",
+    "en": "There is a back way in to the king's castle, but its heavily guarded.",
+    "ua": "У замок короля веде чорний хід, але його добре охороняють.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_22",
+    "en": "AVWmrnd0.def",
+    "ua": "AVWmrnd0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_23",
+    "en": "AVLholg0.def",
+    "ua": "AVLholg0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_24",
+    "en": "AVCstrx0.def",
+    "ua": "AVCstrx0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_25",
+    "en": "avlmtrf4.def",
+    "ua": "avlmtrf4.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_26",
+    "en": "avlmtrf2.def",
+    "ua": "avlmtrf2.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_27",
+    "en": "avlmtrf3.def",
+    "ua": "avlmtrf3.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_28",
+    "en": "avlmtrf1.def",
+    "ua": "avlmtrf1.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_29",
+    "en": "ah12_e.def",
+    "ua": "ah12_e.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_30",
+    "en": "AVLdead6.def",
+    "ua": "AVLdead6.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_31",
+    "en": "AVLdead2.def",
+    "ua": "AVLdead2.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_32",
+    "en": "AVLmtvo3.def",
+    "ua": "AVLmtvo3.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_33",
+    "en": "AVLmtvo1.def",
+    "ua": "AVLmtvo1.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_34",
+    "en": "avxbor80.def",
+    "ua": "avxbor80.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_35",
+    "en": "AVLdead4.def",
+    "ua": "AVLdead4.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_36",
+    "en": "AVMorro0.def",
+    "ua": "AVMorro0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_37",
+    "en": "AVMcrrf0.def",
+    "ua": "AVMcrrf0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_38",
+    "en": "AVMalch0.def",
+    "ua": "AVMalch0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_39",
+    "en": "AVMsulf0.def",
+    "ua": "AVMsulf0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_40",
+    "en": "AVMgorf0.def",
+    "ua": "AVMgorf0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_41",
+    "en": "AVMsawr0.def",
+    "ua": "AVMsawr0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_42",
+    "en": "AVMgerf0.def",
+    "ua": "AVMgerf0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_43",
+    "en": "AVLmtvo4.def",
+    "ua": "AVLmtvo4.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_44",
+    "en": "AVLvol50.def",
+    "ua": "AVLvol50.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_45",
+    "en": "AVXwtrh0.def",
+    "ua": "AVXwtrh0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_46",
+    "en": "AvXRedW.def",
+    "ua": "AvXRedW.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_47",
+    "en": "avlxro03.def",
+    "ua": "avlxro03.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_48",
+    "en": "AVMgovo0.def",
+    "ua": "AVMgovo0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_49",
+    "en": "AVTore0.def",
+    "ua": "AVTore0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_50",
+    "en": "AVLmtvo2.def",
+    "ua": "AVLmtvo2.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_51",
+    "en": "avlmtdr1.def",
+    "ua": "avlmtdr1.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_52",
+    "en": "avlmtdr3.def",
+    "ua": "avlmtdr3.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_53",
+    "en": "avlmtdr4.def",
+    "ua": "avlmtdr4.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_54",
+    "en": "avlmtdr2.def",
+    "ua": "avlmtdr2.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_55",
+    "en": "AVLpntr7.def",
+    "ua": "AVLpntr7.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_56",
+    "en": "AVLPNTR1.def",
+    "ua": "AVLPNTR1.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_57",
+    "en": "AVLPNTR2.def",
+    "ua": "AVLPNTR2.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_58",
+    "en": "avlautr1.def",
+    "ua": "avlautr1.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_59",
+    "en": "AVLPNTR4.def",
+    "ua": "AVLPNTR4.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_60",
+    "en": "AVWcycx0.def",
+    "ua": "AVWcycx0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_61",
+    "en": "AVXmn2o0.def",
+    "ua": "AVXmn2o0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_62",
+    "en": "AVLPNTR3.def",
+    "ua": "AVLPNTR3.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_63",
+    "en": "AVLAUTR3.def",
+    "ua": "AVLAUTR3.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_64",
+    "en": "avlautr0.def",
+    "ua": "avlautr0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_65",
+    "en": "AVWcycl0.def",
+    "ua": "AVWcycl0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_66",
+    "en": "AVLAUTR4.def",
+    "ua": "AVLAUTR4.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_67",
+    "en": "avlxro02.def",
+    "ua": "avlxro02.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_68",
+    "en": "AVLdead5.def",
+    "ua": "AVLdead5.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_69",
+    "en": "avlxro06.def",
+    "ua": "avlxro06.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_70",
+    "en": "AVLdead0.def",
+    "ua": "AVLdead0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_71",
+    "en": "avlmtrf5.def",
+    "ua": "avlmtrf5.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_72",
+    "en": "AVLr08r0.def",
+    "ua": "AVLr08r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_73",
+    "en": "AVTwood0.def",
+    "ua": "AVTwood0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_74",
+    "en": "avlmtrf6.def",
+    "ua": "avlmtrf6.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_75",
+    "en": "AVWgobx0.def",
+    "ua": "AVWgobx0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_76",
+    "en": "AVWogrx0.def",
+    "ua": "AVWogrx0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_77",
+    "en": "AVWorcx0.def",
+    "ua": "AVWorcx0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_78",
+    "en": "AVLr02r0.def",
+    "ua": "AVLr02r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_79",
+    "en": "adcfra.def",
+    "ua": "adcfra.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_80",
+    "en": "AVLmtsw4.def",
+    "ua": "AVLmtsw4.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_81",
+    "en": "AVLmtsw3.def",
+    "ua": "AVLmtsw3.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_82",
+    "en": "AVLmtsw1.def",
+    "ua": "AVLmtsw1.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_83",
+    "en": "clrdelt1.def",
+    "ua": "clrdelt1.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_84",
+    "en": "AVLr07r0.def",
+    "ua": "AVLr07r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_85",
+    "en": "AVLct2d0.def",
+    "ua": "AVLct2d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_86",
+    "en": "AvLRD02.def",
+    "ua": "AvLRD02.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_87",
+    "en": "AVTgold0.def",
+    "ua": "AVTgold0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_88",
+    "en": "AVLmd1r0.def",
+    "ua": "AVLmd1r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_89",
+    "en": "AVWgrix0.def",
+    "ua": "AVWgrix0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_90",
+    "en": "AVLrk5d0.def",
+    "ua": "AVLrk5d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_91",
+    "en": "AVWrocx0.def",
+    "ua": "AVWrocx0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_92",
+    "en": "AVXbnk20.def",
+    "ua": "AVXbnk20.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_93",
+    "en": "AVLct6r0.def",
+    "ua": "AVLct6r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_94",
+    "en": "AVLr04r0.def",
+    "ua": "AVLr04r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_95",
+    "en": "AvXDenT.def",
+    "ua": "AvXDenT.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_96",
+    "en": "AVLr06r0.def",
+    "ua": "AVLr06r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_97",
+    "en": "AVLmd2r0.def",
+    "ua": "AVLmd2r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_98",
+    "en": "AVGgobl0.def",
+    "ua": "AVGgobl0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_99",
+    "en": "AVGwolf0.def",
+    "ua": "AVGwolf0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_100",
+    "en": "AVGorcg0.def",
+    "ua": "AVGorcg0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_101",
+    "en": "AVLdead3.def",
+    "ua": "AVLdead3.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_102",
+    "en": "AVLPNTR0.def",
+    "ua": "AVLPNTR0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_103",
+    "en": "AVLautr7.def",
+    "ua": "AVLautr7.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_104",
+    "en": "AVGogre0.def",
+    "ua": "AVGogre0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_105",
+    "en": "AVGrocs0.def",
+    "ua": "AVGrocs0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_106",
+    "en": "AVGcycl0.def",
+    "ua": "AVGcycl0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_107",
+    "en": "AVGbhmt0.def",
+    "ua": "AVGbhmt0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_108",
+    "en": "AVLdt3s0.def",
+    "ua": "AVLdt3s0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_109",
+    "en": "AVXhilg0.def",
+    "ua": "AVXhilg0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_110",
+    "en": "avlxro01.def",
+    "ua": "avlxro01.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_111",
+    "en": "avlxro05.def",
+    "ua": "avlxro05.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_112",
+    "en": "avlxro04.def",
+    "ua": "avlxro04.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_113",
+    "en": "AVLoc3d0.def",
+    "ua": "AVLoc3d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_114",
+    "en": "avlxro07.def",
+    "ua": "avlxro07.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_115",
+    "en": "AVLr09r0.def",
+    "ua": "AVLr09r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_116",
+    "en": "AVLroug0.def",
+    "ua": "AVLroug0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_117",
+    "en": "avlxro10.def",
+    "ua": "avlxro10.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_118",
+    "en": "avlxro12.def",
+    "ua": "avlxro12.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_119",
+    "en": "avlsh6r0.def",
+    "ua": "avlsh6r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_120",
+    "en": "AVXskds0.def",
+    "ua": "AVXskds0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_121",
+    "en": "avlxdt03.def",
+    "ua": "avlxdt03.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_122",
+    "en": "AVXfyth0.def",
+    "ua": "AVXfyth0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_123",
+    "en": "AVLSPTR4.def",
+    "ua": "AVLSPTR4.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_124",
+    "en": "AVLsptr7.def",
+    "ua": "AVLsptr7.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_125",
+    "en": "avlxro11.def",
+    "ua": "avlxro11.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_126",
+    "en": "AVLlv210.def",
+    "ua": "AVLlv210.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_127",
+    "en": "AVLlv190.def",
+    "ua": "AVLlv190.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_128",
+    "en": "AVLlv200.def",
+    "ua": "AVLlv200.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_129",
+    "en": "AVLlv230.def",
+    "ua": "AVLlv230.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_130",
+    "en": "AVLmtvo6.def",
+    "ua": "AVLmtvo6.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_131",
+    "en": "avlmtdr6.def",
+    "ua": "avlmtdr6.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_132",
+    "en": "AVLr12r0.def",
+    "ua": "AVLr12r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_133",
+    "en": "AVLr10r0.def",
+    "ua": "AVLr10r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_134",
+    "en": "AVXwelr0.def",
+    "ua": "AVXwelr0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_135",
+    "en": "AVSarna0.def",
+    "ua": "AVSarna0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_136",
+    "en": "AVXabnd0.def",
+    "ua": "AVXabnd0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_137",
+    "en": "AVTwagn0.def",
+    "ua": "AVTwagn0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_138",
+    "en": "AVTcrys0.def",
+    "ua": "AVTcrys0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_139",
+    "en": "avlbuzr0.def",
+    "ua": "avlbuzr0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_140",
+    "en": "AVXboat2.def",
+    "ua": "AVXboat2.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_141",
+    "en": "AVAflot0.def",
+    "ua": "AVAflot0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_142",
+    "en": "AVLrk2w0.def",
+    "ua": "AVLrk2w0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_143",
+    "en": "AVLrk1w0.def",
+    "ua": "AVLrk1w0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_144",
+    "en": "AVLrk3w0.def",
+    "ua": "AVLrk3w0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_145",
+    "en": "AVXl1sh0.def",
+    "ua": "AVXl1sh0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_146",
+    "en": "AVXccht0.def",
+    "ua": "AVXccht0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_147",
+    "en": "AVWelmw0.def",
+    "ua": "AVWelmw0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_148",
+    "en": "AVXbnk70.def",
+    "ua": "AVXbnk70.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_149",
+    "en": "AVLrk3s0.def",
+    "ua": "AVLrk3s0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_150",
+    "en": "AVXsanc0.def",
+    "ua": "AVXsanc0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_151",
+    "en": "AVXplns0.def",
+    "ua": "AVXplns0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_152",
+    "en": "AVLr03r0.def",
+    "ua": "AVLr03r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_153",
+    "en": "AVLct9r0.def",
+    "ua": "AVLct9r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_154",
+    "en": "AVXmags0.def",
+    "ua": "AVXmags0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_155",
+    "en": "AVTmyst0.def",
+    "ua": "AVTmyst0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_156",
+    "en": "AVWhoun0.def",
+    "ua": "AVWhoun0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_157",
+    "en": "AVWwolx0.def",
+    "ua": "AVWwolx0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_158",
+    "en": "AVStmpl0.def",
+    "ua": "AVStmpl0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_159",
+    "en": "AVWorc0.def",
+    "ua": "AVWorc0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_160",
+    "en": "AVGsieg0.def",
+    "ua": "AVGsieg0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_161",
+    "en": "AVLsh1r0.def",
+    "ua": "AVLsh1r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_162",
+    "en": "AVWogre0.def",
+    "ua": "AVWogre0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_163",
+    "en": "AVXbnk10.def",
+    "ua": "AVXbnk10.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_164",
+    "en": "AVGrefg0.def",
+    "ua": "AVGrefg0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_165",
+    "en": "AVLmd1d0.def",
+    "ua": "AVLmd1d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_166",
+    "en": "AVLPNTR5.def",
+    "ua": "AVLPNTR5.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_167",
+    "en": "AvWHydr.def",
+    "ua": "AvWHydr.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_168",
+    "en": "AVTchst0.def",
+    "ua": "AVTchst0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_169",
+    "en": "AVWwyvx0.def",
+    "ua": "AVWwyvx0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_170",
+    "en": "AVLlk2s0.def",
+    "ua": "AVLlk2s0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_171",
+    "en": "AVLman30.def",
+    "ua": "AVLman30.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_172",
+    "en": "AVLdt2s0.def",
+    "ua": "AVLdt2s0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_173",
+    "en": "AVLdt1s0.def",
+    "ua": "AVLdt1s0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_174",
+    "en": "AVLman10.def",
+    "ua": "AVLman10.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_175",
+    "en": "avlxsw06.def",
+    "ua": "avlxsw06.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_176",
+    "en": "avlxsw03.def",
+    "ua": "avlxsw03.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_177",
+    "en": "AVXtrek0.def",
+    "ua": "AVXtrek0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_178",
+    "en": "AVLrk3d0.def",
+    "ua": "AVLrk3d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_179",
+    "en": "AvLRD04.def",
+    "ua": "AvLRD04.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_180",
+    "en": "AVLfl9d0.def",
+    "ua": "AVLfl9d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_181",
+    "en": "AVWroc0.def",
+    "ua": "AVWroc0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_182",
+    "en": "AVMwwhl0.def",
+    "ua": "AVMwwhl0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_183",
+    "en": "AVXstbl0.def",
+    "ua": "AVXstbl0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_184",
+    "en": "AVWwolf0.def",
+    "ua": "AVWwolf0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_185",
+    "en": "AVLct7r0.def",
+    "ua": "AVLct7r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_186",
+    "en": "AVXcflv0.def",
+    "ua": "AVXcflv0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_187",
+    "en": "AVLc13l0.def",
+    "ua": "AVLc13l0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_188",
+    "en": "AVLct8r0.def",
+    "ua": "AVLct8r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_189",
+    "en": "AVMwndd0.def",
+    "ua": "AVMwndd0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_190",
+    "en": "AVLf01g0.def",
+    "ua": "AVLf01g0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_191",
+    "en": "AVLf05g0.def",
+    "ua": "AVLf05g0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_192",
+    "en": "AvSMarl.def",
+    "ua": "AvSMarl.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_193",
+    "en": "AVSidol0.def",
+    "ua": "AVSidol0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_194",
+    "en": "AVSmerc0.def",
+    "ua": "AVSmerc0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_195",
+    "en": "AVLyuc20.def",
+    "ua": "AVLyuc20.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_196",
+    "en": "AVSaxis0.def",
+    "ua": "AVSaxis0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_197",
+    "en": "avlsh8r0.def",
+    "ua": "avlsh8r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_198",
+    "en": "avlsh9r0.def",
+    "ua": "avlsh9r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_199",
+    "en": "AVLSPTR1.def",
+    "ua": "AVLSPTR1.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_200",
+    "en": "AVLr14r0.def",
+    "ua": "AVLr14r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_201",
+    "en": "AVTgems0.def",
+    "ua": "AVTgems0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_202",
+    "en": "AVSschm0.def",
+    "ua": "AVSschm0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_203",
+    "en": "avlsh5r0.def",
+    "ua": "avlsh5r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_204",
+    "en": "AVLca1r0.def",
+    "ua": "AVLca1r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_205",
+    "en": "AvWGorg.def",
+    "ua": "AvWGorg.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_206",
+    "en": "AVWgorx0.def",
+    "ua": "AVWgorx0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_207",
+    "en": "AVCgar20.def",
+    "ua": "AVCgar20.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_208",
+    "en": "AVLs06s0.def",
+    "ua": "AVLs06s0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_209",
+    "en": "avlxdt11.def",
+    "ua": "avlxdt11.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_210",
+    "en": "AVLsh4g0.def",
+    "ua": "AVLsh4g0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_211",
+    "en": "avlxgr11.def",
+    "ua": "avlxgr11.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_212",
+    "en": "avlswt19.def",
+    "ua": "avlswt19.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_213",
+    "en": "avlswt14.def",
+    "ua": "avlswt14.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_214",
+    "en": "avlxdt04.def",
+    "ua": "avlxdt04.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_215",
+    "en": "AVLlk3d0.def",
+    "ua": "AVLlk3d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_216",
+    "en": "AVLsh4d0.def",
+    "ua": "AVLsh4d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_217",
+    "en": "AVLsh1d0.def",
+    "ua": "AVLsh1d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_218",
+    "en": "AVLsh7d0.def",
+    "ua": "AVLsh7d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_219",
+    "en": "AVLsh6d0.def",
+    "ua": "AVLsh6d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_220",
+    "en": "AVLsh8d0.def",
+    "ua": "AVLsh8d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_221",
+    "en": "AVLsh2d0.def",
+    "ua": "AVLsh2d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_222",
+    "en": "AVLsh3d0.def",
+    "ua": "AVLsh3d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_223",
+    "en": "avlxdt06.def",
+    "ua": "avlxdt06.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_224",
+    "en": "AVLtr2d0.def",
+    "ua": "AVLtr2d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_225",
+    "en": "avlxdt07.def",
+    "ua": "avlxdt07.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_226",
+    "en": "AVLca010.def",
+    "ua": "AVLca010.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_227",
+    "en": "AVLca050.def",
+    "ua": "AVLca050.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_228",
+    "en": "AVLca080.def",
+    "ua": "AVLca080.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_229",
+    "en": "AVLca110.def",
+    "ua": "AVLca110.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_230",
+    "en": "AVLca070.def",
+    "ua": "AVLca070.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_231",
+    "en": "AVLtrRo2.def",
+    "ua": "AVLtrRo2.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_232",
+    "en": "AVLglly0.def",
+    "ua": "AVLglly0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_233",
+    "en": "AVLct3r0.def",
+    "ua": "AVLct3r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_234",
+    "en": "AVLct2r0.def",
+    "ua": "AVLct2r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_235",
+    "en": "AVLct4r0.def",
+    "ua": "AVLct4r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_236",
+    "en": "AVLctrr0.def",
+    "ua": "AVLctrr0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_237",
+    "en": "AVLtRo00.def",
+    "ua": "AVLtRo00.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_238",
+    "en": "AVLtRo01.def",
+    "ua": "AVLtRo01.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_239",
+    "en": "AVLtRo07.def",
+    "ua": "AVLtRo07.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_240",
+    "en": "AVLtRo03.def",
+    "ua": "AVLtRo03.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_241",
+    "en": "AVLtRo05.def",
+    "ua": "AVLtRo05.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_242",
+    "en": "AVLtRo09.def",
+    "ua": "AVLtRo09.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_243",
+    "en": "AVLtrRo1.def",
+    "ua": "AVLtrRo1.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_244",
+    "en": "AVLtrRo3.def",
+    "ua": "AVLtrRo3.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_245",
+    "en": "AVLtrRo4.def",
+    "ua": "AVLtrRo4.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_246",
+    "en": "AVLtrRo5.def",
+    "ua": "AVLtrRo5.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_247",
+    "en": "AVLtrRo0.def",
+    "ua": "AVLtrRo0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_248",
+    "en": "avlxro09.def",
+    "ua": "avlxro09.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_249",
+    "en": "avlxro04.def",
+    "ua": "avlxro04.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_250",
+    "en": "AVLtRo12.def",
+    "ua": "AVLtRo12.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_251",
+    "en": "AVLtRo11.def",
+    "ua": "AVLtRo11.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_252",
+    "en": "AVLtRo08.def",
+    "ua": "AVLtRo08.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_253",
+    "en": "AVLdead7.def",
+    "ua": "AVLdead7.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_254",
+    "en": "AVLsh2r0.def",
+    "ua": "AVLsh2r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_255",
+    "en": "AVLsh3r0.def",
+    "ua": "AVLsh3r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_256",
+    "en": "AvLStm3.def",
+    "ua": "AvLStm3.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_257",
+    "en": "AvLStm2.def",
+    "ua": "AvLStm2.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_258",
+    "en": "AvLStm1.def",
+    "ua": "AvLStm1.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_259",
+    "en": "AVLtrRo7.def",
+    "ua": "AVLtrRo7.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_260",
+    "en": "avlxro08.def",
+    "ua": "avlxro08.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_261",
+    "en": "AVLtrRo6.def",
+    "ua": "AVLtrRo6.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_262",
+    "en": "AVLtRo10.def",
+    "ua": "AVLtRo10.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_263",
+    "en": "AVLr11r0.def",
+    "ua": "AVLr11r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_264",
+    "en": "AVLoc4r0.def",
+    "ua": "AVLoc4r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_265",
+    "en": "AVLca040.def",
+    "ua": "AVLca040.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_266",
+    "en": "AVLca030.def",
+    "ua": "AVLca030.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_267",
+    "en": "avlswtr0.def",
+    "ua": "avlswtr0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_268",
+    "en": "avlxdt01.def",
+    "ua": "avlxdt01.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_269",
+    "en": "avlxdt05.def",
+    "ua": "avlxdt05.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_270",
+    "en": "AVLr13r0.def",
+    "ua": "AVLr13r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_271",
+    "en": "AVLtRo02.def",
+    "ua": "AVLtRo02.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_272",
+    "en": "AVLca060.def",
+    "ua": "AVLca060.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_273",
+    "en": "avlswtr1.def",
+    "ua": "avlswtr1.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_274",
+    "en": "avlswtr6.def",
+    "ua": "avlswtr6.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_275",
+    "en": "avlswtr2.def",
+    "ua": "avlswtr2.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_276",
+    "en": "avlswt12.def",
+    "ua": "avlswt12.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_277",
+    "en": "avlswt07.def",
+    "ua": "avlswt07.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_278",
+    "en": "AVLman20.def",
+    "ua": "AVLman20.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_279",
+    "en": "avlswt13.def",
+    "ua": "avlswt13.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_280",
+    "en": "avlswt10.def",
+    "ua": "avlswt10.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_281",
+    "en": "avlxsw07.def",
+    "ua": "avlxsw07.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_282",
+    "en": "avlswtr7.def",
+    "ua": "avlswtr7.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_283",
+    "en": "avlswt00.def",
+    "ua": "avlswt00.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_284",
+    "en": "avlswt02.def",
+    "ua": "avlswt02.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_285",
+    "en": "avlxsw08.def",
+    "ua": "avlxsw08.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_286",
+    "en": "avlxsw09.def",
+    "ua": "avlxsw09.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_287",
+    "en": "AVLs07s0.def",
+    "ua": "AVLs07s0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_288",
+    "en": "avlxsw04.def",
+    "ua": "avlxsw04.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_289",
+    "en": "avlswtr4.def",
+    "ua": "avlswtr4.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_290",
+    "en": "avlswt08.def",
+    "ua": "avlswt08.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_291",
+    "en": "avlswt09.def",
+    "ua": "avlswt09.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_292",
+    "en": "avlswtr3.def",
+    "ua": "avlswtr3.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_293",
+    "en": "avlswt04.def",
+    "ua": "avlswt04.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_294",
+    "en": "avlxsw05.def",
+    "ua": "avlxsw05.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_295",
+    "en": "AVLmd3r0.def",
+    "ua": "AVLmd3r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_296",
+    "en": "AVLvol30.def",
+    "ua": "AVLvol30.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_297",
+    "en": "AVLlav70.def",
+    "ua": "AVLlav70.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_298",
+    "en": "AVLlav40.def",
+    "ua": "AVLlav40.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_299",
+    "en": "AVLct7l0.def",
+    "ua": "AVLct7l0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_300",
+    "en": "AVLvol10.def",
+    "ua": "AVLvol10.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_301",
+    "en": "AVLvol20.def",
+    "ua": "AVLvol20.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_302",
+    "en": "AVLlv180.def",
+    "ua": "AVLlv180.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_303",
+    "en": "AVLr15r0.def",
+    "ua": "AVLr15r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_304",
+    "en": "AVLct1r0.def",
+    "ua": "AVLct1r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_305",
+    "en": "AVLct5r0.def",
+    "ua": "AVLct5r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_306",
+    "en": "avlxdt08.def",
+    "ua": "avlxdt08.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_307",
+    "en": "AVLtr3d0.def",
+    "ua": "AVLtr3d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_308",
+    "en": "AVLct4l0.def",
+    "ua": "AVLct4l0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_309",
+    "en": "AVLc11l0.def",
+    "ua": "AVLc11l0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_310",
+    "en": "AVLct1l0.def",
+    "ua": "AVLct1l0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_311",
+    "en": "AVLlav80.def",
+    "ua": "AVLlav80.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_312",
+    "en": "AVLlv110.def",
+    "ua": "AVLlv110.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_313",
+    "en": "AVLlav90.def",
+    "ua": "AVLlav90.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_314",
+    "en": "AVLlv150.def",
+    "ua": "AVLlv150.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_315",
+    "en": "avlxds09.def",
+    "ua": "avlxds09.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_316",
+    "en": "AVLct2l0.def",
+    "ua": "AVLct2l0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_317",
+    "en": "AVLct9l0.def",
+    "ua": "AVLct9l0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_318",
+    "en": "AVLtr1d0.def",
+    "ua": "AVLtr1d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_319",
+    "en": "AVLSPTR3.def",
+    "ua": "AVLSPTR3.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_320",
+    "en": "avlxdt02.def",
+    "ua": "avlxdt02.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_321",
+    "en": "AVLman40.def",
+    "ua": "AVLman40.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_322",
+    "en": "AVLsh2g0.def",
+    "ua": "AVLsh2g0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_323",
+    "en": "avlswt18.def",
+    "ua": "avlswt18.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_324",
+    "en": "AVCgar10.def",
+    "ua": "AVCgar10.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_325",
+    "en": "AVLca2r0.def",
+    "ua": "AVLca2r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_326",
+    "en": "AVTsulf0.def",
+    "ua": "AVTsulf0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_327",
+    "en": "avlsh7r0.def",
+    "ua": "avlsh7r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_328",
+    "en": "AVTmerc0.def",
+    "ua": "AVTmerc0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_329",
+    "en": "AHplace.def",
+    "ua": "AHplace.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_330",
+    "en": "ah13_e.def",
+    "ua": "ah13_e.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_331",
+    "en": "AVLautr6.def",
+    "ua": "AVLautr6.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_332",
+    "en": "AVSgrdn0.def",
+    "ua": "AVSgrdn0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_333",
+    "en": "AVLlk1r.def",
+    "ua": "AVLlk1r.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_334",
+    "en": "avxbgt00.def",
+    "ua": "avxbgt00.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_335",
+    "en": "AVXkey00.def",
+    "ua": "AVXkey00.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_336",
+    "en": "AVSring0.def",
+    "ua": "AVSring0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_337",
+    "en": "AVXcrsd0.def",
+    "ua": "AVXcrsd0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_338",
+    "en": "AVWench.def",
+    "ua": "AVWench.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_339",
+    "en": "avwhalf.def",
+    "ua": "avwhalf.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_340",
+    "en": "avwpeas.def",
+    "ua": "avwpeas.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_341",
+    "en": "avlxdt00.def",
+    "ua": "avlxdt00.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_342",
+    "en": "AVLfl6d0.def",
+    "ua": "AVLfl6d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_343",
+    "en": "AvLdlog.def",
+    "ua": "AvLdlog.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_344",
+    "en": "AVZevnt0.def",
+    "ua": "AVZevnt0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_345",
+    "en": "AvLRD01.def",
+    "ua": "AvLRD01.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_346",
+    "en": "AVSclvg0.def",
+    "ua": null,
+    "aligned": false
+  },
+  {
+    "var": "FESTIVAL_347",
+    "en": "AVLoc2d0.def",
+    "ua": "AVSclvg0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_348",
+    "en": "AVLsh6g0.def",
+    "ua": "AVLoc2d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_349",
+    "en": "AVLoc1d0.def",
+    "ua": "AVLsh6g0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_350",
+    "en": "avlswt11.def",
+    "ua": "AVLoc1d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_351",
+    "en": "AVLroug1.def",
+    "ua": "avlswt11.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_352",
+    "en": "Duke Boragus",
+    "ua": "AVLroug1.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_353",
+    "en": "Duke Winston Boragus grew to fame after single handedly slaying the Chieftain (and the Chieftains guards) of his village.  He quickly united other tribes under his through brutality and a quick wit. Shortly after his rise to power he easily won the Festival of Life thirty years ago.  Duke Boragus has an affinity for controlling ogres in battle so gets a bonus with them. ",
+    "ua": null,
+    "aligned": false
+  },
+  {
+    "var": "FESTIVAL_354",
+    "en": "The guard at the post states that his favorite fishing hole has been invaded by a group of water elementals.  He will let the first person to clear out these elementals to pass through the gate.",
+    "ua": "Вартовий каже, що його улюблене місце риболовлі захоплено водними елементалями. Він пропустить будь-кого, хто вирішить цю проблему.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_355",
+    "en": "You laugh and point at the peasant horde guarding their measly earnings.",
+    "ua": "Ви смієтесь, вказуючи на толпу селян, які охороняють свої жалкі володіння.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_356",
+    "en": "This is a special bonus for the King of Krewlod.",
+    "ua": "Це особлива нагорода для короля Крюлода.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_357",
+    "en": "Day 1 event.",
+    "ua": "Day 1 event.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_358",
+    "en": "All your opponents except Duke Boragus lie at your feet.  The final test in the Festival of Life begins for the throne of Krewlod.  This is it, the defeat of Duke Boragus will signal the rise of Kilgor the Mighty, King by his own sword.  Failure is not an option.",
+    "ua": null,
+    "aligned": false
+  },
+  {
+    "var": "FESTIVAL_359",
+    "en": "Day 1 cont",
+    "ua": "Day 1 cont",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_360",
+    "en": "You only have 3 months to defeat the Duke or he wins by default (He is the leader of Krewlod you know).  Hurry, for time is also the enemy!",
+    "ua": null,
+    "aligned": false
+  },
+  {
+    "var": "FESTIVAL_361",
+    "en": "Duke sends a message.",
+    "ua": "Duke sends a message.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_362",
+    "en": "Duke Boragus sends a message \"May the mightier warrior win, young one.  I will try not to humble you overmuch, if my three comrades don't do it first\"",
+    "ua": null,
+    "aligned": false
+  },
+  {
+    "var": "FESTIVAL_363",
+    "en": "Second message.",
+    "ua": "Second message.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_364",
+    "en": "Duke Boragus sends another message \"Cowardice is not so bad in one such as you, suicide is always an option\"",
+    "ua": null,
+    "aligned": false
+  },
+  {
+    "var": "FESTIVAL_365",
+    "en": "Rebuttal.",
+    "ua": "Rebuttal.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_366",
+    "en": "You send back a rather scalding message to Duke Boragus telling him what he can do with his threats; hopefully this will keep him quiet.",
+    "ua": null,
+    "aligned": false
+  },
+  {
+    "var": "FESTIVAL_367",
+    "en": "no messages.",
+    "ua": "no messages.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_368",
+    "en": "No more messages seem forthcoming, good. Now you can concentrate on taking the fool down.",
+    "ua": null,
+    "aligned": false
+  },
+  {
+    "var": "FESTIVAL_369",
+    "en": "Clan War",
+    "ua": "Війна кланів",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_370",
+    "en": "Three other clans also fight for the right to have their nominee be the king.  Defeat them all without losing Kilgor and his three starting allies or lose the game. Only Kilgor and his three starting companions will be carried over into the next and last mission. Levels are limited to thirty.",
+    "ua": null,
+    "aligned": false
+  },
+  {
+    "var": "FESTIVAL_371",
+    "en": "Artifact in middle",
+    "ua": "Artifact in middle",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_372",
+    "en": "A fine artifact awaits the first to reach the middle.",
+    "ua": "Могутній артефакт чекає на свого господаря в центрі карти.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_373",
+    "en": "Dungeon city.",
+    "ua": "Dungeon city.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_374",
+    "en": "A dungeon city guarded by many dragons is rumored to be in the area.",
+    "ua": "Подейкують, що в цих землях є підземне місто, яке охороняється драконами.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_375",
+    "en": "AVWmrnd0.def",
+    "ua": "AVWmrnd0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_376",
+    "en": "AVLholg0.def",
+    "ua": "AVLholg0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_377",
+    "en": "avlmtrf1.def",
+    "ua": "avlmtrf1.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_378",
+    "en": "avlmtrf4.def",
+    "ua": "avlmtrf4.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_379",
+    "en": "avlmtrf2.def",
+    "ua": "avlmtrf2.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_380",
+    "en": "avlmtrf3.def",
+    "ua": "avlmtrf3.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_381",
+    "en": "avlmtrf5.def",
+    "ua": "avlmtrf5.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_382",
+    "en": "AVXcrsd0.def",
+    "ua": "AVXcrsd0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_383",
+    "en": "AVGbhmt0.def",
+    "ua": "AVGbhmt0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_384",
+    "en": "avlmtrf6.def",
+    "ua": "avlmtrf6.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_385",
+    "en": "ah13_e.def",
+    "ua": "ah13_e.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_386",
+    "en": "AVXrlly0.def",
+    "ua": "AVXrlly0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_387",
+    "en": "AVCstrx0.def",
+    "ua": "AVCstrx0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_388",
+    "en": "AVMsawr0.def",
+    "ua": "AVMsawr0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_389",
+    "en": "AVMorro0.def",
+    "ua": "AVMorro0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_390",
+    "en": "AVMgerf0.def",
+    "ua": "AVMgerf0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_391",
+    "en": "AVMcrrf0.def",
+    "ua": "AVMcrrf0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_392",
+    "en": "AVMgorf0.def",
+    "ua": "AVMgorf0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_393",
+    "en": "AVMalch0.def",
+    "ua": "AVMalch0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_394",
+    "en": "ah12_e.def",
+    "ua": "ah12_e.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_395",
+    "en": "AVLdead5.def",
+    "ua": "AVLdead5.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_396",
+    "en": "AVLdead2.def",
+    "ua": "AVLdead2.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_397",
+    "en": "AVLdead3.def",
+    "ua": "AVLdead3.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_398",
+    "en": "AVWogrx0.def",
+    "ua": "AVWogrx0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_399",
+    "en": "AVCgar20.def",
+    "ua": "AVCgar20.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_400",
+    "en": "AVLAUTR4.def",
+    "ua": "AVLAUTR4.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_401",
+    "en": "avlautr0.def",
+    "ua": "avlautr0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_402",
+    "en": "AVLmtvo4.def",
+    "ua": "AVLmtvo4.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_403",
+    "en": "AVLmtvo3.def",
+    "ua": "AVLmtvo3.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_404",
+    "en": "AVLmtds2.def",
+    "ua": "AVLmtds2.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_405",
+    "en": "AVLmtds3.def",
+    "ua": "AVLmtds3.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_406",
+    "en": "AVLmtds1.def",
+    "ua": "AVLmtds1.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_407",
+    "en": "AVLmtds4.def",
+    "ua": "AVLmtds4.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_408",
+    "en": "AVLAUTR2.def",
+    "ua": "AVLAUTR2.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_409",
+    "en": "AVLAUTR3.def",
+    "ua": "AVLAUTR3.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_410",
+    "en": "AVLfl6d0.def",
+    "ua": "AVLfl6d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_411",
+    "en": "AVLPNTR2.def",
+    "ua": "AVLPNTR2.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_412",
+    "en": "AVLPNTR4.def",
+    "ua": "AVLPNTR4.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_413",
+    "en": "AVXplns0.def",
+    "ua": "AVXplns0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_414",
+    "en": "AVLmd1r0.def",
+    "ua": "AVLmd1r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_415",
+    "en": "adcfra.def",
+    "ua": "adcfra.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_416",
+    "en": "AVLmtvo6.def",
+    "ua": "AVLmtvo6.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_417",
+    "en": "AVLmtvo5.def",
+    "ua": "AVLmtvo5.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_418",
+    "en": "AVLglly0.def",
+    "ua": "AVLglly0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_419",
+    "en": "AVXwhrl0.def",
+    "ua": "AVXwhrl0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_420",
+    "en": "muddelt1.def",
+    "ua": "muddelt1.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_421",
+    "en": "muddelt3.def",
+    "ua": "muddelt3.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_422",
+    "en": "AVLr13r0.def",
+    "ua": "AVLr13r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_423",
+    "en": "AVLr07r0.def",
+    "ua": "AVLr07r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_424",
+    "en": "AVLr04r0.def",
+    "ua": "AVLr04r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_425",
+    "en": "AVLroug1.def",
+    "ua": "AVLroug1.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_426",
+    "en": "AVLAUTR5.def",
+    "ua": "AVLAUTR5.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_427",
+    "en": "AVLautr7.def",
+    "ua": "AVLautr7.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_428",
+    "en": "avlmtdr5.def",
+    "ua": "avlmtdr5.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_429",
+    "en": "avlmtdr8.def",
+    "ua": "avlmtdr8.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_430",
+    "en": "avlmtdr4.def",
+    "ua": "avlmtdr4.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_431",
+    "en": "avlmtdr1.def",
+    "ua": "avlmtdr1.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_432",
+    "en": "avlmtdr3.def",
+    "ua": "avlmtdr3.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_433",
+    "en": "AVLmd1d0.def",
+    "ua": "AVLmd1d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_434",
+    "en": "muddelt2.def",
+    "ua": "muddelt2.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_435",
+    "en": "AVLdun20.def",
+    "ua": "AVLdun20.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_436",
+    "en": "avlmtdr2.def",
+    "ua": "avlmtdr2.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_437",
+    "en": "AVLr02r0.def",
+    "ua": "AVLr02r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_438",
+    "en": "AVLr08r0.def",
+    "ua": "AVLr08r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_439",
+    "en": "AVXwtrh0.def",
+    "ua": "AVXwtrh0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_440",
+    "en": "avlautr1.def",
+    "ua": "avlautr1.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_441",
+    "en": "AVLlk3d0.def",
+    "ua": "AVLlk3d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_442",
+    "en": "AVWorcx0.def",
+    "ua": "AVWorcx0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_443",
+    "en": "AVMsulf0.def",
+    "ua": "AVMsulf0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_444",
+    "en": "AVLPNTR1.def",
+    "ua": "AVLPNTR1.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_445",
+    "en": "AvLRD01.def",
+    "ua": "AvLRD01.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_446",
+    "en": "AVLoc3r0.def",
+    "ua": "AVLoc3r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_447",
+    "en": "AVLoc3d0.def",
+    "ua": "AVLoc3d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_448",
+    "en": "AVLoc1d0.def",
+    "ua": "AVLoc1d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_449",
+    "en": "AVLct5d0.def",
+    "ua": "AVLct5d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_450",
+    "en": "AVLdead6.def",
+    "ua": "AVLdead6.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_451",
+    "en": "AVLr03r0.def",
+    "ua": "AVLr03r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_452",
+    "en": "AVLr09r0.def",
+    "ua": "AVLr09r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_453",
+    "en": "avlsh6r0.def",
+    "ua": "avlsh6r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_454",
+    "en": "avlsh9r0.def",
+    "ua": "avlsh9r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_455",
+    "en": "AVLct5r0.def",
+    "ua": "AVLct5r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_456",
+    "en": "AVLctrr0.def",
+    "ua": "AVLctrr0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_457",
+    "en": "AVLautr6.def",
+    "ua": "AVLautr6.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_458",
+    "en": "AVLct9r0.def",
+    "ua": "AVLct9r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_459",
+    "en": "AVLoc4r0.def",
+    "ua": "AVLoc4r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_460",
+    "en": "AVLmtds5.def",
+    "ua": "AVLmtds5.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_461",
+    "en": "AVLplm40.def",
+    "ua": "AVLplm40.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_462",
+    "en": "avlbuzr0.def",
+    "ua": "avlbuzr0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_463",
+    "en": "AVMwndd0.def",
+    "ua": "AVMwndd0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_464",
+    "en": "AVLlk2d0.def",
+    "ua": "AVLlk2d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_465",
+    "en": "AVLdead0.def",
+    "ua": "AVLdead0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_466",
+    "en": "AVLmd3r0.def",
+    "ua": "AVLmd3r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_467",
+    "en": "avlxro11.def",
+    "ua": "avlxro11.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_468",
+    "en": "avlxro01.def",
+    "ua": "avlxro01.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_469",
+    "en": "avlxro06.def",
+    "ua": "avlxro06.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_470",
+    "en": "avlxro02.def",
+    "ua": "avlxro02.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_471",
+    "en": "avcvgarm.def",
+    "ua": "avcvgarm.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_472",
+    "en": "avlxro09.def",
+    "ua": "avlxro09.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_473",
+    "en": "AVLct2d0.def",
+    "ua": "AVLct2d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_474",
+    "en": "avlxro08.def",
+    "ua": "avlxro08.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_475",
+    "en": "avlxro03.def",
+    "ua": "avlxro03.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_476",
+    "en": "AVGgobl0.def",
+    "ua": "AVGgobl0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_477",
+    "en": "AvTCave.def",
+    "ua": "AvTCave.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_478",
+    "en": "AVXshyd0.def",
+    "ua": "AVXshyd0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_479",
+    "en": "AVXboat2.def",
+    "ua": "AVXboat2.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_480",
+    "en": "AVXccht0.def",
+    "ua": "AVXccht0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_481",
+    "en": "AVXmapw0.def",
+    "ua": "AVXmapw0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_482",
+    "en": "AVWelmw0.def",
+    "ua": "AVWelmw0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_483",
+    "en": "AVLrk2w0.def",
+    "ua": "AVLrk2w0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_484",
+    "en": "AVLrk3w0.def",
+    "ua": "AVLrk3w0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_485",
+    "en": "AVLrk4w0.def",
+    "ua": "AVLrk4w0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_486",
+    "en": "AVAflot0.def",
+    "ua": "AVAflot0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_487",
+    "en": "AVLrk1w0.def",
+    "ua": "AVLrk1w0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_488",
+    "en": "AVLref30.def",
+    "ua": "AVLref30.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_489",
+    "en": "AVGwolf0.def",
+    "ua": "AVGwolf0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_490",
+    "en": "AVGogre0.def",
+    "ua": "AVGogre0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_491",
+    "en": "AVGrocs0.def",
+    "ua": "AVGrocs0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_492",
+    "en": "AVGorcg0.def",
+    "ua": "AVGorcg0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_493",
+    "en": "AVLr10r0.def",
+    "ua": "AVLr10r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_494",
+    "en": "AVTchst0.def",
+    "ua": "AVTchst0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_495",
+    "en": "AVWtree0.def",
+    "ua": "AVWtree0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_496",
+    "en": "AVTgold0.def",
+    "ua": "AVTgold0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_497",
+    "en": "AVWwolx0.def",
+    "ua": "AVWwolx0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_498",
+    "en": "AVWogre0.def",
+    "ua": "AVWogre0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_499",
+    "en": "AVSarna0.def",
+    "ua": "AVSarna0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_500",
+    "en": "AVSfntn0.def",
+    "ua": "AVSfntn0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_501",
+    "en": "AVXhild0.def",
+    "ua": "AVXhild0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_502",
+    "en": "avlxro12.def",
+    "ua": "avlxro12.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_503",
+    "en": "AVXskds0.def",
+    "ua": "AVXskds0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_504",
+    "en": "AVWgobx0.def",
+    "ua": "AVWgobx0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_505",
+    "en": "avlxro07.def",
+    "ua": "avlxro07.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_506",
+    "en": "AVSring0.def",
+    "ua": "AVSring0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_507",
+    "en": "AVXtrek0.def",
+    "ua": "AVXtrek0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_508",
+    "en": "AVXmags0.def",
+    "ua": "AVXmags0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_509",
+    "en": "AVTsulf0.def",
+    "ua": "AVTsulf0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_510",
+    "en": "avlxro04.def",
+    "ua": "avlxro04.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_511",
+    "en": "AVSidol0.def",
+    "ua": "AVSidol0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_512",
+    "en": "avxfgld.def",
+    "ua": "avxfgld.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_513",
+    "en": "AVTwagn0.def",
+    "ua": "AVTwagn0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_514",
+    "en": "AVXstbl0.def",
+    "ua": "AVXstbl0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_515",
+    "en": "AVLref60.def",
+    "ua": "AVLref60.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_516",
+    "en": "AVLklp20.def",
+    "ua": "AVLklp20.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_517",
+    "en": "AVXmerm0.def",
+    "ua": "AVXmerm0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_518",
+    "en": "avlxds10.def",
+    "ua": "avlxds10.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_519",
+    "en": "avlxds08.def",
+    "ua": "avlxds08.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_520",
+    "en": "avlxds12.def",
+    "ua": "avlxds12.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_521",
+    "en": "avlxds04.def",
+    "ua": "avlxds04.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_522",
+    "en": "avlxds11.def",
+    "ua": "avlxds11.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_523",
+    "en": "AvLdlog.def",
+    "ua": "AvLdlog.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_524",
+    "en": "AVSgzbo0.def",
+    "ua": "AVSgzbo0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_525",
+    "en": "AVStmpl0.def",
+    "ua": "AVStmpl0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_526",
+    "en": "AVWroc0.def",
+    "ua": "AVWroc0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_527",
+    "en": "AVXcfds0.def",
+    "ua": "AVXcfds0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_528",
+    "en": "avlxds05.def",
+    "ua": "avlxds05.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_529",
+    "en": "AVTwood0.def",
+    "ua": "AVTwood0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_530",
+    "en": "AVTore0.def",
+    "ua": "AVTore0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_531",
+    "en": "AVXl3sh0.def",
+    "ua": "AVXl3sh0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_532",
+    "en": "AVLct8r0.def",
+    "ua": "AVLct8r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_533",
+    "en": "AVLskul0.def",
+    "ua": "AVLskul0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_534",
+    "en": "AVLsh3r0.def",
+    "ua": "AVLsh3r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_535",
+    "en": "AVLroug2.def",
+    "ua": "AVLroug2.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_536",
+    "en": "AVLct4r0.def",
+    "ua": "AVLct4r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_537",
+    "en": "AVSschm0.def",
+    "ua": "AVSschm0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_538",
+    "en": "AVXmn2g0.def",
+    "ua": "AVXmn2g0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_539",
+    "en": "avlxds06.def",
+    "ua": "avlxds06.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_540",
+    "en": "AVWcycl0.def",
+    "ua": "AVWcycl0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_541",
+    "en": "avlxds01.def",
+    "ua": "avlxds01.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_542",
+    "en": "avlxds09.def",
+    "ua": "avlxds09.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_543",
+    "en": "avlxro05.def",
+    "ua": "avlxro05.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_544",
+    "en": "avlxro10.def",
+    "ua": "avlxro10.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_545",
+    "en": "AVSwar20.def",
+    "ua": "AVSwar20.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_546",
+    "en": "AVLoc1r0.def",
+    "ua": "AVLoc1r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_547",
+    "en": "AVLct7r0.def",
+    "ua": "AVLct7r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_548",
+    "en": "AVWgolx0.def",
+    "ua": "AVWgolx0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_549",
+    "en": "avlxds03.def",
+    "ua": "avlxds03.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_550",
+    "en": "avlxds02.def",
+    "ua": "avlxds02.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_551",
+    "en": "AVLr12r0.def",
+    "ua": "AVLr12r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_552",
+    "en": "AVWrocx0.def",
+    "ua": "AVWrocx0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_553",
+    "en": "AVTcrys0.def",
+    "ua": "AVTcrys0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_554",
+    "en": "AVLroug0.def",
+    "ua": "AVLroug0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_555",
+    "en": "AVXpstr0.def",
+    "ua": "AVXpstr0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_556",
+    "en": "AVTgems0.def",
+    "ua": "AVTgems0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_557",
+    "en": "AVTmerc0.def",
+    "ua": "AVTmerc0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_558",
+    "en": "AVXwelr0.def",
+    "ua": "AVXwelr0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_559",
+    "en": "AvSMarl.def",
+    "ua": "AvSMarl.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_560",
+    "en": "AVXbnk20.def",
+    "ua": "AVXbnk20.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_561",
+    "en": "AvXDenT.def",
+    "ua": "AvXDenT.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_562",
+    "en": "AVSclvd0.def",
+    "ua": "AVSclvd0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_563",
+    "en": "AVXfyth0.def",
+    "ua": "AVXfyth0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_564",
+    "en": "AVWwolf0.def",
+    "ua": "AVWwolf0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_565",
+    "en": "AVXsanc0.def",
+    "ua": "AVXsanc0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_566",
+    "en": "AVGsieg0.def",
+    "ua": "AVGsieg0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_567",
+    "en": "AvWMino.def",
+    "ua": "AvWMino.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_568",
+    "en": "AVXprmd0.def",
+    "ua": "AVXprmd0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_569",
+    "en": "AVLrk3d0.def",
+    "ua": "AVLrk3d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_570",
+    "en": "AVLyuc10.def",
+    "ua": "AVLyuc10.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_571",
+    "en": "AvLRD02.def",
+    "ua": "AvLRD02.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_572",
+    "en": "avlmtdr6.def",
+    "ua": "avlmtdr6.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_573",
+    "en": "AVWswrd0.def",
+    "ua": "AVWswrd0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_574",
+    "en": "AVXl2sh0.def",
+    "ua": "AVXl2sh0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_575",
+    "en": "AVLr11r0.def",
+    "ua": "AVLr11r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_576",
+    "en": "AVLr06r0.def",
+    "ua": "AVLr06r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_577",
+    "en": "AVWelme0.def",
+    "ua": "AVWelme0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_578",
+    "en": "AVLPNTR3.def",
+    "ua": "AVLPNTR3.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_579",
+    "en": "AVLPNTR0.def",
+    "ua": "AVLPNTR0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_580",
+    "en": "AVLvol50.def",
+    "ua": "AVLvol50.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_581",
+    "en": "AVWddrx0.def",
+    "ua": "AVWddrx0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_582",
+    "en": "AVLct6r0.def",
+    "ua": "AVLct6r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_583",
+    "en": "AVGelem0.def",
+    "ua": "AVGelem0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_584",
+    "en": "AVWelma0.def",
+    "ua": "AVWelma0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_585",
+    "en": "AVWtrex0.def",
+    "ua": "AVWtrex0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_586",
+    "en": "AvXAltar.def",
+    "ua": "AvXAltar.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_587",
+    "en": "AVXcflv0.def",
+    "ua": "AVXcflv0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_588",
+    "en": "AVGfire0.def",
+    "ua": "AVGfire0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_589",
+    "en": "AvWRDrg.def",
+    "ua": "AvWRDrg.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_590",
+    "en": "AVWelmf0.def",
+    "ua": "AVWelmf0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_591",
+    "en": "AVWdwrx0.def",
+    "ua": "AVWdwrx0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_592",
+    "en": "AVLr15r0.def",
+    "ua": "AVLr15r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_593",
+    "en": "AVWorc0.def",
+    "ua": "AVWorc0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_594",
+    "en": "AVSaxis0.def",
+    "ua": "AVSaxis0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_595",
+    "en": "AVSmerc0.def",
+    "ua": "AVSmerc0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_596",
+    "en": "AVXbnk10.def",
+    "ua": "AVXbnk10.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_597",
+    "en": "AVWmage0.def",
+    "ua": "AVWmage0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_598",
+    "en": "AVWswrx0.def",
+    "ua": "AVWswrx0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_599",
+    "en": "AVXcovr0.def",
+    "ua": "AVXcovr0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_600",
+    "en": "AvLStm3.def",
+    "ua": "AvLStm3.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_601",
+    "en": "AvLStm2.def",
+    "ua": "AvLStm2.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_602",
+    "en": "AVLdead4.def",
+    "ua": "AVLdead4.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_603",
+    "en": "AVMwwhl0.def",
+    "ua": "AVMwwhl0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_604",
+    "en": "AVLklp10.def",
+    "ua": "AVLklp10.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_605",
+    "en": "AVLr14r0.def",
+    "ua": "AVLr14r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_606",
+    "en": "AVLfl7d0.def",
+    "ua": "AVLfl7d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_607",
+    "en": "AVXbnk70.def",
+    "ua": "AVXbnk70.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_608",
+    "en": "AVLmd2r0.def",
+    "ua": "AVLmd2r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_609",
+    "en": "AVWmanx0.def",
+    "ua": "AVWmanx0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_610",
+    "en": "AVXseer0.def",
+    "ua": "AVXseer0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_611",
+    "en": "AVXbor00.def",
+    "ua": "AVXbor00.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_612",
+    "en": "AVXkey00.def",
+    "ua": "AVXkey00.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_613",
+    "en": "AVXabnd0.def",
+    "ua": "AVXabnd0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_614",
+    "en": "avlxdt03.def",
+    "ua": "avlxdt03.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_615",
+    "en": "AVGcycl0.def",
+    "ua": "AVGcycl0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_616",
+    "en": "AVLct2r0.def",
+    "ua": "AVLct2r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_617",
+    "en": "AVXwelg0.def",
+    "ua": "AVXwelg0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_618",
+    "en": "AVLca040.def",
+    "ua": "AVLca040.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_619",
+    "en": "avlswt06.def",
+    "ua": "avlswt06.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_620",
+    "en": "avlswt16.def",
+    "ua": "avlswt16.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_621",
+    "en": "AVLca010.def",
+    "ua": "AVLca010.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_622",
+    "en": "AVLca070.def",
+    "ua": "AVLca070.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_623",
+    "en": "AVLca050.def",
+    "ua": "AVLca050.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_624",
+    "en": "AVLtRo12.def",
+    "ua": "AVLtRo12.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_625",
+    "en": "AVLtRo08.def",
+    "ua": "AVLtRo08.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_626",
+    "en": "AVLtRo07.def",
+    "ua": "AVLtRo07.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_627",
+    "en": "AVLtRo00.def",
+    "ua": "AVLtRo00.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_628",
+    "en": "AVLtRo01.def",
+    "ua": "AVLtRo01.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_629",
+    "en": "AVLtRo02.def",
+    "ua": "AVLtRo02.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_630",
+    "en": "AVLtRo03.def",
+    "ua": "AVLtRo03.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_631",
+    "en": "AVLtRo05.def",
+    "ua": "AVLtRo05.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_632",
+    "en": "AVLtRo10.def",
+    "ua": "AVLtRo10.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_633",
+    "en": "AVLtRo09.def",
+    "ua": "AVLtRo09.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_634",
+    "en": "AVLtRo04.def",
+    "ua": "AVLtRo04.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_635",
+    "en": "avlxdt11.def",
+    "ua": "avlxdt11.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_636",
+    "en": "AVLtRo11.def",
+    "ua": "AVLtRo11.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_637",
+    "en": "AVLtRo06.def",
+    "ua": "AVLtRo06.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_638",
+    "en": "avlxdt05.def",
+    "ua": "avlxdt05.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_639",
+    "en": "avlxdt02.def",
+    "ua": "avlxdt02.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_640",
+    "en": "AVLtr3d0.def",
+    "ua": "AVLtr3d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_641",
+    "en": "AVLoc2d0.def",
+    "ua": "AVLoc2d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_642",
+    "en": "AVLsh1d0.def",
+    "ua": "AVLsh1d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_643",
+    "en": "AVLsh3d0.def",
+    "ua": "AVLsh3d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_644",
+    "en": "AVLsh2d0.def",
+    "ua": "AVLsh2d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_645",
+    "en": "AVLsh5d0.def",
+    "ua": "AVLsh5d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_646",
+    "en": "AVLsh7d0.def",
+    "ua": "AVLsh7d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_647",
+    "en": "AVLsh8d0.def",
+    "ua": "AVLsh8d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_648",
+    "en": "AVLsh4d0.def",
+    "ua": "AVLsh4d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_649",
+    "en": "AVLsh6d0.def",
+    "ua": "AVLsh6d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_650",
+    "en": "AVLtrRo0.def",
+    "ua": "AVLtrRo0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_651",
+    "en": "AVLtrRo2.def",
+    "ua": "AVLtrRo2.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_652",
+    "en": "AVLtrRo6.def",
+    "ua": "AVLtrRo6.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_653",
+    "en": "AVLsh2r0.def",
+    "ua": "AVLsh2r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_654",
+    "en": "avlxro04.def",
+    "ua": "avlxro04.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_655",
+    "en": "AVLtrRo5.def",
+    "ua": "AVLtrRo5.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_656",
+    "en": "AVLtrRo3.def",
+    "ua": "AVLtrRo3.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_657",
+    "en": "AVLtrRo1.def",
+    "ua": "AVLtrRo1.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_658",
+    "en": "AVLct1r0.def",
+    "ua": "AVLct1r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_659",
+    "en": "AVLct3r0.def",
+    "ua": "AVLct3r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_660",
+    "en": "AVLoc2r0.def",
+    "ua": "AVLoc2r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_661",
+    "en": "AVLtrRo4.def",
+    "ua": "AVLtrRo4.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_662",
+    "en": "AvLStm1.def",
+    "ua": "AvLStm1.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_663",
+    "en": "AVLtrRo7.def",
+    "ua": "AVLtrRo7.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_664",
+    "en": "AVLca110.def",
+    "ua": "AVLca110.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_665",
+    "en": "avlxdt06.def",
+    "ua": "avlxdt06.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_666",
+    "en": "AVLtr2d0.def",
+    "ua": "AVLtr2d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_667",
+    "en": "avlxdt00.def",
+    "ua": "avlxdt00.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_668",
+    "en": "avlxdt01.def",
+    "ua": "avlxdt01.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_669",
+    "en": "AVLms100.def",
+    "ua": "AVLms100.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_670",
+    "en": "avlswt13.def",
+    "ua": "avlswt13.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_671",
+    "en": "avlswt10.def",
+    "ua": "avlswt10.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_672",
+    "en": "avlxdt08.def",
+    "ua": "avlxdt08.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_673",
+    "en": "avlxds07.def",
+    "ua": "avlxds07.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_674",
+    "en": "AVLca080.def",
+    "ua": "AVLca080.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_675",
+    "en": "avlswt02.def",
+    "ua": "avlswt02.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_676",
+    "en": "avlswt15.def",
+    "ua": "avlswt15.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_677",
+    "en": "avlswt07.def",
+    "ua": "avlswt07.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_678",
+    "en": "avlswt05.def",
+    "ua": "avlswt05.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_679",
+    "en": "avlswt03.def",
+    "ua": "avlswt03.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_680",
+    "en": "avlswt00.def",
+    "ua": "avlswt00.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_681",
+    "en": "AVLman40.def",
+    "ua": "AVLman40.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_682",
+    "en": "AVLfl1d0.def",
+    "ua": "AVLfl1d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_683",
+    "en": "avlswt04.def",
+    "ua": "avlswt04.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_684",
+    "en": "avlsh4r0.def",
+    "ua": "avlsh4r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_685",
+    "en": "AVLca1r0.def",
+    "ua": "AVLca1r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_686",
+    "en": "AVLman30.def",
+    "ua": "AVLman30.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_687",
+    "en": "AVLct3l0.def",
+    "ua": "AVLct3l0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_688",
+    "en": "AVLca120.def",
+    "ua": "AVLca120.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_689",
+    "en": "AVLvol40.def",
+    "ua": "AVLvol40.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_690",
+    "en": "avlxdt04.def",
+    "ua": "avlxdt04.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_691",
+    "en": "AVLman20.def",
+    "ua": "AVLman20.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_692",
+    "en": "AVLman50.def",
+    "ua": "AVLman50.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_693",
+    "en": "AVLfl8d0.def",
+    "ua": "AVLfl8d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_694",
+    "en": "AVLsh4g0.def",
+    "ua": "AVLsh4g0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_695",
+    "en": "AVLsh3g0.def",
+    "ua": "AVLsh3g0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_696",
+    "en": "AVLsh2g0.def",
+    "ua": "AVLsh2g0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_697",
+    "en": "AVLsh5g0.def",
+    "ua": "AVLsh5g0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_698",
+    "en": "AVLsh6g0.def",
+    "ua": "AVLsh6g0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_699",
+    "en": "AVLlv130.def",
+    "ua": "AVLlv130.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_700",
+    "en": "AVLc10l0.def",
+    "ua": "AVLc10l0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_701",
+    "en": "AVLlv160.def",
+    "ua": "AVLlv160.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_702",
+    "en": "AVLct1l0.def",
+    "ua": "AVLct1l0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_703",
+    "en": "AVLlv200.def",
+    "ua": "AVLlv200.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_704",
+    "en": "AVLlv210.def",
+    "ua": "AVLlv210.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_705",
+    "en": "AVLlv180.def",
+    "ua": "AVLlv180.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_706",
+    "en": "AVLlv190.def",
+    "ua": "AVLlv190.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_707",
+    "en": "AVLlv260.def",
+    "ua": "AVLlv260.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_708",
+    "en": "AVLlv140.def",
+    "ua": "AVLlv140.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_709",
+    "en": "AVLvol30.def",
+    "ua": "AVLvol30.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_710",
+    "en": "AVLvol10.def",
+    "ua": "AVLvol10.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_711",
+    "en": "avlxdt10.def",
+    "ua": "avlxdt10.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_712",
+    "en": "AVLdead1.def",
+    "ua": "AVLdead1.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_713",
+    "en": "AVLca030.def",
+    "ua": "AVLca030.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_714",
+    "en": "AVLyuc20.def",
+    "ua": "AVLyuc20.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_715",
+    "en": "AVLref10.def",
+    "ua": "AVLref10.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_716",
+    "en": "AVLsh1r0.def",
+    "ua": "AVLsh1r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_717",
+    "en": "AVLSPTR0.def",
+    "ua": "AVLSPTR0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_718",
+    "en": "AVLSPTR5.def",
+    "ua": "AVLSPTR5.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_719",
+    "en": "AVLs07s0.def",
+    "ua": "AVLs07s0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_720",
+    "en": "avlswt11.def",
+    "ua": "avlswt11.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_721",
+    "en": "avlxdt07.def",
+    "ua": "avlxdt07.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_722",
+    "en": "AVLf10g0.def",
+    "ua": "AVLf10g0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_723",
+    "en": "AVLf06g0.def",
+    "ua": "AVLf06g0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_724",
+    "en": "AVLSPTR1.def",
+    "ua": "AVLSPTR1.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_725",
+    "en": "avlsh5r0.def",
+    "ua": "avlsh5r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_726",
+    "en": "AVSarna0.def",
+    "ua": "AVSarna0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_727",
+    "en": "AVLca2r0.def",
+    "ua": "AVLca2r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_728",
+    "en": "AVLct4l0.def",
+    "ua": "AVLct4l0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_729",
+    "en": "AVMsawl0.def",
+    "ua": "AVMsawl0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_730",
+    "en": "AVMorlv0.def",
+    "ua": "AVMorlv0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_731",
+    "en": "AVLfl9d0.def",
+    "ua": "AVLfl9d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_732",
+    "en": "AHplace.def",
+    "ua": "AHplace.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_733",
+    "en": "AVTrndm0.def",
+    "ua": "AVTrndm0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_734",
+    "en": "AVWbhmt0.def",
+    "ua": "AVWbhmt0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_735",
+    "en": "AVCdunx0.def",
+    "ua": "AVCdunx0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_736",
+    "en": "AVLct4u0.def",
+    "ua": "AVLct4u0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_737",
+    "en": "AVLmtsb3.def",
+    "ua": "AVLmtsb3.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_738",
+    "en": "AVLmtsb4.def",
+    "ua": "AVLmtsb4.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_739",
+    "en": "AVLmtsb1.def",
+    "ua": "AVLmtsb1.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_740",
+    "en": "AVLmtsb0.def",
+    "ua": "AVLmtsb0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_741",
+    "en": "AVLr06u0.def",
+    "ua": "AVLr06u0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_742",
+    "en": "AVLr02u0.def",
+    "ua": "AVLr02u0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_743",
+    "en": "AVLr03u0.def",
+    "ua": "AVLr03u0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_744",
+    "en": "AVLoc4u0.def",
+    "ua": "AVLoc4u0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_745",
+    "en": "AVGerth0.def",
+    "ua": "AVGerth0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_746",
+    "en": "AVLct3u0.def",
+    "ua": "AVLct3u0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_747",
+    "en": "AVLct5u0.def",
+    "ua": "AVLct5u0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_748",
+    "en": "AVLr07u0.def",
+    "ua": "AVLr07u0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_749",
+    "en": "AVLmtsb5.def",
+    "ua": "AVLmtsb5.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_750",
+    "en": "AVLr01u0.def",
+    "ua": "AVLr01u0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_751",
+    "en": "AVLr08u0.def",
+    "ua": "AVLr08u0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_752",
+    "en": "AvWInfr.def",
+    "ua": "AvWInfr.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_753",
+    "en": "avlxsu02.def",
+    "ua": null,
+    "aligned": false
+  },
+  {
+    "var": "FESTIVAL_754",
+    "en": "AVWbehx0.def",
+    "ua": "avlxsu02.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_755",
+    "en": "AVLlv3u0.def",
+    "ua": "AVWbehx0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_756",
+    "en": "AVLllk10.def",
+    "ua": "AVLlv3u0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_757",
+    "en": "AVLstg50.def",
+    "ua": "AVLllk10.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_758",
+    "en": "AVLms050.def",
+    "ua": "AVLstg50.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_759",
+    "en": "AVLllk20.def",
+    "ua": "AVLms050.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_760",
+    "en": "AVLct2u0.def",
+    "ua": "AVLllk20.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_761",
+    "en": "avlxsu05.def",
+    "ua": "AVLct2u0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_762",
+    "en": "AVLhlds0.def",
+    "ua": "avlxsu05.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_763",
+    "en": "AVLms020.def",
+    "ua": "AVLhlds0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_764",
+    "en": "AVLms060.def",
+    "ua": "AVLms020.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_765",
+    "en": "avlxsu07.def",
+    "ua": "AVLms060.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_766",
+    "en": "avlxsu06.def",
+    "ua": "avlxsu07.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_767",
+    "en": "avlxsu11.def",
+    "ua": "avlxsu06.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_768",
+    "en": "avlxsu01.def",
+    "ua": "avlxsu11.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_769",
+    "en": "AVLms030.def",
+    "ua": "avlxsu01.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_770",
+    "en": "AVLlv1u0.def",
+    "ua": "AVLms030.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_771",
+    "en": "AVLlk3u0.def",
+    "ua": "AVLlv1u0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_772",
+    "en": "avlxsu04.def",
+    "ua": "AVLlk3u0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_773",
+    "en": "avlxsu03.def",
+    "ua": "avlxsu04.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_774",
+    "en": "avlxsu12.def",
+    "ua": "avlxsu03.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_775",
+    "en": "AVLct1u0.def",
+    "ua": "avlxsu12.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_776",
+    "en": "avlxsu09.def",
+    "ua": "AVLct1u0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_777",
+    "en": "AVLdun30.def",
+    "ua": "avlxsu09.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_778",
+    "en": "AVLdun10.def",
+    "ua": "AVLdun30.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_779",
+    "en": "AVLms090.def",
+    "ua": "AVLdun10.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_780",
+    "en": "avlxsu10.def",
+    "ua": "AVLms090.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_781",
+    "en": "AVLms120.def",
+    "ua": "avlxsu10.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_782",
+    "en": "AVLoc2u0.def",
+    "ua": "AVLms120.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_783",
+    "en": "AVLlv2u0.def",
+    "ua": "AVLoc2u0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_784",
+    "en": "AVLstg60.def",
+    "ua": "AVLlv2u0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_785",
+    "en": "AVMgosb0.def",
+    "ua": "AVLstg60.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_786",
+    "en": "AVLstg10.def",
+    "ua": "AVMgosb0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_787",
+    "en": "House Kilgor",
+    "ua": "AVLstg10.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_788",
+    "en": "House Vilmit",
+    "ua": "Вілміт-Хаус",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_789",
+    "en": "House Telez",
+    "ua": "Телез-Хаус",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_790",
+    "en": "House Degab",
+    "ua": "Дегаб-Хаус",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_791",
+    "en": "Soldiers from House Degab move to protect the book.  Do you wish to fight them?",
+    "ua": "Книга заклинань охороняється воїнами клану Дегаб. Атакувати їх?",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_792",
+    "en": "As you enter the hut an ancient looking battle mage looks up from the book he is reading.  \"Here for the War contest are you?\".  He cackles for a while. \" Well one of the dang fools stole one of my books, let me think...oh yeah the tome of fire magic, if you bring it back to me i'll give you a brood of Behemoths I've been breeding for years.\"  He pauses to study you for awhile. \" Well, what are you standing around for..find my book!",
+    "ua": "Ви входите до кімнати, і підстаркуватий бойовий маг відривається від книги, яку читав. \"Ти також один з цих варварів?\" - питає він, - \"Твій попередник вкрав у мене... дай пригадаю... книгу Магії Вогню, і якщо ти повернеш її, я віддам тобі зграю чудовиськ, яку я ростив вже багато років\". Він переривається і оглядає вас. \"В чому справа! Чому ти стоїш? йди і поверни мені книгу!\"",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_793",
+    "en": "Day one event.",
+    "ua": "Day one event.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_794",
+    "en": "The third test begins.  The three opponents arrayed against you and each other are battle tested and strong, having been through similar tests.  If you overcome them you will have proven your mettle enough to challenge the king himself!",
+    "ua": "Третє випробування починається. Три ваших противники загартовані в бою. Кожен з них, як і ви, прагне стати одноосібним переможцем. Здолавши їх, ви зможете кинути виклик самому королю!",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_795",
+    "en": "House Telez message",
+    "ua": "House Telez message",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_796",
+    "en": "A message arrives from House Telez: \"Give up now, before we step on you like the pile of Orc dung you are\"",
+    "ua": "Клан Телез прислав вам депешу: \"Здавайся прямо зараз, або ми розмажемо тебе, як коров'ячий млинець, яким ти і є!\"",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_797",
+    "en": "House Degab taunt",
+    "ua": "House Degab taunt",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_798",
+    "en": "House Degab sends you a message: \"Surrender to us now and we will give you a quick and painless death staked out upon the Anthill of Doom.  Otherwise a regular anthill will be your fate\"",
+    "ua": null,
+    "aligned": false
+  },
+  {
+    "var": "FESTIVAL_799",
+    "en": "House Vilmit message",
+    "ua": "House Vilmit message",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_800",
+    "en": "House Vilmit sends a message: \"<Ugh>..we crush you like bug you are..<Ugh>\"",
+    "ua": "Клан Вілміт прислав вам депешу: \"(Ух!) Ми розчавимо тебе, як комашку, якою ти і є (Ух!) \"",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_801",
+    "en": "Taming of the wild",
+    "ua": "Приборкання норовливих",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_802",
+    "en": "To prove you can keep land safe for the citizens you must defeat all of the creatures inhabiting this area inside of four months. If Kilgor or any of his lieutenants are killed, you lose.  Levels will be limited to twenty.",
+    "ua": null,
+    "aligned": false
+  },
+  {
+    "var": "FESTIVAL_803",
+    "en": "AVWmrnd0.def",
+    "ua": "AVWmrnd0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_804",
+    "en": "AVLholg0.def",
+    "ua": "AVLholg0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_805",
+    "en": "AVCstrx0.def",
+    "ua": "AVCstrx0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_806",
+    "en": "avlmtrf2.def",
+    "ua": "avlmtrf2.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_807",
+    "en": "avlmtrf1.def",
+    "ua": "avlmtrf1.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_808",
+    "en": "avlmtrf4.def",
+    "ua": "avlmtrf4.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_809",
+    "en": "avlmtrf5.def",
+    "ua": "avlmtrf5.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_810",
+    "en": "AVLdead6.def",
+    "ua": "AVLdead6.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_811",
+    "en": "AVLdead7.def",
+    "ua": "AVLdead7.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_812",
+    "en": "avlmtdr1.def",
+    "ua": "avlmtdr1.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_813",
+    "en": "avlmtdr3.def",
+    "ua": "avlmtdr3.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_814",
+    "en": "avlmtdr2.def",
+    "ua": "avlmtdr2.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_815",
+    "en": "avlmtdr4.def",
+    "ua": "avlmtdr4.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_816",
+    "en": "AVLPNTR5.def",
+    "ua": "AVLPNTR5.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_817",
+    "en": "avlmtrf3.def",
+    "ua": "avlmtrf3.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_818",
+    "en": "AVXbor00.def",
+    "ua": "AVXbor00.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_819",
+    "en": "AVLdead5.def",
+    "ua": "AVLdead5.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_820",
+    "en": "avlmtdr6.def",
+    "ua": "avlmtdr6.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_821",
+    "en": "avlmtdr5.def",
+    "ua": "avlmtdr5.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_822",
+    "en": "ah13_e.def",
+    "ua": "ah13_e.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_823",
+    "en": "AVLdead4.def",
+    "ua": "AVLdead4.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_824",
+    "en": "avlmtrf6.def",
+    "ua": "avlmtrf6.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_825",
+    "en": "AVLdead3.def",
+    "ua": "AVLdead3.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_826",
+    "en": "AVLmtsw1.def",
+    "ua": "AVLmtsw1.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_827",
+    "en": "AVLmtsw3.def",
+    "ua": "AVLmtsw3.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_828",
+    "en": "AVLmtsw4.def",
+    "ua": "AVLmtsw4.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_829",
+    "en": "AVLswmp2.def",
+    "ua": "AVLswmp2.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_830",
+    "en": "AVXbor10.def",
+    "ua": "AVXbor10.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_831",
+    "en": "AVLswmp3.def",
+    "ua": "AVLswmp3.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_832",
+    "en": "AVLmtsw2.def",
+    "ua": "AVLmtsw2.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_833",
+    "en": "AVLoc1r0.def",
+    "ua": "AVLoc1r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_834",
+    "en": "AVLPNTR2.def",
+    "ua": "AVLPNTR2.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_835",
+    "en": "AVLPNTR1.def",
+    "ua": "AVLPNTR1.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_836",
+    "en": "AVLPNTR4.def",
+    "ua": "AVLPNTR4.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_837",
+    "en": "AVXbor20.def",
+    "ua": "AVXbor20.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_838",
+    "en": "AVXboat2.def",
+    "ua": "AVXboat2.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_839",
+    "en": "AVLPNTR0.def",
+    "ua": "AVLPNTR0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_840",
+    "en": "AVXkey10.def",
+    "ua": "AVXkey10.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_841",
+    "en": "AVXkey20.def",
+    "ua": "AVXkey20.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_842",
+    "en": "AVLct6r0.def",
+    "ua": "AVLct6r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_843",
+    "en": "AVLAUTR3.def",
+    "ua": "AVLAUTR3.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_844",
+    "en": "AVLautr6.def",
+    "ua": "AVLautr6.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_845",
+    "en": "AVLAUTR4.def",
+    "ua": "AVLAUTR4.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_846",
+    "en": "AVLautr7.def",
+    "ua": "AVLautr7.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_847",
+    "en": "avlautr0.def",
+    "ua": "avlautr0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_848",
+    "en": "AVMsawr0.def",
+    "ua": "AVMsawr0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_849",
+    "en": "AVMorro0.def",
+    "ua": "AVMorro0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_850",
+    "en": "AVLdead2.def",
+    "ua": "AVLdead2.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_851",
+    "en": "AvTCave.def",
+    "ua": "AvTCave.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_852",
+    "en": "AVMwndd0.def",
+    "ua": "AVMwndd0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_853",
+    "en": "AVLct7r0.def",
+    "ua": "AVLct7r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_854",
+    "en": "adcfra.def",
+    "ua": "adcfra.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_855",
+    "en": "AVGgobl0.def",
+    "ua": "AVGgobl0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_856",
+    "en": "avlsh6r0.def",
+    "ua": "avlsh6r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_857",
+    "en": "AVLsh3r0.def",
+    "ua": "AVLsh3r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_858",
+    "en": "AVLroug1.def",
+    "ua": "AVLroug1.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_859",
+    "en": "AVLskul0.def",
+    "ua": "AVLskul0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_860",
+    "en": "AVWgobx0.def",
+    "ua": "AVWgobx0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_861",
+    "en": "AVWgobl0.def",
+    "ua": "AVWgobl0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_862",
+    "en": "AVTgold0.def",
+    "ua": "AVTgold0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_863",
+    "en": "AvLRR05.def",
+    "ua": "AvLRR05.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_864",
+    "en": "AVStmpl0.def",
+    "ua": "AVStmpl0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_865",
+    "en": "AVLr11r0.def",
+    "ua": "AVLr11r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_866",
+    "en": "avlsh9r0.def",
+    "ua": "avlsh9r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_867",
+    "en": "AVLct9r0.def",
+    "ua": "AVLct9r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_868",
+    "en": "AVGgdrg0.def",
+    "ua": "AVGgdrg0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_869",
+    "en": "AVWdrag0.def",
+    "ua": "AVWdrag0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_870",
+    "en": "AVSidol0.def",
+    "ua": "AVSidol0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_871",
+    "en": "avlbuzr0.def",
+    "ua": "avlbuzr0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_872",
+    "en": "AVGwolf0.def",
+    "ua": "AVGwolf0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_873",
+    "en": "AVTchst0.def",
+    "ua": "AVTchst0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_874",
+    "en": "AVLr02r0.def",
+    "ua": "AVLr02r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_875",
+    "en": "AVLoc4r0.def",
+    "ua": "AVLoc4r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_876",
+    "en": "AVWwolx0.def",
+    "ua": "AVWwolx0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_877",
+    "en": "AVWwolf0.def",
+    "ua": "AVWwolf0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_878",
+    "en": "AvWDFly.def",
+    "ua": "AvWDFly.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_879",
+    "en": "AVLswmp6.def",
+    "ua": "AVLswmp6.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_880",
+    "en": "AVGdfly0.def",
+    "ua": "AVGdfly0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_881",
+    "en": "AVLswmp0.def",
+    "ua": "AVLswmp0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_882",
+    "en": "AVLs08s0.def",
+    "ua": "AVLs08s0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_883",
+    "en": "AvWDFir.def",
+    "ua": "AvWDFir.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_884",
+    "en": "AVLs10s0.def",
+    "ua": "AVLs10s0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_885",
+    "en": "AVLswmp1.def",
+    "ua": "AVLswmp1.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_886",
+    "en": "AvWGrif.def",
+    "ua": "AvWGrif.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_887",
+    "en": "AVGgrff0.def",
+    "ua": "AVGgrff0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_888",
+    "en": "AVLSPTR6.def",
+    "ua": "AVLSPTR6.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_889",
+    "en": "AVLSPTR3.def",
+    "ua": "AVLSPTR3.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_890",
+    "en": "AVLSPTR4.def",
+    "ua": "AVLSPTR4.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_891",
+    "en": "AVWgrix0.def",
+    "ua": "AVWgrix0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_892",
+    "en": "AVLfl9d0.def",
+    "ua": "AVLfl9d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_893",
+    "en": "AVLsh5d0.def",
+    "ua": "AVLsh5d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_894",
+    "en": "AvLRD02.def",
+    "ua": "AvLRD02.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_895",
+    "en": "AVLpntr7.def",
+    "ua": "AVLpntr7.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_896",
+    "en": "AVLoc3d0.def",
+    "ua": "AVLoc3d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_897",
+    "en": "AVLoc1d0.def",
+    "ua": "AVLoc1d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_898",
+    "en": "AVLoc2d0.def",
+    "ua": "AVLoc2d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_899",
+    "en": "AvLRD01.def",
+    "ua": "AvLRD01.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_900",
+    "en": "AvLRD04.def",
+    "ua": "AvLRD04.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_901",
+    "en": "AVXl2sh0.def",
+    "ua": "AVXl2sh0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_902",
+    "en": "AVLr03r0.def",
+    "ua": "AVLr03r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_903",
+    "en": "AVTmyst0.def",
+    "ua": "AVTmyst0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_904",
+    "en": "AVSring0.def",
+    "ua": "AVSring0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_905",
+    "en": "AVXwelg0.def",
+    "ua": "AVXwelg0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_906",
+    "en": "AVSfntn0.def",
+    "ua": "AVSfntn0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_907",
+    "en": "AVLmd2r0.def",
+    "ua": "AVLmd2r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_908",
+    "en": "ah12_e.def",
+    "ua": "ah12_e.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_909",
+    "en": "AVLmd1r0.def",
+    "ua": "AVLmd1r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_910",
+    "en": "AVLrk3d0.def",
+    "ua": "AVLrk3d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_911",
+    "en": "AVSschm0.def",
+    "ua": "AVSschm0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_912",
+    "en": "AVLrk4s0.def",
+    "ua": "AVLrk4s0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_913",
+    "en": "AVLs01s0.def",
+    "ua": "AVLs01s0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_914",
+    "en": "AVLs06s0.def",
+    "ua": "AVLs06s0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_915",
+    "en": "AVLrk3s0.def",
+    "ua": "AVLrk3s0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_916",
+    "en": "AVLs09s0.def",
+    "ua": "AVLs09s0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_917",
+    "en": "AVLSPTR5.def",
+    "ua": "AVLSPTR5.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_918",
+    "en": "AVWorc0.def",
+    "ua": "AVWorc0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_919",
+    "en": "AVWroc0.def",
+    "ua": "AVWroc0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_920",
+    "en": "AVLmtvo3.def",
+    "ua": "AVLmtvo3.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_921",
+    "en": "AVLmtvo2.def",
+    "ua": "AVLmtvo2.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_922",
+    "en": "AVLmtvo4.def",
+    "ua": "AVLmtvo4.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_923",
+    "en": "AVLmtvo1.def",
+    "ua": "AVLmtvo1.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_924",
+    "en": "AVXccht0.def",
+    "ua": "AVXccht0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_925",
+    "en": "AVLklp20.def",
+    "ua": "AVLklp20.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_926",
+    "en": "AVLrk3w0.def",
+    "ua": "AVLrk3w0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_927",
+    "en": "AVWelmw0.def",
+    "ua": "AVWelmw0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_928",
+    "en": "AVGorcg0.def",
+    "ua": "AVGorcg0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_929",
+    "en": "AVWorcx0.def",
+    "ua": "AVWorcx0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_930",
+    "en": "AVGbhmt0.def",
+    "ua": "AVGbhmt0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_931",
+    "en": "AVWbhmx0.def",
+    "ua": "AVWbhmx0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_932",
+    "en": "AVLmtvo6.def",
+    "ua": "AVLmtvo6.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_933",
+    "en": "AVLmtvo5.def",
+    "ua": "AVLmtvo5.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_934",
+    "en": "AVLvol40.def",
+    "ua": "AVLvol40.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_935",
+    "en": "AVLlv200.def",
+    "ua": "AVLlv200.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_936",
+    "en": "AVLlv160.def",
+    "ua": "AVLlv160.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_937",
+    "en": "AVLlv210.def",
+    "ua": "AVLlv210.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_938",
+    "en": "AVGmant0.def",
+    "ua": "AVGmant0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_939",
+    "en": "AVLdead1.def",
+    "ua": "AVLdead1.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_940",
+    "en": "AVWogre0.def",
+    "ua": "AVWogre0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_941",
+    "en": "AVMcrrf0.def",
+    "ua": "AVMcrrf0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_942",
+    "en": "AVMgerf0.def",
+    "ua": "AVMgerf0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_943",
+    "en": "AVMsulf0.def",
+    "ua": "AVMsulf0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_944",
+    "en": "AVXmags0.def",
+    "ua": "AVXmags0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_945",
+    "en": "AVMalch0.def",
+    "ua": "AVMalch0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_946",
+    "en": "AVLglly0.def",
+    "ua": "AVLglly0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_947",
+    "en": "AVLrk5d0.def",
+    "ua": "AVLrk5d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_948",
+    "en": "AVLmd3r0.def",
+    "ua": "AVLmd3r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_949",
+    "en": "AVWmanx0.def",
+    "ua": "AVWmanx0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_950",
+    "en": "AVXschl0.def",
+    "ua": "AVXschl0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_951",
+    "en": "AVLr14r0.def",
+    "ua": "AVLr14r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_952",
+    "en": "AVLroug2.def",
+    "ua": "AVLroug2.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_953",
+    "en": "AVLca1r0.def",
+    "ua": "AVLca1r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_954",
+    "en": "AVLctrr0.def",
+    "ua": "AVLctrr0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_955",
+    "en": "AVGogre0.def",
+    "ua": "AVGogre0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_956",
+    "en": "AVWogrx0.def",
+    "ua": "AVWogrx0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_957",
+    "en": "AVWmant0.def",
+    "ua": "AVWmant0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_958",
+    "en": "AVWcycl0.def",
+    "ua": "AVWcycl0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_959",
+    "en": "AVSmerc0.def",
+    "ua": "AVSmerc0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_960",
+    "en": "AVLsptr7.def",
+    "ua": "AVLsptr7.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_961",
+    "en": "AVGtree0.def",
+    "ua": "AVGtree0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_962",
+    "en": "AVLSPTR0.def",
+    "ua": "AVLSPTR0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_963",
+    "en": "AVLSPTR1.def",
+    "ua": "AVLSPTR1.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_964",
+    "en": "AVWtrex0.def",
+    "ua": "AVWtrex0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_965",
+    "en": "AVLsh1d0.def",
+    "ua": "AVLsh1d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_966",
+    "en": "AVSgzbo0.def",
+    "ua": "AVSgzbo0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_967",
+    "en": "AVLdt1s0.def",
+    "ua": "AVLdt1s0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_968",
+    "en": "AVLSPTR2.def",
+    "ua": "AVLSPTR2.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_969",
+    "en": "AVWtree0.def",
+    "ua": "AVWtree0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_970",
+    "en": "AVAflot0.def",
+    "ua": "AVAflot0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_971",
+    "en": "muddelt3.def",
+    "ua": "muddelt3.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_972",
+    "en": "AVGcycl0.def",
+    "ua": "AVGcycl0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_973",
+    "en": "AVWcycx0.def",
+    "ua": "AVWcycx0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_974",
+    "en": "AVGrocs0.def",
+    "ua": "AVGrocs0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_975",
+    "en": "AVWrocx0.def",
+    "ua": "AVWrocx0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_976",
+    "en": "AVLr08r0.def",
+    "ua": "AVLr08r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_977",
+    "en": "AVLr12r0.def",
+    "ua": "AVLr12r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_978",
+    "en": "AVXskds0.def",
+    "ua": "AVXskds0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_979",
+    "en": "AVXtrek0.def",
+    "ua": "AVXtrek0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_980",
+    "en": "AVXfyth0.def",
+    "ua": "AVXfyth0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_981",
+    "en": "AVXhilg0.def",
+    "ua": "AVXhilg0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_982",
+    "en": "AVXhild0.def",
+    "ua": "AVXhild0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_983",
+    "en": "AVLsh2r0.def",
+    "ua": "AVLsh2r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_984",
+    "en": "AVXwtrh0.def",
+    "ua": "AVXwtrh0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_985",
+    "en": "AVLAUTR5.def",
+    "ua": "AVLAUTR5.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_986",
+    "en": "AVLf01g0.def",
+    "ua": "AVLf01g0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_987",
+    "en": "AVGgolm0.def",
+    "ua": "AVGgolm0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_988",
+    "en": "clrdelt3.def",
+    "ua": "clrdelt3.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_989",
+    "en": "AVTwagn0.def",
+    "ua": "AVTwagn0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_990",
+    "en": "AVXstbl0.def",
+    "ua": "AVXstbl0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_991",
+    "en": "AVXpstr0.def",
+    "ua": "AVXpstr0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_992",
+    "en": "AVXwelr0.def",
+    "ua": "AVXwelr0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_993",
+    "en": "AVLvol50.def",
+    "ua": "AVLvol50.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_994",
+    "en": "AVXl3sh0.def",
+    "ua": "AVXl3sh0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_995",
+    "en": "AVLvol10.def",
+    "ua": "AVLvol10.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_996",
+    "en": "AVMgovo0.def",
+    "ua": "AVMgovo0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_997",
+    "en": "AVXcflv0.def",
+    "ua": "AVXcflv0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_998",
+    "en": "AVWgolx0.def",
+    "ua": "AVWgolx0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_999",
+    "en": "AVLr09r0.def",
+    "ua": "AVLr09r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1000",
+    "en": "AVLroug0.def",
+    "ua": "AVLroug0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1001",
+    "en": "AVLr04r0.def",
+    "ua": "AVLr04r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1002",
+    "en": "AVLr15r0.def",
+    "ua": "AVLr15r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1003",
+    "en": "AVLtr2d0.def",
+    "ua": "AVLtr2d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1004",
+    "en": "AVSwtch0.def",
+    "ua": "AVSwtch0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1005",
+    "en": "AVLr10r0.def",
+    "ua": "AVLr10r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1006",
+    "en": "AvLRG04.def",
+    "ua": "AvLRG04.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1007",
+    "en": "AvLRG11.def",
+    "ua": "AvLRG11.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1008",
+    "en": "AvLRG01.def",
+    "ua": "AvLRG01.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1009",
+    "en": "AVSaxis0.def",
+    "ua": "AVSaxis0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1010",
+    "en": "AVLr13r0.def",
+    "ua": "AVLr13r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1011",
+    "en": "AVGsieg0.def",
+    "ua": "AVGsieg0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1012",
+    "en": "AVLr07r0.def",
+    "ua": "AVLr07r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1013",
+    "en": "AVLdead0.def",
+    "ua": "AVLdead0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1014",
+    "en": "AVWbhmt0.def",
+    "ua": "AVWbhmt0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1015",
+    "en": "avlsh5r0.def",
+    "ua": "avlsh5r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1016",
+    "en": "avlsh7r0.def",
+    "ua": "avlsh7r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1017",
+    "en": "AVSwar20.def",
+    "ua": "AVSwar20.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1018",
+    "en": "AvXAltar.def",
+    "ua": "AvXAltar.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1019",
+    "en": "AVTsulf0.def",
+    "ua": "AVTsulf0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1020",
+    "en": "AVMwwhl0.def",
+    "ua": "AVMwwhl0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1021",
+    "en": "AVTwood0.def",
+    "ua": "AVTwood0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1022",
+    "en": "AVTore0.def",
+    "ua": "AVTore0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1023",
+    "en": "AVLfl6d0.def",
+    "ua": "AVLfl6d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1024",
+    "en": "AvLdlog.def",
+    "ua": "AvLdlog.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1025",
+    "en": "AVWgolm0.def",
+    "ua": "AVWgolm0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1026",
+    "en": "avlautr1.def",
+    "ua": "avlautr1.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1027",
+    "en": "AVLct8r0.def",
+    "ua": "AVLct8r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1028",
+    "en": "AVLct3r0.def",
+    "ua": "AVLct3r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1029",
+    "en": "AVTcrys0.def",
+    "ua": "AVTcrys0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1030",
+    "en": "AVTgems0.def",
+    "ua": "AVTgems0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1031",
+    "en": "AvLRG08.def",
+    "ua": "AvLRG08.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1032",
+    "en": "AVTmerc0.def",
+    "ua": "AVTmerc0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1033",
+    "en": "AVSarna0.def",
+    "ua": "AVSarna0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1034",
+    "en": "AvLRG09.def",
+    "ua": "AvLRG09.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1035",
+    "en": "AVLct4r0.def",
+    "ua": "AVLct4r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1036",
+    "en": "AVSclvd0.def",
+    "ua": "AVSclvd0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1037",
+    "en": "AVLholr0.def",
+    "ua": "AVLholr0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1038",
+    "en": "AVLmd1d0.def",
+    "ua": "AVLmd1d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1039",
+    "en": "avlsh8r0.def",
+    "ua": "avlsh8r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1040",
+    "en": "AVLPNTR3.def",
+    "ua": "AVLPNTR3.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1041",
+    "en": "AVLrk4w0.def",
+    "ua": "AVLrk4w0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1042",
+    "en": "AVLrk2w0.def",
+    "ua": "AVLrk2w0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1043",
+    "en": "avlxro02.def",
+    "ua": "avlxro02.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1044",
+    "en": "AVLsh1r0.def",
+    "ua": "AVLsh1r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1045",
+    "en": "avlxro03.def",
+    "ua": "avlxro03.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1046",
+    "en": "avlxro01.def",
+    "ua": "avlxro01.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1047",
+    "en": "avlxro11.def",
+    "ua": "avlxro11.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1048",
+    "en": "avlxro06.def",
+    "ua": "avlxro06.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1049",
+    "en": "avlxro10.def",
+    "ua": "avlxro10.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1050",
+    "en": "avlxro04.def",
+    "ua": "avlxro04.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1051",
+    "en": "avlxro12.def",
+    "ua": "avlxro12.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1052",
+    "en": "avlxro07.def",
+    "ua": "avlxro07.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1053",
+    "en": "AVLtr1d0.def",
+    "ua": "AVLtr1d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1054",
+    "en": "AvLRG06.def",
+    "ua": "AvLRG06.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1055",
+    "en": "AVLswp50.def",
+    "ua": "AVLswp50.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1056",
+    "en": "AVLmtgn4.def",
+    "ua": "AVLmtgn4.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1057",
+    "en": "AVLmtgn3.def",
+    "ua": "AVLmtgn3.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1058",
+    "en": "AVLmtgn0.def",
+    "ua": "AVLmtgn0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1059",
+    "en": "AVLmtgr6.def",
+    "ua": "AVLmtgr6.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1060",
+    "en": "AVLmtgn5.def",
+    "ua": "AVLmtgn5.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1061",
+    "en": "AVLlk2d0.def",
+    "ua": "AVLlk2d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1062",
+    "en": "avlmtdr8.def",
+    "ua": "avlmtdr8.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1063",
+    "en": "AVLtRo06.def",
+    "ua": "AVLtRo06.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1064",
+    "en": "AVLtRo03.def",
+    "ua": "AVLtRo03.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1065",
+    "en": "AVLyuc10.def",
+    "ua": "AVLyuc10.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1066",
+    "en": "avlxgr07.def",
+    "ua": "avlxgr07.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1067",
+    "en": "avlxgr01.def",
+    "ua": "avlxgr01.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1068",
+    "en": "avlsh4r0.def",
+    "ua": "avlsh4r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1069",
+    "en": "AVLtRo04.def",
+    "ua": "AVLtRo04.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1070",
+    "en": "AVLtrRo5.def",
+    "ua": "AVLtrRo5.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1071",
+    "en": "AVLtrRo0.def",
+    "ua": "AVLtrRo0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1072",
+    "en": "avlxro08.def",
+    "ua": "avlxro08.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1073",
+    "en": "avlxro05.def",
+    "ua": "avlxro05.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1074",
+    "en": "AVLtRo01.def",
+    "ua": "AVLtRo01.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1075",
+    "en": "avlxro09.def",
+    "ua": "avlxro09.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1076",
+    "en": "AvXRedW.def",
+    "ua": "AvXRedW.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1077",
+    "en": "AVLct1r0.def",
+    "ua": "AVLct1r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1078",
+    "en": "AVLtrRo3.def",
+    "ua": "AVLtrRo3.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1079",
+    "en": "AVMgorf0.def",
+    "ua": "AVMgorf0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1080",
+    "en": "AVLct5r0.def",
+    "ua": "AVLct5r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1081",
+    "en": "AVLyuc30.def",
+    "ua": "AVLyuc30.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1082",
+    "en": "AVLtrRo6.def",
+    "ua": "AVLtrRo6.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1083",
+    "en": "AVLtrRo4.def",
+    "ua": "AVLtrRo4.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1084",
+    "en": "AVLtrRo2.def",
+    "ua": "AVLtrRo2.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1085",
+    "en": "AVLtrRo1.def",
+    "ua": "AVLtrRo1.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1086",
+    "en": "AVLyuc20.def",
+    "ua": "AVLyuc20.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1087",
+    "en": "AVLoc2r0.def",
+    "ua": "AVLoc2r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1088",
+    "en": "AVLlv150.def",
+    "ua": "AVLlv150.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1089",
+    "en": "AVLlv170.def",
+    "ua": "AVLlv170.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1090",
+    "en": "AVLlav70.def",
+    "ua": "AVLlav70.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1091",
+    "en": "AVLlv100.def",
+    "ua": "AVLlv100.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1092",
+    "en": "AVLlv240.def",
+    "ua": "AVLlv240.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1093",
+    "en": "AVLlv140.def",
+    "ua": "AVLlv140.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1094",
+    "en": "AVLholl0.def",
+    "ua": "AVLholl0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1095",
+    "en": "AVLvol30.def",
+    "ua": "AVLvol30.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1096",
+    "en": "AVLc14l0.def",
+    "ua": "AVLc14l0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1097",
+    "en": "avlxdt04.def",
+    "ua": "avlxdt04.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1098",
+    "en": "avlxdt03.def",
+    "ua": "avlxdt03.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1099",
+    "en": "AVXsnsw0.def",
+    "ua": "AVXsnsw0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1100",
+    "en": "AVXsndg0.def",
+    "ua": "AVXsndg0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1101",
+    "en": "AVWhoun0.def",
+    "ua": "AVWhoun0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1102",
+    "en": "AVWhoux0.def",
+    "ua": "AVWhoux0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1103",
+    "en": "AVXsnlv0.def",
+    "ua": "AVXsnlv0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1104",
+    "en": "AVXsnds0.def",
+    "ua": "AVXsnds0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1105",
+    "en": "AVLca2r0.def",
+    "ua": "AVLca2r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1106",
+    "en": "AvLRR01.def",
+    "ua": "AvLRR01.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1107",
+    "en": "AVLr06r0.def",
+    "ua": "AVLr06r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1108",
+    "en": "avlxro04.def",
+    "ua": "avlxro04.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1109",
+    "en": "AVXkey00.def",
+    "ua": "AVXkey00.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1110",
+    "en": "avlswtr1.def",
+    "ua": "avlswtr1.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1111",
+    "en": "avlswtr0.def",
+    "ua": "avlswtr0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1112",
+    "en": "avlswtr3.def",
+    "ua": "avlswtr3.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1113",
+    "en": "avlswtr2.def",
+    "ua": "avlswtr2.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1114",
+    "en": "avlswt03.def",
+    "ua": "avlswt03.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1115",
+    "en": "AVTrndm0.def",
+    "ua": "AVTrndm0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1116",
+    "en": "AVLtRo02.def",
+    "ua": "AVLtRo02.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1117",
+    "en": "AVLtRo00.def",
+    "ua": "AVLtRo00.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1118",
+    "en": "avlxdt05.def",
+    "ua": "avlxdt05.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1119",
+    "en": "avlxdt11.def",
+    "ua": "avlxdt11.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1120",
+    "en": "AVLct1d0.def",
+    "ua": "AVLct1d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1121",
+    "en": "AVLsh8d0.def",
+    "ua": "AVLsh8d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1122",
+    "en": "AVXbnk20.def",
+    "ua": "AVXbnk20.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1123",
+    "en": "AvSMarl.def",
+    "ua": "AvSMarl.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1124",
+    "en": "avlxgr04.def",
+    "ua": "avlxgr04.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1125",
+    "en": "avlxgr10.def",
+    "ua": "avlxgr10.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1126",
+    "en": "avlxgr12.def",
+    "ua": "avlxgr12.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1127",
+    "en": "AVLwlw20.def",
+    "ua": "AVLwlw20.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1128",
+    "en": "avlxgr03.def",
+    "ua": "avlxgr03.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1129",
+    "en": "avlxgr06.def",
+    "ua": "avlxgr06.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1130",
+    "en": "avlxgr11.def",
+    "ua": "avlxgr11.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1131",
+    "en": "avlxgr05.def",
+    "ua": "avlxgr05.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1132",
+    "en": "AVLpntr6.def",
+    "ua": "AVLpntr6.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1133",
+    "en": "avlxdt02.def",
+    "ua": "avlxdt02.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1134",
+    "en": "avlxdt06.def",
+    "ua": "avlxdt06.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1135",
+    "en": "avlxdt07.def",
+    "ua": "avlxdt07.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1136",
+    "en": "avlxdt08.def",
+    "ua": "avlxdt08.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1137",
+    "en": "AVLsh7d0.def",
+    "ua": "AVLsh7d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1138",
+    "en": "AvLStm2.def",
+    "ua": "AvLStm2.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1139",
+    "en": "AvLStm3.def",
+    "ua": "AvLStm3.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1140",
+    "en": "avlxdt00.def",
+    "ua": "avlxdt00.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1141",
+    "en": "AVSclvg0.def",
+    "ua": "AVSclvg0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1142",
+    "en": "AHplace.def",
+    "ua": "AHplace.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1143",
+    "en": "AVGhell0.def",
+    "ua": "AVGhell0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1144",
+    "en": "AVLman50.def",
+    "ua": "AVLman50.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1145",
+    "en": "AvWMeds.def",
+    "ua": "AvWMeds.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1146",
+    "en": "AVWddrx0.def",
+    "ua": "AVWddrx0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1147",
+    "en": "AVGmdsa0.def",
+    "ua": "AVGmdsa0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1148",
+    "en": "AVWmedx0.def",
+    "ua": "AVWmedx0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1149",
+    "en": "AVLms070.def",
+    "ua": "AVLms070.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1150",
+    "en": "AVLms050.def",
+    "ua": "AVLms050.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1151",
+    "en": "AVLms040.def",
+    "ua": "AVLms040.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1152",
+    "en": "AVLms020.def",
+    "ua": "AVLms020.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1153",
+    "en": "AVLct1u0.def",
+    "ua": "AVLct1u0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1154",
+    "en": "AVLmtsb4.def",
+    "ua": "AVLmtsb4.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1155",
+    "en": "AVLmtsb3.def",
+    "ua": "AVLmtsb3.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1156",
+    "en": "AVLmtsb5.def",
+    "ua": "AVLmtsb5.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1157",
+    "en": "AVLr07u0.def",
+    "ua": "AVLr07u0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1158",
+    "en": "AVLr05u0.def",
+    "ua": "AVLr05u0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1159",
+    "en": "AVLr06u0.def",
+    "ua": "AVLr06u0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1160",
+    "en": "AVLr08u0.def",
+    "ua": "AVLr08u0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1161",
+    "en": "AVLms080.def",
+    "ua": "AVLms080.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1162",
+    "en": "You save a swamp dweller from a couple of Dragonflies, in gratitude he gives you his spare axe.",
+    "ua": "В подяку за порятунок від летучих зміїв мандрівник дарує вам один зі своїх трофеїв.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1163",
+    "en": "You find a small Griffin's lair containing an axe and some eggs.",
+    "ua": "У гнізді грифона ви знаходите декілька яєць і сокиру.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1164",
+    "en": "You find an old barbarian in a cave and share some food and stories with him. In exchange for your hospitality he gives you his old (but extremely well made) shield.",
+    "ua": "Зустрівши в печері старого варвара, ви ділитеся з ним припасами та бойовими історіями. У подяку за гостинність він дарує вам древній, але дуже майстерно зроблений щит.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1165",
+    "en": "An old speculum lies half-buried in the sand.",
+    "ua": "Ви знаходите в пісках древній телескоп.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1166",
+    "en": "A strange man dressed in black throws an amulet to you, bows and then vanishes.",
+    "ua": "Дивакуватий незнайомець, одягнений в усе чорне, дарує вам амулет, кланяється і зникає.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1167",
+    "en": "It looks like a careless vampire left this lying about.",
+    "ua": "Схоже цей предмет забув якийсь розсіяний вампір.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1168",
+    "en": "Do not feed the Dragonflies.",
+    "ua": "Годувати зміємух заборонено!",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1169",
+    "en": "Use of \"Live\" wood in a campfire is prohibited.",
+    "ua": "Забороняється розводити вогнища з дендроідів!",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1170",
+    "en": "Beware of Dog.",
+    "ua": "Увага, злий пес!",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1171",
+    "en": "Cyclops area...always keep one eye open.",
+    "ua": "Тут живуть циклопи... Бажаєте глянути одним оком?",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1172",
+    "en": "Manticores and Scorpicores, beware the sting! Armor is always a good repellent.",
+    "ua": "Бійтеся жал мантикор і скорпікор! Хороша броня вам не завадить.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1173",
+    "en": "Behemoth area, if you stand really still they might not attack.",
+    "ua": "Тут живуть чудовиська. Не рухайтеся, і вони не нападуть. Напевно.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1174",
+    "en": "Griffin area, watch it, for they are known to eat horses.",
+    "ua": "Прямо підеш - коня втратиш. Грифони полюбляють конину!",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1175",
+    "en": "Orc tribe Kismit, intruders are neither welcome nor tolerated.",
+    "ua": "Орче плем'я Кісміт не потерпить вторгнення загарбників!",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1176",
+    "en": "The Wolf Riders of Threth welcome you to your doom.",
+    "ua": "Наїзники на вовках з племені Трет викликають тебе на бій!",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1177",
+    "en": "You are now in the territory of the Goblin tribe named Utopia. \"We eat Barbarians for breakfast\" is their motto.",
+    "ua": "Ви вдерлись на землі гоблінів із плем'я Утопія. Наш девіз: \"З'їж зранку варвара, і цілий день вільний!\"",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1178",
+    "en": "Beware of Dog.",
+    "ua": "Увага, злий пес!",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1179",
+    "en": "Ogre tribe \"Plith\" welcomes you..",
+    "ua": "Ороче плем'я Плит вітає тебе.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1180",
+    "en": "An old retired warrior decides to give you one of his spare axes.",
+    "ua": "Старий ветеран дарує вам одну зі своїх запасних сокир.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1181",
+    "en": "A note on the boots reads:  \"Dead men tell no tales\".",
+    "ua": "В чоботах лежить записка: \"Мертві не кусаються\".",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1182",
+    "en": "The vein of crystal you find seems especially thick.",
+    "ua": "Обережно! Жіночий погляд може бути смертельно небезпечним.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1183",
+    "en": "Beware! A woman's gaze can be deadly.",
+    "ua": null,
+    "aligned": false
+  },
+  {
+    "var": "FESTIVAL_1184",
+    "en": "Lieutenants",
+    "ua": "Lieutenants",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1185",
+    "en": "To prove your leadership three lieutenants are given for your command.  Use them wisely for they are the key to clearing this area.  You have been given four months to complete the task so do not waste any time!  Good hunting and good luck!",
+    "ua": "У ваше розпорядження надходять три герої-генерали. Вони - ключ до контролю над цими землями, то ж розпорядиться ними мудро. На виконання завдання відводиться всього чотири місяці, тому не втрачайте жодного дня. Успіху в бою!",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1186",
+    "en": "Scout report1.",
+    "ua": "Scout report1.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1187",
+    "en": "Scouts report there are many areas that have one type of creature: from Griffins to Wolf-Riders and many more.  The scouts seem to think, by the looks of it, that none of these creatures seem likely to join your army.  All of them seem truly \"wild.\"",
+    "ua": "Розвідники повідомляють, що в різних куточках цієї країни водяться різні істоти, причому родичі тримаються поблизу один від одного - грифони з грифонами, гобліни з гоблінами, і так далі. Схоже, ніхто з них не згоден приєднатися до вашої армії. Всі вони налаштовані люто і готові до битви.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1188",
+    "en": "Scout report 2.",
+    "ua": "Scout report 2.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1189",
+    "en": "Scouts report the three lieutenants seem to be trapped in their area by a border guard who wants the correct orders to let them pass.  Its up to you to find those orders.",
+    "ua": "Наші вивідачі доповідають, що три генерали не можуть пройти через вежу Прикордонної варта, не віддавши правильний наказ. Ваше завдання - дізнатися, що це за наказ.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1190",
+    "en": "Razor Claw",
+    "ua": "Гострозуб",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1191",
+    "en": "The task of killing Razor Claw has been given to you.  Prove yourself and defeat the Ancient Behemoth in three months or lose your chance at becoming King.  If Kilgor is lost then his chance to become king ends also.  Kilgor is limited to twelfth level.\n",
+    "ua": null,
+    "aligned": false
+  },
+  {
+    "var": "FESTIVAL_1192",
+    "en": "Kilgor",
+    "ua": null,
+    "aligned": false
+  },
+  {
+    "var": "FESTIVAL_1193",
+    "en": "Kilgor",
+    "ua": null,
+    "aligned": false
+  },
+  {
+    "var": "FESTIVAL_1194",
+    "en": "Spirits of the behemoth's victims.",
+    "ua": "Spirits of the behemoth's victims.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1195",
+    "en": "It is said that the spirits of Razor Claw's past victims still roam his lair.",
+    "ua": "Подейкують, що духи жертв Гострозуба відвідують його володіння.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1196",
+    "en": "Underground",
+    "ua": "Underground",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1197",
+    "en": "Its rumored that Razor Claw lairs underground and keeps dragons as guard dogs.",
+    "ua": "Кажуть, що Гострозуб ховається в підземеллях і використовує драконів як сторожових собак.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1198",
+    "en": "Razor Claw with family.",
+    "ua": "Razor Claw with family.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1199",
+    "en": "Its rumored that Razor Claw sometimes hangs out with his family (a dozen other Behemoths), and sometimes he has Black Dragons as pets.",
+    "ua": "Подейкують, що Гострозуб частенько робить прогулянки в супроводі своїх родичів - дюжини чудовиськ або улюбленців - чорних драконів.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1200",
+    "en": "AVWmrnd0.def",
+    "ua": "AVWmrnd0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1201",
+    "en": "AVLholg0.def",
+    "ua": "AVLholg0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1202",
+    "en": "avlmtrf1.def",
+    "ua": "avlmtrf1.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1203",
+    "en": "avlmtrf2.def",
+    "ua": "avlmtrf2.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1204",
+    "en": "avlbuzr0.def",
+    "ua": "avlbuzr0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1205",
+    "en": "avlmtrf3.def",
+    "ua": "avlmtrf3.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1206",
+    "en": "avlmtrf4.def",
+    "ua": "avlmtrf4.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1207",
+    "en": "avlmtrf6.def",
+    "ua": "avlmtrf6.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1208",
+    "en": "AVLct6r0.def",
+    "ua": "AVLct6r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1209",
+    "en": "AVLmd1r0.def",
+    "ua": "AVLmd1r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1210",
+    "en": "AVLAUTR3.def",
+    "ua": "AVLAUTR3.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1211",
+    "en": "AVLautr7.def",
+    "ua": "AVLautr7.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1212",
+    "en": "avlmtrf5.def",
+    "ua": "avlmtrf5.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1213",
+    "en": "AVLAUTR2.def",
+    "ua": "AVLAUTR2.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1214",
+    "en": "AVLAUTR4.def",
+    "ua": "AVLAUTR4.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1215",
+    "en": "AVLautr6.def",
+    "ua": "AVLautr6.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1216",
+    "en": "AVLr02r0.def",
+    "ua": "AVLr02r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1217",
+    "en": "AVCstrx0.def",
+    "ua": "AVCstrx0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1218",
+    "en": "AVXboat1.def",
+    "ua": "AVXboat1.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1219",
+    "en": "AVXwhrl0.def",
+    "ua": "AVXwhrl0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1220",
+    "en": "AVLref20.def",
+    "ua": "AVLref20.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1221",
+    "en": "AVLroug0.def",
+    "ua": "AVLroug0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1222",
+    "en": "avlautr0.def",
+    "ua": "avlautr0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1223",
+    "en": "AVWrocx0.def",
+    "ua": "AVWrocx0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1224",
+    "en": "AVWcycx0.def",
+    "ua": "AVWcycx0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1225",
+    "en": "AVWogrx0.def",
+    "ua": "AVWogrx0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1226",
+    "en": "AVXmn1b0.def",
+    "ua": "AVXmn1b0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1227",
+    "en": "AVXmx1b0.def",
+    "ua": "AVXmx1b0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1228",
+    "en": "AVLr09r0.def",
+    "ua": "AVLr09r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1229",
+    "en": "AVLoc2r0.def",
+    "ua": "AVLoc2r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1230",
+    "en": "AVLoc3r0.def",
+    "ua": "AVLoc3r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1231",
+    "en": "AVWwolx0.def",
+    "ua": "AVWwolx0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1232",
+    "en": "AVSmerc0.def",
+    "ua": "AVSmerc0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1233",
+    "en": "AVTgold0.def",
+    "ua": "AVTgold0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1234",
+    "en": "AVWorcx0.def",
+    "ua": "AVWorcx0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1235",
+    "en": "AVMorro0.def",
+    "ua": "AVMorro0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1236",
+    "en": "AVMsawr0.def",
+    "ua": "AVMsawr0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1237",
+    "en": "AVMcrrf0.def",
+    "ua": "AVMcrrf0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1238",
+    "en": "AVWgobx0.def",
+    "ua": "AVWgobx0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1239",
+    "en": "AVLr11r0.def",
+    "ua": "AVLr11r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1240",
+    "en": "AVLr08r0.def",
+    "ua": "AVLr08r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1241",
+    "en": "AVSwtch0.def",
+    "ua": "AVSwtch0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1242",
+    "en": "AVLroug2.def",
+    "ua": "AVLroug2.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1243",
+    "en": "avlsh6r0.def",
+    "ua": "avlsh6r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1244",
+    "en": "AVTchst0.def",
+    "ua": "AVTchst0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1245",
+    "en": "AVTcrys0.def",
+    "ua": "AVTcrys0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1246",
+    "en": "AvLRR05.def",
+    "ua": "AvLRR05.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1247",
+    "en": "AVLfl6d0.def",
+    "ua": "AVLfl6d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1248",
+    "en": "AVLglly0.def",
+    "ua": "AVLglly0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1249",
+    "en": "AVLct9r0.def",
+    "ua": "AVLct9r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1250",
+    "en": "AVLdead1.def",
+    "ua": "AVLdead1.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1251",
+    "en": "AVLdead7.def",
+    "ua": "AVLdead7.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1252",
+    "en": "AVGgobl0.def",
+    "ua": "AVGgobl0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1253",
+    "en": "AVTwood0.def",
+    "ua": "AVTwood0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1254",
+    "en": "AVTore0.def",
+    "ua": "AVTore0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1255",
+    "en": "AVLdead2.def",
+    "ua": "AVLdead2.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1256",
+    "en": "AVLdead6.def",
+    "ua": "AVLdead6.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1257",
+    "en": "AVXl1sh0.def",
+    "ua": "AVXl1sh0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1258",
+    "en": "adcfra.def",
+    "ua": "adcfra.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1259",
+    "en": "AVMgorf0.def",
+    "ua": "AVMgorf0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1260",
+    "en": "AVWorc0.def",
+    "ua": "AVWorc0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1261",
+    "en": "AVTsulf0.def",
+    "ua": "AVTsulf0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1262",
+    "en": "AVTgems0.def",
+    "ua": "AVTgems0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1263",
+    "en": "AVTmerc0.def",
+    "ua": "AVTmerc0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1264",
+    "en": "AVGwolf0.def",
+    "ua": "AVGwolf0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1265",
+    "en": "AVXwtrh0.def",
+    "ua": "AVXwtrh0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1266",
+    "en": "AVXbnk70.def",
+    "ua": "AVXbnk70.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1267",
+    "en": "AVLdead5.def",
+    "ua": "AVLdead5.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1268",
+    "en": "AVLdead0.def",
+    "ua": "AVLdead0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1269",
+    "en": "AVLdead4.def",
+    "ua": "AVLdead4.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1270",
+    "en": "AVLdead3.def",
+    "ua": "AVLdead3.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1271",
+    "en": "AVXskds0.def",
+    "ua": "AVXskds0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1272",
+    "en": "AVMwndd0.def",
+    "ua": "AVMwndd0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1273",
+    "en": "AVGsieg0.def",
+    "ua": "AVGsieg0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1274",
+    "en": "AVSaxis0.def",
+    "ua": "AVSaxis0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1275",
+    "en": "AVMwwhl0.def",
+    "ua": "AVMwwhl0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1276",
+    "en": "AVMgerf0.def",
+    "ua": "AVMgerf0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1277",
+    "en": "AVWwolf0.def",
+    "ua": "AVWwolf0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1278",
+    "en": "AVTwagn0.def",
+    "ua": "AVTwagn0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1279",
+    "en": "AVXsnds0.def",
+    "ua": "AVXsnds0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1280",
+    "en": "AvSMarl.def",
+    "ua": "AvSMarl.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1281",
+    "en": "AVWogre0.def",
+    "ua": "AVWogre0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1282",
+    "en": "AVLct8r0.def",
+    "ua": "AVLct8r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1283",
+    "en": "AVGcycl0.def",
+    "ua": "AVGcycl0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1284",
+    "en": "AVLmd2r0.def",
+    "ua": "AVLmd2r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1285",
+    "en": "AVMsulf0.def",
+    "ua": "AVMsulf0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1286",
+    "en": "AVLr04r0.def",
+    "ua": "AVLr04r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1287",
+    "en": "AVLr10r0.def",
+    "ua": "AVLr10r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1288",
+    "en": "AVSwar20.def",
+    "ua": "AVSwar20.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1289",
+    "en": "AVWswrd0.def",
+    "ua": "AVWswrd0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1290",
+    "en": "AVXl2sh0.def",
+    "ua": "AVXl2sh0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1291",
+    "en": "AVWcycl0.def",
+    "ua": "AVWcycl0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1292",
+    "en": "AVXschl0.def",
+    "ua": "AVXschl0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1293",
+    "en": "AVWroc0.def",
+    "ua": "AVWroc0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1294",
+    "en": "AVGogre0.def",
+    "ua": "AVGogre0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1295",
+    "en": "AVSidol0.def",
+    "ua": "AVSidol0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1296",
+    "en": "AVXmags0.def",
+    "ua": "AVXmags0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1297",
+    "en": "AVLr15r0.def",
+    "ua": "AVLr15r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1298",
+    "en": "AVLr12r0.def",
+    "ua": "AVLr12r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1299",
+    "en": "AVLvol50.def",
+    "ua": "AVLvol50.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1300",
+    "en": "AVLlav80.def",
+    "ua": "AVLlav80.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1301",
+    "en": "AVLlv120.def",
+    "ua": "AVLlv120.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1302",
+    "en": "AVLlv200.def",
+    "ua": "AVLlv200.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1303",
+    "en": "AVGrefg0.def",
+    "ua": "AVGrefg0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1304",
+    "en": "AVGorcg0.def",
+    "ua": "AVGorcg0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1305",
+    "en": "AVLr14r0.def",
+    "ua": "AVLr14r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1306",
+    "en": "avlsh9r0.def",
+    "ua": "avlsh9r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1307",
+    "en": "AVSarna0.def",
+    "ua": "AVSarna0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1308",
+    "en": "AVWefre0.def",
+    "ua": "AVWefre0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1309",
+    "en": "AVLmtvo4.def",
+    "ua": "AVLmtvo4.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1310",
+    "en": "AVLmtvo6.def",
+    "ua": "AVLmtvo6.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1311",
+    "en": "AVLmtvo5.def",
+    "ua": "AVLmtvo5.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1312",
+    "en": "AVLmtvo3.def",
+    "ua": "AVLmtvo3.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1313",
+    "en": "AVLr06r0.def",
+    "ua": "AVLr06r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1314",
+    "en": "AVLoc1r0.def",
+    "ua": "AVLoc1r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1315",
+    "en": "AVLr03r0.def",
+    "ua": "AVLr03r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1316",
+    "en": "AVWswrx0.def",
+    "ua": "AVWswrx0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1317",
+    "en": "AVGrocs0.def",
+    "ua": "AVGrocs0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1318",
+    "en": "AVLskul0.def",
+    "ua": "AVLskul0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1319",
+    "en": "AVXrlly0.def",
+    "ua": "AVXrlly0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1320",
+    "en": "AVLroug1.def",
+    "ua": "AVLroug1.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1321",
+    "en": "AVXstbl0.def",
+    "ua": "AVXstbl0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1322",
+    "en": "AvXAltar.def",
+    "ua": "AvXAltar.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1323",
+    "en": "AvLStm3.def",
+    "ua": "AvLStm3.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1324",
+    "en": "AVLct5r0.def",
+    "ua": "AVLct5r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1325",
+    "en": "AVLca1r0.def",
+    "ua": "AVLca1r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1326",
+    "en": "AVStmpl0.def",
+    "ua": "AVStmpl0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1327",
+    "en": "AVXwelr0.def",
+    "ua": "AVXwelr0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1328",
+    "en": "AVXbnk20.def",
+    "ua": "AVXbnk20.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1329",
+    "en": "AVLr07r0.def",
+    "ua": "AVLr07r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1330",
+    "en": "AVZevnt0.def",
+    "ua": "AVZevnt0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1331",
+    "en": "AVLca2r0.def",
+    "ua": "AVLca2r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1332",
+    "en": "AVXcrsd0.def",
+    "ua": "AVXcrsd0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1333",
+    "en": "AVWwigx0.def",
+    "ua": "AVWwigx0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1334",
+    "en": "AVLct9l0.def",
+    "ua": "AVLct9l0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1335",
+    "en": "AVLfl7d0.def",
+    "ua": "AVLfl7d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1336",
+    "en": "avlsh7r0.def",
+    "ua": "avlsh7r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1337",
+    "en": "AVLref10.def",
+    "ua": "AVLref10.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1338",
+    "en": "AVWelmw0.def",
+    "ua": "AVWelmw0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1339",
+    "en": "AVAflot0.def",
+    "ua": "AVAflot0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1340",
+    "en": "AVLref30.def",
+    "ua": "AVLref30.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1341",
+    "en": "AVLrk1w0.def",
+    "ua": "AVLrk1w0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1342",
+    "en": "AVLref40.def",
+    "ua": "AVLref40.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1343",
+    "en": "AVLrk4w0.def",
+    "ua": "AVLrk4w0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1344",
+    "en": "AVAdlic0.def",
+    "ua": "AVAdlic0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1345",
+    "en": "AVSbuoy0.def",
+    "ua": "AVSbuoy0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1346",
+    "en": "AVLklp20.def",
+    "ua": "AVLklp20.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1347",
+    "en": "AVXmerm0.def",
+    "ua": "AVXmerm0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1348",
+    "en": "AVXsirn0.def",
+    "ua": "AVXsirn0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1349",
+    "en": "AVXccht0.def",
+    "ua": "AVXccht0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1350",
+    "en": "AVLrk2w0.def",
+    "ua": "AVLrk2w0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1351",
+    "en": "avlsh5r0.def",
+    "ua": "avlsh5r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1352",
+    "en": "AvTCave.def",
+    "ua": "AvTCave.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1353",
+    "en": "AVXbnk10.def",
+    "ua": "AVXbnk10.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1354",
+    "en": "avlsh4r0.def",
+    "ua": "avlsh4r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1355",
+    "en": "AVXpstr0.def",
+    "ua": "AVXpstr0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1356",
+    "en": "AVXtrek0.def",
+    "ua": "AVXtrek0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1357",
+    "en": "AvLdlog.def",
+    "ua": "AvLdlog.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1358",
+    "en": "AVLref60.def",
+    "ua": "AVLref60.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1359",
+    "en": "AVXmapw0.def",
+    "ua": "AVXmapw0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1360",
+    "en": "AVLholr0.def",
+    "ua": "AVLholr0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1361",
+    "en": "AVXcfds0.def",
+    "ua": "AVXcfds0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1362",
+    "en": "AVXgyds0.def",
+    "ua": "AVXgyds0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1363",
+    "en": "AVLct4r0.def",
+    "ua": "AVLct4r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1364",
+    "en": "AVLct7r0.def",
+    "ua": "AVLct7r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1365",
+    "en": "AVWzomx0.def",
+    "ua": "AVWzomx0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1366",
+    "en": "AVXhilg0.def",
+    "ua": "AVXhilg0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1367",
+    "en": "AVSfntn0.def",
+    "ua": "AVSfntn0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1368",
+    "en": "avlxro02.def",
+    "ua": "avlxro02.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1369",
+    "en": "AVXhutm0.def",
+    "ua": "AVXhutm0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1370",
+    "en": "AVXeyem0.def",
+    "ua": "AVXeyem0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1371",
+    "en": "avlxro03.def",
+    "ua": "avlxro03.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1372",
+    "en": "avlxds05.def",
+    "ua": "avlxds05.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1373",
+    "en": "avlxds03.def",
+    "ua": "avlxds03.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1374",
+    "en": "AVLtrRo1.def",
+    "ua": "AVLtrRo1.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1375",
+    "en": "AVLtrRo0.def",
+    "ua": "AVLtrRo0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1376",
+    "en": "AVLtrRo2.def",
+    "ua": "AVLtrRo2.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1377",
+    "en": "AVLtrRo4.def",
+    "ua": "AVLtrRo4.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1378",
+    "en": "AVLlk1d0.def",
+    "ua": "AVLlk1d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1379",
+    "en": "AVLtrRo3.def",
+    "ua": "AVLtrRo3.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1380",
+    "en": "avlxro08.def",
+    "ua": "avlxro08.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1381",
+    "en": "AVLsh2d0.def",
+    "ua": "AVLsh2d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1382",
+    "en": "AVLsh4d0.def",
+    "ua": "AVLsh4d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1383",
+    "en": "avlxro06.def",
+    "ua": "avlxro06.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1384",
+    "en": "avlxro01.def",
+    "ua": "avlxro01.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1385",
+    "en": "AVLca050.def",
+    "ua": "AVLca050.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1386",
+    "en": "AVLca080.def",
+    "ua": "AVLca080.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1387",
+    "en": "AVLca110.def",
+    "ua": "AVLca110.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1388",
+    "en": "AVLtRo08.def",
+    "ua": "AVLtRo08.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1389",
+    "en": "AVLtRo05.def",
+    "ua": "AVLtRo05.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1390",
+    "en": "avlxro09.def",
+    "ua": "avlxro09.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1391",
+    "en": "avlxro07.def",
+    "ua": "avlxro07.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1392",
+    "en": "avlxro11.def",
+    "ua": "avlxro11.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1393",
+    "en": "AVLtrRo6.def",
+    "ua": "AVLtrRo6.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1394",
+    "en": "AVLca070.def",
+    "ua": "AVLca070.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1395",
+    "en": "AVLct3r0.def",
+    "ua": "AVLct3r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1396",
+    "en": "AVLct1r0.def",
+    "ua": "AVLct1r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1397",
+    "en": "AVLca040.def",
+    "ua": "AVLca040.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1398",
+    "en": "AVLsh7d0.def",
+    "ua": "AVLsh7d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1399",
+    "en": "AVLct2r0.def",
+    "ua": "AVLct2r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1400",
+    "en": "AVLtrRo5.def",
+    "ua": "AVLtrRo5.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1401",
+    "en": "AVLca030.def",
+    "ua": "AVLca030.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1402",
+    "en": "AVLca010.def",
+    "ua": "AVLca010.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1403",
+    "en": "avlxro10.def",
+    "ua": "avlxro10.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1404",
+    "en": "AVLtRo01.def",
+    "ua": "AVLtRo01.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1405",
+    "en": "AVLtRo07.def",
+    "ua": "AVLtRo07.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1406",
+    "en": "AVLklp10.def",
+    "ua": "AVLklp10.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1407",
+    "en": "AVLsh3d0.def",
+    "ua": "AVLsh3d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1408",
+    "en": "AVLsh6d0.def",
+    "ua": "AVLsh6d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1409",
+    "en": "AVLmtgr3.def",
+    "ua": "AVLmtgr3.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1410",
+    "en": "AVLmtgr4.def",
+    "ua": "AVLmtgr4.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1411",
+    "en": "AVLsh3r0.def",
+    "ua": "AVLsh3r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1412",
+    "en": "avlxds04.def",
+    "ua": "avlxds04.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1413",
+    "en": "AVLdun10.def",
+    "ua": "AVLdun10.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1414",
+    "en": "AVLca130.def",
+    "ua": "AVLca130.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1415",
+    "en": "avlswt01.def",
+    "ua": "avlswt01.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1416",
+    "en": "avlswt00.def",
+    "ua": "avlswt00.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1417",
+    "en": "avlxds06.def",
+    "ua": "avlxds06.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1418",
+    "en": "avlswtr7.def",
+    "ua": "avlswtr7.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1419",
+    "en": "avlxds08.def",
+    "ua": "avlxds08.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1420",
+    "en": "avlxds07.def",
+    "ua": "avlxds07.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1421",
+    "en": "AVLmtgr6.def",
+    "ua": "AVLmtgr6.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1422",
+    "en": "AVLref50.def",
+    "ua": "AVLref50.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1423",
+    "en": "avlxdt01.def",
+    "ua": "avlxdt01.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1424",
+    "en": "avlxdt11.def",
+    "ua": "avlxdt11.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1425",
+    "en": "avlxgr10.def",
+    "ua": "avlxgr10.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1426",
+    "en": "avlxgr07.def",
+    "ua": "avlxgr07.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1427",
+    "en": "avlxds01.def",
+    "ua": "avlxds01.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1428",
+    "en": "AVLtRo11.def",
+    "ua": "AVLtRo11.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1429",
+    "en": "AVLtRo12.def",
+    "ua": "AVLtRo12.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1430",
+    "en": "AVLtRo10.def",
+    "ua": "AVLtRo10.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1431",
+    "en": "AVLtRo09.def",
+    "ua": "AVLtRo09.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1432",
+    "en": "AVLtRo04.def",
+    "ua": "AVLtRo04.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1433",
+    "en": "AVLsh5d0.def",
+    "ua": "AVLsh5d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1434",
+    "en": "AVLtRo02.def",
+    "ua": "AVLtRo02.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1435",
+    "en": "avlxro04.def",
+    "ua": "avlxro04.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1436",
+    "en": "avlxro05.def",
+    "ua": "avlxro05.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1437",
+    "en": "AVLtrRo7.def",
+    "ua": "AVLtrRo7.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1438",
+    "en": "AVLsh1d0.def",
+    "ua": "AVLsh1d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1439",
+    "en": "AvLStm1.def",
+    "ua": "AvLStm1.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1440",
+    "en": "AvLStm2.def",
+    "ua": "AvLStm2.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1441",
+    "en": "AVLct5d0.def",
+    "ua": "AVLct5d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1442",
+    "en": "AVLct3d0.def",
+    "ua": "AVLct3d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1443",
+    "en": "AVLct1d0.def",
+    "ua": "AVLct1d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1444",
+    "en": "AVLmd3r0.def",
+    "ua": "AVLmd3r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1445",
+    "en": "AVLlk2d0.def",
+    "ua": "AVLlk2d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1446",
+    "en": "AVLAUTR5.def",
+    "ua": "AVLAUTR5.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1447",
+    "en": "AVLsh2r0.def",
+    "ua": "AVLsh2r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1448",
+    "en": "AVLtRo00.def",
+    "ua": "AVLtRo00.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1449",
+    "en": "avlxro12.def",
+    "ua": "avlxro12.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1450",
+    "en": "AVLf03g0.def",
+    "ua": "AVLf03g0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1451",
+    "en": "AVLsh6g0.def",
+    "ua": "AVLsh6g0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1452",
+    "en": "AVLca100.def",
+    "ua": "AVLca100.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1453",
+    "en": "AVLsh2g0.def",
+    "ua": "AVLsh2g0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1454",
+    "en": "AVLf06g0.def",
+    "ua": "AVLf06g0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1455",
+    "en": "AVLr13r0.def",
+    "ua": "AVLr13r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1456",
+    "en": "AVLsh1r0.def",
+    "ua": "AVLsh1r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1457",
+    "en": "AVLsh4g0.def",
+    "ua": "AVLsh4g0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1458",
+    "en": "AVLsh8d0.def",
+    "ua": "AVLsh8d0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1459",
+    "en": "AVLman20.def",
+    "ua": "AVLman20.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1460",
+    "en": "AVLca120.def",
+    "ua": "AVLca120.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1461",
+    "en": "AVXhild0.def",
+    "ua": "AVXhild0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1462",
+    "en": "AVLtRo03.def",
+    "ua": "AVLtRo03.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1463",
+    "en": "AVWgorx0.def",
+    "ua": "AVWgorx0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1464",
+    "en": "avlsh8r0.def",
+    "ua": "avlsh8r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1465",
+    "en": "AVSgrdn0.def",
+    "ua": "AVSgrdn0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1466",
+    "en": "AVXmx1r0.def",
+    "ua": "AVXmx1r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1467",
+    "en": "AVWgobl0.def",
+    "ua": "AVWgobl0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1468",
+    "en": "AvXRedW.def",
+    "ua": "AvXRedW.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1469",
+    "en": "AVXmn1r0.def",
+    "ua": "AVXmn1r0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1470",
+    "en": "AVLlk1g0.def",
+    "ua": "AVLlk1g0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1471",
+    "en": "ah12_e.def",
+    "ua": "ah12_e.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1472",
+    "en": "AVLlv210.def",
+    "ua": "AVLlv210.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1473",
+    "en": "AVLlv260.def",
+    "ua": "AVLlv260.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1474",
+    "en": "AVLvol30.def",
+    "ua": "AVLvol30.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1475",
+    "en": "AVLlv240.def",
+    "ua": "AVLlv240.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1476",
+    "en": "AVLlv220.def",
+    "ua": "AVLlv220.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1477",
+    "en": "AVLlv230.def",
+    "ua": "AVLlv230.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1478",
+    "en": "AVWbhmx0.def",
+    "ua": "AVWbhmx0.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1479",
+    "en": "AVLvol10.def",
+    "ua": "AVLvol10.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1480",
+    "en": "AVLvol40.def",
+    "ua": "AVLvol40.def",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1481",
+    "en": "You save an old sailor from some Orcs and in gratitude he gives you his Speculum.",
+    "ua": "В подяку за порятунок від орків, старий моряк дарує вам Телескоп.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1482",
+    "en": "You no use boat...boat belongs to Yog.  Touch and die!",
+    "ua": "Не чіпай корабля... Він належить Йогу. Тільки спробуй, і помреш!",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1483",
+    "en": "The Guardsmen move to protect their school.",
+    "ua": "Стражі захищають свою гільдію.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1484",
+    "en": "You find a group of Ogres friendly to your home tribe.",
+    "ua": "Ви зустріли дружелюбний загін огрів.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1485",
+    "en": "An old archer gives you one of his spare bows.",
+    "ua": "Старий лучник подарував вам один зі своїх трофеїв.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1486",
+    "en": "Some renegade ogres decide it would be in their best interest not to fight you.",
+    "ua": "Серед огрів є відступники, які вважають, що битися із вами поза їхніми інтересами.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1487",
+    "en": "Ambush!",
+    "ua": "Засідка!",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1488",
+    "en": "Ambush!",
+    "ua": "Засідка!",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1489",
+    "en": "A large group of friendly Hobgoblins suddenly boil out of the mountains and join you.",
+    "ua": "Раптово з-за пагорбів показується натовп доброзичливо налаштованих хобгоблінів, які негайно приєднуються до вас.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1490",
+    "en": "Black dragons swoop down and ask if they can join in your crusade to fight their long-time, hated enemy Razor Claw (They were once pets).",
+    "ua": "Чорні дракони хочуть приєднатися до вас, щоб битися проти ненависного Гострозуба - адже він використовував їх як домашніх тварин!",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1491",
+    "en": "A large group of friendly Wolf Raiders suddenly appear out of the trees. ",
+    "ua": "Раптово з лісу з'являється велика зграя доброзичливо налаштованих наїзників на вовках.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1492",
+    "en": "Scouts report a stronghold not far to the south (just follow the road), which would make a good first base of operation.",
+    "ua": "Розвідники доповідають, що недалеко звідси в південному напрямі знаходиться фортеця, яка послужить непоганою базою для операції. Дотримуйтесь дороги, щоб потрапити туди.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1493",
+    "en": "The Gorgons seem to be drinking. They look up and decide a nice snack might also be in order.",
+    "ua": "Схоже, горгони втамовують спрагу. Озирнувшись, вони розуміють, що заодно можуть вгамувати і свій голод.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1494",
+    "en": "Remember Gor-al the Bold buried on this spot, he fought the Claw but the Claw won.",
+    "ua": "Тут похований Хоробрий Гор-ал:\nВін бився із Гострозубом і програв.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1495",
+    "en": "There seems to be a family of Ogre Mages here guarding three different artifacts.  They dare you to try and take them.",
+    "ua": "Сім'я огрів-магів охороняє три артефакти. Вони пропонують вам битися з ними за ці артефакти.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1496",
+    "en": "Kilgor",
+    "ua": null,
+    "aligned": false
+  },
+  {
+    "var": "FESTIVAL_1497",
+    "en": "The stench of Razor Claw (worse then your average Behemoth stench) wafts up from the depths.  You also can hear other Behemoths below, perhaps his family (which is rather large from rumors) has decided to join him in his cave.  It does not matter,  they will all fall to your sword.  Unconsciously a shiver runs down your spine as you move toward the entrance..",
+    "ua": "Сморід, що виходить від Гострозубого (гірший, ніж сморід звичайних чудовиськ) піднімається з глибин. Ви також чуєте інших чудовиськ з його почту (з чуток, досить численного), що вирішив приєднатися до нього в його печері. Скільки б їх не було, всі вони повинні впасти від вашого меча. Ви входите в печеру, не зважаючи на пробігаючі по спині мурашки.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1498",
+    "en": "The angry spirits of the Ancient Behemoth's past victims rise up and attack you.",
+    "ua": "Злі духи жертв древнього чудовиська атакують вас.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1499",
+    "en": "Razor Claw and his family attack!",
+    "ua": "Гострозуб і його посіпаки атакують!",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1500",
+    "en": "Scout report 1.",
+    "ua": "Scout report 1.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1501",
+    "en": "Advanced scouts report that they found three ways past the mountains, one guarded by Cyclops, one by Rocs and the other guarded by Ogres. They did not check the inland sea, but rumors of a whirlpool abound.",
+    "ua": "Розвідники повідомляють, що існує три проходи через гори, один з яких охороняють циклопи, інший - птахи Рух, а третій - огри. Наші розвідники також попереджають, що подорож морем може бути небезпечною через вири.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1502",
+    "en": "Day 1 event.",
+    "ua": "Day 1 event.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1503",
+    "en": "The first test begins.  Razor Claw has been terrorizing this territory for generations; his reign is about to come to an end.  It will be a challenge just reaching him before time runs out and you are eliminated from the Festival of Life, but you are confident of victory over the beast.",
+    "ua": "Перше випробування почалося. Гострозуб наводив жах на ці володіння багато років, але його влада підходить до кінця. Буде непросто встигнути дістатися до нього, поки не минув відведений час, але ви впевнені в тому, що отримаєте перемогу над звіром.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1504",
+    "en": "Razor-Claws roar.",
+    "ua": "Razor-Claws roar.",
+    "aligned": true
+  },
+  {
+    "var": "FESTIVAL_1505",
+    "en": "The vicious roar of Razor Claw tears through the countryside like flesh being torn from bone.",
+    "ua": "Рев Гострозуба проноситься цими землями громом.",
+    "aligned": true
+  }
+]

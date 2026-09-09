@@ -1,0 +1,122 @@
+[
+  {
+    "var": "GOOD1_M3_prolog",
+    "field": "wrapper_prolog",
+    "en": "The region of Griffin Cliff, the annual breeding grounds from which nearly all of Erathia's Griffin population comes from, is currently under the control of the combined Nighon and Kreegan forces. Generations ago, the Griffins were key to building Erathia, and today they are key to reclaiming it.",
+    "ua": "Об'єднані сили ніґонців і криганців утримують Скелю Грифонів, де щороку гніздяться звіроптиці з усієї Ерафії. Багато поколінь тому грифони стали силою, з допомогою якої вдалося об'єднати розрізнені землі; сьогодні вони - ключ до порятунку країни."
+  },
+  {
+    "var": "GOOD1_M3_epilog",
+    "field": "wrapper_epilog",
+    "en": "Each year, griffins from around the world migrate to Griffin Cliff.  Armies of King Gryphonheart the First tamed the griffins and trained them for war. With these great beasts, King Gryphonheart unified the divergent human colonies and formed Erathia. King Gryphonheart felt the land’s native griffins were key to any Erathian war. To secure Steadwick, we need the griffins.",
+    "ua": "Щороку грифони з усього світу гніздяться на Гріфонкліфі, Скелі Грифонів. Армії короля Гріфонхарта І приручили звіроптиць і навчили їх битися. З їх допомогою король об'єднав розрізнені людські поселення в єдину Ерафію. Він розумів, що грифони, споконвічні жителі цих земель, стануть вирішальною силою у війні. Щоб утримати Стедвік, нам необхідні грифони."
+  },
+  {
+    "var": "GOOD1_M3_map_name",
+    "field": "map_map_name",
+    "en": "Griffin Cliff",
+    "ua": "Скеля грифонів"
+  },
+  {
+    "var": "GOOD1_M3_map_desc",
+    "field": "map_map_desc",
+    "en": "To win, you must locate and flag all 7 Griffin Towers.",
+    "ua": "Для перемоги вам необхідно знайти всі сім Веж грифонів і позначити їх прапорцями."
+  },
+  {
+    "var": "GOOD1_M3_rumor0_name",
+    "field": "map_rumor0_name",
+    "en": "Steadwick",
+    "ua": "Стедвік"
+  },
+  {
+    "var": "GOOD1_M3_rumor0_desc",
+    "field": "map_rumor0_desc",
+    "en": "I have heard that Steadwick has been attacked by Devils!",
+    "ua": "До мене дійшла чутка, що Стедвік зазнав нападу дияволів!"
+  },
+  {
+    "var": "GOOD1_M3_rumor1_name",
+    "field": "map_rumor1_name",
+    "en": "Refugees",
+    "ua": "Біженці"
+  },
+  {
+    "var": "GOOD1_M3_rumor1_desc",
+    "field": "map_rumor1_desc",
+    "en": "There have been many refugees fleeing the east.  Most travel toward the safety of Steadwick.",
+    "ua": "Натовпи біженців шукають притулку на сході. Більшість з них в пошуках безпечного місця йдуть в Стедвік."
+  },
+  {
+    "var": "GOOD1_M3_obj743_sign_mesg",
+    "field": "map_obj743_sign_mesg",
+    "en": "Ye Old Griffin Road",
+    "ua": "Стара дорога грифонів"
+  },
+  {
+    "var": "GOOD1_M3_obj802_guardian_mesg",
+    "field": "map_obj802_guardian_mesg",
+    "en": "Looks like an avalanche has blocked this pass.",
+    "ua": "Схоже, лавина перегородила цей шлях."
+  },
+  {
+    "var": "GOOD1_M3_obj1052_guardian_mesg",
+    "field": "map_obj1052_guardian_mesg",
+    "en": "One of your soldiers suddenly cries out, \"Ambush!\" You have just enough time to draw your weapons.",
+    "ua": "Один із солдатів раптово кричить: \"Засідка\" Ви лише встигаєте оголити зброю."
+  },
+  {
+    "var": "GOOD1_M3_obj1053_guardian_mesg",
+    "field": "map_obj1053_guardian_mesg",
+    "en": "One of your soldiers suddenly cries out, \"Ambush!\" You have just enough time to draw your weapons.",
+    "ua": "Один із солдатів раптово кричить: \"Засідка\" Ви лише встигаєте оголити зброю."
+  },
+  {
+    "var": "GOOD1_M3_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Bonus wood.",
+    "ua": "Додаткова деревина."
+  },
+  {
+    "var": "GOOD1_M3_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "Wood for the dungeon overlords war effort",
+    "ua": "Деревина для підтримки у війні з повелителями підземелля."
+  },
+  {
+    "var": "GOOD1_M3_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Intro part 1",
+    "ua": "Вступ, частина 1"
+  },
+  {
+    "var": "GOOD1_M3_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "The region of Griffin Cliff, the annual breeding grounds from which nearly all of Erathia's Griffin population comes from, is currently under the control of the combined Nighon and Kreegan forces. Generations ago, the Griffins were key to building Erathia, and today they are key to reclaiming it.",
+    "ua": "Земля, на якій стоїть Скеля грифонів, - розплідник, який дав майже всю популяцію грифонів Ерафії, зараз знаходиться під владою об'єднаних сил Ніґона і Кригану. Багато століть тому грифони зіграли вирішальну роль у створенні держави Ерафія. Сьогодні від них залежить відродження Ерафії."
+  },
+  {
+    "var": "GOOD1_M3_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Intro part 2",
+    "ua": "Вступ, частина 2"
+  },
+  {
+    "var": "GOOD1_M3_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "Nighon and Kreegan infestation in this area is significant, but we must free the Griffins who are currently being forced to serve them. We have received reports that the capitol city of Steadwick is under siege. Should it fall, we will need the assistance of the Griffins.",
+    "ua": "Ніґонські й криганські війська захопили більшу частину цих земель, але ми повинні звільнити грифонів, яких зараз змушують служити окупантам. До нас дійшла інформація, що столиця Стедвік знаходиться в облозі. Якщо місто впаде, нам буде потрібна допомога грифонів."
+  },
+  {
+    "var": "GOOD1_M3_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "Intro part 3",
+    "ua": "Вступ, частина 3"
+  },
+  {
+    "var": "GOOD1_M3_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "Seek out the Griffin Towers to the north. We must free them all before we can press on toward Steadwick. Good luck.",
+    "ua": "Шукайте Вежу грифонів на півночі. Ми повинні звільнити їх всіх до того, як ми попрямуємо до Стедвіку. Успіху!"
+  }
+]

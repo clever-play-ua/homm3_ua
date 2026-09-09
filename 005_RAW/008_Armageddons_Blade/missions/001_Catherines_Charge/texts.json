@@ -1,0 +1,380 @@
+[
+  {
+    "var": "AB_M1_prolog",
+    "field": "wrapper_prolog",
+    "en": "Eeofol troops have pushed to Erathia's border.  Queen Catherine herself has chosen to stay the tide of these invaders by controlling the border and digging in until reinforcements can arrive.  Catherine must not fail.",
+    "ua": "Війська Еофола були витіснені до кордону Ерафіі. Королева Катерина вирішила зупинити наступ загарбників, взявши під контроль кордон і зміцнившись там, поки не настигне підмога. Катерина не повинна програти."
+  },
+  {
+    "var": "AB_M1_epilog",
+    "field": "wrapper_epilog",
+    "en": "I have underestimated my opponent's strength and resolve.  During the Restoration Wars, the Kreegans were of minor concern.  Now they fight with an urgency neither I nor Roland have encountered.  I have pulled the bulk of my forces back behind Erathia's border.  Between us and the Kreegans lies Moss Valley.  It is one of Erathia's more beautiful landscapes.  Tactically, it is ideal.  If I can hold this valley, I can close the border.  Then I can determine how to destroy the demon king Lucifer and his quest to set the world on fire with Armageddon's Blade.",
+    "ua": "Я недооцінила супротивника. За часів Воєн за Відродження Ерафії криганці не становили для нас серйозної загрози. Тепер вони б'ються з завзятістю, якої ні я, ні Роланд не могли і припустити. Ми відвели велику частину військ від ерафійського кордону. Тепер між нами і криганцями лежить Долина моху, один із найпрекрасніших куточків Ерафії і найважливіший стратегічний пункт. Утримавши долину, ми перекриємо кордон. Тоді я виграю час і вирішу як знищити Люцифера, короля демонів, і запобігти його кривавому походу. У його руках Клинок Армагеддону. Він здатний спалити весь світ."
+  },
+  {
+    "var": "AB_M1_map_name",
+    "field": "map_map_name",
+    "en": "Catherine's Charge",
+    "ua": "Діяння Катерини"
+  },
+  {
+    "var": "AB_M1_map_desc",
+    "field": "map_map_desc",
+    "en": "Catherine must defeat all of her enemies or they will flood Erathia with their evil.  If Queen Catherine dies then all hope is lost and the devils of Eeofol will easily win.  Catherine will be allowed to advance to 18th level and carry over her experience, skills, and spells into her next scenario.",
+    "ua": "Катерина повинна перемогти всіх ворогів, інакше сили зла захлиснуть Ерафію. Якщо вона програє, все загинуло: Ерафія впаде в руки дияволів Еофола. Катерина обмежена 18 рівнем. Якщо вона переможе, її досвід, первинні та вторинні навички, а також заклинання перейдуть у наступний сценарій разом з нею."
+  },
+  {
+    "var": "AB_M1_obj0_town_name",
+    "field": "map_obj0_town_name",
+    "en": "Noximaar",
+    "ua": "Ноксимар"
+  },
+  {
+    "var": "AB_M1_obj1_town_name",
+    "field": "map_obj1_town_name",
+    "en": "Jhantaqua",
+    "ua": "Янтаква"
+  },
+  {
+    "var": "AB_M1_obj2_town_name",
+    "field": "map_obj2_town_name",
+    "en": "Endelstadt",
+    "ua": "Ендельштад"
+  },
+  {
+    "var": "AB_M1_obj3_town_name",
+    "field": "map_obj3_town_name",
+    "en": "Goldenton",
+    "ua": "Голдентон"
+  },
+  {
+    "var": "AB_M1_obj4_town_name",
+    "field": "map_obj4_town_name",
+    "en": "Pandathalyn",
+    "ua": "Пандафалин"
+  },
+  {
+    "var": "AB_M1_obj49_town_name",
+    "field": "map_obj49_town_name",
+    "en": "Darqtane",
+    "ua": "Дарктейн"
+  },
+  {
+    "var": "AB_M1_obj300_town_name",
+    "field": "map_obj300_town_name",
+    "en": "Defiance",
+    "ua": "Резистенс"
+  },
+  {
+    "var": "AB_M1_obj300_event_name",
+    "field": "map_obj300_event_name",
+    "en": "Troops Trickle In",
+    "ua": "Troops Trickle In"
+  },
+  {
+    "var": "AB_M1_obj300_event_mesg",
+    "field": "map_obj300_event_mesg",
+    "en": "The following reinforcements have arrived.",
+    "ua": "Підійшло підкріплення."
+  },
+  {
+    "var": "AB_M1_obj348_town_name",
+    "field": "map_obj348_town_name",
+    "en": "Marshallston",
+    "ua": "Маршалстон"
+  },
+  {
+    "var": "AB_M1_obj823_monster_mesg",
+    "field": "map_obj823_monster_mesg",
+    "en": "\"We pixies have been entrusted to maintain the sanctity of this Elemental Conflux.  Enter if you dare.  This is a sacred valley and we will not let it be disturbed lightly.  If we deem you worthy, perhaps we shall let you in.\"",
+    "ua": "\"Нам, піксі, наказано охороняти недоторканність даної колонії елементалів. Чи вистачить вам наглості увійти? Ця долина для нас священна, і ми не стерпимо присутність чужинців. З іншої сторони, якщо ми визнаємо вас гідними, можливо і дозволимо стати нашими гостями\"."
+  },
+  {
+    "var": "AB_M1_obj897_town_name",
+    "field": "map_obj897_town_name",
+    "en": "Southerdale",
+    "ua": "Саутердейл"
+  },
+  {
+    "var": "AB_M1_obj899_monster_mesg",
+    "field": "map_obj899_monster_mesg",
+    "en": "The walls of the mountain to your left and right suddenly shift and out from them meld several dozen large man-shaped creatures.  Staring into their eyeless sockets is highly unnerving, but you do what you must to protect your men.",
+    "ua": "Схили гір навколо раптово здригнулися, і випустили зі своїх надр декілька десятків масивних створінь, схожих на людей. Нелегко витримати їхній погляд пустих очей. Доведеться зробити все, що в наших силах, аби захистити людей."
+  },
+  {
+    "var": "AB_M1_obj900_monster_mesg",
+    "field": "map_obj900_monster_mesg",
+    "en": "Standing before you is a troop of men made of living flame.  Their unblinking eyes stare at you.  They do not speak but instead move to attack.  They appear to be protecting something or some place.",
+    "ua": "Перед вами загін воїнів, створених з язиків полум'я. Не кліпаючи очима, вони дивляться на вас. І замість привітання кидаються в бій. Схоже, це місцева стража."
+  },
+  {
+    "var": "AB_M1_obj903_guardian_mesg",
+    "field": "map_obj903_guardian_mesg",
+    "en": "Standing before you is a city whose architecture you do not recognize.  The rounded roofs, the tall spires, the strange sounds emanating from within all coalesce to form some sort of strange entity your scholars cannot explain.  This town wasn't here the last time you passed through.  Where did it come from?  Who built it?  These are all questions racing through your mind.  All you hope is the answers within will not lead you to a worse fate than the one that already befalls Erathia should you fail in your endeavor.",
+    "ua": "Перед вами розкинулося місто вигадливої архітектури. Круглі башти, високі шпилі, дивні шуми, які виходять з-за його стін - кращі з ваших учених губляться в здогадах, що б це могло бути. Минулого разу ніякого міста тут не було. Коли воно встигло виникнути? Хто його відбудував? Здогадки одна за одною проносяться у вашій голові. Тільки б правильна відповідь не значила у разі поразки ще більш сумну долю для Ерафії, ніж панування демонів."
+  },
+  {
+    "var": "AB_M1_obj904_guardian_mesg",
+    "field": "map_obj904_guardian_mesg",
+    "en": "This gleaming citadel stands tall and defiant against the darkening skies that lay overhead.  A sense of hope and wonderment overcomes you as you approach the front gates.  At this point a scout from your outrider group trots back to report of creatures not spotted in Erathia for quite some time.  They stand atop the walls and prepare for an assault.  They seem wary of strangers but oddly are prepared for war.  Is there something they know and you do not?  With only one way to find out, you press on.",
+    "ua": "Високо і гордо здіймаються серед похмурих небес високі шпилі міста. Біля воріт вас охоплює раптова надія. Що чекає попереду? Розвідник доповідає, що на стінах замку зібралися дивні створіння, яких в Ерафії не бачили вже багато століть. Вони готові відбити напад. Вони вже знають про чужинців і - ось дивно - готові до війни. Можливо, вони знають таємницю, невідому вам? Що ж, є тільки один спосіб це з'ясувати."
+  },
+  {
+    "var": "AB_M1_obj906_town_name",
+    "field": "map_obj906_town_name",
+    "en": "Nothenden",
+    "ua": "Нофенден"
+  },
+  {
+    "var": "AB_M1_obj955_monster_mesg",
+    "field": "map_obj955_monster_mesg",
+    "en": "\"No one may pass.  Take your best shot.  We will defeat you.\"",
+    "ua": "\"Ніхто не пройде. Як би ви не старались, ми все одно переможемо\"."
+  },
+  {
+    "var": "AB_M1_obj1527_guardian_mesg",
+    "field": "map_obj1527_guardian_mesg",
+    "en": "Beyond these walls lies the dread land of Eeofol, a land of tremendous volcanic rifts and prodigious lava flows.  Demons of all types and forms patrol the land, a land once fertile and green and populated by a peaceful race of little people called Halflings.  That was until the Night of Shooting Stars when the Kreegans came.  Now all that is left of their race is a few pocket villages.  The demons scattered them to the four winds and turned them into an embittered people with little hope and no place to truly call home.",
+    "ua": "За цими стінами лежить жахливий світ Еофола, земля неосяжних вулканічних плато і широких потоків лави. Демони всіх облич і мастей охороняють колись зелені і квітучі землі. Жив тут колись мирний і славний народець халфлінгів. Спокійне життя обірвалося в Ніч Падучих Зірок, коли прийшли криганці. Від усього королівства халфлінгів залишилася пара зубожілих сіл. Демони розвіяли їх плем'я за вітром. Тепер халфлінги - сумний бездомний народець, чиї надії навіки розбиті."
+  },
+  {
+    "var": "AB_M1_obj1528_guardian_mesg",
+    "field": "map_obj1528_guardian_mesg",
+    "en": "Eeofol, land of demons and devilkin.  It is said that the Kreegans were a punishment from the gods for the sins committed by a people who strayed from the path of righteousness.  The Night of Shooting Stars is seen by many as some sort of terrible omen of doom and despair.  The once fertile land of Eeofol now lies burned and blackened, rivers of magma have replaced sparkling clear water and bubbling brooks now bubble with molten rock.  It is a depressing sight indeed, but the need for perseverance has never presented itself more.  King Lucifer must be stopped, else the whole of Antagarich suffer the same fate as the former homeland of the Halflings.",
+    "ua": "Еофол. Край демонів і диявольських порідь. Кажуть, боги наслали на людей криганців за гріхи тих, хто втратив віру. Ніч падучих зірок стала для смертних знаком темряви і прокляття. Колись квітучі землі Еофола почорніли, оплавилися; на місці блискучих, кришталево чистих річок і озер течуть ріки лави, що оплавили берега. Сумне видовище, тим паче не можна допустити, щоб прокляття Еофола перейшло кордон. Короля Люцифера треба зупинити, інакше весь Антагріч очікує страшна доля батьківщини халфлінгів."
+  },
+  {
+    "var": "AB_M1_obj1529_guardian_mesg",
+    "field": "map_obj1529_guardian_mesg",
+    "en": "The blackened walls of the border gate that once protected these lands from the horrors that lay beyond now bears the heraldry of the Kreegan Clans of Eeofol.  A sickening smell permeates the area, seeping beneath your clothing and into the pores of your skin.  The noxious vapors of the volcanic lands of Eeofol have polluted the land and killed a great many trees.  This is the fate that threatens to befall all of Erathia should the mad King Lucifer get his way.  This is all you have to look forward to if you fail.  This realization both terrifies you and strengthens your resolve.",
+    "ua": "Почорнілі стіни прикордонних воріт, які ще недавно стримували демонів в середині держави, прикрашені гербами криганських кланів Еофола. Усюди стоїть сморід, від якого нудить, він забирається під одежу, проникає у кожну пору шкіри. Отруйний подих вулканів Еофола проник у навколишні землі, погубив дерева та квіти. Якщо король Люцифер втілить свій зловісний план в життя, така доля чекає всю Ерафію. Тепер все залежить від вас. Вам страшно; але страх за батьківщину тільки укріплює дух."
+  },
+  {
+    "var": "AB_M1_obj1545_guardian_mesg",
+    "field": "map_obj1545_guardian_mesg",
+    "en": "This city is Darqtane, named for a dark god long ago thought forgotten by the people of this land.  His spirit lives on within the walls of this monument to his twisted soul, for Darqtane was a god of torture and suffering.  The screams of Kreegan torture victims are like prayers to his glory.",
+    "ua": "Ім'я цьому місту - Дарктейн. Так звали давно забутого бога темряви, чий дух досі витає у фортечних мурах, своєрідному пам'ятнику його збоченій душі. Дарктейн був богом катувань і тортур. Крики болю жертв криганців - ось найкраща молитва йому на славу."
+  },
+  {
+    "var": "AB_M1_obj1556_monster_mesg",
+    "field": "map_obj1556_monster_mesg",
+    "en": "\"Welcome, Your Highness\", the devil sneers.  \"King Lucifer sends his regards for the small part you played in his ascension to the throne.  He also would like to pay his respects . . .over your cold grave for helping to slaughter his kin.\"  With that, the group of devilkin launches into a brutal assault, bent on your destruction.",
+    "ua": "\"Здрасті, ваш-високість, - фиркає диявол - Король Люцифер шле вам подяку за скромний внесок у його сходження на трон. А ще він би з радістю... станцював на вашій могилі - за те, скількох його підданих ви знищили.\" - І загін диявольського поріддя кидається на вас, цілившись кігтями вам у серце."
+  },
+  {
+    "var": "AB_M1_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Opening",
+    "ua": "Opening"
+  },
+  {
+    "var": "AB_M1_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "Following the initial invasion of Eeofol, you ran into the elite force of Kreegans known as the Fist of Unholy Might.  These battle-hardened regiments pushed you back clear across the border and now threaten to push deeper into Erathia.  It is here, in the Contested Lands that lie betwixt Erathia and Eeofol, where you plan to make your stand.  Digging in until reinforcements can arrive is your plan and quite possibly Erathia's only hope.\n\nShould you fail or be defeated, Erathia will forever know emptiness, despair, and shall suffer an eternity of darkness.  May the blessings of the Temple of Light be upon you and those who serve under your command.",
+    "ua": "Незабаром після початку вторгнення вам довелося зіткнутися з елітним підрозділом криганців під назвою \"Кулак нечистої сили\". Загартовані війська демонів відкинули вашу армію до самої межі та загрожують вторгнутися на територію Ерафії. Саме тут, у Спірних Землях на кордоні Ерафії та Еофола, вам належить зміцнитися і зупинити їх похід. Вся надія на те, що ви зумієте протриматися до прибуття підкріплення. Від цього залежить доля всієї країни.\n\nЯкщо опір впаде, Ерафію чекає спустошення, відчай і вічна темрява. Хай буде з вами благословення Світла."
+  },
+  {
+    "var": "AB_M1_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "An alert",
+    "ua": "An alert"
+  },
+  {
+    "var": "AB_M1_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "A scout comes racing to your camp bearing a message.  He bows deeply before you and presents a scroll from General Morgan Kendal. His trembling fingers release the rolled parchment into your hands as sweat beads on his brow.  This is not good news he brings.\n\n\"My Queen, I regret to inform you that the dark forces of Eeofol have broken through our eastern lines.  I have failed you, but I swear to you on the grave of your beloved father that I shall fall back and protect Steadwick from these foul creatures.\" -- Morgan",
+    "ua": "До табору мчить гонець. Відваживши низький уклін, він простягає вам сувій - послання від генерала Моргана Кендала. Його пальці тремтять, на лобі блищать краплі поту. Недобру звістку він приніс.\n\n\"Моя королева, у мене страшні новини: чорні сили демонів завдали нам поразки на східному фронті. Я не виправдав вашої довіри. Але, клянусь могилою вашого блискучого батька, я зроблю все, що в моїх силах, щоб захистити Стедвік від нечисті.\" - Морган"
+  },
+  {
+    "var": "AB_M1_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Good News at Last",
+    "ua": "Good News at Last"
+  },
+  {
+    "var": "AB_M1_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "A runner leaps off his steed in a hurry to bring urgent news to his Queen.  You take the message scroll from the smiling runner and unfurl it.  The note is smudged from water stains, but legible.  Reading it brings some much-needed light to your soul.  Good news at last has come.\n\n\"My dearest Catherine, I have amassed a sizeable force outside Steadwick.  It will take some time to reach your position, as we will be first shoring up the eastern front.  I plan to meet Kendal's army somewhere near Killian's Wake and push back those forces plaguing him there.\n\nOnce that task is completed and the Kreegan troops are routed, I shall bring our combined forces to your aid.  You must hold out my love.  Erathia's fate depends upon you holding the region.  I will see you again.  That I swear.\" -- Your loving husband, Roland",
+    "ua": "Посміхаючись, гонець вистрибує з сідла, поспішаючи доставити своїй королеві послання. Ви розгортаєте сувій. Подекуди чорнило розпливлося, але зміст розібрати вдається. Ніби камінь з душі звалився! Нарешті добрі вісті.\n\n\"Мила моя Катерина, Мені вдалося зібрати біля Стедвіка ополчення. Шлях до тебе буде довгий: нас кидають на східний фронт. У районі Кіліан-Вейк наша армія об'єднається з військами Кендала.\n\nРазом ми зуміємо відбити атаку демонів. А потім я поведу об'єднані війська тобі на допомогу. Тримайся, любов моя. У твоїх руках доля Ерафії. Ми скоро побачимося, це я обіцяю.\" - Роланд, твій коханий чоловік."
+  },
+  {
+    "var": "AB_M1_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "Rains Come",
+    "ua": "Rains Come"
+  },
+  {
+    "var": "AB_M1_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "A torrential rain begins.  The rain bears an odd odor and seems to be eating away at steel weapons and armor.  The court wizards do what they can to protect the troops from this acidic rain, but their powers are severely limited against such an assault.  It will cost dearly to fix the damaged items.",
+    "ua": "Вночі пішла злива. Струмені поширюють дивний запах і роз'їдають сталь лат і мечів. Придворні чарівники як можуть захищають людей від кислотних злив, але сили нерівні. Щоб усе полагодити, піде чимало коштів."
+  },
+  {
+    "var": "AB_M1_mapevent4_name",
+    "field": "map_mapevent4_name",
+    "en": "Rains Are Useful",
+    "ua": "Rains Are Useful"
+  },
+  {
+    "var": "AB_M1_mapevent4_mesg",
+    "field": "map_mapevent4_mesg",
+    "en": "The chief alchemist reports to you that they have found a way to collect the rain and extract some trace elements from it.  This means a small quantity of sulfur can be gleaned from this otherwise gloomy downpour.",
+    "ua": "Головний алхімік повідомляє, що його підмайстри навчилися збирати кислоту і розкладати її на складові елементи. Слабка втіха, і все ж трохи сірки вам не зашкодить."
+  },
+  {
+    "var": "AB_M1_mapevent5_name",
+    "field": "map_mapevent5_name",
+    "en": "Delays and Despair",
+    "ua": "Delays and Despair"
+  },
+  {
+    "var": "AB_M1_mapevent5_mesg",
+    "field": "map_mapevent5_mesg",
+    "en": "A bedraggled and forlorn looking runner arrived at your tent.  He was wounded but waved off the attendants who tried to aid him.  He had a message to bring.  You could tell immediately by his countenance that the news was grave.\n\n\"My dearest wife, I must regret to inform you that we have met with great resistance in our journey to join up with General Kendal's forces.  The minions of Eeofol are formidable indeed, much more so than I had anticipated.\n\nSeveral hundred loyal warriors have fallen and I fear that many more will be sacrificed before this is over. I am now unable to predict when we will be available to fortify your position. You will need to hold out longer than I had originally been planning on.\n\nI miss you terribly.  Know that I will be there, no matter the price I must pay.  Nothing shall keep me from your side.  Perhaps one day soon we shall be able to return to Enroth and our beloved son, Nicolai.\" -- Roland.\n\nCrushing the scroll, you entered your tent, eyes filled with tears.",
+    "ua": "Біля завіси намету виникає самотній гонець. Його одяг подертий, рани просочені кров'ю, але він відкидає допомогу. Спочатку - послання. І з першого погляду видно, що добрих вістей не варто й чекати. \n\n\"Люб'язна моя дружина. Ми як і раніше рухаємося до місця зустрічі з генералом Кендалом. За кожним поворотом на нас кидаються все нові й нові загони криганців. Вони сильні! Куди сильніші, ніж я собі уявляв. \n\nСотні моїх вірних солдатів загинули у нерівному бою, я боюсь уявити, скількох ще належить втратити. Тепер і не знаю, коли ми зможемо прийти до тебе на допомогу. Вам доведеться стримувати натиск куди довше, ніж передбачалося. \n\nЯ дуже за тобою сумую. Знай, я прийду, і неважливо, якою ціною. Ніщо не зможе нас розлучити. Одного разу ми разом повернемося в Енрот і обіймемо сина.\" - Роланд. \n\nЗатиснувши в кулаці послання, ви ховаєтеся в наметі, щоб ніхто не бачив ваших сліз."
+  },
+  {
+    "var": "AB_M1_mapevent6_name",
+    "field": "map_mapevent6_name",
+    "en": "A Ray of Hope",
+    "ua": "A Ray of Hope"
+  },
+  {
+    "var": "AB_M1_mapevent6_mesg",
+    "field": "map_mapevent6_mesg",
+    "en": "On the First Day of the Festival of Life, the fearsome clouds that brought the hateful rainfall break.  A brilliant light shines down upon the fields and bathes over you as you step out to view your troops, soothing your troubled soul.  Perhaps the gods are favoring you at last.",
+    "ua": "Першого дня Свята Життя у чорних хмарах, що принесли кислотні дощі, намітився невеликий просвіт. Яскравий промінь сонця осяяв поля, та й умив ваше серце, пролив бальзам на скорботну душу. Можливо, боги нарешті звернули до вас своє обличчя."
+  },
+  {
+    "var": "AB_M1_mapevent7_name",
+    "field": "map_mapevent7_name",
+    "en": "Terrible News",
+    "ua": "Terrible News"
+  },
+  {
+    "var": "AB_M1_mapevent7_mesg",
+    "field": "map_mapevent7_mesg",
+    "en": "A panic stricken man arrives in your camp one day with a message.  Tearing it open, you pour over the letter, utter despair rapidly overcoming your otherwise noble visage.  News that King Roland has been injured has arrived.  Grief stricken, you retire to your tent in great haste.",
+    "ua": "У табір примчав тремтячий гонець. Ви розриваєте конверт, хапаєте лист і упиваєтеся очима в рядки. Тінь відчаю затьмарює благородні риси. Король Роланд поранений. Не тямлячи себе від горя, ви швидко ховаєтеся у наметі."
+  },
+  {
+    "var": "AB_M1_mapevent8_name",
+    "field": "map_mapevent8_name",
+    "en": "A Letter from Roland",
+    "ua": "A Letter from Roland"
+  },
+  {
+    "var": "AB_M1_mapevent8_mesg",
+    "field": "map_mapevent8_mesg",
+    "en": "As you continue on your quest to exact revenge on the followers of the mad King Lucifer, your rage grows.  The shadow that covers your soul threatens to engulf you fully, but a small light flickers when another runner arrives, haggard but smiling.\n\n\"My dearest Catherine.  I am truly sorry I have not written, but I did hear you had received word of my injury.  Let me assure you there is nothing to fear.  The injuries I received were not severe, nor should you have been burdened with being informed of them.\n\nI received the injuries when we finally met up with General Kendal's forces.  A large army of demons and hellhounds had been guarding a pass and we needed to punch through.  I led the charge but received some minor wounds as a result.  I killed the thing responsible, fear not.  All is well, as I hope it is with you and your campaign.\" -- Roland",
+    "ua": "З подвоєною люттю ви сієте смерть серед поплічників божевільного короля Люцифера. Тінь, що затьмарила душу, готова поглинути вас цілком. Але ось з'явився промінь надії. Новий гонець простягає послання, і стомлене обличчя осяяне посмішкою.\n\n\"Люб'язна моя Катерина. Пробач, що так довго не писав, але тебе, мабуть, уже досягли чутки про моє поранення. Не бійся, мила! Рана майже затягнулася, і не варто було гінцям лякати тебе даремно.\n\nЯ отримав поранення у важкій сутичці. Тільки-но ми об'єдналися з військами генерала Кендала, шлях нам перегородили полчища демонів і гончих Ада. Я повів людей в бій, тварюка стрибнула нечутно й непомітно. Не сумнівайся, вона дорого заплатила за мою кров. В іншому все йде як задумано. Тримайся, мила.\" - Роланд"
+  },
+  {
+    "var": "AB_M1_mapevent9_name",
+    "field": "map_mapevent9_name",
+    "en": "Assassin",
+    "ua": "Assassin"
+  },
+  {
+    "var": "AB_M1_mapevent9_mesg",
+    "field": "map_mapevent9_mesg",
+    "en": "Last night, during the Hour of the Wolf, a lone assassin armed with demonic magic artifacts infiltrated your encampment with murder in his heart.  As he passed near your tent opening, someone spotted him and Ketai, a young swordsman, captured him.\n\nUpon his capture, you were immediately awoken, much to your chagrin.  Your steely-eyed countenance later stared down this would be assassin.  He was questioned for only a short time before you turned to your advisor.\n\n\"Have him drawn and quartered, then put on display as a warning.\"",
+    "ua": "Минулої ночі, у годину Вовка, до табору проник вбивця-одинак, озброєний демонічними артефактами. Він задумав чорну справу. І був застигнутий і схоплений біля завіси королівського намету. Полонив його Кетай, юний мечник.\n\nДовелося перервати ваш сон. Сталевим поглядом ви оглянули нереалізованого вбивцю. Допит був недовгим, і ви обернулися до радника.\n\n\"Втопити його. Потім четвертувати. І виставити тіло біля воріт табору на страх ворогам.\""
+  },
+  {
+    "var": "AB_M1_mapevent10_name",
+    "field": "map_mapevent10_name",
+    "en": "Catherine's Speech",
+    "ua": "Catherine's Speech"
+  },
+  {
+    "var": "AB_M1_mapevent10_mesg",
+    "field": "map_mapevent10_mesg",
+    "en": "You call your troops before you.  Their morale is low and all are exhausted from the constant fighting and marching.  You sit astride your steed, noble and proud in appearance, and ride to the top of a small rise.  There you thrust high the banner of Erathia and speak.\n\n\"It has been one hundred and twelve days since the minions of this King Lucifer have invaded our land.  We have held out bravely so far, but the true test of our courage and prowess is yet to come.  King Roland and General Kendal are currently battling to save the eastern border, while we defend this region from Kreegan forces.  However, we do battle with a powerful foe.  The abominations we face in this conflict are hideous and fierce warriors, armed with potent elements of magic.\n\nYou have done well, my warriors, and I ask that you continue to do so in the fights to come.  This will not be easy, but I promise you we will win, for we are of Erathia.  We defeated the combined forces of Deyja, Eeofol, and Nighon before.  This is only one third of that triumvirate.  Fight on my warriors, for not just Erathia, but all of Antagarich depends on our victory here.\"\n\nYou sit tall and proud as the cheers of your men rise to meet you.  You smile, knowing the coming fight, while difficult, will be won.  You are confident of that.",
+    "ua": "Ви скликаєте війська. Їх бойовий дух ослаб; люди вимотані постійними походами і битвами. Ви ведете коня до вершини невеликого пагорба. Гордовито, велично височите ви над загонами.\n\n\"Ось вже сто і ще дванадцять днів кодла короля Люцифера господарюють в наших землях. Ми хоробро билися. Але в майбутніх битвах нам ще належить показати нашу справжню хоробрість і майстерність. Король Роланд і генерал Кендал стримують демонів на східному кордоні. Нам треба будь-якою ціною захистити Спірні Землі. Але ворог сильний; огидні тварюки, проти яких доводиться боротися, показали себе воїнами лютими, воїнами, що вселяють страх. Їм підвладна могутня магія.\n\nЯ задоволена вами, друзі мої, прошу про одне - не підведіть мене і в прийдешніх битвах. Я не обіцяю легкої перемоги, але знаю точно - ми переможемо: Ерафія за нами. Одного разу ми вже розгромили об'єднані сили Деї, Еофола та Ніґона. Так невже ми не впораємося з військом втричі слабшим? Бийтеся відважно, друзі мої: не тільки Ерафія, але весь Антагріч покладає на нас надії!\"\n\nГордо ви оглядає війська. Триразовим \"Ура!\" відповідають солдати. Ви посміхаєтеся. Гряде велика битва, і перемога буде за вами. Інакше й бути не може."
+  },
+  {
+    "var": "AB_M1_mapevent11_name",
+    "field": "map_mapevent11_name",
+    "en": "The War Drags On",
+    "ua": "The War Drags On"
+  },
+  {
+    "var": "AB_M1_mapevent11_mesg",
+    "field": "map_mapevent11_mesg",
+    "en": "As the conflict drags on into its fourth month, the men seemed inspired yet weary.  Reports from Steadwick have been trickling in from time to time, but it is getting longer and longer between messengers.  Roland hasn't even sent a message for weeks.\n\nRefusing to show weakness, you dispatch a messenger to learn about the fate of your husband's army.  Concern for his safety and the need for your army's waning strength of resolve to improve pushed you to act.  The messenger is urged to make sure the scroll is delivered to Roland's hands personally.",
+    "ua": "Війна йде вже п'ятий місяць. Люди ще тримаються, але сили їх залишають. Час від часу приходять вісті зі Стедвіка - все рідше і рідше. І від Роланда нічого не чути ось уже кілька тижнів.\n\nНамагаючись здаватися сильною, ви посилаєте гінця дізнатися долю Роланда. Часу обмаль, ви дуже тривожитеся за чоловіка і в той же час сподіваєтеся, що добрі вісті зміцнять дух солдатів. Гінцеві наказано передати послання Роланду особисто в руки."
+  },
+  {
+    "var": "AB_M1_mapevent12_name",
+    "field": "map_mapevent12_name",
+    "en": "The Messenger Returns",
+    "ua": "The Messenger Returns"
+  },
+  {
+    "var": "AB_M1_mapevent12_mesg",
+    "field": "map_mapevent12_mesg",
+    "en": "A horseman approaches bearing a scroll.  The man is the same one sent by you to locate Roland's forces.  He bows deeply and passes his helm to a nearby page.  Dusting himself off, he accepts an offered waterskin and takes a long drag from it.  The cool water washes away some of the road's dirt.\n\n\"King Roland is deep in battle with the Kreegan forces and is unable to divert troops to you at this time.  In the next few weeks some forces should be available for your use my Queen.  He regrets he cannot be here to fight at your side.\"\n\nSending him away, you wander back to your tent.",
+    "ua": "До табору скаче вершник - то повертається гонець, якому ви доручали відшукати Роланда. Відваживши вам низький уклін, він знімає шолом і передає його зброєносцю. Змахнувши з лат дорожню пилюку, він бере флягу і робить довгий ковток. Цівки прохолодної води змивають бруд з його обличчя. \n\n\"Король Роланд веде тяжкий бій з криганцями. Він не зміг виділити вам війська. Він просив почекати кілька тижнів, моя королева. Він шкодує, що не може битися пліч-о-пліч з вами\". \n\nВи відсилаєте гінця і ховаєтеся у наметі."
+  },
+  {
+    "var": "AB_M1_mapevent13_name",
+    "field": "map_mapevent13_name",
+    "en": "Troops Trickle In",
+    "ua": "Troops Trickle In"
+  },
+  {
+    "var": "AB_M1_mapevent13_mesg",
+    "field": "map_mapevent13_mesg",
+    "en": "A messenger arrives, snaps a scroll into your hand, salutes, and leaves.  Quickly you open the message and read, your face lighting up as you do so.  As soon as you finish, you roll it back up and stuffed it into the pouch it came in, snap some orders, and press onward.\n\n\"My dearest Catherine, I have found it possible to order a small contingent of troops to your position.  They have not been paid in a long while, so they will need that as well.  They should arrive at Fort Defiance by the time you receive this letter.  Walk with the Light my love.\" -- Roland",
+    "ua": "Прибув новий гонець. Він віддав вам честь, вручив сувій пергаменту - і пішов геть. Ви розгортаєте послання й упиваєтеся очима в рядки. Обличчя прояснюється. Ледь закінчивши, ви звертаєте пергамент, кладете його в сумку, нашвидку віддаєте наказ і скачете в місто. \n\n\"Мила моя Катерина, мені вдалося зібрати для тебе невеликий загін Люди вже давно не одержували плати... Прошу, подбай про них. Коли ти отримаєш цього листа, солдати вже прибудуть у форт Резистенс. Хай осяє тебе Світло, любов моя.\""
+  },
+  {
+    "var": "AB_M1_mapevent14_name",
+    "field": "map_mapevent14_name",
+    "en": "A Second Message From Kendal",
+    "ua": "A Second Message From Kendal"
+  },
+  {
+    "var": "AB_M1_mapevent14_mesg",
+    "field": "map_mapevent14_mesg",
+    "en": "A rider enters your camp carrying a message scroll that bears the seal of General Morgan Kendal.  You accept the scroll from the rider, break the seal, unroll the parchment, and peruse its contents.\n\n\"Pray pardon my Queen, but I must bring you grave news.  Recently I have been witness to the strangest of occurrences.  A town of odd architecture simply appeared from thin air.  It had roofs like tulip bulbs made of bronze, brightly colored tent cloth everywhere, and the walls were guarded by elementals of all types.  Since that first sighting, I have seen several more similar citadels dotting the countryside.  I do not know the nature of these towns, nor do I know if they are hostile.  Perhaps they might be persuaded to join us in our fight; perhaps we shall need to guard against them.  I do not believe anyone in this region can remain neutral for long.\" -- Morgan",
+    "ua": "До табору мчить вершник. При ньому сувій з печаткою генерала Моргана Кендала. Ви ламаєте печатку, розгортаєте пергамент і швидко пробігаєте очима рядки.\n\n\"Хай пробачить мені моя королева, але вісті мої знову не несуть розради. Мені трапилося стати свідком неймовірного. Наче нізвідки перед моїми очима виросло невідоме місто. Вежі його - як бронзові бутони тюльпанів, намети його з яскравої парусини, варта його - елементалі всіх мастей. Один за одним з'являються ці міста по всій землі. Не можу сказати, хто ними править, не знаю, кому вони стануть служити. Можливо, вони прийдуть нам на допомогу, можливо, над нами нависла нова загроза. Одне точно: у цю годину ніхто не залишиться осторонь.\" - Морган"
+  },
+  {
+    "var": "AB_M1_mapevent15_name",
+    "field": "map_mapevent15_name",
+    "en": "Catherine Sends For Gelu",
+    "ua": "Catherine Sends For Gelu"
+  },
+  {
+    "var": "AB_M1_mapevent15_mesg",
+    "field": "map_mapevent15_mesg",
+    "en": "The forces of Eeofol have proven to be mighty indeed.  As such, daring plans and cunning tactics are going to be needed to win this conflict.  You summon one of your most trusted runners.  You have need of a different type of soldier for the plan forming in your mind.\n\nThe Forest Guard has been acting as Erathia's eyes and ears for generations, perhaps now it is time to employ them for a different purpose.  Quickly scribing a note on a piece of parchment, you send word to Gelu, the Forest Guard's captain, to undertake a special mission for you.",
+    "ua": "І правда, міць Еофола не знає меж. Щоб здолати їх, потрібна вся майстерність і відвага. Ви посилаєте за найвірнішим гінцем. Пора закликати на допомогу воїна іншого складу розуму.\n\nЛісова варта століттями була очима і вухами Ерафії; так стане ж вона сьогодні її луками й мечами. Ви спішно надряпали на клаптику пергаменту коротку записку Ґело, капітану Лісової варти. У вас для нього особливе завдання."
+  },
+  {
+    "var": "AB_M1_mapevent16_name",
+    "field": "map_mapevent16_name",
+    "en": "Nicolai",
+    "ua": "Миколай"
+  },
+  {
+    "var": "AB_M1_mapevent16_mesg",
+    "field": "map_mapevent16_mesg",
+    "en": "In the long months since you left Enroth, your days have been filled with strife, terror, grief, and triumph, yet you have never lost sight of what is important to you, your son Nicolai.  Your thoughts drift now to him, as your worry for him, for he is alone in Enroth and has been ever since you were summoned home to Erathia and Roland was taken captive on the Night of Shooting Stars.  Only the knowledge that Nicolai has the aid of Wilbur Humphrey, Roland's appointed Regent, consoles your aching heart.  You miss your son terribly and desire greatly to return home.  Perhaps when this war is over and peace finally settles on the land of your birth, you can return home to your son, even if for only a little while.",
+    "ua": "За довгі місяці на землі Енрота ви пізнали нужду, страх, відчай, радість перемог і гіркоту поразок. І все-таки ні дня не проходило без того, щоб не згадати про найважливішого чоловічка у вашому житті - принца Миколая. Син. Ваші думки переносяться до нього, повні тривоги. Він залишився зовсім один. Ви покинули країну. Роланда схопили вороги Вночі падучих зірок. Втішити материнське серце може одне: Миколай під надійною опікою Уілбура Хамфрі, регента королівства. Коли закінчиться війна і на землях Ерафії відновиться мир, можливо, вам вдасться повернутися додому - хоч ненадовго."
+  },
+  {
+    "var": "AB_M1_mapevent17_name",
+    "field": "map_mapevent17_name",
+    "en": "A Message from Lucifer",
+    "ua": "A Message from Lucifer"
+  },
+  {
+    "var": "AB_M1_mapevent17_mesg",
+    "field": "map_mapevent17_mesg",
+    "en": "Pacing across the field, you wrack your brain for a way to make sense of this insane war you are waging.  For what purpose could Lucifer be engaging in such insanity?  What was there to gain from this?  The answers to such questions will not come easily, nor without a heavy price attached.\n\nAs you ponder these and other matters, a timid monk clears his throat quietly to announce his presence.  Spinning on your heels to face the sudden sound, your flame colored hair frames your face in such a way as to bring fear to the poor cleric.  He shakily informs you that a crystal shard has been delivered moments ago with express instructions that it be shown to you immediately.  Fearing it is a trap; the mages in your council choose to study it.  Finding no magical traps or spells to harm their Queen, they show it to you.\n\nA demonic face appears from inside the shard as soon as you approach.  The face is bearded, horned, and has glistening sharp teeth.  A wicked grin is firmly in place which rapidly becomes a sneer as it speaks.\n\n\"Ah, the famed Catherine Gryphonheart, or should I say Ironfist.  Seems a much more appropriate name for you.  In case you did not know, I am Lucifer Kreegan, King of Eeofol and Bringer of Doom.\n\nI hope you realize your efforts to engage me are fruitless as was proven by my pushing your pathetic invasion back nearly to your own capitol.  You cannot win against the might of my armies or the power of my secret weapon.  This day shall see the end of your precious Antagarich, Enroth, and all that I survey.  Prepare yourself for oblivion Catherine, Queen of Erathia, for it is coming soon.\" \n\nWith that, the image fades out and you are left alone with the threat hanging in the air.  Muttering something about madmen, you go back to your planning session and prepare for the coming battles.",
+    "ua": "Міряючи кроками поле, ви ламаєте голову над неминучим запитанням: до чого ця божевільна війна? Навіщо Люциферу знадобилося її починати? Яким є її диявольський план? Одного разу ви знайдете відповідь - але якою ціною...\n\nУ роздумах ви не помічаєте, як за спиною виникає боязкий монах. Він тактовно покашлює в надії привернути вашу увагу. Ви різко обертаєтеся. Полум'яні локони палаючим вогнем обрамляють ваші риси. Зіщулившись зі страху, монах приймається доповідати: мовляв, у табір доставили осколок кристала з позначкою \"Катерині особисто в руки, терміново.\" Побоюючись пастки, маги Ради вивчили кристал на предмет чорної магії і не знайшли на ньому небезпечних заклять. Тепер ви можете особисто оглянути осколок.\n\nУ серці кристала виникає демонічний образ. Рогата голова, морда поросла жорсткою шерстю, гострі ікла оголені в зловісній усмішці, яка незабаром перетворюється в диявольський оскал.\n\n\"Так от яка знаменита Катерина Гріфонхарт. Або Айронфіст!?\" Залізний Кулак!?\"- Ого, прізвище чоловіка підходить вам куди більше, пані. Не впізнали? Люцифер Криган, король Еофола і Глашатай Смерті - власною персоною.\n\nСподіваюся, вам вистачило розуму зрозуміти, що боротися проти мене безглуздо. Згадайте, як легко ми відкинули ваші жалюгідні війська до вашої ж власної столиці. Вам не встояти проти сили моїх воїнів - і вже тим паче проти міці моєї таємної зброї. Не сьогодні-завтра всім вашим дорогоцінним Антагрічам і Енротам прийде кінець. Готуйся, Катерина, королева Ерафії: гряде забуття.\"\n\nОсоба зникає. У повітрі виразно витає загроза. Божевільний! - Напівголосно бурмочете ви і знову занурюєтеся в роздуми про майбутні битви і стратегічні маневри."
+  }
+]

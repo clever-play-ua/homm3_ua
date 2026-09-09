@@ -1,0 +1,15 @@
+{
+  "sequences": [
+    {
+      "group": 0,
+      "frames": [
+        "RANSHOW.dir\\00_00.png",
+        "RANSHOW.dir\\00_01.png",
+        "RANSHOW.dir\\00_02.png",
+        "RANSHOW.dir\\00_03.png"
+      ]
+    }
+  ],
+  "type": 71,
+  "format": 1
+}

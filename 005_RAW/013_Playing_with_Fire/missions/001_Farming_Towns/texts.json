@@ -1,0 +1,440 @@
+[
+  {
+    "var": "FIRE_M1_prolog",
+    "field": "wrapper_prolog",
+    "en": "The peasantry has been slaughtered to make an undead army.  It is as if someone is farming the people to grow a mammoth crop of mindless soldiers.  The purpose of this army is still unknown, but someone must restore order on the Ertahian-Tatalian border.  That someone is you.",
+    "ua": "Всі селянство було перебите, щоб поповнити ряди армії нежиті. Наче хтось спеціально вирощує людей, щоб потім наробити безмозких солдатів. Мета цієї армії все та ж, але хтось повинен відновити порядок на кордоні Ерафії й Таталії. Ви беретеся за цю справу."
+  },
+  {
+    "var": "FIRE_M1_epilog",
+    "field": "wrapper_epilog",
+    "en": "Traveling from Erathia to my homeland of Tatalia, I have passed through several towns.   I have yet to encounter a living soul.  There is only the lingering stench of the undead.  I fear a necromancer in the area is raising an army.  'Who...' is unknown.  'Why...' is unknown.",
+    "ua": "На шляху з Ерафії в рідну Таталію мені трапилося кілька спорожнілих сіл. Жодної живої душі, лише стійкий дух смерті. Боюся, в наших краях з'явився некромант, поповнюючи армію нежиті. Але хто він? І навіщо йому військо?"
+  },
+  {
+    "var": "FIRE_M1_map_name",
+    "field": "map_map_name",
+    "en": "Farming Towns",
+    "ua": "Поселення"
+  },
+  {
+    "var": "FIRE_M1_map_desc",
+    "field": "map_map_desc",
+    "en": "Establish a home base and then liberate the other towns on either side of the border. Destroy all of the undead in the area and defeat the Necromancers who are doing this.   Adrienne and three of your best heroes are restricted to twelfth level, but will transfer to the next scenario.",
+    "ua": "Ваше завдання - захопити місто і використовувати його як плацдарм для звільнення інших. Знищить всю нежить у цих землях, а також некромантів, які їх створили. Адріана і три інших кращих герої будуть перенесені в наступний сценарій, їх розвиток обмежено дванадцятим рівнем."
+  },
+  {
+    "var": "FIRE_M1_rumor0_name",
+    "field": "map_rumor0_name",
+    "en": "Sir Michael",
+    "ua": "Sir Michael"
+  },
+  {
+    "var": "FIRE_M1_rumor0_desc",
+    "field": "map_rumor0_desc",
+    "en": "Sir Michael is to the Northeast and is being held by the NightStalkers.",
+    "ua": "Сер Міхаель знаходиться на північному сході, його утримують в полоні Ті, Що Нападають Уночі."
+  },
+  {
+    "var": "FIRE_M1_rumor1_name",
+    "field": "map_rumor1_name",
+    "en": "Festival of Life",
+    "ua": "Festival of Life"
+  },
+  {
+    "var": "FIRE_M1_rumor1_desc",
+    "field": "map_rumor1_desc",
+    "en": "Krewlod's Festival of Life should be renamed the Festival of Bloodshed and Gore!",
+    "ua": "Фестиваль Життя в Крюлоді треба перейменувати у свято крові та насильства!"
+  },
+  {
+    "var": "FIRE_M1_rumor2_name",
+    "field": "map_rumor2_name",
+    "en": "Undead",
+    "ua": "Undead"
+  },
+  {
+    "var": "FIRE_M1_rumor2_desc",
+    "field": "map_rumor2_desc",
+    "en": "Undead block all passages between Erathia and Tatalia",
+    "ua": "Мерці охороняють всі проходи з Ерафії в Таталію."
+  },
+  {
+    "var": "FIRE_M1_rumor3_name",
+    "field": "map_rumor3_name",
+    "en": "Nosferatu",
+    "ua": "Nosferatu"
+  },
+  {
+    "var": "FIRE_M1_rumor3_desc",
+    "field": "map_rumor3_desc",
+    "en": "Some Nosferatu guard a great wealth of treasure.",
+    "ua": "Вартові-носферату охороняють незчисленні скарби."
+  },
+  {
+    "var": "FIRE_M1_rumor4_name",
+    "field": "map_rumor4_name",
+    "en": "Adrienne",
+    "ua": "Adrienne"
+  },
+  {
+    "var": "FIRE_M1_rumor4_desc",
+    "field": "map_rumor4_desc",
+    "en": "Adrienne the Witch uses Fire Magic!",
+    "ua": "Відьма Адріана використовує магію Вогню!"
+  },
+  {
+    "var": "FIRE_M1_obj0_town_name",
+    "field": "map_obj0_town_name",
+    "en": "Brastleton",
+    "ua": "Брастлетон"
+  },
+  {
+    "var": "FIRE_M1_obj378_quest_proposal",
+    "field": "map_obj378_quest_proposal",
+    "en": "Your skills are pathetic.  When you have attained an attack skill ten times that of a novice return to me.  Only then will you be worthy of learning the true tactics of a great warrior.",
+    "ua": "«Твої вміння викликають у мене посмішку. Коли твоя майстерність атаки перевищить в десятеро ніж у новачка, тоді можеш звернутись до мене. Тільки тоді ти будеш гідна навчатися тактиці ведення бою, яку мусить використовувати великий воїн»."
+  },
+  {
+    "var": "FIRE_M1_obj662_monster_mesg",
+    "field": "map_obj662_monster_mesg",
+    "en": "Within the ranks of these creatures you see the faint forms of once living peasantry, their tortured souls unable to escape this hell and enter into the afterlife.  With grim determination you begin to free their souls the only way you know how.",
+    "ua": "Серед цих створінь ви помічаєте полеглих селян, чиї душі не можуть залишити тіло і полетіти в потойбічний світ. З похмурою усмішкою ви починаєте звільняти їх душі єдиним відомим вам способом."
+  },
+  {
+    "var": "FIRE_M1_obj1212_monster_mesg",
+    "field": "map_obj1212_monster_mesg",
+    "en": "The Keymaster may have said you can pass, but you forgot to ask our permission.  Permission Denied.",
+    "ua": "«Страж сказав вам, що ви можете пройти, але забув запитати наш дозвіл. Прохід заборонено!»"
+  },
+  {
+    "var": "FIRE_M1_obj1268_monster_mesg",
+    "field": "map_obj1268_monster_mesg",
+    "en": "Ahh, look!  Recruits!",
+    "ua": "«А от і новобранці!»"
+  },
+  {
+    "var": "FIRE_M1_obj1729_guardian_mesg",
+    "field": "map_obj1729_guardian_mesg",
+    "en": "Ahead of you lies unguarded treasure.  Rushing forward to claim the much-needed supplies the troops do not see the eyes peering out of the underbrush.  When all of the men are in place the trap is sprung!",
+    "ua": "Перед вами лежить скарб, який ніким не охороняється. Подавшись вперед, щоб взяти так необхідні військам ресурси, ви не помітили очей, що спостерігають з укриття. Несподівано на вас нападають із засідки!"
+  },
+  {
+    "var": "FIRE_M1_obj1781_monster_mesg",
+    "field": "map_obj1781_monster_mesg",
+    "en": "We are glad to have you join our forces.  Please, come on in.  Welcome.",
+    "ua": "«Ми раді залучити вас в наші ряди. Ласкаво просимо!»"
+  },
+  {
+    "var": "FIRE_M1_obj1988_sign_mesg",
+    "field": "map_obj1988_sign_mesg",
+    "en": "Beware the NightStalkers!",
+    "ua": "Бійся Тих, Що Нападають Вночі!"
+  },
+  {
+    "var": "FIRE_M1_obj1990_monster_mesg",
+    "field": "map_obj1990_monster_mesg",
+    "en": "\"Look what we have here boys.  A rag tag bunch of people who want to become our dinner.  Mmmm, Mmmm Good.  Finger-licking good that is.  Dig in boys! Soups on!\"",
+    "ua": "\"Дивіться, хто йде, хлопці. Волоцюги, які хочуть стати нашим обідом. Ммммм, ммммм, відмінно! Пальчики оближеш. Поласуємо супчиком!\""
+  },
+  {
+    "var": "FIRE_M1_obj1991_monster_mesg",
+    "field": "map_obj1991_monster_mesg",
+    "en": "Hey look!  Lunch!",
+    "ua": "«Дивись-но, хто йде! Мій сніданок!»"
+  },
+  {
+    "var": "FIRE_M1_obj1992_monster_mesg",
+    "field": "map_obj1992_monster_mesg",
+    "en": "\"See I told you guys this guard duty would get interesting.  These nice people are providing us with entertainment!\"",
+    "ua": "\"Ну що хлопці, я ж казав вам, що ця робота буде цікавою. Зараз ми повеселимося!\""
+  },
+  {
+    "var": "FIRE_M1_obj1993_monster_mesg",
+    "field": "map_obj1993_monster_mesg",
+    "en": "\"Well, well, well.  Lookie what showed up on our doorstep.  So you think you can take us?  We don't think so.\"",
+    "ua": "\"Так, так, так. Дивіться, хто прийшов. Думаєте, ви можете перемогти нас? Ми так не вважаємо\"."
+  },
+  {
+    "var": "FIRE_M1_obj1997_monster_mesg",
+    "field": "map_obj1997_monster_mesg",
+    "en": "So the Erathians do not wish to pay the price?  Very well then.  Suits us well to have you for a late night snack.  The others will be our meals until they expire.  Then all will know not to cross the NightStalkers.",
+    "ua": "«Так, жителі Ерафії не хочуть платити по рахунках? Зрозуміло. Приємно, що ми матимемо легкий перекус на цю ніч. Їжі лишиться ще й про запас. Нехай всі дізнаються, що краще не мати справу з тими, хто Нападає в Ночі»."
+  },
+  {
+    "var": "FIRE_M1_obj1998_guardian_mesg",
+    "field": "map_obj1998_guardian_mesg",
+    "en": "Approaching the prison you see a group of Erathians clamoring to be freed.  Calling out to Sir Michael he comes forward.  You show him the letter, he reads it and drops to one knee.  \"I pledge the loyalty of me and my men.\"  Satisfied you move forward to free them from the prison.",
+    "ua": "Наблизившись до в'язниці, ви бачите групу громадян Ерафії, благаючих про звільнення. Ви кличете сера Міхаеля, і він виходить вперед. Ви показуєте йому листа, прочитавши його, він падає на коліно. \"Я і мої піддані клянемося вірно служити вам\". Ви задоволені і звільняєте його з в'язниці."
+  },
+  {
+    "var": "FIRE_M1_obj2000_hero_name",
+    "field": "map_obj2000_hero_name",
+    "en": "Sir Michael",
+    "ua": "Сер Міхаель"
+  },
+  {
+    "var": "FIRE_M1_obj2001_guardian_mesg",
+    "field": "map_obj2001_guardian_mesg",
+    "en": "The stench of death fills your lungs and you can taste the decay in the air.  The undead horrors foul the land, creating a waste none can stand to live in. Rallying the troops you are able to push on with renewed determination.  Morale soars.",
+    "ua": "Запах смерті проникає у ваші легені, ви відчуваєте дух занепаду і розкладання, що висить у повітрі. Жах, вселяється повсталими мерцями, що витають над землею. Об'їжджаючи війська, ви повні рішучості і готовності вести боротьбу. Мораль військ зростає."
+  },
+  {
+    "var": "FIRE_M1_obj2004_guardian_mesg",
+    "field": "map_obj2004_guardian_mesg",
+    "en": "Ahead is a roaring campfire.  There, bandits drink and toy with their loot.  The rustle to your left warns to the presence of onlookers.  A family, poor and lost peers out, fearing you will harm them.  With reassurance you are able to send them to safety.  Now you turn to deal with the bandits.",
+    "ua": "Попереду ви бачите паруюче багаття. Поряд з ним сидять бандити, випиваючи та ділячи награбоване. Раптом ви помічаєте, що за вами спостерігають, але це виявляється всього лише родина бідняків, що загубилися, які бояться вас ще більше, ніж розбійників. Запевнивши їх у своїх добрих намірах, ви відправляєте бідняків у безпечне місце. Прийшов час розібратися з бандитами."
+  },
+  {
+    "var": "FIRE_M1_obj2006_guardian_mesg",
+    "field": "map_obj2006_guardian_mesg",
+    "en": "Stumbling onto your path is a young girl.  Her dress is torn and tattered, and she is half starved.  Bringing her food and water she wolfs down the offering.  Her story is a brave one, as she counted the numbers in the garrison while hiding from the scouting parties for several days.  Last count there were five men on large, black horses.  Ten had glowing staffs, and there are twenty of the bloodsuckers.  There were thirty-five women in rags with glowing eyes and could float.  Fifty of the slow moving, rotting corpses shuffled around, with one hundred of the skeletons in broken bits of armor.  Once done telling her story she begins to sob uncontrollably, relieved to be out of harm's way and away from horrors a child should never witness.",
+    "ua": "На своєму шляху ви зустріли маленьку дівчинку. Її одяг перетворився на лахміття, вона сильно зголодніла. Ви пропонуєте їй їжу і воду, і вона накидається на їжу. Вона розповідає вам, що рахувала кількість військ ворога у гарнізоні, ховаючись від шпигунів ворога. Востаннє вона бачила п'ятьох вершників на чорних конях. Також вона зауважила десять воїнів з блискучими палицями і два десятки кровососів. Ще вона бачила тридцять п'ять жінок в лахмітті, які ширяли над землею, а очі їх горіли чарівним вогнем. Крім того, вона зустріла півсотні трупів, які повільно рухаються, і сотню скелетів у поношених обладунках. Розповівши вам це, вона починає ридати, нарешті, відчувши себе в безпеці після всіх тих жахів, яких дитині краще б ніколи не бачити."
+  },
+  {
+    "var": "FIRE_M1_obj2008_guardian_mesg",
+    "field": "map_obj2008_guardian_mesg",
+    "en": "Passing through the small valley the troops come across the scarred land where a great battle had taken place.  Bodies, weapons and horses litter the ground as a somber reminder of war.  Not far the screams of tortured and dying men echo through the trees.  Taking a quick look scouts report of Vampires feeding on the survivors of the battle.  The tattered remains of an army are food for these soulless creatures.  The shouts of their leader can be heard.  Sir Michael lives.",
+    "ua": "Перетинаючи долину, війська помічають місце, де відбувалася кровопролитна битва. Трупи, зброя, тіла коней валяються всюди, нагадуючи про жахи війни. Ви чуєте відлуння криків поранених і уцілілих, яких катують пекельні створіння. Розвідники повідомляють, що це вампіри насичуються кров'ю тих, що вижили воїнів. Залишки розбитої армії служать їжею для цих бездушних створінь. Ви можете чути крики їхнього ватажка. Сер Міхаель живий."
+  },
+  {
+    "var": "FIRE_M1_obj2024_quest_proposal",
+    "field": "map_obj2024_quest_proposal",
+    "en": "I will gladly teach you the Chain Lightening spell, but first you must gather the ingredients for another of my spells.  Once done I will give you the secrets to Chain Lightening.",
+    "ua": "Я з задоволенням навчу тебе заклинання «Ланцюгова блискавка», але спочатку мені потрібно зібрати магічні інгредієнти для іншого чарівництва. Покінчивши з цим, я навчу тебе, як накладати Ланцюгову блискавку."
+  },
+  {
+    "var": "FIRE_M1_obj2132_guardian_mesg",
+    "field": "map_obj2132_guardian_mesg",
+    "en": "On the rock face written in blood is the message, \"Unless you are type A+, B- or AB+ we are not interested in having you for lunch. Everyone else should just leave us alone.  But those who are the right type may take a nap in our crystal mine.\"",
+    "ua": "На скелі написано кров'ю: \"Якщо ваша група крові не II +, III- чи VI+, ви нам на сніданок не здатні, і можете спокійно йти. Але якщо у вас потрібна нам група крові, можете залишитися і подрімати в нашій кришталевій шахті\"."
+  },
+  {
+    "var": "FIRE_M1_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Introduction",
+    "ua": "Introduction"
+  },
+  {
+    "var": "FIRE_M1_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "You enter into this region, not too far from the Tatalian border, glad to be almost home.  The time spent in Steadwick studying with the Clerics was useful and productive, but it was too long away from the swamps you love and call home.  The Fire Witch, as you are called, cannot bear to be away from her lands, but is not readily welcome there either.  For the people of Tatalia fear Fire Magic and shun all who use it.  Knowing the power it holds, and wanting to wield it you gave up a life of acceptance for your power. ",
+    "ua": "Увійшовши в ці землі, розташовані недалеко від кордону Таталії, ви радієте, передчуваючи повернення додому. Час, проведений в Стедвіку, був витрачений недаремно, але все-таки місце вашого навчання знаходилося дуже далеко від дому. Вогняна Відьма, як вас називають, як і раніше нудьгує вдома, але там вас не чекає привітна зустріч. Народ Таталії боїться магії вогню і тих, хто її використовує. Ви знаєте силу, закладену в цій магії, і хочете випробувати її."
+  },
+  {
+    "var": "FIRE_M1_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Please help us!",
+    "ua": "Please help us!"
+  },
+  {
+    "var": "FIRE_M1_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "The bushes rustle and you prepare for attack.  Even in Erathia there are beasts to be wary of.  It is not beasts, but peasants.  Blood is caked and dried on their faces and wraith-like bodies.  Terror grips these peasants and holds them captive. Barely able to stutter out the horrors they were witness to.  Finally, after a bit of water and some coaxing one of them tells the tale in a near-senseless jumble of words. \n\n \"I-I was farming and my wife was out picking berries with the children.\"  He closes his eyes to squeeze out the images and breathes deeply. \"Th-then we were beset upon by a wailing none of us had ever heard before.  Frozen in terror, I watched as these ghastly things flew towards my wife and children.\"  He sobs, unable to speak for a moment.  \"Then I ran and ran and ran.   Never looked back.  Mortimer found me two days later.  But he's dead now, or at least sort of.  He walks, but does not see or hear that we are his friends.  He killed his own son!\"  The man finally breaks down completely and sobs like a child.  This was worse, much worse.  Reports from the others confirm your worst fears.  ",
+    "ua": "Зачувши шум у кущах, ви готуєтеся до атаки. Навіть у Ерафії є тварюки, яких слід побоюватися. Однак це виявляється не звір, а селяни. На їхніх обличчях можна бачити плями запеченої крові. Селяни охоплені жахом і панікою. З важкістю їм вдається приборкати переляк від побаченого. Нарешті, випивши ковток води, один з них розповідає збитим голосом наступну історію: \"Я п-пас овець, а моя дружина збирала ягоди з дітьми\". Він заплющує очі, щоб придушити нахлинувші спогади. \"А потім ми зіткнулися з тим, чого ніхто з нас не бачив раніше. Застигши від жаху, я дивився, як якісь мерзенні тварюки кинулися у бік моїх дружини і дітей\". На секунду він знову втрачає дар мови. \"Потім я побіг з усіх ніг. Жодного разу не озираючись. Мортімер знайшов мене два дні потому. Але зараз він мертвий, принаймні, схожий на труп. Він здатний ходити, але не чує і не знає про своїх друзів. Він вбив власного сина! \" Нарешті, він падає і починає плакати, як дитя. Все це набагато гірше, ніж можна було чекати. Новини від інших тільки підтверджують найстрашніші побоювання."
+  },
+  {
+    "var": "FIRE_M1_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Undead",
+    "ua": "Undead"
+  },
+  {
+    "var": "FIRE_M1_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "Someone is slaughtering the peasantry to make an undead army.  ",
+    "ua": "Хтось вбиває селян з метою зібрати армію мерців."
+  },
+  {
+    "var": "FIRE_M1_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "Messengers",
+    "ua": "Messengers"
+  },
+  {
+    "var": "FIRE_M1_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "Quickly, messengers are sent out to the Tatalian leaders and to an Erathian lord to the east.  The first reads, \"Erathia has been attacked by strange new enemies.  They are extremely powerful.  We should prepare in case Erathia cannot hold the tide.\"",
+    "ua": "У поспіху вирушають гінці до правителів Таталії і лордів східних земель Ерафії. Перше послання свідчить: \"Ерафія атакована досі невідомими ворогами. Вони надзвичайно могутні. Ми повинні готуватися до війни, на випадок, якщо Ерафія не встоїть під їх натиском\"."
+  },
+  {
+    "var": "FIRE_M1_mapevent4_name",
+    "field": "map_mapevent4_name",
+    "en": "Second Message",
+    "ua": "Second Message"
+  },
+  {
+    "var": "FIRE_M1_mapevent4_mesg",
+    "field": "map_mapevent4_mesg",
+    "en": "Before you send off the message to the Erathian government you give it one last look through.  \"My name is Adrienne, Witch of Tatalia.  I am aware we recently were at war, but now is a time for our lands to work together.  Recently, on a journey home from Steadwick, I crossed paths with a group of peasants from Brastleton.  My men have confirmed news of undead overrunning the land.  Erathia is under attack by these vile creatures.  I am the only one who has answered their pleas.  I do know of the troubles you are having with this new menace, but any help would be appreciated.\"  Satisfied the message conveys the urgency of the situation you send it off, hoping the Erathians will take seriously a request for help from a Tatalian.  Praying for good fortune you turn to the more immediate matters.",
+    "ua": "Перш ніж відіслати повідомлення правителям Ерафії, ви востаннє перечитуєте його текст. \"Мене звуть Адріана, відьма з Таталії. Ми повинні забути про нещодавні чвари і діяти спільно. Повертаючись зі Стедвіка, я зіткнулася з групою селян з містечка Брастлетон. Мої люди підтверджують, що орди ожилих мерців наповнюють ваші землі. В Ерафію вдерлися злісні тварюки. Я була єдиною, хто послухав благання постраждалих від них. Я знаю про ті негаразди, які обіцяє вам ця нова загроза, але буду рада прийняти будь-яку вашу допомогу\". Вирішивши, що тон і зміст послання відповідають важливості ситуації, ви відправляєте його, в душі сподіваючись, що правителі Ерафії не відмовлять у допомозі сусідам з Таталії. Молячись про успіх, ви повертаєтеся до більш суттєвих проблем."
+  },
+  {
+    "var": "FIRE_M1_mapevent5_name",
+    "field": "map_mapevent5_name",
+    "en": "Messenger returns",
+    "ua": "Messenger returns"
+  },
+  {
+    "var": "FIRE_M1_mapevent5_mesg",
+    "field": "map_mapevent5_mesg",
+    "en": "Of the group you sent to Tatalia only one returns.  He confirms your worst fears.  The infection of undead has spread across the border and into Tatalia.  There will be no way to get word to the leaders anytime soon.  You must deal with this problem without help from your beloved homeland.",
+    "ua": "Тільки один з гінців, посланих в Таталію, повернувся назад. Він підтверджує найгірші побоювання. Повстання ожилих мерців, як епідемія, поширилося через кордони Таталії й охоплює її внутрішні області. Не варто чекати відповіді від правителів найближчим часом. Ви повинні спробувати вирішити цю проблему без допомоги військ вашої улюбленої батьківщини."
+  },
+  {
+    "var": "FIRE_M1_mapevent6_name",
+    "field": "map_mapevent6_name",
+    "en": "Reply",
+    "ua": "Reply"
+  },
+  {
+    "var": "FIRE_M1_mapevent6_mesg",
+    "field": "map_mapevent6_mesg",
+    "en": "A messenger returns from the knight's castle.  He does not carry the official word, but the news is not good.  The Knight sent a message to you saying, \"There will be no aid from Erathia.  We have been attacked by hideous beasts wielding powerful weaponry.  All of our Knights and Clerics have been called to defend Erathia from these demonic beasts.  Good luck.\"  His words are honest, but do not bode well for your cause.  At least there are some Erathians you can recruit to aid this cause.",
+    "ua": "Один з гінців повернувся з лицарського замку. Він не отримав офіційну відповідь, але приніс погані вісті. Лицар велів передати, що \"допомога з Ерафії не прийде. Нас атакують підступні тварюки, і вони добре озброєні. Всі наші сили кинуті на захист Ерафії від вторгнення демонічних створінь. Успіху\". Його слова чесні, але від цього не стають менш гнітючими. Залишається сподіватися на допомогу інших правителів Ерафії."
+  },
+  {
+    "var": "FIRE_M1_mapevent7_name",
+    "field": "map_mapevent7_name",
+    "en": "Official Response",
+    "ua": "Official Response"
+  },
+  {
+    "var": "FIRE_M1_mapevent7_mesg",
+    "field": "map_mapevent7_mesg",
+    "en": "Finally, after several days the messengers return with an official response.  \"We regretfully inform you of our inability to assist in this manner.  Due to a new and formidable menace we are unable to spare a single Knight or Cleric.  Since the disturbance takes place on the Erathian-Tatalian border we would be grateful if you and your people were able to remove this nuisance.  There is however, one Knight whom you may be able to recruit.  He is being ransomed by a group calling themselves, \"The NightStalkers\".  If you free him and show this letter he will offer the aid you need.\"  Barely containing the burning fury welling up within, you crumple the letter and stuff it into your pocket. Abruptly, you shout orders to break camp, not saying a word about the bad news.  Your instincts tell you this is more than a mere nuisance, but fools never listen.",
+    "ua": "Нарешті, кілька днів по тому гонець приносить офіційну відповідь. \"Ми з жалем змушені повідомити вам про те, що не здатні надати запитані вами послуги. Зіткнувшись з новою загрозою, ми не в змозі надіслати вам на допомогу жодного лицаря або мага. Оскільки джерело нашого занепокоєння знаходиться на ерафійсько-таталійському кордоні, ми будемо вам вдячні, якщо ви і ваш народ зробите належні зусилля для усунення цього чинника нестабільності. Однак є принаймні один лицар, здатний надати вам підтримку. Його утримує в полоні група розбійників, які називають себе \"Ті, Що Нападають Уночі\". Якщо ви звільните його і покажете йому цього листа, він буде радий допомогти вам\". Насилу стримуючи лють, яка піднімається зсередини, ви комкаєте лист і ховаєте його в кишеню. Ви віддаєте наказ розбити табір, нічого не кажучи про погані вісті. Інстинкт підказує вам, що \"фактор нестабільності\" стане джерелом великих неприємностей, але дурні не послухали голос розуму."
+  },
+  {
+    "var": "FIRE_M1_mapevent8_name",
+    "field": "map_mapevent8_name",
+    "en": "Burning of the Dead",
+    "ua": "Burning of the Dead"
+  },
+  {
+    "var": "FIRE_M1_mapevent8_mesg",
+    "field": "map_mapevent8_mesg",
+    "en": "Last night you came across lots of piles of rotting flesh.  Even though they did not move you were confident it was a trap.  Rather than risking another confrontation, you loosed the full force of your Fire Magic, cleansing the area of the rotting bodies.  At first the men where horrified at the show of fiery magic.  Recoiling from your destruction of what obviously had become Zombies they stood far from you. All night your own men, fearful of your fire magic, shunned you.  In the morning black smoke plumed into the sky.  Rushing to see why the forest was burning you saw most amazing sight.  The men were grimly surrounding a pyre.  There, the bodies of the dead were being burned.  Apparently they had come to terms with fire and realized its value here.  If the bodies were not utterly destroyed then they would soon join the ranks of undead.  It was best this way.",
+    "ua": "Минулої ночі ви обходили стороною завали гниючої плоті. Попри те, що мерці не рухалися, ви були впевнені, що це пастка. Не ризикуючи вступати в бій, ви в повну силу використовували магію вогню, щоб очистити землю від гниючих трупів. Спочатку ваші війська були налякані лютою міццю, яку ви звільнили. Вони стояли осторонь і не брали участі у знищенні тіл, що перетворилися на зомбі. Всю ніч ваші люди, налякані магією вогню, в страху дивилися на вас. Вранці чорний димок піднявся до небес. Ви кинулися подивитися на причину, що викликала пожежу в лісі, і вашому погляду відкрилося дивовижне видовище. Люди похмуро стояли навколо багаття. У ньому можна було розрізнити обвуглені тіла мерців. Очевидно, люди зрозуміли, що не існує іншого виходу, і подружилися з вогнем. Якщо тіла не знищувалися негайно, вони незабаром приєднувалися до армії нежиті. Вогонь був панацеєю від цієї чуми."
+  },
+  {
+    "var": "FIRE_M1_mapevent9_name",
+    "field": "map_mapevent9_name",
+    "en": "Death Knight",
+    "ua": "Death Knight"
+  },
+  {
+    "var": "FIRE_M1_mapevent9_mesg",
+    "field": "map_mapevent9_mesg",
+    "en": "Sighting of the leader occurred some days ago.  It is a Death Knight on a great Black Charger.  Loyal followers obey his every wish and command.  He has moved deeper into Tatalia, and you know this does not bode well for your homeland.  Time is of the essence. You must eradicate this menace!",
+    "ua": "Кілька днів тому стало ясно, хто очолює армію мерців. Це Лицар Смерті на величезному чорному коні. Його поплічники готові виконати кожен наказ, що вилітає з його вуст. Він вдерся вглиб Таталії і сіє жах і руйнування на землі вашої батьківщини. Часу немає. Потрібно зупинити його!"
+  },
+  {
+    "var": "FIRE_M1_mapevent10_name",
+    "field": "map_mapevent10_name",
+    "en": "Advisor",
+    "ua": "Advisor"
+  },
+  {
+    "var": "FIRE_M1_mapevent10_mesg",
+    "field": "map_mapevent10_mesg",
+    "en": "Your most trusted friend and advisor, Baltron, enters your tent.  \"Adrienne, there is no way Erathia is going to assist us and yet you attempt to beg help from them.  They are still upset at the war and are probably under attack.  Why do you bother?\" \n\n \"Well, I must try.\" A small quirky smile brushes past your face.  \"This way I have covered all of my bases.  If we fail then no one can say I should have asked for help.   What if they do not refuse?  It is a possibility I cannot pass up.  You are no warrior.  I need troops and other warriors or spell casters.  I do value your assistance, but we simply need more help.  This is not going to be an easy battle and you know it.\"  A frown settles back to its accustomed place. ",
+    "ua": "Ваш добрий друг і порадник Балтрон входить до намету. \"Адріана, Ерафія не збирається допомагати нам, але, тим не менш, ти просиш їх про це. Вони пам'ятають про нещодавню війну, і до того ж, напевно, самі відбивають напад. Навіщо ти робиш це?\"\n\n\"Я повинна хоча б спробувати\". На мить посмішка осяює ваше обличчя: \"Цим я вб'ю відразу двох зайців. Якщо ми програємо, ніхто не зможе дорікнути мені, що я не попросила про допомогу. А раптом вони не відмовлять. Це шанс, який не можна впускати. На жаль, ти не воїн, а нам потрібні воїни і маги. Я ціную твою участь, але нам потрібна допомога. Ця битва буде не з легких, і ти це знаєш\". Сказавши це, ви знову такі похмурі."
+  },
+  {
+    "var": "FIRE_M1_mapevent11_name",
+    "field": "map_mapevent11_name",
+    "en": "Baltron's opinion",
+    "ua": "Baltron's opinion"
+  },
+  {
+    "var": "FIRE_M1_mapevent11_mesg",
+    "field": "map_mapevent11_mesg",
+    "en": "\"My dearest young Witch,\" you know this is going to be an 'I told you' session. \"I did warn you against begging for aid from Erathia.  Even the Tatalains are unreachable.  I am truly surprised they even took the time to write what they did-\"  \n\nYou cut him off angrily. \"Quiet!  I am the one who makes the decisions around here.  Don't give me that \"I told you so\" crap.  I am well aware of what the response was going to be.  Now I have covered my bases and we can get on with this business of burning the plague of undead from the land.\"  Unconsciously your hands have clenched and power had begun to slither out and curl around you like a snake ready to strike.  Seeing the terror in his eyes you stalk out, and curse him for getting you so angry. ",
+    "ua": "\"Моя люба юна відьма\", починає він, і ви знаєте, що зараз він скаже \"я попереджав вас\". \"Я попереджав вас, що не варто просити допомоги у Ерафії. Навіть правителі Таталії зараз поза межами досяжності. Я взагалі здивований, що вони знайшли час відповісти\". Ви сердито перебиваєте його: \"Тихо. Я сама приймаю рішення. Не треба нести нісенітницю, говорячи з розумним виглядом!\" Я попереджав. \"Я прекрасно розуміла, якою буде відповідь. Тепер у мене прикриті тили, і ми можемо приступити до стирання цієї чуми з лиця землі\". Ваші руки несвідомо піднімаються в повітря й роблять рух, ніби ви готуєтеся створити заклинання. Бачачи жах у його очах, ви подумки проклинаєте його за те, що він вивів вас із себе."
+  },
+  {
+    "var": "FIRE_M1_mapevent12_name",
+    "field": "map_mapevent12_name",
+    "en": "Troubles",
+    "ua": "Troubles"
+  },
+  {
+    "var": "FIRE_M1_mapevent12_mesg",
+    "field": "map_mapevent12_mesg",
+    "en": "Baltron rushes into your tent, waking you from a near dead sleep.  \"Adrienne!  There is trouble with the men!  Come quick!\"  Throwing on clothes you stumble sleepy eyed out into camp and straight into a free for all.  Tatalians and Erathians are brawling, a huge fistfight has engulfed the camp!  \"Stop this now!\"  Your strong voice carries, but none listen.  Vainly you shout again and know it will only give you a sore throat.  From deep within you call the anger needed to release the power of Fire. \n\nUnleashing flames high into the night sky men quickly scramble for cover. Letting your temper cool, each man warily keeps their distance as you stalk through the camp, looking for the instigators.  It is easy to find them.  Two hotheaded Cavaliers were disciplined twice already for inciting the Mighty Gorgons within the ranks - by trying to ride them.  Now one of the troublemakers lies dead, having discovered why most don't lock eyes with a Mighty Gorgon.  Staring coldly at the remaining Cavalier you wordlessly snag the fool in one hand.  \n\nBetween gritted teeth you manage to speak these words, \"There - will - be - no - more - FIGHTING!\"  The camp jumps as you punctuate the last word with a small burst of fire from your free hand.  The Cavalier will need to change his shorts.  Dropping him you stalk back towards your tent.  Baltron takes over, scolding them further and arranging for healing of the wounded and burial of the dead.  ",
+    "ua": "Балтрон зайшов у ваш намет і збудив від сну: \"Адріана! Трапилася біда! Ходімо, швидко!\" Накинувши одяг, в напівсонному стані ви виходите подивитися, що ж сталося. У таборі розгорілася бійка між воїнами Ерафії й Таталії! \"Негайно зупиніться!\" Однак ніхто не слухає ваш наказ. Ви вигукували його знову, але цим неможливо нічого добитися - так ви тільки зірвете горло. З глибини вас переповнює гнів, необхідний для застосування магії вогню. Побачивши спалахи вогню, що злетів до небес, люди перестають битися. Дозволяючи собі охолонути, ви блудите табором, вишукуючи винуватців сутички. Це досить легко. Два запальних вершники вже були покарані за образу могутньої горгони дією - спробу осідлати її. Тепер один з них мертвий, дізнавшись, чому радять не дивитися горгоні в очі. Холодно дивлячись в очі вцілілого вершника, ви берете його за руку. Крізь зціплені зуби ви примудряєтеся вимовити: \"Ніхто - більше - не - посміє - БИТИСЯ!\" Весь табір здригається, оскільки останні слова супроводжуються невеликою вогняною кулею, що вилітає з вашої руки. Схоже, вершнику знадобиться змінити спіднє. Залишивши його, ви повертаєтеся назад до намету. У справу вступає Балтрон, що наказує допомогти пораненим і поховати загиблих."
+  },
+  {
+    "var": "FIRE_M1_mapevent13_name",
+    "field": "map_mapevent13_name",
+    "en": "Flowers",
+    "ua": "Flowers"
+  },
+  {
+    "var": "FIRE_M1_mapevent13_mesg",
+    "field": "map_mapevent13_mesg",
+    "en": "It has been a long and tiring day.  Traveling through familiar territory that has been turned into a pile of rotting corpses takes it toll on everyone.  Sighing heavily you retire to your simple tent to find a few hours of sleep.  Noticing the flap is open you cautiously enter, wondering if undead understand the notion of assassins.  If they do you were not going to find the answer today.  Dozens of flowers litter the inside of the tent, their sweet perfume a heavenly scent.  You breathe deeply and realize this is not something soldiers or Baltron would do.  Giggling from just outside the door lets you know who is responsible for such a gesture.  Children, recently rescued are watching you enjoy the simple pleasure of flowers amidst the horrors of war.  You toss them a smile and shoo them off to bed.  For that night, at least, you sleep well and dream only of your childhood.",
+    "ua": "День був довгим і виснажливим. Подорож через знайомі землі, перетворені в гори гниючої плоті, накладає відбиток на кожного. Важко зітхнувши, ви вирішуєте перепочити в похідному наметі і трохи поспати. Помітивши, що вони відчиняються, ви замислюєтеся, чи достатньо хитрі мерці, щоб підіслати найманого вбивцю. Втім, навіть якщо це і так, сьогодні справа в іншому. У наметі стоять десятки букетів квітів, їх прекрасний аромат всюди. Ви розумієте, що це не справа рук солдатів Балтрона. Хихикання, що лунає зовні, підказує, хто відповідальний за цей вчинок. Тільки діти, яких ви нещодавно врятували, здатні насолоджуватися красою квітів серед жахів війни. Ви даруєте їм посмішку і відправляєте їх спати. Цієї ночі ви згадуєте у сні своє дитинство."
+  },
+  {
+    "var": "FIRE_M1_mapevent14_name",
+    "field": "map_mapevent14_name",
+    "en": "Warning of War",
+    "ua": "Warning of War"
+  },
+  {
+    "var": "FIRE_M1_mapevent14_mesg",
+    "field": "map_mapevent14_mesg",
+    "en": "Now it is time to speak to the Tatalian leaders for there is a new menace that plagues Erathia.  This power behind this menace is yet unknown, but you suspect it is greater than the leaders of Erathia have guessed.  Tatalia needs to be warned to support Erathia if it falls.  Pushing aside the thoughts of yet another war you look forward to simply going home.  ",
+    "ua": "Прийшов час обговорити з лідерами Таталії нову загрозу, що нависла над Ерафією. Природа цієї темної сили таємнича і загадкова, але вже зараз зрозуміло, що справи йдуть гірше, ніж очікували правителі Ерафії. Таталія повинна бути готова прийти на виручку Ерафії, якщо це буде потрібно. Відганяючи думки про війну, що насувається, ви повертаєтеся додому."
+  },
+  {
+    "var": "FIRE_M1_mapevent15_name",
+    "field": "map_mapevent15_name",
+    "en": "Who is he?",
+    "ua": "Who is he?"
+  },
+  {
+    "var": "FIRE_M1_mapevent15_mesg",
+    "field": "map_mapevent15_mesg",
+    "en": "Scouts have been tracking the Death Knight, and have finally returned with word of who he is.  Those Death Knights and Necromancers seen here used to be living members of a cult that served Lord Haart.  From Erathia it has been confirmed - Lord Haart was raised from the dead.  He then raised the dead members of his cult who now serve him with utter loyalty.  He is a force of death moving through a land of great life.",
+    "ua": "Розвідники, послані вистежити Лицаря Смерті, нарешті дізналися, хто він. Лицарі Смерті та некроманти, що живуть тут, колись були людьми, котрі служили лорду Хаарту. З Ерафії прийшли погані звістки - лорд Хаарт повстав з мертвих. Після цього він підняв з мертвих своїх прислужників, і тепер вони знову служать йому вірою і правдою. Він - посланець смерті, що простує через землі Фестивалю Життя."
+  },
+  {
+    "var": "FIRE_M1_mapevent16_name",
+    "field": "map_mapevent16_name",
+    "en": "Death Knight",
+    "ua": "Death Knight"
+  },
+  {
+    "var": "FIRE_M1_mapevent16_mesg",
+    "field": "map_mapevent16_mesg",
+    "en": "This strange Death Knight seems more powerful than the others.  Not knowing who he is, and why he does not seem upset by your presence is worrisome.  Knowing that it could seriously harm you to not know this enemy you send out scouts to Tatalia and Erathia to see what they can find out.",
+    "ua": "Цей дивний Лицар Смерті більш могутній, ніж інші. Те, що про нього нічого не відомо, і що він не боїться вашої присутності, не обіцяє нічого хорошого. Відсутність відомостей про цього підступного ворога може серйозно нашкодити вам, тому ви посилаєте розвідників у Ерафію й Таталію."
+  },
+  {
+    "var": "FIRE_M1_mapevent17_name",
+    "field": "map_mapevent17_name",
+    "en": "Tatalia",
+    "ua": "Tatalia"
+  },
+  {
+    "var": "FIRE_M1_mapevent17_mesg",
+    "field": "map_mapevent17_mesg",
+    "en": "An answer has come back from Tatalia.  They do not know who this Death Knight is.  They are having problems of their own, and leave you to take care of the few necromancers seen in the valley.  Since at least half of the land affected belongs to Erathia, you know Tatalia will do little to aid you. ",
+    "ua": "Від розвідників у Таталії надійшли вісті. Їм не вдалося нічого дізнатися про цього Лицаря Смерті. Замість цього вони зіткнулися з іншими проблемами і змушені на час залишити вас, щоб розібратися з кількома некромантами, поміченими в долині. Ви знаєте, що оскільки щонайменше половина захоплених земель належить Ерафії, правителі Таталії не нададуть вам істотної підтримки."
+  },
+  {
+    "var": "FIRE_M1_mapevent18_name",
+    "field": "map_mapevent18_name",
+    "en": "Money",
+    "ua": "Money"
+  },
+  {
+    "var": "FIRE_M1_mapevent18_mesg",
+    "field": "map_mapevent18_mesg",
+    "en": "A messenger comes in from Erathia.  They need money to run a war.  Busy with their own problems they have neglected to realize there are problems on the border.  The messenger says if he does not return with the tithe due from this area then he will have to tell the Erathian military there is a Tatalian Witch running the territories here, and that could be very bad for you.  Grinding your teeth at having to be political you fork over the tithe.",
+    "ua": "З Ерафії прибув посланець. Їм потрібні гроші для ведення війни. Зайняті вирішенням власних проблем, вони недооцінили загрозу, витікаючу з кордонів. Гонець стверджує, що якщо він повернеться без грошей, військове начальство Ерафії може суттєво зашкодити відьмі з Таталії. Зціпивши зуби, ви вирішуєте проявити політичну мудрість і платите данину."
+  }
+]

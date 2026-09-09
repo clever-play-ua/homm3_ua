@@ -1,0 +1,350 @@
+[
+  {
+    "var": "AB_M6_prolog",
+    "field": "wrapper_prolog",
+    "en": "Gelu must take his army to cut off any escape routes the Eeofol army might be able to use.  King Roland and general Kendal are moving against the Kreegans and pushing them towards him, along with Queen Catherine's forces.  To ensure King Lucifer is defeated, the Kreegans must not be allowed to escape.",
+    "ua": "Ґело зі своєю армією повинен перекрити всі можливі шляхи відступу для армії Еофола. Король Роланд і генерал Кендал висуваються проти криганців і відтісняють їх до нього за підтримки армії Катерини. Щоб бути впевненим у тому, що король Люцифер буде знищений, не можна допустити, щоб криганци втекли."
+  },
+  {
+    "var": "AB_M6_epilog",
+    "field": "wrapper_epilog",
+    "en": "In my operations, information is always scarce, and never given full trust.  Now I am told the elemental Confluxes we have encountered, have allied with Queen Catherine in her war to destroy King Lucifer Kreegan.  I have orders to move deep into Eeofol, behind the main Kreegan force Catherine holds at the border.  There I am to cut off any potential escape route.  I pray this is not a trap.",
+    "ua": "Коли ведеш партизанську війну, будь-які відомості уривчасті, і нікому не можна до кінця довіряти. Ми дізналися, що колонії елементалів, немов нізвідки з'явилися по всій землі, стали на бік королеви Катерини в її війні проти Люцифера Криган. Мені наказано просунутися вглиб Еофола й обійти головні сили криганців з тилу, поки Катерина утримує їх на кордоні. Мені належить відрізати їм всі шляхи до відступу. Сподіваюся, це не пастка.\n"
+  },
+  {
+    "var": "AB_M6_map_name",
+    "field": "map_map_name",
+    "en": "A Blade in the Back",
+    "ua": "Ніж в спину"
+  },
+  {
+    "var": "AB_M6_map_desc",
+    "field": "map_map_desc",
+    "en": "Gelu must defeat all of the Eeofol armies in this region and cut off any escape route.  Without him, this quest shall fail.  Gelu will be allowed to advance to 24th Level and all of his skills, spells, and experience will be carried over to his next scenario.",
+    "ua": "Ґело належить перемогти всіх героїв Еофола і відрізати демонам шляху до відступу. Якщо він загине, все пропало. Ґело обмежений 24 рівнем. Якщо він переможе, його досвід, первинні та вторинні навички, а також Чарівна книга перейдуть у наступний сценарій разом з ним."
+  },
+  {
+    "var": "AB_M6_rumor0_name",
+    "field": "map_rumor0_name",
+    "en": "Halfling Assault Squads",
+    "ua": "Halfling Assault Squads"
+  },
+  {
+    "var": "AB_M6_rumor0_desc",
+    "field": "map_rumor0_desc",
+    "en": "A group calling themselves Tavin's Guerillas has begun attacking Kreegan trade caravans and barracks in and around Kreelah.",
+    "ua": "Якийсь загін, який називає себе партизанами Тевіна, почав нападати на обози і казарми демонів поблизу Кріль."
+  },
+  {
+    "var": "AB_M6_rumor1_name",
+    "field": "map_rumor1_name",
+    "en": "Halflings 2",
+    "ua": "Halflings 2"
+  },
+  {
+    "var": "AB_M6_rumor1_desc",
+    "field": "map_rumor1_desc",
+    "en": "Several halfling corpses were found in a battle site near Moortanis.",
+    "ua": "На полі битви поблизу Муртаніса виявлені тіла халфлінгів."
+  },
+  {
+    "var": "AB_M6_rumor2_name",
+    "field": "map_rumor2_name",
+    "en": "Sons of Erebus",
+    "ua": "Sons of Erebus"
+  },
+  {
+    "var": "AB_M6_rumor2_desc",
+    "field": "map_rumor2_desc",
+    "en": "King Lucifer's most elite unit, the Sons of Erebus, is getting ready to march.",
+    "ua": "Найкращі воїни короля Люцифера, \"Сини Еребуса\", готуються до виступу."
+  },
+  {
+    "var": "AB_M6_rumor3_name",
+    "field": "map_rumor3_name",
+    "en": "Xeron and the Blade",
+    "ua": "Xeron and the Blade"
+  },
+  {
+    "var": "AB_M6_rumor3_desc",
+    "field": "map_rumor3_desc",
+    "en": "Xeron, King Lucifer's right hand man, has acquired Armageddon's Blade, or so it is said.",
+    "ua": "Кажуть, Ксерон, права рука короля Люцифера, зумів викувати Клинок Армагеддону."
+  },
+  {
+    "var": "AB_M6_rumor4_name",
+    "field": "map_rumor4_name",
+    "en": "Lucifer 1",
+    "ua": "Lucifer 1"
+  },
+  {
+    "var": "AB_M6_rumor4_desc",
+    "field": "map_rumor4_desc",
+    "en": "King Lucifer is not going to leave Kreelah supposedly because of his big plan.",
+    "ua": "Король Люцифер відмовляється залишати Крілу. Схоже, він щось задумав."
+  },
+  {
+    "var": "AB_M6_rumor5_name",
+    "field": "map_rumor5_name",
+    "en": "Lucifer 2",
+    "ua": "Lucifer 2"
+  },
+  {
+    "var": "AB_M6_rumor5_desc",
+    "field": "map_rumor5_desc",
+    "en": "King Lucifer wants to destroy the world.",
+    "ua": "Король Люцифер замислив знищити весь світ."
+  },
+  {
+    "var": "AB_M6_obj0_town_name",
+    "field": "map_obj0_town_name",
+    "en": "Asha's Cairn",
+    "ua": "Еша-Керн"
+  },
+  {
+    "var": "AB_M6_obj44_monster_mesg",
+    "field": "map_obj44_monster_mesg",
+    "en": "\"You'sa gonna get eaten by big nasty Sons of Erebus.  We'sa gonna taste you'sa first.\"",
+    "ua": "\"Сс... великі, бридкі Сини Еребуса ласуватимуть твоїм тілом. Сс... ми їх випередимо-сс...\""
+  },
+  {
+    "var": "AB_M6_obj45_monster_mesg",
+    "field": "map_obj45_monster_mesg",
+    "en": "\"Son of Erebus almost here.  They'sa gonna paste you for attacking us.\"",
+    "ua": "\"Сс... Сини Еребуса вже на підході ... Сс... вони розмажуть тебе по стіні за нашу сссмерть...\""
+  },
+  {
+    "var": "AB_M6_obj61_town_name",
+    "field": "map_obj61_town_name",
+    "en": "Jagos",
+    "ua": "Ягос"
+  },
+  {
+    "var": "AB_M6_obj69_town_name",
+    "field": "map_obj69_town_name",
+    "en": "Moortanis",
+    "ua": "Муртанис"
+  },
+  {
+    "var": "AB_M6_obj152_monster_mesg",
+    "field": "map_obj152_monster_mesg",
+    "en": "\"We, the lesser Sons of Erebus, shall not allow you to pass.  Stand fast and die, else turn your tail and flee from us.  We neither ask quarter nor shall we give it.\"",
+    "ua": "\"Ми, менші сини Еребуса, не дозволимо тобі пройти-сс... Залишся і помреш - або біжи, підібгавши хвоста. Ми милості не просимо - І ти її від нас не дочекаєшся\"."
+  },
+  {
+    "var": "AB_M6_obj153_monster_mesg",
+    "field": "map_obj153_monster_mesg",
+    "en": "\"If you'sa sees em big Sons of Erebus, you'sa gonna be a scared.  We'sa are.\"",
+    "ua": "\"Як побачиш великих-сс Синів Еребуса, відразу хвіст підбереш. Ми завжди підтискаємо-сс...\""
+  },
+  {
+    "var": "AB_M6_obj237_town_name",
+    "field": "map_obj237_town_name",
+    "en": "Zaridon",
+    "ua": "Заридон"
+  },
+  {
+    "var": "AB_M6_obj290_town_name",
+    "field": "map_obj290_town_name",
+    "en": "Flann",
+    "ua": "Флан"
+  },
+  {
+    "var": "AB_M6_obj489_town_name",
+    "field": "map_obj489_town_name",
+    "en": "Caledoorn",
+    "ua": "Калідорн"
+  },
+  {
+    "var": "AB_M6_obj524_monster_mesg",
+    "field": "map_obj524_monster_mesg",
+    "en": "\"We do not like you.  You die now.\"",
+    "ua": "\"Ти нам не подобаєшся. Ти помреш-сс...\""
+  },
+  {
+    "var": "AB_M6_obj544_monster_mesg",
+    "field": "map_obj544_monster_mesg",
+    "en": "\"We are the lesser Sons of Erebus.  Prepare yourself for oblivion.\"",
+    "ua": "\"Ми - менші С-ссини Еребуса. Готуйся до смерті\"."
+  },
+  {
+    "var": "AB_M6_obj596_town_name",
+    "field": "map_obj596_town_name",
+    "en": "Ultana",
+    "ua": "Ультана"
+  },
+  {
+    "var": "AB_M6_obj863_monster_mesg",
+    "field": "map_obj863_monster_mesg",
+    "en": "\"Ye shiver and despair for the Sons of Erebus shall feast upon thy bloodied husks.\"",
+    "ua": "\"Бійся, тремти - Сини Еребуса будуть бенкетувати твоїми кривавими останками\"."
+  },
+  {
+    "var": "AB_M6_obj989_monster_mesg",
+    "field": "map_obj989_monster_mesg",
+    "en": "\"We'sa gonna eat your knuckles!\" shouts the leader.  \"KNUCKLES! KNUCKLES!\" chant the rest of the familiars at his back, peeking out from behind the leader.  Brave warriors indeed.",
+    "ua": "\"З'їмо тебе до останньої кісточки!\" - Кричить вождь. \"Кісточки! Кісточки!\" - дзявкають чорти, виглядаючи у нього з-за спини. Ну і лицарство."
+  },
+  {
+    "var": "AB_M6_obj990_monster_mesg",
+    "field": "map_obj990_monster_mesg",
+    "en": "\"Never more shall you walk in the light.  The Sons of Erebus are on their way.\"",
+    "ua": "\"Більше ти не побачиш Світло. Сини Еребуса вже в дорозі\"."
+  },
+  {
+    "var": "AB_M6_obj991_monster_mesg",
+    "field": "map_obj991_monster_mesg",
+    "en": "\"Advance no further meat.  Our flames of purification shall be your end if you defy us.\"",
+    "ua": "\"Не наближайся, шматок м'яса! Наше очисне полум'я спалить тебе без залишку \"."
+  },
+  {
+    "var": "AB_M6_obj992_monster_mesg",
+    "field": "map_obj992_monster_mesg",
+    "en": "\"Son of Erebus coming.  Watch out!  They'sa gonna eat you!\"",
+    "ua": "\"Йдуть сини Еребуса. Бережись! Вони з'їдять тебе!\""
+  },
+  {
+    "var": "AB_M6_obj994_monster_mesg",
+    "field": "map_obj994_monster_mesg",
+    "en": "\"Your entrails shall decorate our lair.  Flee now, for it is your only hope of salvation.\"",
+    "ua": "\"Твої кишки прикрасять наше лігво. Біжи - якщо встигнеш!\""
+  },
+  {
+    "var": "AB_M6_obj1348_guardian_mesg",
+    "field": "map_obj1348_guardian_mesg",
+    "en": "As your army approaches the city of Jagos, you can see a peculiar thing.  There are scores of men crucified upon the battlements.  One in particular stands out.  He has longish gray hair, a full beard, mustache, and a strange aura about him, even while dead.  It appears as though Grand Forgesmith Khazandar has met his untimely end, and not in a pleasant manner either.  Rather, not only has he been killed, but he has been humiliated and put on display for others to mock and jeer as well.\n\nYou can smell the carnage for miles, yet you are drawn to this place inexplicably.  Something must be done to stop this madness.  Those who follow the dark one called Lucifer shall pay with their lives is the silent vow you mutter to yourself as you continue up the road.",
+    "ua": "Армія наближається до Ягосу. Жахливе видовище: на стінах замку розп'ято сотні тіл. Один нещасний привертає вашу увагу: довге сиве волосся, пишна борода, вуса; дивна аура оточує мертвого старця. Схоже, великий коваль Казандар знайшов свою смерть. Що за страшний кінець! Не просто убитий, але виставлений на посміховисько демонам.\n\nЗапах різанини чути на милі навколо, і все ж вас нез'ясовно тягне вперед. Це безумство треба припинити. Послідовники Люцифера заплатять за все! З цією думкою ви скачете далі."
+  },
+  {
+    "var": "AB_M6_obj1351_guardian_mesg",
+    "field": "map_obj1351_guardian_mesg",
+    "en": "You see ahead what appears to be a battlefield with several dozen dead on both sides of the conflict.  The dead demons' ichor fills the mid-morning air with a crisp smell of evil, while their opponents' corpses confirm the rumors that the Halflings want their land back.\n\nSickened by the hundreds of dead Halflings, you are forced to leave the scene or wretch.  Your men are not so lucky, for not all of them have horses as agile as yours and must pass through the carnage much more slowly.  Many empty their stomachs, adding to the virtually impregnable wall of odors assaulting them as they march.",
+    "ua": "Попереду поле битви, засіяне мерцями. Запах сірки з жил полеглих демонів наповнює повітря смородом смерті; віддалік лежать тіла хобітів. Схоже, вони і справді вирішили боротися за рідний край!\n\nНемає сил дивитися на мертвих чоловічків. Ви скачете геть. Але не всім воїнам пощастило так, як вам, не всі коні настільки швидкі, повільно вони рухаються серед мертвих тіл. Людей рве; сморід стає зовсім нестерпним."
+  },
+  {
+    "var": "AB_M6_obj1366_guardian_mesg",
+    "field": "map_obj1366_guardian_mesg",
+    "en": "A group of demons appears to be fleeing.  Either that or they've been sent on a suicide mission.  What a pathetic array of troops; they should be no match for your troops.",
+    "ua": "Група демонів мчить геть від замку. Втікачі - або самогубці. Жалюгідні тварі. Ваші війська легко їх розчавлять."
+  },
+  {
+    "var": "AB_M6_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Opening",
+    "ua": "Opening"
+  },
+  {
+    "var": "AB_M6_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "The message sent last night told you the following:\n\n\"Gelu, you have been doing well thus far in your guerilla attacks, but the time has come to make our push towards the Eeofol capital city of Kreelah and end this once and for all.  While my husband and I march from the south, you are to invade through Avlee and cut off any escape route the Kreegans may have.  I do not wish to be traversing the Eeofol countryside looking for this King Lucifer.  We cannot allow him to use Armageddon's Blade.  Not now, not ever!  Do not fail me, my loyal Gelu.  Too much is at stake.\"",
+    "ua": "Пізно ввечері прибуло послання.\n\n\"Ґело, партизанська війна під твоїм командуванням принесла нам неоціненну користь Але прийшла пора вийти з тіні. Пора виступати до Крілу, столиці Еофола, і покінчити з демонами раз і назавжди Ми з чоловіком йдемо на неї з півдня; Тобі належить вторгнутися в Еофол через Ав-Лі і відрізати демонам всі шляхи до відступу. Ми не можемо ганятися за Люцифером по всій країні: він здатний застосувати Клинок. Цього не можна допустити. Не підведи нас, мій вірний Ґело. На карту поставлено все.\""
+  },
+  {
+    "var": "AB_M6_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Sleen Captured",
+    "ua": "Sleen Captured"
+  },
+  {
+    "var": "AB_M6_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "Stemming the tide of escaping refugees when one is looking for the enemy is never an easy task and this time is no exception.  Your troops are combing the countryside seeking out those who would be fleeing their homeland in an attempt to cheat fate.  You have been ordered to put pressure on the Kreegans from the north and that you shall.\n\nTowards that end, you have set up several teams of people whose job it is to watch the floods and look for potential targets.  One of these teams sent word they had captured a rather important \"refugee\", the Arbiter candidate named Sleen.  Under orders from you, he was brought to you immediately for questioning.\n\nAfter several hours of questioning, Sleen finally broke and gave the following information: Xeron indeed does have the Blade and is intending to use it very soon.  Also, Sleen mentioned a great smith who was \"convinced\" to make the weapon.  Pressing, Sleen refuses to give up the name of the smith.  You figure it is unimportant for now.  The fact of the matter is the Blade is real and unleashed upon the world.  Now the difficult part is to locate the weapon and deal with it.\n\nSleen, in chains, will be taken to Steadwick to stand trial for his crimes.",
+    "ua": "Не так вже й просто виявити серед біженців ворога. Солдати прочісують місцевість у пошуках тих, хто вирішив обдурити долю і бігти в тихі краї. Вам наказано тіснити демонів з півночі, ви робите все можливе.\n\nКілька загонів затримують колони біженців і вишукують серед них ворогів. Один з таких загонів взяв у полон дуже цікавого \"біженця\" - Сліїна, колишнього кандидата на роль Судді в одному з куточків Ерафіі. Ви наказуєте вчинити допит не зволікаючи.\n\nКілька годин - і Сліїн зламався. Так, Ксерон добув Клинок і готовий використовувати його силу. Так, був великий коваль, якого \"переконали\" викувати меч. Але він, Сліїн, його імені не скаже, хоч убийте. Але це вже не так важливо. Клинок існує; зло вирвалося на свободу. Необхідно знайти його і знищити. А Сліїна закують в кайдани і повезуть на королівський суд у Стедвік."
+  },
+  {
+    "var": "AB_M6_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Guerilla Raid",
+    "ua": "Guerilla Raid"
+  },
+  {
+    "var": "AB_M6_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "A note is delivered to you via a strange messenger, a corpse spiked to a tree.  When you get the note, you are told of how it was delivered.  This makes you wince slightly, as it was truly cruel.\n\nThe note reads; \"To the murderer Gelu, this is the only warning you will receive and is to inform you I will be killing you and all that you love as you have done to me.  This message is revenge for my mother, you monster.\" -- Xeron, Leader of the Sons of Erebus, and bearer of Armageddon's Blade.\n\nConfused, you have to think back on those that you had slain recently.  No women come to mind.  There was a succubus on that raid 2 weeks ago, but the thought of her being anyone's mother was the furthest thing from your mind as she was trying to drink your soul.",
+    "ua": "Вранці поблизу табору виявлено мерця, прикутого до дерева. На його грудях записка. Ви такі похмурі: кому може бути властива така жорстокість?\n\nУ листі йдеться: \"Ґело, вбивці. Це моє перше й останнє попередження Я знищу тебе і все, що тобі дороге. Чи не так і ти вчинив зі мною? Чудовисько. Я помщуся тобі за смерть матері!\". - Ксерон, ватажок \"Синів Еребуса\", носій Клинка Армагеддону.\n\nЗбентежений, ви починаєте згадувати: де ж на ваших руках кров жінки? У голову нічого не приходить. Пам'ятається, два тижні тому ви вбили суккуба, тоді ви й не думали, що це істота може виявитися чиєю-небудь матір'ю: чудовисько намагалося випити з вас душу."
+  },
+  {
+    "var": "AB_M6_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "Halfling Guerrillas",
+    "ua": "Halfling Guerrillas"
+  },
+  {
+    "var": "AB_M6_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "Kieran, one of your most trusted scouts, reports that yesterday his team was on a watchdog patrol of the area near Moortanis.  There they watched as a group of demons tried to sneak across the border into Avlee, but before his team could act, the devils were cut down by a horde of smallish humanoid warriors wielding slings and shortswords.  While the numbers of these little people were not very numerous, the demons never stood a chance.  They did manage to slay a few, but not enough to make an account for themselves.\n\nWhen the demons were all dead, the little people disappeared into well-hidden tunnel entrances.  Kieran and his team were stunned by the swiftness and ferocity of the attack, but eventually went down to take a look at the battlefield.  The little people were in fact Halflings.  It has been believed by many that the Halflings who used to live in Eeofol were all killed, but apparently this is not true.  Interesting.",
+    "ua": "К'єран, один з ваших довірених розвідників, повідомляє, що патрулював напередодні місцевість навколо Муртаніса. Група демонів спробувала втекти через кордон у Ав-Лі, але не встигла. К'єран віддав наказ атакувати, і на дияволів кинулася юрба крихітних чоловічків з пращами та кинджалами. Не так вже й багато їх було, але демони і оком моргнути не встигли. Вони вбили кількох нападників, але зразу ж полягли самі.\n\nЛедве останній демон звалився на землю, чоловічки сховалися в підземних тунелях. Їх швидкість і лють приголомшила К'єрона; пізніше, прийшовши до тями, він спустився до поля битви. Нападники виявилися халфлінгами. Всі вважали, що халфлінги Еофола загинули, виходить, це не так. Дуже цікаво."
+  },
+  {
+    "var": "AB_M6_mapevent4_name",
+    "field": "map_mapevent4_name",
+    "en": "Note From Roland",
+    "ua": "Note From Roland"
+  },
+  {
+    "var": "AB_M6_mapevent4_mesg",
+    "field": "map_mapevent4_mesg",
+    "en": "A letter is delivered by griffin rider this morning bearing the seal of the King of Enroth.  Opening it quickly, you read it twice to make sure you know its contents completely, then destroy it.  It read as follows:\n\n\"Gelu, this letter is to inform you my army is on the move.  General Kendal is returning to Steadwick to deal with some political problems back home, but his presence is felt with us still.  You've done an excellent job thus far with your skillful guerilla attacks and have the enemy scrambling.  Keep up the good work and may the Light shine down upon you.\" -- Roland.",
+    "ua": "Вранці в таборі приземлився новий гонець на грифоні. Сувій запечатаний особисто королем Енрота. Ви швидко розкрили лист, двічі його перечитуєте, щоб запам'ятати кожне слово - і спалюєте.\n\n\"Ґело, повідомляю: моя армія виходить у похід. Генерал Кендал повертається в Стедвік - треба залагодити деякі дипломатичні питання - але його дух як і раніше з нами. Партизанська війна під твоїм командуванням надала нам неоціненну допомогу, ворог тремтить. Продовжуй у тому ж дусі, і хай з тобою буде Світло.\" - Роланд."
+  },
+  {
+    "var": "AB_M6_mapevent5_name",
+    "field": "map_mapevent5_name",
+    "en": "Political Unrest",
+    "ua": "Political Unrest"
+  },
+  {
+    "var": "AB_M6_mapevent5_mesg",
+    "field": "map_mapevent5_mesg",
+    "en": "A letter arrives from Queen Catherine by griffin rider.  The rider, in an obvious hurry, simply leaves the letter without even so much as dismounting the great winged beast.  Upon ripping open the sealed message, you read in total shock and disbelief.\n\n\"Gelu, my faithful servant, I am sending this letter to inform you the nobility in Erathia is becoming increasingly difficult to work with on this war.  They are beginning to refuse to support me with monies and supplies.  Troops are even beginning to be withheld or delayed.  They tell me they consider this war at its end.  Little do those shortsighted fools understand the gravity of the situation we face.  As such, I am recommending we utilize our newfound allies more as we shall need them to win this war.  I have a plan to deal with the nobles, but the timing must be just right.\n\nGood luck, we are all counting on you.\" -- Catherine",
+    "ua": "Гонець на грифоні приніс вам новий лист від королеви Катерини. Вершник поспішає, йому ніколи спішуватись. Ви розкриваєте послання і починаєте читати. Недовіра на обличчі змінюється жахом.\n\n\"Ґело, мій вірний воїн, настав час сказати тобі, що ерафійські лорди відмовилися допомагати нам у війні. Вони перестали надсилати гроші і продовольство. Навіть свіжих військ ми не бачили ось вже довгий час. Вони вважають, війна закінчилася. Вони не хочуть бачити далі власного носа, і як їм пояснити, що світ висить на волосині. Раджу тобі звернутися за допомогою до нових союзників - без них нам не виграти війну. Я знаю, як змусити лордів пошкодувати про прийняте рішення, але час для цього ще не настав.\n\nУспіху. Ми всі на тебе розраховуємо.\" - Катерина."
+  },
+  {
+    "var": "AB_M6_mapevent6_name",
+    "field": "map_mapevent6_name",
+    "en": "Gelu sends a runner",
+    "ua": "Gelu sends a runner"
+  },
+  {
+    "var": "AB_M6_mapevent6_mesg",
+    "field": "map_mapevent6_mesg",
+    "en": "All this talk of the Sons of Erebus has you wondering, so you summon a runner to visit with Judge Fairweather and deliver a message.  Knowing the Judge to be the wisest sage in all Antagarich, you send this runner with a long list of queries on subjects broad and narrow.  Your priority is to keep the demon hordes from fleeing your way, but it never hurts to know thy enemy.",
+    "ua": "Настав час з'ясувати, хто такі \"Сини Еребуса\", про яких говорить весь світ. Ви шлете гінця до судді Фервезеру. Суддя - наймудріший з мудреців Антагрича. У вас накопичилося безліч запитань, важливих і другорядних. Вам доручено зупинити тікаючих демонів, але не завадить трохи краще пізнати ворога."
+  },
+  {
+    "var": "AB_M6_mapevent7_name",
+    "field": "map_mapevent7_name",
+    "en": "Runner returns",
+    "ua": "Runner returns"
+  },
+  {
+    "var": "AB_M6_mapevent7_mesg",
+    "field": "map_mapevent7_mesg",
+    "en": "Early in the morning, the runner you sent to consult with Judge Fairweather returns.  He is tired, weak, and suffering from lack of sleep, yet he has returned.  A letter is stored in his things and found after he collapsed.  The letter opened, you read the following:\n\n\"In answer to your queries, I shall tell you this, young Gelu of the Forest Guard.  The Unholy Order of the Sons of Erebus is a near monastic order of demoniacs and heretics sharing one desire, to carry out the wishes of their liege, King Lucifer.\n\nAll are well trained and seasoned veterans.  The most evil and devious of their order is the one called Xeron.  According to what I have been able to learn, he is their current leader; hand picked by King Lucifer himself for the job.\n\nThough times for them may look grim, never count one out, for they enjoy cheating.  There is always some trick up their sleeve.  Trust them not even if they should choose to surrender.  Good fortune on your quest.\" -- Judge Fairweather, Arbiter and Sage",
+    "ua": "Рано вранці повернувся гонець від судді Фервезера. Він втомився і ослаб, він ледве тримається на ногах - і все ж він дійшов! Він падає на землю. Серед його речей ви знаходите лист і читаєте:\n\n\"Здрастуй, мій юний Ґело, капітан Лісової варти. Знай: Темний Орден \"Синів Еребуса\"- орден, подібний чернечому, і вступають у нього одержимі і єретики, ведені однієї лише пристрастю - пристрастю служити своєму повелителю, королю Люциферу.\n\nВсі вони - досвідчені й загартовані в боях воїни. Але найстрашніший і найпідступніший з них - демон на ймення Ксерон. За моїми відомостями, він - їх новий вождь, і обрав його сам король Люцифер.\n\nЗараз над ними згущуються хмари, і все ж не можна упускати їх з поля зору. Вони королі обману, на все у них є нова хитрість про запас. Не вір їм навіть у тому випадку, якщо вони викинуть білий прапор. Успіху тобі.\" - Фервезер, суддя і мудрець."
+  },
+  {
+    "var": "AB_M6_mapevent8_name",
+    "field": "map_mapevent8_name",
+    "en": "Halflings Strike Back",
+    "ua": "Halflings Strike Back"
+  },
+  {
+    "var": "AB_M6_mapevent8_mesg",
+    "field": "map_mapevent8_mesg",
+    "en": "Your spies report several halfling guerillas have won a minor victory and taken the supply route from the south away from the Kreegans.  They shall not hold it long, for the Sons of Erebus have begun to rally.  If you hurry, you can aid them in getting their homeland back.  They are timid, so do not expect them to help you openly.",
+    "ua": "Розвідники доповідають, що загін халфлінгів здобув невелику перемогу і зайняв один з південних шляхів, яким рухаються криганські обози. Довго протриматися у них не вийде: проти них вже кинуті \"Сини Еребуса\". Якщо ви поквапитеся, то встигнете допомогти маленьким сміливцям відстояти рідну землю. Вони все ще боязкі, не розраховуйте, що вони стануть допомагати вам відкрито."
+  },
+  {
+    "var": "AB_M6_mapevent9_name",
+    "field": "map_mapevent9_name",
+    "en": "Smith name revealed",
+    "ua": "Smith name revealed"
+  },
+  {
+    "var": "AB_M6_mapevent9_mesg",
+    "field": "map_mapevent9_mesg",
+    "en": "At dusk last night a small boy came running into camp, seeking the pale warrior called Devil's Bane.  He stumbled in, all haggard and underfed, falling at your feet.  He looked up, gazing into your face and passed out.  \n\nA couple of hours later, the boy revived and spoke of his time as an apprentice to the Grand Forgesmith, Khazandar.  He then spun a tale of working as a simple boy in a simple forge, when along came these mysterious people looking like fantastical creatures, who spoke in hush tones to Khazandar and the whole lot of them vanished in a puff of blue smoke.  \n\nWeeks later, he was summoned to again work for Khazandar as his primary apprentice, a great honor it was indeed.  The difference this time was the people around Khazandar were not the mysterious figures from before, but rather these people were demonic and frightening.  A tall, powerful-looking devil sneered at the boy day in and day out.  And when they had completed that which they were being forced to create, the devil, called Xeron by his minions, ordered them taken to Jagos for their execution.  Khazandar, the boy said, was taken away and the boy left to die in a cell.  He never saw him again.  After only a few days, the boy managed to escape and just now reached here.  He had heard of this pale warrior who was steadily defeating the devils these past few months and chose to seek him out.  The boy wanted to warn you of the thing that he helped to create, a weapon dubbed Armageddon's Blade.",
+    "ua": "У сутінках до табору біжить хлопчисько. Він шукає блідолицього воїна, що має славу гонителя дияволів. Втомлений, обірваний, він падає до ваших ніг - дивиться вам в обличчя - і втрачає свідомість.\n\nЧерез декілька годин хлопчик прийшов до тями і розповів, що був учнем великого коваля Казандара. Ні про що не підозрюючи, працював він у кузні, коли у двері постукали таємничі незнайомці, на вигляд не люди навіть, а казкові істоти. Тихо перешіптувалися вони про щось з учителем - і зникли в клубах блакитного диму.\n\nКілька тижнів потому Казандар знову призначив його головним підмайстром - величезна честь для учня. Але тепер Казандара оточували не таємничі незнайомці, а жахливі демони. Високий і могутній диявол скалив на хлопчика ікласту пащу. А коли вони з учителем виконали наказане, диявол, якого інші звали Ксерон, велів віднести їх в Ягос і піддати страті. Казандара повели; хлопчика ж покинули помирати в камері, і більше він не бачив вчителя. Через кілька днів йому вдалося втекти, і він помчав навпростець до партизанів. Він багато чув про блідолицього воїна, який місяць за місяцем б'ється з дияволами, і вирішив попередити його: вчитель викував для демона не просто меч. То був Клинок Армагеддону."
+  }
+]

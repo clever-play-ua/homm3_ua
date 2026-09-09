@@ -1,0 +1,14 @@
+[
+  {
+    "var": "EVIL2_campaign_name",
+    "field": "wrapper_campaign_name",
+    "en": "Long Live the King",
+    "ua": "Нехай живе Король!"
+  },
+  {
+    "var": "EVIL2_campaign_desc",
+    "field": "wrapper_campaign_desc",
+    "en": "The war in Erathia is the greatest thing that could have happened for the nation of Deyja.  A war of this scale is an endless harvest for our undead armies.  Today we shall feast, and tomorrow we shall conquer Erathia for ourselves.",
+    "ua": "Для Деї нічого вдаліше війни в Ерафії не можна було й придумати. Війна такого масштабу принесе нам багатий урожай скелетів. Сьогодні ми будемо бенкетувати. Завтра - оголосимо Ерафію царством нежиті."
+  }
+]

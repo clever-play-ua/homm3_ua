@@ -1,0 +1,86 @@
+[
+  {
+    "var": "YOG_M4_prolog",
+    "field": "wrapper_prolog",
+    "en": "The time spent in Tatalia wasn't very long, and you were quickly on your way to Erathia in search of Falor and Terwen.  With any luck, the Erathians will be less hostile than the Tatalians were.",
+    "ua": "Ви недовго пробули в Таталії, і тепер прагнете в Ерафію, щоб знайти Фалора і Терві. Навряд чи ерафійці будуть більш гостинними, ніж жителі Таталії."
+  },
+  {
+    "var": "YOG_M4_epilog",
+    "field": "wrapper_epilog",
+    "en": "I gave up the first piece of the Sword, although I had to resist all of my wizardly training to do so.  Now I am to find the hut of a seer named Falor and give him two more pieces: the Celestial Necklace of Bliss and the Lion's Shield of Courage.  This will be no simple errand, for the Erathians don't take kindly to large armies traipsing across their country.",
+    "ua": "Я доставив першу частину Меча за призначенням, хоча для цього мені довелося без ніякого жалю викорінити все, що залишилося в мені від чарівника. Тепер мені належить знайти провидця на ім'я Фалор і передати йому ще дві частини - Намисто небесного блаженства і Щит левової хоробрості. Зробити це непросто, бо мешканці Ерафії не люблять, коли в їхній країні з'являються непрошені гості."
+  },
+  {
+    "var": "YOG_M4_map_name",
+    "field": "map_map_name",
+    "en": "Falor and Terwen",
+    "ua": "Фалор і Тервен"
+  },
+  {
+    "var": "YOG_M4_map_desc",
+    "field": "map_map_desc",
+    "en": "Yog must deliver the Celestial Necklace of Bliss and Lion's Shield of Courage to Falor and Terwen to win the scenario.  However, if Yog is defeated in combat or loses either artifact, the scenario is lost.  Yog is limited to level 21 but will carry his experience and skills on to the next scenario.",
+    "ua": "Щоб виграти, Йоґ повинен доставити Намисто небесного блаженства і Щит левової хоробрості Фалору і Тервену. Якщо Йоґ буде переможений у битві або втратить якийсь артефакт, він програє. Герой обмежений 21 рівнем. Якщо він переможе, то перейде у наступний сценарій."
+  },
+  {
+    "var": "YOG_M4_obj350_quest_proposal",
+    "field": "map_obj350_quest_proposal",
+    "en": "The guards here say they have orders to only let Yog pass.",
+    "ua": "Вартові кажуть, що у них є наказ пропустити лише Йоґа."
+  },
+  {
+    "var": "YOG_M4_obj350_quest_progress",
+    "field": "map_obj350_quest_progress",
+    "en": "The guards here will only let Yog pass.",
+    "ua": "Вартові пропустять тільки Йоґа."
+  },
+  {
+    "var": "YOG_M4_obj350_quest_completion",
+    "field": "map_obj350_quest_completion",
+    "en": "At last, it is Yog.  Do you wish to pass?",
+    "ua": "Нарешті ви тут, Йоґ. Ви хочете пройти?"
+  },
+  {
+    "var": "YOG_M4_obj390_quest_proposal",
+    "field": "map_obj390_quest_proposal",
+    "en": "\"Hello.  I am Falor, and this is Terwen.  Duke Winston Boragus informed us you might be coming here.  You are to give us the Lion's Shield of Courage and the Celestial Necklace of Bliss, I believe.\"",
+    "ua": "\"Привіт. Мене звуть Фалор, а це Терві. Герцог Вінстон Борагус говорив нам, що ти можеш прийти. Ти ж прийшов, щоб віддати нам Щит левової хоробрості і Намисто небесного блаженства, чи не так?\""
+  },
+  {
+    "var": "YOG_M4_obj390_quest_completion",
+    "field": "map_obj390_quest_completion",
+    "en": "   Well, don't just stand there!  Give us the Shield and Necklace and be on your way!  Oh, wait!  Take this and give it to the Dukes so that he will know you have visited us and done what you were supposed to do.\n\n   As you reach the door Falor comes up and apologizes for Terwen's rude behavior.  \n\n   \"Please excuse Terwen.  He gets into moods sometimes.  Good luck on the rest of your quest.\"\n   With that, Falor shakes your hand.  You are now on your way in search of Beleg and Orruk to complete your quest. ",
+    "ua": "Ну, не стій же просто так! Дай нам Щит і Намисто! Постривай! Візьми ось це і передай герцогу на знак того, що ти виконав другу частину завдання.\n\nБіля дверей вас наздоганяє Фалор і вибачається за грубу поведінку Терві.\n\n\"Будь ласка, вибачте його. Іноді в нього дуже різкий характер. Успіху вам\".\nЗ цими словами Фалор тисне вам руку. Тепер вам треба знайти Белега й Орука, щоб завершити завдання."
+  },
+  {
+    "var": "YOG_M4_obj391_guardian_mesg",
+    "field": "map_obj391_guardian_mesg",
+    "en": "Journal Entry 17:  It has been a while since my last journal entry, but I have been very busy.  The Erathian army attacked me sooner than I thought.  It looks as if my luck is taking a turn for the better, though.  I found a cave in the middle of the lake.  It was good thing too because Falor and Terwen are both down here somewhere.",
+    "ua": "Запис 17: Минув якийсь час з тих пір, як я брався за щоденник. Я був дуже зайнятий. Армія Ерафії атакувала мене швидше, ніж я очікував. Здається, фортуна повертається до мене обличчям. Я знайшов печеру в центрі озера. Це гарна новина, тому що Фалор і Терві повинні бути десь тут."
+  },
+  {
+    "var": "YOG_M4_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Intro",
+    "ua": "Intro"
+  },
+  {
+    "var": "YOG_M4_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "Before leaving Tatalia you sent a messenger off to deliver the Pendant of Courage to Winston Boragus so that he would know you have successfully completed the first part of your quest.  After dismissing the messenger, you marched off to Erathia to complete the second part.  You now been in Erathia for several days, but you have been unable to locate Falor and Terwen.  The best clue you have to their whereabouts is a hazy recollection from a peasant that they live somewhere underground.",
+    "ua": "Перш ніж покинути Таталію ви відправляєте посильного передати Вінстону Борагусу Кулон мужності в знак того, що ви успішно виконали першу частину завдання. Після цього ви вирушаєте в Ерафію, щоб виконати другу частину. Через кілька днів після того, як ви увійшли в Ерафію, ви все ще не можете знайти Фалора і Тервена. Найкраще, що вам спадає на думку - розпитати про них селян, що живуть під землею."
+  },
+  {
+    "var": "YOG_M4_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Journal Entry 16",
+    "ua": "Journal Entry 16"
+  },
+  {
+    "var": "YOG_M4_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "Journal Entry 16:  Fortifying my position wasn't difficult, for the mountains make an effective barrier.  However, my scouts brought back information that suggests the rest of my quest will not be as easy.  For me to gain access to Falor and Terwen's underground lair, I must visit a Keymaster's tent located deep in enemy territory.",
+    "ua": "Запис 16: Зайняти оборону було зовсім не складно - гори створюють природні перешкоди. Тим не менш, мої розвідники принесли звістку про те, що, судячи з усього, виконати другу частину завдання буде нелегко. Щоб отримати доступ до підземного лігва Фалора і Тервена, я повинен відвідати намет ключника, розташований в самому центрі території противника."
+  }
+]

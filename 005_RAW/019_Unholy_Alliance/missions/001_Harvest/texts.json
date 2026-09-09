@@ -1,0 +1,74 @@
+[
+  {
+    "var": "FINAL_M1_prolog",
+    "field": "wrapper_prolog",
+    "en": "Like fields of wheat, the peasants of this area are harvested to swell the ranks of the undead.  There's no need to ask yourself why the undead would do such a thing.  Why pretend to know the ways of evil?  However, you can't shake the suspicion that something far more sinister is at work.",
+    "ua": "У цих місцях селян збирають, як пшеницю, для збільшення числа постійно зростаючих військ нежиті. Марно запитувати, навіщо нечисть це робить. Хто знає всі таємниці Зла? Однак ви не можете відкинути підозри, що насправді відбувається щось ще більш страшне."
+  },
+  {
+    "var": "FINAL_M1_epilog",
+    "field": "wrapper_epilog",
+    "en": "A Necromancer is at work here.  Peasants all throughout this land are turning up as walking corpses.  But no noble or lord has come forward to put a stop to this.  I will take it upon myself to destroy this menace!",
+    "ua": "Тут явно капостить некромант. По всій країні селяни натовпами перетворюються на живі трупи, а шляхетні лорди сидять по домівках, ніби це їх не стосується. Що ж, доведеться мені самому розібратися, в чому тут справа!"
+  },
+  {
+    "var": "FINAL_M1_map_name",
+    "field": "map_map_name",
+    "en": "Harvest",
+    "ua": "Збір урожаю"
+  },
+  {
+    "var": "FINAL_M1_map_desc",
+    "field": "map_map_desc",
+    "en": "Yog must defeat the Necromancers creating havoc in this part of Erathia to win the scenario.  However, if Yog is defeated in combat, the scenario is lost.  Yog is limited to level 30 but will carry his experience and skills on to his next scenario.",
+    "ua": "Для того щоб отримати перемогу в цьому сценарії, Йоґ повинен розгромити некромантів, що сіють смерть і руйнування в цій частині Ерафії. Якщо ж Йоґ програє хоча б один бій, сценарій закінчиться поразкою. Йоґ обмежений 30 рівнем, але він переходить у наступний сценарій з усім своїм досвідом."
+  },
+  {
+    "var": "FINAL_M1_obj1245_guardian_mesg",
+    "field": "map_obj1245_guardian_mesg",
+    "en": "As you approach the town you notice that the people are in rather good spirits.  Wondering why this is so, you question a peasant in the area.  He explains, \"Why, sir, it is because you are here to rescue us.  Not only that, in my sister's town there is another Barbarian helping them out against the Necromancers.  This means Erathia and Krewlod may be making peace, right?\"  You just nod and wander away, not wanting to dash his hopes.  But you do make a mental note to check out the other barbarian who is having trouble with Necromancers as well.",
+    "ua": "Наблизившись до міста, ви помічаєте, що навколишні жителі перебувають у вельми піднесеному настрої. У подиві ви звертаєтеся за роз'ясненнями до місцевого селянина. Він відповідає: «Це все тому, мілорде, що тепер ви з нами і, отже, є кому захистити нас від супостата. До того ж, у місті, де живе моя сестра, з'явився інший варвар, який теж охороняє тамтешніх жителів від некромантів. Виходить, Ерафія з Крюлодом помирилися - так чи ні?» Ви обмежуєтеся кивком і продовжуєте шлях, не бажаючи даремно обнадіювати доброго селянина. Тим не менш, про себе ви вирішуєте дізнатися, хто цей інший варвар, який теж не в ладах з некромантами."
+  },
+  {
+    "var": "FINAL_M1_obj1344_guardian_mesg",
+    "field": "map_obj1344_guardian_mesg",
+    "en": "Standing on a small cliff and looking out, you see that the road splits further up.  Beyond the split in the road there is decaying trees, evidence of Necromancer influence.  This is not a good thing, and you set out to investigate the decay from a better vantage point.",
+    "ua": "З пагорка вам видно, що дорога попереду роздвоюється. За розвилкою криво і навскіс стирчать гниючі стовбури - сліди безчинств некроманта. Все це вам дуже не подобається, і ви обережно рухаєтеся вперед, щоб поблизу розглянути загиблий ліс."
+  },
+  {
+    "var": "FINAL_M1_obj1345_guardian_mesg",
+    "field": "map_obj1345_guardian_mesg",
+    "en": "Feeling the horses need a rest, you pull over to the edge of the road and call a halt for a few minutes.  As you take a drink of water you make a mental note of your surroundings and what the evil necromancers have done to what once was a beautiful land.  Whoever did this will pay, and they will pay dearly.",
+    "ua": "Коні втомилися, і ви робите короткий привал на узбіччі дороги. Кілька ковтків води освіжають пересохле горло, і ви починаєте помічати, у що кляті некромант перетворили цей колись квітучий край. Хто б не були ці лиходії, вони дорого заплатять за свої безчинства."
+  },
+  {
+    "var": "FINAL_M1_obj1346_guardian_mesg",
+    "field": "map_obj1346_guardian_mesg",
+    "en": "Traveling down the road, you stop suddenly as you come across a Necromancer's castle.  It stands on the ruins of an old Erathian town.  Some of the walls are still evident, crumbling underneath the Necropolis' shadow.  The stench of death causes you to gag and hardens your resolve to help these people.",
+    "ua": "За поворотом дороги перед вами раптово відкривається вид на замок некроманта. Він побудований на руїнах стародавнього ерафійського міста. Подекуди видно залишки колишніх стін, що розсипалися прахом там, де їх торкнулася нечиста тінь Некрополісу. Від смердючого духу смерті мутиться свідомість, і ви вирішуєте щоб за будь-яку ціну допомогти нещасним мешканцям цих місць."
+  },
+  {
+    "var": "FINAL_M1_obj1349_guardian_mesg",
+    "field": "map_obj1349_guardian_mesg",
+    "en": "You quickly call your army to a stop.  As you stand on the edge of the Necromancer's newly claimed domain you close your eyes and clench your fists, rage and hatred flowing through you.  Despite your best efforts to raise an army to defeat these vile creatures, it seems you cannot work fast enough to stop their growing areas of influence.",
+    "ua": "Ви наказуєте війську зупинитися. Завмерши на рубежі нових володінь некроманта, ви закриваєте очі і судорожно стискаєте кулаки, намагаючись приборкати гнів, що клекоче у ваших жилах. Як не поспішали ви зібрати раті проти цієї огидної зграї, ви знову запізнилися, і царство мертвих приросло новими землями."
+  },
+  {
+    "var": "FINAL_M1_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Intro",
+    "ua": "Intro"
+  },
+  {
+    "var": "FINAL_M1_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "A few days ago you heard a rumor about the Necromancers invading Erathia.  Since you aren't doing anything more interesting, you are going to check out the rumors.  Apparently the Necromancers of Deyja have moved a great deal of their forces into Erathia.  Having a strong dislike of undead and the Necromancer's black magic, you are going to lend your leadership abilities and drive them out of Erathia.",
+    "ua": "Кілька днів тому до вас дійшли чутки про те, що в Ерафію вторглися некроманти. Нічого цікавішого зараз, начебто, не передбачається, і ви вирішуєте перевірити достовірність цих чуток. Судячи з усього, некроманти Деї кинули на Ерафію чималі сили. Ви на дух не переносите нежить і некромантів з їх чорною магією і без коливань вирішуєте використовувати свої військові таланти, щоб викинути цю гидоту геть з Ерафії."
+  },
+  {
+    "var": "FINAL_M1_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Enemy stuff",
+    "ua": "Enemy stuff"
+  }
+]

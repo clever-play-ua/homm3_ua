@@ -1,0 +1,74 @@
+[
+  {
+    "var": "NEUTRAL1_M2_prolog",
+    "field": "wrapper_prolog",
+    "en": "Duke Winston Boragus, leader of Krewlod, has offered you a mercenary contract which will require you to make a series of raids into Erathian territory. The plan is to plunder enough gold to allow the armies of Krewlod to purchase what it would need for... other things.",
+    "ua": "Герцог Вїнстон Борагус, правитель Крюлода, також потребує послуг найманця. Він бажає, щоб ви очолили ряд набігів на землі Ерафії. Треба награбувати досить золота, щоб забезпечити крюлодську армію всім необхідним для... інших справ."
+  },
+  {
+    "var": "NEUTRAL1_M2_epilog",
+    "field": "wrapper_epilog",
+    "en": "Your abilities have been brought to the attention of the barbarian nation of Krewlod. Their skirmishes with the Erathian military on their eastern border are legendary. Many credit them for hardening Erathian soldiers. Recently, a border raid resulted in victory, and uncharacteristically, a large numbers of prisoners. Upon interrogation, their suspicions were confirmed. Without King Gryphonheart, Erathia has lost its soul.  Your goal is to quickly plunder the Erathian land within Krewlod’s immediate reach. Once they have the resources they need... war will be discussed. Until then, your independent participation is needed.  Should you be captured, Krewlod will claim you were an over zealous clan leader, acting outside the interests of the nation.",
+    "ua": "Вами зацікавились варвари Крюлода. Про їх сутички з ерафійцями поблизу східного кордону ходять легенди. Нещодавно вони здійснили успішний напад і захопили велику кількість полонених, які й підтвердили ці припущення. Без короля Гріфонхарта Ерафія втратила свій непохитний дух. Ви повинні розграбувати землі, що лежать на кордоні з Крюлодом. Як тільки в руках варварів виявляться необхідні ресурси... можна буде подумати і про оголошення війни. До цього ви будете діяти від свого імені. Якщо вас візьмуть у полон, Крюлод відречеться від вас як від місцевого царька, що забажав влади."
+  },
+  {
+    "var": "NEUTRAL1_M2_map_name",
+    "field": "map_map_name",
+    "en": "Gold Rush",
+    "ua": "Золота лихоманка"
+  },
+  {
+    "var": "NEUTRAL1_M2_map_desc",
+    "field": "map_map_desc",
+    "en": "To win, you must accumulate 200,000 gold. Your Heroes will be limited to 12th level in this scenario, but your 8 strongest Heroes will be available to you in the final scenario of this campaign.",
+    "ua": "Для перемоги вам потрібно накопичити двісті тисяч золотом. У цьому сценарії ваші герої зможуть піднятися до дванадцятого рівня, але вісім найсильніших з них перейдуть з вами в останній сценарій цієї кампанії."
+  },
+  {
+    "var": "NEUTRAL1_M2_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Intro part 1",
+    "ua": "Intro part 1"
+  },
+  {
+    "var": "NEUTRAL1_M2_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "Long have we skirmished with the Erathian Military on our eastern border. Many credit us for hardening their soldiers into the strong fighters they have become. A recent border raid resulted in victory, but it also resulted in an uncharacteristically large number of prisoners.",
+    "ua": "Вже давно на східному кордоні ми ведемо перестрілки з військами Ерафії. Багато хто говорить, що саме завдяки нам їхні солдати стали такими вмілими воїнами. Недавній раптовий напад на межі закінчився перемогою. Крім того, в битві було взято надзвичайно багато полонених."
+  },
+  {
+    "var": "NEUTRAL1_M2_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Intro part 2",
+    "ua": "Intro part 2"
+  },
+  {
+    "var": "NEUTRAL1_M2_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "Our interrogations of these prisoners confirmed our suspicions. Without their King, Erathia has no heart. Our goal is not to start a war, but to quickly plunder the land that is easily within our reach. Once we have the resources we need... war can be discussed.",
+    "ua": "Допити взятих у полон підтвердили наші підозри. Втративши Короля, Ерафія позбулася серця. Наша мета не в тому, щоб розв'язати війну, а в тому, щоб швидко розграбувати ті землі, до яких ми зможемо дістатися. Коли у нас будуть необхідні ресурси, можна буде поговорити і про війну."
+  },
+  {
+    "var": "NEUTRAL1_M2_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Intro part 3",
+    "ua": "Intro part 3"
+  },
+  {
+    "var": "NEUTRAL1_M2_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "Until then, we require your independent participation to raid the Erathian territories to our immediate east. Should you be captured, we will claim you were merely an overzealous clan leader, acting outside the interests of the nation.",
+    "ua": "До того часу нам потрібно ваша незалежна участь у набігу на території Ерафії, які межують з нами на сході. Якщо вас візьмуть у полон, ми оголосимо, що ви були лише надто запопадливим ватажком клану і ваші дії йшли врозріз з інтересами держави."
+  },
+  {
+    "var": "NEUTRAL1_M2_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "Intro part 4",
+    "ua": "Intro part 4"
+  },
+  {
+    "var": "NEUTRAL1_M2_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "You will be paid well, but you will need to work for your money. The Duke has determined that Krewlod will need at least 200,000 gold to properly fund any further ventures. Get going, and good luck.",
+    "ua": "Вам добре заплатять, але за ці гроші доведеться попрацювати. Герцог визначив, що Крюлоду знадобиться не менше 200 тисяч золотом, щоб нормально забезпечити наступні авантюри. Дійте, і удачі вам!"
+  }
+]

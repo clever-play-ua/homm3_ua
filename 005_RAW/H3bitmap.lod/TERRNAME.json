@@ -1,0 +1,52 @@
+[
+  {
+    "var": "TERRNAME_1",
+    "en": "Dirt",
+    "ua": "Земля"
+  },
+  {
+    "var": "TERRNAME_2",
+    "en": "Desert",
+    "ua": "Пустеля"
+  },
+  {
+    "var": "TERRNAME_3",
+    "en": "Grass",
+    "ua": "Трава"
+  },
+  {
+    "var": "TERRNAME_4",
+    "en": "Snow",
+    "ua": "Сніг"
+  },
+  {
+    "var": "TERRNAME_5",
+    "en": "Swamp",
+    "ua": "Болото"
+  },
+  {
+    "var": "TERRNAME_6",
+    "en": "Rough",
+    "ua": "Каміння"
+  },
+  {
+    "var": "TERRNAME_7",
+    "en": "Subterranean",
+    "ua": "Підземелля"
+  },
+  {
+    "var": "TERRNAME_8",
+    "en": "Lava",
+    "ua": "Лава"
+  },
+  {
+    "var": "TERRNAME_9",
+    "en": "Water",
+    "ua": "Вода"
+  },
+  {
+    "var": "TERRNAME_10",
+    "en": "Rock",
+    "ua": "Товща землі"
+  }
+]

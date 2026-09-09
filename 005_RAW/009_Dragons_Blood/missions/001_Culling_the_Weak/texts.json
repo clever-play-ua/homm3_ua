@@ -1,0 +1,350 @@
+[
+  {
+    "var": "BLOOD_M1_prolog",
+    "field": "wrapper_prolog",
+    "en": "Ordwald, your near neighbor, is the oldest lord in Nighon.  Age has started to effect the old warlock, but he is still able to beat off the other young lords.  Unlike the others, you have patiently waited for Ordwald to stumble before you move.  Last week, Ordwald slipped.  Time to take him down.",
+    "ua": "Орвальд, ваш сусід, є найстарішим лордом Ніґона. Роки беруть своє, і старий чаклун вже не може управлятися з молодими агресорами при його кордонах. Як ніхто інший, ви очікували, поки старий здійснить якусь помилку. І минулого тижня він допустив її. Тепер настав час скинути його.\n"
+  },
+  {
+    "var": "BLOOD_M1_epilog",
+    "field": "wrapper_epilog",
+    "en": "Ordwald.  I find the name distasteful.  This old man has held rich Nighon lands given to him by a much greater father.  He has squandered his time and done little to earn his stature.  I have stood in his shadow and by his borders too long.  His lands will be mine.",
+    "ua": "Орвальд. Що за позбавлене смаку ім'я! Багаті землі Ніґона перейшли до старого від батька - ось той справді був великим володарем. А його син за всі роки свого безглуздого правління не зробив нічого, щоб довести, що гідний титулу. Набридло мені бути в його тіні і охороняти для нього кордон. Пора привласнити його землі собі.\n"
+  },
+  {
+    "var": "BLOOD_M1_map_name",
+    "field": "map_map_name",
+    "en": "Culling the Weak",
+    "ua": "Відсів слабких"
+  },
+  {
+    "var": "BLOOD_M1_map_desc",
+    "field": "map_map_desc",
+    "en": "Crush your enemies, but be careful not lose Mutare.  Mutare will be limited to level ten, but will transfer to the next scenario. Gain the Charm of Mana from the Seer's Hut and carry it into the next scenario to access a bonus area.",
+    "ua": "Знищить своїх ворогів, але будьте обережні - не втратьте Мутар. Мутар буде обмежена десятим рівнем, але перейде в наступний сценарій. Відвідайте Хатину провісника, щоб отримати Амулет мани, який перейде з вами в наступний сценарій і дасть можливість потрапити в додаткову область."
+  },
+  {
+    "var": "BLOOD_M1_obj183_event_name",
+    "field": "map_obj183_event_name",
+    "en": "Recruits",
+    "ua": "Recruits"
+  },
+  {
+    "var": "BLOOD_M1_obj183_event_mesg",
+    "field": "map_obj183_event_mesg",
+    "en": "Additional recruits arrived here today.",
+    "ua": "Нові найманці прибули сьогодні."
+  },
+  {
+    "var": "BLOOD_M1_obj184_town_name",
+    "field": "map_obj184_town_name",
+    "en": "Sinkhole",
+    "ua": "Сток"
+  },
+  {
+    "var": "BLOOD_M1_obj184_event_name",
+    "field": "map_obj184_event_name",
+    "en": "Reinforcements from Home",
+    "ua": "Reinforcements from Home"
+  },
+  {
+    "var": "BLOOD_M1_obj184_event_mesg",
+    "field": "map_obj184_event_mesg",
+    "en": "Additional recruits arrived at Sinkhole Castle today.",
+    "ua": "Нові найманці прибули сьогодні до замку Сток."
+  },
+  {
+    "var": "BLOOD_M1_obj185_event_name",
+    "field": "map_obj185_event_name",
+    "en": "Recruits",
+    "ua": "Recruits"
+  },
+  {
+    "var": "BLOOD_M1_obj185_event_mesg",
+    "field": "map_obj185_event_mesg",
+    "en": "Additional recruits arrived here today.",
+    "ua": "Нові найманці прибули сьогодні."
+  },
+  {
+    "var": "BLOOD_M1_obj667_quest_proposal",
+    "field": "map_obj667_quest_proposal",
+    "en": "I have a personal experiment which requires 13 Sulfur, 7 Crystal and 13 Gems.  If you or minions supply me with these items, I will give you a magic item.  I have devined this item will be useful in the next year or so on or around a Castle called No Quarter.  Bring me the resources and the item is yours.",
+    "ua": "Заради власних потреб, мені необхідно 13 одиниць сірки, 7 кристалів й 13 самоцвітів.  Якщо ви чи ваші слуги забезпечать мене цими ресурсами, я дам вам магічний предмет.  Я передбачаю, що він вам знадобиться через рік, чи біля того неподалік від замку Мест-Нет.  Принесіть ресурси, і предмет ваш."
+  },
+  {
+    "var": "BLOOD_M1_obj882_town_name",
+    "field": "map_obj882_town_name",
+    "en": "Harpy's Rock",
+    "ua": "Скеля Гарпій"
+  },
+  {
+    "var": "BLOOD_M1_obj882_event_name",
+    "field": "map_obj882_event_name",
+    "en": "Recruits from home",
+    "ua": "Recruits from home"
+  },
+  {
+    "var": "BLOOD_M1_obj882_event_mesg",
+    "field": "map_obj882_event_mesg",
+    "en": "Additional recruits arrived at Harpy's Rock Castle today.",
+    "ua": "Нові найманці прибули сьогодні в замок Гарпи-Рок."
+  },
+  {
+    "var": "BLOOD_M1_obj883_town_name",
+    "field": "map_obj883_town_name",
+    "en": "Dead Timber",
+    "ua": "Дед-Тімбер"
+  },
+  {
+    "var": "BLOOD_M1_obj883_event_name",
+    "field": "map_obj883_event_name",
+    "en": "Recruits from home",
+    "ua": "Recruits from home"
+  },
+  {
+    "var": "BLOOD_M1_obj883_event_mesg",
+    "field": "map_obj883_event_mesg",
+    "en": "Additional recruits arrived at Dead Timber Castle today.",
+    "ua": "Нові найманці прибули сьогодні в замок Дед-Тімбер."
+  },
+  {
+    "var": "BLOOD_M1_obj884_event_name",
+    "field": "map_obj884_event_name",
+    "en": "Add Townhall",
+    "ua": "Add Townhall"
+  },
+  {
+    "var": "BLOOD_M1_obj884_event_mesg",
+    "field": "map_obj884_event_mesg",
+    "en": "Help for Ordwald",
+    "ua": "Допомога Орвальду"
+  },
+  {
+    "var": "BLOOD_M1_obj884_event_name",
+    "field": "map_obj884_event_name",
+    "en": "Add Citadel",
+    "ua": "Add Townhall"
+  },
+  {
+    "var": "BLOOD_M1_obj884_event_mesg",
+    "field": "map_obj884_event_mesg",
+    "en": "Help for Ordwald",
+    "ua": "Допомога Орвальду"
+  },
+  {
+    "var": "BLOOD_M1_obj884_event_name",
+    "field": "map_obj884_event_name",
+    "en": "Add Mushroom Rings",
+    "ua": "Add Townhall"
+  },
+  {
+    "var": "BLOOD_M1_obj884_event_mesg",
+    "field": "map_obj884_event_mesg",
+    "en": "Help for Ordwald",
+    "ua": "Допомога Орвальду"
+  },
+  {
+    "var": "BLOOD_M1_obj885_town_name",
+    "field": "map_obj885_town_name",
+    "en": "Death Kiss",
+    "ua": "Цілунок Смерті"
+  },
+  {
+    "var": "BLOOD_M1_obj885_event_name",
+    "field": "map_obj885_event_name",
+    "en": "Reinforcements from Home",
+    "ua": "Reinforcements from Home"
+  },
+  {
+    "var": "BLOOD_M1_obj885_event_mesg",
+    "field": "map_obj885_event_mesg",
+    "en": "Additional recruits arrived at Death Kiss Castle today.",
+    "ua": "Нові найманці прибули сьогодні в замок Дед-Кисс."
+  },
+  {
+    "var": "BLOOD_M1_obj888_event_name",
+    "field": "map_obj888_event_name",
+    "en": "Recruits from home",
+    "ua": "Recruits from home"
+  },
+  {
+    "var": "BLOOD_M1_obj888_event_mesg",
+    "field": "map_obj888_event_mesg",
+    "en": "Additional recruits arrived here today.",
+    "ua": "Нові найманці прибули сьогодні."
+  },
+  {
+    "var": "BLOOD_M1_obj890_monster_mesg",
+    "field": "map_obj890_monster_mesg",
+    "en": "You see a nest of wild Red Dragons up ahead.  Do you wish to attack?",
+    "ua": "Прямо по курсу ви бачите гніздо диких червоних драконів.  Бажаєте напасти?"
+  },
+  {
+    "var": "BLOOD_M1_obj895_event_name",
+    "field": "map_obj895_event_name",
+    "en": "Recruits from home",
+    "ua": "Recruits from home"
+  },
+  {
+    "var": "BLOOD_M1_obj895_event_mesg",
+    "field": "map_obj895_event_mesg",
+    "en": "Additional recruits arrived here today.",
+    "ua": "Нові найманці прибули сьогодні."
+  },
+  {
+    "var": "BLOOD_M1_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Day 1 Intro",
+    "ua": "Day 1 Intro"
+  },
+  {
+    "var": "BLOOD_M1_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "My spies have brought news; two young and hungry lords have launched near simultaneous attacks on Ordwald.  Surprisingly, they are doing well.  A year ago he would have easily beat off the young lords' attacks.  Ordwald must have lost his edge for them to do so well.",
+    "ua": "Мої шпигуни принесли новини: два молодих та жадібних лорди майже одночасно напали на Орвальда. На мій подив, справи в них просуваються непогано. Рік тому він би з легкістю відбив їхній напад. Напевно, Орвальд втратив свою хватку, судячи з їхніх успіхів."
+  },
+  {
+    "var": "BLOOD_M1_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Day 1 Intro (con)",
+    "ua": "Day 1 Intro (con)"
+  },
+  {
+    "var": "BLOOD_M1_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "The time is ripe to kick out the young upstart lords and seize the old warlock's lands. Ordwald's banner is blue, while the young lords are flying green and tan.  The time has come to advance my red banner.  The time has come to cull the weak.",
+    "ua": "Зараз саме час вигнати молодих лордів і захопити землі старого чаклуна. Прапор Орвальда блакитний, а молоді лорди носять зелений і сірий кольори. Настав час злетіти моєму червоному прапору. Прийшов час відсіву слабких."
+  },
+  {
+    "var": "BLOOD_M1_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "War Diary Red Dragons",
+    "ua": "War Diary Red Dragons"
+  },
+  {
+    "var": "BLOOD_M1_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "War Diary:  Today my scouts reported a small group of wild Red Dragons have built a nest blocking the most direct route to Ordwald's remaining lands.",
+    "ua": "Військовий щоденник: Сьогодні мої розвідники доповіли про те, що невелика група диких червоних драконів звила гніздо, заблокувавши найкоротший шлях до решти земель Орвальда."
+  },
+  {
+    "var": "BLOOD_M1_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "War Diary Green Lord",
+    "ua": "War Diary Green Lord"
+  },
+  {
+    "var": "BLOOD_M1_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "War Diary:  My western scouts report Lord Caomham's green banner is flying over Harpy's Rock Castle.  Harpy Rock use to be one of Ordwald's castles.",
+    "ua": "Військовий щоденник: Розвідники на заході повідомляють, що зелений прапор лорда Каомама майорить над замком Скеля Гарпій. Раніше Скеля Гарпій належала Орвальду."
+  },
+  {
+    "var": "BLOOD_M1_mapevent4_name",
+    "field": "map_mapevent4_name",
+    "en": "War Diary Tan Lord",
+    "ua": "War Diary Tan Lord"
+  },
+  {
+    "var": "BLOOD_M1_mapevent4_mesg",
+    "field": "map_mapevent4_mesg",
+    "en": "War Diary:  This evening an out of breath scout reported Lord Preuet's tan troops have seized Ordwald's Dead Timber Castle.  Dead Timber is located to the north of Death Kiss Castle.",
+    "ua": "Військовий щоденник: Цього вечора захеканий розвідник доповів, що сірі війська лорда Прюета захопили замок Орвальда під назвою Дед-Тімбер. Дед-Тімбер розташований на північ від замку Цілунок Смерті."
+  },
+  {
+    "var": "BLOOD_M1_mapevent5_name",
+    "field": "map_mapevent5_name",
+    "en": "War Diary Upper Caverns",
+    "ua": "War Diary Upper Caverns"
+  },
+  {
+    "var": "BLOOD_M1_mapevent5_mesg",
+    "field": "map_mapevent5_mesg",
+    "en": "War Diary:  My scouts say there are at least three castles in the upper caverns. The nearest is called Sinkhole; they don't know the names of the others or even exactly where they are located.  The Master of Scouts says there is some sort of random teleport system, which connects a series of upper level caverns.",
+    "ua": "Військовий щоденник: Мої розвідники повідомляють, що у верхніх печерах є принаймні три замки. Найближчий називається Сток; вони не знають ні назв інших замків, ані навіть точного їх розташування. Начальник розвідки говорить, що тут десь є система випадкових порталів, що з'єднується з декількома верхніми печерами."
+  },
+  {
+    "var": "BLOOD_M1_mapevent6_name",
+    "field": "map_mapevent6_name",
+    "en": "War Diary Sage's Note",
+    "ua": "War Diary Sage's Note"
+  },
+  {
+    "var": "BLOOD_M1_mapevent6_mesg",
+    "field": "map_mapevent6_mesg",
+    "en": "War Diary:  Today I receive a note from a sage near Sinkhole Castle asking for a visit.  He apparently needs help with a personal matter and he is willing to pay for my help with something that will be useful to me in the near future.  I decided to visit or send an embassy when time allows.  Sages have been cryptic, but useful in the past.",
+    "ua": "Військовий щоденник: Сьогодні я отримала записку від мудреця, який живе поруч зі Стоком, з проханням відвідати його. Очевидно, йому потрібна допомога в якійсь особовій справі, і він збирається заплатити за мою допомогу чимось, що скоро повинно мені стати в нагоді. Я вирішила відвідати його або відправити до нього емісара у вільний час. Мудреці - люди загадкові, але корисні, як я знаю з минулого досвіду."
+  },
+  {
+    "var": "BLOOD_M1_mapevent7_name",
+    "field": "map_mapevent7_name",
+    "en": "War Diary Troops Need to Guard Homeland",
+    "ua": "War Diary Troops Need to Guard Homeland"
+  },
+  {
+    "var": "BLOOD_M1_mapevent7_mesg",
+    "field": "map_mapevent7_mesg",
+    "en": "War Diary:  I received a message today from General Maih.  The neighboring Lords around my original holdings have finally noticed my invasion of Ordwald.  Miah says they are probing to see if they can take my lands while I am occupied here.  I know these Lords. If there is any sign of weakness they will swarm across the borders.  On the other hand none of the neighboring Lords have anything personal against me.  Strong castle garrisons and a strong home army under a competent general, like Maih, will deter an invasion.  I refuse to lose any land.  I'm going to send Maih some of the low-level recruits here to strengthen the home castle garrisons.",
+    "ua": "Військовий щоденник: Сьогодні я отримала повідомлення від генерала Травня. Лорди, чиї землі межують з моїми родовими володіннями, нарешті помітили моє вторгнення до Орвальда. Травень стверджує, що вони не проти зазіхнути на мої землі, поки я зайнята тут. Знаю я цих лордів. Навіть натяку на слабкість досить, щоб вони натовпом ринули через кордони. З іншого боку, жоден із сусідніх лордів не має нічого проти мене особисто. Сильні гарнізони в замках і сильна армія під керівництвом досвідченого генерала - начебто Травня - відлякає окупантів. Не бажаю втрачати жодної зі своїх земель. Я збираюся відправити до Мая деяку кількість місцевих рекрутів низького рівня, щоб посилити гарнізони в родових замках."
+  },
+  {
+    "var": "BLOOD_M1_mapevent8_name",
+    "field": "map_mapevent8_name",
+    "en": "War Diary Town Revolts",
+    "ua": "War Diary Town Revolts"
+  },
+  {
+    "var": "BLOOD_M1_mapevent8_mesg",
+    "field": "map_mapevent8_mesg",
+    "en": "War Diary:  Today, a group of scouts reported that four of Ordwald's towns have revolted and are now neutral.  Apparently there were so few garrison troops, the occupants of the towns chased out the remaining troops.  Ordwald is known for a heavy hand with his subjects.  Still, now I wonder where are the troops that were guarding those towns?",
+    "ua": "Військовий щоденник: Сьогодні група розвідників повідомила, що чотири міста Орвальда збунтувалися, і тепер не належать нікому. Очевидно, гарнізони були занадто малі й тікали під натиском бунтівників. Кажуть, Орвальд суворий зі своїми підданими. Однак тепер мені цікаво - де ж війська, що захищали ці міста?"
+  },
+  {
+    "var": "BLOOD_M1_mapevent9_name",
+    "field": "map_mapevent9_name",
+    "en": "War Diary Missing Garrisons",
+    "ua": "War Diary Missing Garrisons"
+  },
+  {
+    "var": "BLOOD_M1_mapevent9_mesg",
+    "field": "map_mapevent9_mesg",
+    "en": "War Diary:  Ordwald has not yet been spotted.  Whatever his flaws, he is a powerful warlock and if all the missing garrison forces are with him, he should have a powerful army.  I've ordered the Master of Scouts to find him.  I don't want him launching a surprise attack on me or any of my other forces.",
+    "ua": "Військовий щоденник: Орвальда так досі і не знайшли. Не зважаючи на свої промахи, він могутній чаклун, і, якщо всі гарнізонні війська, що тікали, приєдналися до нього, у нього повинна бути потужна армія. Я наказала начальнику розвідки знайти його. Я не хочу, щоб він раптово атакував мене чи інші мої війська."
+  },
+  {
+    "var": "BLOOD_M1_mapevent10_name",
+    "field": "map_mapevent10_name",
+    "en": "War Diary ?",
+    "ua": "War Diary ?"
+  },
+  {
+    "var": "BLOOD_M1_mapevent10_mesg",
+    "field": "map_mapevent10_mesg",
+    "en": "War Diary:  Strange, still no sign of Ordwald.  The Master of Scouts has not located him and cringes whenever I look at him.  The fool, he doesn't realize he does too good a job for me to make an example of him.   I'm starting to wonder if one of the young lords got lucky and actually had Ordwald assassinated.",
+    "ua": "Військовий щоденник: Дивно, досі жодних слідів Орвальда. Начальник розвідки так його і не знайшов, і корчиться від страху, варто мені поглянути на нього. Дурень, він навіть не розуміє, що я не збираюся розкидатися такими працівниками заради показової страти. Я вже починаю думати, чи не пощастило комусь із молодих лордів прикінчити Орвальда."
+  },
+  {
+    "var": "BLOOD_M1_mapevent11_name",
+    "field": "map_mapevent11_name",
+    "en": "War Diary Miah's extra recruits",
+    "ua": "War Diary Miah's extra recruits"
+  },
+  {
+    "var": "BLOOD_M1_mapevent11_mesg",
+    "field": "map_mapevent11_mesg",
+    "en": "War Diary:  I received a message from Miah today.  The Lords surrounding my home lands have quit testing the home defenses.  Miah reports skirmishing around Lord Preuet's and Caomham's lands now.  If either was a fool enough to not leave an adequate defense they will pay for it now.  Miah thinks he can spare a few high level recruits now if I want them.  I sent an order allowing him to release the extra troops to me.",
+    "ua": "Військовий щоденник: Сьогодні я отримала нове повідомлення від Травня. Лорди сусідніх земель припинили випробовувати на міцність мою оборону. Травень повідомляє, що зараз сутички йдуть на кордонах володінь Прюета і Каомама. Якщо хтось із них виявився досить дурний і не залишив там пристойного захисту, тепер він за це поплатиться. Травень вважає, що може надіслати трохи рекрутів високого рівня, якщо вони мені потрібні. Я відправила йому наказ відпустити їх до мене."
+  },
+  {
+    "var": "BLOOD_M1_mapevent12_name",
+    "field": "map_mapevent12_name",
+    "en": "War Diary Recruits arrived",
+    "ua": "War Diary Recruits arrived"
+  },
+  {
+    "var": "BLOOD_M1_mapevent12_mesg",
+    "field": "map_mapevent12_mesg",
+    "en": "War Diary:  The extra recruits arrived today.  I distributed then evenly over all of my new castles.",
+    "ua": "Військовий щоденник: Сьогодні прибули нові рекрути. Я розподілила їх порівну по всіх моїх замках."
+  }
+]

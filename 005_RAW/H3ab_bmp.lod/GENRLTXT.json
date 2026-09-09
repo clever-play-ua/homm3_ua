@@ -1,0 +1,3827 @@
+[
+  {
+    "var": "GENRLTXT_1",
+    "en": "Miscellaneous and Unorganized Game Text",
+    "ua": "Miscellaneous and Unorganized Game Text"
+  },
+  {
+    "var": "GENRLTXT_2",
+    "en": "Can't add manager!",
+    "ua": "Неможливо додати менеджера!"
+  },
+  {
+    "var": "GENRLTXT_3",
+    "en": "%s can gain no more experience in this scenario.",
+    "ua": "%s не може набути більше досвіду у цьому сценарії, але, вірогідно, перейде в наступний."
+  },
+  {
+    "var": "GENRLTXT_4",
+    "en": "\"{Level %d}\n\n{Next level:} %d\n{Current experience:} %d\"",
+    "ua": "\"{%d рівень досвіду}\n \n{Наступний рівень:} %d\n{Кількість досвіду:} %d\""
+  },
+  {
+    "var": "GENRLTXT_5",
+    "en": "%d/day",
+    "ua": "%d/день"
+  },
+  {
+    "var": "GENRLTXT_6",
+    "en": "or",
+    "ua": "або"
+  },
+  {
+    "var": "GENRLTXT_7",
+    "en": "%s has been vanquished!",
+    "ua": "%s залишає цей світ!"
+  },
+  {
+    "var": "GENRLTXT_8",
+    "en": "\"%s, you have lost your last town.  If you do not conquer another town in the next week, you will be eliminated.\"",
+    "ua": "\"%s, ви втратили своє останнє місто. Якщо не захопите інше місто протягом тижня, ви програєте.\""
+  },
+  {
+    "var": "GENRLTXT_9",
+    "en": "\"%s, your heroes abandon you, and you are banished from this land.\"",
+    "ua": "\"%s, ваші герої залишили вас. Ви вигнані з цього світу.\""
+  },
+  {
+    "var": "GENRLTXT_10",
+    "en": "\"%s's heroes have abandoned him, and he is banished from this land.\"",
+    "ua": "\"%s відходить із цього світу: герої залишили свого володаря.\""
+  },
+  {
+    "var": "GENRLTXT_11",
+    "en": "\"Could not save game as \"\"%s\"\".\"",
+    "ua": "\"Не вдалося зберегти гру як \"\"%s\"\".\""
+  },
+  {
+    "var": "GENRLTXT_12",
+    "en": "Error opening file %s!",
+    "ua": "Помилка відкриття файлу %s!"
+  },
+  {
+    "var": "GENRLTXT_13",
+    "en": "NEWGAME",
+    "ua": "NEWGAME"
+  },
+  {
+    "var": "GENRLTXT_14",
+    "en": "Are you sure you want to dismiss this army?",
+    "ua": "Ви впевнені, що хочете розпустити цей загін?"
+  },
+  {
+    "var": "GENRLTXT_15",
+    "en": "%s's turn.",
+    "ua": "%s ходить."
+  },
+  {
+    "var": "GENRLTXT_16",
+    "en": "Error receiving data.  Keep trying?",
+    "ua": "Помилка одержаних даних. Спробувати ще раз?"
+  },
+  {
+    "var": "GENRLTXT_17",
+    "en": "%s the %s",
+    "ua": "%s %s"
+  },
+  {
+    "var": "GENRLTXT_18",
+    "en": "Recruit",
+    "ua": "Найняти"
+  },
+  {
+    "var": "GENRLTXT_19",
+    "en": "There is no room in the garrison for this army.",
+    "ua": "У гарнізоні немає місця для цього загону."
+  },
+  {
+    "var": "GENRLTXT_20",
+    "en": "You already have %d adventuring heroes under your command.",
+    "ua": "Під вашим керівництвом вже %d героїв."
+  },
+  {
+    "var": "GENRLTXT_21",
+    "en": "This hero has no creatures.  A hero must have creatures before he can brave the dangers of the countryside.",
+    "ua": "У цього героя немає війська. Герой не може кинути виклик небезпекам, які підстерігають його за воротами, без армії."
+  },
+  {
+    "var": "GENRLTXT_22",
+    "en": "Video Quality",
+    "ua": "Якість відео"
+  },
+  {
+    "var": "GENRLTXT_23",
+    "en": "This item can't be traded.",
+    "ua": "Цей предмет не можна передати."
+  },
+  {
+    "var": "GENRLTXT_24",
+    "en": "Are you sure you want to dismiss this Hero?",
+    "ua": "Ви впевнені, що бажаєте звільнити цього героя?"
+  },
+  {
+    "var": "GENRLTXT_25",
+    "en": "Select Spell Target",
+    "ua": "Оберіть ціль закляття"
+  },
+  {
+    "var": "GENRLTXT_26",
+    "en": "Invalid Teleport Destination",
+    "ua": "Недопустиме місце для телепортації"
+  },
+  {
+    "var": "GENRLTXT_27",
+    "en": "Teleport Here",
+    "ua": "Телепортуватися сюди"
+  },
+  {
+    "var": "GENRLTXT_28",
+    "en": "Cast %s",
+    "ua": "Накласти закляття %s"
+  },
+  {
+    "var": "GENRLTXT_29",
+    "en": "Cast %s on %s",
+    "ua": "Накласти закляття %s на %s"
+  },
+  {
+    "var": "GENRLTXT_30",
+    "en": "Are you sure you want to retreat?",
+    "ua": "Ви справді бажаєте відступити?"
+  },
+  {
+    "var": "GENRLTXT_31",
+    "en": "You don't have enough gold!",
+    "ua": "У вас недостатньо золота!"
+  },
+  {
+    "var": "GENRLTXT_32",
+    "en": "You have captured an enemy artifact!",
+    "ua": "Ви захопили ворожий артефакт!"
+  },
+  {
+    "var": "GENRLTXT_33",
+    "en": "None",
+    "ua": "Нічого"
+  },
+  {
+    "var": "GENRLTXT_34",
+    "en": "\"%s states:\n\n\"\"I will accept your surrender and grant you and your troops safe passage for the price of %d gold.\"\"\"",
+    "ua": "\"%s заявляє:\n \n\"\"Я прийму вашу капітуляцію та відпущу ваше військо з миром за плату в %d золотих.\"\"\""
+  },
+  {
+    "var": "GENRLTXT_35",
+    "en": "High morale enables the %s to attack again.",
+    "ua": "Висока мораль %s дозволяє їм вражати знову."
+  },
+  {
+    "var": "GENRLTXT_36",
+    "en": "Low morale causes the %s to freeze in panic.",
+    "ua": "Низька мораль %s змушує їх заціпеніти з жаху."
+  },
+  {
+    "var": "GENRLTXT_37",
+    "en": "Make room for the %s in your army",
+    "ua": "Звільнити місце, щоб взяти %s у ваше військо"
+  },
+  {
+    "var": "GENRLTXT_38",
+    "en": "Attack %s (%s damage)",
+    "ua": "Атакувати %s (%s од. пошкоджень)."
+  },
+  {
+    "var": "GENRLTXT_39",
+    "en": "\"Shoot %s (1 shot left, %s damage)\"",
+    "ua": "\"Стріляти в %s (1 постріл запасний, %s од. пошкоджень).\""
+  },
+  {
+    "var": "GENRLTXT_40",
+    "en": "Campaign Description:",
+    "ua": "Опис кампанії:"
+  },
+  {
+    "var": "GENRLTXT_41",
+    "en": "%s is active.",
+    "ua": "%s активний."
+  },
+  {
+    "var": "GENRLTXT_42",
+    "en": "Session Name",
+    "ua": "Сеанс"
+  },
+  {
+    "var": "GENRLTXT_43",
+    "en": "User Name",
+    "ua": "Ім'я користувача"
+  },
+  {
+    "var": "GENRLTXT_44",
+    "en": "creature",
+    "ua": "воїн"
+  },
+  {
+    "var": "GENRLTXT_45",
+    "en": "creatures",
+    "ua": "воїнів"
+  },
+  {
+    "var": "GENRLTXT_46",
+    "en": "Bad luck descends on the %s",
+    "ua": "Невдача переслідує %s"
+  },
+  {
+    "var": "GENRLTXT_47",
+    "en": "Good luck shines on the %s",
+    "ua": "Удача осяяла %s"
+  },
+  {
+    "var": "GENRLTXT_48",
+    "en": "Treasure",
+    "ua": "Скарб"
+  },
+  {
+    "var": "GENRLTXT_49",
+    "en": "%s's %s is under attack!",
+    "ua": "Власність %s, %s, атаковано!"
+  },
+  {
+    "var": "GENRLTXT_50",
+    "en": "Town",
+    "ua": "Місто"
+  },
+  {
+    "var": "GENRLTXT_51",
+    "en": "Hero",
+    "ua": "Герой"
+  },
+  {
+    "var": "GENRLTXT_52",
+    "en": "Town Screen",
+    "ua": "Екран міста"
+  },
+  {
+    "var": "GENRLTXT_53",
+    "en": "Cannot build another boat",
+    "ua": "Неможливо збудувати ще один корабель"
+  },
+  {
+    "var": "GENRLTXT_54",
+    "en": "Requires:",
+    "ua": "Необхідно:"
+  },
+  {
+    "var": "GENRLTXT_55",
+    "en": "<SYSTEM>:",
+    "ua": "<SYSTEM>:"
+  },
+  {
+    "var": "GENRLTXT_56",
+    "en": "\"{World Map}\n\nThis is a zoomed out view of the world.  Clicking anywhere in this window will center the adventure map on that location, or you can drag the outline box to scroll the adventure map.\"",
+    "ua": "\"{Мапа світу} \n\nЦе зменшена мапа світу. Клацання у будь-якому місці цього вікна відцентрує основну карту в цій точці, також можна проглядати основну карту, переміщаючи виділену рамку.\""
+  },
+  {
+    "var": "GENRLTXT_57",
+    "en": "\"One or more heroes may still move, are you sure you want to end your turn?\"",
+    "ua": "\"Один чи кілька героїв ще можуть пересуватися, ви справді бажаєте завершити хід?\""
+  },
+  {
+    "var": "GENRLTXT_58",
+    "en": "\"Digging for artifacts requires a whole day, try again tomorrow.\"",
+    "ua": "\"Розкопки артефактів займають цілий день, спробуйте завтра.\""
+  },
+  {
+    "var": "GENRLTXT_59",
+    "en": "Your hero has no room to carry another artifact!",
+    "ua": "У вашого героя немає вільного місця для артефактів!"
+  },
+  {
+    "var": "GENRLTXT_60",
+    "en": "\"Congratulations! After spending many hours digging here, your hero has uncovered the \"",
+    "ua": "\"Вітаємо! Після кількох годин розкопок, у руки вашого героя потрапляє \""
+  },
+  {
+    "var": "GENRLTXT_61",
+    "en": "\"Nothing here.\nWhere could it be?\"",
+    "ua": "\"Тут нічого немає.\nКуди усе поділося?\""
+  },
+  {
+    "var": "GENRLTXT_62",
+    "en": "Try looking on land!",
+    "ua": "Пошукайте краще на суші!"
+  },
+  {
+    "var": "GENRLTXT_63",
+    "en": "Uncharted Territory",
+    "ua": "Незвідані землі"
+  },
+  {
+    "var": "GENRLTXT_64",
+    "en": "Month",
+    "ua": "Місяць"
+  },
+  {
+    "var": "GENRLTXT_65",
+    "en": "Week",
+    "ua": "Тиждень"
+  },
+  {
+    "var": "GENRLTXT_66",
+    "en": "Day",
+    "ua": "День"
+  },
+  {
+    "var": "GENRLTXT_67",
+    "en": "Right click on any enemy to view them.",
+    "ua": "Щоб продивитися ворогів, натисніть на них правою кнопкою мишки."
+  },
+  {
+    "var": "GENRLTXT_68",
+    "en": "ping=%dms",
+    "ua": "пінг=%dms"
+  },
+  {
+    "var": "GENRLTXT_69",
+    "en": "\"Are you sure you want to restart?\n(Your current game will be lost)\"",
+    "ua": "\"Ви справді бажаєте розпочати спочатку?\n(Поточна гра буде втрачена)\""
+  },
+  {
+    "var": "GENRLTXT_70",
+    "en": "\"Are you sure you want to load a new game?\n(Your current game will be lost)\"",
+    "ua": "\"Ви справді бажаєте завантажити іншу гру? \n(Поточна гра буде втрачена)\""
+  },
+  {
+    "var": "GENRLTXT_71",
+    "en": "Are you sure you want to quit?",
+    "ua": "Ви справді бажаєте вийти?"
+  },
+  {
+    "var": "GENRLTXT_72",
+    "en": "Dimension Door failed!",
+    "ua": "Просторові ворота не відчинились!"
+  },
+  {
+    "var": "GENRLTXT_73",
+    "en": "Choose a bonus:",
+    "ua": "Виберіть бонус:"
+  },
+  {
+    "var": "GENRLTXT_74",
+    "en": "ping",
+    "ua": "пінг"
+  },
+  {
+    "var": "GENRLTXT_75",
+    "en": "pinging %s...",
+    "ua": "перевірка зв'язку з %s..."
+  },
+  {
+    "var": "GENRLTXT_76",
+    "en": "pinging everyone...",
+    "ua": "перевірка зв'язку зі всіма..."
+  },
+  {
+    "var": "GENRLTXT_77",
+    "en": "Score",
+    "ua": "Очки"
+  },
+  {
+    "var": "GENRLTXT_78",
+    "en": "AUTOSAVE",
+    "ua": "AUTOSAVE"
+  },
+  {
+    "var": "GENRLTXT_79",
+    "en": "{Starting Hero}",
+    "ua": "{Початковий герой}"
+  },
+  {
+    "var": "GENRLTXT_80",
+    "en": "{Hero Speciality}",
+    "ua": "{Спеціалізація героя}"
+  },
+  {
+    "var": "GENRLTXT_81",
+    "en": "{Associated Creatures}",
+    "ua": "{Військо}"
+  },
+  {
+    "var": "GENRLTXT_82",
+    "en": "{Town Alignment}",
+    "ua": "{Місто раси:}"
+  },
+  {
+    "var": "GENRLTXT_83",
+    "en": "Error sending data.  Keep trying??",
+    "ua": "Помилка під час відправлення даних. Спробувати ще раз?"
+  },
+  {
+    "var": "GENRLTXT_84",
+    "en": "You must have at least 2 players to launch a multi-player game.  Check your advanced options or select a new map.",
+    "ua": "Для початку мережевої гри необхідно хоча б два гравця. Подивіться додаткові налаштування або оберіть іншу карту."
+  },
+  {
+    "var": "GENRLTXT_85",
+    "en": "{Artifact Bonus}",
+    "ua": "{Артефакт}"
+  },
+  {
+    "var": "GENRLTXT_86",
+    "en": "{Gold Bonus}",
+    "ua": "{Золото}"
+  },
+  {
+    "var": "GENRLTXT_87",
+    "en": "{Resource Bonus}",
+    "ua": "{Ресурси}"
+  },
+  {
+    "var": "GENRLTXT_88",
+    "en": "{Random Bonus}",
+    "ua": "{Випадковий бонус}"
+  },
+  {
+    "var": "GENRLTXT_89",
+    "en": "500-1000",
+    "ua": "500-1000"
+  },
+  {
+    "var": "GENRLTXT_90",
+    "en": "The armageddon does %d damage.",
+    "ua": "Армагеддон завдає %d од. втрат."
+  },
+  {
+    "var": "GENRLTXT_91",
+    "en": "5-10 wood / 5-10 ore",
+    "ua": "5-10 од. деревини / 5-10 од. руди."
+  },
+  {
+    "var": "GENRLTXT_92",
+    "en": "An artifact is randomly chosen and equipped to your starting hero",
+    "ua": "Ваш герой одержує випадково обраний артефакт."
+  },
+  {
+    "var": "GENRLTXT_93",
+    "en": "The disrupting ray reduces defense by %d.",
+    "ua": "Руйнівний промінь понизив захист на %d."
+  },
+  {
+    "var": "GENRLTXT_94",
+    "en": "\"At the start of the game, 500-1000 gold is added to your Kingdom's resource pool\"",
+    "ua": "\"На початку гри скарбниця вашого королівства поповнюється на 500-1000 золотих.\""
+  },
+  {
+    "var": "GENRLTXT_95",
+    "en": "\"At the start of the game, 5-10 wood and 5-10 ore are added to your Kingdom's resource pool\"",
+    "ua": "\"На початку гри на склади вашого королівства надходить 5-10 одиниць деревини і 5-10 одиниць руди.\""
+  },
+  {
+    "var": "GENRLTXT_96",
+    "en": "\"Gold, wood and ore, or an artifact is randomly chosen as your starting bonus\"",
+    "ua": "\"Стартовий бонус обирається випадковим чином: золото, ресурси або артефакт.\""
+  },
+  {
+    "var": "GENRLTXT_97",
+    "en": "You have been eliminated from the game!",
+    "ua": "Вас виключили з гри!"
+  },
+  {
+    "var": "GENRLTXT_98",
+    "en": "\"Congratulations!\nYour score will be entered into the Hall of Fame\n\nPlease enter your name.\"",
+    "ua": "\"Вітаємо! \nВаш результат прикрасить таблицю рекордів.\n\nБудь ласка, введіть ваше ім'я:\""
+  },
+  {
+    "var": "GENRLTXT_99",
+    "en": "Try searching on clear ground.",
+    "ua": "Спробуйте пошукати на вільному місці."
+  },
+  {
+    "var": "GENRLTXT_100",
+    "en": "Sending Data",
+    "ua": "Відправлення даних"
+  },
+  {
+    "var": "GENRLTXT_101",
+    "en": "Receiving Data",
+    "ua": "Одержання даних"
+  },
+  {
+    "var": "GENRLTXT_102",
+    "en": "Chaos.mp2",
+    "ua": "Chaos.mp2"
+  },
+  {
+    "var": "GENRLTXT_103",
+    "en": "{Random Hero}",
+    "ua": "{Випадковий герой}"
+  },
+  {
+    "var": "GENRLTXT_104",
+    "en": "\"A starting hero is randomly chosen, from those classes associated with the displayed Starting Town\"",
+    "ua": "\"Початковий герой обирається випадково з класів, що пов'язані з вказаним початковим містом.\""
+  },
+  {
+    "var": "GENRLTXT_105",
+    "en": "{Random Town}",
+    "ua": "{Випадкове місто}"
+  },
+  {
+    "var": "GENRLTXT_106",
+    "en": "Your starting town is randomly chosen from one of the eight different town types",
+    "ua": "Ваше початкове місто обирається випадково з восьми різних типів."
+  },
+  {
+    "var": "GENRLTXT_107",
+    "en": "\"%s surrenders, and gains safe passage for %d gold.\"",
+    "ua": "\"%s здається й отримує можливість піти за %d золотих.\""
+  },
+  {
+    "var": "GENRLTXT_108",
+    "en": "\"The Heroes III: Armageddon's Blade CD-ROM was not found!\n\nArmageddon's Blade requires a CD for Single Scenario Games, Campaign Games, and hosting Multi-player Games.  \n\nIf you wish to join a Multi-player Game hosted by another player, a CD is not required, and you may proceed.\n\nIf you wish to play a Single Scenario or a Campaign, please quit and insert the Armageddon's Blade CD, before re-running Armageddon's Blade.\"",
+    "ua": "\"Диск гри \"\"Герої III\"\" не знайдено! \n \nДля одиночних ігор, кампаній та створення мережевих ігор необхідний диск гри \"\"Герої III\"\". \n\nЯкщо ви бажаєте вступити у мережеву гру, створену іншим гравцем, наявність диску необов'язкова, можете продовжувати. \n\nКоли ж ви бажаєте грати на окремій карті або грати в кампанію, будь ласка, вставте диск і перезапустіть гру.\""
+  },
+  {
+    "var": "GENRLTXT_109",
+    "en": "Autosaving...",
+    "ua": "Автозбереження..."
+  },
+  {
+    "var": "GENRLTXT_110",
+    "en": "PLYREXIT",
+    "ua": "PLYREXIT"
+  },
+  {
+    "var": "GENRLTXT_111",
+    "en": "\"{Status Window}\n\nThis window provides information on the status of your hero or kingdom, and shows the date.  Left click here to cycle through these windows.\"",
+    "ua": "\"{Вікно статусу}\n\nЦе вікно дає інформацію про стан вашого героя чи королівства та показує дату. Для переміщення поміж цими вікнами натисніть лівою кнопкою мишки тут.\""
+  },
+  {
+    "var": "GENRLTXT_112",
+    "en": "Border",
+    "ua": "Кордон"
+  },
+  {
+    "var": "GENRLTXT_113",
+    "en": "The %s absorbs %d mana from the spell.",
+    "ua": "%s поглинає %d очок енергії від закляття."
+  },
+  {
+    "var": "GENRLTXT_114",
+    "en": "The %s absorb %d mana from the spell.",
+    "ua": "Загін %s поглинає %d очок енергії від закляття."
+  },
+  {
+    "var": "GENRLTXT_115",
+    "en": "Unable to change to the Heroes III directory.  Please run the installation program.",
+    "ua": "\"Неможливо перейти до теки \"\"Героїв III\"\". Будь ласка, запустіть програму встановлення.\""
+  },
+  {
+    "var": "GENRLTXT_116",
+    "en": "Unable to find the Heroes III data files.  Please run the installation program.",
+    "ua": "\"Неможливо знайти файли з даними \"\"Героїв III\"\". Будь ласка, запустіть програму встановлення.\""
+  },
+  {
+    "var": "GENRLTXT_117",
+    "en": "\"My heroes, our foes have been scattered, their castles broken and laid bare.  The great campaign is now complete, and I stand before you as the undisputed High King!\n\nOur victory was achieved in %d days!\"",
+    "ua": "\"Мої герої, наші вороги переможені, їхні фортеці зруйновані, міста залишилися без захисту. Великий похід підійшов до кінця, і я стою тут, перед вами, як незаперечний Володар!\n\nМи йшли до перемоги %d днів!\""
+  },
+  {
+    "var": "GENRLTXT_118",
+    "en": "%d %s rise from the dead!",
+    "ua": "%d %s повстають з мертвих!"
+  },
+  {
+    "var": "GENRLTXT_119",
+    "en": "%d %s rises from the dead!",
+    "ua": "%d %s повстають з мертвих!"
+  },
+  {
+    "var": "GENRLTXT_120",
+    "en": "One %s dies under the terrible gaze of the %s.",
+    "ua": "1 %s помирає від жахливого погляду %s."
+  },
+  {
+    "var": "GENRLTXT_121",
+    "en": "%d %s die under the terrible gaze of the %s.",
+    "ua": "%d %s помирають від жахливого погляду %s."
+  },
+  {
+    "var": "GENRLTXT_122",
+    "en": "\"The %s takes a defensive stance,\nand gains +%d defense skill\"",
+    "ua": "\"%s приймає захисну позицію \nй одержує +%d до захисту\""
+  },
+  {
+    "var": "GENRLTXT_123",
+    "en": "\"The %s take a defensive stance,\nand gain +%d defense skill\"",
+    "ua": "\"Загін %s приймає захисну позицію\n й одержує +%d до захисту\""
+  },
+  {
+    "var": "GENRLTXT_124",
+    "en": "%s exp",
+    "ua": "Досвід %s"
+  },
+  {
+    "var": "GENRLTXT_125",
+    "en": "Nearest town occupied.  Spell Failed!",
+    "ua": "Найближче місто зайняте. Чари не вдалися!"
+  },
+  {
+    "var": "GENRLTXT_126",
+    "en": "No available town.  Spell Failed!",
+    "ua": "Немає доступного міста. Чари не вдалися!"
+  },
+  {
+    "var": "GENRLTXT_127",
+    "en": "Your hero is too tired to cast this spell today.  Try again tomorrow.",
+    "ua": "Ваш герой занадто втомився, щоб чаклувати сьогодні. Спробуйте завтра."
+  },
+  {
+    "var": "GENRLTXT_128",
+    "en": "Only visiting heroes may use the Town Gate.",
+    "ua": "Лише герої можуть користуватися Воротами Міста."
+  },
+  {
+    "var": "GENRLTXT_129",
+    "en": "You have no hero to cast a spell.",
+    "ua": "У вас немає героя для застосування закляття."
+  },
+  {
+    "var": "GENRLTXT_130",
+    "en": "Your hero has already cast a spell this round.",
+    "ua": "Ваш герой вже чаклував у цьому раунді."
+  },
+  {
+    "var": "GENRLTXT_131",
+    "en": "Do you wish to save %s's army for a cost of %d gold?",
+    "ua": "Не бажаєте зберегти військо, яке має %s, ціною %d золотих?"
+  },
+  {
+    "var": "GENRLTXT_132",
+    "en": "Unable to initialize input devices - possible problem with mouse or keyboard.",
+    "ua": "Не вдалося задіяти механізм вводу – можливо, проблеми з мишкою або клавіатурою."
+  },
+  {
+    "var": "GENRLTXT_133",
+    "en": "Unable to initialize sound.",
+    "ua": "Не вдалося задіяти звук."
+  },
+  {
+    "var": "GENRLTXT_134",
+    "en": "Unable to initialize mouse.",
+    "ua": "Не вдалося задіяти мишку."
+  },
+  {
+    "var": "GENRLTXT_135",
+    "en": "Unable to initialize windows - possible memory or disk error.",
+    "ua": "Не вдалося створити вікна – можливо, помилка пам'яті або диска."
+  },
+  {
+    "var": "GENRLTXT_136",
+    "en": "\"%s encounters an abandoned shipyard.  Unfortunately the Ways are blocked, and it is not possible to build ships here.\"",
+    "ua": "\"%s знаходить загублену верф. На жаль, усі підходи закриті, кораблі тут будувати не можна.\""
+  },
+  {
+    "var": "GENRLTXT_137",
+    "en": "Spell Failed!  Your hero must be on land to cast this spell.",
+    "ua": "Чари не вдалися! Щоб використати це закляття, герой повинен знаходитися на суші."
+  },
+  {
+    "var": "GENRLTXT_138",
+    "en": "\"The %s pauses, and waits for a better time to act.\"",
+    "ua": "\"%s чекає кращого моменту для атаки.\""
+  },
+  {
+    "var": "GENRLTXT_139",
+    "en": "\"The %s pause, and wait for a better time to act.\"",
+    "ua": "\"Загін %s чекає кращого моменту для атаки.\""
+  },
+  {
+    "var": "GENRLTXT_140",
+    "en": "\"%s, Level %d %s\"",
+    "ua": "\"%s, %d рівня %s\""
+  },
+  {
+    "var": "GENRLTXT_141",
+    "en": "\"%s, who has studied magic extensively, \"",
+    "ua": "\"%s, завдяки сумлінному вивченню магії, \""
+  },
+  {
+    "var": "GENRLTXT_142",
+    "en": "learns ",
+    "ua": "осягає закляття"
+  },
+  {
+    "var": "GENRLTXT_143",
+    "en": " and ",
+    "ua": " і "
+  },
+  {
+    "var": "GENRLTXT_144",
+    "en": " from %s",
+    "ua": ", у чому йому допомагає %s"
+  },
+  {
+    "var": "GENRLTXT_145",
+    "en": "resist",
+    "ua": "опираються"
+  },
+  {
+    "var": "GENRLTXT_146",
+    "en": "resists",
+    "ua": "опирається"
+  },
+  {
+    "var": "GENRLTXT_147",
+    "en": "\"Practicing the dark arts of necromancy, your hero is able to raise %d of the enemy's dead to return under their service as Skeletons.\"",
+    "ua": "\"Володіючи темним мистецтвом некромантії, ваш герой піднімає %d загиблих ворогів, аби вони служили йому як нежить.\""
+  },
+  {
+    "var": "GENRLTXT_148",
+    "en": "\"Practicing the dark arts of necromancy, your hero is able to raise one of the enemy's dead to return under their service as a Skeleton.\"",
+    "ua": "\"Володіючи темним мистецтвом некромантії, ваш герой піднімає одного з загиблих ворогів, аби він служив йому як нежить.\""
+  },
+  {
+    "var": "GENRLTXT_149",
+    "en": "teaches ",
+    "ua": "навчає тебе закляттям "
+  },
+  {
+    "var": "GENRLTXT_150",
+    "en": " to %s",
+    "ua": ", %s"
+  },
+  {
+    "var": "GENRLTXT_151",
+    "en": "\"{Spell Points}\n\nSpell points are required to cast spells. The maximum number of spell points is 10 times your Knowledge.  It is occasionally possible to have more than your maximum spell points from special events or locations.\"",
+    "ua": "\"{Очки магії}\n\nЩоб направляти закляття, потрібна магічна енергія. Максимальний запас очок магії – Знання, помножене на 10. Інколи особливі місця або події можуть дозволити вашій магічній енергії перевищити максимум.\""
+  },
+  {
+    "var": "GENRLTXT_152",
+    "en": "Digital sound is not currently available on this system.",
+    "ua": "У цій системі цифровий звук неможливий."
+  },
+  {
+    "var": "GENRLTXT_153",
+    "en": "Ballista",
+    "ua": "Баліста"
+  },
+  {
+    "var": "GENRLTXT_154",
+    "en": "Your backpack is full.",
+    "ua": "Ваша сумка повна."
+  },
+  {
+    "var": "GENRLTXT_155",
+    "en": "\"Alas, your backpack cannot hold something as large as a %s.\"",
+    "ua": "\"На жаль, ваша сумка не вмістить річ такого розміру, як %s.\""
+  },
+  {
+    "var": "GENRLTXT_156",
+    "en": "\"\n\nThe %s is destroyed.\"",
+    "ua": "\"\n\n%s відходить у небуття.\""
+  },
+  {
+    "var": "GENRLTXT_157",
+    "en": "\"\n\nThe %s has an attack skill of %d and does %d-%d damage.\"",
+    "ua": "\"\n\nНавичка Атаки споруди \"\"%s\"\" дорівнює %d. Завдані нею втрати: %d-%d одиниць.\""
+  },
+  {
+    "var": "GENRLTXT_158",
+    "en": "View arrow tower info.",
+    "ua": "Подивитися дані про стрілецьку вежу."
+  },
+  {
+    "var": "GENRLTXT_159",
+    "en": "I can offer you %d %s of %s for %d %s of %s.",
+    "ua": "Моя пропозиція: %d %s ресурса \"\"%s\"\" за %d %s ресурса \"\"%s\"\"."
+  },
+  {
+    "var": "GENRLTXT_160",
+    "en": "Marketplace",
+    "ua": "Ринок"
+  },
+  {
+    "var": "GENRLTXT_161",
+    "en": "Trading Post",
+    "ua": "Базар"
+  },
+  {
+    "var": "GENRLTXT_162",
+    "en": "units",
+    "ua": "од."
+  },
+  {
+    "var": "GENRLTXT_163",
+    "en": "unit",
+    "ua": "од."
+  },
+  {
+    "var": "GENRLTXT_164",
+    "en": "You have received quite a bargain.  I expect to make no profit on the deal.  Can I interest you in any of my other wares?",
+    "ua": "Непогана оборудка. Я не намагаюся на ній нажитися. Вас цікавить ще щось з мого добра?"
+  },
+  {
+    "var": "GENRLTXT_165",
+    "en": "\"Please inspect our fine wares.  If you feel like offering a trade, click on the items you wish to trade with and for.\"",
+    "ua": "\"Будь ласка, подивіться наші товари. Якщо вас щось зацікавить, тоді виберіть ресурси, які бажаєте обміняти.\""
+  },
+  {
+    "var": "GENRLTXT_166",
+    "en": "n/a",
+    "ua": "т/д"
+  },
+  {
+    "var": "GENRLTXT_167",
+    "en": "I can give %s to the %s player.",
+    "ua": "Я можу дати %s, одержувач - %s гравець."
+  },
+  {
+    "var": "GENRLTXT_168",
+    "en": "Are there any other resources you'd like to give away?",
+    "ua": "У вас є ще ресурси, які б ви бажали роздати?"
+  },
+  {
+    "var": "GENRLTXT_169",
+    "en": "\"If you'd like to give any of your resources to another player, click on the item you wish to give and to whom.\"",
+    "ua": "\"Якщо ви бажаєте передати які-небудь ресурси іншому гравцеві, вкажіть клацанням мишки, що й кому.\""
+  },
+  {
+    "var": "GENRLTXT_170",
+    "en": "Available for Trade",
+    "ua": "Доступно для обміну"
+  },
+  {
+    "var": "GENRLTXT_171",
+    "en": "Players",
+    "ua": "Гравці"
+  },
+  {
+    "var": "GENRLTXT_172",
+    "en": "%s protects the %s",
+    "ua": "%s вартує це місце (%s)"
+  },
+  {
+    "var": "GENRLTXT_173",
+    "en": "%s can only be cast on hostile creatures",
+    "ua": "%s застосовується лише проти ворога"
+  },
+  {
+    "var": "GENRLTXT_174",
+    "en": "1st lev",
+    "ua": "1 рів."
+  },
+  {
+    "var": "GENRLTXT_175",
+    "en": "2nd lev",
+    "ua": "2 рів."
+  },
+  {
+    "var": "GENRLTXT_176",
+    "en": "3rd lev",
+    "ua": "3 рів."
+  },
+  {
+    "var": "GENRLTXT_177",
+    "en": "4th lev",
+    "ua": "4 рів."
+  },
+  {
+    "var": "GENRLTXT_178",
+    "en": "5th lev",
+    "ua": "5 рів."
+  },
+  {
+    "var": "GENRLTXT_179",
+    "en": "%s can only be cast on friendly creatures",
+    "ua": "%s накладається лише на власних воїнів"
+  },
+  {
+    "var": "GENRLTXT_180",
+    "en": "\"Enter the host IP address.\n(i.e. 220.415.119.223)\"",
+    "ua": "\"Уведіть IP-адресу сервера. \n(напр., 220.415.119.223)\""
+  },
+  {
+    "var": "GENRLTXT_181",
+    "en": "%s does not work on %s",
+    "ua": "%s не діє на %s"
+  },
+  {
+    "var": "GENRLTXT_182",
+    "en": "%s are immune to %s",
+    "ua": "Війська %s не піддаються закляттю %s"
+  },
+  {
+    "var": "GENRLTXT_183",
+    "en": "No room to place %s here",
+    "ua": "Не можна перемістити сюди %s"
+  },
+  {
+    "var": "GENRLTXT_184",
+    "en": "An earthquake will do you no good unless there are town walls to damage.",
+    "ua": "Від землетрусу користі не буде, якщо не має мурів, які потрібно зруйнувати."
+  },
+  {
+    "var": "GENRLTXT_185",
+    "en": "Your hero already has %d creatures groups in combat and cannot accommodate any more.",
+    "ua": "У вашого героя вже %d бойових загонів, більше він прийняти не зможе."
+  },
+  {
+    "var": "GENRLTXT_186",
+    "en": "\"Attack\nDefense\nPower\nKnowl.\"",
+    "ua": "\"Атака \nЗахист \nСила \nЗнання\""
+  },
+  {
+    "var": "GENRLTXT_187",
+    "en": "That spell will affect no one!",
+    "ua": "Це закляття ні на кого не подіє!"
+  },
+  {
+    "var": "GENRLTXT_188",
+    "en": "\"The %s spell does %d damage\nto all undead creatures.\"",
+    "ua": "\"Закляття %s завдає %d од. втрат\n усій нежиті.\""
+  },
+  {
+    "var": "GENRLTXT_189",
+    "en": "\"The Death spell does %d damage\nto all living creatures.\"",
+    "ua": "\"Це закляття Смерті завдає %d од. втрат \nусім живим істотам.\""
+  },
+  {
+    "var": "GENRLTXT_190",
+    "en": "Mirror Image spell failed!",
+    "ua": "\"Закляття \"\"Фантом\"\" не вдалося!\""
+  },
+  {
+    "var": "GENRLTXT_191",
+    "en": "The %s %s the spell!",
+    "ua": "%s %s закляття!"
+  },
+  {
+    "var": "GENRLTXT_192",
+    "en": "Attack",
+    "ua": "Атака"
+  },
+  {
+    "var": "GENRLTXT_193",
+    "en": "Defense",
+    "ua": "Захист"
+  },
+  {
+    "var": "GENRLTXT_194",
+    "en": "The flight spell is not powerful enough to affect a boat.",
+    "ua": "\"Закляття \"\"Політ\"\" не настільки потужне, щоб підняти корабель.\""
+  },
+  {
+    "var": "GENRLTXT_195",
+    "en": "Speed",
+    "ua": "Швидкість"
+  },
+  {
+    "var": "GENRLTXT_196",
+    "en": "Growth",
+    "ua": "Приріст"
+  },
+  {
+    "var": "GENRLTXT_197",
+    "en": "%s casts '%s' on the %s.",
+    "ua": "\"%s накладає \"\"%s\"\" на %s.\""
+  },
+  {
+    "var": "GENRLTXT_198",
+    "en": "%s casts '%s'.",
+    "ua": "\"%s накладає \"\"%s\"\".\""
+  },
+  {
+    "var": "GENRLTXT_199",
+    "en": "%s player",
+    "ua": "%s гравець"
+  },
+  {
+    "var": "GENRLTXT_200",
+    "en": "Shots",
+    "ua": "Пострілів"
+  },
+  {
+    "var": "GENRLTXT_201",
+    "en": "Damage",
+    "ua": "Пошкодження"
+  },
+  {
+    "var": "GENRLTXT_202",
+    "en": "Health Left",
+    "ua": "Залишок здор."
+  },
+  {
+    "var": "GENRLTXT_203",
+    "en": "Your time has expired.  Moving on to next turn.",
+    "ua": "Ваш час вийшов. Продовжуйте наступного ходу."
+  },
+  {
+    "var": "GENRLTXT_204",
+    "en": "Guarded by",
+    "ua": "Під охороною"
+  },
+  {
+    "var": "GENRLTXT_205",
+    "en": "\"\n\nYour hero has learned %s %s.\"",
+    "ua": "\"\n\nВаш герой освоїв наступне: %s %s.\""
+  },
+  {
+    "var": "GENRLTXT_206",
+    "en": "\"\n\nYour hero may learn either %s %s or %s %s.\"",
+    "ua": "\"\n\nНа вибір вашого героя: %s %s або %s %s.\""
+  },
+  {
+    "var": "GENRLTXT_207",
+    "en": "\"{Spell Points}\n\n%s currently has %d spell points out of a maximum of %d.  The maximum number of spell points is 10 times your Knowledge.  It is occasionally possible to have more than your maximum spell points from special events or locations.\"",
+    "ua": "\"{Мана}\n\n %s зараз має %d очок при максимумі в %d. Максимальне значення мани – Знання, помножене на 10. Інколи особливі місця або події можуть дозволити вашій магічній енергії перевищити максимум.\""
+  },
+  {
+    "var": "GENRLTXT_208",
+    "en": "\"That spell costs %d spell points.  Your hero only has %d spell points, and therefore can't cast the spell.\"",
+    "ua": "\"Це закляття коштує %d очок мани. У вашого героя лише %d очок, тому дане закляття він застосувати не може.\""
+  },
+  {
+    "var": "GENRLTXT_209",
+    "en": "\"In order to properly train your troops, you will have to spend some gold. Do you still wish them to be upgraded?\"",
+    "ua": "\"Добра наука вартує грошей. Ви й надалі хочете підвищити рівень ваших військ?\""
+  },
+  {
+    "var": "GENRLTXT_210",
+    "en": "%s has found the most obelisks.",
+    "ua": "%s знайшов найбільше обелісків."
+  },
+  {
+    "var": "GENRLTXT_211",
+    "en": "%s has found the most artifacts.",
+    "ua": "%s знайшов найбільше артефактів."
+  },
+  {
+    "var": "GENRLTXT_212",
+    "en": "%s has the most powerful forces.",
+    "ua": "%s має наймогутніше військо."
+  },
+  {
+    "var": "GENRLTXT_213",
+    "en": "%s earns the most gold.",
+    "ua": "%s одержує більше від усіх золота."
+  },
+  {
+    "var": "GENRLTXT_214",
+    "en": "The ultimate artifact may be found %s.",
+    "ua": "Могутній артефакт може бути знайдений %s."
+  },
+  {
+    "var": "GENRLTXT_215",
+    "en": "\"To cast spells, your hero must first buy a spell book for 500 gold.  Unfortunately, you seem to be a little short of cash at the moment.\"",
+    "ua": "\"Щоб користуватись магією, ваш герой повинен спочатку купити чарівну книгу за 500 золотих. На жаль, зараз ви обмежені в коштах.\""
+  },
+  {
+    "var": "GENRLTXT_216",
+    "en": "\"To cast spells, your hero must first buy a spell book for 500 gold.  Do you wish to buy one?\"",
+    "ua": "\"Щоб користуватись магією, ваш герой повинен спочатку купити чарівну книгу за 500 золотих. Бажаєте її придбати?\""
+  },
+  {
+    "var": "GENRLTXT_217",
+    "en": "\"%s is a level %d %s\nwith %d artifacts.\"",
+    "ua": "\"%s - %d рівня %s\nз кількістю артефактів - %d.\""
+  },
+  {
+    "var": "GENRLTXT_218",
+    "en": "\"After a generous tip, the barkeep whispers:\n%s\"",
+    "ua": "\"Одержавши щедрі чайові, корчмар шепоче: \n%s\""
+  },
+  {
+    "var": "GENRLTXT_219",
+    "en": "Available: ",
+    "ua": "Доступно: "
+  },
+  {
+    "var": "GENRLTXT_220",
+    "en": "Rating",
+    "ua": "Рейтинг"
+  },
+  {
+    "var": "GENRLTXT_221",
+    "en": "All prerequisites for this building have been met.",
+    "ua": "Усі супутні будівлі зведено"
+  },
+  {
+    "var": "GENRLTXT_222",
+    "en": "Attack %s",
+    "ua": "Атакувати %s."
+  },
+  {
+    "var": "GENRLTXT_223",
+    "en": "\"Through eagle-eyed observation, %s is able to learn %s\"",
+    "ua": "\"Гострозорий %s вивчає закляття %s.\""
+  },
+  {
+    "var": "GENRLTXT_224",
+    "en": "Out of memory.",
+    "ua": "Недостатньо пам'яті."
+  },
+  {
+    "var": "GENRLTXT_225",
+    "en": "Cannot build.  Already built here this turn.",
+    "ua": "Ви вже зводили сьогодні будівлі у цьому місті."
+  },
+  {
+    "var": "GENRLTXT_226",
+    "en": "Lose the %s '%s'.",
+    "ua": "Втрата: %s \"\"%s\"\"."
+  },
+  {
+    "var": "GENRLTXT_227",
+    "en": "Lose the hero '%s'.",
+    "ua": "Втрата героя: \"\"%s\"\"."
+  },
+  {
+    "var": "GENRLTXT_228",
+    "en": "\"Fail to win by month %d, week %d, day %d.\"",
+    "ua": "\"Неспроможність перемогти до місяця %d, тижня %d, дня %d.\""
+  },
+  {
+    "var": "GENRLTXT_229",
+    "en": "Lose all your heroes and towns.",
+    "ua": "Втрата всіх героїв і міст."
+  },
+  {
+    "var": "GENRLTXT_230",
+    "en": "Capture the %s '%s'.",
+    "ua": "Захоплення: %s \"\"%s\"\"."
+  },
+  {
+    "var": "GENRLTXT_231",
+    "en": "Defeat the hero '%s'.",
+    "ua": "Перемогти героя: \"\"%s\"\"."
+  },
+  {
+    "var": "GENRLTXT_232",
+    "en": "Find the Grail.",
+    "ua": "Знайти Грааль."
+  },
+  {
+    "var": "GENRLTXT_233",
+    "en": "Find the %s.",
+    "ua": "Знайти предмет: %s."
+  },
+  {
+    "var": "GENRLTXT_234",
+    "en": "Accumulate %d %s.",
+    "ua": "Накопичити: %d %s."
+  },
+  {
+    "var": "GENRLTXT_235",
+    "en": "  You may also defeat all heroes and towns.",
+    "ua": "Ви можете перемогти всіх героїв і захопити всі замки."
+  },
+  {
+    "var": "GENRLTXT_236",
+    "en": "Defeat all enemy heroes and capture all enemy towns.",
+    "ua": "Розгромити усіх ворожих героїв та захопити усі замки."
+  },
+  {
+    "var": "GENRLTXT_237",
+    "en": "You and your allies ",
+    "ua": "Ви і ваші союзники "
+  },
+  {
+    "var": "GENRLTXT_238",
+    "en": "You and your ally ",
+    "ua": "Ви і ваш союзник "
+  },
+  {
+    "var": "GENRLTXT_239",
+    "en": " and ",
+    "ua": " і "
+  },
+  {
+    "var": "GENRLTXT_240",
+    "en": "You",
+    "ua": "Ви"
+  },
+  {
+    "var": "GENRLTXT_241",
+    "en": "the enemy alliance of ",
+    "ua": "Ворожий альянс: "
+  },
+  {
+    "var": "GENRLTXT_242",
+    "en": "the enemy - ",
+    "ua": "ворог - "
+  },
+  {
+    "var": "GENRLTXT_243",
+    "en": "\"{Experience}\n\nExperience allows your heroes to go up levels, increasing their primary and secondary skills.\"",
+    "ua": "\"{Досвід}\n\nДосвід дозволяє героям підніматися на нові рівні, покращуючи основні та додаткові навички.\""
+  },
+  {
+    "var": "GENRLTXT_244",
+    "en": "\"{Resources}\n\nThere are seven resources in Heroes III, used to build and improve castles, purchase troops and recruit heroes.  Gold is the most common, required for virtually everything.  Wood and ore are used for most buildings.  Gems, Mercury, Sulfur and Crystal are rare magical resources used for the most powerful creatures and buildings.\"",
+    "ua": "\"{Ресурси}\n\nУ \"\"Героях III\"\" сім видів ресурсів, необхідних для будівництва замків, найму військ і героїв. Золото – найрозповсюдженіший з них, воно потрібне буквально всюди. Деревина і руда використовуються в більшості спорудах. Самоцвіти, ртуть, сірка та кристали – рідкісні магічні ресурси, необхідні для створення наймогутніших істот та найвеличніших будівель.\""
+  },
+  {
+    "var": "GENRLTXT_245",
+    "en": "The creatures are willing to join us!",
+    "ua": "Ці воїни готові приєднатися до вас!"
+  },
+  {
+    "var": "GENRLTXT_246",
+    "en": "\"All the creatures will join us...\n\nfor a fee of %d gold.\"",
+    "ua": "\"До нас приєднаються усі воїни...\n\n за плату в %d золотих.\""
+  },
+  {
+    "var": "GENRLTXT_247",
+    "en": "These weak creatures will surely flee before us.",
+    "ua": "Ці хилі створіння точно дременуть."
+  },
+  {
+    "var": "GENRLTXT_248",
+    "en": "I fear these creatures are in the mood for a fight.",
+    "ua": "Боюсь, ці воїни охочі до бійки."
+  },
+  {
+    "var": "GENRLTXT_249",
+    "en": "Searching for the Grail is fruitless.  Your hero could not carry it even if he found it - all his artifact slots are full.",
+    "ua": "Пошуки Грааля марні. Ваш герой не зможе забрати його, навіть якщо знайде – немає вільного місця для артефактів."
+  },
+  {
+    "var": "GENRLTXT_250",
+    "en": "Unable to access CD-ROM Drive.  Without a CD-ROM drive and a Heroes 2 CD-ROM you will only be able to play as the guest in a multi-player game.",
+    "ua": "Немає доступу до приводу CD-ROM. Без приводу CD-ROM і без диску \"\"Героїв III\"\" ви можете бути лише гостем у мережевій грі."
+  },
+  {
+    "var": "GENRLTXT_251",
+    "en": "\"Congratulations! You captured %s, and are victorious!\"",
+    "ua": "\"Вітаємо! %s у ваших руках, ви перемогли!\""
+  },
+  {
+    "var": "GENRLTXT_252",
+    "en": "\"The enemy has captured %s, and claims victory!\"",
+    "ua": "\"%s в руках ворога, перемога дісталася йому!\""
+  },
+  {
+    "var": "GENRLTXT_253",
+    "en": "The town of %s has fallen - all is lost!",
+    "ua": "Місто %s впало – все втрачено!"
+  },
+  {
+    "var": "GENRLTXT_254",
+    "en": "Congratulations! You have completed your quest to defeat the enemy hero %s. Victory is yours!",
+    "ua": "Вітаємо! Ви досягли успіху в своєму поході, ворожий герой %s переможений. Перемога за вами!"
+  },
+  {
+    "var": "GENRLTXT_255",
+    "en": "\"The hero, %s, has suffered defeat - your quest is over!\"",
+    "ua": "\"%s зазнав поразки – ваш похід закінчено!\""
+  },
+  {
+    "var": "GENRLTXT_256",
+    "en": "\"Alas, time has run out on your quest. All is lost.\"",
+    "ua": "\"На жаль, час, який ви мали, вийшов. Все пропало.\""
+  },
+  {
+    "var": "GENRLTXT_257",
+    "en": "Daily Income",
+    "ua": "Щоденний прибуток"
+  },
+  {
+    "var": "GENRLTXT_258",
+    "en": "Split %s",
+    "ua": "Розділити загін %s"
+  },
+  {
+    "var": "GENRLTXT_259",
+    "en": "Cancel",
+    "ua": "Скасувати"
+  },
+  {
+    "var": "GENRLTXT_260",
+    "en": "Artifacts",
+    "ua": "Артефакти"
+  },
+  {
+    "var": "GENRLTXT_261",
+    "en": "Equipped",
+    "ua": "На герої"
+  },
+  {
+    "var": "GENRLTXT_262",
+    "en": "Cheater!!!",
+    "ua": "Шахрай!!!"
+  },
+  {
+    "var": "GENRLTXT_263",
+    "en": "Miscellaneous",
+    "ua": "Інше"
+  },
+  {
+    "var": "GENRLTXT_264",
+    "en": "In Backpack",
+    "ua": "В сумці"
+  },
+  {
+    "var": "GENRLTXT_265",
+    "en": "The Grail may be found in the %s regions of the world.",
+    "ua": "Грааль можуть приховувати %s частини світу."
+  },
+  {
+    "var": "GENRLTXT_266",
+    "en": "The Grail may be found in the %s regions of the underworld.",
+    "ua": "Грааль можуть приховувати %s області підземного світу."
+  },
+  {
+    "var": "GENRLTXT_267",
+    "en": "\"Creature\nBonuses\"",
+    "ua": "\"Приріст \nвоїнів\""
+  },
+  {
+    "var": "GENRLTXT_268",
+    "en": "\"Creatures\nAvailable\"",
+    "ua": "\"Доступні \nвійська\""
+  },
+  {
+    "var": "GENRLTXT_269",
+    "en": "I can offer you the %s for %d %s of %s.",
+    "ua": "Моя пропозиція: %s на %d %s, %s."
+  },
+  {
+    "var": "GENRLTXT_270",
+    "en": "I can offer you %d %s of %s for your %s.",
+    "ua": "Моя пропозиція: %d %s, %s за ваш товар, %s."
+  },
+  {
+    "var": "GENRLTXT_271",
+    "en": "I can offer you %d %s of %s for %d %s.",
+    "ua": "Моя пропозиція: %d %s, %s за %d %s."
+  },
+  {
+    "var": "GENRLTXT_272",
+    "en": "Kingdom Resources",
+    "ua": "Ресурси королівства"
+  },
+  {
+    "var": "GENRLTXT_273",
+    "en": "%s's Artifacts",
+    "ua": "%s - артефакти"
+  },
+  {
+    "var": "GENRLTXT_274",
+    "en": "%s's Creatures",
+    "ua": "%s - військо"
+  },
+  {
+    "var": "GENRLTXT_275",
+    "en": "Only visiting heroes may use the %s.",
+    "ua": "%s використовується лише героями-гостями."
+  },
+  {
+    "var": "GENRLTXT_276",
+    "en": "Build a new %s",
+    "ua": "Збудувати %s"
+  },
+  {
+    "var": "GENRLTXT_277",
+    "en": "There is not enough room in the garrison.",
+    "ua": "У гарнізоні недостатньо місця."
+  },
+  {
+    "var": "GENRLTXT_278",
+    "en": "Congratulations! You have over %d %s in your armies. Your enemies have no choice but to bow down before your power!",
+    "ua": "Вітаємо! У ваших арміях понад %d %s. У ваших ворогів не залишається вибору, як схилитись перед вашою могутністю!"
+  },
+  {
+    "var": "GENRLTXT_279",
+    "en": "The enemy has gathered over %d %s. You have no choice but to admit defeat!",
+    "ua": "Ворог зібрав більше %d %s. У вас немає вибору, як визнати поразку!"
+  },
+  {
+    "var": "GENRLTXT_280",
+    "en": "Congratulations! You have collected over %d %s in your treasury. Victory is yours!",
+    "ua": "Вітаємо! У вашій скарбниці понад %d одиниць ресурсів %s. Перемога ваша!"
+  },
+  {
+    "var": "GENRLTXT_281",
+    "en": "The enemy has collected over %d %s. Victory is theirs!",
+    "ua": "Ворог зібрав понад %d одиниць цього ресурсу, %s. Він переміг!"
+  },
+  {
+    "var": "GENRLTXT_282",
+    "en": "\"Congratulations! You have found the %s, and can claim victory!\"",
+    "ua": "\"Вітаємо! %s у ваших руках, можете святкувати перемогу!\""
+  },
+  {
+    "var": "GENRLTXT_283",
+    "en": "\"The enemy has found the %s, and can claim victory!\"",
+    "ua": "\"%s в руках ворога, він святкує перемогу!\""
+  },
+  {
+    "var": "GENRLTXT_284",
+    "en": "\"Congratulations! You have successfully upgraded your town, and can claim victory!\"",
+    "ua": "\"Вітаємо! Ви успішно покращили своє місто і можете насолоджуватися перемогою!\""
+  },
+  {
+    "var": "GENRLTXT_285",
+    "en": "\"By upgrading their town, the enemy has claimed victory!\"",
+    "ua": "\"Покращивши своє місто, ворог переміг і сьогодні святкує!\""
+  },
+  {
+    "var": "GENRLTXT_286",
+    "en": "\"Congratulations! You have constructed a permanent home for the Grail, and can claim victory!\"",
+    "ua": "\"Вітаємо! Ви побудували постійний притулок для Грааля і торжествуєте!\""
+  },
+  {
+    "var": "GENRLTXT_287",
+    "en": "\"The enemy has constructed a permanent home for the Grail, and claims victory!\"",
+    "ua": "\"Ворог побудував постійний притулок для Грааля, вирвавши цим перемогу!\""
+  },
+  {
+    "var": "GENRLTXT_288",
+    "en": "\"Congratulations! You have completed your quest to kill the fearsome beast, and can claim victory!\"",
+    "ua": "\"Вітаємо! Ваше завдання, знищити лютого звіра, виконане. Ви перемогли!\""
+  },
+  {
+    "var": "GENRLTXT_289",
+    "en": "\"The enemy has beaten you to your quest to kill the fearsome beast, and claims victory!\"",
+    "ua": "\"Ворог випередив вас і сам убив лютого звіра, і тим самим переміг!\""
+  },
+  {
+    "var": "GENRLTXT_290",
+    "en": "Congratulations! Your flag flies on the dwelling of every creature. Victory is yours!",
+    "ua": "Вітаємо! Ваш стяг розвіюється над кожним помешканням. Перемога за вами!"
+  },
+  {
+    "var": "GENRLTXT_291",
+    "en": "The enemy's flag flies on the dwelling of every creature. Victory is theirs!",
+    "ua": "Ворожий стяг розвіюється над кожним помешканням. Вони перемогли!"
+  },
+  {
+    "var": "GENRLTXT_292",
+    "en": "Congratulations! Your flag flies on every mine. Victory is yours!",
+    "ua": "Вітаємо! Ваш стяг розвіюється над кожною шахтою. Перемога ваша!"
+  },
+  {
+    "var": "GENRLTXT_293",
+    "en": "The enemy's flag flies on every mine. Victory is theirs!",
+    "ua": "Ворожий стяг розвіюється над кожною шахтою. Ворог переміг!"
+  },
+  {
+    "var": "GENRLTXT_294",
+    "en": "\"Congratulations! You have reached your destination, precious cargo intact, and can claim victory!\"",
+    "ua": "\"Вітаємо! Ви досягли умовленого місця, цінний вантаж цілий та неушкоджений, ви перемогли!\""
+  },
+  {
+    "var": "GENRLTXT_295",
+    "en": "The enemy has delivered the precious cargo intact and claims victory!",
+    "ua": "Ворог доставив цінний вантаж цілий, перемога його!"
+  },
+  {
+    "var": "GENRLTXT_296",
+    "en": "Move %s here.",
+    "ua": "Перемістити сюди загін %s."
+  },
+  {
+    "var": "GENRLTXT_297",
+    "en": "Fly %s here.",
+    "ua": "Перемістити сюди загін %s."
+  },
+  {
+    "var": "GENRLTXT_298",
+    "en": "\"Shoot %s (%d shots left, %s damage)\"",
+    "ua": "\"Стріляти в %s (залишилось постр. %d, пошкодження %s)\""
+  },
+  {
+    "var": "GENRLTXT_299",
+    "en": "View %s info.",
+    "ua": "%s. Детальніше..."
+  },
+  {
+    "var": "GENRLTXT_300",
+    "en": "No shots left!",
+    "ua": "Не залишилось пострілів!"
+  },
+  {
+    "var": "GENRLTXT_301",
+    "en": "Resurrect the %s",
+    "ua": "Відродити загін %s"
+  },
+  {
+    "var": "GENRLTXT_302",
+    "en": "Summon demons from the %s",
+    "ua": "Підняти демонів із %s"
+  },
+  {
+    "var": "GENRLTXT_303",
+    "en": "Cast a spell on %s",
+    "ua": "Накласти закляття на %s"
+  },
+  {
+    "var": "GENRLTXT_304",
+    "en": "The enemy has surrendered!",
+    "ua": "Ворог здався!"
+  },
+  {
+    "var": "GENRLTXT_305",
+    "en": "The enemy has fled!",
+    "ua": "Ворог втік!"
+  },
+  {
+    "var": "GENRLTXT_306",
+    "en": "A glorious victory!",
+    "ua": "Славна перемога!"
+  },
+  {
+    "var": "GENRLTXT_307",
+    "en": "\"\n\nFor valor in combat, %s receives %d experience\"",
+    "ua": "\"\n\nЗа доблесть в бою %s отримує %d досвіду\""
+  },
+  {
+    "var": "GENRLTXT_308",
+    "en": "\"%s surrenders to the enemy, and departs in shame.\"",
+    "ua": "\"%s здається ворогу і покидає поле бою з ганьбою.\""
+  },
+  {
+    "var": "GENRLTXT_309",
+    "en": "The cowardly %s flees from battle.",
+    "ua": "%s полохливо тікає з поля бою."
+  },
+  {
+    "var": "GENRLTXT_310",
+    "en": "\"Your forces suffer a bitter defeat, and %s abandons your cause.\"",
+    "ua": "\"Ваші війська зазнали гіркої поразки і %s залишає вас.\""
+  },
+  {
+    "var": "GENRLTXT_311",
+    "en": "\"Your forces surrender to the enemy, and depart in shame.\"",
+    "ua": "\"Ваші війська здалися ворогу і залишають поле бою з ганьбою.\""
+  },
+  {
+    "var": "GENRLTXT_312",
+    "en": "Your cowardly forces flee from battle.",
+    "ua": "Ваше заяче військо втікає з поля бою."
+  },
+  {
+    "var": "GENRLTXT_313",
+    "en": "Your forces suffer a bitter defeat.",
+    "ua": "Ваші війська зазнали гіркої поразки."
+  },
+  {
+    "var": "GENRLTXT_314",
+    "en": "The Catapult must be equipped.",
+    "ua": "Катапульта повинна бути споряджена."
+  },
+  {
+    "var": "GENRLTXT_315",
+    "en": "This creature is already upgraded.",
+    "ua": "Цей воїн вже покращений."
+  },
+  {
+    "var": "GENRLTXT_316",
+    "en": "You cannot afford to upgrade this creature.",
+    "ua": "Покращення цього воїна вам не покишені."
+  },
+  {
+    "var": "GENRLTXT_317",
+    "en": "All creatures are already upgraded.",
+    "ua": "Усі воїни вже покращені."
+  },
+  {
+    "var": "GENRLTXT_318",
+    "en": "You cannot afford to upgrade all creatures.",
+    "ua": "Покращення всіх воїнів вам не покишені."
+  },
+  {
+    "var": "GENRLTXT_319",
+    "en": "castle",
+    "ua": "замок"
+  },
+  {
+    "var": "GENRLTXT_320",
+    "en": "Upgrade %s.",
+    "ua": "Покращення %s."
+  },
+  {
+    "var": "GENRLTXT_321",
+    "en": "Build the Grail building in %s.",
+    "ua": "Звести святилище Грааля у місті %s."
+  },
+  {
+    "var": "GENRLTXT_322",
+    "en": "Build the Grail in any town.",
+    "ua": "Звести святилище Грааля у будь-якому місті."
+  },
+  {
+    "var": "GENRLTXT_323",
+    "en": "Defeat the %s in the %s region of the world.",
+    "ua": "Здолати %s в %s частині світу."
+  },
+  {
+    "var": "GENRLTXT_324",
+    "en": "Accumulate %d %s in your kingdom's armies.",
+    "ua": "Зібрати %d %s під ваші стяги."
+  },
+  {
+    "var": "GENRLTXT_325",
+    "en": "Flag all creature dwellings.",
+    "ua": "Привласнити усі помешкання воїнів."
+  },
+  {
+    "var": "GENRLTXT_326",
+    "en": "Flag all mines.",
+    "ua": "Привласнити усі шахти."
+  },
+  {
+    "var": "GENRLTXT_327",
+    "en": "Transport the %s to %s.",
+    "ua": "Доставити артефакт %s у місто %s."
+  },
+  {
+    "var": "GENRLTXT_328",
+    "en": "There is not enough room in your backpack.",
+    "ua": "У вашій сумці недостатньо місця."
+  },
+  {
+    "var": "GENRLTXT_329",
+    "en": "Waiting for other players....",
+    "ua": "Очікування інших гравців...."
+  },
+  {
+    "var": "GENRLTXT_330",
+    "en": "\"Sorry, your connection was lost.\"",
+    "ua": "\"Вибачте, зв'язок втрачений.\""
+  },
+  {
+    "var": "GENRLTXT_331",
+    "en": "You can't afford to purchase a boat.",
+    "ua": "Ви не можете дозволити собі придбати корабель."
+  },
+  {
+    "var": "GENRLTXT_332",
+    "en": "(digging ok)",
+    "ua": "(можна копати)"
+  },
+  {
+    "var": "GENRLTXT_333",
+    "en": "Someone is cheating!",
+    "ua": "Хтось шахрує!"
+  },
+  {
+    "var": "GENRLTXT_334",
+    "en": "Someone has their debug level set!",
+    "ua": "Хтось встановив режим відладки!"
+  },
+  {
+    "var": "GENRLTXT_335",
+    "en": "%s is already in a boat.",
+    "ua": "%s вже на борту корабля."
+  },
+  {
+    "var": "GENRLTXT_336",
+    "en": "There is no place to put the boat.",
+    "ua": "Корабель нікуди помістити."
+  },
+  {
+    "var": "GENRLTXT_337",
+    "en": "There are no boats to summon.",
+    "ua": "Немає кораблів для виклику."
+  },
+  {
+    "var": "GENRLTXT_338",
+    "en": "\"%s tried to summon a boat, but failed.\"",
+    "ua": "\"%s намагається викликати корабель, але зазнає невдачі.\""
+  },
+  {
+    "var": "GENRLTXT_339",
+    "en": "\"%s tried to scuttle the boat, but failed.\"",
+    "ua": "\"%s намагається потопити корабель, але зазнає невдачі.\""
+  },
+  {
+    "var": "GENRLTXT_340",
+    "en": "%s is not skilled enough to cast this spell again today.",
+    "ua": "%s не надто володіє мистецтвом магії, аби знову направити це закляття сьогодні."
+  },
+  {
+    "var": "GENRLTXT_341",
+    "en": "\"%s, Level %d\"",
+    "ua": "\"%s, %d рівня\""
+  },
+  {
+    "var": "GENRLTXT_342",
+    "en": "The Shackles of War are present.  %s can not retreat!",
+    "ua": "Задіяні кайдани війни. %s не може відступити!"
+  },
+  {
+    "var": "GENRLTXT_343",
+    "en": "The Shackles of War are present.  %s can not surrender!",
+    "ua": "Задіяні кайдани війни. %s не може здатися!"
+  },
+  {
+    "var": "GENRLTXT_344",
+    "en": "Level %d %s",
+    "ua": "Рівень %d, %s"
+  },
+  {
+    "var": "GENRLTXT_345",
+    "en": "\"\nDoes %d points of damage.\"",
+    "ua": "\"\nЗавдає %d од. втрат.\""
+  },
+  {
+    "var": "GENRLTXT_346",
+    "en": "Free",
+    "ua": "Вільно"
+  },
+  {
+    "var": "GENRLTXT_347",
+    "en": "N/A",
+    "ua": "Н/Д"
+  },
+  {
+    "var": "GENRLTXT_348",
+    "en": "Cost Per Troop",
+    "ua": "Ціна воїна:"
+  },
+  {
+    "var": "GENRLTXT_349",
+    "en": "%s the Seer",
+    "ua": "Пророк %s"
+  },
+  {
+    "var": "GENRLTXT_350",
+    "en": " (Seeks %s)",
+    "ua": " (Потрібно - %s)"
+  },
+  {
+    "var": "GENRLTXT_351",
+    "en": "Black Market",
+    "ua": "Чорний ринок"
+  },
+  {
+    "var": "GENRLTXT_352",
+    "en": "%s saved successfully.",
+    "ua": "\"Гра \"\"%s\"\" – успішно збережена.\""
+  },
+  {
+    "var": "GENRLTXT_353",
+    "en": "It's %s's turn.",
+    "ua": "Ходить %s."
+  },
+  {
+    "var": "GENRLTXT_354",
+    "en": "(Visited)",
+    "ua": "(Відвідано)"
+  },
+  {
+    "var": "GENRLTXT_355",
+    "en": "(Not visited)",
+    "ua": "(Не відвідано)"
+  },
+  {
+    "var": "GENRLTXT_356",
+    "en": "(Already learned)",
+    "ua": "(Вже вивчено)"
+  },
+  {
+    "var": "GENRLTXT_357",
+    "en": "(Learn %s)",
+    "ua": "(Навчає - %s)"
+  },
+  {
+    "var": "GENRLTXT_358",
+    "en": "(Learn %s)",
+    "ua": "(Навчає - %s)"
+  },
+  {
+    "var": "GENRLTXT_359",
+    "en": "(Already learned)",
+    "ua": "(Вже вивчено)"
+  },
+  {
+    "var": "GENRLTXT_360",
+    "en": "%s sends you a gift",
+    "ua": "%s надсилає вам удар"
+  },
+  {
+    "var": "GENRLTXT_361",
+    "en": "%s would appreciate a gift of %s",
+    "ua": "%s вдячний вам. Ваш дар, %s, обов'язково знадобиться."
+  },
+  {
+    "var": "GENRLTXT_362",
+    "en": "%s would appreciate any of these resources.",
+    "ua": "%s З радістю прийме будь-які з цих ресурсів."
+  },
+  {
+    "var": "GENRLTXT_363",
+    "en": "The %s drains %d life from the %s.",
+    "ua": "%s висмоктує %d життя з %s."
+  },
+  {
+    "var": "GENRLTXT_364",
+    "en": "The %s drain %d life from the %s.",
+    "ua": "Загін %s висмоктує %d життя з %s."
+  },
+  {
+    "var": "GENRLTXT_365",
+    "en": "\"\n and one rises from the dead.\"",
+    "ua": "\" \nі один встає з мертвих.\""
+  },
+  {
+    "var": "GENRLTXT_366",
+    "en": "\"\n and %d rise from the dead.\"",
+    "ua": "\" \nі %d встає з мертвих.\""
+  },
+  {
+    "var": "GENRLTXT_367",
+    "en": "The %s does double damage!",
+    "ua": "%s завдає подвійних пошкоджень!"
+  },
+  {
+    "var": "GENRLTXT_368",
+    "en": "The %s do double damage!",
+    "ua": "Загін %s завдає подвійних пошкоджень!"
+  },
+  {
+    "var": "GENRLTXT_369",
+    "en": "A bolt of lightning strikes the %s!",
+    "ua": "Загін %s вражений блискавкою!"
+  },
+  {
+    "var": "GENRLTXT_370",
+    "en": "\"Burning with anger, the %s does an extra 50%% damage to the %s.\"",
+    "ua": "\"Палаючи гнівом, %s завдає 50%% додаткових втрат: вид %s викликає у нього ненависть.\""
+  },
+  {
+    "var": "GENRLTXT_371",
+    "en": "\"Burning with anger, the %s do an extra 50%% damage to the %s.\"",
+    "ua": "\"Палаючи гнівом, загін %s завдає 50%% додаткових втрат: вид %s викликає у нього ненависть.\""
+  },
+  {
+    "var": "GENRLTXT_372",
+    "en": "\"The wounds of the %s close, and it is whole again.\"",
+    "ua": "\"%s зцілює свої рани і знову невразливий.\""
+  },
+  {
+    "var": "GENRLTXT_373",
+    "en": "\"The wounds of the %s close, and they are whole again.\"",
+    "ua": "\"Загін %s зцілює свої рани і знову невразливий.\""
+  },
+  {
+    "var": "GENRLTXT_374",
+    "en": "\"{Tactics Phase}\n\nIn the Tactics Phase, a hero with superior Tactics skill may arrange his armies before combat begins.\"",
+    "ua": "\"{Тактична фаза}\n\nУ тактичній фазі герой, який перевершує ворога у навику \"\"Тактика\"\", може розставити свої війська перед початком бою.\""
+  },
+  {
+    "var": "GENRLTXT_375",
+    "en": "The %s drains spell points from %s!",
+    "ua": "%s витягує магічну енергію з %s!"
+  },
+  {
+    "var": "GENRLTXT_376",
+    "en": "The %s drain spell points from %s!",
+    "ua": "Загін %s витягує магічну енергію з %s!"
+  },
+  {
+    "var": "GENRLTXT_377",
+    "en": "arrow tower",
+    "ua": "стрілецька вежа"
+  },
+  {
+    "var": "GENRLTXT_378",
+    "en": "The %s does %d damage.",
+    "ua": "%s завдає %d од. пошкоджень."
+  },
+  {
+    "var": "GENRLTXT_379",
+    "en": "The %s do %d damage.",
+    "ua": "Загін %s завдає %d од. пошкоджень."
+  },
+  {
+    "var": "GENRLTXT_380",
+    "en": "\"\nOne %s perishes.\"",
+    "ua": "\"\nЗагинув %s.\""
+  },
+  {
+    "var": "GENRLTXT_381",
+    "en": "\"\n%d %s perish.\"",
+    "ua": "\"\nГинуть %d %s.\""
+  },
+  {
+    "var": "GENRLTXT_382",
+    "en": "Att",
+    "ua": "Атака"
+  },
+  {
+    "var": "GENRLTXT_383",
+    "en": "Def",
+    "ua": "Захист"
+  },
+  {
+    "var": "GENRLTXT_384",
+    "en": "Pwr",
+    "ua": "Сила"
+  },
+  {
+    "var": "GENRLTXT_385",
+    "en": "Know",
+    "ua": "Знання"
+  },
+  {
+    "var": "GENRLTXT_386",
+    "en": "Morale",
+    "ua": "Мораль"
+  },
+  {
+    "var": "GENRLTXT_387",
+    "en": "Luck",
+    "ua": "Удача"
+  },
+  {
+    "var": "GENRLTXT_388",
+    "en": "Dmg",
+    "ua": "Пошкодження"
+  },
+  {
+    "var": "GENRLTXT_389",
+    "en": "Spell Points",
+    "ua": "Мана"
+  },
+  {
+    "var": "GENRLTXT_390",
+    "en": "Health",
+    "ua": "Здоров'я"
+  },
+  {
+    "var": "GENRLTXT_391",
+    "en": "Health",
+    "ua": "Здр"
+  },
+  {
+    "var": "GENRLTXT_392",
+    "en": "Allies",
+    "ua": "Союз"
+  },
+  {
+    "var": "GENRLTXT_393",
+    "en": "Enemies",
+    "ua": "Вороги"
+  },
+  {
+    "var": "GENRLTXT_394",
+    "en": "Combat Options",
+    "ua": "Налаштування бою"
+  },
+  {
+    "var": "GENRLTXT_395",
+    "en": "Animation Speed",
+    "ua": "Швидкість анімації"
+  },
+  {
+    "var": "GENRLTXT_396",
+    "en": "Music Volume",
+    "ua": "Гучність музики"
+  },
+  {
+    "var": "GENRLTXT_397",
+    "en": "Effects Volume",
+    "ua": "Гучність ефектів"
+  },
+  {
+    "var": "GENRLTXT_398",
+    "en": "Auto-Combat Options",
+    "ua": "Опції авто-бою"
+  },
+  {
+    "var": "GENRLTXT_399",
+    "en": "Creature Info",
+    "ua": "Відомості про воїна"
+  },
+  {
+    "var": "GENRLTXT_400",
+    "en": "Creatures",
+    "ua": "Воїни"
+  },
+  {
+    "var": "GENRLTXT_Spells",
+    "en": "Spells\t\t  ",
+    "ua": "Закляття\t\t  "
+  },
+  {
+    "var": "GENRLTXT_Catapult",
+    "en": "Catapult\t\t  ",
+    "ua": "Катапульта\t\t  "
+  },
+  {
+    "var": "GENRLTXT_First Aid Tent",
+    "en": "First Aid Tent\t\t",
+    "ua": "Намет першої допомоги\t\t"
+  },
+  {
+    "var": "GENRLTXT_All Statistics",
+    "en": "All Statistics\t\t",
+    "ua": "Усі дані\t\t"
+  },
+  {
+    "var": "GENRLTXT_Spells Only",
+    "en": "Spells Only\t\t",
+    "ua": "Лише закляття\t\t"
+  },
+  {
+    "var": "GENRLTXT_View Hex Grid",
+    "en": "View Hex Grid\t\t",
+    "ua": "Вивести сітку\t\t"
+  },
+  {
+    "var": "GENRLTXT_Movement Shadow",
+    "en": "Movement Shadow\t\t",
+    "ua": "Доступний хід\t\t"
+  },
+  {
+    "var": "GENRLTXT_Cursor Shadow",
+    "en": "Cursor Shadow\t\t",
+    "ua": "Тінь від курсору\t\t"
+  },
+  {
+    "var": "GENRLTXT_Battlefield Casualties",
+    "en": "Battlefield Casualties\t\t",
+    "ua": "Втрати в бою\t\t"
+  },
+  {
+    "var": "GENRLTXT_Attacker",
+    "en": "Attacker\t\t",
+    "ua": "Нападник\t\t"
+  },
+  {
+    "var": "GENRLTXT_Defender",
+    "en": "Defender\t\t",
+    "ua": "Захисник\t\t"
+  },
+  {
+    "var": "GENRLTXT_Victorious",
+    "en": "Victorious\t\t",
+    "ua": "Переможець\t\t"
+  },
+  {
+    "var": "GENRLTXT_Defeated",
+    "en": "Defeated\t\t",
+    "ua": "Переможений\t\t"
+  },
+  {
+    "var": "GENRLTXT_Next round begins.",
+    "en": "Next round begins.\t\t",
+    "ua": "Розпочинається наступний раунд.\t\t"
+  },
+  {
+    "var": "GENRLTXT_\"%s feels that the odds are overwhelming.\n\nDo you wish to retreat?\"",
+    "en": "\"%s feels that the odds are overwhelming.\n\nDo you wish to retreat?\"\t\t",
+    "ua": "\"%s відчуває, що шанси нікчемні.\n\nБажаєте відступити?\"\t\t"
+  },
+  {
+    "var": "GENRLTXT_\"The %s heals the %s\nremoving %d points of damage.\"",
+    "en": "\"The %s heals the %s\nremoving %d points of damage.\"\t\t",
+    "ua": "\"%s зцілює %s,\nвідновлюючи %d одиниць здоров'я.\"\t\t"
+  },
+  {
+    "var": "GENRLTXT_417",
+    "en": "The current player left the game! Player turn will be replayed by computer player.",
+    "ua": "Гравець вийшов! Його хід буде здійснений комп'ютером."
+  },
+  {
+    "var": "GENRLTXT_418",
+    "en": "Other player left the game!  You won!",
+    "ua": "Інший гравець вийшов! Ви перемогли!"
+  },
+  {
+    "var": "GENRLTXT_419",
+    "en": "View Hero Stats",
+    "ua": "Показати властивості героя"
+  },
+  {
+    "var": "GENRLTXT_420",
+    "en": "View Enemy Hero Stats",
+    "ua": "Показати властивості ворожого героя"
+  },
+  {
+    "var": "GENRLTXT_421",
+    "en": "Apply first aid to the %s",
+    "ua": "Полікувати %s"
+  },
+  {
+    "var": "GENRLTXT_422",
+    "en": "\"{Artifact}\n\nThrough a clearing you observe an ancient artifact.  Unfortunately, it's guarded by %s %s.  Do you want to fight the %s for the artifact?\"",
+    "ua": "\"{Артефакт}\n\nНа галявині ви помітили стародавній артефакт. На жаль, його сторожує %s %s. Чи готові ви битися з %s?\""
+  },
+  {
+    "var": "GENRLTXT_423",
+    "en": "\"Much to your dismay, the %s is guarded by %s %s.\n\nDo you wish to fight the guards?\"",
+    "ua": "\"На жаль, %s охороняється. Охоронці: %s %s.\n\nБажаєте битися з охоронцями?\""
+  },
+  {
+    "var": "GENRLTXT_424",
+    "en": "\"There are no %s here to recruit.\n\"",
+    "ua": "\"%s тут немає, і найняти їх не можна.\n\""
+  },
+  {
+    "var": "GENRLTXT_425",
+    "en": "\"%d %s join your army.\n\"",
+    "ua": "\"%d %s приєдналися до вашої армії.\n\""
+  },
+  {
+    "var": "GENRLTXT_426",
+    "en": "\"Long ago, this city was home to dragons and their hoarded wealth, but today the wind whistles through the empty halls.\"",
+    "ua": "\"У сиву давнину це місто було прихистком драконів та їх незліченних скарбів, та сьогодні тут лише вітер самотньо блукає поміж пустельних мурів.\""
+  },
+  {
+    "var": "GENRLTXT_427",
+    "en": "\"The %s would join your hero, but there aren't enough provisions to support them.\"",
+    "ua": "\"Військо %s приєдналося би до вашого героя, однак для них не вистачить провіанту.\""
+  },
+  {
+    "var": "GENRLTXT_428",
+    "en": "artifact",
+    "ua": "артефакт"
+  },
+  {
+    "var": "GENRLTXT_429",
+    "en": "artifacts",
+    "ua": "артефакти"
+  },
+  {
+    "var": "GENRLTXT_430",
+    "en": "of each resource",
+    "ua": "кожного з ресурсів"
+  },
+  {
+    "var": "GENRLTXT_431",
+    "en": "garrison",
+    "ua": "гарнізон"
+  },
+  {
+    "var": "GENRLTXT_432",
+    "en": " Old Map Format",
+    "ua": "Старий формат карти"
+  },
+  {
+    "var": "GENRLTXT_433",
+    "en": "\"Sorry, player left game during transmission.  Goodbye!\"",
+    "ua": "\"Вибачте, гравець вийшов під час передачі. До побачення!\""
+  },
+  {
+    "var": "GENRLTXT_434",
+    "en": "Upgrade All Creatures",
+    "ua": "Покращити всіх воїнів"
+  },
+  {
+    "var": "GENRLTXT_435",
+    "en": "Rank",
+    "ua": "Ранг"
+  },
+  {
+    "var": "GENRLTXT_436",
+    "en": "Player",
+    "ua": "Гравець "
+  },
+  {
+    "var": "GENRLTXT_437",
+    "en": "Land",
+    "ua": "Карта"
+  },
+  {
+    "var": "GENRLTXT_438",
+    "en": "Days",
+    "ua": "Днів"
+  },
+  {
+    "var": "GENRLTXT_439",
+    "en": "\"\nCheater! +maximum\"",
+    "ua": "\"\nШахрай! +максимум\""
+  },
+  {
+    "var": "GENRLTXT_440",
+    "en": "\"Total\nTime\"",
+    "ua": "\"Загальний\nчас\""
+  },
+  {
+    "var": "GENRLTXT_441",
+    "en": "\"Base\nScore\"",
+    "ua": "\"Базовий\nрахунок\""
+  },
+  {
+    "var": "GENRLTXT_442",
+    "en": "\"Difficulty\nLevel\"",
+    "ua": "\"Рівень\nскладності\""
+  },
+  {
+    "var": "GENRLTXT_443",
+    "en": "\"Final\nScore\"",
+    "ua": "\"Підсумковий\nрахунок\""
+  },
+  {
+    "var": "GENRLTXT_444",
+    "en": "+1 Level",
+    "ua": "+1 рівень"
+  },
+  {
+    "var": "GENRLTXT_445",
+    "en": "\"\n***Command Line Help***\n\n/S0 - disable sound and music\n/I0 - skip the intro\n\nExample:\n\nHEROES3 /S0 /I0\n\nStarts Heroes III with no sound and no intro.\n\"",
+    "ua": "\" \n***Довідка командної стрічки***\n\n/S0 – вимкнути звук та музику\n/I0 – пропустити вступ \n\nПриклад:\n\nHEROES3 /S0 /I0\n\nГерої III запустяться без звуку та вступу.\n\""
+  },
+  {
+    "var": "GENRLTXT_446",
+    "en": "%s has gained a level.",
+    "ua": "%s одержує рівень."
+  },
+  {
+    "var": "GENRLTXT_447",
+    "en": "%s is now a level %d %s.",
+    "ua": "%s тепер %d рівня."
+  },
+  {
+    "var": "GENRLTXT_448",
+    "en": "\"HOTSEAT\nPlease enter names:\"",
+    "ua": "\"ЗА ОДНИМ КОМП'ЮТЕРОМ\n Будь ласка, введіть імена:\""
+  },
+  {
+    "var": "GENRLTXT_449",
+    "en": "Error initializing modem connection.  Please try again.",
+    "ua": "Помилка під час встановлення модемного з'єднання. Будь ласка, спробуйте ще раз."
+  },
+  {
+    "var": "GENRLTXT_450",
+    "en": "Modem Session",
+    "ua": "Модемний сеанс"
+  },
+  {
+    "var": "GENRLTXT_451",
+    "en": "Error initializing serial connection.  Please try again.",
+    "ua": "Помилка під час встановлення зв'язку. Спробуйте, будь ласка, ще раз."
+  },
+  {
+    "var": "GENRLTXT_452",
+    "en": "Serial Session",
+    "ua": "Локальний сеанс"
+  },
+  {
+    "var": "GENRLTXT_453",
+    "en": "Error hosting serial connection.  Please try again.",
+    "ua": "Помилка локального хостингу. Спробуйте, будь ласка, ще раз."
+  },
+  {
+    "var": "GENRLTXT_454",
+    "en": "My Game",
+    "ua": "Моя гра"
+  },
+  {
+    "var": "GENRLTXT_455",
+    "en": "Password:",
+    "ua": "Пароль:"
+  },
+  {
+    "var": "GENRLTXT_456",
+    "en": "No sessions found on host computer!",
+    "ua": "На сервері не виявлено відкритого сеансу!"
+  },
+  {
+    "var": "GENRLTXT_457",
+    "en": "\"Sorry, there was an error connecting to that session. Please try again.\"",
+    "ua": "\"Вибачте, під час підключення до цього сеансу сталася помилка. Спробуйте, будь ласка, ще раз.\""
+  },
+  {
+    "var": "GENRLTXT_458",
+    "en": "Game was not found.  Please try again.",
+    "ua": "Гра не знайдена. Спробуйте, будь ласка, ще раз."
+  },
+  {
+    "var": "GENRLTXT_459",
+    "en": "Invalid password!",
+    "ua": "Неправильний пароль!"
+  },
+  {
+    "var": "GENRLTXT_460",
+    "en": "Error initializing TCP/IP connection.  Please try again.",
+    "ua": "Помилка під час встановлення з'єднання TCP/IP. Спробуйте, будь ласка, ще раз."
+  },
+  {
+    "var": "GENRLTXT_461",
+    "en": "\"Your IP Address:\n%s\"",
+    "ua": "\"Ваша IP-адреса:\n %s\""
+  },
+  {
+    "var": "GENRLTXT_462",
+    "en": "Error initializing IPX connection.  Please try again.",
+    "ua": "Помилка під час встановлення з'єднання IPX. Спробуйте, будь ласка, ще раз."
+  },
+  {
+    "var": "GENRLTXT_463",
+    "en": "Password (optional):",
+    "ua": "Пароль (необов'язково):"
+  },
+  {
+    "var": "GENRLTXT_464",
+    "en": "That IP address was not found!",
+    "ua": "Такої IP-адреси не знайдено!"
+  },
+  {
+    "var": "GENRLTXT_465",
+    "en": "Puzzle Map",
+    "ua": "Карта-загадка"
+  },
+  {
+    "var": "GENRLTXT_466",
+    "en": "Bring %s to %s.",
+    "ua": "Доставити потрібне (%s) одержувачу (%s)."
+  },
+  {
+    "var": "GENRLTXT_467",
+    "en": "Available",
+    "ua": "Доступно"
+  },
+  {
+    "var": "GENRLTXT_468",
+    "en": "Total Cost",
+    "ua": "Разом:"
+  },
+  {
+    "var": "GENRLTXT_469",
+    "en": "Error connecting to host computer.  Please try again!",
+    "ua": "Помилка під час зв'язку з сервером. Спробуйте, будь ласка, ще раз."
+  },
+  {
+    "var": "GENRLTXT_470",
+    "en": "Computer",
+    "ua": "Комп'ютер"
+  },
+  {
+    "var": "GENRLTXT_471",
+    "en": "%s left the game.",
+    "ua": "%s залишає гру."
+  },
+  {
+    "var": "GENRLTXT_472",
+    "en": "You are now the host!",
+    "ua": "Тепер ви - сервер!"
+  },
+  {
+    "var": "GENRLTXT_473",
+    "en": "Waiting for remote player to pick level increase....",
+    "ua": "Очікування: гравець обирає підвищення рівня..."
+  },
+  {
+    "var": "GENRLTXT_474",
+    "en": "A computer player has attacked a remote human player.  Waiting for battle to complete....",
+    "ua": "Комп'ютерний гравець атакував гравця-людину. Очікування завершення бою...."
+  },
+  {
+    "var": "GENRLTXT_475",
+    "en": "whisper",
+    "ua": "Прошепотіти"
+  },
+  {
+    "var": "GENRLTXT_476",
+    "en": "whisper to",
+    "ua": "Прошепотіти. Адресат -"
+  },
+  {
+    "var": "GENRLTXT_477",
+    "en": "Experience needed to reach next level",
+    "ua": "Бракує досвіду для наступного рівня:"
+  },
+  {
+    "var": "GENRLTXT_478",
+    "en": "Total experience on the Altar",
+    "ua": "Загальний досвід вівтаря:"
+  },
+  {
+    "var": "GENRLTXT_479",
+    "en": "Sacrifice artifacts for experience",
+    "ua": "Пожертвувати артефактами в обмін на досвід"
+  },
+  {
+    "var": "GENRLTXT_480",
+    "en": "Move artifacts to the Altar",
+    "ua": "Помістити артефакти на вівтар"
+  },
+  {
+    "var": "GENRLTXT_481",
+    "en": "Altar of Sacrifice",
+    "ua": "Жертовний вівтар"
+  },
+  {
+    "var": "GENRLTXT_482",
+    "en": "\"To sacrifice creatures, move them from your army on to the Altar and click Sacrifice\"",
+    "ua": "\"Для того, щоб пожертвувати воїнів, перемістіть їх зі свого війська на вівтар і натисніть \"\"Принести в жертву\"\"\""
+  },
+  {
+    "var": "GENRLTXT_483",
+    "en": "Select %s",
+    "ua": "Вибрати %s"
+  },
+  {
+    "var": "GENRLTXT_484",
+    "en": "You cannot sacrifice that",
+    "ua": "Це пожертвувати не можна"
+  },
+  {
+    "var": "GENRLTXT_485",
+    "en": "This box displays the currently selected creature",
+    "ua": "У цьому вікні показаний обраний воїн"
+  },
+  {
+    "var": "GENRLTXT_486",
+    "en": "Sacrifice %s",
+    "ua": "Принести в жертву %s"
+  },
+  {
+    "var": "GENRLTXT_487",
+    "en": "Holding Area",
+    "ua": "Доступні воїни"
+  },
+  {
+    "var": "GENRLTXT_488",
+    "en": "Skeleton Transformer",
+    "ua": "Трансформатор нежиті"
+  },
+  {
+    "var": "GENRLTXT_489",
+    "en": "Move creatures to the Transformer to create Skeletons",
+    "ua": "Помістити воїнів у трансформатор, щоб одержати мертвяків."
+  },
+  {
+    "var": "GENRLTXT_490",
+    "en": "Creatures in the Transformer will become Skeletons",
+    "ua": "У трансформаторі воїни перетворюються у нежить."
+  },
+  {
+    "var": "GENRLTXT_491",
+    "en": "The %s will become %s",
+    "ua": "Загін %s перетворився в %s"
+  },
+  {
+    "var": "GENRLTXT_492",
+    "en": "The %s is already a skeleton",
+    "ua": "Загін %s вже нежить!"
+  },
+  {
+    "var": "GENRLTXT_493",
+    "en": "The %s are already skeletons",
+    "ua": "Загін %s вже нежить!"
+  },
+  {
+    "var": "GENRLTXT_494",
+    "en": "Player Difficulty",
+    "ua": "Складність гри"
+  },
+  {
+    "var": "GENRLTXT_495",
+    "en": "\"%s exists.\n\nOverwrite?\"",
+    "ua": "\"%s вже існує.\n\nПерезаписати?\""
+  },
+  {
+    "var": "GENRLTXT_496",
+    "en": "Map Diff:",
+    "ua": "Складн. карти:"
+  },
+  {
+    "var": "GENRLTXT_497",
+    "en": "Scenario Name:",
+    "ua": "Назва сценарію:"
+  },
+  {
+    "var": "GENRLTXT_498",
+    "en": "Scenario Description:",
+    "ua": "Опис сценарію:"
+  },
+  {
+    "var": "GENRLTXT_499",
+    "en": "Victory Condition:",
+    "ua": "Умови перемоги:"
+  },
+  {
+    "var": "GENRLTXT_500",
+    "en": "Loss Condition:",
+    "ua": "Умови поразки:"
+  },
+  {
+    "var": "GENRLTXT_501",
+    "en": "Human",
+    "ua": "Людина"
+  },
+  {
+    "var": "GENRLTXT_502",
+    "en": "Show Available Scenarios",
+    "ua": "Доступні сценарії"
+  },
+  {
+    "var": "GENRLTXT_503",
+    "en": "Show Advanced Options",
+    "ua": "Додаткові налаштування"
+  },
+  {
+    "var": "GENRLTXT_504",
+    "en": "Reading Map Files",
+    "ua": "Читання файлів карти"
+  },
+  {
+    "var": "GENRLTXT_505",
+    "en": "File Corrupted",
+    "ua": "Файл пошкоджений"
+  },
+  {
+    "var": "GENRLTXT_506",
+    "en": "There is a problem with the data in this file and it is not usable by Heroes III.",
+    "ua": "\"Проблема з даними у цьому файлі: він не до застосування у \"\"Героях III\"\".\""
+  },
+  {
+    "var": "GENRLTXT_507",
+    "en": "Please load and save this map with the Heroes III Editor to update it to the current version of the map format",
+    "ua": "\"Будь ласка, завантажте і збережіть цю карту в редакторі \"\"Героїв III\"\", щоб оновити її до поточної версії формату карти\""
+  },
+  {
+    "var": "GENRLTXT_508",
+    "en": "This map is not playable. Please load and fix problems in the Heroes III Editor before playing this map",
+    "ua": "\"На цій карті грати не можна. Будь ласка, завантажте її в редакторі \"\"Героїв III\"\" та усуньте несправності, перш, ніж грати на цій карті\""
+  },
+  {
+    "var": "GENRLTXT_509",
+    "en": "Empty",
+    "ua": "Порожньо"
+  },
+  {
+    "var": "GENRLTXT_510",
+    "en": "Unnamed",
+    "ua": "Без імені"
+  },
+  {
+    "var": "GENRLTXT_511",
+    "en": "Receiving map headers from host...",
+    "ua": "Одержання заголовків карт з сервера..."
+  },
+  {
+    "var": "GENRLTXT_512",
+    "en": "Map Sizes",
+    "ua": "Розмір карти"
+  },
+  {
+    "var": "GENRLTXT_513",
+    "en": "S",
+    "ua": "М"
+  },
+  {
+    "var": "GENRLTXT_514",
+    "en": "M",
+    "ua": "С"
+  },
+  {
+    "var": "GENRLTXT_515",
+    "en": "L",
+    "ua": "В"
+  },
+  {
+    "var": "GENRLTXT_516",
+    "en": "XL",
+    "ua": "ДВ"
+  },
+  {
+    "var": "GENRLTXT_517",
+    "en": "Advanced Options",
+    "ua": "Додаткові налаштування"
+  },
+  {
+    "var": "GENRLTXT_518",
+    "en": "\"Select starting options, handicap, and name for each player in the game.\"",
+    "ua": "\"Вибір стартових умов, визначення фори і вибір імені для кожного гравця.\""
+  },
+  {
+    "var": "GENRLTXT_519",
+    "en": "\"Player Name\nHandicap Type\"",
+    "ua": "\"Ім'я гравця \nФора\""
+  },
+  {
+    "var": "GENRLTXT_520",
+    "en": "\"Starting\nTown\"",
+    "ua": "\"Стартове\nмісто\""
+  },
+  {
+    "var": "GENRLTXT_521",
+    "en": "\"Starting\nHero\"",
+    "ua": "\"Стартовий\n герой\""
+  },
+  {
+    "var": "GENRLTXT_522",
+    "en": "\"Starting\nBonus\"",
+    "ua": "\"Стартовий\n бонус\""
+  },
+  {
+    "var": "GENRLTXT_523",
+    "en": "Player Turn Duration",
+    "ua": "Тривалість ходу"
+  },
+  {
+    "var": "GENRLTXT_524",
+    "en": "Random",
+    "ua": "Випадково"
+  },
+  {
+    "var": "GENRLTXT_525",
+    "en": "None",
+    "ua": "Нічого"
+  },
+  {
+    "var": "GENRLTXT_526",
+    "en": "\"Sorry, the host has launched the game without you in it!\"",
+    "ua": "\"Вибачте, сервер запустив гру без вас!\""
+  },
+  {
+    "var": "GENRLTXT_527",
+    "en": "%s enters the game.",
+    "ua": "%s вступає в гру."
+  },
+  {
+    "var": "GENRLTXT_528",
+    "en": "%s left the game.",
+    "ua": "%s залишає гру."
+  },
+  {
+    "var": "GENRLTXT_529",
+    "en": "Unknown player left the game!",
+    "ua": "Невідомий гравець відходить!"
+  },
+  {
+    "var": "GENRLTXT_530",
+    "en": "%s is the new host.",
+    "ua": "%s – новий сервер."
+  },
+  {
+    "var": "GENRLTXT_531",
+    "en": "There are no maps to play.",
+    "ua": "Немає мап для гри."
+  },
+  {
+    "var": "GENRLTXT_532",
+    "en": "You must position yourself prior to starting the game.",
+    "ua": "До початку гри ви повинні вказати свою позицію."
+  },
+  {
+    "var": "GENRLTXT_533",
+    "en": "Hide Chat",
+    "ua": "Закрити чат"
+  },
+  {
+    "var": "GENRLTXT_534",
+    "en": "Show Chat",
+    "ua": "Відкрити чат"
+  },
+  {
+    "var": "GENRLTXT_535",
+    "en": "Host is preparing to launch game....",
+    "ua": "Сервер готується до запуску гри...."
+  },
+  {
+    "var": "GENRLTXT_536",
+    "en": "Can't open file - Video.vid",
+    "ua": "Не вдалося відкрити файл - Video.vid"
+  },
+  {
+    "var": "GENRLTXT_537",
+    "en": "Video File Error!",
+    "ua": "Помилка відеофайлу!"
+  },
+  {
+    "var": "GENRLTXT_538",
+    "en": "The %s prevents %s from casting 3rd level or higher spells.",
+    "ua": "%s заважає чаклуванню: %s не може направляти закляття 3-го рівня і вище."
+  },
+  {
+    "var": "GENRLTXT_539",
+    "en": "Winds from the surrounding 'cursed ground' sap your mystical energies.  You cannot cast spells here.",
+    "ua": "Вітер над проклятими землями здуває вашу містичну ауру. Тут ви не можете накладати закляття."
+  },
+  {
+    "var": "GENRLTXT_540",
+    "en": "\"Because %s has already summoned %s, no other elementals will come to %s aid.\"",
+    "ua": "\"Оскільки %s вже має зв'язок зі стихією і %s викликані, жодні інші елементали не прийдуть %s на допомогу.\""
+  },
+  {
+    "var": "GENRLTXT_541",
+    "en": "his",
+    "ua": "йому"
+  },
+  {
+    "var": "GENRLTXT_542",
+    "en": "her",
+    "ua": "їй"
+  },
+  {
+    "var": "GENRLTXT_543",
+    "en": "%s recites the incantations but they seem to have no effect.",
+    "ua": "%s промовляє чарівні слова, та вони чогось не діють."
+  },
+  {
+    "var": "GENRLTXT_544",
+    "en": "Choose an army to resurrect",
+    "ua": "Обери загін для оживлення"
+  },
+  {
+    "var": "GENRLTXT_545",
+    "en": "Choose an army to sacrifice",
+    "ua": "Обери загін для принесення в жертву"
+  },
+  {
+    "var": "GENRLTXT_546",
+    "en": "The %s resists %d damage",
+    "ua": "%s відбиває %d од. втрат"
+  },
+  {
+    "var": "GENRLTXT_547",
+    "en": "The %s resist %d damage",
+    "ua": "Загін %s відбиває %d од. втрат"
+  },
+  {
+    "var": "GENRLTXT_548",
+    "en": "The %s takes %d extra damage",
+    "ua": "%s одержує %d од. дод. втрат"
+  },
+  {
+    "var": "GENRLTXT_549",
+    "en": "The %s take %d extra damage",
+    "ua": "Загін %s одержує %d од. дод. втрат"
+  },
+  {
+    "var": "GENRLTXT_550",
+    "en": "Resurrect the %s",
+    "ua": "Відродити %s"
+  },
+  {
+    "var": "GENRLTXT_551",
+    "en": "Sacrifice the %s",
+    "ua": "Принести в жертву %s"
+  },
+  {
+    "var": "GENRLTXT_552",
+    "en": "Remove this obstacle",
+    "ua": "Усунути цю перешкоду"
+  },
+  {
+    "var": "GENRLTXT_553",
+    "en": "\"The %s shrivels with age, and loses %d hit points.\"",
+    "ua": "\"%s старіє і втрачає %d одиниць здоров'я.\""
+  },
+  {
+    "var": "GENRLTXT_554",
+    "en": "\"The %s shrivel with age, and lose %d hit points.\"",
+    "ua": "\"увесь загін %s старіє і втрачає %d одиниць здоров'я.\""
+  },
+  {
+    "var": "GENRLTXT_555",
+    "en": "The %s suddenly becomes very ill!",
+    "ua": "Раптово %s небезпечно захворів!"
+  },
+  {
+    "var": "GENRLTXT_556",
+    "en": "The %s suddenly become very ill!",
+    "ua": "Раптово увесь загін %s небезпечно захворів!"
+  },
+  {
+    "var": "GENRLTXT_557",
+    "en": "All beneficial spells on the %s are dispelled.",
+    "ua": "Усі благодатні закляття накладені на %s, розвіяні."
+  },
+  {
+    "var": "GENRLTXT_558",
+    "en": "The %s cannot see!",
+    "ua": "Увесь загін %s втрачає зір!"
+  },
+  {
+    "var": "GENRLTXT_559",
+    "en": "The %s just can't seem to do anything right.",
+    "ua": "%s, здається, нічого не можуть зробити як слід."
+  },
+  {
+    "var": "GENRLTXT_560",
+    "en": "The %s has been turned to stone!",
+    "ua": "%s перетворюється на камінь!"
+  },
+  {
+    "var": "GENRLTXT_561",
+    "en": "The %s have been turned to stone!",
+    "ua": "Увесь загін %s перетворюється на камінь!"
+  },
+  {
+    "var": "GENRLTXT_562",
+    "en": "Roots and vines bind the %s to the ground!",
+    "ua": "%s обплели коріння та стебла!"
+  },
+  {
+    "var": "GENRLTXT_563",
+    "en": "The %s writhes in pain as the poison courses through its veins.",
+    "ua": "%s корчиться від болю, коли отрута розтікається венами."
+  },
+  {
+    "var": "GENRLTXT_564",
+    "en": "The %s writhe in pain as the poison courses through their veins.",
+    "ua": "Отрута змушує %s корчитися від болю, розтікаючись венами."
+  },
+  {
+    "var": "GENRLTXT_565",
+    "en": "The %s is paralyzed and cannot move!",
+    "ua": "%s паралізований і не може поворухнутися!"
+  },
+  {
+    "var": "GENRLTXT_566",
+    "en": "The %s are paralyzed and cannot move!",
+    "ua": "Загін %s паралізований і вони не можуть поворухнутися!"
+  },
+  {
+    "var": "GENRLTXT_567",
+    "en": "The %s casts %s",
+    "ua": "%s накладає закляття %s"
+  },
+  {
+    "var": "GENRLTXT_568",
+    "en": "The %s cast %s",
+    "ua": "Загін %s накладає закляття %s"
+  },
+  {
+    "var": "GENRLTXT_569",
+    "en": " on the %s",
+    "ua": " на %s"
+  },
+  {
+    "var": "GENRLTXT_570",
+    "en": "System Options",
+    "ua": "Системні налаштування"
+  },
+  {
+    "var": "GENRLTXT_571",
+    "en": "Hero Speed",
+    "ua": "Швидкість героя"
+  },
+  {
+    "var": "GENRLTXT_572",
+    "en": "Enemy Speed",
+    "ua": "Швидкість ворога"
+  },
+  {
+    "var": "GENRLTXT_573",
+    "en": "Map Scroll Speed",
+    "ua": "Шв. розгортання мапи"
+  },
+  {
+    "var": "GENRLTXT_574",
+    "en": "Show Move Path",
+    "ua": "Показувати шлях"
+  },
+  {
+    "var": "GENRLTXT_575",
+    "en": "Show Hero Reminder",
+    "ua": "Нагадувати про ходи"
+  },
+  {
+    "var": "GENRLTXT_576",
+    "en": "Quick Combat",
+    "ua": "Швидкий бій"
+  },
+  {
+    "var": "GENRLTXT_577",
+    "en": "Video Subtitles",
+    "ua": "Субтитри до роликів"
+  },
+  {
+    "var": "GENRLTXT_578",
+    "en": "Town Building Outlines",
+    "ua": "Підсвічування завдання"
+  },
+  {
+    "var": "GENRLTXT_579",
+    "en": "Spell Book Animation",
+    "ua": "Анімація книги"
+  },
+  {
+    "var": "GENRLTXT_580",
+    "en": "\"Are you sure you wish to do this?\n(Any unsaved games will be lost)\"",
+    "ua": "\"Ви впевнені, що хочете зробити це? \n(Усі незбережені ігри пропадуть).\""
+  },
+  {
+    "var": "GENRLTXT_581",
+    "en": "As you near the Mana Vortex your body is filled with new energy. You have doubled your normal spell points.",
+    "ua": "Неподалік Вихору Мани ваше тіло наповнюється новою силою. Ваша звична магічна енергія сьогодні подвоєна."
+  },
+  {
+    "var": "GENRLTXT_582",
+    "en": "\"The head groom approaches leading a fine looking war horse. \"\"This steed will help speed you in your travels. Alas, his endurance will wane with a lot of heavy riding, and you must return for a fresh mount at the start of the week.\"\"\"",
+    "ua": "\"До вас підходить старший конюх, ведучи під вуздечку прекрасного бойового коня. \"\"Цей кінь пришвидшить ваші мандри. На жаль, і його витривалості не вистачить на довгий і важкий шлях, ось тому вам слід повернутися за новим конем через тиждень.\"\"\""
+  },
+  {
+    "var": "GENRLTXT_583",
+    "en": "You study the glyphs on the Wall of Knowledge and gain insight into the workings of various magics (+1 Knowledge).",
+    "ua": "Ви вивчили знаки на Стіні Знань, і на вас зійшло прозріння у справах магії."
+  },
+  {
+    "var": "GENRLTXT_584",
+    "en": "The Order of Fire teaches you new ways to focus your magical powers (+1 Power).",
+    "ua": "В Ордені Вогню вас навчили новим методам концентрації магічної сили."
+  },
+  {
+    "var": "GENRLTXT_585",
+    "en": "A visit to the Academy of Battle Scholars teaches you many new skills (+1000 Experience).",
+    "ua": "Відвідавши Академію Бойових мистецтв, ви дізналися багато нового."
+  },
+  {
+    "var": "GENRLTXT_586",
+    "en": "Some time spent at the Hall of Valhalla allows you to learn more effective combat skills (+1 Attack Skill).",
+    "ua": "Перебування у храмі Валгалли дозволило вам краще використовувати бойові навички."
+  },
+  {
+    "var": "GENRLTXT_587",
+    "en": "\"Spending time in the Cage of Warlords, the experienced warriors therein teach you additional defensive skills (+1 Defense).\"",
+    "ua": "\"У Клітці Воїна досвідчені воїни виклали вам свої захисні вміння.\""
+  },
+  {
+    "var": "GENRLTXT_588",
+    "en": "%s has built a %s.",
+    "ua": "%s здійснив будівництво. Це %s."
+  },
+  {
+    "var": "GENRLTXT_589",
+    "en": "%d additional %s available to recruit in %s",
+    "ua": "Ще %d %s готові для найму (%s)"
+  },
+  {
+    "var": "GENRLTXT_590",
+    "en": "%s growth per week",
+    "ua": "Приріст %s на тиждень"
+  },
+  {
+    "var": "GENRLTXT_591",
+    "en": "Weekly %s growth is %d",
+    "ua": "Приріст %s на тиждень: %d"
+  },
+  {
+    "var": "GENRLTXT_592",
+    "en": "\"\n\nBasic growth %d\"",
+    "ua": "\"\n\nБазовий приріст %d\""
+  },
+  {
+    "var": "GENRLTXT_593",
+    "en": "\"\nExternal dwellings %+d\"",
+    "ua": "\"\nЗовнішні помешкання %+d\""
+  },
+  {
+    "var": "GENRLTXT_594",
+    "en": "Hall",
+    "ua": "Зал"
+  },
+  {
+    "var": "GENRLTXT_595",
+    "en": "Exit Mage Guild",
+    "ua": "Вийти з Гільдії магів"
+  },
+  {
+    "var": "GENRLTXT_596",
+    "en": "Garrison",
+    "ua": "Гарнізон"
+  },
+  {
+    "var": "GENRLTXT_597",
+    "en": "Build %s",
+    "ua": "\"Збудувати \"\"%s\"\"\""
+  },
+  {
+    "var": "GENRLTXT_598",
+    "en": "Don't build %s",
+    "ua": "\"Не зводити будівлю \"\"%s\"\"\""
+  },
+  {
+    "var": "GENRLTXT_599",
+    "en": "Do you wish this to be the permanent home of the Grail?",
+    "ua": "Бажаєте залишити Грааль тут назавжди?"
+  },
+  {
+    "var": "GENRLTXT_600",
+    "en": "Build ship",
+    "ua": "Збудувати корабель"
+  },
+  {
+    "var": "GENRLTXT_601",
+    "en": "Don't build ship",
+    "ua": "Не будувати корабель"
+  },
+  {
+    "var": "GENRLTXT_602",
+    "en": "Exit",
+    "ua": "Вийти"
+  },
+  {
+    "var": "GENRLTXT_603",
+    "en": "Castle",
+    "ua": "Замок"
+  },
+  {
+    "var": "GENRLTXT_604",
+    "en": "University",
+    "ua": "Університет"
+  },
+  {
+    "var": "GENRLTXT_605",
+    "en": "\"Your hero's footsteps echo through the quiet halls of this ancient university.  A clerk informs you that while here, your hero may receive instruction on the following subjects.\"",
+    "ua": "\"Кроки вашого героя гучною луною проносяться під склепінням стародавнього університету. Служник повідомляє, що в цьому університеті ваш герой може вивчити наступні дисципліни.\""
+  },
+  {
+    "var": "GENRLTXT_606",
+    "en": "Your hero already knows this skill.",
+    "ua": "Ваш герой вже володіє цією навичкою."
+  },
+  {
+    "var": "GENRLTXT_607",
+    "en": "Your hero cannot learn this skill.",
+    "ua": "Ваш герой вже може набути цієї навички."
+  },
+  {
+    "var": "GENRLTXT_608",
+    "en": "Your hero cannot learn any more skills.",
+    "ua": "Ваш герой не може набути нових навичок."
+  },
+  {
+    "var": "GENRLTXT_609",
+    "en": "%s %s will cost %d gold",
+    "ua": "%s %s обійдеться в %d золотих"
+  },
+  {
+    "var": "GENRLTXT_610",
+    "en": "\"With a subtle smile and a raised eyebrow, the clerk informs you, \"\"Tuition for learning %s %s is %d gold.\"\"\"",
+    "ua": "\"Несміливо посміхнувшись та піднявши брови, служник повідомив: \"\"Плата за навчання розділу %s %s - %d золотих.\"\"\""
+  },
+  {
+    "var": "GENRLTXT_611",
+    "en": "Purchase %s",
+    "ua": "%s - набути"
+  },
+  {
+    "var": "GENRLTXT_612",
+    "en": "\"%s, duration: %d rounds.\"",
+    "ua": "\"%s, тривалість: %d раундів.\""
+  },
+  {
+    "var": "GENRLTXT_613",
+    "en": "View World",
+    "ua": "Подивитися світ"
+  },
+  {
+    "var": "GENRLTXT_614",
+    "en": "Town",
+    "ua": "Місто"
+  },
+  {
+    "var": "GENRLTXT_615",
+    "en": "Hero",
+    "ua": "Герой"
+  },
+  {
+    "var": "GENRLTXT_616",
+    "en": "Artifact",
+    "ua": "Артефакт"
+  },
+  {
+    "var": "GENRLTXT_617",
+    "en": "Teleporter",
+    "ua": "Телепорт"
+  },
+  {
+    "var": "GENRLTXT_618",
+    "en": "Gate",
+    "ua": "Ворота"
+  },
+  {
+    "var": "GENRLTXT_619",
+    "en": "Mine",
+    "ua": "Шахта"
+  },
+  {
+    "var": "GENRLTXT_620",
+    "en": "Resource",
+    "ua": "Ресурс"
+  },
+  {
+    "var": "GENRLTXT_621",
+    "en": "Wood",
+    "ua": "Деревина"
+  },
+  {
+    "var": "GENRLTXT_622",
+    "en": "Mercury",
+    "ua": "Ртуть"
+  },
+  {
+    "var": "GENRLTXT_623",
+    "en": "Ore",
+    "ua": "Руда"
+  },
+  {
+    "var": "GENRLTXT_624",
+    "en": "Sulfur",
+    "ua": "Сірка"
+  },
+  {
+    "var": "GENRLTXT_Crystal",
+    "en": "Crystal\t",
+    "ua": "Кристали\t"
+  },
+  {
+    "var": "GENRLTXT_Gems",
+    "en": "Gems\t",
+    "ua": "Самоцвіти\t"
+  },
+  {
+    "var": "GENRLTXT_Gold",
+    "en": "Gold\t",
+    "ua": "Золото\t"
+  },
+  {
+    "var": "GENRLTXT_You have 1 second remaining in your turn.",
+    "en": "You have 1 second remaining in your turn.\t",
+    "ua": "До кінця вашого ходу залишилася 1 секунда.\t"
+  },
+  {
+    "var": "GENRLTXT_You have %d seconds remaining in your turn.",
+    "en": "You have %d seconds remaining in your turn.\t",
+    "ua": "До кінця вашого ходу залишилося %d секунд.\t"
+  },
+  {
+    "var": "GENRLTXT_You have 1 minute remaining in your turn.",
+    "en": "You have 1 minute remaining in your turn.\t",
+    "ua": "До кінця вашого ходу залишилася 1 хвилина.\t"
+  },
+  {
+    "var": "GENRLTXT_You have %0.1f minutes remaining in your turn.",
+    "en": "You have %0.1f minutes remaining in your turn.\t",
+    "ua": "До кінця вашого ходу залишилося %0.1f хвилин.\t"
+  },
+  {
+    "var": "GENRLTXT_Current player is...",
+    "en": "Current player is...\t",
+    "ua": "Зараз ходить...\t"
+  },
+  {
+    "var": "GENRLTXT_\"%s found the %s, and can claim victory!\"",
+    "en": "\"%s found the %s, and can claim victory!\"\t",
+    "ua": "\"%s перемагає - %s в його руках!\"\t"
+  },
+  {
+    "var": "GENRLTXT_\"%s found the %s, and can claim victory!\"",
+    "en": "\"%s found the %s, and can claim victory!\"\t",
+    "ua": "\"%s перемагають - %s в їхніх руках!\"\t"
+  },
+  {
+    "var": "GENRLTXT_%s has over %d %s. You have no choice but to admit defeat!",
+    "en": "%s has over %d %s. You have no choice but to admit defeat!\t",
+    "ua": "%s мають більше %d %s. Вам не залишається нічого іншого, як змиритися з поразкою!\t"
+  },
+  {
+    "var": "GENRLTXT_%s have over %d %s. You have no choice but to admit defeat!",
+    "en": "%s have over %d %s. You have no choice but to admit defeat!\t",
+    "ua": "%s мають більше %d %s. Вам не залишається нічого іншого, як змиритися з поразкою!\t"
+  },
+  {
+    "var": "GENRLTXT_\"%s has over %d %s, and can claim victory!\"",
+    "en": "\"%s has over %d %s, and can claim victory!\"\t",
+    "ua": "\"%s мають більше %d %s і може святкувати перемогу!\"\t"
+  },
+  {
+    "var": "GENRLTXT_%s have over %d %s. Victory is theirs!",
+    "en": "%s have over %d %s. Victory is theirs!\t",
+    "ua": "%s мають більше %d %s. Перемога за ними!\t"
+  },
+  {
+    "var": "GENRLTXT_Congratulations! %s has found the %s. Your team is victorious!",
+    "en": "Congratulations! %s has found the %s. Your team is victorious!\t",
+    "ua": "Вітаємо! %s знайшов шукане, %s. Ваша команда перемогла!\t"
+  },
+  {
+    "var": "GENRLTXT_Congratulations! %s's town is successfully upgraded. Your team is victorious!",
+    "en": "Congratulations! %s's town is successfully upgraded. Your team is victorious!\t",
+    "ua": "Вітаємо! %s успішно покращив своє місто. Ваша команда перемогла!\t"
+  },
+  {
+    "var": "GENRLTXT_\"%s's town is successfully upgraded, and claims victory!\"",
+    "en": "\"%s's town is successfully upgraded, and claims victory!\"\t",
+    "ua": "\"%s успішно покращив своє місто і святкує перемогу!\"\t"
+  },
+  {
+    "var": "GENRLTXT_%s have successfully upgraded their town. Victory is theirs!",
+    "en": "%s have successfully upgraded their town. Victory is theirs!\t",
+    "ua": "%s успішно покращив своє місто. Перемога за ними!\t"
+  },
+  {
+    "var": "GENRLTXT_Congratulations!  %s has constructed a permanent home for the Grail. Your team is victorious!",
+    "en": "Congratulations!  %s has constructed a permanent home for the Grail. Your team is victorious!\t",
+    "ua": "Вітаємо! %s спорудив постійне святилище Грааля. Ваша команда перемогла!\t"
+  },
+  {
+    "var": "GENRLTXT_\"%s has constructed a permanent home for the Grail, and claims victory!\"",
+    "en": "\"%s has constructed a permanent home for the Grail, and claims victory!\"\t",
+    "ua": "\"%s спорудив постійне святилище Грааля і святкує!\"\t"
+  },
+  {
+    "var": "GENRLTXT_%s have constructed a permanent home for the Grail. Victory is theirs!",
+    "en": "%s have constructed a permanent home for the Grail. Victory is theirs!\t",
+    "ua": "%s спорудив постійне святилище Грааля. Перемога за ними!\t"
+  },
+  {
+    "var": "GENRLTXT_Congratulations! %s has completed your quest to kill the fearsome beast. Your team is victorious!",
+    "en": "Congratulations! %s has completed your quest to kill the fearsome beast. Your team is victorious!\t",
+    "ua": "Вітаємо! %s прикінчив лютого звіра і виконав завдання. Ваша команда перемогла!\t"
+  },
+  {
+    "var": "GENRLTXT_\"%s has beaten you to your quest to kill a fearsome beast, and claims victory!\"",
+    "en": "\"%s has beaten you to your quest to kill a fearsome beast, and claims victory!\"\t",
+    "ua": "\"%s випередив вас і вбив лютого звіра, завоювавши перемогу!\"\t"
+  },
+  {
+    "var": "GENRLTXT_%s have beaten you to your quest to kill a fearsome beast. Victory is theirs!",
+    "en": "%s have beaten you to your quest to kill a fearsome beast. Victory is theirs!\t",
+    "ua": "%s випередив вас і вбив лютого звіра. Перемога за ними!\t"
+  },
+  {
+    "var": "GENRLTXT_%s's flag flies on the dwelling of every creature. Victory is theirs!",
+    "en": "%s's flag flies on the dwelling of every creature. Victory is theirs!\t",
+    "ua": "%s встановив стяги над помешканнями всіх воїнів. Перемога за ними!\t"
+  },
+  {
+    "var": "GENRLTXT_%s's flag flies on the dwelling of every creature. Victory is theirs!",
+    "en": "%s's flag flies on the dwelling of every creature. Victory is theirs!\t",
+    "ua": "%s встановив стяги над помешканнями всіх воїнів. Вони перемогли!\t"
+  },
+  {
+    "var": "GENRLTXT_%s's flag flies on every mine. Victory is theirs!",
+    "en": "%s's flag flies on every mine. Victory is theirs!\t",
+    "ua": "%s встановив стяги над всіма копальнями. Перемога за ними!\t"
+  },
+  {
+    "var": "GENRLTXT_%s's flag flies on every mine. Victory is theirs!",
+    "en": "%s's flag flies on every mine. Victory is theirs!\t",
+    "ua": "%s встановив стяги над всіма копальнями. Перемога дісталася їм!\t"
+  },
+  {
+    "var": "GENRLTXT_Congratulations! %s has delivered the precious cargo intact. Your team claims victory!",
+    "en": "Congratulations! %s has delivered the precious cargo intact. Your team claims victory!\t",
+    "ua": "Вітаємо! %s доставив цінний вантаж цілим. Ваша команда перемогла!\t"
+  },
+  {
+    "var": "GENRLTXT_\"%s has delivered the precious cargo intact, and can claim victory!\"",
+    "en": "\"%s has delivered the precious cargo intact, and can claim victory!\"\t",
+    "ua": "\"%s доставив цінний вантаж цілим тим самим завоювавши перемогу!\"\t"
+  },
+  {
+    "var": "GENRLTXT_%s have delivered the precious cargo intact. Victory is theirs!",
+    "en": "%s have delivered the precious cargo intact. Victory is theirs!\t",
+    "ua": "%s доставили цінний вантаж цілим. Перемога за ними!\t"
+  },
+  {
+    "var": "GENRLTXT_\"Sorry, the host has left the game.  You must have the CDROM in order to host a game.\"",
+    "en": "\"Sorry, the host has left the game.  You must have the CDROM in order to host a game.\"\t",
+    "ua": "\"Вибачте, але сервер залишив гру. Аби самому вести гру вам потрібен диск.\"\t"
+  },
+  {
+    "var": "GENRLTXT_657",
+    "en": "Show Saved Games",
+    "ua": "Показати збережені ігри"
+  },
+  {
+    "var": "GENRLTXT_658",
+    "en": "Team %d",
+    "ua": "Команда %d"
+  },
+  {
+    "var": "GENRLTXT_659",
+    "en": "{Team Alignments}",
+    "ua": "{Приналежність команд}"
+  },
+  {
+    "var": "GENRLTXT_660",
+    "en": "Recovering from player drop... One moment please...",
+    "ua": "Відновлення після виліту гравця... Почекайте одну секунду..."
+  },
+  {
+    "var": "GENRLTXT_661",
+    "en": "Congratulations! All your enemies have been defeated! Victory is yours!",
+    "ua": "Вітаємо! Всі вороги знищені! Перемога ваша!"
+  },
+  {
+    "var": "GENRLTXT_662",
+    "en": "\"All your forces have been defeated, and you are banished from this land!\"",
+    "ua": "\"Усі ваші війська розгромлені, вас вигнали з цих країв!\""
+  },
+  {
+    "var": "GENRLTXT_663",
+    "en": "Scenario Information",
+    "ua": "Інформація про сценарій"
+  },
+  {
+    "var": "GENRLTXT_664",
+    "en": "Press ESC to cancel solo mode.",
+    "ua": "Натисніть ESC для відміни одиночного режиму."
+  },
+  {
+    "var": "GENRLTXT_665",
+    "en": "Can't open file - Heroes3.snd",
+    "ua": "Неможливо відкрити файл - Heroes3.snd"
+  },
+  {
+    "var": "GENRLTXT_666",
+    "en": "Sound File Error!",
+    "ua": "Помилка звукового файлу!"
+  },
+  {
+    "var": "GENRLTXT_667",
+    "en": "\"Sorry, your version #%s is incompatible with the host's version #%s.\"",
+    "ua": "\"Вибачте, ваша версія #%s несумісна з версією сервера #%s. Ви не можете вступити в гру.\""
+  },
+  {
+    "var": "GENRLTXT_668",
+    "en": "\"Resetting High Scores will delete any accomplishments you have achieved.\n\nAre you sure you want to reset the High Scores?\"",
+    "ua": "\"Зкинення рекордів зітре усі ваші досягнення.\n\nВи справді хочете обнулити таблицю рекордів?\""
+  },
+  {
+    "var": "GENRLTXT_669",
+    "en": "\"\nThe %s is destroyed.\"",
+    "ua": "\"\n%s переможений.\""
+  },
+  {
+    "var": "GENRLTXT_670",
+    "en": "Defeat the %s in the %s region of the underworld.",
+    "ua": "Здолати ворога. Це %s (область %s у підземному світі)."
+  },
+  {
+    "var": "GENRLTXT_671",
+    "en": "%s has failed to complete their quest in time. They have lost.",
+    "ua": "%s не змогли виконати завдання вчасно. Вони програли."
+  },
+  {
+    "var": "GENRLTXT_672",
+    "en": "%s has lost the hero %s.  Your quest is over.",
+    "ua": "%s втратив героя на ім'я %s. Ваш похід завершено."
+  },
+  {
+    "var": "GENRLTXT_673",
+    "en": "Do you wish to play a saved game?",
+    "ua": "Бажаєте відкрити збережену гру?"
+  },
+  {
+    "var": "GENRLTXT_674",
+    "en": "Campaign",
+    "ua": "Кампанія"
+  },
+  {
+    "var": "GENRLTXT_675",
+    "en": "\"Recounting the Grail legend to the townsfolk, your words are met with disbelief.  This town is does not have enough faith.  You must seek a more deserving home for the Grail.\"",
+    "ua": "\"Розказана вами легенда про Грааль викликала у міщан сумніви. Цьому місту не вистачає віри. Ви повинні підшукати Граалю достойніший дім.\""
+  },
+  {
+    "var": "GENRLTXT_676",
+    "en": "No active spells",
+    "ua": "Нема заклять"
+  },
+  {
+    "var": "GENRLTXT_677",
+    "en": "%s summons %d %s",
+    "ua": "%s викликає %d %s"
+  },
+  {
+    "var": "GENRLTXT_678",
+    "en": "\"Your\nRank\"",
+    "ua": "\"Ваш\n ранг\""
+  },
+  {
+    "var": "GENRLTXT_679",
+    "en": "The pond has not produced anything yet.",
+    "ua": "Поки що озеро нічого не створило."
+  },
+  {
+    "var": "GENRLTXT_680",
+    "en": "The pond produced %d %s this week.",
+    "ua": "Цього тижня озеро створило %d одиниць, цього разу це %s."
+  },
+  {
+    "var": "GENRLTXT_681",
+    "en": "\"%s, duration: %s.\"",
+    "ua": "\"%s, тривалість: %s.\""
+  },
+  {
+    "var": "GENRLTXT_682",
+    "en": "until binder moves or dies",
+    "ua": "доки той, хто скував не пересунеться або не помре"
+  },
+  {
+    "var": "GENRLTXT_683",
+    "en": "until next attack",
+    "ua": "до наступної атаки"
+  },
+  {
+    "var": "GENRLTXT_684",
+    "en": "until end of combat",
+    "ua": "до кінця бою"
+  },
+  {
+    "var": "GENRLTXT_685",
+    "en": "\"%s wields the %s, an ancient artifact which creates a pocket dead to all magic.\"",
+    "ua": "\"%s володіє стародавнім артефактом, то %s, який утворює мертву зону для будь-якої магії.\""
+  },
+  {
+    "var": "GENRLTXT_686",
+    "en": "This garrison has a powerful enchantment that suppresses all other magic.",
+    "ua": "На гарнізон накладені могутні чари, які нейтралізують будь-яку магію."
+  },
+  {
+    "var": "GENRLTXT_687",
+    "en": "\"There are no Saved Games to load.\n\nPerhaps you meant to Start a New Game instead. Go back to the Main Menu and select New Game.\"",
+    "ua": "\"Немає збережених ігор, завантажувати нічого.\n\nМожливо, насправді ви бажаєте розпочати нову гру? Поверніться у головне меню і виберіть пункт \"\"Нова гра\"\".\""
+  },
+  {
+    "var": "GENRLTXT_688",
+    "en": "Select a destination",
+    "ua": "Оберіть місце призначення"
+  },
+  {
+    "var": "GENRLTXT_689",
+    "en": "Are you sure you want to delete %s?",
+    "ua": "Ви справді бажаєте видалити %s?"
+  },
+  {
+    "var": "GENRLTXT_690",
+    "en": "\"At the start of the game, 3-6 crystal are added to your Kingdom's resource pool.\"",
+    "ua": "\"На початку гри у скарбницю вашого королівства додається 3-6 одиниць кристалів.\""
+  },
+  {
+    "var": "GENRLTXT_691",
+    "en": "\"At the start of the game, 3-6 gems are added to your Kingdom's resource pool.\"",
+    "ua": "\"На початку гри у скарбницю вашого королівства додається 3-6 одиниць самоцвітів.\""
+  },
+  {
+    "var": "GENRLTXT_692",
+    "en": "\"At the start of the game, 3-6 mercury are added to your Kingdom's resource pool.\"",
+    "ua": "\"На початку гри у скарбницю вашого королівства додається 3-6 одиниць ртуті.\""
+  },
+  {
+    "var": "GENRLTXT_693",
+    "en": "\"At the start of the game, 3-6 sulfer are added to your Kingdom's resource pool.\"",
+    "ua": "\"На початку гри у скарбницю вашого королівства додається 3-6 одиниць сірки.\""
+  },
+  {
+    "var": "GENRLTXT_694",
+    "en": "3-6 Crystal",
+    "ua": "3-6 одиниць кристалів"
+  },
+  {
+    "var": "GENRLTXT_695",
+    "en": "3-6 Gems",
+    "ua": "3-6 одиниць самоцвітів"
+  },
+  {
+    "var": "GENRLTXT_696",
+    "en": "3-6 Mercury",
+    "ua": "3-6 одиниць ртуті"
+  },
+  {
+    "var": "GENRLTXT_697",
+    "en": "3-6 Sulfer",
+    "ua": "3-6 одиниць сірки"
+  },
+  {
+    "var": "GENRLTXT_698",
+    "en": "The %s has exhausted his spell points",
+    "ua": "%s витратив усю свою магічну енергію"
+  },
+  {
+    "var": "GENRLTXT_699",
+    "en": "The %s have exhausted their spell points",
+    "ua": "%s витратили усю свою магічну енергію"
+  },
+  {
+    "var": "GENRLTXT_700",
+    "en": "Cursed Ground prevents all spellcasting",
+    "ua": "Прокляті землі не допускають будь-яких чарів"
+  },
+  {
+    "var": "GENRLTXT_701",
+    "en": "An aura of anti-magic prevents spellcasting in this garrison.",
+    "ua": "Аура антимагії перешкоджає чаклуванню у цьому гарнізоні."
+  },
+  {
+    "var": "GENRLTXT_702",
+    "en": "The %s prevents all spellcasting",
+    "ua": "%s не допускає будь-які чари"
+  },
+  {
+    "var": "GENRLTXT_703",
+    "en": "Can only summon %s from the corpses of living creatures",
+    "ua": "%s можна підняти лише з тіл живих істот"
+  },
+  {
+    "var": "GENRLTXT_704",
+    "en": "The dead %s does not have sufficient life-force to summon %s",
+    "ua": "Мертвий %s не володіє достатньою життєвою силою, аби викликати %s"
+  },
+  {
+    "var": "GENRLTXT_705",
+    "en": "The dead %s do not have sufficient life-force to summon %s",
+    "ua": "У мертвих %s не вистачає життєвої сили, щоб викликати %s"
+  },
+  {
+    "var": "GENRLTXT_706",
+    "en": "Only the living can be resurrected.",
+    "ua": "Воскрешати можна лише тих, хто був живим."
+  },
+  {
+    "var": "GENRLTXT_707",
+    "en": "The %s is not powerful enough to resurrect the %s",
+    "ua": "%s не володіє силою, достатньою для воскресіння %s"
+  },
+  {
+    "var": "GENRLTXT_708",
+    "en": "The %s are not powerful enough to resurrect the %s",
+    "ua": "У %s не вистачає сили, аби воскресити %s"
+  },
+  {
+    "var": "GENRLTXT_709",
+    "en": "\"{Insufficient Disk Space}\n\nHeroes III requires at least 5 MB of free space on the current drive.\n\nPlease make at least 5 MB of free space available before running the game.\"",
+    "ua": "\"{Недостатньо місця на диску}\n\n\"\"Герої III\"\" вимагають хоча б 5 MB вільного місця на поточному дискові.\n\nБудь ласка, звільніть хоча б 5 MB перед запуском гри.\""
+  },
+  {
+    "var": "GENRLTXT_710",
+    "en": "\"{Insufficient Disk Space}\n\nHeroes III requires at least 1 MB of free space on the current drive to save a game.\n\nTo delete a previously saved game select it and press CTRL-DELETE.\n\nTo make room manually press ALT-TAB to return to Windows.\"",
+    "ua": "\"{Недостатньо місця на диску}\n\n\"\"Герої III\"\" вимагають хоча б 1 MB вільного місця на поточному дискові для збереження гри.\n\nЩоб видалити раніше збережену гру, виберіть її і натисніть CTRL-DELETE.\n\nАби звільнити місце вручну, натисніть ALT-TAB і поверніться у Windows.\""
+  },
+  {
+    "var": "GENRLTXT_711",
+    "en": "Leave Guards",
+    "ua": "Залишити сторожу"
+  },
+  {
+    "var": "GENRLTXT_712",
+    "en": "The %s freezes in fear.",
+    "ua": "%s замирає зі страху."
+  },
+  {
+    "var": "GENRLTXT_713",
+    "en": "The %s freeze in fear.",
+    "ua": "Загін %s замирає зі страху."
+  },
+  {
+    "var": "GENRLTXT_714",
+    "en": "That spell will not affect anything.",
+    "ua": "Це закляття ні на кого не подіє!"
+  },
+  {
+    "var": "GENRLTXT_715",
+    "en": "\"At last, you have the last artifact needed to construct the Blade.  Soon, the world will tremble at your feet.\"",
+    "ua": "\"Нарешті, ви роздобули останнє закляття, необхідне, аби викликати Клинок. Скоро світ здригнеться під вашими ногами.\""
+  },
+  {
+    "var": "GENRLTXT_716",
+    "en": "The %s makes all spells available.",
+    "ua": "%s робить усі закляття доступними."
+  },
+  {
+    "var": "GENRLTXT_717",
+    "en": "Start with %s",
+    "ua": "Отримати на початку гри: %s"
+  },
+  {
+    "var": "GENRLTXT_718",
+    "en": "Start with a scroll of %s",
+    "ua": "Отримати на початку гри сувій закляття: %s"
+  },
+  {
+    "var": "GENRLTXT_719",
+    "en": "Start with %d %s",
+    "ua": "Отримати на початку гри: %d %s"
+  },
+  {
+    "var": "GENRLTXT_720",
+    "en": "Start with %s %s",
+    "ua": "Отримати на початку гри:  %s %s"
+  },
+  {
+    "var": "GENRLTXT_721",
+    "en": "Start with heroes from %s",
+    "ua": "Розпочати гру з героєм: %s"
+  },
+  {
+    "var": "GENRLTXT_722",
+    "en": "Start with a random hero",
+    "ua": "Розпочати гру з випадковим героєм."
+  },
+  {
+    "var": "GENRLTXT_723",
+    "en": "Wood and Ore",
+    "ua": "Деревина і руда"
+  },
+  {
+    "var": "GENRLTXT_724",
+    "en": "\"Sulfur, Mercury, Crystal, and Gems\"",
+    "ua": "\"Сірка, ртуть, кристал і самоцвіт\""
+  },
+  {
+    "var": "GENRLTXT_725",
+    "en": "%s is in incorrect format",
+    "ua": "%s у неправильному форматі."
+  },
+  {
+    "var": "GENRLTXT_726",
+    "en": "Select expansion campaign",
+    "ua": "\"Обрати кампанію \"\"Клинок Армагеддону\"\".\""
+  },
+  {
+    "var": "GENRLTXT_727",
+    "en": "Select original Heroes III campaign",
+    "ua": "\"Обрати кампанію \"\"Відродження Ерафії\"\".\""
+  },
+  {
+    "var": "GENRLTXT_728",
+    "en": "Select custom campaign",
+    "ua": "Обрати іншу кампанію."
+  },
+  {
+    "var": "GENRLTXT_729",
+    "en": "Return to main menu",
+    "ua": "Повернутися у головне меню."
+  },
+  {
+    "var": "GENRLTXT_730",
+    "en": "Fear of the %s causes the %s to freeze.",
+    "ua": "Страх перед %s кинув загін %s в заціпеніння."
+  },
+  {
+    "var": "GENRLTXT_731",
+    "en": "\"Found the original Heroes III: Restoration of Erathia CD-ROM.\n\nTo play Heroes III: Armageddon's Blade, you need the expansion CD.  \n\nIf you wish to join a Multi-player Game hosted by another player, a CD is not required, and you may proceed.\n\nIf you wish to play a Single Scenario or a Campaign, please quit and insert the Armageddon's Blade CD, before re-running Armageddon's Blade.\"",
+    "ua": "\"Знайдено диск Героїв III: %s CD-ROM.\n\nДля роботи Героїв III: %s, вам необхідно %s CD.\n\nЯкщо ви хочете вступити у мережеву гру, приєднавшись до іншого гравця, то вам не потрібний цей диск.\n\nЯкщо ви бажаєте грати на окремому сценарії або кампанію, то вставте диск %s, перед тим, як запустити гру %s.\""
+  },
+  {
+    "var": "GENRLTXT_732",
+    "en": "Host is generating a random map…",
+    "ua": "Сервер створює випадкову карту…"
+  },
+  {
+    "var": "GENRLTXT_733",
+    "en": "Spell cancelled",
+    "ua": "Заклинання перервано"
+  },
+  {
+    "var": "GENRLTXT_734",
+    "en": null,
+    "ua": "Ви зібрали усі компоненти, необхідні, щоб зібрати %s. Бажаєте з'єднати артефакти?"
+  },
+  {
+    "var": "GENRLTXT_735",
+    "en": null,
+    "ua": "Бажаєте розібрати артефакти?"
+  },
+  {
+    "var": "GENRLTXT_736",
+    "en": null,
+    "ua": "\"Обрати кампанію\"\"Подих Смерті\"\".\""
+  },
+  {
+    "var": "GENRLTXT_737",
+    "en": null,
+    "ua": "Чарівниці"
+  },
+  {
+    "var": "GENRLTXT_738",
+    "en": null,
+    "ua": "Йог пізнав магію у всіх її формах. Його знань ратної справи і тактики цілком достатньо, щоб прожити його життя."
+  },
+  {
+    "var": "GENRLTXT_739",
+    "en": null,
+    "ua": "\"Вітаємо! Ви одержали три частини, які потрібно було дістати від братів-варварів.\""
+  },
+  {
+    "var": "GENRLTXT_740",
+    "en": null,
+    "ua": "Налаштування випадкових карт"
+  },
+  {
+    "var": "GENRLTXT_741",
+    "en": null,
+    "ua": "Вкажіть опції для генерації випадкової карти"
+  },
+  {
+    "var": "GENRLTXT_742",
+    "en": null,
+    "ua": "Випадкова карта"
+  },
+  {
+    "var": "GENRLTXT_743",
+    "en": null,
+    "ua": "Грати випадкову карту"
+  },
+  {
+    "var": "GENRLTXT_744",
+    "en": null,
+    "ua": "\"У каталозі карт немає файлу навчання \"\"tutorial.tut\"\". Ви не можете розпочати проходження навчання буз цього файлу.\""
+  },
+  {
+    "var": "GENRLTXT_745",
+    "en": null,
+    "ua": "Щоб завантажити вибрану збережену гру, необхідно, аби всі гравці запустили %s. Деякі з гравців, що вступили у гру не зможуть завантажити цей файл."
+  },
+  {
+    "var": "GENRLTXT_746",
+    "en": null,
+    "ua": "Щоб грати на обраній карті, необхідно, аби всі гравці запустили %s. Деякі з гравців, що вступили у гру не зможуть завантажити цю карту."
+  },
+  {
+    "var": "GENRLTXT_747",
+    "en": null,
+    "ua": "Клинок Армагеддону"
+  },
+  {
+    "var": "GENRLTXT_748",
+    "en": null,
+    "ua": "Подих Смерті"
+  },
+  {
+    "var": "GENRLTXT_749",
+    "en": null,
+    "ua": "Дія проклятої землі послабила силу дії більшості заклять."
+  },
+  {
+    "var": "GENRLTXT_750",
+    "en": null,
+    "ua": "Створена випадкова карта!"
+  },
+  {
+    "var": "GENRLTXT_751",
+    "en": null,
+    "ua": "Не можна створити Random_Map.H3M у каталозі даних."
+  },
+  {
+    "var": "GENRLTXT_752",
+    "en": null,
+    "ua": "Помилка запису випадкової карти на диск."
+  },
+  {
+    "var": "GENRLTXT_753",
+    "en": null,
+    "ua": "Не можливо створити випадкову карту відповідну обраним параметрам."
+  },
+  {
+    "var": "GENRLTXT_754",
+    "en": null,
+    "ua": "Розмір карти"
+  },
+  {
+    "var": "GENRLTXT_755",
+    "en": null,
+    "ua": "Людей або комп'ютерних гравців"
+  },
+  {
+    "var": "GENRLTXT_756",
+    "en": null,
+    "ua": "Людських або комп'ютерних команд"
+  },
+  {
+    "var": "GENRLTXT_757",
+    "en": null,
+    "ua": "Лише комп'ютерних гравців"
+  },
+  {
+    "var": "GENRLTXT_758",
+    "en": null,
+    "ua": "Лише комп'ютерних команд"
+  },
+  {
+    "var": "GENRLTXT_759",
+    "en": null,
+    "ua": "Доля води"
+  },
+  {
+    "var": "GENRLTXT_760",
+    "en": null,
+    "ua": "Сила монстрів"
+  },
+  {
+    "var": "GENRLTXT_761",
+    "en": null,
+    "ua": "Випадкова карта"
+  },
+  {
+    "var": "GENRLTXT_762",
+    "en": null,
+    "ua": "Створення карти"
+  },
+  {
+    "var": "GENRLTXT_763",
+    "en": null,
+    "ua": "Лише Гелу може нести Клинок Армагеддону."
+  },
+  {
+    "var": "GENRLTXT_764",
+    "en": null,
+    "ua": "Відродження Ерафії"
+  },
+  {
+    "var": "GENRLTXT_765",
+    "en": null,
+    "ua": "\"Вітаємо! Ви здобули усі три артефакти!\""
+  }
+]

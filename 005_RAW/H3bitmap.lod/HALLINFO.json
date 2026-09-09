@@ -1,0 +1,52 @@
+[
+  {
+    "var": "HALLINFO_1",
+    "en": "Cannot build more than one Capitol",
+    "ua": "Неможливо побудувати другий Капітолій"
+  },
+  {
+    "var": "HALLINFO_2",
+    "en": "This town is not near water",
+    "ua": "Поруч з містом немає води"
+  },
+  {
+    "var": "HALLINFO_3",
+    "en": "This town can not build this structure",
+    "ua": "Неможливо звести цю споруду в даному місті"
+  },
+  {
+    "var": "HALLINFO_4",
+    "en": "Add another level to Mage Guild",
+    "ua": "Побудувати наступний поверх Гільдії магів"
+  },
+  {
+    "var": "HALLINFO_5",
+    "en": "%s is already built",
+    "ua": "\"Будівля \"\"%s\"\" вже зведена\""
+  },
+  {
+    "var": "HALLINFO_6",
+    "en": "Cannot build %s",
+    "ua": "\"Неможливо звести споруду \"\"%s\"\"\""
+  },
+  {
+    "var": "HALLINFO_7",
+    "en": "Cannot afford %s",
+    "ua": "\"Недостатньо коштів для зведення споруди \"\"%s\"\"\""
+  },
+  {
+    "var": "HALLINFO_8",
+    "en": "Build %s",
+    "ua": "\"Звести споруду \"\"%s\"\"\""
+  },
+  {
+    "var": "HALLINFO_9",
+    "en": "Exit Hall",
+    "ua": "Вийти"
+  },
+  {
+    "var": "HALLINFO_10",
+    "en": "Hall Options",
+    "ua": "Будівлі"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "sequences": [
+    {
+      "group": 0,
+      "frames": [
+        "CSSEXIT.dir\\00_00.png",
+        "CSSEXIT.dir\\00_01.png",
+        "CSSEXIT.dir\\00_02.png",
+        "CSSEXIT.dir\\00_03.png"
+      ]
+    }
+  ],
+  "type": 66,
+  "format": 1
+}

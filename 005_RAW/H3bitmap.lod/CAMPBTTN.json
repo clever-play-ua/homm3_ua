@@ -1,0 +1,342 @@
+[
+  {
+    "var": "CAMPBTTN_1",
+    "en": "Campaign Choice Button Right Click",
+    "ua": "Campaign Choice Button Right Click"
+  },
+  {
+    "var": "CAMPBTTN_2",
+    "en": "\"{First Aid Tent}\n\nYour starting hero will begin with a First Aid Tent\"",
+    "ua": "\"{Намет першої допомоги}\n\nПочатковий герой екіпірується наметом першої допомоги.\""
+  },
+  {
+    "var": "CAMPBTTN_3",
+    "en": "\"{Pikemen}\n\nYour starting hero will begin with 14 additional Pikemen\"",
+    "ua": "\"{Пікінери}\n\nВ армію початкового героя вступають 14 пікінерів.\""
+  },
+  {
+    "var": "CAMPBTTN_4",
+    "en": "\"{Rare Resources}\n\nYour treasury will receive an additional 5 mercury, sulfur, crystal, and gems\"",
+    "ua": "\"{Рідкісні ресурси}\n\nПоповнять скарбницю 5 одиницями ртуті, сірки, кристалів і самоцвітів.\""
+  },
+  {
+    "var": "CAMPBTTN_5",
+    "en": "\"{Angel}\n\nYour starting hero will begin with 1 Angel\"",
+    "ua": "\"{Ангел}\n\nВ армію початкового героя додається один ангел.\""
+  },
+  {
+    "var": "CAMPBTTN_6",
+    "en": "\"{Zealots}\n\nYour starting hero will begin with 3 Zealots\"",
+    "ua": "\"{Фанатики}\n\nВ армію початкового героя вступають три фанатика.\""
+  },
+  {
+    "var": "CAMPBTTN_7",
+    "en": "\"{Spell Scroll}\n\nYour starting hero will receive a Scroll of Prayer\"",
+    "ua": "\"{Сувій заклинання}\n\nПочатковий герой отримує сувій із заклинанням \"\"Молитва \"\".\""
+  },
+  {
+    "var": "CAMPBTTN_8",
+    "en": "\"{Golden Bow}\n\nThe Golden Bow allows your troops to shoot through any obstacle or at any range without penalty\"",
+    "ua": "\"{Золотий лук}\n\nЗолотий лук дозволяє вашим воїнам стріляти через перепони і на будь-які відстані без зниження ефективності стрільби.\""
+  },
+  {
+    "var": "CAMPBTTN_9",
+    "en": "\"{Lion's Shield of Courage}\n\nThe Lion's Shield of Courage increases all four primary skills by +4\"",
+    "ua": "\"{Щит мужності лева}\n\nЩит мужності лева додає всім ваших чотирьом основним навичкам по 4 одиниці.\""
+  },
+  {
+    "var": "CAMPBTTN_10",
+    "en": "\"{Endless Sack of Gold}\n\nThe Endless Sack of Gold increases your income by 1000 gold per day\"",
+    "ua": "\"{Бездонний мішок золота}\n\nБездонний мішок золота щодня приносить 1000 золотих.\""
+  },
+  {
+    "var": "CAMPBTTN_11",
+    "en": "\"{Gold}\n\nBegin with an extra 10,000 gold\"",
+    "ua": "\"{Золото}\n\nПочати гру з додатковими 10000 золотих у кишені.\""
+  },
+  {
+    "var": "CAMPBTTN_12",
+    "en": "\"{Archangels}\n\nBegin with 2 Archangels\n(will be placed in garrison)\"",
+    "ua": "\"{Архангели}\n\nПочати гру з двома архангелами\n(вони з'являться в гарнізоні замку).\""
+  },
+  {
+    "var": "CAMPBTTN_13",
+    "en": "\"{Titans}\n\nBegin with 2 Titans\n(will be placed in garrison)\"",
+    "ua": "\"{Титани}\n\nПочати гру з двома титанами\n(вони з'являться в гарнізоні замку).\""
+  },
+  {
+    "var": "CAMPBTTN_14",
+    "en": "\"{Spell Scroll}\n\nYour starting hero will receive a Scroll of Protection from Fire\"",
+    "ua": "\"{Сувій із заклинанням}\n\nПочатковий герой отримує сувій із заклинанням \"\"Захист від вогню\"\".\""
+  },
+  {
+    "var": "CAMPBTTN_15",
+    "en": "\"{Spell Scroll}\n\nYour starting hero will receive a Scroll of Ice Bolt\"",
+    "ua": "\"{Сувій із заклинанням}\n\nПочатковий герой отримує сувій із заклинанням \"\"Крижана стріла\"\".\""
+  },
+  {
+    "var": "CAMPBTTN_16",
+    "en": "\"{Spell Scroll}\n\nYour starting hero will receive a Scroll of Precision\"",
+    "ua": "\"{Сувій із заклинанням}\n\nПочатковий герой отримує сувій із заклинанням \"\"Влучність\"\".\""
+  },
+  {
+    "var": "CAMPBTTN_17",
+    "en": "\"{Expert Logistics}\n\nYour starting hero will begin with Expert Logistics\"",
+    "ua": "\"{Логістика 3-го рівня}\n\nПочатковий герой вивчає навичку Логістики 3-го рівня.\""
+  },
+  {
+    "var": "CAMPBTTN_18",
+    "en": "\"{Shield of the Dwarven Lords}\n\nThe Shield of the Dwarven Lords increases your Defense skill by +2\"",
+    "ua": "\"{Щит короля гномів}\n\nЩит короля гномів додає до вашого навику Захисту 2 одиниці.\""
+  },
+  {
+    "var": "CAMPBTTN_19",
+    "en": "\"{Centaur's Axe}\n\nThe Centaur's Axe increases your Attack skill by +2\"",
+    "ua": "\"{Сокира кентавра}\n\nСокира кентавра збільшує вашу навичку Атаки на 2 одиниці.\""
+  },
+  {
+    "var": "CAMPBTTN_20",
+    "en": "\"{Expert Navigation}\n\nYour starting hero will begin with Expert Navigation\"",
+    "ua": "\"{Навігація 3-го рівня}\n\nПочатковий герой вивчає навичку Навігації 3-го рівня.\""
+  },
+  {
+    "var": "CAMPBTTN_21",
+    "en": "\"{Three Level 1 Mage Guilds}\n\nYour three starting towns will each receive a Level 1 Mage Guild\"",
+    "ua": "\"{Три Гільдії магів першого рівня}\n\nУ трьох ваших початкових містах будуть зведені Гільдії магів першого рівня.\""
+  },
+  {
+    "var": "CAMPBTTN_22",
+    "en": "\"{One Level 3 Mage Guild}\n\nYour central town will receive a Level 3 Mage Guild\"",
+    "ua": "\"{Гільдія магів 3-го рівня}\n\nУ вашому головному місті буде побудована гільдія магів третього рівня.\""
+  },
+  {
+    "var": "CAMPBTTN_23",
+    "en": "\"{Boots of Speed}\n\nThe Boots of Speed increase hero's movement rate over land\"",
+    "ua": "\"{Чоботи-скороходи}\n\nЧоботи-скороходи збільшують вашу швидкість пересування мапою.\""
+  },
+  {
+    "var": "CAMPBTTN_24",
+    "en": "\"{Basic Logistics}\n\nYour starting hero will begin with Basic Logistics\"",
+    "ua": "\"{Логістика 1-го рівня}\n\nПочатковий герой вивчає навичку Логістики 1-го рівня.\""
+  },
+  {
+    "var": "CAMPBTTN_25",
+    "en": "\"{Gold}\n\nBegin with an extra 2,500 gold\"",
+    "ua": "\"{Золото}\n\nПочати гру з додатковими 2500 золотих у кишені.\""
+  },
+  {
+    "var": "CAMPBTTN_26",
+    "en": "\"{Royal Griffins}\n\nBegin with 35 Royal Griffins\n(will be placed in garrison)\"",
+    "ua": "\"{Королівські грифони}\n\nПочати гру з 35 королівськими грифонами\n(вони з'являться в гарнізоні замку).\""
+  },
+  {
+    "var": "CAMPBTTN_27",
+    "en": "\"{Iron Golems}\n\nBegin with 35 Iron Golems\n(will be placed in garrison)\"",
+    "ua": "\"{Залізні големи}\n\nПочати гру з 35 залізними големами\n(вони з'являться в гарнізоні замку).\""
+  },
+  {
+    "var": "CAMPBTTN_28",
+    "en": "\"{Grand Elves}\n\nBegin with 35 Grand Elves\n(will be placed in garrison)\"",
+    "ua": "\"{Вищі ельфи}\n\nПочати гру з 35 вищими ельфами\n(вони з'являться в гарнізоні).\""
+  },
+  {
+    "var": "CAMPBTTN_29",
+    "en": "\"{Helm of Heavenly Enlightenment}\n\nThe Helm of Heavenly Enlightenment increases all four primary skills by +6\"",
+    "ua": "\"{Шолом небесного осяяння}\n\nШолом небесного осяяння додає всім вашим основним навичкам по 6 одиниць.\""
+  },
+  {
+    "var": "CAMPBTTN_30",
+    "en": "\"{Tome of Earth Magic}\n\nThis heavy book contains all spells in the School of Earth Magic\"",
+    "ua": "\"{Книга магії Землі}\n\nУ цьому об'ємному томі записані всі заклинання, пов'язані з магією Землі.\""
+  },
+  {
+    "var": "CAMPBTTN_31",
+    "en": "\"{Spellbinder's Hat}\n\nWhen worn, this hat allows you to cast all 5th level spells\"",
+    "ua": "\"{Капелюх заклинача}\n\nЦей капелюх дозволяє вам накладати всі заклинання 5-го рівня.\""
+  },
+  {
+    "var": "CAMPBTTN_32",
+    "en": "\"{Spell Scroll}\n\nYour starting hero will receive a Scroll of Slayer\"",
+    "ua": "\"{Сувій із заклинанням}\n\nПочатковий герой отримує сувій із заклинанням \"\"Вбивця\"\".\""
+  },
+  {
+    "var": "CAMPBTTN_33",
+    "en": "\"{Armor of Wonder}\n\nThe Armor of Wonder increases all four primary skills by +1\"",
+    "ua": "\"{Дивний обладунок}\n\nДивний обладунок додає всім вашим основним навичкам по 1 одиниці.\""
+  },
+  {
+    "var": "CAMPBTTN_34",
+    "en": "\"{Imps}\n\nYour starting hero will begin with 100 additional Imps\"",
+    "ua": "\"{Біси}\n\nВ армію початкового героя вступають 100 бісів.\""
+  },
+  {
+    "var": "CAMPBTTN_35",
+    "en": "\"{Pillar of Eyes}\n\nYour starting town will receive a Pillar of Eyes\n(Beholder dwelling)\"",
+    "ua": "\"{Очниця}\n\nУ вашому початковому місті буде побудована Очниця\n(житло бехолдерів).\""
+  },
+  {
+    "var": "CAMPBTTN_36",
+    "en": "\"{Level 1 Mage Guild}\n\nYour starting town will receive a Level 1 Mage Guild\"",
+    "ua": "\"{Гільдія магів першого рівня}\n\nУ вашому початковому місті буде побудована Гільдія магів першого рівня.\""
+  },
+  {
+    "var": "CAMPBTTN_37",
+    "en": "\"{Battle Scholars' Academy}\n\nYour starting town will receive a Battle Scholars' Academy\n(a one-time bonus of 1000 experience to any visiting hero)\"",
+    "ua": "\"{Військова академія}\n\nУ вашому початковому місті буде побудована Військова академія\n(Додає 1000 одиниць до досвіду героя).\""
+  },
+  {
+    "var": "CAMPBTTN_38",
+    "en": "\"{Eeofol Heroes}\n\nBegin with your Heroes used in the 'A Devilish Plan' scenario\"",
+    "ua": "\"{Герої Еофола}\n\nПеренести героїв зі сценарію \"\"Диявольський план\"\".\""
+  },
+  {
+    "var": "CAMPBTTN_39",
+    "en": "\"{Nighon Heroes}\n\nBegin with your Heroes used in the 'Groundbreaking' scenario\"",
+    "ua": "\"{Герої Ніґона}\n\nПеренести героїв зі сценарію \"\"Атака з-під землі\"\".\""
+  },
+  {
+    "var": "CAMPBTTN_40",
+    "en": "\"{Spell Scroll}\n\nYour starting hero will receive a Scroll of Death Ripple\"",
+    "ua": "\"{Сувій із заклинанням}\n\nПочатковий герой отримує сувій із заклинанням \"\"Тремтіння смерті\"\".\""
+  },
+  {
+    "var": "CAMPBTTN_41",
+    "en": "\"{Black Knight}\n\nYour starting hero will begin with 1 Black Knight\"",
+    "ua": "\"{Чорний лицар}\n\nВ армію початкового героя прибуває один чорний лицар.\""
+  },
+  {
+    "var": "CAMPBTTN_42",
+    "en": "\"{Skeleton Transformer}\n\nYour starting town will receive a Skeleton Transformer\n(converts any creature into a Skeleton)\"",
+    "ua": "\"{Машина скелетів}\n\nУ вашому початковому місті буде побудована Машина скелетів.\n(перетворює будь-яку істоту в нежить).\""
+  },
+  {
+    "var": "CAMPBTTN_43",
+    "en": "\"{Vampire's Cowl}\n\nThe Vampire's Cowl increases your Necromancy skill by 10%\"",
+    "ua": "\"{Плащ вампіра}\n\nПлащ вампіра посилює вашу навичку некромантії на 10%.\""
+  },
+  {
+    "var": "CAMPBTTN_44",
+    "en": "\"{Necromancy Amplifier}\n\nYour starting town will receive a Necromancy Amplifier\n(adds to existing necromancy skill of all allied heroes)\"",
+    "ua": "\"{Підсилювач некромантії}\n\nУ вашому початковому місті буде зведено Підсилювач некромантії\n(посилює навичку некромантії всіх ваших героїв).\""
+  },
+  {
+    "var": "CAMPBTTN_45",
+    "en": "\"{Unearthed Graves}\n\nYour starting town will receive Unearthed Graves\n(increases skeleton production)\"",
+    "ua": "\"{Розриті могили}\n\nУ вашому початковому місті з'являться Розриті могили\n(збільшують щотижневий приріст скелетів).\""
+  },
+  {
+    "var": "CAMPBTTN_46",
+    "en": "\"{Pendant of Death}\n\nThe Pendant of Death renders your units immune to the Destroy Undead spell\"",
+    "ua": "\"{Кулон смерті} \n\nКулон смерті захищає ваших воїнів від заклинання \"\"Вбити нежить\"\".\""
+  },
+  {
+    "var": "CAMPBTTN_47",
+    "en": "\"{Spell Scroll}\n\nYour starting hero will receive a Scroll of Protection from Earth\"",
+    "ua": "\"{Сувій із заклинанням}\n\nПочатковий герой отримує сувій із заклинанням \"\"Захист від землі\"\".\""
+  },
+  {
+    "var": "CAMPBTTN_48",
+    "en": "\"{Zombies}\n\nYour starting hero will begin with 25 Zombies\"",
+    "ua": "\"{Зомбі}\n\nВ армію початкового героя вступають 25 зомбі.\""
+  },
+  {
+    "var": "CAMPBTTN_49",
+    "en": "\"{Spell Scroll}\n\nYour starting hero will receive a Scroll of Death Ripple\"",
+    "ua": "\"{Сувій із заклинанням}\n\nПочатковий герой отримує сувій із заклинанням \"\"Тремтіння смерті\"\".\""
+  },
+  {
+    "var": "CAMPBTTN_50",
+    "en": "\"{Dead Man's Boots}\n\nThe Dead Man's Boots increase your Necromancy skill by 15%\"",
+    "ua": "\"{Чоботи мерця}\n\nЧоботи мерця посилюють вашу навичку некромантії на 15%.\""
+  },
+  {
+    "var": "CAMPBTTN_51",
+    "en": "\"{Ghost Dragons}\n\nYour starting hero will begin with 3 Ghost Dragons\"",
+    "ua": "\"{Примарні дракони}\n\nВ армію початкового героя вступають три примарних дракони.\""
+  },
+  {
+    "var": "CAMPBTTN_52",
+    "en": "[substitute hero right-click info here]",
+    "ua": "[Можна замінити героя; для перегляду натисніть праву кнопку миші]"
+  },
+  {
+    "var": "CAMPBTTN_53",
+    "en": "[substitute hero right-click info here]",
+    "ua": "[Можна замінити героя; для перегляду натисніть праву кнопку миші]"
+  },
+  {
+    "var": "CAMPBTTN_54",
+    "en": "\"{Fortress Hero}\n\nBegin with a random Fortress Hero\n(Beastmaster or Witch)\"",
+    "ua": "\"{Герой фортеці}\n\nПочати з випадковим героєм фортеці.\n(Повелителем звірів/Відьмою).\""
+  },
+  {
+    "var": "CAMPBTTN_55",
+    "en": "\"{Thunderbirds}\n\nYour starting hero will begin with 3 Thunderbirds\"",
+    "ua": "\"{Громові птиці} \n\nВ армію початкового героя вступають три громові птиці.\""
+  },
+  {
+    "var": "CAMPBTTN_56",
+    "en": "\"{Cyclops Kings}\n\nYour starting hero will begin with 2 Cyclops Kings\"",
+    "ua": "\"{Королівські циклопи}\n\nВ армію початкового героя вступають два королівських циклопи.\""
+  },
+  {
+    "var": "CAMPBTTN_57",
+    "en": "\"{Ancient Behemoth}\n\nYour starting hero will begin with 1 Ancient Behemoth\"",
+    "ua": "\"{Стародавні чудовиська}\n\nВ армію початкового героя вступає одне стародавнє чудовисько.\""
+  },
+  {
+    "var": "CAMPBTTN_58",
+    "en": "\"{Choose Tatalia}\n\nChoose to fight for Tatalia, using heroes from the 'Borderlands' scenario\"",
+    "ua": "\"{Вибрати Таталію}\n\nВибрати бік Таталії, перенести героїв зі сценарію \"\"Прикордонні землі\"\".\""
+  },
+  {
+    "var": "CAMPBTTN_59",
+    "en": "\"{Choose Krewlod}\n\nChoose to fight for Krewlod, using heroes from the 'Gold Rush' scenario\"",
+    "ua": "\"{Вибрати Крулод}\n\nВибрати бік Крулода, перенести героїв зі сценарію \"\"Золота лихоманка\"\".\""
+  },
+  {
+    "var": "CAMPBTTN_60",
+    "en": "\"{Boots of Speed}\n\nThe Boots of Speed increase hero's movement rate over land\"",
+    "ua": "\"{Чоботи-скороходи}\n\nЧоботи-скороходи збільшують вашу швидкість пересування по карті.\""
+  },
+  {
+    "var": "CAMPBTTN_61",
+    "en": "\"{Gold}\n\nBegin with an extra 5,000 gold\"",
+    "ua": "\"{Золото}\n\nПочати гру з додатковими 5000 золотих в кишені.\""
+  },
+  {
+    "var": "CAMPBTTN_62",
+    "en": "\"{Pegasi}\n\nYour starting hero will begin with 4 Pegasi\"",
+    "ua": "\"{Пегаси}\n\nВ армію початкового героя вступають 4 пегаси.\""
+  },
+  {
+    "var": "CAMPBTTN_63",
+    "en": "\"{One Level 3 Mage Guild}\n\nYour starting town will receive a Level 3 Mage Guild\"",
+    "ua": "\"{Гільдія магів 3-го рівня}\n\nУ вашому початковому місті буде побудована Гільдія магів третього рівня.\""
+  },
+  {
+    "var": "CAMPBTTN_64",
+    "en": "\"{Gold}\n\nBegin with an extra 5,000 gold\"",
+    "ua": "\"{Золото}\n\nПочати гру з додатковими 5000 золотих в кишені.\""
+  },
+  {
+    "var": "CAMPBTTN_65",
+    "en": "\"{Dendroid Soldiers}\n\nYour starting hero will begin with 3 Dendroid Soldiers\"",
+    "ua": "\"{Дендроіди-воїни}\n\nВ армію початкового героя вступають три дендроіди-воїни.\" "
+  },
+  {
+    "var": "CAMPBTTN_66",
+    "en": "\"{Dendroid Soldiers}\n\nYour starting hero will begin with 3 Dendroid Soldiers\"",
+    "ua": "\"{Дендроіди-воїни}\n\nВ армію початкового героя вступають три дендроіди-воїни.\" "
+  },
+  {
+    "var": "CAMPBTTN_67",
+    "en": "\"{Dendroid Guards}\n\nYour starting hero will begin with 6 Dendroid Guards\"",
+    "ua": "\"{Дендроіди-вартові}\n\nВ армію початкового героя вступають 6 дендроідів-вартових.\" "
+  },
+  {
+    "var": "CAMPBTTN_68",
+    "en": "\"{Wood}\n\nBegin with an additional 12 Wood\"",
+    "ua": "\"{Деревина}\n\nПоповнити скарбницю 12 одиницями деревини.\""
+  }
+]

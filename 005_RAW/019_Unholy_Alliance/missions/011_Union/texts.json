@@ -1,0 +1,356 @@
+[
+  {
+    "var": "FINAL_M11_prolog",
+    "field": "wrapper_prolog",
+    "en": "Sandro used his force to drive a wedge between the four heroes to stop them from building the Angelic Alliance.  If this powerful artifact is ever completed, Sandro's defeat seems likely and his plans of conquest will be ruined.",
+    "ua": "Сандро використовує свою силу, щоб вбити клин між чотирма героями, аби запобігти відновленню Ангельського союзу. Якщо цей потужний артефакт буде зібраний, розгром Сандро буде лише питанням часу."
+  },
+  {
+    "var": "FINAL_M11_epilog",
+    "field": "wrapper_epilog",
+    "en": "We have collected the pieces of the Angelic Alliance, but Sandro learned of our efforts and blocked our path.  The bulk of his army now separates us from each other.  We must break through the Necromancer's army and converge upon one point.  Once we join the pieces of the Angelic Alliance, we can defeat Sandro.  If we fail, he will dominate all of Antagarich.",
+    "ua": "Ми зібрали всі частини Ангельського союзу, але Сандро пронюхав про це і перегородив нам шлях. Зараз основні сили його армій відокремлюють нас один від одного. Ми повинні прорватися через їхні ряди і зібратися разом. Лише поєднавши всі частини Ангельського союзу, ми зможемо перемогти Сандро. Якщо ми не впораємося з цим завданням, його влада пошириться на весь Антагріч!"
+  },
+  {
+    "var": "FINAL_M11_map_name",
+    "field": "map_map_name",
+    "en": "Union",
+    "ua": "Воз'єднання"
+  },
+  {
+    "var": "FINAL_M11_map_desc",
+    "field": "map_map_desc",
+    "en": "Defeat all of the Necromancers in the area and create the Angelic Alliance to win the scenario.  However, if Gem, Gelu, Crag Hack or Yog are defeated in combat, the scenario is lost.  The four heroes are limited to level 40 but will carry their experience, skills and spells on to the next scenario.",
+    "ua": "Для того щоб отримати перемогу в цьому сценарії, необхідно знищити всіх некромантів, що влаштувалися в цьому регіоні і створити Ангельський союз. Якщо ж будь-хто з чотирьох героїв - Ґем, Ґело, Краґ Хак або Йоґ - буде переможений, сценарій закінчиться поразкою. Усі четверо героїв обмежені 40 рівнем."
+  },
+  {
+    "var": "FINAL_M11_obj2564_monster_mesg",
+    "field": "map_obj2564_monster_mesg",
+    "en": "This is OUR ore pit, and you are not welcome to mine it!  We have been here for a long time, waiting for the supplies necessary to make it operational again.   Don't think you'll be allowed to just waltz in here and starting working this ore pit!  Time to die, you fleshy fool!",
+    "ua": "Це НАША рудна шахта, і тебе сюди ніхто не кликав! Ми пробули тут не один тиждень чекаючи на матеріали, які дозволять нам відновити виробництво. Не вже ти вважаєш, що можеш так просто прийти і накласти руку на нашу руду? Готуйся до смерті, смертний!"
+  },
+  {
+    "var": "FINAL_M11_obj2570_monster_mesg",
+    "field": "map_obj2570_monster_mesg",
+    "en": "You are more than welcome to feed upon this crystal vein... as long as we are allowed to feed upon your own veins!",
+    "ua": "Ось тобі жила кристалів, насолоджуйся нею... але лише після того, як ми насолодимося кров'ю із твоїх жил!"
+  },
+  {
+    "var": "FINAL_M11_obj2598_monster_mesg",
+    "field": "map_obj2598_monster_mesg",
+    "en": "We would be more than happy to let you work this gold mine, just so long as you let us drink your blood.  No?  Then I guess we fight!",
+    "ua": "Ми із задоволенням пустимо до своєї золотої шахти, але в обмін на ковток твоєї крові. Що, не влаштовує? Тоді готуйся до бою!"
+  },
+  {
+    "var": "FINAL_M11_obj2610_monster_mesg",
+    "field": "map_obj2610_monster_mesg",
+    "en": "We have been woodcutters for generations, and this is OUR wood mine!  No one else shall take it from us!",
+    "ua": "Ми всі тут - лісоруби у десятому поколінні, і значить ця лісопилка - НАША! І нікому її у нас не відняти!"
+  },
+  {
+    "var": "FINAL_M11_obj2615_monster_mesg",
+    "field": "map_obj2615_monster_mesg",
+    "en": "We are the widows of men slaughtered by these infernal contraptions, and we are going to keep you from making more widows and orphans!  Prepare to die!",
+    "ua": "Ми – вдови тих, хто загинув від рук породжень пекла, і ми не дозволимо тобі примножувати нових вдов і сиріт! Готуйся до смерті!"
+  },
+  {
+    "var": "FINAL_M11_obj2829_monster_mesg",
+    "field": "map_obj2829_monster_mesg",
+    "en": "We have gathered these treasures, and you are not allowed to enter here!  Since you are forcing the issue, we have no choice but to destroy you!",
+    "ua": "Ці скарби зібрані нами, і тобі сюди ходу немає! Але якщо ти такий настирливий, доведеться припинити твоє жалюгідне існування!"
+  },
+  {
+    "var": "FINAL_M11_obj2843_monster_mesg",
+    "field": "map_obj2843_monster_mesg",
+    "en": "These are our treasures, and none shall have access to those irritating birds if we have something to say about it!  Matter of fact, we DO have something to say about it: fight or die!",
+    "ua": "Це наші скарби, по своїй волі ми нікого не підпустимо до цих норовливих пташок! А вже СВОЕЇ ВОЛИ нам не займати! Захищайся, аби ти покійник!"
+  },
+  {
+    "var": "FINAL_M11_obj3000_guardian_mesg",
+    "field": "map_obj3000_guardian_mesg",
+    "en": "This axe once hung in the Great Hall but was stolen a few years ago.  You are glad to get it back.",
+    "ua": "Колись ця сокира висіла на стіні тронного залу, а потім його викрали зловмисники. Ви раді повернути його на законне місце."
+  },
+  {
+    "var": "FINAL_M11_obj3001_guardian_mesg",
+    "field": "map_obj3001_guardian_mesg",
+    "en": "Whoever that Ogre is, he keeps leaving all of his stuff just lying around.  You'd fine him for littering, but the stuff he leaves isn't exactly trash.",
+    "ua": "Ким би не був цей огр, він вічно розкидає свої пожитки на околицях. Його можна було б оштрафувати за організацію звалищ в недозволених місцях, але от тільки дрібнички його ніяк не назвеш мотлохом."
+  },
+  {
+    "var": "FINAL_M11_obj3002_guardian_mesg",
+    "field": "map_obj3002_guardian_mesg",
+    "en": "It seems the Dwarves must have been defeated whoever was holding this.  With a rustle of the bushes, you discover who defeated them.  Do you wish to run away or avenge the death of the Dwarves?",
+    "ua": "Схоже, гноми отримали поразку від господаря даного предмета, якій вже вистрибує із кущів. Ну що, ноги в руки? Чи хочете помститись за смерть гномів?"
+  },
+  {
+    "var": "FINAL_M11_obj3003_guardian_mesg",
+    "field": "map_obj3003_guardian_mesg",
+    "en": "Seems an Ogre left this just lying around.  It would be a shame for such a useful item to go to waste.",
+    "ua": "Схоже, огр просто забув про цю штуковину. Шкода, якщо така корисна річ пропаде без користі."
+  },
+  {
+    "var": "FINAL_M11_obj3016_guardian_mesg",
+    "field": "map_obj3016_guardian_mesg",
+    "en": "Here is a little purse and it's filled with gold!  What a good day, you found one of the artifacts those Forest Guard people were talking about.  Maybe you'll find the rest of them too.",
+    "ua": "Перед вами гаманець, втрамбований золотом! Ось так вдача! Ви знайшли один з артефактів, про які так багато говорять Лісні охоронці. Можливо й інші де-небудь поблизу?"
+  },
+  {
+    "var": "FINAL_M11_obj3022_guardian_mesg",
+    "field": "map_obj3022_guardian_mesg",
+    "en": "A perfectly good pair of boots has been left here.  Maybe the owner ended up running so fast, they ran themselves right out of the boots.  Well, you won't leave these to just anybody.  After all, Sandro could get his hands on them.",
+    "ua": "Хтось лишив тут пару зовсім новенький черевик. Можливо їхній господар так швидко тікав, що взуття просто не поспівало за ним? Як-то не було, ви не допустите, аби така чудова річ дісталася аби-кому. Адже це може виявитись сам Сандро?"
+  },
+  {
+    "var": "FINAL_M11_obj3023_guardian_mesg",
+    "field": "map_obj3023_guardian_mesg",
+    "en": "This artifact is from the Elemental Plane of Fire, and it is well known the fiery inhabitants do not like just anyone stealing their property.",
+    "ua": "Цей артефакт походить із виміру вогненних елементалів, а кожному відомо, що тамтешні жителі дуже не люблять, коли хтось зазіхає на їх власність."
+  },
+  {
+    "var": "FINAL_M11_obj3024_guardian_mesg",
+    "field": "map_obj3024_guardian_mesg",
+    "en": "Generally the Orb of Silt is buried deep within the planet, where it is easily accessible to the Elemental Plane of Earth.  But, for some reason, it has surfaced.  You know it will be guarded.",
+    "ua": "Зазвичай Сфера земної тверді покоїться глибоко під землею, де до неї мають доступ лише земні елементали. Але тут вона якимось дивом опинилась на поверхні. В любому випадку її добре охороняють."
+  },
+  {
+    "var": "FINAL_M11_obj3025_guardian_mesg",
+    "field": "map_obj3025_guardian_mesg",
+    "en": "It seems the Gods of Air have smiled upon you and laid a most precious artifact in your path.  The only question will be, are you worthy enough?",
+    "ua": "Схоже, духи повітря проявили до вас прихильність і задарма пропонують жахливо цінний артефакт. Питання в тому, чи гідні ви такого дару?"
+  },
+  {
+    "var": "FINAL_M11_obj3026_guardian_mesg",
+    "field": "map_obj3026_guardian_mesg",
+    "en": "A young mage with a brown beard waves to you, bows and promptly disappears.  He must have gotten the spell wrong because he left behind this beautiful collar.  Well, it's his fault for getting the spell wrong, so you pick up the collar and put it on.",
+    "ua": "Молодий маг із каштановою бородою вітає вас помахом руки, кланяється і швидко зникає. Можливо він дещо наплутав із закляттям, бо на тому місці де він стояв, залишилось чудове намисто. Треба було краще вчити закляття! Ви без ніякого докору сумління піднімаєте намисто і одягаєте собі на шию."
+  },
+  {
+    "var": "FINAL_M11_obj3819_guardian_mesg",
+    "field": "map_obj3819_guardian_mesg",
+    "en": "This artifact is from the alternate realm of the elementals; specifically, from the Elemental Plane of Water.  It is well known this artifact will not be unguarded.",
+    "ua": "Цей артефакт потрапив сюди зі світу, де живуть абсолютно особливі водні елементали. І вже цілком очевидно, що ніхто не залишить його валятися на дорозі без всякої охорони."
+  },
+  {
+    "var": "FINAL_M11_obj4216_town_name",
+    "field": "map_obj4216_town_name",
+    "en": "Gourney",
+    "ua": "Гурні"
+  },
+  {
+    "var": "FINAL_M11_obj4252_guardian_mesg",
+    "field": "map_obj4252_guardian_mesg",
+    "en": "While traveling through these beautiful pools, you are ambushed by Water Elementals who violently protect these waters.  With no other recourse, you defend yourself.",
+    "ua": "Пропливаючи цими чудовими водоймами, ви зазнали нападу водних елементалів, які ревно охороняють свої володіння. Вам нічого не залишається, як тільки захищатися."
+  },
+  {
+    "var": "FINAL_M11_obj4254_guardian_mesg",
+    "field": "map_obj4254_guardian_mesg",
+    "en": "While traveling through the barren lands, you realize this would be a place Earth Elementals would prefer.  No other element is truly present here, and they could live in relative peace except, of course, for the pyramid up there.  While you think about all this, your men are surrounded and the Earth Elementals, who do live here, attack you!",
+    "ua": "Подорожуючи безплідними землями, ви ловите себе на думці, що саме такі місця найбільше підійшли б земним елементалям. Інші стихії тут практично ніяк не представлені, і вони могли б жити тут у відносному спокої, якби не піраміда, що видніється неподалік. Поки ви надаєте цим роздумам, земні елементали, які дійсно живуть у цих місцях, оточують ваш загін і спрямовуються в атаку."
+  },
+  {
+    "var": "FINAL_M11_obj4272_guardian_mesg",
+    "field": "map_obj4272_guardian_mesg",
+    "en": "This entire land seems to be on fire, as if the elementals of fire have taken a particular liking to this area.  Nervously looking around for a possible attack, you are barely able to avoid the Fire Elementals leaping out at you!",
+    "ua": "Земля навколо палає яскравим полум'ям, бо ці місця чомусь особливо сподобалися вогненним елементалам. Ви нервово озирається навколо, чекаючи нападу, і ледве-ледве ухиляєтеся від вогненних елементалів, які кинулися в атаку."
+  },
+  {
+    "var": "FINAL_M11_obj4273_guardian_mesg",
+    "field": "map_obj4273_guardian_mesg",
+    "en": "This entire land seems to be on fire, as if the elementals of fire have taken a particular liking to this area.  Nervously looking around for a possible attack, you are barely able to avoid the Fire Elementals leaping out at you!",
+    "ua": "Земля навколо палає яскравим полум'ям, бо ці місця чомусь особливо сподобалися вогненним елементалам. Ви нервово озирається навколо, чекаючи нападу, і ледве-ледве ухиляєтеся від вогненних елементалів, які кинулися в атаку."
+  },
+  {
+    "var": "FINAL_M11_obj4274_guardian_mesg",
+    "field": "map_obj4274_guardian_mesg",
+    "en": "This entire land seems to be on fire, as if the elementals of fire have taken a particular liking to this area.  Nervously looking around for a possible attack, you are barely able to avoid the Fire Elementals leaping out at you!",
+    "ua": "Земля навколо палає яскравим полум'ям, бо ці місця чомусь особливо сподобалися вогненним елементалам. Ви нервово озирається навколо, чекаючи нападу, і ледве-ледве ухиляєтеся від вогненних елементалів, які кинулися в атаку."
+  },
+  {
+    "var": "FINAL_M11_obj4277_guardian_mesg",
+    "field": "map_obj4277_guardian_mesg",
+    "en": "With all of the Fire Elementals in the area, maybe you should be more careful and avoid getting yourself entangled in another ambush.  Fortunately, there don't seem to be any around at the moment.",
+    "ua": "Ці місця просто кишать вогняними елементалами! Треба бути обережнішим, щоб не потрапити в чергову засідку. На щастя, зараз поблизу нікого не видно."
+  },
+  {
+    "var": "FINAL_M11_obj4278_guardian_mesg",
+    "field": "map_obj4278_guardian_mesg",
+    "en": "With all of the Fire Elementals in the area, maybe you should be more careful and avoid getting yourself entangled in another ambush.  Fortunately, there don't seem to be any around at the moment.",
+    "ua": "Ці місця просто кишать вогняними елементалами! Треба бути обережнішим, щоб не потрапити в чергову засідку. На щастя, зараз поблизу нікого не видно."
+  },
+  {
+    "var": "FINAL_M11_obj4279_guardian_mesg",
+    "field": "map_obj4279_guardian_mesg",
+    "en": "You weren't on guard enough and are being attacked by Fire Elementals!",
+    "ua": "Ви послабили пильність і в покарання зазнали нападу вогненних елементалів!"
+  },
+  {
+    "var": "FINAL_M11_obj4280_guardian_mesg",
+    "field": "map_obj4280_guardian_mesg",
+    "en": "This area is definitely at a higher elevation than the others.  It may be wise to keep an eye out for Air Elementals patrolling the area.",
+    "ua": "Без сумніву, ця область розташована вище за інші. Тут можна чекати нападу повітряних елементалів, які явно патрулюють цю ділянку."
+  },
+  {
+    "var": "FINAL_M11_obj4310_guardian_mesg",
+    "field": "map_obj4310_guardian_mesg",
+    "en": "Out of the clouds streaking towards you are the Air Elementals, and they seem to have brought their bigger brothers, the Storm Elementals!  With nowhere to run, you are trapped and forced to fight them!",
+    "ua": "З хмар до вас спрямовуються повітряні елементали, і, схоже, вони прихопили з собою старших братів - штормових елементалів! Тікати вам нікуди, і нічого не залишається, як приймати бій!"
+  },
+  {
+    "var": "FINAL_M11_obj4311_guardian_mesg",
+    "field": "map_obj4311_guardian_mesg",
+    "en": "Passing through this idle valley you are admiring the scenery.  It is beautiful here, with the pretty pond and stream running merrily from it.  Beautiful flowers grow underneath the green foliage, and a warm wind blows.  Unfortunately, you are not the only ones in this pretty little valley: some rotworms have inhabited the area and are now inhabiting you.  Since there is no cure except time, you and your troops will be functioning more poorly than normal.",
+    "ua": "Проїжджаючи мирною долиною, ви насолоджуєтеся мальовничим пейзажем. Тут дійсно красиво! Он там розташувалося синє озерце, з якого біжить веселий струмок. Дерева схилили зелені гілки до землі, покритої яскравими квітами; теплий вітерець ворушить листя. На жаль, ви не одні у цій чудовій долині, раніше за вас тут влаштувалися трупні хробаки, які жадібно накидаються на нову здобич. Вилікувати від них може тільки одне - час, і тому до тих пір, поки вони не повмирають, і ви, і ваше військо будете воювати у пів-сили."
+  },
+  {
+    "var": "FINAL_M11_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Day 1",
+    "ua": "Day 1"
+  },
+  {
+    "var": "FINAL_M11_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "We are separated from the others by the inlet.  Both groups must stabilize their foothold and drive back the Necromancers from the Contested Lands and AvLee.  The Necromancers have a stranglehold on the area, but we should be able to drive them out.  There are Erathian troops scattered throughout the area, and with the Angelic Alliance, our troops should not have trouble working together.",
+    "ua": "Ми відділені один від одного глибокою затокою. Обом групам належить закріпитися в тих областях, де вони опинилися, і вигнати некромантів зі Спірних Земель і з країни Ав-Лі. Некроманти мертвою хваткою вчепилися в ці землі, але ми просто зобов'язані знищити їх усіх до єдиного. Тут і там зустрічаються загони військ Ерафії, але тепер Ангельський союз допоможе нам об'єднати сили в боротьбі проти спільного ворога."
+  },
+  {
+    "var": "FINAL_M11_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Day 5",
+    "ua": "Day 5"
+  },
+  {
+    "var": "FINAL_M11_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "Research on combination artifacts had continued after the four of you left to search for the Angelic Alliance.  The wizards discovered a horn made of precious metals called the Cornucopia.  If you put the Everpouring Vial of Mercury, the Eversmoking Ring of Sulfur, Everflowing Cloak of Crystal and the Ring of Infinite Gems together, they will make this Cornucopia.  Rumors have surfaced that these items, along with a few bags of gold, are circulating throughout the area.  No doubt Sandro's forces are seeking them.",
+    "ua": "Після того як ми вчотирьох вирушили на пошуки компонентів Ангельського союзу, чарівники продовжували вивчати комбінації різних магічних артефактів. З поєднання дорогоцінних металів вони задумали виготовити чудовий ріг, що вони заздалегідь нарекли Рогом достатку. Для цього достатньо з'єднати в одне ціле Бездонну посудину ртуті, Перстень сірки, Накидку кристалів і Перстень самоцвітів. Кажуть, що всі ці артефакти, а крім них і чимало мішків із золотом, можна знайти в тих областях, де ми опинилися. Без сумніву, Сандро теж полює за ними."
+  },
+  {
+    "var": "FINAL_M11_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Day 10",
+    "ua": "Day 10"
+  },
+  {
+    "var": "FINAL_M11_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "Disaster has struck.  Thieves entered the castle late at night, killed the guards and stole as much gold as they could run off with.  This will set back your building schedule quite a bit.",
+    "ua": "Сталося велике нещастя. Пізно вночі в замок проникли грабіжники, вбили варту і викрали стільки золота, скільки змогли забрати з собою. Ця втрата дуже уповільнить наші плани будівництва."
+  },
+  {
+    "var": "FINAL_M11_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "Day 17",
+    "ua": "Day 17"
+  },
+  {
+    "var": "FINAL_M11_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "Stumbling into camp one night, a poor man collapses onto the ground in front of Gem.  She quickly applies her healing magic, and he is able to tell her his tale.  He describes a place where the imps have set up a cache of stolen treasures, but that is only the landmark to a wondrous orb set upon a golden base.  The orb swirls as if filled with clouds and actually seems to overflow onto the ground.  He saw magical creatures made of nothing more than the clouds floating in and around the orb.  Chased out by Necromancers, he does not know if the orb is still there or if they have taken it.",
+    "ua": "Одного разу вночі в таборі з'явився виснажений чоловік, який впав на землю біля самих ніг Ґем. Чарівниця негайно вимовила над ним кілька лікувальних заклинань, і тільки після цього прибулець зміг розповісти їй свою історію. Він розповів про місце, де біси ховають викрадені скарби, але воно - лише орієнтир на шляху до дивовижної кулі, що покоїться на золотій основі. Усередині кулі в нескінченному русі перебувають струмені магічної субстанції, яка час від часу проливається на землю. На його очах під впливом цієї субстанції з нічого виникали чарівні істоти. Зараз за ним женуться некроманти, і він не знає, чи ціла ще ця куля, чи вже потрапила в їх нечисті лапи."
+  },
+  {
+    "var": "FINAL_M11_mapevent4_name",
+    "field": "map_mapevent4_name",
+    "en": "Day 24",
+    "ua": "Day 24"
+  },
+  {
+    "var": "FINAL_M11_mapevent4_mesg",
+    "field": "map_mapevent4_mesg",
+    "en": "The Forest Guard scouts return, each of them reporting something of interest.  Sandro's movements have been towards your location, and he leads a large army.  Some of the generals have the pieces to the Cornucopia, but they should be taken out easily.  One of the scouts, the last one in, has an interesting tidbit of information.  Within the barren lands of the necromancer's lies an even more rocky and foreboding land.  Traversable, this land holds an orb with a golden base.  The orb looks to be made of silt or mud, but the scout could tell it was powerful.  It may have already fallen into Sandro's hands, as he was close by.",
+    "ua": "Повернулися розвідники Лісової варти, і кожен приніс важливі вісті. Сандро наближається до ваших земель і веде з собою незліченні полчища нежиті. Дехто з його воєначальників мають при собі компоненти Рогу достатку, але забрати їх не складе великих труднощів. Розвідник, який повернувся останнім, повідомив вельми цікаву інформацію. У глибині безплідних володінь некромантів є ще більш кам'яниста і непривітна область. Якщо перетнути її з кінця в кінець, можна знайти чудову кулю, укріплену на золотій основі. На перший погляд, куля виготовлена зі звичайного бруду, але, за словами розвідника, вона має величезну силу. Можливо, куля вже потрапила в лапи Сандро, бо розвідник бачив проклятого некроманта неподалік від тих місць."
+  },
+  {
+    "var": "FINAL_M11_mapevent5_name",
+    "field": "map_mapevent5_name",
+    "en": "Day 31",
+    "ua": "Day 31"
+  },
+  {
+    "var": "FINAL_M11_mapevent5_mesg",
+    "field": "map_mapevent5_mesg",
+    "en": "Crag came out of his tent swearing up a storm.  The entire camp was infested with fleas and lice.  Normally he wouldn't care about such things, but many of the troops will suffer some serious side effects if they don't get these taken care of.  The cost is enormous to flea dip every last Behemoth, Orc, Wolf, Riders and the rest of the hairy bunch.",
+    "ua": "Краґ вискочив зі свого намету, лаючись на чому світ стоїть. Весь табір кишів блохами і вошами. Зазвичай він не звертав на такі дрібниці особливої уваги, але тепер йому потрібно було думати про війська, бо багато його бійців могли серйозно постраждати, якщо цю справу пустити на самоплив. Подумати страшно, скільки золота піде на те, щоб викупати кожне чудовисько, кожного орка, кожного наїзника на вовку і всіх інших волохатих тварюк в протиблошому відварі."
+  },
+  {
+    "var": "FINAL_M11_mapevent6_name",
+    "field": "map_mapevent6_name",
+    "en": "Day 38",
+    "ua": "Day 38"
+  },
+  {
+    "var": "FINAL_M11_mapevent6_mesg",
+    "field": "map_mapevent6_mesg",
+    "en": "A raiding party swarmed over the camps and surprised everyone there.  Barely able to escape with their lives, the troops were unscathed, but all of the equipment has to be replaced.  The smiths require more ore to make the metals and the gold with which to pay them.",
+    "ua": "На табір напали грабіжники і захопили всіх його мешканців зненацька. Воїни покидали все і зуміли врятуватися втечею, а ось зброя здебільшого пропала. Тепер ковалям потрібно більше заліза, а вам - додаткове золото, щоб оплатити їхню роботу."
+  },
+  {
+    "var": "FINAL_M11_mapevent7_name",
+    "field": "map_mapevent7_name",
+    "en": "Day 45",
+    "ua": "Day 45"
+  },
+  {
+    "var": "FINAL_M11_mapevent7_mesg",
+    "field": "map_mapevent7_mesg",
+    "en": "Knowing the bad luck you have been faced with recently, a seer has been brought on board to search for disasters.  She will look into the future and see if anything will cause any more disasters.  With some luck and a little work, future problems can be avoided.",
+    "ua": "Пам'ятаючи про смугу невдач, яка переслідує вас весь останній час, ви запросили до себе провидицю, яка буде попереджати вас про прийдешні нещастя. Вона буде заглядати в майбутнє і повідомляти, якщо побачить там щось недобре. Трохи везіння і побільше завзятості - і неприємності обійдуть вас стороною."
+  },
+  {
+    "var": "FINAL_M11_mapevent8_name",
+    "field": "map_mapevent8_name",
+    "en": "Day 13",
+    "ua": "Day 13"
+  },
+  {
+    "var": "FINAL_M11_mapevent8_mesg",
+    "field": "map_mapevent8_mesg",
+    "en": "Strange things have been sighted.  Near the small town of Gourney the ground seems to be on fire, but nothing burns near it.  Some have seen a spectacular orb sitting in the middle, its fiery surface swirling the beautiful oranges and reds of fire.  Others say there are Fire Elementals dancing among the flames, but no one can tell for sure.",
+    "ua": "Ми стали свідками дивних подій. Неподалік від міста Гурне земля палає величезним багаттям, хоча горіти там, здавалося б, нічому. Дехто бачив у самому центрі полум'я дивовижну кулю на блискучій поверхні якої танцюють чудові оранжево-червоні язики. Інші кажуть, що серед цього буйства стихії звиваються у шаленому танку неприборкані Вогненні Елементали. Однак все це одні лише чутки."
+  },
+  {
+    "var": "FINAL_M11_mapevent9_name",
+    "field": "map_mapevent9_name",
+    "en": "Day 41",
+    "ua": "Day 41"
+  },
+  {
+    "var": "FINAL_M11_mapevent9_mesg",
+    "field": "map_mapevent9_mesg",
+    "en": "A Behemoth, one of Yog's scouts, returns looking ragged and filthy yet also very happy and excited.  He exclaims, \"I killed a hundred of those bony critters before they ran me outta there.  And I saw this pretty ball sitting in a puddle as far south as I could go.  It's east of here, deep in Necro territory.\"  He puffs out his chest with pride, knowing he has delivered important information because Yog looks very excited.  The Behemoth was shown a meal and a bath.",
+    "ua": "Чудовисько, що служить у Йоґа в розвідниках, повертається із завдання, все пошарпане і брудне, але при цьому вельми задоволене собою. Воно віщає: «Я поклав добру сотню цих кістяних виродків, перш ніж їм вдалося витіснити мене з тих місць. Там, у південних краях, я бачив дивну кулю, яка лежить в самому центрі здоровенної калюжі. Це на схід звідси, в самому центрі володінь некромантів.» Чудовисько роздувається від гордості, бо розуміє, що принесло важливі відомості, раз Йоґ так розхвилювався. У нагороду воно отримує додаткову порцію жорева і відро протиблошому відвару."
+  },
+  {
+    "var": "FINAL_M11_mapevent10_name",
+    "field": "map_mapevent10_name",
+    "en": "Day 48",
+    "ua": "Day 48"
+  },
+  {
+    "var": "FINAL_M11_mapevent10_mesg",
+    "field": "map_mapevent10_mesg",
+    "en": "A message arrived for Gelu.  He quickly read it and then flew into a rage, screaming unintelligible words and pounding his fists against trees and rocks.  His second-in-command picked up and read the note.  This is what it said: \"We regret to inform you that Caleb, Captain of the Forest Guard, was killed in the last skirmish with the Necromancers.  We have confirmed he was slain by Sandro's forces.  You are therefore requested to return to Erathia as soon as possible.  Once there, you will be trained in the formal duties of Captain and gain control of the Forest Guard.  Congratulations.\"  Knowing how close Gelu must have been to Caleb, this will not be a happy promotion.",
+    "ua": "Гонець доставив Ґело послання. Той швидко пробіг його очима і впав у великий гнів, оголошуючи околиці нечленороздільними криками і гатячи кулаками по деревах і валунах. Його помічник підібрав пергамент і прочитав таке: «З великим сумом повідомляємо, що капітан Лісової варти Калеб був убитий в сутичці з некромантами. Цим підтверджуємо, що він був убитий підручними Сандро. У зв'язку з цим вам наполегливо рекомендується негайно повернутися в Ерафію. Прибувши на місце, ви будете ознайомлені з обов'язками капітана і приймете командування над Лісовою вартою. Прийміть наші поздоровлення.» Знаючи, як дружні були Ґело і Калеб, навряд чи можна назвати це підвищення бажаною подією."
+  },
+  {
+    "var": "FINAL_M11_mapevent11_name",
+    "field": "map_mapevent11_name",
+    "en": "Day 20",
+    "ua": "Day 20"
+  },
+  {
+    "var": "FINAL_M11_mapevent11_mesg",
+    "field": "map_mapevent11_mesg",
+    "en": "This is just not your week.  A messenger who was traveling between all of the castles, trying to coordinate the assault, accidentally was carrying termites.  He didn't notice them because he didn't have any wood on him.  But the castles are now noticing, and it's going to take a lot of wood to rebuild everything and a lot of gold to pay for the exterminator.  Also, it's the exterminator's wife, so you have to appease her with some pretty gems, or he won't come and you'll lose all of your defenses.",
+    "ua": "Цей тиждень виявився для вас нещасливим. У сумці гінця, який по черзі відвідував один за одним всі замки, координуючи підготовку до наступу на некромантів, оселилися терміти. Гонець не звернув на них жодної уваги, бо при ньому не було нічого дерев'яного. Зате для замків непрохані гості стали справжнім лихом, і тепер комендантам потрібна величезна кількість дерева, щоб відновити все, що вони виточили, і чимало золота, щоб заплатити винищувачу комах за роботу. А ще у нього є дружина, і її треба задобрити жменею-другий дорогоцінних каменів, інакше винищувач комах відмовиться працювати, і всі ваші укріплення розсиплються прахом."
+  },
+  {
+    "var": "FINAL_M11_mapevent12_name",
+    "field": "map_mapevent12_name",
+    "en": "Computer Stuff",
+    "ua": "Computer Stuff"
+  }
+]

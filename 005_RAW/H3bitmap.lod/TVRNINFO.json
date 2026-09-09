@@ -1,0 +1,42 @@
+[
+  {
+    "var": "TVRNINFO_1",
+    "en": "Cannot afford a Hero",
+    "ua": "Не вистачає грошей, щоб найняти героя."
+  },
+  {
+    "var": "TVRNINFO_2",
+    "en": "Cannot recruit. You already have %d Heroes.",
+    "ua": "Неможливо найняти героя. У вас уже є %d героїв."
+  },
+  {
+    "var": "TVRNINFO_3",
+    "en": "Cannot recruit. You already have a Hero in this town.",
+    "ua": "Неможливо найняти героя. У цьому місті вже є герой."
+  },
+  {
+    "var": "TVRNINFO_4",
+    "en": "Recruit %s the %s",
+    "ua": "Найняти %s %s"
+  },
+  {
+    "var": "TVRNINFO_5",
+    "en": "Select %s",
+    "ua": "Вибрати %s"
+  },
+  {
+    "var": "TVRNINFO_6",
+    "en": "Thieves' Guild",
+    "ua": "Гільдія злодіїв"
+  },
+  {
+    "var": "TVRNINFO_7",
+    "en": "Hiring price",
+    "ua": "Ціна"
+  },
+  {
+    "var": "TVRNINFO_8",
+    "en": "Exit tavern",
+    "ua": "Покинути корчму"
+  }
+]

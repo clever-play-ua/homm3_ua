@@ -1,0 +1,22 @@
+[
+  {
+    "var": "PRISKILL_1",
+    "en": "Attack Skill",
+    "ua": "Атака"
+  },
+  {
+    "var": "PRISKILL_2",
+    "en": "Defense Skill",
+    "ua": "Захист"
+  },
+  {
+    "var": "PRISKILL_3",
+    "en": "Spell Power",
+    "ua": "Сила магії"
+  },
+  {
+    "var": "PRISKILL_4",
+    "en": "Knowledge",
+    "ua": "Знання"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "var": "CRAG_M3_prolog",
+    "field": "wrapper_prolog",
+    "en": "A small group of Necromancers called \"The Ebon Hand\" live in this part of Avauntnell.  Erathia hasn't really dealt with them, for this is an out of the way swampy area, and it really isn't worth the time and expense to mount a campaign against them.  It is said they worship one of the undead races as gods and keep them under lock and key to be worshiped day and night.",
+    "ua": "Культ некромантів, який називає себе орденом Чорної Руки, мешкає в цій частині Авонтнелу. Ерафія досі з ними не розібралася, оскільки вони живуть за болотами, та й невигідно втрачати час на кампанію проти них. Кажуть, що вони поклоняються одній із рас нечисті, як богам, і тримають їх в ув'язненні, щоб вклонятися їм день і ніч."
+  },
+  {
+    "var": "CRAG_M3_epilog",
+    "field": "wrapper_epilog",
+    "en": "I got Sandro his cursed sword, and now he wants me to fight more moldy Necromancers to get some kind of armor made out of bones.  Hah!  It'll be their bones I smash!",
+    "ua": "Я притягнув Сандро його чортів меч. Йому сподобалося, і тепер він хоче, щоб я наваляв якимсь запліснявілим некромантам і дістав йому обладунки, зроблені з кісток. Ха! Чого-чого, а кісток-то я наламав!"
+  },
+  {
+    "var": "CRAG_M3_map_name",
+    "field": "map_map_name",
+    "en": "A Cage in the Hand",
+    "ua": "Каркас і кара"
+  },
+  {
+    "var": "CRAG_M3_map_desc",
+    "field": "map_map_desc",
+    "en": "Crag Hack must acquire the Rib Cage of Power from one of the Liches haunting the swamp of Ferris to win the scenario.  However, if Crag Hack is defeated in combat, the scenario is lost.  Crag Hack is limited to level 20 but will carry his experience, skills and spells on to the next scenario.",
+    "ua": "Краґ Хак повинен заволодіти Каркасом влади, який знаходиться в одного з лічів, що живуть на болотах Феріс. Якщо Краґ Хак буде переможений у битві, він програє. Герой обмежений 20 рівнем. Якщо він переможе, його досвід, первинні та вторинні навички, а також заклинання перейдуть у наступний сценарій."
+  },
+  {
+    "var": "CRAG_M3_obj1_event_name",
+    "field": "map_obj1_event_name",
+    "en": "Bonus money from followers.",
+    "ua": "Bonus money from followers."
+  },
+  {
+    "var": "CRAG_M3_obj1_event_mesg",
+    "field": "map_obj1_event_mesg",
+    "en": "This is money donated from fanatic followers.",
+    "ua": "Ці гроші пожертвувані фанатичними послідовниками."
+  },
+  {
+    "var": "CRAG_M3_obj4_event_name",
+    "field": "map_obj4_event_name",
+    "en": "Goblin tribe tribute.",
+    "ua": "Goblin tribe tribute."
+  },
+  {
+    "var": "CRAG_M3_obj4_event_mesg",
+    "field": "map_obj4_event_mesg",
+    "en": "A large nearby Goblin tribe sends its warriors as tribute to their Barbarian brothers for having helped defend them against attacks by rogue Ogre tribes.",
+    "ua": "Велике плем'я гоблінів, які проживають по сусідству, направляє вам своїх воїнів. Як шана за те, що колись варвари захистили їх від розбійницьких племен огрів."
+  },
+  {
+    "var": "CRAG_M3_obj152_sign_mesg",
+    "field": "map_obj152_sign_mesg",
+    "en": "Gold mine - North\n\nTent - South",
+    "ua": "Шахта із золотом - на північ\n\nНамет - на південь"
+  },
+  {
+    "var": "CRAG_M3_obj221_sign_mesg",
+    "field": "map_obj221_sign_mesg",
+    "en": "Light Blue - Setting sun \n\nDark Blue - Rising sun",
+    "ua": "Блакитний - тем де заходить сонце\n\nТемно-синій - там де сходить сонце"
+  },
+  {
+    "var": "CRAG_M3_obj428_guardian_mesg",
+    "field": "map_obj428_guardian_mesg",
+    "en": "You find a rich gold vein on the side of a mountain.",
+    "ua": "В горі ви знаходите багату золоту жилу."
+  },
+  {
+    "var": "CRAG_M3_obj788_monster_mesg",
+    "field": "map_obj788_monster_mesg",
+    "en": "The Mummies hiss, \"No one shall violate our tombs.\"",
+    "ua": "Мумія шипінням вимовляє: \"Ніхто не повинен турбувати наші гробниці\"."
+  },
+  {
+    "var": "CRAG_M3_obj958_monster_mesg",
+    "field": "map_obj958_monster_mesg",
+    "en": "The Mummies hiss, \"No one shall violate our tombs.\"",
+    "ua": "Мумія шипінням вимовляє: \"Ніхто не повинен турбувати наші гробниці\"."
+  },
+  {
+    "var": "CRAG_M3_obj1027_guardian_mesg",
+    "field": "map_obj1027_guardian_mesg",
+    "en": "It looks as if the Necromancers of the Ebon Hand are barricaded in their main castle!  Perhaps you can deal with these cowards later.  In the meantime, you can continue your quest for the Rib Cage.",
+    "ua": "Схоже, що некромант ордену Чорної Руки забарикадувався в головному замку! Можливо, вам вдасться поквитатись із цими боягузами пізніше. Тим часом ви можете продовжувати свої пошуки Каркаса влади."
+  },
+  {
+    "var": "CRAG_M3_obj1481_monster_mesg",
+    "field": "map_obj1481_monster_mesg",
+    "en": "As the Liches attack you notice one of them wearing armor appearing to be made of human ribs.",
+    "ua": "Коли лічі атакують вас, ви помічаєте на одному з них обладунки, зроблені з людський ребер."
+  },
+  {
+    "var": "CRAG_M3_obj1643_sign_mesg",
+    "field": "map_obj1643_sign_mesg",
+    "en": "South to Ferris Swamp - Beware, it is owned by The Ebon Hand.  They do not like intruders.",
+    "ua": "На південь звідси лежать болота Феріс. Обережно! Це територія ордену Чорної руки. Вони не люблять непроханих гостей."
+  },
+  {
+    "var": "CRAG_M3_obj1645_sign_mesg",
+    "field": "map_obj1645_sign_mesg",
+    "en": "East to Ferris Swamp - Beware, it is owned by The Ebon Hand.  They do not like intruders.",
+    "ua": "До сходу звідси лежать болота Феріс. Обережно! Це територія ордену Чорної руки. Вони не люблять непроханих гостей."
+  },
+  {
+    "var": "CRAG_M3_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Sandro meeting 3",
+    "ua": "Sandro meeting 3"
+  },
+  {
+    "var": "CRAG_M3_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "\"Splendid!  I see you have been successful once again, Mister Hack!\"  Sandro says back at the Wingtail tavern. \n\n\"CRAG Hack,\" you grunt.  \"That stinking Death Knight Marzeth is now a dead Knight.\"\n\n\"Now, the third item I require is the Rib Cage of Power, which is being held by a group of Necromancers somewhere in the small swamp called Ferris.\"  He hands you a small map.  \"It was being kept safe for me in a Sanctuary, but the Necromancers, knowing its importance to my research, burned the Sanctuary to the ground and stole the Rib Cage.  They will do everything in their power to stop you from obtaining it.\"\n\n\"Undead people to fight?  I don't like their smell.  They stink.\"   You frown as you look at the map.\n\nSandro takes out a sack and opens it partially, revealing gold and gems.  \"Think of the rewards I promised and the evil you will have eliminated from Enroth once you have gotten me all four items.\"\n\nYou think a bit and then, slowly, you nod in agreement.  After all, these Necromancers did burn down the one place where a hero ought to be safe.  They should be made to pay for the evil they have done.  However, doing battle for this wizard is turning out not to be as much fun as you had hoped.  Sandro makes you think too much.",
+    "ua": "Ви знову сидите в таверні Вінгтейлу. \"Чудово! Я бачу, ви чудово знаєте свою справу, містер Хак!\" - каже Сандро.\n\n\"Краґ Хак, - бурчите ви, - цей огидний лицар смерті тепер мертвий лицар\"\n\n\"Отже, тепер мені потрібен третій артефакт, Каркас влади. Він знаходиться у некромантів десь у болотах Феріс.\" Він передає вам невелику карту. \"Артефакт чекав мене в Притулку, але некромант, знаючи про те, який він важливий для мого підприємства, спалив Притулок дотла і вкрав Каркас влади. Вони зроблять все можливе, щоб перешкодити вам заволодіти ним.\"\n\n\"Битися із силами нежиті? Мені не подобається їхній запах. Вони смердять.\" Насупившись, ви розглядаєте карту.\n\nСандро дістає мішечок і розкриває його. Він набитий золотом і самоцвітами. \"Подумайте про нагороду, яку ви отримаєте, і про те, що як тільки ви дістанете для мене всі чотири артефакти, зло у Енроті буде знищено.\"\n\nВи ненадовго замислюєтеся, і потім киваєте на знак згоди. Зрештою, ці некроманти спалили дотла святе місце, де герої повинні були відчувати себе в безпеці. Тим не менше, вам все менше і менше подобається виконувати доручення цього чарівника. Сандро змушує вас занадто багато думати."
+  },
+  {
+    "var": "CRAG_M3_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Entering the region.",
+    "ua": "Entering the region."
+  },
+  {
+    "var": "CRAG_M3_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "As you enter region marked on Sandro's map, your first thought is to set up a Stronghold.  The wizard apparently doesn't have any Barbarian friends in this land willing to lend you their home, but luckily your scouts report an occupied Stronghold nearby...",
+    "ua": "Досягнувши місцевості, позначеній на карті, ви першим ділом вирішуєте розжитися замком. Очевидно, тут у чародія немає друзів-варварів, які могли б надати вам свою допомогу. Однак розвідники знайшли неподалік Цитадель, яка, щоправда, вже кимось зайнята..."
+  },
+  {
+    "var": "CRAG_M3_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Send Message",
+    "ua": "Send Message"
+  },
+  {
+    "var": "CRAG_M3_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "You order a scout to send a message to the Necromancers: \"Give up the Rib Cage or Crag Hack will crush your bones to dust just as surely as you burned that Sanctuary to ashes.\"  The messenger runs off and disappears quickly into the underbrush.",
+    "ua": "Ви наказуєте розвіднику передати некроманту наступне послання: \"Поверніть Каркас влади, або Краґ Хак перетворить вас на пил, так само як ви перетворили Притулок на попіл.\" Розвідник швидко зник у підліску."
+  },
+  {
+    "var": "CRAG_M3_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "Reply",
+    "ua": "Reply"
+  },
+  {
+    "var": "CRAG_M3_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "Your messenger returns, bruised, bloody, and maimed, but still alive... barely.  Limping up to you, he hands you a note:  \"We know nothing about a Sanctuary, Mister Hack, but we do know this: you are already dead. You just don't know it yet yourself.\"  You crumble up the paper and grumble that your first name is Crag.  As you shove the crumpled note back into the messenger's hand, the hand falls to the ground.  He's been turned into a zombie!  With one quick stroke of your axe his head comes off.  Damn Necromancers!  You hate them all!",
+    "ua": "Повертається посланець. Він покалічений, його одяг забруднений у крові. Він ледве живий. Насилу дошкандибавши до вас, він передає вам записку: \"Ми не розуміємо, про який Притулок йде мова, містер Хак, але ми знаємо, про вас одну річ, яку ви самі про себе не знаєте - ви труп, містер Хак\". Ви рвете папір на дрібні шматочки, бурмочачи собі під ніс, що ваше ім'я Краґ. Ти сунеш порвану записку назад посланцю, як раптом його рука падає на землю. Його перетворили в зомбі! Одним коротким ударом сокири ви відсікаєте його голову. Прокляті некроманти! Ви сповнені ненависті до них."
+  }
+]

@@ -1,0 +1,116 @@
+[
+  {
+    "var": "GOOD2_M2_prolog",
+    "field": "wrapper_prolog",
+    "en": "A letter from Lucifer Kreegan III, Lord High Commander of Eeofol, arrives at the palace for Queen Catherine. In it he claims that he holds a captive, Catherine's husband, Roland Ironfist of Enroth, and that only a one million gold ransom can save him.",
+    "ua": "Королева Катерина отримала лист від лорда Люцифера Кригана III, верховного командувача Еофола. Він стверджує, що взяв у полон чоловіка Катерини, Роланда Айронфіста, короля Енрота, і вимагає за його життя викуп в один мільйон золотих."
+  },
+  {
+    "var": "GOOD2_M2_epilog",
+    "field": "wrapper_epilog",
+    "en": "My name is Dorrell, ambassador from AvLee. I bring a message from Queen Catherine. After the liberation of Steadwick, a Kreegan envoy appeared before the royal court. He claims they have captive, King Roland Ironfist of Enroth. They are asking for one million gold ransom. We cannot validate this claim. True or not, Queen Catherine is unwilling to pay.  After interrogating the envoy, we learned Roland is held deep inside Eeofol by Clan Kreelah. Locate Clan Kreelah's base of operations and rescue Roland.  In addition to your Erathian army, we will support you from AvLee. This mission is of utmost seriousness. You may rescue Roland, or find yourself the victim of a trap.",
+    "ua": "Я Дорел, авлійський посол. Я привіз вам звістку від королеви Катерини. Незабаром після того як Стедвік був відбитий, перед королевою постав криганський посланець. Він стверджує, що Роланд Айронфіст, король Енрота, томиться у них в полоні. Криганці запросили викуп в один мільйон золотих за його життя. Можливо, вони блефують. Королева Катерина не бажає платити. Допитавши посланця, ми з'ясували, що Роланда тримає в полоні клан Крила, чиї володіння лежать в самому серці Еофола. Ваше завдання - виявити військову базу клану і врятувати Роланда. Ав-Лі готова надати вам військову підтримку, надіславши додаткові війська. Це завдання вкрай небезпечне. Можливо, криганці просто хочуть заманити нас у пастку."
+  },
+  {
+    "var": "GOOD2_M2_map_name",
+    "field": "map_map_name",
+    "en": "Deal With the Devil",
+    "ua": "Угода з дияволом"
+  },
+  {
+    "var": "GOOD2_M2_map_desc",
+    "field": "map_map_desc",
+    "en": "To win, you must capture the city of Kleesive. Some Border Guards can only be passed if a Hero carries a Quest Artifact from a previous scenario, but the artifact beyond the Border Guard will travel with you to the next scenario.",
+    "ua": "Для перемоги вам потрібно захопити місто Клезіо. Пройти деяких Вартових Кордону можна тільки, якщо у Героя є з собою Артефакт \"Пошук пригод\" з попереднього сценарію. Але якщо ви минули Вартових Кордону з цим артефактом, він перейде з вами в наступний сценарій."
+  },
+  {
+    "var": "GOOD2_M2_p2_owned_hero_name",
+    "field": "map_p2_owned_hero_name",
+    "en": "Clan Leader",
+    "ua": "Вождь клану"
+  },
+  {
+    "var": "GOOD2_M2_obj292_hero_name",
+    "field": "map_obj292_hero_name",
+    "en": "Clan Leader",
+    "ua": "Вождь клану"
+  },
+  {
+    "var": "GOOD2_M2_obj529_guardian_mesg",
+    "field": "map_obj529_guardian_mesg",
+    "en": "One of your soldiers cries \"Ambush!\" You have just enough time to draw your weapons.",
+    "ua": "Один із солдатів раптово кричить: \"Засідка!\" Ви лише встигаєте оголити зброю."
+  },
+  {
+    "var": "GOOD2_M2_obj530_guardian_mesg",
+    "field": "map_obj530_guardian_mesg",
+    "en": "One of your soldiers cries \"Ambush!\" You have just enough time to draw your weapons.",
+    "ua": "Один із солдатів раптово кричить: \"Засідка!\" Ви лише встигаєте оголити зброю."
+  },
+  {
+    "var": "GOOD2_M2_obj1073_town_name",
+    "field": "map_obj1073_town_name",
+    "en": "Kleesive",
+    "ua": "Клезіо"
+  },
+  {
+    "var": "GOOD2_M2_obj1267_sign_mesg",
+    "field": "map_obj1267_sign_mesg",
+    "en": "Torg's Tavern",
+    "ua": "Таверна Торгу"
+  },
+  {
+    "var": "GOOD2_M2_obj1647_sign_mesg",
+    "field": "map_obj1647_sign_mesg",
+    "en": "Amnesty Village",
+    "ua": "Село помилування"
+  },
+  {
+    "var": "GOOD2_M2_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Intro part 1",
+    "ua": "Intro part 1"
+  },
+  {
+    "var": "GOOD2_M2_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "A letter from a leader in Eeofol states clearly that King Roland Ironfist is a captive of the Devils, and that only a one million gold ransom can keep him alive.",
+    "ua": "У листі, отриманому від правителя Еофола, недвозначно говориться, що Король Роланд Залізний кулак полонений дияволами. Щоб зберегти йому життя, потрібен викуп в один мільйон золотом."
+  },
+  {
+    "var": "GOOD2_M2_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Intro part 2",
+    "ua": "Intro part 2"
+  },
+  {
+    "var": "GOOD2_M2_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "This claim can not be validated, but a thorough interrogation of the messenger has revealed that Clan Kreelah is holding Roland just inside Eeofol's border. True or not, the Queen simply will not surrender.",
+    "ua": "Точних доказів немає, але ретельний допит посланця показав, що клан Крила утримує Роланда на території Еофолу десь поблизу самого кордону. Правда це чи ні, Королева все одно не відступить."
+  },
+  {
+    "var": "GOOD2_M2_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Intro part 3",
+    "ua": "Intro part 3"
+  },
+  {
+    "var": "GOOD2_M2_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "Clan Kreelah's main fortress, Kleesive, is located just on the other side of the Erathian border. You must capture Kleesive and free King Roland if he is indeed there. It seems unlikely that they would keep a hostage so close to the front lines, so be wary as this may all be an elaborate trap.",
+    "ua": "Головна фортеця клану Крила - Клезіо знаходиться по той бік кордону Ерафії. Ви повинні захопити Клезіо і звільнити Короля Роланда, якщо він дійсно там. Малоймовірно, щоб вони стали тримати заручника так близько до передової, то ж будьте напоготові: не виключено, що це майстерно влаштована пастка."
+  },
+  {
+    "var": "GOOD2_M2_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "Intro part 4",
+    "ua": "Intro part 4"
+  },
+  {
+    "var": "GOOD2_M2_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "Forces from AvLee have come to assist us in this task. Good luck, and may the Light of the Heavens protect you.",
+    "ua": "Вам на допомогу прибули війська з Ав-Лі. Удачі, і нехай Світло небес оберігає вас!"
+  }
+]

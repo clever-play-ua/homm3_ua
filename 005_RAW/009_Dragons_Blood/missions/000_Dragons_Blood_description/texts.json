@@ -1,0 +1,20 @@
+[
+  {
+    "var": "BLOOD_campaign_name",
+    "field": "wrapper_campaign_name",
+    "en": "Dragon's Blood",
+    "ua": "Кров дракона"
+  },
+  {
+    "var": "BLOOD_campaign_desc",
+    "field": "wrapper_campaign_desc",
+    "en": "Overlord Mutare, an ambitious Nighon Lady, wishes to take her rightful place among the ranks of powerful Nighon Lords.  In Nighon, you don't inherit your lands - you take them from those too weak to hold them.  Only the strong are fit to rule, and the bones of the weak litter the tunnels of Nighon.",
+    "ua": "Повелителька Мутар, амбіційна леді з Ніґона, жадає зайняти належне місце в сонмі владних ніґонських лордів. Нехай у вас немає спадкових земель у Ніґоні - ви візьмете їх зі слабких рук тих, хто не може їх утримати!"
+  },
+  {
+    "var": "BLOOD_campaign_epilogue",
+    "field": "wrapper_campaign_epilogue",
+    "en": "Ordwald is dead.  His lackeys are dead.  Their lands and riches belong to me.   Soon, all of Nighon will belong to me.",
+    "ua": "Орвальд мертвий - як і його підлабузники. Їхні землі і багатства тепер у моїй владі. Скоро я приберу до рук весь Ніґон!"
+  }
+]

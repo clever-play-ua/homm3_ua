@@ -1,0 +1,122 @@
+[
+  {
+    "var": "REGIONS_Region Name",
+    "en": "Region Name\tCampaign Name\tScenario Name\tMap Area Name",
+    "ua": "Region Name\tCampaign Name\tScenario Name\tMap Area Name"
+  },
+  {
+    "var": "REGIONS_\"{Southport}\n\nQueen Catherine has departed to elicit military support from King Gavin Magnus of Bracada. Other generals are fanning through the region. Establish a base of operations, rally local militia, determine the extent of the Nighon occupation, and find their invasion route.\"",
+    "en": "\"{Southport}\n\nQueen Catherine has departed to elicit military support from King Gavin Magnus of Bracada. Other generals are fanning through the region. Establish a base of operations, rally local militia, determine the extent of the Nighon occupation, and find their invasion route.\"\tGood1\tG1a\tMap Area 1",
+    "ua": "\"{Сауспорт}\n\nКоролева Катерина залишила країну, щоб просити військової допомоги у Гевіна Магнуса, короля Бракади. Інші полководці прочісують околиці. Облаштуйтеся на місці, зберіть місцеве ополчення, розвідайте, як далеко проникли ніґонські загарбники, та визначте шлях їхнього вторгнення.\"\tGood1\tG1a\tMap Area 1"
+  },
+  {
+    "var": "REGIONS_\"{Angelgate}\n\nReports of Angels near the town of Fair Feather deserve our investigation. If the rumors are true, then we must ensure the safety of this town, and perhaps convince the Angels to ally with us.\"",
+    "en": "\"{Angelgate}\n\nReports of Angels near the town of Fair Feather deserve our investigation. If the rumors are true, then we must ensure the safety of this town, and perhaps convince the Angels to ally with us.\"\tGood1\tG1b\tMap Area 2",
+    "ua": "\"{Ангельська Брама}\n\nЧутки про ангелів неподалік міста Фер-Фезер вимагають перевірки. Якщо вони правдиві, необхідно буде організувати безпеку міста і спробувати схилити ангелів на наш бік.\"\tGood1\tG1b\tMap Area 2"
+  },
+  {
+    "var": "REGIONS_\"{Griffin Cliff}\n\nThe region of Griffin Cliff, the annual breeding grounds from which nearly all of Erathia's Griffin population comes from, is currently under the control of the combined Nighon and Kreegan forces. Generations ago, the Griffins were key to building Erathia, and today they are key to reclaiming it.\"",
+    "en": "\"{Griffin Cliff}\n\nThe region of Griffin Cliff, the annual breeding grounds from which nearly all of Erathia's Griffin population comes from, is currently under the control of the combined Nighon and Kreegan forces. Generations ago, the Griffins were key to building Erathia, and today they are key to reclaiming it.\"\tGood1\tG1c\tMap Area 3",
+    "ua": "\"{Грифонкліф}\n\nОб'єднані сили ніґонців та кріганців утримують Грифонкліф, де щороку гніздяться грифони з усієї Ерафії. Багато поколінь тому грифони стали силою, з допомогою якої вдалося об'єднати розрізнені землі; сьогодні вони - ключ до порятунку країни.\"\tGood1\tG1c\tMap Area 3"
+  },
+  {
+    "var": "REGIONS_\"{Battlestead}\n\nThe first step in our fight to free Erathia is to liberate the capital of Steadwick from Nighon occupation. This will not be an easy task, as the Dungeon Overlords have blocked the mountain passes leading into the Steadwick Valley.\"",
+    "en": "\"{Battlestead}\n\nThe first step in our fight to free Erathia is to liberate the capital of Steadwick from Nighon occupation. This will not be an easy task, as the Dungeon Overlords have blocked the mountain passes leading into the Steadwick Valley.\"\tGood2\tG2a\tMap Area 1",
+    "ua": "\"{Батлстед}\n\nПершою фазою боротьби за визволення Ерафії повинна стати битва за Стедвік, її столицю, яка знаходиться в лапах ніґонських загарбників. Це буде нелегко, оскільки Верховні Лорди підземель завалили гірські перевали, що ведуть у Стедвікську долину.\"\tGood2\tG2a\tMap Area 1"
+  },
+  {
+    "var": "REGIONS_\"{Eeofol}\n\nA letter from Lucifer Kreegan III, Lord High Commander of Eeofol, arrives at the palace for Queen Catherine. In it he claims that he holds a captive, Catherine's husband, Roland Ironfist of Enroth, and that only a one million gold ransom can save him.\"",
+    "en": "\"{Eeofol}\n\nA letter from Lucifer Kreegan III, Lord High Commander of Eeofol, arrives at the palace for Queen Catherine. In it he claims that he holds a captive, Catherine's husband, Roland Ironfist of Enroth, and that only a one million gold ransom can save him.\"\tGood2\tG2b\tMap Area 2",
+    "ua": "\"{Еофол}\n\nКоролева Катерина одержала листа від лорда Люцифера Кригана III, верховного командуючого Еофола. Він стверджує, що взяв у полон чоловіка Катерини, Роланда Айронфіста, короля Енрота, й вимагає за його життя викуп в один мільйон золотих.\"\tGood2\tG2b\tMap Area 2"
+  },
+  {
+    "var": "REGIONS_\"{Marshland & Hillbridge}\n\nAn ambassador from Bracada brings a message from his leader, Gavin Magnus, offering aid in reclaiming Western Erathia from the marauding Tatalian and Krewlish forces. It is time to remind your neighbors of where their borders belong.\"",
+    "en": "\"{Marshland & Hillbridge}\n\nAn ambassador from Bracada brings a message from his leader, Gavin Magnus, offering aid in reclaiming Western Erathia from the marauding Tatalian and Krewlish forces. It is time to remind your neighbors of where their borders belong.\"\tGood2\tG2c\tMap Area 3",
+    "ua": "\"{Маршленд і Гілбридж}\n\nДо двору прибув посол Бракади зі звісткою від короля Гевіна Магнуса: Бракада готова надати Ерафії військову допомогу, щоб повернути західні землі, захоплені мародерами Таталії й Крулода. Пора поставити сусідів на місце.\"\tGood2\tG2c\tMap Area 3"
+  },
+  {
+    "var": "REGIONS_\"{Grainrich & Firecoast}\n\nWe now know how Erathia fell to Nighon and Eeofol. They literally tunneled their way under the Nighon Straits, breaking into the Dwarven Tunnels along Erathia's coast. We must now force them to use the tunnels again - this time as an escape route as we drive them from Erathia's lands forever!\"",
+    "en": "\"{Grainrich & Firecoast}\n\nWe now know how Erathia fell to Nighon and Eeofol. They literally tunneled their way under the Nighon Straits, breaking into the Dwarven Tunnels along Erathia's coast. We must now force them to use the tunnels again - this time as an escape route as we drive them from Erathia's lands forever!\"\tGood2\tG2d\tMap Area 4",
+    "ua": "\"{Грейнрич та Файркоуст}\n\nТепер ми знаємо, яким чином Ніґону й Еофолу вдалося захопити країну. Вони буквально прорили собі шлях під Ніґонською протокою та вломилися у ходи гномів вздовж берегів Ерафії. Доведеться змусити їх пройти цим шляхом ще раз - але тепер їх будуть гнати наші війська! Загарбники повинні назавжди залишити наші землі.\"\tGood2\tG2d\tMap Area 4"
+  },
+  {
+    "var": "REGIONS_\"{Marshland}\n\nYou are offered a mercenary contract with King Tralossk of Tatalia, who once and for all wishes for his nation to be made up of something more than just swampland. With Erathia distracted, he has decided that now is the time to expand Tatalia's borders.\"",
+    "en": "\"{Marshland}\n\nYou are offered a mercenary contract with King Tralossk of Tatalia, who once and for all wishes for his nation to be made up of something more than just swampland. With Erathia distracted, he has decided that now is the time to expand Tatalia's borders.\"\tNeutral1\tN1a\tMap Area 1",
+    "ua": "\"{Маршленд}\n\nКороль Тралоск, правитель Таталії, хоче вивести свою країну з боліт раз і назавжди. Йому знадобиться допомога найманця, й він хоче скористатися вашими послугами. Доки Ерафія зайнята своєю війною, саме час розширити кордони!\"\tNeutral1\tN1a\tMap Area 1"
+  },
+  {
+    "var": "REGIONS_\"{Minewell}\n\nDuke Winston Boragus, leader of Krewlod, has offered you a mercenary contract which will require you to make a series of raids into Erathian territory. The plan is to plunder enough gold to allow the armies of Krewlod to purchase what it would need for... other things.\"",
+    "en": "\"{Minewell}\n\nDuke Winston Boragus, leader of Krewlod, has offered you a mercenary contract which will require you to make a series of raids into Erathian territory. The plan is to plunder enough gold to allow the armies of Krewlod to purchase what it would need for... other things.\"\tNeutral1\tN1b\tMap Area 2",
+    "ua": "\"{Майнвел}\n\nГерцог Вінстон Борагус, правитель Крулода, також потребує послуг найманців. Він бажає, щоб ви очолили ряд вилазок на землі Ерафії. Необхідно награбувати достатньо золота, щоб забезпечити крулодське військо усім необхідним для… інших справ.\"\tNeutral1\tN1b\tMap Area 2"
+  },
+  {
+    "var": "REGIONS_\"{Hillbridge}\n\nBoth King Tralossk of Tatalia and Duke Boragus of Krewlod are seeking your services. Both nations are poised to claim the last strip of land between their countries. Ironically, this land has little value. You must decide which nation to serve. The choice is yours alone.\"",
+    "en": "\"{Hillbridge}\n\nBoth King Tralossk of Tatalia and Duke Boragus of Krewlod are seeking your services. Both nations are poised to claim the last strip of land between their countries. Ironically, this land has little value. You must decide which nation to serve. The choice is yours alone.\"\tNeutral1\tN1c\tMap Area 3",
+    "ua": "\"{Гілбридж}\n\nТепер ваших послуг прагнуть і король Таталії Тралоск, і правитель Крулода герцог Вінстон Борагус. Вони воюють поміж собою за останній клаптик землі, що лежить поміж їхніми кордонами. Іронія в тому, що ця земля сама собою нічого не варта. Вирішуйте, кому ви оберете служити. Все у ваших руках.\"\tNeutral1\tN1c\tMap Area 3"
+  },
+  {
+    "var": "REGIONS_\"{Forestlow}\n\nA Necromancer is attempting to reach an Erathian outpost with proof of who killed King Gryphonheart. He is currently safe, but his way is blocked by undead loyal to their new King. You must escort him on the last leg of the journey.\"",
+    "en": "\"{Forestlow}\n\nA Necromancer is attempting to reach an Erathian outpost with proof of who killed King Gryphonheart. He is currently safe, but his way is blocked by undead loyal to their new King. You must escort him on the last leg of the journey.\"\tGood3\tG3a\tMap Area 1",
+    "ua": "\"{Форестлоу}\n\nДехто намагається пробитися до аванпосту ерафійців. Він везе їм докази, що викривають убивцю короля Грифонхарта. Поки посланець у безпеці, однак нежить, вірна новому королю, перегороджує йому шлях. Вам належить супроводжувати його на останньому відрізку шляху.\"\tGood3\tG3a\tMap Area 1"
+  },
+  {
+    "var": "REGIONS_\"{Emerald Hills to Woodgrove}\n\nYou command the combined armies of Erathia, AvLee, and Bracada, plus the Necromancers that have chosen to fight with you against King Gryphonheart. The undead presence is strong, but you must prevail!\"",
+    "en": "\"{Emerald Hills to Woodgrove}\n\nYou command the combined armies of Erathia, AvLee, and Bracada, plus the Necromancers that have chosen to fight with you against King Gryphonheart. The undead presence is strong, but you must prevail!\"\tGood3\tG3b\tMap Area 2",
+    "ua": "\"{Смарагдові Пагорби - Вудгрув}\n\nВи очолюєте об'єднанні сили Ерафії, Ав-Лі, Бракади й некромантів, що вирішили виступити проти короля-мерця Грифонхарта. Орди нежиті сильні, та від вас чекають лише перемоги!\"\tGood3\tG3b\tMap Area 2"
+  },
+  {
+    "var": "REGIONS_\"{Marble Garden}\n\nThis is the final battle. Our presence has already begun to restore life to the land, but we must destroy this last fortress of death that King Gryphonheart has retreated to. It is time to return the dead to their graves.\"",
+    "en": "\"{Marble Garden}\n\nThis is the final battle. Our presence has already begun to restore life to the land, but we must destroy this last fortress of death that King Gryphonheart has retreated to. It is time to return the dead to their graves.\"\tGood3\tG3c\tMap Area 3",
+    "ua": "\"{Мармуровий сад}\n\nНастав час останнього бою. Одна ваша присутність знову наповнює землі життям. Залишається розгромити останній оплот смерті, де знайшов прихисток король Грифонхарт. Пора загнати мерців назад у могили!\"\tGood3\tG3c\tMap Area 3"
+  },
+  {
+    "var": "REGIONS_\"{Rionpoint}\n\nBefore Erathia has a chance to call upon the elves of AvLee for assistance, we have decided to strike at the heart of AvLee's strength - the Gold Dragon Queen. By eliminating the elves' strongest ally, they will be unable to lend aid to Erathia.\"",
+    "en": "\"{Rionpoint}\n\nBefore Erathia has a chance to call upon the elves of AvLee for assistance, we have decided to strike at the heart of AvLee's strength - the Gold Dragon Queen. By eliminating the elves' strongest ally, they will be unable to lend aid to Erathia.\"\tEvil1\tE1a\tMap Area 1",
+    "ua": "\"{Ріонпоінт}\n\nПоки Ерафія не встигла закликати на допомогу Ав-Лі, ми вирішили вдарити ельфів у саме серце - вбити Королеву золотих драконів. Якщо нам вдасться таким чином усунути найсильнішого союзника ельфів, їм не буде що запропонувати ерафійцям.\"\tEvil1\tE1a\tMap Area 1"
+  },
+  {
+    "var": "REGIONS_\"{Grainrich}\n\nOur forces will cover most of the distance to the Erathian capitol by using underground tunnels. To maintain the element of surprise, you must attack any Erathian settlement you find. Use the vast network of caves in this area to accomplish this goal.\"",
+    "en": "\"{Grainrich}\n\nOur forces will cover most of the distance to the Erathian capitol by using underground tunnels. To maintain the element of surprise, you must attack any Erathian settlement you find. Use the vast network of caves in this area to accomplish this goal.\"\tEvil1\tE1b\tMap Area 2",
+    "ua": "\"{Грейнріч}\n\nБільшу частину шляху до столиці Ерафії наші війська подолають підземними тунелями. Щоб забезпечити елемент несподіванки, знищуйте всіх в кожному поселенні на своєму шляху. Використовуйте розгалужену систему підземних печер.\"\tEvil1\tE1b\tMap Area 2"
+  },
+  {
+    "var": "REGIONS_\"{Battlestead}\n\nAssault the Erathian capital of Steadwick. This won't be easy, as the capital is easily and well defended. To make matters worse, the force led by Queen Catherine is on the move. We must capture Steadwick before she arrives!\"",
+    "en": "\"{Battlestead}\n\nAssault the Erathian capital of Steadwick. This won't be easy, as the capital is easily and well defended. To make matters worse, the force led by Queen Catherine is on the move. We must capture Steadwick before she arrives!\"\tEvil1\tE1c\tMap Area 3",
+    "ua": "\"{Батлстед}\n\nПора захопити столицю Ерафії, Стедвік. Завдання не з легких: місто охороняє потужний гарнізон, здатний відбити напад будь-якого ворога. Що гірше, військо королеви Катерини вже на шляху сюди. Потрібно встигнути захопити Стедвік, поки не прийшло підкріплення!\"\tEvil1\tE1c\tMap Area 3"
+  },
+  {
+    "var": "REGIONS_\"{Marble Garden}\n\nKing Gryphonheart, the man who banished us from Erathia, is dead. The Nighon and Eeofol invasion has given us the gift of death. At last we can build our armies and invade Erathia ourselves. First, however, we need a tactician. You must find the tomb of King Gryphonheart.\"",
+    "en": "\"{Marble Garden}\n\nKing Gryphonheart, the man who banished us from Erathia, is dead. The Nighon and Eeofol invasion has given us the gift of death. At last we can build our armies and invade Erathia ourselves. First, however, we need a tactician. You must find the tomb of King Gryphonheart.\"\tEvil2\tE2a\tMap Area 1",
+    "ua": "\"{Мармуровий сад}\n\nКороль Грифонхарт, смертний, що вигнав нас з Ерафії, мертвий. Вторгнення Ніґона й Еофола обдарувало нас цілим військом нежиті. Нарешті ми можемо зібрати достатньо військ, щоб напасти на Ерафію! Та для цього нам потрібний хороший стратег. Розшукайте могилу короля Грифонхарта.\"\tEvil2\tE2a\tMap Area 1"
+  },
+  {
+    "var": "REGIONS_\"{Emerald Hills}\n\nWe have found a perfect area along Erathia's border from which we can harvest enough creatures for our armies without attracting much notice from the Erathian Military. Build an army, but be quick - we need those troops immediately.\"",
+    "en": "\"{Emerald Hills}\n\nWe have found a perfect area along Erathia's border from which we can harvest enough creatures for our armies without attracting much notice from the Erathian Military. Build an army, but be quick - we need those troops immediately.\"\tEvil2\tE2b\tMap Area 2",
+    "ua": "\"{Смарагдові Пагорби}\n\nМи виявили ідеальне місце біля самого кордону Ерафії, де можна збирати відмінний урожай мерців, не привертаючи уваги ерафійських військ. Наберіть там військо нежиті, та якнайшвидше - ми виступаємо в похід.\"\tEvil2\tE2b\tMap Area 2"
+  },
+  {
+    "var": "REGIONS_\"{Strongwillow & Woodgrove}\n\nA rogue Death Knight does not wish to take part in the glory that will be our invasion of Erathia. He believes that by remaining out of the fighting, his lands will be spared from any counterattack by the Erathians. It is time we taught him a small lesson regarding obedience.\"",
+    "en": "\"{Strongwillow & Woodgrove}\n\nA rogue Death Knight does not wish to take part in the glory that will be our invasion of Erathia. He believes that by remaining out of the fighting, his lands will be spared from any counterattack by the Erathians. It is time we taught him a small lesson regarding obedience.\"\tEvil2\tE2c\tMap Area 3",
+    "ua": "\"{Стронгвілоу та Вудгрув}\n\nОдин свавільний лицар смерті не бажає приєднатися до нашого славного походу. Він розраховує, що його нейтралітет допоможе йому вберегти свої володіння від неминучого удару ерафійців. Пора навчити його покори.\"\tEvil2\tE2c\tMap Area 3"
+  },
+  {
+    "var": "REGIONS_\"{Forestbury}\n\nThe time has come. The lich King Gryphonheart has chosen this as the moment of attack. Forces from across Deyja will pour into Erathia and overwhelm them. The point of your attack was chosen by King Gryphonheart himself. You have vowed not to fail.\"",
+    "en": "\"{Forestbury}\n\nThe time has come. The lich King Gryphonheart has chosen this as the moment of attack. Forces from across Deyja will pour into Erathia and overwhelm them. The point of your attack was chosen by King Gryphonheart himself. You have vowed not to fail.\"\tEvil2\tE2d\tMap Area 4",
+    "ua": "\"{Форестбері}\n\nЧас прийшов. Мертвий король Грифонхарт вибрав цей час для вторгнення. Скоро війська Деї хлинуть в Ерафію й зімнуть її. Ціль вашого маневру намічена самим Грифонхартом. Ви поклялися не підвести його.\"\tEvil2\tE2d\tMap Area 4"
+  },
+  {
+    "var": "REGIONS_\"{Cloverfield}\n\nBefore we can declare our independence we will need a symbol. That symbol is the Grail, which was lost in this area centuries ago. We must find it, or our plan will dissolve even before we can set it in motion. You have but three months to locate the Grail.\"",
+    "en": "\"{Cloverfield}\n\nBefore we can declare our independence we will need a symbol. That symbol is the Grail, which was lost in this area centuries ago. We must find it, or our plan will dissolve even before we can set it in motion. You have but three months to locate the Grail.\"\tSecret1\tS1a\tMap Area 1",
+    "ua": "\"{Кловерфілд}\n\nПерш ніж ми зможемо проголосити свою незалежність, нам потрібен символ, за яким піде народ. Цей символ - Грааль, втрачений віки тому десь у цих землях. Ми повинні його відшукати, інакше всі наші плани зруйнуються, навіть не розпочавши втілюватися у життя. У нас лише три місяці на пошуки.\"\tSecret1\tS1a\tMap Area 1"
+  },
+  {
+    "var": "REGIONS_\"{Forestdale}\n\nThe journey to Welnin has not been easy, but it is the last leg of the journey that will be the most difficult. The Ranger, Ryland, has the Grail, and must elude the forces loyal to Erathia and AvLee to reach Welnin. Once there, he must order the construction of a permanent home for the Grail.\"",
+    "en": "\"{Forestdale}\n\nThe journey to Welnin has not been easy, but it is the last leg of the journey that will be the most difficult. The Ranger, Ryland, has the Grail, and must elude the forces loyal to Erathia and AvLee to reach Welnin. Once there, he must order the construction of a permanent home for the Grail.\"\tSecret1\tS1b\tMap Area 2",
+    "ua": "\"{Форестдейл}\n\nШлях у Вельнін був не з легких, але останній відрізок буде ще складнішим. Грааль везе рейнджер Ріланд. Він повинен пробратися повз застави Ерафії й Ав-Лі до Вельніну й віддати наказ про побудову святилища для Грааля.\"\tSecret1\tS1b\tMap Area 2"
+  },
+  {
+    "var": "REGIONS_\"{Mosswood}\n\nThe Grail has reached Welnin, but now we must build this city into a capital. Armies from Erathia and AvLee shall attack us from all directions. Soon we shall prove that the Contested Lands are theirs no more!\"",
+    "en": "\"{Mosswood}\n\nThe Grail has reached Welnin, but now we must build this city into a capital. Armies from Erathia and AvLee shall attack us from all directions. Soon we shall prove that the Contested Lands are theirs no more!\"\tSecret1\tS1c\tMap Area 3",
+    "ua": "\"{Мосвуд}\n\nГрааль щасливо досяг Вельніна. Залишається перетворити це поселення в столичне місто. З всіх боків на нас рухаються війська Ерафії й Ав-Лі. Дуже швидко всі зрозуміють, що Спірні землі незалежні від нині й назавжди!\"\tSecret1\tS1c\tMap Area 3"
+  }
+]

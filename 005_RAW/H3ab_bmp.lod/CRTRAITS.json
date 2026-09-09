@@ -1,0 +1,927 @@
+[
+  {
+    "var": "CRTRAITS_Name",
+    "en": "Name\t\tCost\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tDamage\t\t\t\tAdv. Map\t\t\t",
+    "ua": "Name\t\tCost\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tDamage\t\t\t\tAdv. Map\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_Singular",
+    "en": "Singular\tPlural\tWood\tMercury\tOre\tSulfur\tCrystal\tGems\tGold\tFight Value\tAI Value\tGrowth\tHorde Growth\tHit Points\tSpeed\tAttack\tDefense\tLow\tHigh\tShots\tSpells\tLow\tHigh\tAbility Text\t\"Attributes (Reference only, do not change these values)\"",
+    "ua": "Singular\tPlural\tWood\tMercury\tOre\tSulfur\tCrystal\tGems\tGold\tFight Value\tAI Value\tGrowth\tHorde Growth\tHit Points\tSpeed\tAttack\tDefense\tLow\tHigh\tShots\tSpells\tLow\tHigh\tAbility Text\t\"Attributes (Reference only, do not change these values)\""
+  },
+  {
+    "var": "CRTRAITS_Ñïèñíèê",
+    "en": "Ñïèñíèê\tÑïèñíèê³â\t0\t0\t0\t0\t0\t0\t60\t100\t80\t14\t0\t10\t4\t4\t5\t1\t3\t0\t0\t20\t50\t\t0",
+    "ua": "Списник\tСписників\t0\t0\t0\t0\t0\t0\t60\t100\t80\t14\t0\t10\t4\t4\t5\t1\t3\t0\t0\t20\t50\t\t0"
+  },
+  {
+    "var": "CRTRAITS_Àëåáàðäíèê",
+    "en": "Àëåáàðäíèê\tÀëåáàðäíèê³â\t0\t0\t0\t0\t0\t0\t75\t115\t115\t14\t0\t10\t5\t6\t5\t2\t3\t0\t0\t20\t30\t\t0",
+    "ua": "Алебардник\tАлебардників\t0\t0\t0\t0\t0\t0\t75\t115\t115\t14\t0\t10\t5\t6\t5\t2\t3\t0\t0\t20\t30\t\t0"
+  },
+  {
+    "var": "CRTRAITS_Ëó÷íèê",
+    "en": "Ëó÷íèê\tËó÷íèê³â\t0\t0\t0\t0\t0\t0\t100\t115\t126\t9\t0\t10\t4\t6\t3\t2\t3\t12\t0\t16\t30\t\tSHOOTING_ARMY",
+    "ua": "Лучник\tЛучників\t0\t0\t0\t0\t0\t0\t100\t115\t126\t9\t0\t10\t4\t6\t3\t2\t3\t12\t0\t16\t30\t\tSHOOTING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Ñòð³ëåöü",
+    "en": "Ñòð³ëåöü\tÑòð³ëüö³â\t0\t0\t0\t0\t0\t0\t150\t115\t184\t9\t0\t10\t6\t6\t3\t2\t3\t24\t0\t16\t25\tÑòð³ëÿº äâ³÷³.\tconst_two_attacks | SHOOTING_ARMY",
+    "ua": "Стрілець\tСтрільців\t0\t0\t0\t0\t0\t0\t150\t115\t184\t9\t0\t10\t6\t6\t3\t2\t3\t24\t0\t16\t25\tСтріляє двічі.\tconst_two_attacks | SHOOTING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Ãðèôîí",
+    "en": "Ãðèôîí\tÃðèôîí³â\t0\t0\t0\t0\t0\t0\t200\t324\t351\t7\t3\t25\t6\t8\t8\t3\t6\t0\t0\t12\t25\tÂ³äïîâ³äàº äâ³÷³.\tDOUBLE_WIDE | FLYING_ARMY",
+    "ua": "Грифон\tГрифонів\t0\t0\t0\t0\t0\t0\t200\t324\t351\t7\t3\t25\t6\t8\t8\t3\t6\t0\t0\t12\t25\tВідповідає двічі.\tDOUBLE_WIDE | FLYING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Êîðîë³âñüêèé ãðèôîí",
+    "en": "Êîðîë³âñüêèé ãðèôîí\tÊîðîë³âñüêèõ ãðèôîí³â\t0\t0\t0\t0\t0\t0\t240\t364\t448\t7\t3\t25\t9\t9\t9\t3\t6\t0\t0\t12\t20\tÇàâæäè â³äïîâ³äàº.\tDOUBLE_WIDE|FLYING_ARMY",
+    "ua": "Королівський грифон\tКоролівських грифонів\t0\t0\t0\t0\t0\t0\t240\t364\t448\t7\t3\t25\t9\t9\t9\t3\t6\t0\t0\t12\t20\tЗавжди відповідає.\tDOUBLE_WIDE|FLYING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Ìå÷íèê",
+    "en": "Ìå÷íèê\tÌå÷íèê³â\t0\t0\t0\t0\t0\t0\t300\t445\t445\t4\t0\t35\t5\t10\t12\t6\t9\t0\t0\t10\t20\t\t0",
+    "ua": "Мечник\tМечників\t0\t0\t0\t0\t0\t0\t300\t445\t445\t4\t0\t35\t5\t10\t12\t6\t9\t0\t0\t10\t20\t\t0"
+  },
+  {
+    "var": "CRTRAITS_Õðåñòîíîñåöü",
+    "en": "Õðåñòîíîñåöü\tÕðåñòîíîñö³â\t0\t0\t0\t0\t0\t0\t400\t588\t588\t4\t0\t35\t6\t12\t12\t7\t10\t0\t0\t10\t16\tÁ'º äâ³÷³.\tconst_two_attacks",
+    "ua": "Хрестоносець\tХрестоносців\t0\t0\t0\t0\t0\t0\t400\t588\t588\t4\t0\t35\t6\t12\t12\t7\t10\t0\t0\t10\t16\tБ'є двічі.\tconst_two_attacks"
+  },
+  {
+    "var": "CRTRAITS_Ìîíàõ",
+    "en": "Ìîíàõ\tÌîíàõ³â\t0\t0\t0\t0\t0\t0\t400\t485\t485\t3\t0\t30\t5\t12\t7\t10\t12\t12\t0\t8\t16\t\tSHOOTING_ARMY",
+    "ua": "Монах\tМонахів\t0\t0\t0\t0\t0\t0\t400\t485\t485\t3\t0\t30\t5\t12\t7\t10\t12\t12\t0\t8\t16\t\tSHOOTING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Ôàíàòèê",
+    "en": "Ôàíàòèê\tÔàíàòèê³â\t0\t0\t0\t0\t0\t0\t450\t500\t750\t3\t0\t30\t7\t12\t10\t10\t12\t24\t0\t8\t12\tÍåìàº øòðàôó çà áëèæí³é á³é.\tSHOOTING_ARMY | const_no_melee_penalty",
+    "ua": "Фанатик\tФанатиків\t0\t0\t0\t0\t0\t0\t450\t500\t750\t3\t0\t30\t7\t12\t10\t10\t12\t24\t0\t8\t12\tНемає штрафу за ближній бій.\tSHOOTING_ARMY | const_no_melee_penalty"
+  },
+  {
+    "var": "CRTRAITS_Âåðøíèê",
+    "en": "Âåðøíèê\tÂåðøíèê³â\t0\t0\t0\t0\t0\t0\t1000\t1668\t1946\t2\t0\t100\t7\t15\t15\t15\t25\t0\t0\t5\t12\tÒóðí³ðíà ïåðåâàãà.\tDOUBLE_WIDE | const_jousting",
+    "ua": "Вершник\tВершників\t0\t0\t0\t0\t0\t0\t1000\t1668\t1946\t2\t0\t100\t7\t15\t15\t15\t25\t0\t0\t5\t12\tТурнірна перевага.\tDOUBLE_WIDE | const_jousting"
+  },
+  {
+    "var": "CRTRAITS_×åìï³îí",
+    "en": "×åìï³îí\t×åìï³îí³â\t0\t0\t0\t0\t0\t0\t1200\t1800\t2100\t2\t0\t100\t9\t16\t16\t20\t25\t0\t0\t5\t10\tÒóðí³ðíà ïåðåâàãà.\tDOUBLE_WIDE | const_jousting",
+    "ua": "Чемпіон\tЧемпіонів\t0\t0\t0\t0\t0\t0\t1200\t1800\t2100\t2\t0\t100\t9\t16\t16\t20\t25\t0\t0\t5\t10\tТурнірна перевага.\tDOUBLE_WIDE | const_jousting"
+  },
+  {
+    "var": "CRTRAITS_Àíãåë",
+    "en": "Àíãåë\tÀíãåë³â\t0\t0\t0\t0\t0\t1\t3000\t3585\t5019\t1\t0\t200\t12\t20\t20\t50\t50\t0\t0\t4\t10\tÍåíàâèäèòü äèÿâîë³â.\tFLYING_ARMY | const_raises_morale | KING_2",
+    "ua": "Ангел\tАнгелів\t0\t0\t0\t0\t0\t1\t3000\t3585\t5019\t1\t0\t200\t12\t20\t20\t50\t50\t0\t0\t4\t10\tНенавидить дияволів.\tFLYING_ARMY | const_raises_morale | KING_2"
+  },
+  {
+    "var": "CRTRAITS_Àðõàíãåë",
+    "en": "Àðõàíãåë\tÀðõàíãåë³â\t0\t0\t0\t0\t0\t3\t5000\t6033\t8776\t1\t0\t250\t18\t30\t30\t50\t50\t0\t1\t3\t8\t\"+1 äî ìîðàë³.  Íåíàâèäèòü äèÿâîë³â.\nÂ³äðîäæåííÿ ñîþç-ê³â.\"\tDOUBLE_WIDE | FLYING_ARMY | const_raises_morale | KING_2",
+    "ua": "Архангел\tАрхангелів\t0\t0\t0\t0\t0\t3\t5000\t6033\t8776\t1\t0\t250\t18\t30\t30\t50\t50\t0\t1\t3\t8\t\"+1 до моралі.  Ненавидить дияволів.\nВідродження союз-ків.\"\tDOUBLE_WIDE | FLYING_ARMY | const_raises_morale | KING_2"
+  },
+  {
+    "var": "CRTRAITS_17",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_18",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_19",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_Êåíòàâð",
+    "en": "Êåíòàâð\tÊåíòàâð³â\t0\t0\t0\t0\t0\t0\t70\t100\t100\t14\t0\t8\t6\t5\t3\t2\t3\t0\t0\t20\t50\t\tDOUBLE_WIDE",
+    "ua": "Кентавр\tКентаврів\t0\t0\t0\t0\t0\t0\t70\t100\t100\t14\t0\t8\t6\t5\t3\t2\t3\t0\t0\t20\t50\t\tDOUBLE_WIDE"
+  },
+  {
+    "var": "CRTRAITS_Êàï³òàí êåíòàâð³â",
+    "en": "Êàï³òàí êåíòàâð³â\tÊàï³òàí³â êåíòàâð³â\t0\t0\t0\t0\t0\t0\t90\t115\t138\t14\t0\t10\t8\t6\t3\t2\t3\t0\t0\t20\t30\t\tDOUBLE_WIDE",
+    "ua": "Капітан кентаврів\tКапітанів кентаврів\t0\t0\t0\t0\t0\t0\t90\t115\t138\t14\t0\t10\t8\t6\t3\t2\t3\t0\t0\t20\t30\t\tDOUBLE_WIDE"
+  },
+  {
+    "var": "CRTRAITS_Ãíîì",
+    "en": "Ãíîì\tÃíîì³â\t0\t0\t0\t0\t0\t0\t120\t194\t138\t8\t4\t20\t3\t6\t7\t2\t4\t0\t0\t16\t30\t20% îï³ð ìàã³¿.\t0",
+    "ua": "Гном\tГномів\t0\t0\t0\t0\t0\t0\t120\t194\t138\t8\t4\t20\t3\t6\t7\t2\t4\t0\t0\t16\t30\t20% опір магії.\t0"
+  },
+  {
+    "var": "CRTRAITS_Áîéîâèé ãíîì",
+    "en": "Áîéîâèé ãíîì\tÁîéîâèõ ãíîì³â\t0\t0\t0\t0\t0\t0\t150\t209\t209\t8\t4\t20\t5\t7\t7\t2\t4\t0\t0\t16\t25\t40% îï³ð ìàã³¿.\t0",
+    "ua": "Бойовий гном\tБойових гномів\t0\t0\t0\t0\t0\t0\t150\t209\t209\t8\t4\t20\t5\t7\t7\t2\t4\t0\t0\t16\t25\t40% опір магії.\t0"
+  },
+  {
+    "var": "CRTRAITS_Ë³ñîâèé åëüô",
+    "en": "Ë³ñîâèé åëüô\tË³ñîâèõ åëüô³â\t0\t0\t0\t0\t0\t0\t200\t195\t234\t7\t0\t15\t6\t9\t5\t3\t5\t24\t0\t12\t25\t\tSHOOTING_ARMY",
+    "ua": "Лісовий ельф\tЛісових ельфів\t0\t0\t0\t0\t0\t0\t200\t195\t234\t7\t0\t15\t6\t9\t5\t3\t5\t24\t0\t12\t25\t\tSHOOTING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Âèùèé åëüô",
+    "en": "Âèùèé åëüô\tÂèùèõ åëüô³â\t0\t0\t0\t0\t0\t0\t225\t195\t331\t7\t0\t15\t7\t9\t5\t3\t5\t24\t0\t12\t20\tÑòð³ëÿº äâ³÷³.\tSHOOTING_ARMY | const_two_attacks",
+    "ua": "Вищий ельф\tВищих ельфів\t0\t0\t0\t0\t0\t0\t225\t195\t331\t7\t0\t15\t7\t9\t5\t3\t5\t24\t0\t12\t20\tСтріляє двічі.\tSHOOTING_ARMY | const_two_attacks"
+  },
+  {
+    "var": "CRTRAITS_Ïåãàñ",
+    "en": "Ïåãàñ\tÏåãàñ³â\t0\t0\t0\t0\t0\t0\t250\t407\t518\t5\t0\t30\t8\t9\t8\t5\t9\t0\t0\t10\t20\tÃëóøèòåëü ìàã³¿.\tDOUBLE_WIDE | FLYING_ARMY",
+    "ua": "Пегас\tПегасів\t0\t0\t0\t0\t0\t0\t250\t407\t518\t5\t0\t30\t8\t9\t8\t5\t9\t0\t0\t10\t20\tГлушитель магії.\tDOUBLE_WIDE | FLYING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Ñð³áíèé ïåãàñ",
+    "en": "Ñð³áíèé ïåãàñ\tÑð³áíèõ ïåãàñ³â\t0\t0\t0\t0\t0\t0\t275\t418\t532\t5\t0\t30\t12\t9\t10\t5\t9\t0\t0\t10\t16\tÃëóøèòåëü ìàã³¿.\tDOUBLE_WIDE | FLYING_ARMY",
+    "ua": "Срібний пегас\tСрібних пегасів\t0\t0\t0\t0\t0\t0\t275\t418\t532\t5\t0\t30\t12\t9\t10\t5\t9\t0\t0\t10\t16\tГлушитель магії.\tDOUBLE_WIDE | FLYING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Âàðòîâèé äåíäðî³ä³â",
+    "en": "Âàðòîâèé äåíäðî³ä³â\tÂàðòîâèõ äåíäðî³ä³â\t0\t0\t0\t0\t0\t0\t350\t690\t517\t3\t2\t55\t3\t9\t12\t10\t14\t0\t0\t8\t16\tÇíåðóõîìëþº âîðîãà.\t0",
+    "ua": "Вартовий дендроідів\tВартових дендроідів\t0\t0\t0\t0\t0\t0\t350\t690\t517\t3\t2\t55\t3\t9\t12\t10\t14\t0\t0\t8\t16\tЗнерухомлює ворога.\t0"
+  },
+  {
+    "var": "CRTRAITS_Ñîëäàò äåíäðî³ä³â",
+    "en": "Ñîëäàò äåíäðî³ä³â\tÑîëäàò³â äåíäðî³ä³â\t0\t0\t0\t0\t0\t0\t425\t765\t803\t3\t2\t65\t4\t9\t12\t10\t14\t0\t0\t8\t12\tÇíåðóõîìëþº âîðîãà.\t0",
+    "ua": "Солдат дендроідів\tСолдатів дендроідів\t0\t0\t0\t0\t0\t0\t425\t765\t803\t3\t2\t65\t4\t9\t12\t10\t14\t0\t0\t8\t12\tЗнерухомлює ворога.\t0"
+  },
+  {
+    "var": "CRTRAITS_ªäèíîð³ã",
+    "en": "ªäèíîð³ã\tªäèíîðîã³â\t0\t0\t0\t0\t0\t0\t850\t1548\t1806\t2\t0\t90\t7\t15\t14\t18\t22\t0\t0\t5\t12\tÀóðà îïîðó ìàã³¿. Îñë³ïëþþ÷à àòàêà.\tDOUBLE_WIDE",
+    "ua": "Єдиноріг\tЄдинорогів\t0\t0\t0\t0\t0\t0\t850\t1548\t1806\t2\t0\t90\t7\t15\t14\t18\t22\t0\t0\t5\t12\tАура опору магії. Осліплююча атака.\tDOUBLE_WIDE"
+  },
+  {
+    "var": "CRTRAITS_Âîéîâíè÷èé ºäèíîð³ã",
+    "en": "Âîéîâíè÷èé ºäèíîð³ã\tÂîéîâíè÷èõ ºäèíîðîã³â\t0\t0\t0\t0\t0\t0\t950\t1740\t2030\t2\t0\t110\t9\t15\t14\t18\t22\t0\t0\t5\t10\tÀóðà îïîðó ìàã³¿. Îñë³ïëþþ÷à àòàêà.\tDOUBLE_WIDE",
+    "ua": "Войовничий єдиноріг\tВойовничих єдинорогів\t0\t0\t0\t0\t0\t0\t950\t1740\t2030\t2\t0\t110\t9\t15\t14\t18\t22\t0\t0\t5\t10\tАура опору магії. Осліплююча атака.\tDOUBLE_WIDE"
+  },
+  {
+    "var": "CRTRAITS_Çåëåíèé äðàêîí",
+    "en": "Çåëåíèé äðàêîí\tÇåëåíèõ äðàêîí³â\t0\t0\t0\t0\t1\t0\t2400\t3654\t4872\t1\t0\t180\t10\t18\t18\t40\t50\t0\t0\t4\t10\t²ìóí³òåò äî çàêëÿòü 1-3 ð³âíÿ.\tDOUBLE_WIDE | FLYING_ARMY | KING_1",
+    "ua": "Зелений дракон\tЗелених драконів\t0\t0\t0\t0\t1\t0\t2400\t3654\t4872\t1\t0\t180\t10\t18\t18\t40\t50\t0\t0\t4\t10\tІмунітет до заклять 1-3 рівня.\tDOUBLE_WIDE | FLYING_ARMY | KING_1"
+  },
+  {
+    "var": "CRTRAITS_Çîëîòèé äðàêîí",
+    "en": "Çîëîòèé äðàêîí\tÇîëîòèõ äðàêîí³â\t0\t0\t0\t0\t2\t0\t4000\t6220\t8613\t1\t0\t250\t16\t27\t27\t40\t50\t0\t0\t3\t8\t²ìóí³òåò äî çàêëÿòü 1-4 ð³âíÿ.\tDOUBLE_WIDE | FLYING_ARMY | KING_1",
+    "ua": "Золотий дракон\tЗолотих драконів\t0\t0\t0\t0\t2\t0\t4000\t6220\t8613\t1\t0\t250\t16\t27\t27\t40\t50\t0\t0\t3\t8\tІмунітет до заклять 1-4 рівня.\tDOUBLE_WIDE | FLYING_ARMY | KING_1"
+  },
+  {
+    "var": "CRTRAITS_34",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_35",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_36",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_Ãðåìë³í",
+    "en": "Ãðåìë³í\tÃðåìë³í³â\t0\t0\t0\t0\t0\t0\t30\t55\t44\t16\t0\t4\t4\t3\t3\t1\t2\t0\t0\t20\t50\t\t0",
+    "ua": "Гремлін\tГремлінів\t0\t0\t0\t0\t0\t0\t30\t55\t44\t16\t0\t4\t4\t3\t3\t1\t2\t0\t0\t20\t50\t\t0"
+  },
+  {
+    "var": "CRTRAITS_Ìàéñòåð ãðåìë³í³â",
+    "en": "Ìàéñòåð ãðåìë³í³â\tÌàéñòð³â ãðåìë³í³â\t0\t0\t0\t0\t0\t0\t40\t55\t66\t16\t0\t4\t5\t4\t4\t1\t2\t8\t0\t20\t30\tÀòàêóº íà â³äñòàí³.\tSHOOTING_ARMY",
+    "ua": "Майстер гремлінів\tМайстрів гремлінів\t0\t0\t0\t0\t0\t0\t40\t55\t66\t16\t0\t4\t5\t4\t4\t1\t2\t8\t0\t20\t30\tАтакує на відстані.\tSHOOTING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Êàì'ÿíà ãîðãóë³ÿ",
+    "en": "Êàì'ÿíà ãîðãóë³ÿ\tÊàì'ÿíèõ ãîðãóë³é\t0\t0\t0\t0\t0\t0\t130\t150\t165\t9\t4\t16\t6\t6\t6\t2\t3\t0\t0\t16\t30\t\tFLYING_ARMY",
+    "ua": "Кам'яна горгулія\tКам'яних горгулій\t0\t0\t0\t0\t0\t0\t130\t150\t165\t9\t4\t16\t6\t6\t6\t2\t3\t0\t0\t16\t30\t\tFLYING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Îáñèä³àíîâà ãîðãóë³ÿ",
+    "en": "Îáñèä³àíîâà ãîðãóë³ÿ\tÎáñèä³àíîâèõ ãîðãóë³é\t0\t0\t0\t0\t0\t0\t160\t155\t201\t9\t4\t16\t9\t7\t7\t2\t3\t0\t0\t16\t25\t\tFLYING_ARMY",
+    "ua": "Обсидіанова горгулія\tОбсидіанових горгулій\t0\t0\t0\t0\t0\t0\t160\t155\t201\t9\t4\t16\t9\t7\t7\t2\t3\t0\t0\t16\t25\t\tFLYING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Êàì'ÿíèé ãîëåì",
+    "en": "Êàì'ÿíèé ãîëåì\tÊàì'ÿíèõ ãîëåì³â\t0\t0\t0\t0\t0\t0\t150\t339\t250\t6\t0\t30\t3\t7\t10\t4\t5\t0\t0\t12\t25\tÎòðèìóº íà 50% ìåíøå ïîøêîäæåíü â³ä ìàã³¿.\t0",
+    "ua": "Кам'яний голем\tКам'яних големів\t0\t0\t0\t0\t0\t0\t150\t339\t250\t6\t0\t30\t3\t7\t10\t4\t5\t0\t0\t12\t25\tОтримує на 50% менше пошкоджень від магії.\t0"
+  },
+  {
+    "var": "CRTRAITS_Çàë³çíèé ãîëåì",
+    "en": "Çàë³çíèé ãîëåì\tÇàë³çíèõ ãîëåì³â\t0\t0\t0\t0\t0\t0\t200\t412\t412\t6\t0\t35\t5\t9\t10\t4\t5\t0\t0\t12\t20\tÎòðèìóº íà 75% ìåíøå ïîøêîäæåíü â³ä ìàã³¿.\t0",
+    "ua": "Залізний голем\tЗалізних големів\t0\t0\t0\t0\t0\t0\t200\t412\t412\t6\t0\t35\t5\t9\t10\t4\t5\t0\t0\t12\t20\tОтримує на 75% менше пошкоджень від магії.\t0"
+  },
+  {
+    "var": "CRTRAITS_Ìàã",
+    "en": "Ìàã\tÌàã³â\t0\t0\t0\t0\t0\t0\t350\t418\t570\t4\t0\t25\t5\t11\t8\t7\t9\t24\t0\t10\t20\t\"Íåìàº øòðàôó çà áëèæí³é á³é.\nÇàêëÿòòÿ ãåðîÿ êîøòóþòü ìåíøå.\"\tSHOOTING_ARMY | const_no_melee_penalty",
+    "ua": "Маг\tМагів\t0\t0\t0\t0\t0\t0\t350\t418\t570\t4\t0\t25\t5\t11\t8\t7\t9\t24\t0\t10\t20\t\"Немає штрафу за ближній бій.\nЗакляття героя коштують менше.\"\tSHOOTING_ARMY | const_no_melee_penalty"
+  },
+  {
+    "var": "CRTRAITS_Àðõ³ìàã",
+    "en": "Àðõ³ìàã\tÀðõ³ìàã³â\t0\t0\t0\t0\t0\t0\t450\t467\t680\t4\t0\t30\t7\t12\t9\t7\t9\t24\t0\t10\t16\t\"Íåìàº øòðàôó çà áëèæí³é á³é.\nÇàêëÿòòÿ ãåðîÿ êîøòóþòü ìåíøå.\"\tSHOOTING_ARMY | const_no_melee_penalty | const_no_wall_penalty",
+    "ua": "Архімаг\tАрхімагів\t0\t0\t0\t0\t0\t0\t450\t467\t680\t4\t0\t30\t7\t12\t9\t7\t9\t24\t0\t10\t16\t\"Немає штрафу за ближній бій.\nЗакляття героя коштують менше.\"\tSHOOTING_ARMY | const_no_melee_penalty | const_no_wall_penalty"
+  },
+  {
+    "var": "CRTRAITS_Äæèí",
+    "en": "Äæèí\tÄæèí³â\t0\t0\t0\t0\t0\t0\t550\t680\t884\t3\t0\t40\t7\t12\t12\t13\t16\t0\t0\t8\t16\tÍåíàâèäèòü ³ôðèò³â.\tFLYING_ARMY",
+    "ua": "Джин\tДжинів\t0\t0\t0\t0\t0\t0\t550\t680\t884\t3\t0\t40\t7\t12\t12\t13\t16\t0\t0\t8\t16\tНенавидить іфритів.\tFLYING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Ìàéñòåð äæèí³â",
+    "en": "Ìàéñòåð äæèí³â\tÌàéñòð³â äæèí³â\t0\t0\t0\t0\t0\t0\t600\t748\t942\t3\t0\t40\t11\t12\t12\t13\t16\t0\t3\t8\t12\t\"Âèïàäêîâå çàêëèíàííÿ.\nÍåíàâèäèòü ³ôðèò³â.\"\tFLYING_ARMY",
+    "ua": "Майстер джинів\tМайстрів джинів\t0\t0\t0\t0\t0\t0\t600\t748\t942\t3\t0\t40\t11\t12\t12\t13\t16\t0\t3\t8\t12\t\"Випадкове заклинання.\nНенавидить іфритів.\"\tFLYING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Íàãà",
+    "en": "Íàãà\tÍàã\t0\t0\t0\t0\t0\t0\t1100\t2016\t2016\t2\t0\t110\t5\t16\t13\t20\t20\t0\t0\t5\t12\tÂîðîã íå â³äïîâ³äàº.\tDOUBLE_WIDE",
+    "ua": "Нага\tНаг\t0\t0\t0\t0\t0\t0\t1100\t2016\t2016\t2\t0\t110\t5\t16\t13\t20\t20\t0\t0\t5\t12\tВорог не відповідає.\tDOUBLE_WIDE"
+  },
+  {
+    "var": "CRTRAITS_Êîðîëåâà íàã",
+    "en": "Êîðîëåâà íàã\tÊîðîëåâ íàã\t0\t0\t0\t0\t0\t0\t1600\t2485\t2840\t2\t0\t110\t7\t16\t13\t30\t30\t0\t0\t5\t10\tÂîðîã íå â³äïîâ³äàº.\tDOUBLE_WIDE",
+    "ua": "Королева наг\tКоролев наг\t0\t0\t0\t0\t0\t0\t1600\t2485\t2840\t2\t0\t110\t7\t16\t13\t30\t30\t0\t0\t5\t10\tВорог не відповідає.\tDOUBLE_WIDE"
+  },
+  {
+    "var": "CRTRAITS_Ã³ãàíò",
+    "en": "Ã³ãàíò\tÃ³ãàíò³â\t0\t0\t0\t0\t0\t1\t2000\t3146\t3718\t1\t0\t150\t7\t19\t16\t40\t60\t0\t0\t4\t10\t²ìóí³òåò äî ðîçóìîâèõ çàêëÿòü\tKING_3",
+    "ua": "Гігант\tГігантів\t0\t0\t0\t0\t0\t1\t2000\t3146\t3718\t1\t0\t150\t7\t19\t16\t40\t60\t0\t0\t4\t10\tІмунітет до розумових заклять\tKING_3"
+  },
+  {
+    "var": "CRTRAITS_Òèòàí",
+    "en": "Òèòàí\tÒèòàí³â\t0\t0\t0\t0\t0\t2\t5000\t5000\t7500\t1\t0\t300\t11\t24\t24\t40\t60\t24\t0\t3\t8\t\"Íåìàº øòðàôó çà áëèæí³é á³é. ²ìóí³òåò äî ðîçóìîâèõ çàêëÿòü. Íåíàâèäèòü ×îðíèõ Äðàêîí³â.\"\tSHOOTING_ARMY | const_no_melee_penalty | KING_3",
+    "ua": "Титан\tТитанів\t0\t0\t0\t0\t0\t2\t5000\t5000\t7500\t1\t0\t300\t11\t24\t24\t40\t60\t24\t0\t3\t8\t\"Немає штрафу за ближній бій. Імунітет до розумових заклять. Ненавидить Чорних Драконів.\"\tSHOOTING_ARMY | const_no_melee_penalty | KING_3"
+  },
+  {
+    "var": "CRTRAITS_51",
+    "en": "                                   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "                                   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_52",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_53",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_Á³ñåíÿ",
+    "en": "Á³ñåíÿ\tÁ³ñåíÿò\t0\t0\t0\t0\t0\t0\t50\t50\t50\t15\t8\t4\t5\t2\t3\t1\t2\t0\t0\t20\t50\t\t0",
+    "ua": "Бісеня\tБісенят\t0\t0\t0\t0\t0\t0\t50\t50\t50\t15\t8\t4\t5\t2\t3\t1\t2\t0\t0\t20\t50\t\t0"
+  },
+  {
+    "var": "CRTRAITS_×îðòåíÿ",
+    "en": "×îðòåíÿ\t×îðòåíÿò\t0\t0\t0\t0\t0\t0\t60\t60\t60\t15\t8\t4\t7\t4\t4\t1\t2\t0\t0\t20\t30\tÌàã³÷íèé êàíàë.\t0",
+    "ua": "Чортеня\tЧортенят\t0\t0\t0\t0\t0\t0\t60\t60\t60\t15\t8\t4\t7\t4\t4\t1\t2\t0\t0\t20\t30\tМагічний канал.\t0"
+  },
+  {
+    "var": "CRTRAITS_Ãîã",
+    "en": "Ãîã\tÃîã³â\t0\t0\t0\t0\t0\t0\t125\t145\t159\t8\t0\t13\t4\t6\t4\t2\t4\t12\t0\t16\t30\t\tSHOOTING_ARMY",
+    "ua": "Гог\tГогів\t0\t0\t0\t0\t0\t0\t125\t145\t159\t8\t0\t13\t4\t6\t4\t2\t4\t12\t0\t16\t30\t\tSHOOTING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Ìàãîã",
+    "en": "Ìàãîã\tÌàãîã³â\t0\t0\t0\t0\t0\t0\t175\t210\t240\t8\t0\t13\t6\t7\t4\t2\t4\t24\t0\t16\t25\tÑòð³ëÿº âîãíåííîþ êóëåþ.\tSHOOTING_ARMY",
+    "ua": "Магог\tМагогів\t0\t0\t0\t0\t0\t0\t175\t210\t240\t8\t0\t13\t6\t7\t4\t2\t4\t24\t0\t16\t25\tСтріляє вогненною кулею.\tSHOOTING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Ïåêåëüíèé ïåñ",
+    "en": "Ïåêåëüíèé ïåñ\tÏåêåëüíèõ ïñ³â\t0\t0\t0\t0\t0\t0\t200\t275\t357\t5\t3\t25\t7\t10\t6\t2\t7\t0\t0\t12\t25\t\tDOUBLE_WIDE | FLYING_ARMY",
+    "ua": "Пекельний пес\tПекельних псів\t0\t0\t0\t0\t0\t0\t200\t275\t357\t5\t3\t25\t7\t10\t6\t2\t7\t0\t0\t12\t25\t\tDOUBLE_WIDE | FLYING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Öåðáåð",
+    "en": "Öåðáåð\tÖåðáåð³â\t0\t0\t0\t0\t0\t0\t250\t308\t392\t5\t3\t25\t8\t10\t8\t2\t7\t0\t0\t12\t20\t\"Òðüîõãîëîâà àòàêà.\nÂîðîãè íå â³äïîâ³äàþòü.\"\tDOUBLE_WIDE | FLYING_ARMY",
+    "ua": "Цербер\tЦерберів\t0\t0\t0\t0\t0\t0\t250\t308\t392\t5\t3\t25\t8\t10\t8\t2\t7\t0\t0\t12\t20\t\"Трьохголова атака.\nВороги не відповідають.\"\tDOUBLE_WIDE | FLYING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Äåìîí",
+    "en": "Äåìîí\tÄåìîí³â\t0\t0\t0\t0\t0\t0\t250\t445\t445\t4\t0\t35\t5\t10\t10\t7\t9\t0\t0\t10\t20\t\t0",
+    "ua": "Демон\tДемонів\t0\t0\t0\t0\t0\t0\t250\t445\t445\t4\t0\t35\t5\t10\t10\t7\t9\t0\t0\t10\t20\t\t0"
+  },
+  {
+    "var": "CRTRAITS_Ðîãàòèé äåìîí",
+    "en": "Ðîãàòèé äåìîí\tÐîãàòèõ äåìîí³â\t0\t0\t0\t0\t0\t0\t270\t480\t480\t4\t0\t40\t6\t10\t10\t7\t9\t0\t0\t10\t16\t\t0",
+    "ua": "Рогатий демон\tРогатих демонів\t0\t0\t0\t0\t0\t0\t270\t480\t480\t4\t0\t40\t6\t10\t10\t7\t9\t0\t0\t10\t16\t\t0"
+  },
+  {
+    "var": "CRTRAITS_Äåìîí áåçîäí³",
+    "en": "Äåìîí áåçîäí³\tÄåìîí³â áåçîäí³\t0\t0\t0\t0\t0\t0\t500\t765\t765\t3\t0\t45\t6\t13\t13\t13\t17\t0\t0\t8\t16\t\t0",
+    "ua": "Демон безодні\tДемонів безодні\t0\t0\t0\t0\t0\t0\t500\t765\t765\t3\t0\t45\t6\t13\t13\t13\t17\t0\t0\t8\t16\t\t0"
+  },
+  {
+    "var": "CRTRAITS_Âîëîäàð áåçîäí³",
+    "en": "Âîëîäàð áåçîäí³\tÂîëîäàð³â áåçîäí³\t0\t0\t0\t0\t0\t0\t700\t1071\t1224\t3\t0\t45\t7\t13\t13\t13\t17\t0\t1\t8\t12\t\"Ï³äí³ìàº äåìîí³â \nç ìåðòâèõ âî¿í³â.\"\t0",
+    "ua": "Володар безодні\tВолодарів безодні\t0\t0\t0\t0\t0\t0\t700\t1071\t1224\t3\t0\t45\t7\t13\t13\t13\t17\t0\t1\t8\t12\t\"Піднімає демонів \nз мертвих воїнів.\"\t0"
+  },
+  {
+    "var": "CRTRAITS_²ôðèò",
+    "en": "²ôðèò\t²ôðèò³â\t0\t0\t0\t0\t0\t0\t900\t1413\t1670\t2\t0\t90\t9\t16\t12\t16\t24\t0\t0\t5\t12\t²ìóí³òåò äî âîãíþ. Íåíàâèäèòü äæèí³â.\t0",
+    "ua": "Іфрит\tІфритів\t0\t0\t0\t0\t0\t0\t900\t1413\t1670\t2\t0\t90\t9\t16\t12\t16\t24\t0\t0\t5\t12\tІмунітет до вогню. Ненавидить джинів.\t0"
+  },
+  {
+    "var": "CRTRAITS_Ñóëòàí ³ôðèò³â",
+    "en": "Ñóëòàí ³ôðèò³â\tÑóëòàí³â ³ôðèò³â\t0\t0\t0\t0\t0\t0\t1100\t1584\t1848\t2\t0\t90\t13\t16\t14\t16\t24\t0\t0\t5\t10\tÂîãíåííèé ùèò.  ²ìóí³òåò äî Âîãíþ. Íåíàâèäèòü äæèí³â.\t0",
+    "ua": "Султан іфритів\tСултанів іфритів\t0\t0\t0\t0\t0\t0\t1100\t1584\t1848\t2\t0\t90\t13\t16\t14\t16\t24\t0\t0\t5\t10\tВогненний щит.  Імунітет до Вогню. Ненавидить джинів.\t0"
+  },
+  {
+    "var": "CRTRAITS_Äèÿâîë",
+    "en": "Äèÿâîë\tÄèÿâîë³â\t0\t1\t0\t0\t0\t0\t2700\t3759\t5101\t1\t0\t160\t11\t19\t21\t30\t40\t0\t0\t4\t10\t-1 äî âîðîæî¿ óäà÷³. Âîðîã íå â³äïîâ³äàº. Íåíàâèäèòü Àíãåë³â.\tFLYING_ARMY | KING_2",
+    "ua": "Диявол\tДияволів\t0\t1\t0\t0\t0\t0\t2700\t3759\t5101\t1\t0\t160\t11\t19\t21\t30\t40\t0\t0\t4\t10\t-1 до ворожої удачі. Ворог не відповідає. Ненавидить Ангелів.\tFLYING_ARMY | KING_2"
+  },
+  {
+    "var": "CRTRAITS_Àðõ³äèÿâîë",
+    "en": "Àðõ³äèÿâîë\tÀðõ³äèÿâîë³â\t0\t2\t0\t0\t0\t0\t4500\t5243\t7115\t1\t0\t200\t17\t26\t28\t30\t40\t0\t0\t3\t8\t-1 äî âîðîæî¿ óäà÷³. Âîðîã íå â³äïîâ³äàº. Íåíàâèäèòü Àíãåë³â.\tFLYING_ARMY | KING_2",
+    "ua": "Архідиявол\tАрхідияволів\t0\t2\t0\t0\t0\t0\t4500\t5243\t7115\t1\t0\t200\t17\t26\t28\t30\t40\t0\t0\t3\t8\t-1 до ворожої удачі. Ворог не відповідає. Ненавидить Ангелів.\tFLYING_ARMY | KING_2"
+  },
+  {
+    "var": "CRTRAITS_68",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_69",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_70",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_Ñêåëåò",
+    "en": "Ñêåëåò\tÑêåëåò³â\t0\t0\t0\t0\t0\t0\t60\t75\t60\t12\t6\t6\t4\t5\t4\t1\t3\t0\t0\t20\t50\tÍåæèòü.\tIS_UNDEAD",
+    "ua": "Скелет\tСкелетів\t0\t0\t0\t0\t0\t0\t60\t75\t60\t12\t6\t6\t4\t5\t4\t1\t3\t0\t0\t20\t50\tНежить.\tIS_UNDEAD"
+  },
+  {
+    "var": "CRTRAITS_Ñêåëåò âî¿í",
+    "en": "Ñêåëåò âî¿í\tÑêåëåò³â âî¿í³â\t0\t0\t0\t0\t0\t0\t70\t85\t85\t12\t6\t6\t5\t6\t6\t1\t3\t0\t0\t20\t30\tÍåæèòü.\tIS_UNDEAD",
+    "ua": "Скелет воїн\tСкелетів воїнів\t0\t0\t0\t0\t0\t0\t70\t85\t85\t12\t6\t6\t5\t6\t6\t1\t3\t0\t0\t20\t30\tНежить.\tIS_UNDEAD"
+  },
+  {
+    "var": "CRTRAITS_Õîäÿ÷èé ìðåöü",
+    "en": "Õîäÿ÷èé ìðåöü\tÕîäÿ÷èõ ìåðö³â\t0\t0\t0\t0\t0\t0\t100\t140\t98\t8\t0\t15\t3\t5\t5\t2\t3\t0\t0\t16\t30\tÍåæèòü.\tIS_UNDEAD",
+    "ua": "Ходячий мрець\tХодячих мерців\t0\t0\t0\t0\t0\t0\t100\t140\t98\t8\t0\t15\t3\t5\t5\t2\t3\t0\t0\t16\t30\tНежить.\tIS_UNDEAD"
+  },
+  {
+    "var": "CRTRAITS_Çîìá³",
+    "en": "Çîìá³\tÇîìá³\t0\t0\t0\t0\t0\t0\t125\t160\t128\t8\t0\t20\t4\t5\t5\t2\t3\t0\t0\t16\t25\t\"Íåæèòü, \nçàðàçà.\"\tIS_UNDEAD",
+    "ua": "Зомбі\tЗомбі\t0\t0\t0\t0\t0\t0\t125\t160\t128\t8\t0\t20\t4\t5\t5\t2\t3\t0\t0\t16\t25\t\"Нежить, \nзараза.\"\tIS_UNDEAD"
+  },
+  {
+    "var": "CRTRAITS_Ïðèìàðà",
+    "en": "Ïðèìàðà\tÏðèìàð\t0\t0\t0\t0\t0\t0\t200\t231\t252\t7\t0\t18\t5\t7\t7\t3\t5\t0\t0\t12\t25\tÍåæèòü. Â³äíîâëåííÿ çäîðîâ'ÿ.\tFLYING_ARMY | IS_UNDEAD",
+    "ua": "Примара\tПримар\t0\t0\t0\t0\t0\t0\t200\t231\t252\t7\t0\t18\t5\t7\t7\t3\t5\t0\t0\t12\t25\tНежить. Відновлення здоров'я.\tFLYING_ARMY | IS_UNDEAD"
+  },
+  {
+    "var": "CRTRAITS_Ïðèâèä",
+    "en": "Ïðèâèä\tÏðèâèä³â\t0\t0\t0\t0\t0\t0\t230\t252\t315\t7\t0\t18\t7\t7\t7\t3\t5\t0\t0\t12\t20\t\"Íåæèòü. Â³äíîâëåííÿ çäîðîâ'ÿ. \nÂèêðàäàííÿ ìàíè.\"\tFLYING_ARMY | IS_UNDEAD",
+    "ua": "Привид\tПривидів\t0\t0\t0\t0\t0\t0\t230\t252\t315\t7\t0\t18\t7\t7\t7\t3\t5\t0\t0\t12\t20\t\"Нежить. Відновлення здоров'я. \nВикрадання мани.\"\tFLYING_ARMY | IS_UNDEAD"
+  },
+  {
+    "var": "CRTRAITS_Âàìï³ð",
+    "en": "Âàìï³ð\tÂàìï³ð³â\t0\t0\t0\t0\t0\t0\t360\t518\t555\t4\t0\t30\t6\t10\t9\t5\t8\t0\t0\t10\t20\t\"Íåæèòü. \nÂîðîã íå â³äïîâ³äàº.\"\tFLYING_ARMY | IS_UNDEAD",
+    "ua": "Вампір\tВампірів\t0\t0\t0\t0\t0\t0\t360\t518\t555\t4\t0\t30\t6\t10\t9\t5\t8\t0\t0\t10\t20\t\"Нежить. \nВорог не відповідає.\"\tFLYING_ARMY | IS_UNDEAD"
+  },
+  {
+    "var": "CRTRAITS_Ëîðä âàìï³ð³â",
+    "en": "Ëîðä âàìï³ð³â\tËîðä³â âàìï³ð³â\t0\t0\t0\t0\t0\t0\t500\t652\t783\t4\t0\t40\t9\t10\t10\t5\t8\t0\t0\t10\t16\t\"Íåæèòü. Âèñìîêòóº æèòòÿ. \nÂîðîã íå â³äïîâ³äàº.\"\tFLYING_ARMY | IS_UNDEAD",
+    "ua": "Лорд вампірів\tЛордів вампірів\t0\t0\t0\t0\t0\t0\t500\t652\t783\t4\t0\t40\t9\t10\t10\t5\t8\t0\t0\t10\t16\t\"Нежить. Висмоктує життя. \nВорог не відповідає.\"\tFLYING_ARMY | IS_UNDEAD"
+  },
+  {
+    "var": "CRTRAITS_Ë³÷",
+    "en": "Ë³÷\tË³÷³â\t0\t0\t0\t0\t0\t0\t550\t742\t848\t3\t0\t30\t6\t13\t10\t11\t13\t12\t0\t8\t16\tÍåæèòü. Àòàêóº õìàðîþ ñìåðò³.\tSHOOTING_ARMY | IS_UNDEAD",
+    "ua": "Ліч\tЛічів\t0\t0\t0\t0\t0\t0\t550\t742\t848\t3\t0\t30\t6\t13\t10\t11\t13\t12\t0\t8\t16\tНежить. Атакує хмарою смерті.\tSHOOTING_ARMY | IS_UNDEAD"
+  },
+  {
+    "var": "CRTRAITS_Àðõ³ë³÷",
+    "en": "Àðõ³ë³÷\tÀðõ³ë³÷³â\t0\t0\t0\t0\t0\t0\t600\t889\t1079\t3\t0\t40\t7\t13\t10\t11\t15\t24\t0\t8\t12\tÍåæèòü. Àòàêóº õìàðîþ ñìåðò³.\tSHOOTING_ARMY | IS_UNDEAD",
+    "ua": "Архіліч\tАрхілічів\t0\t0\t0\t0\t0\t0\t600\t889\t1079\t3\t0\t40\t7\t13\t10\t11\t15\t24\t0\t8\t12\tНежить. Атакує хмарою смерті.\tSHOOTING_ARMY | IS_UNDEAD"
+  },
+  {
+    "var": "CRTRAITS_×îðíèé ëèöàð",
+    "en": "×îðíèé ëèöàð\t×îðíèõ ëèöàð³â\t0\t0\t0\t0\t0\t0\t1200\t1753\t2087\t2\t0\t120\t7\t16\t16\t15\t30\t0\t0\t5\t12\tÍåæèòü. Ïðîêëÿòòÿ.\tDOUBLE_WIDE | IS_UNDEAD",
+    "ua": "Чорний лицар\tЧорних лицарів\t0\t0\t0\t0\t0\t0\t1200\t1753\t2087\t2\t0\t120\t7\t16\t16\t15\t30\t0\t0\t5\t12\tНежить. Прокляття.\tDOUBLE_WIDE | IS_UNDEAD"
+  },
+  {
+    "var": "CRTRAITS_Ëèöàð ñòðàõó",
+    "en": "Ëèöàð ñòðàõó\tËèöàð³â ñòðàõó\t0\t0\t0\t0\t0\t0\t1500\t2029\t2382\t2\t0\t120\t9\t18\t18\t15\t30\t0\t0\t5\t10\t\"Íåæèòü. Ïðîêëÿòòÿ. \nÑìåðòåëüíèé óäàð.\"\tDOUBLE_WIDE | IS_UNDEAD",
+    "ua": "Лицар страху\tЛицарів страху\t0\t0\t0\t0\t0\t0\t1500\t2029\t2382\t2\t0\t120\t9\t18\t18\t15\t30\t0\t0\t5\t10\t\"Нежить. Прокляття. \nСмертельний удар.\"\tDOUBLE_WIDE | IS_UNDEAD"
+  },
+  {
+    "var": "CRTRAITS_Ê³ñòÿíèé äðàêîí",
+    "en": "Ê³ñòÿíèé äðàêîí\tÊ³ñòÿíèõ äðàêîí³â\t0\t0\t0\t0\t0\t0\t1800\t2420\t3388\t1\t0\t150\t9\t17\t15\t25\t50\t0\t0\t4\t10\tÍåæèòü. -1 äî ìîðàë³ âîðîãà.\tDOUBLE_WIDE | IS_UNDEAD | const_lowers_morale | FLYING_ARMY | KING_1",
+    "ua": "Кістяний дракон\tКістяних драконів\t0\t0\t0\t0\t0\t0\t1800\t2420\t3388\t1\t0\t150\t9\t17\t15\t25\t50\t0\t0\t4\t10\tНежить. -1 до моралі ворога.\tDOUBLE_WIDE | IS_UNDEAD | const_lowers_morale | FLYING_ARMY | KING_1"
+  },
+  {
+    "var": "CRTRAITS_Äðàêîí ïðèâèä",
+    "en": "Äðàêîí ïðèâèä\tÄðàêîí³â ïðèâèä³â\t0\t1\t0\t0\t0\t0\t3000\t3228\t4696\t1\t0\t200\t14\t19\t17\t25\t50\t0\t0\t3\t8\t\"Íåæèòü. -1 äî ìîðàë³ âîðîãà. Àòàêà ç³ñòàðþº âîðîã³â.\"\tDOUBLE_WIDE | IS_UNDEAD | const_lowers_morale | FLYING_ARMY | KING_1",
+    "ua": "Дракон привид\tДраконів привидів\t0\t1\t0\t0\t0\t0\t3000\t3228\t4696\t1\t0\t200\t14\t19\t17\t25\t50\t0\t0\t3\t8\t\"Нежить. -1 до моралі ворога. Атака зістарює ворогів.\"\tDOUBLE_WIDE | IS_UNDEAD | const_lowers_morale | FLYING_ARMY | KING_1"
+  },
+  {
+    "var": "CRTRAITS_85",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_86",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_87",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_Òðîãëîäèò",
+    "en": "Òðîãëîäèò\tÒðîãëîäèò³â\t0\t0\t0\t0\t0\t0\t50\t73\t59\t14\t7\t5\t4\t4\t3\t1\t3\t0\t0\t20\t50\t²ìóí³òåò äî ñë³ïîòè.\t0",
+    "ua": "Троглодит\tТроглодитів\t0\t0\t0\t0\t0\t0\t50\t73\t59\t14\t7\t5\t4\t4\t3\t1\t3\t0\t0\t20\t50\tІмунітет до сліпоти.\t0"
+  },
+  {
+    "var": "CRTRAITS_Ïåêåëüíèé òðîãëîäèò",
+    "en": "Ïåêåëüíèé òðîãëîäèò\tÏåêåëüíèõ òðîãëîäèò³â\t0\t0\t0\t0\t0\t0\t65\t84\t84\t14\t7\t6\t5\t5\t4\t1\t3\t0\t0\t20\t30\t²ìóí³òåò äî ñë³ïîòè.\t0",
+    "ua": "Пекельний троглодит\tПекельних троглодитів\t0\t0\t0\t0\t0\t0\t65\t84\t84\t14\t7\t6\t5\t5\t4\t1\t3\t0\t0\t20\t30\tІмунітет до сліпоти.\t0"
+  },
+  {
+    "var": "CRTRAITS_Ãàðï³ÿ",
+    "en": "Ãàðï³ÿ\tÃàðï³é\t0\t0\t0\t0\t0\t0\t130\t140\t154\t8\t0\t14\t6\t6\t5\t1\t4\t0\t0\t16\t30\tÁ'º òà ïîâåðòàºòüñÿ.\tFLYING_ARMY",
+    "ua": "Гарпія\tГарпій\t0\t0\t0\t0\t0\t0\t130\t140\t154\t8\t0\t14\t6\t6\t5\t1\t4\t0\t0\t16\t30\tБ'є та повертається.\tFLYING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Ôóð³ÿ",
+    "en": "Ôóð³ÿ\tÔóð³é\t0\t0\t0\t0\t0\t0\t170\t196\t238\t8\t0\t14\t9\t6\t6\t1\t4\t0\t0\t16\t25\t\"Á'º òà ïîâåðòàºòüñÿ.\nÂîðîã íå â³äïîâ³äàº.\"\tFLYING_ARMY",
+    "ua": "Фурія\tФурій\t0\t0\t0\t0\t0\t0\t170\t196\t238\t8\t0\t14\t9\t6\t6\t1\t4\t0\t0\t16\t25\t\"Б'є та повертається.\nВорог не відповідає.\"\tFLYING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Ñïîñòåð³ãà÷",
+    "en": "Ñïîñòåð³ãà÷\tÑïîñòåð³ãà÷³â\t0\t0\t0\t0\t0\t0\t250\t240\t336\t7\t0\t22\t5\t9\t7\t3\t5\t12\t0\t12\t25\tÍåìàº øòðàôó çà áëèæí³é á³é.\tSHOOTING_ARMY | const_no_melee_penalty",
+    "ua": "Спостерігач\tСпостерігачів\t0\t0\t0\t0\t0\t0\t250\t240\t336\t7\t0\t22\t5\t9\t7\t3\t5\t12\t0\t12\t25\tНемає штрафу за ближній бій.\tSHOOTING_ARMY | const_no_melee_penalty"
+  },
+  {
+    "var": "CRTRAITS_Çëå îêî",
+    "en": "Çëå îêî\tÇëèõ î÷åé\t0\t0\t0\t0\t0\t0\t280\t245\t367\t7\t0\t22\t7\t10\t8\t3\t5\t24\t0\t12\t20\tÍåìàº øòðàôó çà áëèæí³é á³é.\tSHOOTING_ARMY | const_no_melee_penalty",
+    "ua": "Зле око\tЗлих очей\t0\t0\t0\t0\t0\t0\t280\t245\t367\t7\t0\t22\t7\t10\t8\t3\t5\t24\t0\t12\t20\tНемає штрафу за ближній бій.\tSHOOTING_ARMY | const_no_melee_penalty"
+  },
+  {
+    "var": "CRTRAITS_Ìåäóçà",
+    "en": "Ìåäóçà\tÌåäóç\t0\t0\t0\t0\t0\t0\t300\t379\t517\t4\t0\t25\t5\t9\t9\t6\t8\t4\t0\t10\t20\t\"Íåìàº øòðàôó çà áëèæí³é á³é.\nÊàì'ÿíèé ïîãëÿä.\"\tDOUBLE_WIDE | SHOOTING_ARMY | const_no_melee_penalty",
+    "ua": "Медуза\tМедуз\t0\t0\t0\t0\t0\t0\t300\t379\t517\t4\t0\t25\t5\t9\t9\t6\t8\t4\t0\t10\t20\t\"Немає штрафу за ближній бій.\nКам'яний погляд.\"\tDOUBLE_WIDE | SHOOTING_ARMY | const_no_melee_penalty"
+  },
+  {
+    "var": "CRTRAITS_Êîðîëåâà ìåäóç",
+    "en": "Êîðîëåâà ìåäóç\tÊîðîëåâ ìåäóç\t0\t0\t0\t0\t0\t0\t330\t423\t577\t4\t0\t30\t6\t10\t10\t6\t8\t8\t0\t10\t16\t\"Íåìàº øòðàôó çà áëèæí³é á³é.\nÊàì'ÿíèé ïîãëÿä.\"\tDOUBLE_WIDE | SHOOTING_ARMY | const_no_melee_penalty",
+    "ua": "Королева медуз\tКоролев медуз\t0\t0\t0\t0\t0\t0\t330\t423\t577\t4\t0\t30\t6\t10\t10\t6\t8\t8\t0\t10\t16\t\"Немає штрафу за ближній бій.\nКам'яний погляд.\"\tDOUBLE_WIDE | SHOOTING_ARMY | const_no_melee_penalty"
+  },
+  {
+    "var": "CRTRAITS_Ì³íîòàâð",
+    "en": "Ì³íîòàâð\tÌ³íîòàâð³â\t0\t0\t0\t0\t0\t0\t500\t835\t835\t3\t0\t50\t6\t14\t12\t12\t20\t0\t0\t8\t16\tÂèñîêà ìîðàëü.\t0",
+    "ua": "Мінотавр\tМінотаврів\t0\t0\t0\t0\t0\t0\t500\t835\t835\t3\t0\t50\t6\t14\t12\t12\t20\t0\t0\t8\t16\tВисока мораль.\t0"
+  },
+  {
+    "var": "CRTRAITS_Êîðîëü ì³íîòàâð³â",
+    "en": "Êîðîëü ì³íîòàâð³â\tÊîðîë³â ì³íîòàâð³â\t0\t0\t0\t0\t0\t0\t575\t890\t1068\t3\t0\t50\t8\t15\t15\t12\t20\t0\t0\t8\t12\tÂèñîêà ìîðàëü.\t0",
+    "ua": "Король мінотаврів\tКоролів мінотаврів\t0\t0\t0\t0\t0\t0\t575\t890\t1068\t3\t0\t50\t8\t15\t15\t12\t20\t0\t0\t8\t12\tВисока мораль.\t0"
+  },
+  {
+    "var": "CRTRAITS_Ìàíòèêîð",
+    "en": "Ìàíòèêîð\tÌàíòèêîð³â\t0\t0\t0\t0\t0\t0\t850\t1215\t1547\t2\t0\t80\t7\t15\t13\t14\t20\t0\t0\t5\t12\t\tDOUBLE_WIDE | FLYING_ARMY",
+    "ua": "Мантикор\tМантикорів\t0\t0\t0\t0\t0\t0\t850\t1215\t1547\t2\t0\t80\t7\t15\t13\t14\t20\t0\t0\t5\t12\t\tDOUBLE_WIDE | FLYING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Ñêîðï³êîð",
+    "en": "Ñêîðï³êîð\tÑêîðï³êîð³â\t0\t0\t0\t0\t0\t0\t1050\t1248\t1589\t2\t0\t80\t11\t16\t14\t14\t20\t0\t0\t5\t10\tÏàðàë³çóþ÷à îòðóòà.\tDOUBLE_WIDE | FLYING_ARMY",
+    "ua": "Скорпікор\tСкорпікорів\t0\t0\t0\t0\t0\t0\t1050\t1248\t1589\t2\t0\t80\t11\t16\t14\t14\t20\t0\t0\t5\t10\tПаралізуюча отрута.\tDOUBLE_WIDE | FLYING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_×åðâîíèé äðàêîí",
+    "en": "×åðâîíèé äðàêîí\t×åðâîíèõ äðàêîí³â\t0\t0\t0\t1\t0\t0\t2500\t3762\t4702\t1\t0\t180\t11\t19\t19\t40\t50\t0\t0\t4\t10\t²ìóí³òåò äî çàêëÿòü 1-3 ð³âíÿ.\tDOUBLE_WIDE | FLYING_ARMY | KING_1",
+    "ua": "Червоний дракон\tЧервоних драконів\t0\t0\t0\t1\t0\t0\t2500\t3762\t4702\t1\t0\t180\t11\t19\t19\t40\t50\t0\t0\t4\t10\tІмунітет до заклять 1-3 рівня.\tDOUBLE_WIDE | FLYING_ARMY | KING_1"
+  },
+  {
+    "var": "CRTRAITS_×îðíèé äðàêîí",
+    "en": "×îðíèé äðàêîí\t×îðíèõ äðàêîí³â\t0\t0\t0\t2\t0\t0\t4000\t6783\t8721\t1\t0\t300\t15\t25\t25\t40\t50\t0\t0\t3\t8\t²ìóí³òåò äî âñ³õ çàêëÿòü.\tDOUBLE_WIDE | FLYING_ARMY | KING_1",
+    "ua": "Чорний дракон\tЧорних драконів\t0\t0\t0\t2\t0\t0\t4000\t6783\t8721\t1\t0\t300\t15\t25\t25\t40\t50\t0\t0\t3\t8\tІмунітет до всіх заклять.\tDOUBLE_WIDE | FLYING_ARMY | KING_1"
+  },
+  {
+    "var": "CRTRAITS_102",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_103",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_104",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_Ãîáë³í",
+    "en": "Ãîáë³í\tÃîáë³í³â\t0\t0\t0\t0\t0\t0\t40\t60\t60\t15\t8\t5\t5\t4\t2\t1\t2\t0\t0\t20\t50\t\t0",
+    "ua": "Гоблін\tГоблінів\t0\t0\t0\t0\t0\t0\t40\t60\t60\t15\t8\t5\t5\t4\t2\t1\t2\t0\t0\t20\t50\t\t0"
+  },
+  {
+    "var": "CRTRAITS_Õîáãîáë³í",
+    "en": "Õîáãîáë³í\tÕîáãîáë³í³â\t0\t0\t0\t0\t0\t0\t50\t65\t78\t15\t8\t5\t7\t5\t3\t1\t2\t0\t0\t20\t30\t\t0",
+    "ua": "Хобгоблін\tХобгоблінів\t0\t0\t0\t0\t0\t0\t50\t65\t78\t15\t8\t5\t7\t5\t3\t1\t2\t0\t0\t20\t30\t\t0"
+  },
+  {
+    "var": "CRTRAITS_Âîâ÷èé âåðøíèê",
+    "en": "Âîâ÷èé âåðøíèê\tÂîâ÷èõ âåðøíèê³â\t0\t0\t0\t0\t0\t0\t100\t130\t130\t9\t0\t10\t6\t7\t5\t2\t4\t0\t0\t16\t30\t\tDOUBLE_WIDE",
+    "ua": "Вовчий вершник\tВовчих вершників\t0\t0\t0\t0\t0\t0\t100\t130\t130\t9\t0\t10\t6\t7\t5\t2\t4\t0\t0\t16\t30\t\tDOUBLE_WIDE"
+  },
+  {
+    "var": "CRTRAITS_Âîâ÷èé ðåéäåð",
+    "en": "Âîâ÷èé ðåéäåð\tÂîâ÷èõ ðåéäåð³â\t0\t0\t0\t0\t0\t0\t140\t174\t203\t9\t0\t10\t8\t8\t5\t3\t4\t0\t0\t16\t25\tÁ'º äâ³÷³\tDOUBLE_WIDE",
+    "ua": "Вовчий рейдер\tВовчих рейдерів\t0\t0\t0\t0\t0\t0\t140\t174\t203\t9\t0\t10\t8\t8\t5\t3\t4\t0\t0\t16\t25\tБ'є двічі\tDOUBLE_WIDE"
+  },
+  {
+    "var": "CRTRAITS_Îðê",
+    "en": "Îðê\tÎðê³â\t0\t0\t0\t0\t0\t0\t150\t175\t192\t7\t0\t15\t4\t8\t4\t2\t5\t12\t0\t12\t25\t\tSHOOTING_ARMY",
+    "ua": "Орк\tОрків\t0\t0\t0\t0\t0\t0\t150\t175\t192\t7\t0\t15\t4\t8\t4\t2\t5\t12\t0\t12\t25\t\tSHOOTING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Âîæäü îðê³â",
+    "en": "Âîæäü îðê³â\tÂîæä³â îðê³â\t0\t0\t0\t0\t0\t0\t165\t200\t240\t7\t0\t20\t5\t8\t4\t2\t5\t24\t0\t12\t20\t\tSHOOTING_ARMY",
+    "ua": "Вождь орків\tВождів орків\t0\t0\t0\t0\t0\t0\t165\t200\t240\t7\t0\t20\t5\t8\t4\t2\t5\t24\t0\t12\t20\t\tSHOOTING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Îãð",
+    "en": "Îãð\tÎãð³â\t0\t0\t0\t0\t0\t0\t300\t520\t416\t4\t0\t40\t4\t13\t7\t6\t12\t0\t0\t10\t20\t\t0",
+    "ua": "Огр\tОгрів\t0\t0\t0\t0\t0\t0\t300\t520\t416\t4\t0\t40\t4\t13\t7\t6\t12\t0\t0\t10\t20\t\t0"
+  },
+  {
+    "var": "CRTRAITS_Ìàã îãð³â",
+    "en": "Ìàã îãð³â\tÌàã³â îãð³â\t0\t0\t0\t0\t0\t0\t400\t672\t672\t4\t0\t60\t5\t13\t7\t6\t12\t0\t3\t10\t16\tÌàã³ÿ: æàãà êðîâ³.\t0",
+    "ua": "Маг огрів\tМагів огрів\t0\t0\t0\t0\t0\t0\t400\t672\t672\t4\t0\t60\t5\t13\t7\t6\t12\t0\t3\t10\t16\tМагія: жага крові.\t0"
+  },
+  {
+    "var": "CRTRAITS_Ïòàõ Ðóõ",
+    "en": "Ïòàõ Ðóõ\tÏòàõ³â Ðóõ\t0\t0\t0\t0\t0\t0\t600\t790\t1027\t3\t0\t60\t7\t13\t11\t11\t15\t0\t0\t8\t16\t\tFLYING_ARMY | DOUBLE_WIDE",
+    "ua": "Птах Рух\tПтахів Рух\t0\t0\t0\t0\t0\t0\t600\t790\t1027\t3\t0\t60\t7\t13\t11\t11\t15\t0\t0\t8\t16\t\tFLYING_ARMY | DOUBLE_WIDE"
+  },
+  {
+    "var": "CRTRAITS_Áóðåâ³ñíèê",
+    "en": "Áóðåâ³ñíèê\tÁóðåâ³ñíèê³â\t0\t0\t0\t0\t0\t0\t700\t869\t1106\t3\t0\t60\t11\t13\t11\t11\t15\t0\t0\t8\t12\tÁëèñêàâêà.\tFLYING_ARMY | DOUBLE_WIDE",
+    "ua": "Буревісник\tБуревісників\t0\t0\t0\t0\t0\t0\t700\t869\t1106\t3\t0\t60\t11\t13\t11\t11\t15\t0\t0\t8\t12\tБлискавка.\tFLYING_ARMY | DOUBLE_WIDE"
+  },
+  {
+    "var": "CRTRAITS_Öèêëîï",
+    "en": "Öèêëîï\tÖèêëîï³â\t0\t0\t0\t0\t0\t0\t750\t1055\t1266\t2\t0\t70\t6\t15\t12\t16\t20\t16\t0\t5\t12\tÀòàêóº ñò³íè ôîðòåö³.\tSHOOTING_ARMY | CATAPULT",
+    "ua": "Циклоп\tЦиклопів\t0\t0\t0\t0\t0\t0\t750\t1055\t1266\t2\t0\t70\t6\t15\t12\t16\t20\t16\t0\t5\t12\tАтакує стіни фортеці.\tSHOOTING_ARMY | CATAPULT"
+  },
+  {
+    "var": "CRTRAITS_Êîðîëü öèêëîï³â",
+    "en": "Êîðîëü öèêëîï³â\tÊîðîë³â öèêëîï³â\t0\t0\t0\t0\t0\t0\t1100\t1110\t1443\t2\t0\t70\t8\t17\t13\t16\t20\t24\t0\t5\t10\tÀòàêóº ñò³íè ôîðòåö³.\tSHOOTING_ARMY | CATAPULT",
+    "ua": "Король циклопів\tКоролів циклопів\t0\t0\t0\t0\t0\t0\t1100\t1110\t1443\t2\t0\t70\t8\t17\t13\t16\t20\t24\t0\t5\t10\tАтакує стіни фортеці.\tSHOOTING_ARMY | CATAPULT"
+  },
+  {
+    "var": "CRTRAITS_×óäîâèñüêî",
+    "en": "×óäîâèñüêî\t×óäîâèñüê\t0\t0\t0\t0\t0\t0\t1500\t3162\t3162\t1\t0\t160\t6\t17\t17\t30\t50\t0\t0\t4\t10\tÇàõèñò îáðàíîãî âîðîãà çìåíøóºòüñÿ íà 40%.\tDOUBLE_WIDE | KING_1",
+    "ua": "Чудовисько\tЧудовиськ\t0\t0\t0\t0\t0\t0\t1500\t3162\t3162\t1\t0\t160\t6\t17\t17\t30\t50\t0\t0\t4\t10\tЗахист обраного ворога зменшується на 40%.\tDOUBLE_WIDE | KING_1"
+  },
+  {
+    "var": "CRTRAITS_Äðåâíº ÷óäîâèñüêî",
+    "en": "Äðåâíº ÷óäîâèñüêî\tÄðåâí³õ ÷óäîâèñüê\t0\t0\t0\t0\t1\t0\t3000\t5397\t6168\t1\t0\t300\t9\t19\t19\t30\t50\t0\t0\t3\t8\tÇàõèñò îáðàíîãî âîðîãà çìåíøóºòüñÿ íà 80%.\tDOUBLE_WIDE | KING_1",
+    "ua": "Древнє чудовисько\tДревніх чудовиськ\t0\t0\t0\t0\t1\t0\t3000\t5397\t6168\t1\t0\t300\t9\t19\t19\t30\t50\t0\t0\t3\t8\tЗахист обраного ворога зменшується на 80%.\tDOUBLE_WIDE | KING_1"
+  },
+  {
+    "var": "CRTRAITS_119",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_120",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_121",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_Ãíîë",
+    "en": "Ãíîë\tÃíîë³â\t0\t0\t0\t0\t0\t0\t50\t70\t56\t12\t6\t6\t4\t3\t5\t2\t3\t0\t0\t20\t50\t\t0",
+    "ua": "Гнол\tГнолів\t0\t0\t0\t0\t0\t0\t50\t70\t56\t12\t6\t6\t4\t3\t5\t2\t3\t0\t0\t20\t50\t\t0"
+  },
+  {
+    "var": "CRTRAITS_Ãíîë ìàðîäåð",
+    "en": "Ãíîë ìàðîäåð\tÃíîë³â ìàðîäåð³â\t0\t0\t0\t0\t0\t0\t70\t90\t90\t12\t6\t6\t5\t4\t6\t2\t3\t0\t0\t20\t30\t\t0",
+    "ua": "Гнол мародер\tГнолів мародерів\t0\t0\t0\t0\t0\t0\t70\t90\t90\t12\t6\t6\t5\t4\t6\t2\t3\t0\t0\t20\t30\t\t0"
+  },
+  {
+    "var": "CRTRAITS_ßù³ð",
+    "en": "ßù³ð\tßù³ð³â\t0\t0\t0\t0\t0\t0\t110\t115\t126\t9\t0\t14\t4\t5\t6\t2\t3\t12\t0\t16\t30\t\tSHOOTING_ARMY",
+    "ua": "Ящір\tЯщірів\t0\t0\t0\t0\t0\t0\t110\t115\t126\t9\t0\t14\t4\t5\t6\t2\t3\t12\t0\t16\t30\t\tSHOOTING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_ßù³ð âî¿í",
+    "en": "ßù³ð âî¿í\tßù³ð³â âî¿í³â\t0\t0\t0\t0\t0\t0\t140\t130\t156\t9\t0\t15\t5\t6\t8\t2\t5\t24\t0\t16\t25\t\tSHOOTING_ARMY",
+    "ua": "Ящір воїн\tЯщірів воїнів\t0\t0\t0\t0\t0\t0\t140\t130\t156\t9\t0\t15\t5\t6\t8\t2\t5\t24\t0\t16\t25\t\tSHOOTING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Ãîðãîíà",
+    "en": "Ãîðãîíà\tÃîðãîí\t0\t0\t0\t0\t0\t0\t525\t890\t890\t3\t0\t70\t5\t10\t14\t12\t16\t0\t0\t12\t25\t\tDOUBLE_WIDE",
+    "ua": "Горгона\tГоргон\t0\t0\t0\t0\t0\t0\t525\t890\t890\t3\t0\t70\t5\t10\t14\t12\t16\t0\t0\t12\t25\t\tDOUBLE_WIDE"
+  },
+  {
+    "var": "CRTRAITS_Ìîãóòíÿ ãîðãîíà",
+    "en": "Ìîãóòíÿ ãîðãîíà\tÌîãóòí³õ ãîðãîí\t0\t0\t0\t0\t0\t0\t600\t1028\t1028\t3\t0\t70\t6\t11\t16\t12\t16\t0\t0\t12\t20\tÑìåðòåëüíèé ïîãëÿä.\tDOUBLE_WIDE",
+    "ua": "Могутня горгона\tМогутніх горгон\t0\t0\t0\t0\t0\t0\t600\t1028\t1028\t3\t0\t70\t6\t11\t16\t12\t16\t0\t0\t12\t20\tСмертельний погляд.\tDOUBLE_WIDE"
+  },
+  {
+    "var": "CRTRAITS_Çì³ºìóõà",
+    "en": "Çì³ºìóõà\tÇì³ºìóõ\t0\t0\t0\t0\t0\t0\t220\t215\t268\t8\t0\t20\t9\t7\t9\t2\t5\t0\t0\t10\t20\tÐîçñ³þº êîðèñí³ çàêëÿòòÿ.\tFLYING_ARMY",
+    "ua": "Зміємуха\tЗміємух\t0\t0\t0\t0\t0\t0\t220\t215\t268\t8\t0\t20\t9\t7\t9\t2\t5\t0\t0\t10\t20\tРозсіює корисні закляття.\tFLYING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Äðàêîìóõà",
+    "en": "Äðàêîìóõà\tÄðàêîìóõ\t0\t0\t0\t0\t0\t0\t240\t250\t312\t8\t0\t20\t13\t8\t10\t2\t5\t0\t0\t10\t16\tÐîçñ³þº êîðèñí³ çàêëÿòòÿ.\tFLYING_ARMY",
+    "ua": "Дракомуха\tДракомух\t0\t0\t0\t0\t0\t0\t240\t250\t312\t8\t0\t20\t13\t8\t10\t2\t5\t0\t0\t10\t16\tРозсіює корисні закляття.\tFLYING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Âàñèë³ñê",
+    "en": "Âàñèë³ñê\tÂàñèë³ñê³â\t0\t0\t0\t0\t0\t0\t325\t506\t552\t4\t0\t35\t5\t11\t11\t6\t10\t0\t0\t8\t16\tÏàðàë³çóþ÷à àòàêà.\tDOUBLE_WIDE",
+    "ua": "Василіск\tВасилісків\t0\t0\t0\t0\t0\t0\t325\t506\t552\t4\t0\t35\t5\t11\t11\t6\t10\t0\t0\t8\t16\tПаралізуюча атака.\tDOUBLE_WIDE"
+  },
+  {
+    "var": "CRTRAITS_Ñòàðøèé âàñèë³ñê",
+    "en": "Ñòàðøèé âàñèë³ñê\tÑòàðøèõ âàñèë³ñê³â\t0\t0\t0\t0\t0\t0\t400\t561\t714\t4\t0\t40\t7\t12\t12\t6\t10\t0\t0\t8\t12\tÏàðàë³çóþ÷à àòàêà.\tDOUBLE_WIDE",
+    "ua": "Старший василіск\tСтарших василісків\t0\t0\t0\t0\t0\t0\t400\t561\t714\t4\t0\t40\t7\t12\t12\t6\t10\t0\t0\t8\t12\tПаралізуюча атака.\tDOUBLE_WIDE"
+  },
+  {
+    "var": "CRTRAITS_Âèâåðíà",
+    "en": "Âèâåðíà\tÂèâåðí\t0\t0\t0\t0\t0\t0\t800\t1050\t1350\t2\t0\t70\t7\t14\t14\t14\t18\t0\t0\t5\t12\t\tDOUBLE_WIDE | FLYING_ARMY",
+    "ua": "Виверна\tВиверн\t0\t0\t0\t0\t0\t0\t800\t1050\t1350\t2\t0\t70\t7\t14\t14\t14\t18\t0\t0\t5\t12\t\tDOUBLE_WIDE | FLYING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Âèâåðíà ìîíàðõ",
+    "en": "Âèâåðíà ìîíàðõ\tÂèâåðí ìîíàðõ³â\t0\t0\t0\t0\t0\t0\t1100\t1181\t1518\t2\t0\t70\t11\t14\t14\t18\t22\t0\t0\t5\t10\tÎòðóéíèé.\tDOUBLE_WIDE | FLYING_ARMY",
+    "ua": "Виверна монарх\tВиверн монархів\t0\t0\t0\t0\t0\t0\t1100\t1181\t1518\t2\t0\t70\t11\t14\t14\t18\t22\t0\t0\t5\t10\tОтруйний.\tDOUBLE_WIDE | FLYING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Ã³äðà",
+    "en": "Ã³äðà\tÃ³äð\t0\t0\t0\t0\t0\t0\t2200\t4120\t4120\t1\t0\t175\t5\t16\t18\t25\t45\t0\t0\t4\t10\tÀòàêóº óñ³õ âîðîã³â, ùî ñòîÿòü ïîðó÷. Âîðîã íå â³äïîâ³äàº.\tDOUBLE_WIDE | KING_1",
+    "ua": "Гідра\tГідр\t0\t0\t0\t0\t0\t0\t2200\t4120\t4120\t1\t0\t175\t5\t16\t18\t25\t45\t0\t0\t4\t10\tАтакує усіх ворогів, що стоять поруч. Ворог не відповідає.\tDOUBLE_WIDE | KING_1"
+  },
+  {
+    "var": "CRTRAITS_Ã³äðà õàîñó",
+    "en": "Ã³äðà õàîñó\tÃ³äð õàîñó\t0\t0\t0\t1\t0\t0\t3500\t5272\t5931\t1\t0\t250\t7\t18\t20\t25\t45\t0\t0\t3\t8\tÀòàêóº óñ³õ âîðîã³â, ùî ñòîÿòü ïîðó÷. Âîðîã íå â³äïîâ³äàº.\tDOUBLE_WIDE | KING_1",
+    "ua": "Гідра хаосу\tГідр хаосу\t0\t0\t0\t1\t0\t0\t3500\t5272\t5931\t1\t0\t250\t7\t18\t20\t25\t45\t0\t0\t3\t8\tАтакує усіх ворогів, що стоять поруч. Ворог не відповідає.\tDOUBLE_WIDE | KING_1"
+  },
+  {
+    "var": "CRTRAITS_136",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_137",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_138",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_Ïîâ³òðÿíèé åëåìåíòàëü",
+    "en": "Ïîâ³òðÿíèé åëåìåíòàëü\tÏîâ³òðÿíèõ åëåìåíòàë³â\t0\t0\t0\t0\t0\t0\t250\t324\t356\t6\t0\t25\t7\t9\t9\t2\t8\t0\t0\t8\t12\tÂðàçëèâ³ñòü äî áëèñêàâêè òà âîãíþ.\t0",
+    "ua": "Повітряний елементаль\tПовітряних елементалів\t0\t0\t0\t0\t0\t0\t250\t324\t356\t6\t0\t25\t7\t9\t9\t2\t8\t0\t0\t8\t12\tВразливість до блискавки та вогню.\t0"
+  },
+  {
+    "var": "CRTRAITS_Çåìíèé åëåìåíòàëü",
+    "en": "Çåìíèé åëåìåíòàëü\tÇåìíèõ åëåìåíòàë³â\t0\t0\t0\t0\t0\t0\t400\t415\t330\t4\t0\t40\t4\t10\t10\t4\t8\t0\t0\t16\t30\tÂðàçëèâ³ñòü äî ìåòåîðèòíîãî äîùó.\t0",
+    "ua": "Земний елементаль\tЗемних елементалів\t0\t0\t0\t0\t0\t0\t400\t415\t330\t4\t0\t40\t4\t10\t10\t4\t8\t0\t0\t16\t30\tВразливість до метеоритного дощу.\t0"
+  },
+  {
+    "var": "CRTRAITS_Âîãíåííèé åëåìåíòàëü",
+    "en": "Âîãíåííèé åëåìåíòàëü\tÂîãíåííèõ åëåìåíòàë³â\t0\t0\t0\t0\t0\t0\t350\t345\t345\t5\t0\t35\t6\t10\t8\t4\t6\t0\t0\t16\t25\t\"²ìóí³òåò äî âîãíþ. \nÂðàçëèâ³ñü äî çàìîðîæóâàííÿ.\"\t0",
+    "ua": "Вогненний елементаль\tВогненних елементалів\t0\t0\t0\t0\t0\t0\t350\t345\t345\t5\t0\t35\t6\t10\t8\t4\t6\t0\t0\t16\t25\t\"Імунітет до вогню. \nВразливісь до заморожування.\"\t0"
+  },
+  {
+    "var": "CRTRAITS_Âîäíèé åëåìåíòàëü",
+    "en": "Âîäíèé åëåìåíòàëü\tÂîäíèõ åëåìåíòàë³â\t0\t0\t0\t0\t0\t0\t300\t315\t315\t6\t0\t30\t5\t8\t10\t3\t7\t0\t0\t12\t25\t\"²ìóí³òåò äî çàìîðîæóâàííÿ. \nÂðàçëèâ³ñòü äî âîãíþ.\"\t0",
+    "ua": "Водний елементаль\tВодних елементалів\t0\t0\t0\t0\t0\t0\t300\t315\t315\t6\t0\t30\t5\t8\t10\t3\t7\t0\t0\t12\t25\t\"Імунітет до заморожування. \nВразливість до вогню.\"\t0"
+  },
+  {
+    "var": "CRTRAITS_Çîëîòèé ãîëåì",
+    "en": "Çîëîòèé ãîëåì\tÇîëîòèõ ãîëåì³â\t0\t0\t0\t0\t0\t0\t500\t600\t600\t3\t0\t50\t5\t11\t12\t8\t10\t0\t0\t10\t16\tÏîøêîäæåííÿ â³ä çàêëÿòü çìåíøåíèé íà 85%.\t0",
+    "ua": "Золотий голем\tЗолотих големів\t0\t0\t0\t0\t0\t0\t500\t600\t600\t3\t0\t50\t5\t11\t12\t8\t10\t0\t0\t10\t16\tПошкодження від заклять зменшений на 85%.\t0"
+  },
+  {
+    "var": "CRTRAITS_Ä³àìàíòîâèé ãîëåì",
+    "en": "Ä³àìàíòîâèé ãîëåì\tÄ³àìàíòîâèõ ãîëåì³â\t0\t0\t0\t0\t0\t0\t750\t775\t775\t2\t0\t60\t5\t13\t12\t10\t14\t0\t0\t8\t12\tÏîøêîäæåííÿ â³ä çàêëÿòü çìåíøåíèé íà 95%.\t0",
+    "ua": "Діамантовий голем\tДіамантових големів\t0\t0\t0\t0\t0\t0\t750\t775\t775\t2\t0\t60\t5\t13\t12\t10\t14\t0\t0\t8\t12\tПошкодження від заклять зменшений на 95%.\t0"
+  },
+  {
+    "var": "CRTRAITS_145",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_146",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_147",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_Ï³êñ³",
+    "en": "Ï³êñ³\tÏ³êñ³\t0\t0\t0\t0\t0\t0\t25\t40\t55\t20\t10\t3\t7\t2\t2\t1\t2\t0\t0\t20\t50\t\tFLYING_ARMY",
+    "ua": "Піксі\tПіксі\t0\t0\t0\t0\t0\t0\t25\t40\t55\t20\t10\t3\t7\t2\t2\t1\t2\t0\t0\t20\t50\t\tFLYING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Ôåÿ",
+    "en": "Ôåÿ\tÔåé\t0\t0\t0\t0\t0\t0\t30\t70\t95\t20\t10\t3\t9\t2\t2\t1\t3\t0\t0\t20\t30\tÂîðîã íå â³äïîâ³äàº.\tFLYING_ARMY | const_free_attack",
+    "ua": "Фея\tФей\t0\t0\t0\t0\t0\t0\t30\t70\t95\t20\t10\t3\t9\t2\t2\t1\t3\t0\t0\t20\t30\tВорог не відповідає.\tFLYING_ARMY | const_free_attack"
+  },
+  {
+    "var": "CRTRAITS_Ïñèõ³÷íèé åëåìåíòàëü",
+    "en": "Ïñèõ³÷íèé åëåìåíòàëü\tÏñèõ³÷íèõ åëåìåíòàë³â\t0\t0\t0\t0\t0\t0\t750\t1431\t1669\t2\t0\t75\t7\t15\t13\t10\t20\t0\t0\t8\t16\t\"Àòàêóº óñ³õ âîðîã³â, ùî ñòîÿòü ïîðó÷, íå îòðèìóþ÷è â³äïîâ³ä³. ²ìóí³òåò äî ðîçóìîâèõ çàêëÿòü.\"\tIMMUNE_TO_MIND_SPELLS | DOUBLE_WIDE | const_free_attack | MULTI_HEADED",
+    "ua": "Психічний елементаль\tПсихічних елементалів\t0\t0\t0\t0\t0\t0\t750\t1431\t1669\t2\t0\t75\t7\t15\t13\t10\t20\t0\t0\t8\t16\t\"Атакує усіх ворогів, що стоять поруч, не отримуючи відповіді. Імунітет до розумових заклять.\"\tIMMUNE_TO_MIND_SPELLS | DOUBLE_WIDE | const_free_attack | MULTI_HEADED"
+  },
+  {
+    "var": "CRTRAITS_Ìàã³÷íèé åëåìåíòàëü",
+    "en": "Ìàã³÷íèé åëåìåíòàëü\tÌàã³÷íèõ åëåìåíòàë³â\t0\t0\t0\t0\t0\t0\t800\t1724\t2012\t2\t0\t80\t9\t15\t13\t15\t25\t0\t0\t8\t12\t\"Àòàêóº óñ³õ âîðîã³â, ùî ñòîÿòü ïîðó÷, íå îòðèìóþ÷è â³äïîâ³ä³. ²ìóí³òåò äî ðîçóìîâèõ çàêëÿòü.\"\tIMMUNE_TO_MIND_SPELLS | DOUBLE_WIDE | const_free_attack | MULTI_HEADED",
+    "ua": "Магічний елементаль\tМагічних елементалів\t0\t0\t0\t0\t0\t0\t800\t1724\t2012\t2\t0\t80\t9\t15\t13\t15\t25\t0\t0\t8\t12\t\"Атакує усіх ворогів, що стоять поруч, не отримуючи відповіді. Імунітет до розумових заклять.\"\tIMMUNE_TO_MIND_SPELLS | DOUBLE_WIDE | const_free_attack | MULTI_HEADED"
+  },
+  {
+    "var": "CRTRAITS_NOT USED (1)",
+    "en": "NOT USED (1)\tNOT USED (1)\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t",
+    "ua": "NOT USED (1)\tNOT USED (1)\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t"
+  },
+  {
+    "var": "CRTRAITS_Êðèæàíèé åëåìåíòàëü",
+    "en": "Êðèæàíèé åëåìåíòàëü\tÊðèæàíèõ åëåìåíòàë³â\t0\t0\t0\t0\t0\t0\t375\t315\t380\t6\t0\t30\t6\t8\t10\t3\t7\t24\t3\t12\t20\t\"²ìóí³òåò äî ðîçóìîâèõ çàêëÿòü. ²ìóí³òåò äî çàìîðîæóâàííÿ. Âðàçëèâ³ñòü äî âîãíþ.\"\tIMMUNE_TO_MIND_SPELLS | SHOOTING_ARMY",
+    "ua": "Крижаний елементаль\tКрижаних елементалів\t0\t0\t0\t0\t0\t0\t375\t315\t380\t6\t0\t30\t6\t8\t10\t3\t7\t24\t3\t12\t20\t\"Імунітет до розумових заклять. Імунітет до заморожування. Вразливість до вогню.\"\tIMMUNE_TO_MIND_SPELLS | SHOOTING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_NOT USED (2)",
+    "en": "NOT USED (2) \tNOT USED (2)\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t",
+    "ua": "NOT USED (2) \tNOT USED (2)\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t"
+  },
+  {
+    "var": "CRTRAITS_Ìàãìîâèé åëåìåíòàëü",
+    "en": "Ìàãìîâèé åëåìåíòàëü\tÌàãìîâèõ åëåìåíòàë³â\t0\t0\t0\t0\t0\t0\t500\t490\t490\t4\t0\t40\t6\t11\t11\t6\t10\t0\t3\t16\t25\t\"²ìóí³òåò äî ðîçóìîâèõ çàêëÿòü. Ñòâîðþº çàõèñò â³ä Çåìë³.\"\tIMMUNE_TO_MIND_SPELLS",
+    "ua": "Магмовий елементаль\tМагмових елементалів\t0\t0\t0\t0\t0\t0\t500\t490\t490\t4\t0\t40\t6\t11\t11\t6\t10\t0\t3\t16\t25\t\"Імунітет до розумових заклять. Створює захист від Землі.\"\tIMMUNE_TO_MIND_SPELLS"
+  },
+  {
+    "var": "CRTRAITS_NOT USED (3)",
+    "en": "NOT USED (3)\tNOT USED (3)\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t",
+    "ua": "NOT USED (3)\tNOT USED (3)\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t"
+  },
+  {
+    "var": "CRTRAITS_Øòîðìîâèé åëåìåíòàëü",
+    "en": "Øòîðìîâèé åëåìåíòàëü\tØòîðìîâèõ åëåìåíòàë³â\t0\t0\t0\t0\t0\t0\t275\t324\t486\t6\t0\t25\t8\t9\t9\t2\t8\t24\t3\t6\t12\t\"Íåìàº øòðàôó çà áëèæí³é á³é. Âðàçëèâ³ñòü äî áëèñêàâêè òà âîãíåííîãî øòîðìó.\"\tIMMUNE_TO_MIND_SPELLS | SHOOTING_ARMY",
+    "ua": "Штормовий елементаль\tШтормових елементалів\t0\t0\t0\t0\t0\t0\t275\t324\t486\t6\t0\t25\t8\t9\t9\t2\t8\t24\t3\t6\t12\t\"Немає штрафу за ближній бій. Вразливість до блискавки та вогненного шторму.\"\tIMMUNE_TO_MIND_SPELLS | SHOOTING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_NOT USED (4)",
+    "en": "NOT USED (4)\tNOT USED (4)\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t",
+    "ua": "NOT USED (4)\tNOT USED (4)\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t0\t\t"
+  },
+  {
+    "var": "CRTRAITS_Åíåðãåòè÷íèé åëåìíòàëü",
+    "en": "Åíåðãåòè÷íèé åëåìíòàëü\tÅíåðãåòè÷íèõ åëåìåíòàë³â\t0\t0\t0\t0\t0\t0\t400\t360\t470\t5\t0\t35\t8\t12\t8\t4\t6\t0\t3\t12\t25\t\"Ñòâîðþº çàõèñò â³ä Âîãíþ. ²ìóí³òåò äî âîãíåííèõ ³ ðîçóìîâèõ çàêëÿòü, âðàçëèâ³ñòü äî çàìîðîæóâàííÿ.\"\tIMMUNE_TO_MIND_SPELLS | IMMUNE_TO_FIRE_SPELLS | FLYING_ARMY",
+    "ua": "Енергетичний елемнталь\tЕнергетичних елементалів\t0\t0\t0\t0\t0\t0\t400\t360\t470\t5\t0\t35\t8\t12\t8\t4\t6\t0\t3\t12\t25\t\"Створює захист від Вогню. Імунітет до вогненних і розумових заклять, вразливість до заморожування.\"\tIMMUNE_TO_MIND_SPELLS | IMMUNE_TO_FIRE_SPELLS | FLYING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Æàðïòèöÿ",
+    "en": "Æàðïòèöÿ\tÆàðïòèöü\t0\t0\t0\t0\t0\t0\t1500\t3248\t4547\t2\t0\t150\t15\t18\t18\t30\t40\t0\t0\t4\t10\t\"Âîãíåííèé ïîäèõ. ²ìóí³òåò äî âîãíåííèõ çàêëÿòü.\"\tIMMUNE_TO_FIRE_SPELLS | DOUBLE_WIDE | FLYING_ARMY | KING_1 | HAS_EXTENDED_ATTACK",
+    "ua": "Жарптиця\tЖарптиць\t0\t0\t0\t0\t0\t0\t1500\t3248\t4547\t2\t0\t150\t15\t18\t18\t30\t40\t0\t0\t4\t10\t\"Вогненний подих. Імунітет до вогненних заклять.\"\tIMMUNE_TO_FIRE_SPELLS | DOUBLE_WIDE | FLYING_ARMY | KING_1 | HAS_EXTENDED_ATTACK"
+  },
+  {
+    "var": "CRTRAITS_Ôåí³êñ",
+    "en": "Ôåí³êñ\tÔåí³êñ³â\t0\t1\t0\t0\t0\t0\t2000\t4929\t6721\t2\t0\t200\t21\t21\t18\t30\t40\t0\t1\t4\t10\t\"Âîãíåííèé ïîäèõ. ²ìóí³òåò äî âîãíåííèõ çàêëÿòü. Ïåðåðîäæåííÿ.\"\tIMMUNE_TO_FIRE_SPELLS | DOUBLE_WIDE | FLYING_ARMY | KING_1 | HAS_EXTENDED_ATTACK",
+    "ua": "Фенікс\tФеніксів\t0\t1\t0\t0\t0\t0\t2000\t4929\t6721\t2\t0\t200\t21\t21\t18\t30\t40\t0\t1\t4\t10\t\"Вогненний подих. Імунітет до вогненних заклять. Переродження.\"\tIMMUNE_TO_FIRE_SPELLS | DOUBLE_WIDE | FLYING_ARMY | KING_1 | HAS_EXTENDED_ATTACK"
+  },
+  {
+    "var": "CRTRAITS_162",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_163",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_164",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_Ëàçóðîâèé äðàêîí",
+    "en": "Ëàçóðîâèé äðàêîí\tËàçóðîâèõ äðàêîí³â\t0\t20\t0\t0\t0\t0\t30000\t56315\t78845\t1\t0\t1000\t19\t50\t50\t70\t80\t0\t0\t1\t3\tÑòðàõ.\tDOUBLE_WIDE | FLYING_ARMY | KING_1",
+    "ua": "Лазуровий дракон\tЛазурових драконів\t0\t20\t0\t0\t0\t0\t30000\t56315\t78845\t1\t0\t1000\t19\t50\t50\t70\t80\t0\t0\t1\t3\tСтрах.\tDOUBLE_WIDE | FLYING_ARMY | KING_1"
+  },
+  {
+    "var": "CRTRAITS_Êðèøòàëåâèé äðàêîí",
+    "en": "Êðèøòàëåâèé äðàêîí\tÊðèøòàëåâèõ äðàêîí³â\t0\t0\t0\t0\t10\t0\t20000\t30260\t39338\t1\t0\t800\t16\t40\t40\t60\t75\t0\t0\t1\t3\tÏðèíîñèòü êðèñòàëè.\tDOUBLE_WIDE | FLYING_ARMY | KING_1",
+    "ua": "Кришталевий дракон\tКришталевих драконів\t0\t0\t0\t0\t10\t0\t20000\t30260\t39338\t1\t0\t800\t16\t40\t40\t60\t75\t0\t0\t1\t3\tПриносить кристали.\tDOUBLE_WIDE | FLYING_ARMY | KING_1"
+  },
+  {
+    "var": "CRTRAITS_Êàçêîâèé äðàêîí",
+    "en": "Êàçêîâèé äðàêîí\tÊàçêîâèõ äðàêîí³â\t0\t0\t0\t0\t0\t8\t10000\t16317\t19580\t1\t0\t500\t15\t20\t20\t20\t30\t0\t5\t1\t3\tÂîëîä³º àòàêóâàëüíèìè çàêëÿòòÿìè.\tDOUBLE_WIDE | FLYING_ARMY | KING_1",
+    "ua": "Казковий дракон\tКазкових драконів\t0\t0\t0\t0\t0\t8\t10000\t16317\t19580\t1\t0\t500\t15\t20\t20\t20\t30\t0\t5\t1\t3\tВолодіє атакувальними закляттями.\tDOUBLE_WIDE | FLYING_ARMY | KING_1"
+  },
+  {
+    "var": "CRTRAITS_²ðæàâèé äðàêîí",
+    "en": "²ðæàâèé äðàêîí\t²ðæàâèõ äðàêîí³â\t0\t0\t0\t14\t0\t0\t15000\t24030\t26433\t1\t0\t750\t17\t30\t30\t50\t50\t0\t0\t1\t3\tÏëþº êèñëîòîþ.\tDOUBLE_WIDE | FLYING_ARMY | KING_1",
+    "ua": "Іржавий дракон\tІржавих драконів\t0\t0\t0\t14\t0\t0\t15000\t24030\t26433\t1\t0\t750\t17\t30\t30\t50\t50\t0\t0\t1\t3\tПлює кислотою.\tDOUBLE_WIDE | FLYING_ARMY | KING_1"
+  },
+  {
+    "var": "CRTRAITS_×àðîä³é",
+    "en": "×àðîä³é\t×àðîä³¿â\t0\t0\t0\t0\t0\t0\t750\t805\t1210\t2\t0\t30\t9\t17\t12\t14\t14\t32\t0\t5\t12\t\"Íåìàº øòðàôó çà áëèæí³é á³é.\nÂîëîä³º çàêëÿòòÿìè.\"\tSHOOTING_ARMY | const_no_melee_penalty",
+    "ua": "Чародій\tЧародіїв\t0\t0\t0\t0\t0\t0\t750\t805\t1210\t2\t0\t30\t9\t17\t12\t14\t14\t32\t0\t5\t12\t\"Немає штрафу за ближній бій.\nВолодіє закляттями.\"\tSHOOTING_ARMY | const_no_melee_penalty"
+  },
+  {
+    "var": "CRTRAITS_Ñíàéïåð",
+    "en": "Ñíàéïåð\tÑíàéïåð³â\t0\t0\t0\t0\t0\t0\t400\t415\t585\t4\t0\t15\t9\t12\t10\t8\t10\t32\t0\t5\t12\tÍåìàº øòðàôó çà â³äñòàíü ÷è ïåðåøêîäè.\tSHOOTING_ARMY",
+    "ua": "Снайпер\tСнайперів\t0\t0\t0\t0\t0\t0\t400\t415\t585\t4\t0\t15\t9\t12\t10\t8\t10\t32\t0\t5\t12\tНемає штрафу за відстань чи перешкоди.\tSHOOTING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Õàëôë³íã",
+    "en": "Õàëôë³íã\tÕàëôë³íã³â\t0\t0\t0\t0\t0\t0\t40\t60\t75\t15\t0\t4\t5\t4\t2\t1\t3\t24\t0\t20\t50\tÏîçèòèâíà óäà÷à.\tSHOOTING_ARMY",
+    "ua": "Халфлінг\tХалфлінгів\t0\t0\t0\t0\t0\t0\t40\t60\t75\t15\t0\t4\t5\t4\t2\t1\t3\t24\t0\t20\t50\tПозитивна удача.\tSHOOTING_ARMY"
+  },
+  {
+    "var": "CRTRAITS_Ñåëÿíèí",
+    "en": "Ñåëÿíèí\tÑåëÿí\t0\t0\t0\t0\t0\t0\t10\t15\t15\t25\t0\t1\t3\t1\t1\t1\t1\t0\t0\t20\t50\t\t",
+    "ua": "Селянин\tСелян\t0\t0\t0\t0\t0\t0\t10\t15\t15\t25\t0\t1\t3\t1\t1\t1\t1\t0\t0\t20\t50\t\t"
+  },
+  {
+    "var": "CRTRAITS_Êàáàí",
+    "en": "Êàáàí\tÊàáàí³â\t0\t0\t0\t0\t0\t0\t150\t145\t145\t8\t0\t15\t6\t6\t5\t2\t3\t0\t0\t16\t30\t\t",
+    "ua": "Кабан\tКабанів\t0\t0\t0\t0\t0\t0\t150\t145\t145\t8\t0\t15\t6\t6\t5\t2\t3\t0\t0\t16\t30\t\t"
+  },
+  {
+    "var": "CRTRAITS_Ìóì³ÿ",
+    "en": "Ìóì³ÿ\tÌóì³é\t0\t0\t0\t0\t0\t0\t300\t270\t270\t7\t0\t30\t5\t7\t7\t3\t5\t0\t0\t12\t25\tÏðîêëÿòòÿ.\t",
+    "ua": "Мумія\tМумій\t0\t0\t0\t0\t0\t0\t300\t270\t270\t7\t0\t30\t5\t7\t7\t3\t5\t0\t0\t12\t25\tПрокляття.\t"
+  },
+  {
+    "var": "CRTRAITS_Êî÷³âíèê",
+    "en": "Êî÷³âíèê\tÊî÷³âíèê³â\t0\t0\t0\t0\t0\t0\t200\t285\t345\t7\t0\t30\t7\t9\t8\t2\t6\t0\t0\t12\t25\tØâèäêèé ðóõ ïóñòåëåþ.\t",
+    "ua": "Кочівник\tКочівників\t0\t0\t0\t0\t0\t0\t200\t285\t345\t7\t0\t30\t7\t9\t8\t2\t6\t0\t0\t12\t25\tШвидкий рух пустелею.\t"
+  },
+  {
+    "var": "CRTRAITS_Ðîçá³éíèê",
+    "en": "Ðîçá³éíèê\tÐîçá³éíèê³â\t0\t0\t0\t0\t0\t0\t100\t135\t135\t8\t0\t10\t6\t8\t3\t2\t4\t0\t0\t16\t30\tØïèãóâàííÿ.\t",
+    "ua": "Розбійник\tРозбійників\t0\t0\t0\t0\t0\t0\t100\t135\t135\t8\t0\t10\t6\t8\t3\t2\t4\t0\t0\t16\t30\tШпигування.\t"
+  },
+  {
+    "var": "CRTRAITS_Òðîëü",
+    "en": "Òðîëü\tÒðîë³â\t0\t0\t0\t0\t0\t0\t500\t1024\t1024\t3\t0\t40\t7\t14\t7\t10\t15\t0\t0\t8\t12\tÐåãåíåðàö³ÿ.\t",
+    "ua": "Троль\tТролів\t0\t0\t0\t0\t0\t0\t500\t1024\t1024\t3\t0\t40\t7\t14\t7\t10\t15\t0\t0\t8\t12\tРегенерація.\t"
+  },
+  {
+    "var": "CRTRAITS_178",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_179",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_180",
+    "en": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ua": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "var": "CRTRAITS_Êàòàïóëüòà",
+    "en": "Êàòàïóëüòà\tÊàòàïóëüò\t0\t0\t0\t0\t0\t0\t1\t10\t500\t0\t0\t1000\t0\t10\t10\t0\t0\t24\t0\t0\t0\tÀòàêóº ñò³íè ôîðòåö³.\tDOUBLE_WIDE | SHOOTING_ARMY | CATAPULT | SIEGE_WEAPON",
+    "ua": "Катапульта\tКатапульт\t0\t0\t0\t0\t0\t0\t1\t10\t500\t0\t0\t1000\t0\t10\t10\t0\t0\t24\t0\t0\t0\tАтакує стіни фортеці.\tDOUBLE_WIDE | SHOOTING_ARMY | CATAPULT | SIEGE_WEAPON"
+  },
+  {
+    "var": "CRTRAITS_Áàë³ñòà",
+    "en": "Áàë³ñòà\tÁàë³ñò\t0\t0\t0\t0\t0\t0\t2500\t650\t600\t0\t0\t250\t0\t10\t10\t2\t3\t24\t0\t0\t0\t\tDOUBLE_WIDE | SHOOTING_ARMY | SIEGE_WEAPON",
+    "ua": "Баліста\tБаліст\t0\t0\t0\t0\t0\t0\t2500\t650\t600\t0\t0\t250\t0\t10\t10\t2\t3\t24\t0\t0\t0\t\tDOUBLE_WIDE | SHOOTING_ARMY | SIEGE_WEAPON"
+  },
+  {
+    "var": "CRTRAITS_Íàìåò äîïîìîãè",
+    "en": "Íàìåò äîïîìîãè\tÍàìåò³â äîïîìîãè\t0\t0\t0\t0\t0\t0\t750\t10\t300\t0\t0\t75\t0\t0\t0\t0\t0\t0\t0\t0\t0\tË³êóº â³éñüêà.\tDOUBLE_WIDE | SIEGE_WEAPON",
+    "ua": "Намет допомоги\tНаметів допомоги\t0\t0\t0\t0\t0\t0\t750\t10\t300\t0\t0\t75\t0\t0\t0\t0\t0\t0\t0\t0\t0\tЛікує війська.\tDOUBLE_WIDE | SIEGE_WEAPON"
+  },
+  {
+    "var": "CRTRAITS_Â³çîê áîºïðèïàñ³â",
+    "en": "Â³çîê áîºïðèïàñ³â\tÂ³çê³â áîºïðèïàñ³â\t0\t0\t0\t0\t0\t0\t1000\t5\t400\t0\t0\t100\t0\t0\t5\t0\t0\t0\t0\t0\t0\tÍåñê³í÷åíí³ áîºïðèïàñè.\tSIEGE_WEAPON",
+    "ua": "Візок боєприпасів\tВізків боєприпасів\t0\t0\t0\t0\t0\t0\t1000\t5\t400\t0\t0\t100\t0\t0\t5\t0\t0\t0\t0\t0\t0\tНескінченні боєприпаси.\tSIEGE_WEAPON"
+  },
+  {
+    "var": "CRTRAITS_Ñòð³ëåöüêà âåæà",
+    "en": "Ñòð³ëåöüêà âåæà\tÑòð³ëåöüêèõ âåæ\t0\t0\t0\t0\t0\t0\t1000\t5\t400\t0\t0\t100\t0\t10\t5\t2\t4\t99\t0\t0\t0\tÍåñê³í÷åíí³ áîºïðèïàñè.\tSIEGE_WEAPON",
+    "ua": "Стрілецька вежа\tСтрілецьких веж\t0\t0\t0\t0\t0\t0\t1000\t5\t400\t0\t0\t100\t0\t10\t5\t2\t4\t99\t0\t0\t0\tНескінченні боєприпаси.\tSIEGE_WEAPON"
+  }
+]

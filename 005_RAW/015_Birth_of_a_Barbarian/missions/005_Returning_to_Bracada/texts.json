@@ -1,0 +1,128 @@
+[
+  {
+    "var": "YOG_M5_prolog",
+    "field": "wrapper_prolog",
+    "en": "The last leg of your journey has taken you back to Bracada.  You realize that Aine will probably be waiting for you.  Despite this, you decide you don't really have a choice, so you break camp and set out to search for Beleg and Orruk.",
+    "ua": "Останній етап вашої подорожі привів вас назад у Бракаду. Ви розумієте, що Ейне, швидше за все, вже чекає на вас. Не зважаючи на це, ви вирішуєте, що у вас немає вибору, тому розбиваєте табір і починаєте шукати Белега й Орука."
+  },
+  {
+    "var": "YOG_M5_epilog",
+    "field": "wrapper_epilog",
+    "en": "The last of Winston Boragus' tests will take me back to Bracada, my forsaken homeland.  I am to find a couple named Beleg and Orruk and give them the two most powerful pieces of the Angelic Alliance: the Sword of Judgment and the Helm of Heavenly Enlightenment.  That will be the easy part, now that I am certain I am ready to give up the ways of magic.  The hard part will be fighting my way past Bracada's armies, for they will not be as willing to give me up.",
+    "ua": "Останнє з випробувань, призначених Вінстоном Борагусом, приведе мене на мою колишню батьківщину, у Бракаду. Я повинен знайти якихось Белега й Орука і передати їм наймогутніші частини Ангельського Союзу - Меч правосуддя та Шолом небесного просвітлення. Тепер, коли я остаточно вирішив розпрощатися з магією, зробити це мені буде неважко. Важко буде прорубатися через армії Бракади, бо мої колишні друзі навряд чи пропустять мене без бою."
+  },
+  {
+    "var": "YOG_M5_map_name",
+    "field": "map_map_name",
+    "en": "Returning to Bracada",
+    "ua": "Повернення в Бракаду"
+  },
+  {
+    "var": "YOG_M5_map_desc",
+    "field": "map_map_desc",
+    "en": "Yog must deliver the Heavenly Helm of Enlightenment and Sword of Judgment to Beleg and Orruk to win the campaign.  However, if Yog is defeated in combat or loses any artifact, the scenario is lost.  Yog is limited to level 25 but will carry his experience, skills and spells on to his next campaign.",
+    "ua": "Щоб виграти, Йоґ повинен передати Шолом небесного просвітлення і Меч правосуддя Белегу й Оруку. Якщо Йоґ буде переможений у битві або втратить будь-який артефакт, він програє. Герой обмежений 25 рівнем. "
+  },
+  {
+    "var": "YOG_M5_obj0_event_name",
+    "field": "map_obj0_event_name",
+    "en": "Comp Stuff.",
+    "ua": "Comp Stuff."
+  },
+  {
+    "var": "YOG_M5_obj81_quest_proposal",
+    "field": "map_obj81_quest_proposal",
+    "en": "Finally.  I am Orruk.  I feared something had happened to you.  Do you have The Sword of Judgment for me?",
+    "ua": "Ну нарешті. Мене звуть Орук. Я боявся, що з тобою щось трапилося. Ти приніс Меч правосуддя?"
+  },
+  {
+    "var": "YOG_M5_obj81_quest_completion",
+    "field": "map_obj81_quest_completion",
+    "en": "Excellent.  Take this item to Winston Boragus as proof that you have completed your quest.",
+    "ua": "Прекрасно. Передай це Вінстону Борагусу в знак того, що ти виконав цю частину завдання."
+  },
+  {
+    "var": "YOG_M5_obj82_quest_proposal",
+    "field": "map_obj82_quest_proposal",
+    "en": "I am Beleg.  I was told you would be coming.  Do you have the Helm of Heavenly Enlightenment as promised?",
+    "ua": "Я Белега. Мені говорили про твій прихід. Ти приніс Шолом небесного просвітління, як обіцяв?"
+  },
+  {
+    "var": "YOG_M5_obj82_quest_completion",
+    "field": "map_obj82_quest_completion",
+    "en": "Well done.  Now take The Sword of Judgment to Orruk's house.  In exchange he will give you The Pendant of Courage to give to the Duke.  Good luck and farewell. ",
+    "ua": "Добре. Тепер ти повинен доставити Меч правосуддя Оруку. В обмін він дасть тобі Кулон мужності, який потрібно передати герцогу. Удачі, і прощай."
+  },
+  {
+    "var": "YOG_M5_obj454_quest_proposal",
+    "field": "map_obj454_quest_proposal",
+    "en": "The guards here say they have orders to only let Yog pass.",
+    "ua": "Вартові кажуть, що у них є наказ пропустити лише Йоґа."
+  },
+  {
+    "var": "YOG_M5_obj454_quest_progress",
+    "field": "map_obj454_quest_progress",
+    "en": "The guards here will only let Yog pass.",
+    "ua": "Вартові пропустять тільки Йоґа."
+  },
+  {
+    "var": "YOG_M5_obj454_quest_completion",
+    "field": "map_obj454_quest_completion",
+    "en": "At last, it is Yog.  Do you wish to pass?",
+    "ua": "Нарешті ви прийшли, Йоґ. Бажаєте пройти?"
+  },
+  {
+    "var": "YOG_M5_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Intro",
+    "ua": "Intro"
+  },
+  {
+    "var": "YOG_M5_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "You dispatched a messenger immediately to Winston Boragus, informing him that you found Falor and Terwen and gave them the Celestial Necklace of Bliss and the Lion's Shield of Courage.  The messenger soon returned with very specific instructions from the Duke: enter Bracada and bring the Helm of Heavenly Enlightenment to Beleg and the Sword of Judgment to Orruk, then sending proof of each delivery back to the capital.  You realize that Aine will probably be waiting to capture you when you return to Bracada, so you will have to be very careful.",
+    "ua": "Ви відразу ж відправляєте посильного до Вінстона Борагуса з повідомленням про те, що ви знайшли Фалора і Тервена і передали їм Намисто небесного блаженства і Щит левової хоробрості. Незабаром посильний повертається і передає вам наступне завдання герцога: йти в Бракаду і принести Шолом небесного просвітління Белегу і Меч правосуддя Оруку, а потім відіслати докази того, що ви це зробили, до столиці. Ви розумієте, що в Бракаді вас, можливо, чекає Айн. Вам слід бути дуже обережним."
+  },
+  {
+    "var": "YOG_M5_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Journal Entry 18",
+    "ua": "Journal Entry 18"
+  },
+  {
+    "var": "YOG_M5_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "Journal Entry 18:  I have sent my scouts out into Bracada hoping to get some good intelligence on where Aine is and what she is planning.  While I am waiting for them to return, I will build up my army.",
+    "ua": "Запис 18: Я послав розвідників у Бракаду в надії, що вони довідаються, де перебуває Айн і що вона робить. Чекаючи їх повернення, я займаюся покращенням своєї армії."
+  },
+  {
+    "var": "YOG_M5_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Journal Entry 19",
+    "ua": "Journal Entry 19"
+  },
+  {
+    "var": "YOG_M5_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "Journal entry 19:  My scouts returned a few hours ago without any information on Aine.  She apparently knew that I was scouting for her and used magic to avoid detection.  The only useful thing my scouts had to report was that all of Bracada's cities were preparing for a war.  I don't want to spend any more time in my former homeland than necessary, so I will send out my scouts out again to locate Beleg and Orruk.",
+    "ua": "Запис 19: Розвідники повернулися кілька годин тому. Вони не змогли нічого довідатися про Айн. Вона, мабуть, знала, що я шукаю її, і за допомогою магії змогла залишитися непоміченою. Єдине, що повідомили розвідники - всі міста Бракади у військовому стані. Я не хочу затримуватись на своїй колишній батьківщині довше, ніж необхідно для справи, тож я пошлю розвідників ще раз, щоб вони з'ясували, де знаходяться Белег і Орук."
+  },
+  {
+    "var": "YOG_M5_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "Journal Entry 20",
+    "ua": "Journal Entry 20"
+  },
+  {
+    "var": "YOG_M5_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "Journal Entry 20:  My scouts have found Beleg and Orruk: they are due south from my city.  I am fortunate to have located them so quickly.  The sooner I get out of Aine's reach, the better.",
+    "ua": "Запис 20: Розвідники повідомляють, що Белег і Орук знаходяться на південь від мого міста. Це велика удача, що я знайшов їх так швидко. Чим швидше я опинюся поза досяжністю Айн, тим краще."
+  },
+  {
+    "var": "YOG_M5_mapevent4_name",
+    "field": "map_mapevent4_name",
+    "en": "Comp Stuff",
+    "ua": "Comp Stuff"
+  }
+]

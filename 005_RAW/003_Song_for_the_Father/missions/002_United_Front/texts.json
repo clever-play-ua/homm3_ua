@@ -1,0 +1,50 @@
+[
+  {
+    "var": "GOOD3_M2_prolog",
+    "field": "wrapper_prolog",
+    "en": "You command the combined armies of Erathia, AvLee, and Bracada, plus the Necromancers that have chosen to fight with you against King Gryphonheart. The undead presence is strong, but you must prevail!",
+    "ua": "Ви очолюєте об'єднані сили Ерафії, Ав-Лі, Бракади і некромантів, які вирішили виступити проти короля-мерця Гріфонхарта. Орди нежиті сильні, але від вас чекають тільки перемоги!"
+  },
+  {
+    "var": "GOOD3_M2_epilog",
+    "field": "wrapper_epilog",
+    "en": "I grow weary of this war. So do the necromancers. We have agreed to co-operate in the destruction of King Gryphonheart. I never thought I would fight alongside the necromancers, but today we forge weapons for both our armies. With their help, along with the forces from Bracada and AvLee, we should be able to repel all undead from Erathia.",
+    "ua": "Я втомилася від нескінченної війни, як і некроманти. Ми уклали союз у боротьбі проти короля-мерця Гріфонхарта. Я й подумати не могла, що стану союзником некромантів. Тепер наші кузні кують зброю для обох армій. Разом, з допомогою військ Бракади й Ав-Лі, ми повинні вигнати нежить з Ерафії."
+  },
+  {
+    "var": "GOOD3_M2_map_name",
+    "field": "map_map_name",
+    "en": "United Front",
+    "ua": "Єдиним фронтом"
+  },
+  {
+    "var": "GOOD3_M2_map_desc",
+    "field": "map_map_desc",
+    "en": "To win, you must capture all enemy towns and castles and defeat all enemy heroes. At the end of this scenario, your 6 strongest Heroes will travel with you to the final scenario of this campaign, where they will be met by Lord Haart and Queen Catherine.",
+    "ua": "Щоб перемогти, вам потрібно захопити всі ворожі міста і замки і розгромити всіх героїв противника. Наприкінці цього сценарію шість ваших найсильніших героїв перейдуть з вами в кінцевий сценарій цієї кампанії, де їх зустрінуть Лорд Хаарт та Королева Катерина."
+  },
+  {
+    "var": "GOOD3_M2_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Intro part 1",
+    "ua": "Intro part 1"
+  },
+  {
+    "var": "GOOD3_M2_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "Never before has Erathia seen four nations fighting under a single banner. Today, we march against the armies of undead, with undead fighting by our sides. As strange as it may seem, it is the only way to ensure victory against Deyja.",
+    "ua": "Ніколи раніше чотири народи Ерафії не воювали разом під єдиним прапором. Сьогодні ми виступили проти військ повсталих з мертвих, і повсталі воюють пліч-о-пліч з нами. Як не дивно це звучить, але це єдиний спосіб добитися перемоги над Деєю."
+  },
+  {
+    "var": "GOOD3_M2_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Intro part 2",
+    "ua": "Intro part 2"
+  },
+  {
+    "var": "GOOD3_M2_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "To be victorious, you must completely control this area. Good luck, we're counting on you.",
+    "ua": "Для перемоги вам потрібно підпорядкувати собі всю територію. Бажаємо удачі, і пам'ятайте: ми розраховуємо на вас."
+  }
+]

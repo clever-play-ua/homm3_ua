@@ -1,0 +1,368 @@
+[
+  {
+    "var": "AB_M4_prolog",
+    "field": "wrapper_prolog",
+    "en": "Xeron must seek out the Grand Forgesmith, Khazandar.  He is the only man with the knowledge and skill to build Armageddon's Blade and it is vital that he \"convince\" him to do this.  There shall be interference from the accrused Conflux towns.  He must complete this quest and then return to the capitol.",
+    "ua": "Ксерон повинен знайти великого зброяра Казандара. Тільки Казандар володіє знаннями та майстерністю, щоб створити Клинок Армагеддону. Але знову на шляху демона встають вершники Колоній. Ксерон повинен подолати всі перешкоди і виконати завдання."
+  },
+  {
+    "var": "AB_M4_epilog",
+    "field": "wrapper_epilog",
+    "en": "My king seeks to build Armageddon's Blade.  With this fabled weapon he will set the world on fire.  I have the elements to build the blade, but only the grand forgesmith Khazandar can fashion it from the relics I carry.  Again, a collection of mysterious heroes gather to end my quest.  Ironically, they have surrounded Khazandar, but have not killed him as I would.  This proves they are soft.  They will not stand in my way.",
+    "ua": "Мій король жадає викувати Клинок Армагеддону. Цей легендарний меч здатний спалити весь світ! У мене в руках усі складові частини клинка, але скувати їх воєдино може лише Казандар, великий коваль. І знову на моєму шляху встали таємничі вершники. Вони захопили Казандара в полон - але не стали його вбивати. Смішно, на їх місці я б розправився з ним, не думаючи. Ці герої надто м'якотілі. А значить, їм мене не зупинити."
+  },
+  {
+    "var": "AB_M4_map_name",
+    "field": "map_map_name",
+    "en": "Maker of Sorrows",
+    "ua": "Творець мук"
+  },
+  {
+    "var": "AB_M4_map_desc",
+    "field": "map_map_desc",
+    "en": "Xeron must seek out Grand Forgesmith Khazandar and force him to make Armageddon's Blade.  If Xeron falls, all is lost.  Xeron is only allowed to advance to 24th Level.",
+    "ua": "Ксерону належить відшукати великого коваля Казандара і змусити його викувати Клинок Армагеддону. Якщо Ксерон загине, все пропало. Ксерон обмежений 24 рівнем."
+  },
+  {
+    "var": "AB_M4_rumor0_name",
+    "field": "map_rumor0_name",
+    "en": "Xeron's Mom",
+    "ua": "Xeron's Mom"
+  },
+  {
+    "var": "AB_M4_rumor0_desc",
+    "field": "map_rumor0_desc",
+    "en": "Xeron is born of the union between an Erathian knight and a succubus.",
+    "ua": "Ксерон був зачатий суккубом від ерафійського лицаря."
+  },
+  {
+    "var": "AB_M4_rumor1_name",
+    "field": "map_rumor1_name",
+    "en": "Xeron's Dad",
+    "ua": "Xeron's Dad"
+  },
+  {
+    "var": "AB_M4_rumor1_desc",
+    "field": "map_rumor1_desc",
+    "en": "Xeron's father was seduced by a succubus but not slain afterward.  Rather he was tainted and never the same again.",
+    "ua": "Сукуб спокусив лицаря, але не став його вбивати. Замість цього демониця осквернила його душу."
+  },
+  {
+    "var": "AB_M4_rumor2_name",
+    "field": "map_rumor2_name",
+    "en": "Khazandar's Homeland",
+    "ua": "Khazandar's Homeland"
+  },
+  {
+    "var": "AB_M4_rumor2_desc",
+    "field": "map_rumor2_desc",
+    "en": "Khazandar was once an alchemist in Bracada.",
+    "ua": "Колись Казандар був відомим бракадським алхіміком."
+  },
+  {
+    "var": "AB_M4_rumor3_name",
+    "field": "map_rumor3_name",
+    "en": "Khazandar's Mercenary Ways",
+    "ua": "Khazandar's Mercenary Ways"
+  },
+  {
+    "var": "AB_M4_rumor3_desc",
+    "field": "map_rumor3_desc",
+    "en": "Khazandar was once a wizard who got kicked out of Bracada for acting too mercenary.",
+    "ua": "Колись Казандар був чародієм, але бракадці вигнали його з країни за те, що він зберігав відданість лише дзвінкій монеті."
+  },
+  {
+    "var": "AB_M4_rumor4_name",
+    "field": "map_rumor4_name",
+    "en": "Khazandar's Former Profession",
+    "ua": "Khazandar's Former Profession"
+  },
+  {
+    "var": "AB_M4_rumor4_desc",
+    "field": "map_rumor4_desc",
+    "en": "The Forgesmith was once a wizard, but never finished his studies.",
+    "ua": "Колись великий коваль прагнув стати чарівником, але не встиг завершити своє навчання."
+  },
+  {
+    "var": "AB_M4_rumor5_name",
+    "field": "map_rumor5_name",
+    "en": "Khazandar's Ties",
+    "ua": "Khazandar's Ties"
+  },
+  {
+    "var": "AB_M4_rumor5_desc",
+    "field": "map_rumor5_desc",
+    "en": "It is said that Khazandar apprenticed as a smith under Galen, a smith who built a powerful sword for Lord Haart.",
+    "ua": "Кажуть, Казандар вчився ковальства у самого Галена - майстра, що викував могутній меч для лорда Хаарта."
+  },
+  {
+    "var": "AB_M4_rumor6_name",
+    "field": "map_rumor6_name",
+    "en": "Khazandar's Ties 2",
+    "ua": "Khazandar's Ties 2"
+  },
+  {
+    "var": "AB_M4_rumor6_desc",
+    "field": "map_rumor6_desc",
+    "en": "I hear Khazandar once lived in Tarach's Cove and was commissioned to make an adamantine hammer for the high priest of the Temple of Baa.",
+    "ua": "Колись Казандар жив у бухті Тарах, де викував адамантіновий молот для верховного жерця Баа."
+  },
+  {
+    "var": "AB_M4_rumor7_name",
+    "field": "map_rumor7_name",
+    "en": "Tarach's Cove",
+    "ua": "Tarach's Cove"
+  },
+  {
+    "var": "AB_M4_rumor7_desc",
+    "field": "map_rumor7_desc",
+    "en": "Tarach's Cove is a port town in Bracada with a reputation for being a home for people who live on the shadowy side of the law.  It's not a nice place.",
+    "ua": "Бухта Тарах - портове місто Бракади, притулок злодіїв і розбійників. Чесній людині не дуже весело в ньому жити."
+  },
+  {
+    "var": "AB_M4_rumor8_name",
+    "field": "map_rumor8_name",
+    "en": "Xeron's Minion",
+    "ua": "Xeron's Minion"
+  },
+  {
+    "var": "AB_M4_rumor8_desc",
+    "field": "map_rumor8_desc",
+    "en": "Xex is a childhood friend of Xeron's.  He has been a loyal follower of his for a very long time.",
+    "ua": "Зексе - товариш дитинства і вірний соратник Ксерона."
+  },
+  {
+    "var": "AB_M4_rumor9_name",
+    "field": "map_rumor9_name",
+    "en": "Kreegan Stuff",
+    "ua": "Kreegan Stuff"
+  },
+  {
+    "var": "AB_M4_rumor9_desc",
+    "field": "map_rumor9_desc",
+    "en": "The Kreegans worship dark gods like Erebus, the God of Darkness and Destruction.",
+    "ua": "Криганці поклоняються чорним богам - таким, як Еребус, бог темряви й руйнування."
+  },
+  {
+    "var": "AB_M4_obj0_town_name",
+    "field": "map_obj0_town_name",
+    "en": "Scorch",
+    "ua": "Скорч"
+  },
+  {
+    "var": "AB_M4_obj1_town_name",
+    "field": "map_obj1_town_name",
+    "en": "Soal",
+    "ua": "Сол"
+  },
+  {
+    "var": "AB_M4_obj2_town_name",
+    "field": "map_obj2_town_name",
+    "en": "Dagger Peak",
+    "ua": "Пік Кинджалів"
+  },
+  {
+    "var": "AB_M4_obj3_town_name",
+    "field": "map_obj3_town_name",
+    "en": "Azrael Field",
+    "ua": "Поля Азраеля"
+  },
+  {
+    "var": "AB_M4_obj120_town_name",
+    "field": "map_obj120_town_name",
+    "en": "Frelin",
+    "ua": "Фрелін"
+  },
+  {
+    "var": "AB_M4_obj162_town_name",
+    "field": "map_obj162_town_name",
+    "en": "Kaffinar",
+    "ua": "Кафінар"
+  },
+  {
+    "var": "AB_M4_obj166_town_name",
+    "field": "map_obj166_town_name",
+    "en": "Diacara",
+    "ua": "Д'якра"
+  },
+  {
+    "var": "AB_M4_obj374_town_name",
+    "field": "map_obj374_town_name",
+    "en": "Ciara",
+    "ua": "Цира"
+  },
+  {
+    "var": "AB_M4_obj451_town_name",
+    "field": "map_obj451_town_name",
+    "en": "Shelindria",
+    "ua": "Шеліндрія"
+  },
+  {
+    "var": "AB_M4_obj806_town_name",
+    "field": "map_obj806_town_name",
+    "en": "Vandal Hall",
+    "ua": "Вандал-хол"
+  },
+  {
+    "var": "AB_M4_obj3256_guardian_mesg",
+    "field": "map_obj3256_guardian_mesg",
+    "en": "Ahead is an entrance to an old Nighon tunnel system.  At last Sleen's information is starting to pay off.",
+    "ua": "Попереду печера, що веде в підземну систему тунелів. Тут Сліїн не збрехав."
+  },
+  {
+    "var": "AB_M4_obj3333_quest_proposal",
+    "field": "map_obj3333_quest_proposal",
+    "en": "As you approach the hut, you hear some odd whistling emanating from within.  The song is a sad, angry tune, filled with a sense of bitterness and angst.  Finding the tune strangely intriguing, you go up to the door and kick it open.  Sitting calmly in a rocking chair is an old man with a long white beard smoking a pipe.  His eyes stare out into oblivion, unblinking.  Clearing your throat, you get his attention, somewhat.\n\n\"Yeah?  What do you want?\" the old man asks most irritatedly.  \"Speak quickly, I'm a busy man.\"\n\n\"I have come a long way old man.  I hear you are the one called Khazandar, the Grand Forgesmith, and you are he who can harness Armageddon.  I've brought the legendary artifacts needed for the ritual.  All I need now is for you to make me Armageddon's Blade.\"\n\nThe old man looks at you, contemplates his words carefully, and puffs on his pipe.  \"So, you have finally come to ask me to build my last great piece.  Yes, I'm Khazandar and yes, I'll make your Blade.  A few conditions though.  First, I want to be spared your Armageddon.  Second, I want to be paid. . .well paid.  I figure 30,000 pieces of Gold ought to do it.  Once I get that, you may take the artifacts to my apprentice and I shall build your sword.\"",
+    "ua": "З хатини доноситься дивний свист. Сумний, лютий, повний гіркоти і жадоби помсти. Цікаво, хто це насвистує? Ви вибиваєте двері ногою. У кріслі мирно розгойдується, попихкуючи люлькою, довгобородий старець. Немигаючий погляд спрямований в нікуди. Ви голосно кашляєте, щоб вивести його з роздумів.\n\n\"Так? І що вам тут треба? - роздратовано питає старий -. Ну, жвавіше. І без вас справ по горло.\"\n\n\"Старче, я пройшов довгий шлях, щоб зустрітися з вами. Знаю, ви - легендарний коваль Казандар, єдиний, кому під силу викувати Клинок Армагеддону. Я приніс артефакти, які потрібні для ритуалу. Прошу вас, виконайте моє прохання.\"\n\nСтарий задумливо оглядає вас, попихкуючи люлькою. І починає говорити, ретельно підбираючи слова: \"Так виходить, мені ще судилося викувати останній клинок, який прославить моє ім'я. Ти правий, я Казандар. І я можу викувати Клинок; тут ти знову правий. Але дозволь пояснити тобі мої умови: По-перше, ти поклянешся, що Армагеддон обійде мій дім стороною. По-друге, безкоштовно я не працюю. Зійдемося на 30000 золотих. Оплата вперед; після цього віддай артефакти моєму учневі. Я викую меч.\""
+  },
+  {
+    "var": "AB_M4_obj3333_quest_progress",
+    "field": "map_obj3333_quest_progress",
+    "en": "Staring deeply into your eyes, Khazandar wheezes, coughs, and spits a glob of greenish fluid at your feet.  \"When you have my 30,000 Gold I'll make your Blade.  Not a moment before.   Begone!\"",
+    "ua": "Не відводячи погляду, Казандар відкашлюється і плює вам під ноги зеленуватим слизом. \"Якщо немає 30000 золотих - Клинка теж не буде! Іди геть!\""
+  },
+  {
+    "var": "AB_M4_obj3333_quest_completion",
+    "field": "map_obj3333_quest_completion",
+    "en": "\"Finally!  Here, give the 30,000 Gold to me!  By the way, since you are going there anyway, take this to my apprentice, he's been looking for it.  I will be along shortly once my work here is done.  Then I shall make your weapon.\"",
+    "ua": "\"Ну ось! Став мішок сюди. Раз вже тобі по дорозі, захопи до мого учня і цю сферу, він давно її шукав. Я закінчу справи і підійду. І відразу візьмуся за Клинок\"."
+  },
+  {
+    "var": "AB_M4_obj3634_guardian_mesg",
+    "field": "map_obj3634_guardian_mesg",
+    "en": "The dank, moldy smell of dragon dung hangs thick in the air.  Perhaps this way is not a good idea.",
+    "ua": "Повітря просочене задушливим смородом драконячого лайна. Схоже, варто було вибрати інший шлях."
+  },
+  {
+    "var": "AB_M4_obj3635_guardian_mesg",
+    "field": "map_obj3635_guardian_mesg",
+    "en": "There is the crackling of electricity up ahead and several of your men have their hair standing on end.  'Tis an odd feeling indeed.",
+    "ua": "Попереду чується тріск електричних розрядів. Волосся воїнів стоїть дибки. Дуже незвичайне відчуття..."
+  },
+  {
+    "var": "AB_M4_obj3636_guardian_mesg",
+    "field": "map_obj3636_guardian_mesg",
+    "en": "Washes of heat are coming from down this passageway.  Perhaps a nice cozy lava pool is up ahead.  At least there you could relax and loosen up the toughness of your muscles.  However, with your luck, you're not too hopeful of that.",
+    "ua": "З глибини тунелю накочуються хвилі жару. Схоже, попереду затишне озерце лави. Саме час дати відпочинок втомленим ногам. Але з вашою удачею не дуже доводиться розраховувати на перепочинок..."
+  },
+  {
+    "var": "AB_M4_obj3637_guardian_mesg",
+    "field": "map_obj3637_guardian_mesg",
+    "en": "The musty smell down here is stifling.  A feeling of uncertainty is nagging at the backside of your brain.  Too bad Sleen couldn't actually find the bloody hut.  Is that crackling flames you hear?",
+    "ua": "Запах цвілі і гнилизни не дає дихнути. У глибині душі ви вже не так упевнені, що йдете правильно. Шкода, Сліїн не зміг дізнатися точне розташування цієї чортової хижі. Що це? Тріск вогню?"
+  },
+  {
+    "var": "AB_M4_obj3639_guardian_mesg",
+    "field": "map_obj3639_guardian_mesg",
+    "en": "Echoing off the walls of the caverns comes a sound you've never heard before.  It's a sort of wail mixed with a crackle.  Not entirely sure what is making it, yet it could just be a trick of the wind down here. . . or maybe not.",
+    "ua": "У печерах гуляє луна. Що за дивні звуки? Плач, тріск - не розібрати. Може, це виє вітер у верхніх тунелях... а може, і ні..."
+  },
+  {
+    "var": "AB_M4_obj3640_quest_proposal",
+    "field": "map_obj3640_quest_proposal",
+    "en": "\"My master said you would be coming.  He told me to meet you here and to expect that several artifacts would be delivered.  Do you have the Sword of Hellfire, Breastplate of Brimstone, Shield of the Damned?  Oh yes, he also mentioned you would be bringing my Sphere of Permanence.  I've been missing that for many months now.  Do you have all of these things?\"",
+    "ua": "\"Учитель попередив мене, що ви прийдете. Він сказав, при вас будуть артефакти... Меч пекельного полум'я, Збруя самородної сірки, Щит проклятих - все правильно. Ой, мало не забув: вчитель обіцяв, ви повернете мені Сферу сталості. Я десь її втратив... Так ви принесли артефакти?"
+  },
+  {
+    "var": "AB_M4_obj3640_quest_progress",
+    "field": "map_obj3640_quest_progress",
+    "en": "\"If you do not bring all that you are supposed to, how do you expect my master and I to work on your Blade?  We must do everything properly, else the intricate workings shall fail and the Blade will be useless.\"",
+    "ua": "\"Ні? Як же ви хочете, щоб вчитель викував Клинок? Потрібні всі елементи, інакше нічого не вийде, Клинок перетвориться на звичайну сталь\"."
+  },
+  {
+    "var": "AB_M4_obj3640_quest_completion",
+    "field": "map_obj3640_quest_completion",
+    "en": "Khazandar and his apprentice go in the back and soon is heard the sounds of spells being cast, the pounding of hammer on steel, and the swearing of an injured hand now and again.  After some time, old man Khazandar emerges from the forge bearing a blade wrapped in thick cloth.\n\nHe unwraps the cloth slowly and a pulsating light emanates from the weapon so recently forged.  The blade looks odd, like none ever seen in Antagarich before. The hiltguard is shaped like an eagle and the blade has a strange shape to it, yet it bears the unmistakeable appearance of a weapon most foul. \n\n \"Here is your blade, Dark One.  Thank you for your payment.  Now leave me be.\"",
+    "ua": "Казандар і учень відправляються за фіранку. Чути свист заклинань, удари молота об метал і лайка, коли молот потрапляє по руці. Через деякий час Казандар виходить до вас. У його руках клинок, обгорнутий щільною матерією.\n\nКазандар повільно розгортає тканину. Меч випромінює пульсуюче світіння. Дивна рукоять у формі орла; дивний клинок, якого в Антагрічі ніхто не бачив... і з першого погляду зрозуміло, що меч вражений страшним прокляттям.\n\n\"Ось ваш клинок, мій Чорний Пане. Дякую. Тепер залиште мене\"."
+  },
+  {
+    "var": "AB_M4_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Opening",
+    "ua": "Opening"
+  },
+  {
+    "var": "AB_M4_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "\"Sleen has provided us with the name of the man whom you will seek out.  Grand Forgesmith Khazandar, an alchemist and weaponsmith of great repute is the sole man in all Antagarich who has the knowledge and skill to build Armageddon's Blade.  Find him Xeron.  Find him and force him to construct the Blade, for if he does not consent, make him suffer until he does.  My vision will become reality and you will carry it out for me.\n\nAccording to Sleen, he is being held somewhere in this area of the Contested Lands, protected by those accursed Confluxes.  Destroy them.  Make them suffer for daring to stand in the way of destiny.  You are too close to achieving my victory to be held off by this rabble.  Succeed and the rewards will be glorious.  I shall wear your skin as a cloak and your eyes shall adorn my rings should you fail me.\"\n\nAs the vision fades from the red crystal shard, you stand and summon Sleen to your side.  Xex, your faithful servant, \"bamfs\" away and returns shortly with the slimy human. \n\n\"So Sleen, here is my task for you.  Find me the location of that smith.  Failure is not an option.\"",
+    "ua": "\"Отже, Сліїн дізнався для нас ім'я коваля, якого належить відшукати. Великий коваль Казандар, алхімік, майстер молота та наковальні - єдина людина в усьому Антагрічі, чиїх знань і умінь достатньо, щоб викувати Клинок Армагеддону. Розшукай його, Ксерон. Знайди і переконай викувати Клинок. Не погодиться по-хорошому - вирви згоду під тортурами. Моє видіння втілиться в життя, і ти станеш моєю правою рукою.\n\nЗа словами Сліїна, коваля тримають в полоні посеред Спірних Земель під охороною Елементалів. Знищ їх Колонії. Вони заплатять за те, що наважилися стати на шляху самої долі. Занадто близька перемога, щоб дозволити їм порушити наші плани. За нагородою я не постою. Але якщо підведеш - я пущу твою шкіру на плащ, а очі на персні.\"\n\nВидіння зникає. Меркне кристал. Ви посилаєте за Сліїном. Вірний Зексе - хлоп! - Зникає в хмарі сірки і повертається з чоловічком у пазурах.\n\n\"Сліїн, для тебе є робота. Розшукай коваля. І дивись, не підведи!\""
+  },
+  {
+    "var": "AB_M4_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Guerilla Attacks News",
+    "ua": "Guerilla Attacks News"
+  },
+  {
+    "var": "AB_M4_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "Xex teleports into your presence with a message on his lips.  Kneeling before his lord and master, Xex begins his report.\n\n\"My master, I have come to regretfully inform you that our enemy has again begun their shadowy attacks on our supply lines.  We lost three more caravans and the mark of that accursed pale warrior was left behind on one of the wagons.\"\n\n\"Arise Xex, my faithful companion.  I have a task for you.  Seek out Sleen and put a name to this mysterious pale warrior.  I wish to know his name, so I might know it when I kill him.\"",
+    "ua": "Хлоп! - З донесенням з'являється Зексе. Він схиляється перед вами і починає говорити.\n\n\"Пан, знову не все йде гладко. Тривають напади на обози. Ми втратили ще три вози, і на місці сутички був залишений знак проклятого блідолицього воїна\".\n\n\"Піднімись з колін, мій вірний Зексе. У мене є для тебе справа. Розшукай Сліїна і дізнайся у нього ім'я нашого блідолицього ворога. Треба ж знати, кого прониже мій клинок.\""
+  },
+  {
+    "var": "AB_M4_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Khazandar's Location",
+    "ua": "Khazandar's Location"
+  },
+  {
+    "var": "AB_M4_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "Sleen stumbles into the meeting area, having been pushed there by Xex.  You turn and face the little man who has provided you with much worthy information.  He is visibly sweating and you know that fear courses through his veins.  It is obvious that Sleen is still worried if you are going to carry out your threat to eat his heart.\n\n\"I bring news Your Eminence,\" Sleen states fearfully.  \"The Grand Forgesmith Khazandar is being held in a simple hut somewhere in the tunnels left behind by the Overlords of Nighon when they invaded Erathia not long ago.  He should be easy to find as he will be heavily guarded.\"\n\n\"Congratulations Sleen, you have managed to exceed my expectations as to how skilled and useful you are.  Perhaps you will not need to be eaten after all.  However, I wouldn't be making any long term plans if I were you.\"",
+    "ua": "Від поштовху могутньої лапи Зексе Сліїн падає ниць. Ви обертаєтеся. Особа щасливого радника покрита краплями поту; страх розриває його на частини. Здається, він все ще боїться, що ви не жартували щодо серця на вечерю.\n\n\"Ваша світлість, я виконав доручення, - боязко він починає - Великий коваль Казандар захований у невеликій хатині, прихованій в глибині тунелів - тих, що викопали Верховні Лорди Ніґона у недавній війні Відшукати його буде легко. Навколо озброєна охорона.\"\n\n\"Вітаю, Сліїн! Ти перевершив мої очікування! Може, я й не стану тебе їсти. І все ж - зачекай з планами на старість.\""
+  },
+  {
+    "var": "AB_M4_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "New about Catherine",
+    "ua": "New about Catherine"
+  },
+  {
+    "var": "AB_M4_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "A hurried messenger demon rushes into your planning session early in the pre-dawn hours. Infuriated at the intrusion, you grasp the demon by the throat and lift him off the ground.  Your fetid breath in his face, you ask him why you are being interrupted.\n\n\"My master, I come to pass on a message sent by our spies in The Contested Lands.  They tell of a meeting between the Elemental Lords of the Conflux and Queen Catherine.  They also say an agreement has been reached between the two armies.  They are now allies!\" the demon manages to croak out just before you crush his windpipe.\n\nThrowing his lifeless corpse to the ground, you bellow out in rage.\n\n\"Bring me Sleen!  I want to know why this little piece of information escaped his attention.  I want to know why Queen Catherine is still alive!  I want to know why incompetents SURROUND me so!  Xex!  Get this useless sack of griffin droppings out of my sight.  I need to think.\"",
+    "ua": "Захеканий демон влітає у ваш кабінет незадовго до світанку. Як він посмів перервати ваші роздуми?! У люті ви хапаєте непроханого гостя за горло і відриваєте від землі, обдаючи його ніздрі смердючим диханням.\n\n\"О великий пане, я приніс вам звістку від розвідників північних земель. Катерина і лорди елементалів сіли за стіл переговорів. І склали договір. Вони об'єдналися!\" - хрюкає демон. Ви звертаєте йому шию.\n\nЖбурнувши обм'якле тіло на підлогу, ви люто ричите:\n\n\"Приведіть до мене Сліїна! Я хочу знати, чому це пройшло повз його увагу. Я хочу знати, якого біса Катерина ще жива! І чому мене оточують одні нероби?! Зексе! Та прибери ж це грифоняче лайно з очей геть! Треба подумати.\""
+  },
+  {
+    "var": "AB_M4_mapevent4_name",
+    "field": "map_mapevent4_name",
+    "en": "Cat Marches on Kreelah",
+    "ua": "Cat Marches on Kreelah"
+  },
+  {
+    "var": "AB_M4_mapevent4_mesg",
+    "field": "map_mapevent4_mesg",
+    "en": "Xex \"bamfs\" in and kneels before you while you are deeply involved in examining tactical maps.  You turn and put your hand on Xex's shoulder.  \n\n\"What is it my trusted friend?  Is it bad news again?  You may feel at ease when speaking to me.\"\n\n\"I have grave news to bring you my master.  Our spies have informed me that Queen Catherine and her forces now march on Kreelah itself.  Our northern lines have failed to breach her defenses enough to gain a foothold in Erathia and I have reason to believe King Roland has reinforced her position and made his own push into Eeofol.  My lord, I fear we might be beaten.\"\n\n\"NEVER!\"\n\nYou backhanded Xex across the face, sending him sliding across the floor.\n\n\"I cannot believe what they have brought me to.  No longer shall I tolerate failure.  I want them all slaughtered.  Kill everything.  Leave no survivors. GO!!!\"\n\nXex quickly flees his master's presence just as you unleash your fury on the map table in front of you.  Maps and markers fly across the tent, scattering like spores in the wind.  \n\n\"Know this Catherine Ironfist, I shall have my revenge.  I swear by Erebus the Dark I will flay the skin from your child's bones as you watch.  You shall suffer my wrath for this insolence!\"",
+    "ua": "Ви занурені в схеми колишніх боїв. Хлоп! - На коліна перед вами падає Зексе. Ви кладете руку йому на плече.\n\n\"Що сталося, мій вірний друг? Знову погані звістки? Не бійся, тебе я не чіпатиму.\"\n\n\"Все дуже погано, пане. Розвідники доповідають, королева Катерина веде військо на клан Крили. Нам не вдалося прорвати їх оборону на північному фронті. Ми не зайняли ні п'яді ерафійской землі. Підозрюю, це король Роланд прислав їм підкріплення, а сам рушив на Еофол! Пане, я боюся, наша справа програна \".\n\n\"НІ ЗА ЩО!\"\n\nВи даєте Зексе ляпас. Демон відлітає до стіни.\n\n\"Повірити не можу, що зі мною так обійшлися. Ще однієї поразки я не потерплю. Убий їх. Виріж всіх до єдиного, чуєш? Щоб ніхто не залишився живим. РУШ!\"\n\nЗексе миттєво випаровується, а ви зганяєте гнів на робочому столі. Карти та олівці летять на всі боки, ніби підхоплені ураганом.\n\n\"Знай же, Катерина Айронфіст, помста моя буде жахлива. Клянуся самим Еребусом Темним, я живцем здеру шкіру з твого сина в тебе на очах. О, ти ще пізнаєш мій гнів, непокірна королева!\""
+  },
+  {
+    "var": "AB_M4_mapevent5_name",
+    "field": "map_mapevent5_name",
+    "en": "Gelu Kills Xeron's Mother",
+    "ua": "Gelu Kills Xeron's Mother"
+  },
+  {
+    "var": "AB_M4_mapevent5_mesg",
+    "field": "map_mapevent5_mesg",
+    "en": "A forlorn-looking Xex enters your chambers, a long look on his face.  He obviously bears grave news.  He kneels down as is tradition, but is waved to stand and give his report.\n\n\"My master I regret to inform you that your mother has been slain in battle.  It was the pale warrior who has been plaguing us so.  She fought bravely yet was slain by that accursed one during one of the raids that he has been leading.  I am truly sorry my lord,\" Xex states as he takes a step backward.\n\n\"Leave me.\"\n\nWhen the tent is clear you drop to your knees and sob.  Soon your sobs turn to laughter; laughter with no humor; laughter filled with insane rage.  Moments later, the tent erupts in a steady stream of swearing and the crashing sounds of destruction.",
+    "ua": "Зексе понуро входить у ваші покої. Його обличчя витягнулося, він несе сумну звістку. За традицією він схиляє коліна - але пан лише відмахується. Демон слухняно встає і вимовляє:\n\n\"Пане, не знаю, як і сказати... Ваша матінка впала в битві. Від руки блідолицього ворога, який давно не дає нам зітхнути. Вона хоробро билася. Він виявився сильнішим. Мені так шкода, господарю...\" - І Зексе відступає назад.\n\n\"Залиш мене.\"\n\nІ ледь Зексе виходить з намету, ви падаєте на коліна і ридаєте. Ридання переходять у сміх, істеричний, диявольський, сповнений люті. Потім намет вибухає градом проклять і шумом предметів, що б'ються."
+  },
+  {
+    "var": "AB_M4_mapevent6_name",
+    "field": "map_mapevent6_name",
+    "en": "Spirits of the Dead",
+    "ua": "Spirits of the Dead"
+  },
+  {
+    "var": "AB_M4_mapevent6_mesg",
+    "field": "map_mapevent6_mesg",
+    "en": "In your sleep, you are visited by haunting dreams.  In it spirits come to you, with a warning.  Your present course of action is leading towards your destruction.  You laugh in their faces and the visions get worse.  Still you laugh at their pathetic attempts to sway you from your appointed task.  You have suffered far worse fates than some insipid ghosts haunting you in your sleep.",
+    "ua": "Уві сні вас відвідують примари. Вони велять відступитися, інакше ви знищите себе самого. Ви смієтеся їм в обличчя... Привиди ще більше згущують фарби, але ви продовжуєте сміятися над ними. Хіба вас зупинити страшною картинкою? Бувало й гірше, ніж якісь-там видіння."
+  },
+  {
+    "var": "AB_M4_mapevent7_name",
+    "field": "map_mapevent7_name",
+    "en": "Hamper the computer",
+    "ua": "Hamper the computer"
+  }
+]

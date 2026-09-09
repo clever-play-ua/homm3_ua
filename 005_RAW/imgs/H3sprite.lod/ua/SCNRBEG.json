@@ -1,0 +1,13 @@
+{
+  "sequences": [
+    {
+      "group": 0,
+      "frames": [
+        "SCNRBEG.dir\\00_00.png",
+        "SCNRBEG.dir\\00_01.png"
+      ]
+    }
+  ],
+  "type": 71,
+  "format": 1
+}

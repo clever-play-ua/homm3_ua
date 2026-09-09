@@ -1,0 +1,22 @@
+[
+  {
+    "var": "LCDESC_1",
+    "en": "Lose All Your Towns and Heroes",
+    "ua": "Втратити усіх героїв і всі міста"
+  },
+  {
+    "var": "LCDESC_2",
+    "en": "Lose Town",
+    "ua": "Втратити місто"
+  },
+  {
+    "var": "LCDESC_3",
+    "en": "Lose Hero",
+    "ua": "Втратити героя"
+  },
+  {
+    "var": "LCDESC_4",
+    "en": "Time Expires",
+    "ua": "Після закінчення терміну"
+  }
+]

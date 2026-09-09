@@ -37,7 +37,7 @@ Thieves Guild Window
 Особистість
 Кращий монстр
 Tavern Window
-Таверна
+Корчма
 Доступні герої
 Town Gate Window
 Брама міста

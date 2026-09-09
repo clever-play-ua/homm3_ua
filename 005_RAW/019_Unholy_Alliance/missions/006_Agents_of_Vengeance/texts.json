@@ -1,0 +1,218 @@
+[
+  {
+    "var": "FINAL_M6_prolog",
+    "field": "wrapper_prolog",
+    "en": "Gelu and Gem have been ordered by the Council of Elders to avenge the murders of Lord Fayette and the numerous other victims of the Necromancers.  Their goal lies through Deyja toward the Erathian border and the Necromancer's Castle, where information about Lord Fayette's death is sure to be found.",
+    "ua": "Ґело і Ґем були споряджені Радою Старійшин помститися некромантам за вбивство лорда Файета та багатьох інших. Їхня дорога лежить через Дею в бік кордону Ерафії."
+  },
+  {
+    "var": "FINAL_M6_epilog",
+    "field": "wrapper_epilog",
+    "en": "Several days ago the AvLee Council of Elders commanded Gem and myself to avenge the deaths of Lords Falorel, Lord Fayette, the Dragon Lords and all the other victims of the Necromancer's raids.  At the border we encountered this... this horrific scene.  The Deyjan lords must be destroyed before all of AvLee is harvested for their undead armies.",
+    "ua": "Рада Старійшин країни Ав-Лі доручила мені і Ґем помститися за смерть лорда Фалореля, лорда Файета, Повелителів драконів та інших невинних, полеглих жертвою некромантів. На кордоні перед нами постала ця моторошна сцена. Господарів Деї треба знищити, поки вони не встигли зібрати в країні Ав-Лі багату жатву для своїх нечестивих армій."
+  },
+  {
+    "var": "FINAL_M6_map_name",
+    "field": "map_map_name",
+    "en": "Agents of Vengeance",
+    "ua": "Помста"
+  },
+  {
+    "var": "FINAL_M6_map_desc",
+    "field": "map_map_desc",
+    "en": "You must capture Castle Crypthome to win the scenario.  However, if Gem or Gelu is defeated in combat, the scenario is lost.  The heroes are limited to level 33 but will carry their experience, skills and spells on to their next scenario.",
+    "ua": "Для того щоб отримати перемогу в цьому сценарії, необхідно захопити замок Криптхом. Якщо ж Ґем або Ґело будуть переможені в бою, сценарій закінчиться поразкою. Герої обмежені 33 рівнем, але вони переходять в наступний сценарій з усім своїм досвідом, навичками і заклинаннями."
+  },
+  {
+    "var": "FINAL_M6_obj137_town_name",
+    "field": "map_obj137_town_name",
+    "en": "Crypthome",
+    "ua": "Криптхом"
+  },
+  {
+    "var": "FINAL_M6_obj137_event_name",
+    "field": "map_obj137_event_name",
+    "en": "Extra Income",
+    "ua": "Extra Income"
+  },
+  {
+    "var": "FINAL_M6_obj137_event_name",
+    "field": "map_obj137_event_name",
+    "en": "Extra Critters",
+    "ua": "Extra Income"
+  },
+  {
+    "var": "FINAL_M6_obj137_event_name",
+    "field": "map_obj137_event_name",
+    "en": "Bonus Income",
+    "ua": "Extra Income"
+  },
+  {
+    "var": "FINAL_M6_obj137_event_name",
+    "field": "map_obj137_event_name",
+    "en": "Build Townhall",
+    "ua": "Extra Income"
+  },
+  {
+    "var": "FINAL_M6_obj137_event_name",
+    "field": "map_obj137_event_name",
+    "en": "Build Citadel",
+    "ua": "Extra Income"
+  },
+  {
+    "var": "FINAL_M6_obj529_event_name",
+    "field": "map_obj529_event_name",
+    "en": "Extra Income",
+    "ua": "Extra Income"
+  },
+  {
+    "var": "FINAL_M6_obj529_event_name",
+    "field": "map_obj529_event_name",
+    "en": "Extra Critters",
+    "ua": "Extra Income"
+  },
+  {
+    "var": "FINAL_M6_obj529_event_name",
+    "field": "map_obj529_event_name",
+    "en": "Bonus Income",
+    "ua": "Extra Income"
+  },
+  {
+    "var": "FINAL_M6_obj529_event_name",
+    "field": "map_obj529_event_name",
+    "en": "Build Townhall",
+    "ua": "Extra Income"
+  },
+  {
+    "var": "FINAL_M6_obj1523_sign_mesg",
+    "field": "map_obj1523_sign_mesg",
+    "en": "To Blagden",
+    "ua": "У Благден"
+  },
+  {
+    "var": "FINAL_M6_obj1539_event_name",
+    "field": "map_obj1539_event_name",
+    "en": "Extra Income",
+    "ua": "Extra Income"
+  },
+  {
+    "var": "FINAL_M6_obj1539_event_name",
+    "field": "map_obj1539_event_name",
+    "en": "Extra Critters",
+    "ua": "Extra Income"
+  },
+  {
+    "var": "FINAL_M6_obj1539_event_name",
+    "field": "map_obj1539_event_name",
+    "en": "Bonus Income",
+    "ua": "Extra Income"
+  },
+  {
+    "var": "FINAL_M6_obj1539_event_name",
+    "field": "map_obj1539_event_name",
+    "en": "Build Townhall",
+    "ua": "Extra Income"
+  },
+  {
+    "var": "FINAL_M6_obj1540_event_name",
+    "field": "map_obj1540_event_name",
+    "en": "Extra Income",
+    "ua": "Extra Income"
+  },
+  {
+    "var": "FINAL_M6_obj1540_event_name",
+    "field": "map_obj1540_event_name",
+    "en": "Extra Critters",
+    "ua": "Extra Income"
+  },
+  {
+    "var": "FINAL_M6_obj1540_event_name",
+    "field": "map_obj1540_event_name",
+    "en": "Bonus Income",
+    "ua": "Extra Income"
+  },
+  {
+    "var": "FINAL_M6_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Intro Gelu",
+    "ua": "Intro Gelu"
+  },
+  {
+    "var": "FINAL_M6_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "Gelu:  After learning that Sandro was behind the plot to kill Lord Falorel, I did some more investigating and discovered the Dragon Lords I destroyed were not bandits.  They were real AvLee Border Lords.  I felt I had to explain personally to the AvLee Council of Elders and accept their judgment for my mistake.  The Council was skeptical, but after consulting with their Oracle, they said I could best make amends by participating in a punitive campaign against Deyja.  I feel honor bound to accept their judgment, and I have taken a leave of absence from the Forest Guard.",
+    "ua": "Ґело: \"З'ясувавши, що за вбивством лорда Фалореля стояв Сандро, я продовжив розслідування і виявив, що Повелителі драконів були зовсім не лиходіями, якими вони мені представлялися, а справжнісінькими прикордонними баронами країни Ав-Лі. Зрозумівши свою помилку, я вирішив стати перед Радою Старійшин країни Ав-Лі, розповісти їм усе, як було, і підкоритися їхньому рішенню. Спочатку Старійшини дивилися вороже, але потім, запитавши поради у Оракула, вони винесли вердикт: я мав спокутувати свою провину участю у каральній експедиції проти Деї, я вважаю виконання цього вироку справою честі і на деякий час покинув ряди Лісової варти.\""
+  },
+  {
+    "var": "FINAL_M6_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Intro Gem",
+    "ua": "Intro Gem"
+  },
+  {
+    "var": "FINAL_M6_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "Gem:  The doll got to me.  It looked just like the one my sister had right before she died.  I remember thinking she was the luckiest girl in the world to have a doll like that.  Then the horde of skeletons killed everyone in my village.  I was the only survivor.  I'm GLAD the Council of Elders choose me as one of the pair to punish Deyja.",
+    "ua": "Ґем: \"Ця лялька розтривожила мені душу. Вона була зовсім як та, якою гралася моя маленька сестра, поки була жива. Пам'ятаю, через цю ляльку я вважала її найщасливішою дівчиною на світі. А потім на наше село напали скелети і перебили всіх жителів, до останнього. Я була єдиною, що залишилася в живих. Я ЩАСЛИВА, що Рада Старійшин саме мені довірила покарати нечисть, яка засіла в проклятій Деї.\""
+  },
+  {
+    "var": "FINAL_M6_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Letter Ethric to Gem",
+    "ua": "Letter Ethric to Gem"
+  },
+  {
+    "var": "FINAL_M6_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "Gem:  I received a message from Ethric today.  Ethric said it had been decades Sandro was his apprentice.  He said Sandro ran away and become a Necromancer!  There were more ill tidings.  Ethric said Sandro might be trying to construct a powerful artifact from all the artifacts I gathered for him.  I was so furious, I screamed.  None of my troops came near me for an hour.  I must pass these tidings on to Gelu and the Council of Elders.",
+    "ua": "Ґем: \"Сьогодні я отримала послання від Етріка. Він пише, що багато років тому Сандро був його учнем, а потім втік і став некроманом. Але цього мало. Етрік стверджує, що, швидше за все, Сандро спробує створити один могутній артефакт з усіх тих малих артефактів, які я для нього зібрала. Прочитавши ці рядки, я була не в собі, я металася і кричала, як божевільна. Цілу годину мої люди боялися потрапляти мені на очі. я зобов'язана передати ці звістки Ґело та Раді Старійшин.\""
+  },
+  {
+    "var": "FINAL_M6_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "Message Gem to Gelu",
+    "ua": "Message Gem to Gelu"
+  },
+  {
+    "var": "FINAL_M6_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "Gelu:  I received a message from Gem today.  She had found out Sandro is a Necromancer.  She sounded angry.  She said Sandro might have built some powerful artifact from all the artifacts she gathered for him.  I wonder if the dead AvLee Lords stumbled across this plan?",
+    "ua": "Ґело: \"Сьогодні гонець доставив мені послання від Ґем. Вона пише, що насправді Сандро - некромант. Кожен рядок її листа дихає гнівом і болем. Вона вважає, що Сандро міг створити могутній артефакт з усіх тих артефактів, які вона зібрала за його наказом. Цікаво, а чи знали загиблі барони країни Ав-Лі про ці плани проклятого чорнокнижника?\""
+  },
+  {
+    "var": "FINAL_M6_mapevent4_name",
+    "field": "map_mapevent4_name",
+    "en": "Scout Report Barbarians",
+    "ua": "Scout Report Barbarians"
+  },
+  {
+    "var": "FINAL_M6_mapevent4_mesg",
+    "field": "map_mapevent4_mesg",
+    "en": "Gelu:  My scouts encountered some Erathian irregulars today.  They were part of a militia unit from the town of Clovergreen.  They knew Gem.  They also passed on interesting news.  Two Barbarians named Crag Hack and Yog are invading Deyja from Erathia.  I should Gem about this and send word to the Erathian High Command.",
+    "ua": "Ґело: \"Сьогодні мої розвідники зустріли загін ополченців з Ерафії. Виявилося, що вони йдуть з міста Клавергріна і добре знають Ґем. Вони принесли цікаві новини: Два варвари, яких звуть Краґ Хак і Йоґ, напали на Дею з території Ерафії. Треба повідомити про це Ґем і послати доповідь Верховному Командуванню Ерафії.\""
+  },
+  {
+    "var": "FINAL_M6_mapevent5_name",
+    "field": "map_mapevent5_name",
+    "en": "Gem to Yog",
+    "ua": "Gem to Yog"
+  },
+  {
+    "var": "FINAL_M6_mapevent5_mesg",
+    "field": "map_mapevent5_mesg",
+    "en": "Gem:  Today I received word from Gelu about a pair of Barbarians attacking Deyja from the Contested Lands.  To my surprise, an hour later some of my Elven scouts escorted in some Orc spies with a message for me.  It was from a blue Barbarian hero named Yog.  Hmm, I met him once in Enroth.  He's with another Barbarian named Crag Hack.  I've heard of Crag too.  Yog and Crag Hack are upset with the Necromancers and Sandro especially.  What?!  Crag collected artifacts for Sandro, which DID combine into a powerful artifact!  Ethric was right!",
+    "ua": "Ґем: \"Сьогодні я отримала послання від Ґело. Він пише про двох варварів, які ведуть війну проти Деї, влаштувавшись в Спірних Землях. На мій подив, через годину після цього ельфійські розвідники привели до мене двох орків-шпигунів, які доставили ще одне послання. Його прислав синьошкірий варвар на ім'я Йоґ. Хмм... колись у Енроті наші шляхи перетиналися. Він діє заодно з іншим варваром на ім'я Краґ Хак. Про Краґа я теж щось чула. Йоґ і Краґ Хак ненавидять некромантів, особливо Сандро. І ще одне. Краґ збирав для Сандро артефакти, з яких тому ВДАЛОСЯ виготовити один могутній артефакт! Схоже, Етрік був правий.\""
+  },
+  {
+    "var": "FINAL_M6_mapevent6_name",
+    "field": "map_mapevent6_name",
+    "en": "Gem to Yog (cont)",
+    "ua": "Gem to Yog (cont)"
+  },
+  {
+    "var": "FINAL_M6_mapevent6_mesg",
+    "field": "map_mapevent6_mesg",
+    "en": "To express their displeasure with Sandro, the Barbarians decided to invade Deyja, but Yog wants to know what is really going on.  This is good timing for our own campaign.  We are hitting Deyja from the North while they are attacking from the West.  The Erathians are going to have kittens when they hear about Yog and Crag.  I want to talk to Yog.  Where's that map?  Hmm, Gelu and I need to first take Castle Crypthome to secure this part of Deyja, but afterwards I'll ask Yog and Crag to meet Gelu and myself at a place called Blagden.",
+    "ua": "\"Переповнені ненавистю до Сандро, варвари вирішили напасти на Дею, але при цьому Йоґ хоче знати, що відбувається в інших місцях. Схоже, нам теж пора виступати в похід. Ми вдаримо по Деї з півночі, а вони вторгнуться в неї з заходу. В Ерафії підніметься страшний шум, коли там дізнаються про Йоґа і Краґа. Мені б хотілося поговорити з Йоґом. І де та мапа? Хмм... Нам з Ґело треба спочатку взяти замок Криптхом і тим самим закріпитися в цій частині Деї, а потім ми з ним призначимо Йоґу і Краґу зустріч в Благдені.\""
+  }
+]

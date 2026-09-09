@@ -1,0 +1,20 @@
+[
+  {
+    "var": "CRAG_campaign_name",
+    "field": "wrapper_campaign_name",
+    "en": "Hack and Slash",
+    "ua": "Рубай та шматуй"
+  },
+  {
+    "var": "CRAG_campaign_desc",
+    "field": "wrapper_campaign_desc",
+    "en": "Crag Hack, newly arrived in Erathia and looking for adventure, meets a young wizard named Sandro, who hires him to find the four pieces of the Armor of the Damned so he can destroy the cursed thing.  Great rewards are offered for this service.",
+    "ua": "Краґ Хак, що недавно приїхав у Ерафію у пошуках пригод, зустрічає молодого чарівника на ім'я Сандро, який наймає його, щоб знайти чотири складових Обладунку проклятого і знищити їх. Чарівник обіцяє велику нагороду за цю послугу."
+  },
+  {
+    "var": "CRAG_campaign_epilogue",
+    "field": "wrapper_campaign_epilogue",
+    "en": "I've been tricked!  The thieving Wizard took off with the artifacts and didn't give me my gold!  When I find Sandro I'm going to rip his arms off and shove them down his lying throat!  Argggggggggggggh!",
+    "ua": "Мене обдурили! Чародій виявився звичайним шахраєм і змився з речами і з моїм золотом! Дайте термін, я знайду цього Сандро, відірву йому руки і засуну в його брехливу пельку! Ти в мене ще пострибаєш!"
+  }
+]

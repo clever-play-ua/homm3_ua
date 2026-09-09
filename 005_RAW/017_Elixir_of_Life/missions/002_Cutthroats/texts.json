@@ -1,0 +1,158 @@
+[
+  {
+    "var": "GELU_M2_prolog",
+    "field": "wrapper_prolog",
+    "en": "Bandits infest this region.  Wherever possible, enlist the aid of the Thieves' Guild, as they can be very informative.",
+    "ua": "Бандити міцно володіють цією місцевістю. По можливості намагайтеся використовувати допомогу Гільдії злодіїв - їх інформація може бути корисною."
+  },
+  {
+    "var": "GELU_M2_epilog",
+    "field": "wrapper_epilog",
+    "en": "Rumor has it that the Ring of Health, one of the essential components of the Elixir of Life, is located in the Shantanna region of southern AvLee.  Time is of the essence, for a Death Knight has been spotted talking to bandits who have long been terrorizing the area, and we believe that he has hired them to find the Ring first.",
+    "ua": "Ходять чутки, що Перстень здоров'я, один з головних компонентів Еліксиру життя, виявився десь в районі Шантану на півдні країни Ав-Лі. Час не чекає, бо в тих місцях бачили лицаря смерті. Він вів переговори з розбійниками, які наводять жах на всю округу, і ми вважаємо, що він найняв їх для пошуків Персня."
+  },
+  {
+    "var": "GELU_M2_map_name",
+    "field": "map_map_name",
+    "en": "Cutthroats",
+    "ua": "Лорди Розбійники"
+  },
+  {
+    "var": "GELU_M2_map_desc",
+    "field": "map_map_desc",
+    "en": "Stop a group of rogue AvLee lords from selling the Ring of Vitality to a Death Knight lord in Deyja to win the scenario.  However, if Gelu is defeated in combat, the scenario is lost.  Gelu is limited to level 15 but will carry his experience, skills and spells on to the next scenario.",
+    "ua": "Для перемоги в цьому сценарії ви повинні зупинити кампанію бунтівних авлійських лордів, які намагаються продати Перстень здоров'я можновладному лицарю смерті з Деї. Якщо Ґело впаде в битві, ви програли. Ґело обмежений 15 рівнем, проте він перейде у наступний сценарій."
+  },
+  {
+    "var": "GELU_M2_obj210_town_name",
+    "field": "map_obj210_town_name",
+    "en": "Daggercourt",
+    "ua": "Даггеркорт"
+  },
+  {
+    "var": "GELU_M2_obj984_quest_proposal",
+    "field": "map_obj984_quest_proposal",
+    "en": "My friend Phelan has told me to expect the pale one called Gelu.  Are you he?",
+    "ua": "Мій друг Фелан попередив мене про прихід блідолицього гостя на ім'я Ґело. Це ти?"
+  },
+  {
+    "var": "GELU_M2_obj984_quest_progress",
+    "field": "map_obj984_quest_progress",
+    "en": "I was told to wait for the one called Gelu.  If you see him in your travels, let him know where to find my home.",
+    "ua": "Мені сказали чекати того, кого звати Ґело. Якщо ти зустрінеш його під час твоїх мандрів, скажи йому де шукати мене."
+  },
+  {
+    "var": "GELU_M2_obj985_quest_proposal",
+    "field": "map_obj985_quest_proposal",
+    "en": "Before I can tell you where the Ring is located, you must prove your worth to me by bringing me the Badge of Courage.  Do not return without this artifact.",
+    "ua": "Перш ніж я скажу тобі, де знаходиться Перстень, доведи, що ти гідний цього, - принеси мені Знак мужності. Не повертайся без цього артефакту."
+  },
+  {
+    "var": "GELU_M2_obj985_quest_progress",
+    "field": "map_obj985_quest_progress",
+    "en": "Have you not found the Badge of Courage?  Tsk, tsk.  I thought you were made of sterner stuff than that.  Go back into the wilderness and find it.  Only then will I tell you were you can find the Ring of Vitality.",
+    "ua": "Ти ще не знайшов Знак мужності? Ай-я-я-яй. Я думав, ти зроблений з міцнішого матеріалу. Повертайся і знайди його. Тільки тоді я скажу тобі, де шукати Перстень здоров'я."
+  },
+  {
+    "var": "GELU_M2_obj985_quest_completion",
+    "field": "map_obj985_quest_completion",
+    "en": "You have proven your worthiness.  For this, I reveal the location of the Ring of Vitality to you.\n\nThe man who has it is lives in a small hut south west of here.  He has hidden the Ring and will give it only to those whom I deem worthy of it.  I will alert him to your impending arrival.  Take these Angel Wings to speed you on your way.  When you arrive he will give you what you seek.",
+    "ua": "Ти довів, що гідний. За це я розповім тобі, де знаходиться Перстень здоров'я.\nЛюдина, у чиїх руках він зараз, живе у маленькій хатині на північний захід звідси. Він сховав Перстень і віддасть його тільки тому, кого я вважатиму гідним. Я повідомлю йому про твоє майбутнє прибуття. Візьми Крила ангела, вони допоможуть тобі рухатися швидше. Коли ти прибудеш, він віддасть тобі те, що ти шукаєш."
+  },
+  {
+    "var": "GELU_M2_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Opening",
+    "ua": "Opening"
+  },
+  {
+    "var": "GELU_M2_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "The Forest Guard has been assigned to recover several artifacts needed to concoct the Elixir of Life.  Were this powerful potion to fall into the hands of the Necromancers of Deyja, they would pervert its beneficent magic to their own twisted purposes.\n\nYou, Gelu, have been selected to lead a raid into a region controlled by vicious thugs.  It is believed they have the Ring of Vitality, or at least know where it is, and are planning to sell it to the Necromancers.  You must stop them and attain the ring for yourself.  Do not fail us, for lives other than your own are on the line.  Good luck.",
+    "ua": "Лісовій варті доручили знайти декілька артефактів, необхідних для приготування Еліксиру життя. Якщо трапиться так, що це могутнє зілля потрапить до рук некромантів Деї, вони неодмінно звернуть його благородні магічні властивості на службу своїм низьким цілям.\n\nВи, Ґело, були обрані для того, щоб очолити вторгнення в ці землі, що перебувають у руках злісних бандитів. Імовірно, вони тримають перстень у себе або, щонайменше, знають, де він знаходиться, і мають намір продати його некромантам. Ви повинні зупинити їх і заволодіти Перснем самі. Не підведіть нас, бо ваше життя - не єдине, яке залежить від успіху цього підприємства. Успіху!"
+  },
+  {
+    "var": "GELU_M2_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Scout Report",
+    "ua": "Scout Report"
+  },
+  {
+    "var": "GELU_M2_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "Your spies tell of a seer in the Northeast who knows the location of the Ring of Vitality.  Seek him out, learn the Ring's location, and then retrieve it.  Be wary!  The necromancers are also looking for the Ring.",
+    "ua": "Ваші розвідники доносять, що на північному сході є провісник, який знає, де знаходиться Перстень здоров'я. Знайдіть провісника, дізнайтеся місце розташування Персня, а потім захопіть його. Будьте напоготові! Некроманти теж шукають Перстень."
+  },
+  {
+    "var": "GELU_M2_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "The Lords",
+    "ua": "The Lords"
+  },
+  {
+    "var": "GELU_M2_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "The warlords in this region are cutthroats and madmen.  They have been looting caravans, razing villages, and butchering garrisons with no thought given to the consequences to their homeland.  They will foolishly sell the Ring of Vitality to the Necromancers and betray their countrymen merely to fill their coffers with gold.  These traitors should be given no quarter and shown no mercy.",
+    "ua": "Войовничі повелителі цих земель - розбійники і божевільні. Весь цей час вони грабують каравани, стирають з лиця землі села і ріжуть гарнізони, ні на хвилину не замислюючись, які будуть наслідки для їхньої батьківщини. Ці дурні продадуть Перстень здоров'я некромантам, і зрадять свій народ тільки для того, щоб набити свій гаманець золотом. Такі зрадники не заслуговують ні пощади, ні жалю."
+  },
+  {
+    "var": "GELU_M2_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "An Arrangement",
+    "ua": "An Arrangement"
+  },
+  {
+    "var": "GELU_M2_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "Our scouts report that one of the warlords has made contact with the Necromancers and is planning a meeting very soon.  Time is of the essence.  Should that Ring fall into the Necromancers' hands you will need to take it from them by force.  Use whatever means are necessary to keep that Ring safe.  Remember that the best defense is a strong offense: clear this region of the cutthroats inhabiting this region before they organize and steal the Ring for themselves.  However, only invade Deyja if you absolutely must.",
+    "ua": "Розвідники повідомляють, що один з місцевих воєначальників вступив в контакт з некромантами, і скоро відбудеться зустріч. Не можна втрачати ні хвилини! Якщо Перстень потрапить до рук некромантів, вам доведеться забирати його силою. Не соромтеся в засобах, щоб врятувати Перстень. Пам'ятайте: напад - кращий спосіб оборони. Очистіть ці землі від бандитів, які їх населяють, перш ніж вони об'єднаються і вкрадуть Перстень для власних цілей. Однак нападати на Дею слід тільки в разі крайньої необхідності."
+  },
+  {
+    "var": "GELU_M2_mapevent4_name",
+    "field": "map_mapevent4_name",
+    "en": "The Seer",
+    "ua": "The Seer"
+  },
+  {
+    "var": "GELU_M2_mapevent4_mesg",
+    "field": "map_mapevent4_mesg",
+    "en": "The seer in the Northeast is an old wise man named Feredor.  Seek his advice, but be warned he shall not give you the Ring outright.  He is said to issue a test to those who seek the Ring.  Perform whatever task he asks, for you must obtain that Ring.",
+    "ua": "Провісник, що живе на півночі - мудрий старий на ім'я Фередор. Зверніться до нього за порадою, але знайте: він не стане віддавати Перстень відразу. Кажуть, що він піддає тих, хто шукає Перстень, випробуванню. Виконайте його завдання, яке б воно не було, бо ви повинні отримати цей Перстень за будь-яку ціну."
+  },
+  {
+    "var": "GELU_M2_mapevent5_name",
+    "field": "map_mapevent5_name",
+    "en": "The Vision",
+    "ua": "The Vision"
+  },
+  {
+    "var": "GELU_M2_mapevent5_mesg",
+    "field": "map_mapevent5_mesg",
+    "en": "Last night your sleep was wracked with terrible dreams, visions of the dark events to come.  You were haunted by images of a cloaked figure sweeping his skeletal hand across a grassy plain, leaving behind a desolate land overrun by legions of undead monsters.  Sinister laughter echoed throughout your mind and soul.  You awoke, fearful and shaken but still resolved to obtain the Ring of Vitality.",
+    "ua": "Минулої ночі ваш сон турбували страшні видіння, передчуття майбутніх жахливих подій. Вас переслідував закутаний у плащі привид. Він змахував кістлявою рукою над зеленою рівниною, і та перетворювалася в пустелю, заповнену легіонами нежиті. Брудний сміх луною віддавався у вас в мозку і в душі. Ви прокидаєтеся, тремтячи і сповнившись страху, але як і раніше твердо маючи намір знайти Перстень здоров'я."
+  },
+  {
+    "var": "GELU_M2_mapevent6_name",
+    "field": "map_mapevent6_name",
+    "en": "Terrain",
+    "ua": "Terrain"
+  },
+  {
+    "var": "GELU_M2_mapevent6_mesg",
+    "field": "map_mapevent6_mesg",
+    "en": "Be warned, this region was the site of a glorious battle and is now holy ground.  Do not desecrate it.",
+    "ua": "Пам'ятайте: на цій землі відбулася велика битва, і нині вона священна. Не плюндруйте її!"
+  },
+  {
+    "var": "GELU_M2_mapevent7_name",
+    "field": "map_mapevent7_name",
+    "en": "Bandits Attack!",
+    "ua": "Bandits Attack!"
+  },
+  {
+    "var": "GELU_M2_mapevent7_mesg",
+    "field": "map_mapevent7_mesg",
+    "en": "Bandits have attacked your supply lines and taken valuable resources.",
+    "ua": "Бандити напали на ваші обози і розграбували цінні ресурси."
+  }
+]

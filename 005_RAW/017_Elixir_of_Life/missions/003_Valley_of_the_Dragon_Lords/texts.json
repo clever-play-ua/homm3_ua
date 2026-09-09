@@ -1,0 +1,86 @@
+[
+  {
+    "var": "GELU_M3_prolog",
+    "field": "wrapper_prolog",
+    "en": "The Dragon Lords are not known for being all that reasonable, but perhaps you persuade them to part with the Ring without any bloodshed.",
+    "ua": "Кажуть, що Повелителі драконів розсудливі. Можливо, їх вдасться умовити приєднатися до пошуків Персня без кровопролиття."
+  },
+  {
+    "var": "GELU_M3_epilog",
+    "field": "wrapper_epilog",
+    "en": "The Ring of Life, the second component of the Elixir of Life, is hidden in the valley of Dagrond.  There lives a group of powerful Elven nobility who are the caretakers of several warrens of gold and green dragons.  These Dragon Lords have always been loyal to AvLee, but we fear that one of these lords has been corrupted by the Necromancers.  If this treacherous Dragon Lord gets the Ring before you, he will become an enemy too powerful for the forces of AvLee to withstand.",
+    "ua": "Перстень Життя, другий компонент Еліксиру життя, захований в долині Дагронда. Кілька шляхетних ельфійських сімейств доглядають там за розплідниками золотих і зелених драконів. Володарі Драконів завжди зберігали вірність країні Ав-Лі, але у нас є підстави вважати, що один з них продався некромантам. Якщо зрадник випередить тебе і заволодіє Перснем, його сили зростуть встократ, і всіх ратей країни Ав-Лі не вистачить, щоб перегородити йому шлях."
+  },
+  {
+    "var": "GELU_M3_map_name",
+    "field": "map_map_name",
+    "en": "Valley of the Dragon Lords",
+    "ua": "Долина Повелителів Драконів"
+  },
+  {
+    "var": "GELU_M3_map_desc",
+    "field": "map_map_desc",
+    "en": "This valley is land of the Dragon Lords.  They must be defeated and the Ring of Life located to win the scenario.  However, if Gelu is defeated in combat, the scenario is lost.  Gelu is limited to level 20 but will carry his experience, skills and spells on to the next scenario.",
+    "ua": "Ця долина - країна Повелителів драконів. Щоб виграти, ви повинні перемогти їх і знайти Перстень життя. Якщо Ґело впаде в битві, ви програли. Ґело обмежений 20 рівнем, проте його досвід, первинні та вторинні навички, а також Чарівна книга перейдуть у наступний сценарій."
+  },
+  {
+    "var": "GELU_M3_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Opening",
+    "ua": "Opening"
+  },
+  {
+    "var": "GELU_M3_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "Somewhere in the Valley of Dagrond is the Ring of Life, the second component needed for the Elixir of Life.  The Ring is located in a valley where the Dragon Lords live.  The Dragon Lords care for the green and gold dragons living throughout AvLee.  However, the one Dragon Lord in this region is corrupt and now conspiring against AvLee.  We believe he is in league with Deyja, working with the Necromancers.\n\nHe has discovered that the Ring is here and intends to claim it for himself.  You need to make certain that he does not do so.  Obtain the Ring for us so that we can create the Elixir of Life before the Necromancers get their clutches on this powerful artifact.",
+    "ua": "Десь у долині Дагронда захований Перстень життя, другий з необхідних компонентів Еліксиру життя. Перстень зберігається в долині, де живуть Повелителі драконів. Вони мудро правлять зеленими і золотими драконами, що населяють Ав-Лі. На жаль, один з цих Повелителів - зрадник, він готує проти Ав-Лі змову. Ми вважаємо, що він уклав союз з Деєю і служить некромантам. Він провідав, що Перстень тут, і має намір забрати його собі. Не допустіть, щоб це сталося. Принесіть Перстень нам, щоб ми змогли створити Еліксир життя перш, ніж некроманти зуміють накласти руку на цей могутній артефакт."
+  },
+  {
+    "var": "GELU_M3_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "More on the Dragon Lords",
+    "ua": "More on the Dragon Lords"
+  },
+  {
+    "var": "GELU_M3_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "We now know for certain that this Dragon Lord is working against AvLee and her people.  He is in league with dark powers, entities so twisted they would have you believe he is an upstanding member of the AvLee nobility rather than a treacherous murder.  The facade he shows to the world is that of a well-respected Dragon Lord, while he allows the Necromancers to secretly harvest our people.  Destroying him and his followers will be a great service to AvLee, one for which they shall reward you handsomely and remember your name for generations to come.",
+    "ua": "Тепер ми знаємо точно, що цей Повелитель діє проти країни Ав-Лі та її народу. Він уклав союз з темними силами, і вони разом так заплутали сліди, що ви швидше приймете його за найдостойнішого представника вищої авлійской знаті, ніж за зрадника й убивцю. Особа, яка бачить мир, - це особа поважного Повелителя драконів, і в той же час він дозволяє некромантам таємно збирати з нашого народу свою криваву данину. Ви послужите Ав-Лі велику службу, якщо знищите цього лорда і його поплічників, країна гідно винагородить вас, а ім'я ваше залишиться в пам'яті поколінь."
+  },
+  {
+    "var": "GELU_M3_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "The Ring",
+    "ua": "The Ring"
+  },
+  {
+    "var": "GELU_M3_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "Rumor has it the Ring of Life is to found near a lake made of pure flames.",
+    "ua": "Ходять чутки, що Перстень життя можна знайти біля озера чистого вогню."
+  },
+  {
+    "var": "GELU_M3_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "Lord Falorel",
+    "ua": "Lord Falorel"
+  },
+  {
+    "var": "GELU_M3_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "Your work Lord Falorel has been excellent for honing your skills.  Not since the days in early training at the Forest Guard Academy have you seen so much action.  Though you fear that dark times are on the horizon, you feel you are participating in a noble cause.  The Elixir of Life will help heal many of AvLee's ills.",
+    "ua": "Служба у лорда Фалореля відмінно допомогла вам відточити майстерність. Вам не доводилося так викладатися з часів навчання в Академії Лісової варти. Хоча ви побоюєтеся, що темні часи не за горами, вас зігріває відчуття, що ви берете участь у благородній місії. Еліксир життя допоможе позбавити Ав-Лі від багатьох зол."
+  },
+  {
+    "var": "GELU_M3_mapevent4_name",
+    "field": "map_mapevent4_name",
+    "en": "Smoke on the Horizon",
+    "ua": "Smoke on the Horizon"
+  },
+  {
+    "var": "GELU_M3_mapevent4_mesg",
+    "field": "map_mapevent4_mesg",
+    "en": "The smell of smoke in the morning wind leads you to suspect that this lake of fire you seek is south of here.",
+    "ua": "Запах диму в ранковому повітрі змушує думати, що озеро, яке ви шукаєте, знаходиться на південь звідси."
+  }
+]

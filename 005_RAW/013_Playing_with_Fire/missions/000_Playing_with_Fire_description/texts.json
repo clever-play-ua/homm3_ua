@@ -1,0 +1,20 @@
+[
+  {
+    "var": "FIRE_campaign_name",
+    "field": "wrapper_campaign_name",
+    "en": "Playing with Fire",
+    "ua": "Ігри з вогнем"
+  },
+  {
+    "var": "FIRE_campaign_desc",
+    "field": "wrapper_campaign_desc",
+    "en": "Adrienne the Fire Witch discovers a Death Knight is turning the local population into a harvesting ground for Undead.  Restore to the land and hunt down this evil.  Utter extermination of the undead plague is your ultimate goal.",
+    "ua": "Адріана, Вогняна Відьма, дізналася про лицаря Смерті, що перетворив місцеве населення в нежить. Поверніть землі колишній вигляд і вистежіть це породження зла. Зупинити поширення нежиті - це ваша найголовніша мета."
+  },
+  {
+    "var": "FIRE_campaign_epilogue",
+    "field": "wrapper_campaign_epilogue",
+    "en": "Tomorrow, I will wake and this nightmare will end for both myself, Tatalia, and its people.  I do not know if I have buried a hero... or a villan.  In my travels I have heard many stories of Lord Haart's bravery and ultimate downfall.  When I lay to rest, I wonder if the stories my countrymen tell will speak of me as a fire witch in a land of earth and water... or as hero.",
+    "ua": "Коли я прокинусь, з цим кошмаром буде покінчено. Кошмаром для мене, моїх людей, для всієї Таталії. Не знаю, кого я опускала в могилу - лиходія чи героя. Я чула легенди про відвагу лорда Хаарта і його падіння. Заплющуючи очі, я все думаю - які легенди будуть складати про мене? Назвуть відьмою, що наслала вогонь на край піску і води... Чи героїнею?"
+  }
+]

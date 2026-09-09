@@ -1,0 +1,1352 @@
+[
+  {
+    "var": "ARRAYTXT_1",
+    "en": "\"Note: Do not change the headings in this file, they are used to detect problems\"",
+    "ua": "\"Note: Do not change the headings in this file, they are used to detect problems\""
+  },
+  {
+    "var": "ARRAYTXT_2",
+    "en": "gStatDesc",
+    "ua": "gStatDesc"
+  },
+  {
+    "var": "ARRAYTXT_3",
+    "en": "\"{Attack}\n\nAttack skill is a bonus added to the attack skill of any troops your hero commands, allowing them to inflict more damage in combat.\"",
+    "ua": "\"{Атака}\n\nРівень атаки це бонус, який додається до атаки всіх ваших загонів, що дозволяє їх завдавати більшої шкоди в бою.\""
+  },
+  {
+    "var": "ARRAYTXT_4",
+    "en": "\"{Defense}\n\nDefense skill is a bonus added to the defense skill of any troops your hero commands, allowing them to resist more damage in combat.\"",
+    "ua": "\"{Захист}\n\nРівень атаки це бонус, який додається до захисту всіх ваших загонів, що дозволяє скомпенсувати більшу частину втрат у бою\""
+  },
+  {
+    "var": "ARRAYTXT_5",
+    "en": "\"{Spell Power}\n\nSpell power determines the duration or strength of a spell.\"",
+    "ua": "\"{Сила Магії}\n\nСила Магії визначає силу і тривалість ваших заклинань.\""
+  },
+  {
+    "var": "ARRAYTXT_6",
+    "en": "\"{Knowledge}\n\nKnowledge determines how many spell points your hero may have.  Under normal circumstances, a hero is limited to 10 spell points per level of Knowledge.\"",
+    "ua": "\"{Знання}\n\nВід знань залежить кількість очок магії, які у вас є. За нормальних обставин герой отримує 10 очок магії за кожний рівень знань.\""
+  },
+  {
+    "var": "ARRAYTXT_7",
+    "en": "gLuckText",
+    "ua": "gLuckText"
+  },
+  {
+    "var": "ARRAYTXT_8",
+    "en": "Cursed",
+    "ua": "Проклятий"
+  },
+  {
+    "var": "ARRAYTXT_9",
+    "en": "Awful",
+    "ua": "Жахливо"
+  },
+  {
+    "var": "ARRAYTXT_10",
+    "en": "Bad",
+    "ua": "Погано"
+  },
+  {
+    "var": "ARRAYTXT_11",
+    "en": "Normal",
+    "ua": "Нормально"
+  },
+  {
+    "var": "ARRAYTXT_12",
+    "en": "Good",
+    "ua": "Добре"
+  },
+  {
+    "var": "ARRAYTXT_13",
+    "en": "Great",
+    "ua": "Відмінно"
+  },
+  {
+    "var": "ARRAYTXT_14",
+    "en": "Irish",
+    "ua": "Чудесно"
+  },
+  {
+    "var": "ARRAYTXT_15",
+    "en": "gMoraleText",
+    "ua": "gMoraleText"
+  },
+  {
+    "var": "ARRAYTXT_16",
+    "en": "Treason",
+    "ua": "Готові втекти"
+  },
+  {
+    "var": "ARRAYTXT_17",
+    "en": "Awful",
+    "ua": "Жахливий"
+  },
+  {
+    "var": "ARRAYTXT_18",
+    "en": "Poor",
+    "ua": "Поганий"
+  },
+  {
+    "var": "ARRAYTXT_19",
+    "en": "Normal",
+    "ua": "Нормальний"
+  },
+  {
+    "var": "ARRAYTXT_20",
+    "en": "Good",
+    "ua": "Хороший"
+  },
+  {
+    "var": "ARRAYTXT_21",
+    "en": "Great",
+    "ua": "Відмінний"
+  },
+  {
+    "var": "ARRAYTXT_22",
+    "en": "Blood!",
+    "ua": "Готові битись на смерть!"
+  },
+  {
+    "var": "ARRAYTXT_23",
+    "en": "gOwnedByColor",
+    "ua": "gOwnedByColor"
+  },
+  {
+    "var": "ARRAYTXT_24",
+    "en": "Owned by red player",
+    "ua": "Належить гравцю червоного кольору"
+  },
+  {
+    "var": "ARRAYTXT_25",
+    "en": "Owned by blue player",
+    "ua": "Належить гравцю кольору"
+  },
+  {
+    "var": "ARRAYTXT_26",
+    "en": "Owned by tan player",
+    "ua": "Належить гравцю коричневого кольору"
+  },
+  {
+    "var": "ARRAYTXT_27",
+    "en": "Owned by green player",
+    "ua": "Належить гравцю зеленого кольору"
+  },
+  {
+    "var": "ARRAYTXT_28",
+    "en": "Owned by orange player",
+    "ua": "Належить гравцю помаранчевого кольору"
+  },
+  {
+    "var": "ARRAYTXT_29",
+    "en": "Owned by purple player",
+    "ua": "Належить гравцю фіолетового кольору"
+  },
+  {
+    "var": "ARRAYTXT_30",
+    "en": "Owned by teal player",
+    "ua": "Належить гравцю сизого кольору"
+  },
+  {
+    "var": "ARRAYTXT_31",
+    "en": "Owned by pink player",
+    "ua": "Належить гравцю рожевий кольору"
+  },
+  {
+    "var": "ARRAYTXT_32",
+    "en": "gMonthNames",
+    "ua": "gMonthNames"
+  },
+  {
+    "var": "ARRAYTXT_33",
+    "en": "Grasshopper",
+    "ua": "Коника"
+  },
+  {
+    "var": "ARRAYTXT_34",
+    "en": "Ant",
+    "ua": "Мурахи"
+  },
+  {
+    "var": "ARRAYTXT_35",
+    "en": "Ladybug",
+    "ua": "Божої корівки"
+  },
+  {
+    "var": "ARRAYTXT_36",
+    "en": "Spider",
+    "ua": "Павука"
+  },
+  {
+    "var": "ARRAYTXT_37",
+    "en": "Butterfly",
+    "ua": "Метелика"
+  },
+  {
+    "var": "ARRAYTXT_38",
+    "en": "Bumblebee",
+    "ua": "Джмеля"
+  },
+  {
+    "var": "ARRAYTXT_39",
+    "en": "Locust",
+    "ua": "Сарани"
+  },
+  {
+    "var": "ARRAYTXT_40",
+    "en": "Earthworm",
+    "ua": "Дощового черв'яка"
+  },
+  {
+    "var": "ARRAYTXT_41",
+    "en": "Hornet",
+    "ua": "Шершня"
+  },
+  {
+    "var": "ARRAYTXT_42",
+    "en": "Beetle",
+    "ua": "Жука"
+  },
+  {
+    "var": "ARRAYTXT_43",
+    "en": "gWeekNames",
+    "ua": "gWeekNames"
+  },
+  {
+    "var": "ARRAYTXT_44",
+    "en": "Squirrel",
+    "ua": "Білки"
+  },
+  {
+    "var": "ARRAYTXT_45",
+    "en": "Rabbit",
+    "ua": "Кролика"
+  },
+  {
+    "var": "ARRAYTXT_46",
+    "en": "Gopher",
+    "ua": "Суслика"
+  },
+  {
+    "var": "ARRAYTXT_47",
+    "en": "Badger",
+    "ua": "Борсука"
+  },
+  {
+    "var": "ARRAYTXT_48",
+    "en": "Rat",
+    "ua": "Щура"
+  },
+  {
+    "var": "ARRAYTXT_49",
+    "en": "Eagle",
+    "ua": "Орла"
+  },
+  {
+    "var": "ARRAYTXT_50",
+    "en": "Weasel",
+    "ua": "Ласки"
+  },
+  {
+    "var": "ARRAYTXT_51",
+    "en": "Raven",
+    "ua": "Ворона"
+  },
+  {
+    "var": "ARRAYTXT_52",
+    "en": "Mongoose",
+    "ua": "Мангуста"
+  },
+  {
+    "var": "ARRAYTXT_53",
+    "en": "Dog",
+    "ua": "Собаки"
+  },
+  {
+    "var": "ARRAYTXT_54",
+    "en": "Aardvark",
+    "ua": "Трубкозуба"
+  },
+  {
+    "var": "ARRAYTXT_55",
+    "en": "Lizard",
+    "ua": "Ящірки"
+  },
+  {
+    "var": "ARRAYTXT_56",
+    "en": "Tortoise",
+    "ua": "Черепахи"
+  },
+  {
+    "var": "ARRAYTXT_57",
+    "en": "Hedgehog",
+    "ua": "Їжака"
+  },
+  {
+    "var": "ARRAYTXT_58",
+    "en": "Condor",
+    "ua": "Яструба"
+  },
+  {
+    "var": "ARRAYTXT_59",
+    "en": "cLuckInfo",
+    "ua": "cLuckInfo"
+  },
+  {
+    "var": "ARRAYTXT_60",
+    "en": "\"{Good Luck}\n\nGood luck sometimes lets your armies get lucky attacks (double damage) in combat.\"",
+    "ua": "\"{Добра Вдача}\n\nДобра вдача дозволить вашій армії іноді наносити удар подвійної сили\""
+  },
+  {
+    "var": "ARRAYTXT_61",
+    "en": "\"{Neutral Luck}\n\nWith neutral luck your armies will never have lucky or unlucky attacks on the enemy.\"",
+    "ua": "\"{Нормальна Вдача}\n\nЗа нейтральної вдачі ваша армія ніколи не буде мати вдалого чи невдалого удару\""
+  },
+  {
+    "var": "ARRAYTXT_62",
+    "en": "\"{Bad Luck}\n\nBad luck sometimes falls on your armies in combat, causing their attacks to only do half damage.\"",
+    "ua": "\"{Погана Вдача}\n\nПогана вдача призведе до того, що ваша армія час від часу наноситиме удар тільки в половину сили\""
+  },
+  {
+    "var": "ARRAYTXT_63",
+    "en": "\"%s\n\n\n{Current Luck Modifiers:}\"",
+    "ua": "\"%s\n\n\n{Поточні Модифікатори Вдачі:}\""
+  },
+  {
+    "var": "ARRAYTXT_64",
+    "en": "\"\nStill Eye of the Dragon +1\"",
+    "ua": "\"\nОко Дракона +1\""
+  },
+  {
+    "var": "ARRAYTXT_65",
+    "en": "\"\nClover of Fortune +1\"",
+    "ua": "\"\nЧотирилисник Конюшини +1\""
+  },
+  {
+    "var": "ARRAYTXT_66",
+    "en": "\"\nCards of Prophecy +1\"",
+    "ua": "\"\nКарти Пророцтва +1\""
+  },
+  {
+    "var": "ARRAYTXT_67",
+    "en": "\"\nLadybird of Luck +1\"",
+    "ua": "\"\nСонечко Удачі +1\""
+  },
+  {
+    "var": "ARRAYTXT_68",
+    "en": "\"\nSwan Pond Visited +2\"",
+    "ua": "\"\nВідвідане Лебедине Озеро +2\""
+  },
+  {
+    "var": "ARRAYTXT_69",
+    "en": "\"\nIdol of Fortune Visited +1\"",
+    "ua": "\"\nВідвіданий Ідол Удачі +1\""
+  },
+  {
+    "var": "ARRAYTXT_70",
+    "en": "\"\nFountain of Fortune Visited %s\"",
+    "ua": "\"\nВідвіданий Фонтан Удачі %s\""
+  },
+  {
+    "var": "ARRAYTXT_71",
+    "en": "\"\nPyramid Visited -2\"",
+    "ua": "\"\nВідвідана Піраміда -2\""
+  },
+  {
+    "var": "ARRAYTXT_72",
+    "en": "\"\nFaerie Ring Visited +1\"",
+    "ua": "\"\nВідвідане Кільце Фей +1\""
+  },
+  {
+    "var": "ARRAYTXT_73",
+    "en": "\"\nMermaid Visited +1\"",
+    "ua": "\"\nВідвідані Русалки +1\""
+  },
+  {
+    "var": "ARRAYTXT_74",
+    "en": "\"\nRally Flag Visited +1\"",
+    "ua": "\"\nВідвіданий Стяг Перемоги +1\""
+  },
+  {
+    "var": "ARRAYTXT_75",
+    "en": "\"\nBasic Luck +1\"",
+    "ua": "\"\nОснови Удачі +1\""
+  },
+  {
+    "var": "ARRAYTXT_76",
+    "en": "\"\nAdvanced Luck +2\"",
+    "ua": "\"\nРозвинена Удача +2\""
+  },
+  {
+    "var": "ARRAYTXT_77",
+    "en": "\"\nExpert Luck +3\"",
+    "ua": "\"\nМайстерна Удача +3\""
+  },
+  {
+    "var": "ARRAYTXT_78",
+    "en": "\"\nNone\"",
+    "ua": "\"\nНемає\""
+  },
+  {
+    "var": "ARRAYTXT_79",
+    "en": "\"\n-%d Temporary until next battle\"",
+    "ua": "\"\n-%d тимчасово до наступної битви\""
+  },
+  {
+    "var": "ARRAYTXT_80",
+    "en": "\"\n+%d Temporary until next battle\"",
+    "ua": "\"\n+%d тимчасово до наступної битви\""
+  },
+  {
+    "var": "ARRAYTXT_81",
+    "en": "\"\nPendant of Courage +3\"",
+    "ua": "\"\nПідвіска мужності +3\""
+  },
+  {
+    "var": "ARRAYTXT_82",
+    "en": "\"\nNo luck effects on cursed ground\"",
+    "ua": "\"\nНещасливий вплив на проклятій землі\""
+  },
+  {
+    "var": "ARRAYTXT_83",
+    "en": "\"\n%s suppresses all luck\"",
+    "ua": "\"\n%s пригнічує всю вдачу\""
+  },
+  {
+    "var": "ARRAYTXT_84",
+    "en": "\"\nCreature of neutral town alignment on Clover Field +2\"",
+    "ua": "\"\nІстоти природи у полі конюшини +2\""
+  },
+  {
+    "var": "ARRAYTXT_85",
+    "en": "cMoraleInfo",
+    "ua": "cMoraleInfo"
+  },
+  {
+    "var": "ARRAYTXT_86",
+    "en": "\"{Good Morale}\n\nGood morale may give your armies extra attacks in combat.\"",
+    "ua": "\"{Висока мораль}\n\nВисокий моральний стан може дати вашій армії додаткові атаки в бою.\""
+  },
+  {
+    "var": "ARRAYTXT_87",
+    "en": "\"{Neutral Morale}\n\nNeutral morale means your armies will neither be blessed with extra attacks or freeze in combat.\"",
+    "ua": "\"{Нейтральна мораль}\n\nНейтральна мораль означає, що у вашої армії не буде ні додаткових ударів, ні застигань.\""
+  },
+  {
+    "var": "ARRAYTXT_88",
+    "en": "\"{Bad Morale}\n\nBad morale may cause your armies to freeze in combat.\"",
+    "ua": "\"{Низький Бойовий Дух}\n\nПогана мораль призведе до застигання ваших військ на полі бою.\""
+  },
+  {
+    "var": "ARRAYTXT_89",
+    "en": "\"%s\n\n\n{Current Morale Modifiers:}\"",
+    "ua": "\"%s\n\n\n{Поточні Модифікатори Моралі:}\""
+  },
+  {
+    "var": "ARRAYTXT_90",
+    "en": "\"\nStill Eye of the Dragon +1\"",
+    "ua": "\"\nОко Дракона +1\""
+  },
+  {
+    "var": "ARRAYTXT_91",
+    "en": "\"\nBadge of Courage +1\"",
+    "ua": "\"\nЗнак доблесті +1\""
+  },
+  {
+    "var": "ARRAYTXT_92",
+    "en": "\"\nCrest of Valor +1\"",
+    "ua": "\"\nХрест Доблесті +1\""
+  },
+  {
+    "var": "ARRAYTXT_93",
+    "en": "\"\nGlyph of Gallantry +1\"",
+    "ua": "\"\nСимвол відваги +1\""
+  },
+  {
+    "var": "ARRAYTXT_94",
+    "en": "\"\nIdol of Fortune Visited +1\"",
+    "ua": "\"\nВідвіданий Ідол удачі +1\""
+  },
+  {
+    "var": "ARRAYTXT_95",
+    "en": "\"\nBuoy Visited +1\"",
+    "ua": "\"\nВідвіданий Буй +1\""
+  },
+  {
+    "var": "ARRAYTXT_96",
+    "en": "\"\nOasis Visited +1\"",
+    "ua": "\"\nВідвіданий Оазис +1\""
+  },
+  {
+    "var": "ARRAYTXT_97",
+    "en": "\"\nTemple Visited +1\"",
+    "ua": "\"\nВідвіданий Храм +1\""
+  },
+  {
+    "var": "ARRAYTXT_98",
+    "en": "\"\nTemple Visited on Sunday +2\"",
+    "ua": "\"\nВідвіданий Храм у неділю +2\""
+  },
+  {
+    "var": "ARRAYTXT_99",
+    "en": "\"\nSepulcher Visited -1\"",
+    "ua": "\"\nВідвідана Гробниця -1\""
+  },
+  {
+    "var": "ARRAYTXT_100",
+    "en": "\"\nShipwreck Visited -1\"",
+    "ua": "\"\nВідвіданий розбитий корабель -1\""
+  },
+  {
+    "var": "ARRAYTXT_101",
+    "en": "\"\nWatering Hole Visited +1\"",
+    "ua": "\"\nДжерело Відвідане +1\""
+  },
+  {
+    "var": "ARRAYTXT_102",
+    "en": "\"\nDerelict Ship Visited -1\"",
+    "ua": "\"\nПокинутий корабель відвіданий -1\""
+  },
+  {
+    "var": "ARRAYTXT_103",
+    "en": "\"\nRally Flag Visited +1\"",
+    "ua": "\"\nСтяг Перемоги відвіданий +1\""
+  },
+  {
+    "var": "ARRAYTXT_104",
+    "en": "\"\nFountain of Youth Visited +1\"",
+    "ua": "\"\nФонтан молодості відвіданий +1\""
+  },
+  {
+    "var": "ARRAYTXT_105",
+    "en": "\"\nWarrior Tomb Visited -3\"",
+    "ua": "\"\nГробниця Воїна Відвідана -3\""
+  },
+  {
+    "var": "ARRAYTXT_106",
+    "en": "\"\nBasic Leadership +1\"",
+    "ua": "\"\nОснови Лідерства +1\""
+  },
+  {
+    "var": "ARRAYTXT_107",
+    "en": "\"\nAdvanced Leadership +2\"",
+    "ua": "\"\nРозвинене Лідерство +2\""
+  },
+  {
+    "var": "ARRAYTXT_108",
+    "en": "\"\nExpert Leadership +3\"",
+    "ua": "\"\nМайстерне Лідерство +3\""
+  },
+  {
+    "var": "ARRAYTXT_109",
+    "en": "\"\nNone\"",
+    "ua": "\"\nНемає\""
+  },
+  {
+    "var": "ARRAYTXT_110",
+    "en": "\"\n-%d Temporary until next battle\"",
+    "ua": "\"\n-%d тимчасово до наступної битви\""
+  },
+  {
+    "var": "ARRAYTXT_111",
+    "en": "\"\n+%d Temporary until next battle\"",
+    "ua": "\"\n+%d тимчасово до наступної битви\""
+  },
+  {
+    "var": "ARRAYTXT_112",
+    "en": "\"\nPendant of Courage +3\"",
+    "ua": "\"\nПідвіска мужності +3\""
+  },
+  {
+    "var": "ARRAYTXT_113",
+    "en": "\"\nNo morale effects on cursed ground\"",
+    "ua": "\"\nНемає морального впливу на проклятій землі\""
+  },
+  {
+    "var": "ARRAYTXT_114",
+    "en": "\"\nUnaffected by morale\"",
+    "ua": "\"\nНе піддаються впливу бойового духу\""
+  },
+  {
+    "var": "ARRAYTXT_115",
+    "en": "\"\nTroops of %d alignments %d\"",
+    "ua": "\"\nЗагони %d рас %d\""
+  },
+  {
+    "var": "ARRAYTXT_116",
+    "en": "\"\nAll troops of one alignment +1\"",
+    "ua": "\"\nВсі війська одної раси +1\""
+  },
+  {
+    "var": "ARRAYTXT_117",
+    "en": "\"\nUndead in group -1\"",
+    "ua": "\"\nНежить в війську -1\""
+  },
+  {
+    "var": "ARRAYTXT_118",
+    "en": "\"\n%s in group +1\"",
+    "ua": "\"\nЗагін %s у війську +1\""
+  },
+  {
+    "var": "ARRAYTXT_119",
+    "en": "\"\nFacing %s -1\"",
+    "ua": "\"\nПеред ликом %s -1\""
+  },
+  {
+    "var": "ARRAYTXT_120",
+    "en": "\"\n%s suppresses good morale\"",
+    "ua": "\"\n%s пригнічує моральний стан\""
+  },
+  {
+    "var": "ARRAYTXT_121",
+    "en": "\"\n%s always have positive morale\"",
+    "ua": "\"\n%s Завжди мають позитивний бойовий дух \""
+  },
+  {
+    "var": "ARRAYTXT_122",
+    "en": "\"\nSpells %+d\"",
+    "ua": "\"\nЗаклинання %+d\""
+  },
+  {
+    "var": "ARRAYTXT_123",
+    "en": "\"\nOn native terrain +1\"",
+    "ua": "\"\nНа рідній землі +1\""
+  },
+  {
+    "var": "ARRAYTXT_124",
+    "en": "\"\nCreature of good town alignment on Holy Ground +1\"",
+    "ua": "\"\nІстоти \"\"добрих сил\"\" на Святій землі +1\""
+  },
+  {
+    "var": "ARRAYTXT_125",
+    "en": "\"\nCreature of evil town alignment on Holy Ground -1\"",
+    "ua": "\"\nІстоти \"\"злих сил\"\" на Святій землі -1\""
+  },
+  {
+    "var": "ARRAYTXT_126",
+    "en": "\"\nCreature of evil town alignment on Evil Fog +1\"",
+    "ua": "\"\nІстоти \"\"злих сил\"\" в Тумані зла +1\""
+  },
+  {
+    "var": "ARRAYTXT_127",
+    "en": "\"\nCreature of good town alignment on Evil Fog -1\"",
+    "ua": "\"\nІстоти \"\"добрих сил\"\" в Тумані зла -1\""
+  },
+  {
+    "var": "ARRAYTXT_128",
+    "en": "cNewTurn",
+    "ua": "cNewTurn"
+  },
+  {
+    "var": "ARRAYTXT_129",
+    "en": "\"%s, you only have %d days left to capture a town or you will be banished from this land.\"",
+    "ua": "\"%s, у вас є лише %d днів до захоплення міста або ви будете вигнані з цієї землі.\""
+  },
+  {
+    "var": "ARRAYTXT_130",
+    "en": "\"%s, this is your last day to capture a town or you will be banished from this land.\"",
+    "ua": "\"%s, це ваш останній день, щоб захопити місто або ви будете вигнані з цієї землі.\""
+  },
+  {
+    "var": "ARRAYTXT_131",
+    "en": "\"Astrologers proclaim month of the %s.\n\nAll dwellings increase population.\"",
+    "ua": "\"Астрологи проголосили місяць істоти: %s.\n\nНаселення всіх житл зросло.\""
+  },
+  {
+    "var": "ARRAYTXT_132",
+    "en": "\"Astrologers proclaim month of the %s.\n\n%s population doubles!\n\nAll dwellings increase population.\"",
+    "ua": "\"Астрологи проголосили місяць %s.\n\n%s населення подвоюється!\n\nНаселення всіх житл зросло.\""
+  },
+  {
+    "var": "ARRAYTXT_133",
+    "en": "\"Astrologers proclaim month of the PLAGUE!\n\nAll populations are halved.\"",
+    "ua": "\"Астрологи проголосили місяць Чуми!\n\nПоловина всього населення помирає\""
+  },
+  {
+    "var": "ARRAYTXT_134",
+    "en": "\"Astrologers proclaim week of the %s.\n\nAll dwellings increase population.\"",
+    "ua": "\"Астрологи проголосили місяць %s.\n\nНаселення всіх житл зросло.\""
+  },
+  {
+    "var": "ARRAYTXT_135",
+    "en": "\"Astrologers proclaim week of the %s.\n\n%s growth +5.\n\nAll dwellings increase population.\"",
+    "ua": "\"Астрологи проголосили місяць істоти: %s.\n\nКількість істот %s зросла на 5.\n\nНаселення всіх житл зросло.\""
+  },
+  {
+    "var": "ARRAYTXT_136",
+    "en": "\"Astrologers proclaim week of the %s.\n\n%s growth %+d.\n%s growth %+d.\n\nAll dwellings increase in population.\"",
+    "ua": "\"Астрологи проголосили місяць істоти: %s. \n\nКількість істот %s зросла на %+d.\nА %s на %+d.\n\nВсі житла збільшили населення.\""
+  },
+  {
+    "var": "ARRAYTXT_137",
+    "en": "cMapSize",
+    "ua": "cMapSize"
+  },
+  {
+    "var": "ARRAYTXT_138",
+    "en": "Small",
+    "ua": "Мала"
+  },
+  {
+    "var": "ARRAYTXT_139",
+    "en": "Medium",
+    "ua": "Середня"
+  },
+  {
+    "var": "ARRAYTXT_140",
+    "en": "Large",
+    "ua": "Велика"
+  },
+  {
+    "var": "ARRAYTXT_141",
+    "en": "Extra Large",
+    "ua": "Дуже Велика"
+  },
+  {
+    "var": "ARRAYTXT_142",
+    "en": "cDifficulty",
+    "ua": "cDifficulty"
+  },
+  {
+    "var": "ARRAYTXT_143",
+    "en": "Easy",
+    "ua": "Легко"
+  },
+  {
+    "var": "ARRAYTXT_144",
+    "en": "Normal",
+    "ua": "Нормально"
+  },
+  {
+    "var": "ARRAYTXT_145",
+    "en": "Hard",
+    "ua": "Важко"
+  },
+  {
+    "var": "ARRAYTXT_146",
+    "en": "Expert",
+    "ua": "Експерт"
+  },
+  {
+    "var": "ARRAYTXT_147",
+    "en": "Impossible",
+    "ua": "Неможливо"
+  },
+  {
+    "var": "ARRAYTXT_148",
+    "en": "cDirections",
+    "ua": "cDirections"
+  },
+  {
+    "var": "ARRAYTXT_149",
+    "en": "northern",
+    "ua": "північній"
+  },
+  {
+    "var": "ARRAYTXT_150",
+    "en": "northeastern",
+    "ua": "північно-східній"
+  },
+  {
+    "var": "ARRAYTXT_151",
+    "en": "eastern",
+    "ua": "східній"
+  },
+  {
+    "var": "ARRAYTXT_152",
+    "en": "southeastern",
+    "ua": "південно-східній"
+  },
+  {
+    "var": "ARRAYTXT_153",
+    "en": "southern",
+    "ua": "південній"
+  },
+  {
+    "var": "ARRAYTXT_154",
+    "en": "southwestern",
+    "ua": "південно-західній"
+  },
+  {
+    "var": "ARRAYTXT_155",
+    "en": "western",
+    "ua": "західній"
+  },
+  {
+    "var": "ARRAYTXT_156",
+    "en": "northwestern",
+    "ua": "північно-західній"
+  },
+  {
+    "var": "ARRAYTXT_157",
+    "en": "central",
+    "ua": "центральній"
+  },
+  {
+    "var": "ARRAYTXT_158",
+    "en": "cRumourTerrainDescriptions",
+    "ua": "cRumourTerrainDescriptions"
+  },
+  {
+    "var": "ARRAYTXT_159",
+    "en": "in the dirt.",
+    "ua": "на землі."
+  },
+  {
+    "var": "ARRAYTXT_160",
+    "en": "under a desert drift.",
+    "ua": "в пустелі."
+  },
+  {
+    "var": "ARRAYTXT_161",
+    "en": "on a grassy plain.",
+    "ua": "на трав'янистій рівнині."
+  },
+  {
+    "var": "ARRAYTXT_162",
+    "en": "in the driven snow.",
+    "ua": "в снігу."
+  },
+  {
+    "var": "ARRAYTXT_163",
+    "en": "in a murky swamp.",
+    "ua": "в темному болоті."
+  },
+  {
+    "var": "ARRAYTXT_164",
+    "en": "in a parched wasteland.",
+    "ua": "в пересохлій пустці."
+  },
+  {
+    "var": "ARRAYTXT_165",
+    "en": "in an underground cavern",
+    "ua": "в підземній печері."
+  },
+  {
+    "var": "ARRAYTXT_166",
+    "en": "buried in barren lava.",
+    "ua": "в безплідній лаві."
+  },
+  {
+    "var": "ARRAYTXT_167",
+    "en": "in the murky depths of the ocean.",
+    "ua": "в темних глибинах океану."
+  },
+  {
+    "var": "ARRAYTXT_168",
+    "en": "under a rock.",
+    "ua": "під скелею."
+  },
+  {
+    "var": "ARRAYTXT_169",
+    "en": "cPersonality",
+    "ua": "cPersonality"
+  },
+  {
+    "var": "ARRAYTXT_170",
+    "en": "Warrior",
+    "ua": "Воїн"
+  },
+  {
+    "var": "ARRAYTXT_171",
+    "en": "Builder",
+    "ua": "Будівник"
+  },
+  {
+    "var": "ARRAYTXT_172",
+    "en": "Explorer",
+    "ua": "Дослідник"
+  },
+  {
+    "var": "ARRAYTXT_173",
+    "en": "Human",
+    "ua": "Людина"
+  },
+  {
+    "var": "ARRAYTXT_174",
+    "en": "gArmySizeNames",
+    "ua": "gArmySizeNames"
+  },
+  {
+    "var": "ARRAYTXT_175",
+    "en": "Few",
+    "ua": "Мало"
+  },
+  {
+    "var": "ARRAYTXT_176",
+    "en": "A few",
+    "ua": "Мало"
+  },
+  {
+    "var": "ARRAYTXT_177",
+    "en": "a few",
+    "ua": "мало"
+  },
+  {
+    "var": "ARRAYTXT_178",
+    "en": "Several",
+    "ua": "Кілька"
+  },
+  {
+    "var": "ARRAYTXT_179",
+    "en": "Several",
+    "ua": "Кілька"
+  },
+  {
+    "var": "ARRAYTXT_180",
+    "en": "several",
+    "ua": "кілька"
+  },
+  {
+    "var": "ARRAYTXT_181",
+    "en": "Pack",
+    "ua": "Загін"
+  },
+  {
+    "var": "ARRAYTXT_182",
+    "en": "A pack of",
+    "ua": "Загін"
+  },
+  {
+    "var": "ARRAYTXT_183",
+    "en": "a pack of",
+    "ua": "загін"
+  },
+  {
+    "var": "ARRAYTXT_184",
+    "en": "Lots",
+    "ua": "Багато"
+  },
+  {
+    "var": "ARRAYTXT_185",
+    "en": "Lots of",
+    "ua": "Багато"
+  },
+  {
+    "var": "ARRAYTXT_186",
+    "en": "lots of",
+    "ua": "багато"
+  },
+  {
+    "var": "ARRAYTXT_187",
+    "en": "Horde",
+    "ua": "Орда"
+  },
+  {
+    "var": "ARRAYTXT_188",
+    "en": "A Horde of",
+    "ua": "Орда"
+  },
+  {
+    "var": "ARRAYTXT_189",
+    "en": "a horde of",
+    "ua": "орда"
+  },
+  {
+    "var": "ARRAYTXT_190",
+    "en": "Throng",
+    "ua": "Натовп"
+  },
+  {
+    "var": "ARRAYTXT_191",
+    "en": "A Throng of",
+    "ua": "Натовп"
+  },
+  {
+    "var": "ARRAYTXT_192",
+    "en": "a throng of",
+    "ua": "натовп"
+  },
+  {
+    "var": "ARRAYTXT_193",
+    "en": "Swarm",
+    "ua": "Рій"
+  },
+  {
+    "var": "ARRAYTXT_194",
+    "en": "A Swarm of",
+    "ua": "Рій"
+  },
+  {
+    "var": "ARRAYTXT_195",
+    "en": "a swarm of",
+    "ua": "рій"
+  },
+  {
+    "var": "ARRAYTXT_196",
+    "en": "Zounds",
+    "ua": "Тисячі"
+  },
+  {
+    "var": "ARRAYTXT_197",
+    "en": "Zounds...",
+    "ua": "Тисячі..."
+  },
+  {
+    "var": "ARRAYTXT_198",
+    "en": "zounds of",
+    "ua": "тисячі"
+  },
+  {
+    "var": "ARRAYTXT_199",
+    "en": "Legion",
+    "ua": "Легіон"
+  },
+  {
+    "var": "ARRAYTXT_200",
+    "en": "A Legion of",
+    "ua": "Легіон"
+  },
+  {
+    "var": "ARRAYTXT_201",
+    "en": "a legion of",
+    "ua": "Легіон"
+  },
+  {
+    "var": "ARRAYTXT_202",
+    "en": "const_wise_tree_price_text",
+    "ua": "const_wise_tree_price_text"
+  },
+  {
+    "var": "ARRAYTXT_203",
+    "en": " (+1 level)",
+    "ua": " (+1 рівень)"
+  },
+  {
+    "var": "ARRAYTXT_204",
+    "en": " (+1 level for 2000 gold)",
+    "ua": " (+1 рівень за 2000 золотих)"
+  },
+  {
+    "var": "ARRAYTXT_205",
+    "en": " (+1 level for 10 gems)",
+    "ua": " (+1 рівень за 10 самоцвітів)"
+  },
+  {
+    "var": "ARRAYTXT_206",
+    "en": "HumanCPU",
+    "ua": "HumanCPU"
+  },
+  {
+    "var": "ARRAYTXT_207",
+    "en": "\"Human\nor CPU\"",
+    "ua": "\"Людина\nчи Комп'ютер\""
+  },
+  {
+    "var": "ARRAYTXT_208",
+    "en": "Human",
+    "ua": "Людина"
+  },
+  {
+    "var": "ARRAYTXT_209",
+    "en": "CPU",
+    "ua": "Комп'ютер"
+  },
+  {
+    "var": "ARRAYTXT_210",
+    "en": "HandiText",
+    "ua": "HandiText"
+  },
+  {
+    "var": "ARRAYTXT_211",
+    "en": "No Handicap",
+    "ua": "Без гандикапу"
+  },
+  {
+    "var": "ARRAYTXT_212",
+    "en": "Mild Handicap",
+    "ua": "Помірний гандикап"
+  },
+  {
+    "var": "ARRAYTXT_213",
+    "en": "Severe Handicap",
+    "ua": "Великий гандикап"
+  },
+  {
+    "var": "ARRAYTXT_214",
+    "en": "AGRText",
+    "ua": "AGRText"
+  },
+  {
+    "var": "ARRAYTXT_215",
+    "en": "Artifact",
+    "ua": "Артефакт"
+  },
+  {
+    "var": "ARRAYTXT_216",
+    "en": "Gold",
+    "ua": "Золото"
+  },
+  {
+    "var": "ARRAYTXT_217",
+    "en": "Resource",
+    "ua": "Ресурси"
+  },
+  {
+    "var": "ARRAYTXT_218",
+    "en": "gTownTypeNames",
+    "ua": "gTownTypeNames"
+  },
+  {
+    "var": "ARRAYTXT_219",
+    "en": "Neutral",
+    "ua": "Нейтральний"
+  },
+  {
+    "var": "ARRAYTXT_220",
+    "en": "Castle",
+    "ua": "Замок"
+  },
+  {
+    "var": "ARRAYTXT_221",
+    "en": "Rampart",
+    "ua": "Оплот"
+  },
+  {
+    "var": "ARRAYTXT_222",
+    "en": "Tower",
+    "ua": "Башта"
+  },
+  {
+    "var": "ARRAYTXT_223",
+    "en": "Inferno",
+    "ua": "Інферно"
+  },
+  {
+    "var": "ARRAYTXT_224",
+    "en": "Necropolis",
+    "ua": "Некрополіс"
+  },
+  {
+    "var": "ARRAYTXT_225",
+    "en": "Dungeon",
+    "ua": "Темниця"
+  },
+  {
+    "var": "ARRAYTXT_226",
+    "en": "Stronghold",
+    "ua": "Цитадель"
+  },
+  {
+    "var": "ARRAYTXT_227",
+    "en": "Fortress",
+    "ua": "Фортеця"
+  },
+  {
+    "var": "ARRAYTXT_228",
+    "en": "Conflux",
+    "ua": "Колонія"
+  },
+  {
+    "var": "ARRAYTXT_229",
+    "en": "NewLoadSave",
+    "ua": "NewLoadSave"
+  },
+  {
+    "var": "ARRAYTXT_230",
+    "en": "Select a Scenario to Play",
+    "ua": "Виберіть сценарій"
+  },
+  {
+    "var": "ARRAYTXT_231",
+    "en": "Load a Saved Game",
+    "ua": "Завантажити збережену гру"
+  },
+  {
+    "var": "ARRAYTXT_232",
+    "en": "Save the Current Game",
+    "ua": "Зберегти поточну гру"
+  },
+  {
+    "var": "ARRAYTXT_233",
+    "en": "Army Speed Names",
+    "ua": "Army Speed Names"
+  },
+  {
+    "var": "ARRAYTXT_234",
+    "en": "Immobile",
+    "ua": "Непорушна"
+  },
+  {
+    "var": "ARRAYTXT_235",
+    "en": "Super Slow",
+    "ua": "Наднизька"
+  },
+  {
+    "var": "ARRAYTXT_236",
+    "en": "Ultra Slow",
+    "ua": "Надто низька"
+  },
+  {
+    "var": "ARRAYTXT_237",
+    "en": "Very Slow",
+    "ua": "Вкрай низька"
+  },
+  {
+    "var": "ARRAYTXT_238",
+    "en": "Extra Slow",
+    "ua": "Дуже низька"
+  },
+  {
+    "var": "ARRAYTXT_239",
+    "en": "Slow",
+    "ua": "Низька"
+  },
+  {
+    "var": "ARRAYTXT_240",
+    "en": "Swift",
+    "ua": "Не дуже низька"
+  },
+  {
+    "var": "ARRAYTXT_241",
+    "en": "Extra Swift",
+    "ua": "Нижче середньої"
+  },
+  {
+    "var": "ARRAYTXT_242",
+    "en": "Very Swift",
+    "ua": "Середня"
+  },
+  {
+    "var": "ARRAYTXT_243",
+    "en": "Ultra Swift",
+    "ua": "Вище середньої"
+  },
+  {
+    "var": "ARRAYTXT_244",
+    "en": "Super Swift",
+    "ua": "Не дуже висока"
+  },
+  {
+    "var": "ARRAYTXT_245",
+    "en": "Quick",
+    "ua": "Висока"
+  },
+  {
+    "var": "ARRAYTXT_246",
+    "en": "Extra Quick",
+    "ua": "Досить висока"
+  },
+  {
+    "var": "ARRAYTXT_247",
+    "en": "Very Quick",
+    "ua": "Вкрай висока"
+  },
+  {
+    "var": "ARRAYTXT_248",
+    "en": "Ultra Quick",
+    "ua": "Ультрависока"
+  },
+  {
+    "var": "ARRAYTXT_249",
+    "en": "Super Quick",
+    "ua": "Надвисока"
+  },
+  {
+    "var": "ARRAYTXT_250",
+    "en": "Fast",
+    "ua": "Стрімка"
+  },
+  {
+    "var": "ARRAYTXT_251",
+    "en": "Extra Fast",
+    "ua": "Досить стрімка"
+  },
+  {
+    "var": "ARRAYTXT_252",
+    "en": "Very Fast",
+    "ua": "Вкрай стрімка"
+  },
+  {
+    "var": "ARRAYTXT_253",
+    "en": "Ultra Fast",
+    "ua": "Ультрастрімка"
+  },
+  {
+    "var": "ARRAYTXT_254",
+    "en": "Super Fast",
+    "ua": "Надстрімка"
+  },
+  {
+    "var": "ARRAYTXT_255",
+    "en": "Town Size Names",
+    "ua": "Town Size Names"
+  },
+  {
+    "var": "ARRAYTXT_256",
+    "en": "Village",
+    "ua": "Село"
+  },
+  {
+    "var": "ARRAYTXT_257",
+    "en": "Town",
+    "ua": "Містечко"
+  },
+  {
+    "var": "ARRAYTXT_258",
+    "en": "City",
+    "ua": "Місто"
+  },
+  {
+    "var": "ARRAYTXT_259",
+    "en": "Capitol",
+    "ua": "Столиця"
+  },
+  {
+    "var": "ARRAYTXT_260",
+    "en": "Moat Names",
+    "ua": "Moat Names"
+  },
+  {
+    "var": "ARRAYTXT_261",
+    "en": "Moat",
+    "ua": "Рів"
+  },
+  {
+    "var": "ARRAYTXT_262",
+    "en": "Bramble Hedge",
+    "ua": "Колюча огорожа"
+  },
+  {
+    "var": "ARRAYTXT_263",
+    "en": "Land Mines",
+    "ua": "Міни"
+  },
+  {
+    "var": "ARRAYTXT_264",
+    "en": "Lava",
+    "ua": "Лава"
+  },
+  {
+    "var": "ARRAYTXT_265",
+    "en": "Boneyard",
+    "ua": "Кладовище"
+  },
+  {
+    "var": "ARRAYTXT_266",
+    "en": "Boiling Oil",
+    "ua": "Кипляча олія"
+  },
+  {
+    "var": "ARRAYTXT_267",
+    "en": "Spike Barrier",
+    "ua": "Шипи"
+  },
+  {
+    "var": "ARRAYTXT_268",
+    "en": "Boiling Tar",
+    "ua": "Кипляча смола"
+  },
+  {
+    "var": "ARRAYTXT_269",
+    "en": "Moat",
+    "ua": "Рів"
+  },
+  {
+    "var": "ARRAYTXT_270",
+    "en": "Insert all data before this line. Do not alter or delete this line.",
+    "ua": "Insert all data before this line. Do not alter or delete this line."
+  }
+]

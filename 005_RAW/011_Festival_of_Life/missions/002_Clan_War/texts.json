@@ -1,0 +1,134 @@
+[
+  {
+    "var": "FESTIVAL_M2_prolog",
+    "field": "wrapper_prolog",
+    "en": "Excellent work young one!  Now you and three others must compete for the chance to challenge the king.  Defeat them and their lieutenants in order to claim victory.  The three allies that helped you in the second mission will assist you in this one, good luck.",
+    "ua": "Чудова робота! Тепер ти і троє інших готові до бою з королем. Знищ його і його соратників, щоб здобути перемогу. Троє союзників допоможуть тобі у твоїй справі.\n"
+  },
+  {
+    "var": "FESTIVAL_M2_epilog",
+    "field": "wrapper_epilog",
+    "en": "In the Festival of Life, those who fail, either die at the hands of their enemies, or by their own hand after capture.  I will be merciful toward my opponents.  I will take no prisoners.",
+    "ua": "На Фестивалі Життя переможений воїн знаходить смерть від руки супротивника - або від власного кинджала, не бажаючи терпіти полон. Я буду милостивий до суперників. Я не стану брати полонених."
+  },
+  {
+    "var": "FESTIVAL_M2_map_name",
+    "field": "map_map_name",
+    "en": "Clan War",
+    "ua": "Війна кланів"
+  },
+  {
+    "var": "FESTIVAL_M2_map_desc",
+    "field": "map_map_desc",
+    "en": "Three other clans also fight for the right to have their nominee be the king.  Defeat them all without losing Kilgor and his three starting allies or lose the game. Only Kilgor and his three starting companions will be carried over into the next and last mission. Levels are limited to thirty.",
+    "ua": "Три інших клани б'ються з вами за право звести на трон свого ставленика. Розбийте їх, не втративши при цьому Кілґора і трьох його соратників, або програєте. Тільки Кілґор і його компаньйони перейдуть в наступну, останню, місію. Розвиток героїв обмежено тридцятим рівнем."
+  },
+  {
+    "var": "FESTIVAL_M2_rumor0_name",
+    "field": "map_rumor0_name",
+    "en": "Artifact in middle",
+    "ua": "Artifact in middle"
+  },
+  {
+    "var": "FESTIVAL_M2_rumor0_desc",
+    "field": "map_rumor0_desc",
+    "en": "A fine artifact awaits the first to reach the middle.",
+    "ua": "Могутній артефакт чекає на свого господаря в центрі карти."
+  },
+  {
+    "var": "FESTIVAL_M2_rumor1_name",
+    "field": "map_rumor1_name",
+    "en": "Dungeon city.",
+    "ua": "Dungeon city."
+  },
+  {
+    "var": "FESTIVAL_M2_rumor1_desc",
+    "field": "map_rumor1_desc",
+    "en": "A dungeon city guarded by many dragons is rumored to be in the area.",
+    "ua": "Подейкують, що в цих землях є підземне місто, яке охороняється драконами."
+  },
+  {
+    "var": "FESTIVAL_M2_obj132_town_name",
+    "field": "map_obj132_town_name",
+    "en": "House Kilgor",
+    "ua": "Кілґор-Хаус"
+  },
+  {
+    "var": "FESTIVAL_M2_obj139_town_name",
+    "field": "map_obj139_town_name",
+    "en": "House Vilmit",
+    "ua": "Вілміт-Хаус"
+  },
+  {
+    "var": "FESTIVAL_M2_obj170_town_name",
+    "field": "map_obj170_town_name",
+    "en": "House Telez",
+    "ua": "Телез-Хаус"
+  },
+  {
+    "var": "FESTIVAL_M2_obj198_town_name",
+    "field": "map_obj198_town_name",
+    "en": "House Degab",
+    "ua": "Дегаб-Хаус"
+  },
+  {
+    "var": "FESTIVAL_M2_obj1696_guardian_mesg",
+    "field": "map_obj1696_guardian_mesg",
+    "en": "Soldiers from House Degab move to protect the book.  Do you wish to fight them?",
+    "ua": "Книга заклинань охороняється воїнами клану Дегаб. Атакувати їх?"
+  },
+  {
+    "var": "FESTIVAL_M2_obj2113_quest_proposal",
+    "field": "map_obj2113_quest_proposal",
+    "en": "As you enter the hut an ancient looking battle mage looks up from the book he is reading.  \"Here for the War contest are you?\".  He cackles for a while. \" Well one of the dang fools stole one of my books, let me think...oh yeah the tome of fire magic, if you bring it back to me i'll give you a brood of Behemoths I've been breeding for years.\"  He pauses to study you for awhile. \" Well, what are you standing around for..find my book!",
+    "ua": "Ви входите до кімнати, і підстаркуватий бойовий маг відривається від книги, яку читав. \"Ти також один з цих варварів?\" - питає він, - \"Твій попередник вкрав у мене... дай пригадаю... книгу Магії Вогню, і якщо ти повернеш її, я віддам тобі зграю чудовиськ, яку я ростив вже багато років\". Він переривається і оглядає вас. \"В чому справа! Чому ти стоїш? йди і поверни мені книгу!\""
+  },
+  {
+    "var": "FESTIVAL_M2_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Day one event.",
+    "ua": "Day one event."
+  },
+  {
+    "var": "FESTIVAL_M2_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "The third test begins.  The three opponents arrayed against you and each other are battle tested and strong, having been through similar tests.  If you overcome them you will have proven your mettle enough to challenge the king himself!",
+    "ua": "Третє випробування починається. Три ваших противники загартовані в бою. Кожен з них, як і ви, прагне стати одноосібним переможцем. Здолавши їх, ви зможете кинути виклик самому королю!"
+  },
+  {
+    "var": "FESTIVAL_M2_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "House Telez message",
+    "ua": "House Telez message"
+  },
+  {
+    "var": "FESTIVAL_M2_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "A message arrives from House Telez: \"Give up now, before we step on you like the pile of Orc dung you are\"",
+    "ua": "Клан Телез прислав вам депешу: \"Здавайся прямо зараз, або ми розмажемо тебе, як коров'ячий млинець, яким ти і є!\""
+  },
+  {
+    "var": "FESTIVAL_M2_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "House Degab taunt",
+    "ua": "House Degab taunt"
+  },
+  {
+    "var": "FESTIVAL_M2_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "House Degab sends you a message: \"Surrender to us now and we will give you a quick and painless death staked out upon the Anthill of Doom.  Otherwise a regular anthill will be your fate\"",
+    "ua": "Клан Деґаб прислав вам депешу: \"Здайся зараз, і ми гарантуємо тобі швидку безболісну смерть на Мурашнику Долі. Інакше твоєю могилою буде звичайний мурашник.\""
+  },
+  {
+    "var": "FESTIVAL_M2_mapevent3_name",
+    "field": "map_mapevent3_name",
+    "en": "House Vilmit message",
+    "ua": "House Vilmit message"
+  },
+  {
+    "var": "FESTIVAL_M2_mapevent3_mesg",
+    "field": "map_mapevent3_mesg",
+    "en": "House Vilmit sends a message: \"<Ugh>..we crush you like bug you are..<Ugh>\"",
+    "ua": "Клан Вілміт прислав вам депешу: \"(Ух!) Ми розчавимо тебе, як комашку, якою ти і є (Ух!) \""
+  }
+]

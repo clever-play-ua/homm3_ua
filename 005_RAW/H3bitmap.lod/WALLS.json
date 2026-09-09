@@ -1,0 +1,907 @@
+[
+  {
+    "var": "WALLS_1",
+    "en": "\t\t",
+    "ua": "\t\t"
+  },
+  {
+    "var": "WALLS_Wall Section",
+    "en": "Wall Section\t\"Hit Points (max is 3, only walls, towers, the gate, and the main building are used, unused must be 0)\"\t",
+    "ua": "Wall Section\t\"Hit Points (max is 3, only walls, towers, the gate, and the main building are used, unused must be 0)\"\t"
+  },
+  {
+    "var": "WALLS_Castle",
+    "en": "Castle\t\t",
+    "ua": "Castle\t\t"
+  },
+  {
+    "var": "WALLS_Drawbridge",
+    "en": "Drawbridge\t0\t",
+    "ua": "Підйомний міст\t0\t"
+  },
+  {
+    "var": "WALLS_Drawbridge Rope",
+    "en": "Drawbridge Rope\t0\t",
+    "ua": "Мотузка підйомного моста\t0\t"
+  },
+  {
+    "var": "WALLS_Moat",
+    "en": "Moat\t0\t",
+    "ua": "Рів\t0\t"
+  },
+  {
+    "var": "WALLS_Moat Lip",
+    "en": "Moat Lip\t0\t",
+    "ua": "Край рову\t0\t"
+  },
+  {
+    "var": "WALLS_Back Wall",
+    "en": "Back Wall\t0\t",
+    "ua": "Задня стіна\t0\t"
+  },
+  {
+    "var": "WALLS_Upper Tower",
+    "en": "Upper Tower\t2\t",
+    "ua": "Верхня вежа\t2\t"
+  },
+  {
+    "var": "WALLS_Upper Wall",
+    "en": "Upper Wall\t2\t",
+    "ua": "Найвища стіна\t2\t"
+  },
+  {
+    "var": "WALLS_Upper Buttress",
+    "en": "Upper Buttress\t0\t",
+    "ua": "Верхня опора\t0\t"
+  },
+  {
+    "var": "WALLS_Mid-Upper Wall",
+    "en": "Mid-Upper Wall\t2\t",
+    "ua": "Верхня стіна\t2\t"
+  },
+  {
+    "var": "WALLS_Gate",
+    "en": "Gate\t2\t",
+    "ua": "Ворота\t2\t"
+  },
+  {
+    "var": "WALLS_Mid-Lower Wall",
+    "en": "Mid-Lower Wall\t2\t",
+    "ua": "Нижня стіна\t2\t"
+  },
+  {
+    "var": "WALLS_Lower Buttress",
+    "en": "Lower Buttress\t0\t",
+    "ua": "Нижня опора\t0\t"
+  },
+  {
+    "var": "WALLS_Lower Wall",
+    "en": "Lower Wall\t2\t",
+    "ua": "Найнижча стіна\t2\t"
+  },
+  {
+    "var": "WALLS_Lower Tower",
+    "en": "Lower Tower\t2\t",
+    "ua": "Нижня вежа\t2\t"
+  },
+  {
+    "var": "WALLS_Keep",
+    "en": "Keep\t2\t",
+    "ua": "Замок\t2\t"
+  },
+  {
+    "var": "WALLS_Keep Cvr",
+    "en": "Keep Cvr\t0\t",
+    "ua": "Дах замку\t0\t"
+  },
+  {
+    "var": "WALLS_Lower Twr Cvr",
+    "en": "Lower Twr Cvr\t0\t",
+    "ua": "Дах нижньої вежі \t0\t"
+  },
+  {
+    "var": "WALLS_Upper Twr Cvr",
+    "en": "Upper Twr Cvr\t0\t",
+    "ua": "Дах верхньої вежі\t0\t"
+  },
+  {
+    "var": "WALLS_22",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "WALLS_Rampart",
+    "en": "Rampart\t\t",
+    "ua": "Rampart\t\t"
+  },
+  {
+    "var": "WALLS_Drawbridge",
+    "en": "Drawbridge\t0\t",
+    "ua": "Підйомний міст\t0\t"
+  },
+  {
+    "var": "WALLS_Drawbridge Rope",
+    "en": "Drawbridge Rope\t0\t",
+    "ua": "Мотузка підйомного моста\t0\t"
+  },
+  {
+    "var": "WALLS_Moat",
+    "en": "Moat\t0\t",
+    "ua": "Рів\t0\t"
+  },
+  {
+    "var": "WALLS_Moat Lip",
+    "en": "Moat Lip\t0\t",
+    "ua": "Край рову\t0\t"
+  },
+  {
+    "var": "WALLS_Back Wall",
+    "en": "Back Wall\t0\t",
+    "ua": "Задня стіна\t0\t"
+  },
+  {
+    "var": "WALLS_Upper Tower",
+    "en": "Upper Tower\t2\t",
+    "ua": "Верхня вежа\t2\t"
+  },
+  {
+    "var": "WALLS_Upper Wall",
+    "en": "Upper Wall\t2\t",
+    "ua": "Найвища стіна\t2\t"
+  },
+  {
+    "var": "WALLS_Upper Buttress",
+    "en": "Upper Buttress\t0\t",
+    "ua": "Верхня опора\t0\t"
+  },
+  {
+    "var": "WALLS_Mid-Upper Wall",
+    "en": "Mid-Upper Wall\t2\t",
+    "ua": "Верхня стіна\t2\t"
+  },
+  {
+    "var": "WALLS_Gate",
+    "en": "Gate\t2\t",
+    "ua": "Ворота\t2\t"
+  },
+  {
+    "var": "WALLS_Mid-Lower Wall",
+    "en": "Mid-Lower Wall\t2\t",
+    "ua": "Нижня стіна\t2\t"
+  },
+  {
+    "var": "WALLS_Lower Buttress",
+    "en": "Lower Buttress\t0\t",
+    "ua": "Нижня опора\t0\t"
+  },
+  {
+    "var": "WALLS_Lower Wall",
+    "en": "Lower Wall\t2\t",
+    "ua": "Найнижча стіна\t2\t"
+  },
+  {
+    "var": "WALLS_Lower Tower",
+    "en": "Lower Tower\t2\t",
+    "ua": "Нижня вежа\t2\t"
+  },
+  {
+    "var": "WALLS_Main Building",
+    "en": "Main Building\t2\t",
+    "ua": "Головна будівля\t2\t"
+  },
+  {
+    "var": "WALLS_Main Bldg Cvr",
+    "en": "Main Bldg Cvr\t0\t",
+    "ua": "Головна будівля Cvr\t0\t"
+  },
+  {
+    "var": "WALLS_Lower Twr Cvr",
+    "en": "Lower Twr Cvr\t0\t",
+    "ua": "Дах нижньої вежі\t0\t"
+  },
+  {
+    "var": "WALLS_Upper Twr Cvr",
+    "en": "Upper Twr Cvr\t0\t",
+    "ua": "Дах верхньої вежі\t0\t"
+  },
+  {
+    "var": "WALLS_42",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "WALLS_Tower",
+    "en": "Tower\t\t",
+    "ua": "Tower\t\t"
+  },
+  {
+    "var": "WALLS_Drawbridge",
+    "en": "Drawbridge\t0\t",
+    "ua": "Підйомний міст\t0\t"
+  },
+  {
+    "var": "WALLS_Drawbridge Rope",
+    "en": "Drawbridge Rope\t0\t",
+    "ua": "Мотузка підйомного моста\t0\t"
+  },
+  {
+    "var": "WALLS_Moat",
+    "en": "Moat\t0\t",
+    "ua": "Рів\t0\t"
+  },
+  {
+    "var": "WALLS_Moat Lip",
+    "en": "Moat Lip\t0\t",
+    "ua": "Край рову\t0\t"
+  },
+  {
+    "var": "WALLS_Back Wall",
+    "en": "Back Wall\t0\t",
+    "ua": "Задня стіна\t0\t"
+  },
+  {
+    "var": "WALLS_Upper Tower",
+    "en": "Upper Tower\t2\t",
+    "ua": "Верхня вежа\t2\t"
+  },
+  {
+    "var": "WALLS_Upper Wall",
+    "en": "Upper Wall\t2\t",
+    "ua": "Найвища стіна\t2\t"
+  },
+  {
+    "var": "WALLS_Upper Buttress",
+    "en": "Upper Buttress\t0\t",
+    "ua": "Верхня опора\t0\t"
+  },
+  {
+    "var": "WALLS_Mid-Upper Wall",
+    "en": "Mid-Upper Wall\t2\t",
+    "ua": "Верхня стіна\t2\t"
+  },
+  {
+    "var": "WALLS_Gate",
+    "en": "Gate\t2\t",
+    "ua": "Ворота\t2\t"
+  },
+  {
+    "var": "WALLS_Mid-Lower Wall",
+    "en": "Mid-Lower Wall\t2\t",
+    "ua": "Нижня стіна\t2\t"
+  },
+  {
+    "var": "WALLS_Lower Buttress",
+    "en": "Lower Buttress\t0\t",
+    "ua": "Нижня опора\t0\t"
+  },
+  {
+    "var": "WALLS_Lower Wall",
+    "en": "Lower Wall\t2\t",
+    "ua": "Найнижча стіна\t2\t"
+  },
+  {
+    "var": "WALLS_Lower Tower",
+    "en": "Lower Tower\t2\t",
+    "ua": "Нижня вежа\t2\t"
+  },
+  {
+    "var": "WALLS_Main Building",
+    "en": "Main Building\t2\t",
+    "ua": "Головна будівля\t2\t"
+  },
+  {
+    "var": "WALLS_Main Bldg Cvr",
+    "en": "Main Bldg Cvr\t0\t",
+    "ua": "Головна будівля Cvr\t0\t"
+  },
+  {
+    "var": "WALLS_Lower Twr Cvr",
+    "en": "Lower Twr Cvr\t0\t",
+    "ua": "Дах нижньої вежі\t0\t"
+  },
+  {
+    "var": "WALLS_Upper Twr Cvr",
+    "en": "Upper Twr Cvr\t0\t",
+    "ua": "Дах верхньої вежі\t0\t"
+  },
+  {
+    "var": "WALLS_62",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "WALLS_Inferno",
+    "en": "Inferno\t\t",
+    "ua": "Inferno\t\t"
+  },
+  {
+    "var": "WALLS_Drawbridge",
+    "en": "Drawbridge\t0\t",
+    "ua": "Підйомний міст\t0\t"
+  },
+  {
+    "var": "WALLS_Drawbridge Rope",
+    "en": "Drawbridge Rope\t0",
+    "ua": "Мотузка підйомного моста\t0"
+  },
+  {
+    "var": "WALLS_Moat",
+    "en": "Moat\t0",
+    "ua": "Рів\t0"
+  },
+  {
+    "var": "WALLS_Moat Lip",
+    "en": "Moat Lip\t0",
+    "ua": "Край рову\t0"
+  },
+  {
+    "var": "WALLS_Back Wall",
+    "en": "Back Wall\t0",
+    "ua": "Задня стіна\t0"
+  },
+  {
+    "var": "WALLS_Upper Tower",
+    "en": "Upper Tower\t2",
+    "ua": "Верхня вежа\t2"
+  },
+  {
+    "var": "WALLS_Upper Wall",
+    "en": "Upper Wall\t2",
+    "ua": "Найвища стіна\t2"
+  },
+  {
+    "var": "WALLS_Upper Buttress",
+    "en": "Upper Buttress\t0",
+    "ua": "Верхня опора\t0"
+  },
+  {
+    "var": "WALLS_Mid-Upper Wall",
+    "en": "Mid-Upper Wall\t2",
+    "ua": "Верхня стіна\t2"
+  },
+  {
+    "var": "WALLS_Gate",
+    "en": "Gate\t2",
+    "ua": "Ворота\t2"
+  },
+  {
+    "var": "WALLS_Mid-Lower Wall",
+    "en": "Mid-Lower Wall\t2",
+    "ua": "Нижня стіна\t2"
+  },
+  {
+    "var": "WALLS_Lower Buttress",
+    "en": "Lower Buttress\t0",
+    "ua": "Нижня опора\t0"
+  },
+  {
+    "var": "WALLS_Lower Wall",
+    "en": "Lower Wall\t2",
+    "ua": "Найнижча стіна\t2"
+  },
+  {
+    "var": "WALLS_Lower Tower",
+    "en": "Lower Tower\t2",
+    "ua": "Нижня вежа\t2"
+  },
+  {
+    "var": "WALLS_Main Building",
+    "en": "Main Building\t2",
+    "ua": "Головна будівля\t2"
+  },
+  {
+    "var": "WALLS_Main Bldg Cvr",
+    "en": "Main Bldg Cvr\t0",
+    "ua": "Головна будівля Cvr\t0"
+  },
+  {
+    "var": "WALLS_Lower Twr Cvr",
+    "en": "Lower Twr Cvr\t0",
+    "ua": "Дах нижньої вежі\t0"
+  },
+  {
+    "var": "WALLS_Upper Twr Cvr",
+    "en": "Upper Twr Cvr\t0\t",
+    "ua": "Дах верхньої вежі\t0\t"
+  },
+  {
+    "var": "WALLS_82",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "WALLS_Necropolis",
+    "en": "Necropolis\t\t",
+    "ua": "Necropolis\t\t"
+  },
+  {
+    "var": "WALLS_Drawbridge",
+    "en": "Drawbridge\t0\t",
+    "ua": "Підйомний міст\t0\t"
+  },
+  {
+    "var": "WALLS_Drawbridge Rope",
+    "en": "Drawbridge Rope\t0\t",
+    "ua": "Мотузка підйомного мосту\t0\t"
+  },
+  {
+    "var": "WALLS_Moat",
+    "en": "Moat\t0\t",
+    "ua": "Рів\t0\t"
+  },
+  {
+    "var": "WALLS_Moat Lip",
+    "en": "Moat Lip\t0\t",
+    "ua": "Край рову\t0\t"
+  },
+  {
+    "var": "WALLS_Back Wall",
+    "en": "Back Wall\t0\t",
+    "ua": "Задня стіна\t0\t"
+  },
+  {
+    "var": "WALLS_Upper Tower",
+    "en": "Upper Tower\t2\t",
+    "ua": "Верхня вежа\t2\t"
+  },
+  {
+    "var": "WALLS_Upper Wall",
+    "en": "Upper Wall\t2\t",
+    "ua": "Найвища стіна\t2\t"
+  },
+  {
+    "var": "WALLS_Upper Buttress",
+    "en": "Upper Buttress\t0\t",
+    "ua": "Верхня опора\t0\t"
+  },
+  {
+    "var": "WALLS_Mid-Upper Wall",
+    "en": "Mid-Upper Wall\t2\t",
+    "ua": "Верхня стіна\t2\t"
+  },
+  {
+    "var": "WALLS_Gate",
+    "en": "Gate\t2\t",
+    "ua": "Ворота\t2\t"
+  },
+  {
+    "var": "WALLS_Mid-Lower Wall",
+    "en": "Mid-Lower Wall\t2\t",
+    "ua": "Нижня стіна\t2\t"
+  },
+  {
+    "var": "WALLS_Lower Buttress",
+    "en": "Lower Buttress\t0\t",
+    "ua": "Нижня опора\t0\t"
+  },
+  {
+    "var": "WALLS_Lower Wall",
+    "en": "Lower Wall\t2\t",
+    "ua": "Найнижча стіна\t2\t"
+  },
+  {
+    "var": "WALLS_Lower Tower",
+    "en": "Lower Tower\t2\t",
+    "ua": "Нижня вежа\t2\t"
+  },
+  {
+    "var": "WALLS_Main Building",
+    "en": "Main Building\t2\t",
+    "ua": "Головна будівля\t2\t"
+  },
+  {
+    "var": "WALLS_Main Bldg Cvr",
+    "en": "Main Bldg Cvr\t0\t",
+    "ua": "Головна будівля Cvr\t0\t"
+  },
+  {
+    "var": "WALLS_Lower Twr Cvr",
+    "en": "Lower Twr Cvr\t0\t",
+    "ua": "Дах нижньої вежі\t0\t"
+  },
+  {
+    "var": "WALLS_Upper Twr Cvr",
+    "en": "Upper Twr Cvr\t0\t",
+    "ua": "Дах верхньої вежі\t0\t"
+  },
+  {
+    "var": "WALLS_102",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "WALLS_Dungeon",
+    "en": "Dungeon\t\t",
+    "ua": "Dungeon\t\t"
+  },
+  {
+    "var": "WALLS_Drawbridge",
+    "en": "Drawbridge\t0\t",
+    "ua": "Підйомний міст\t0\t"
+  },
+  {
+    "var": "WALLS_Drawbridge Rope",
+    "en": "Drawbridge Rope\t0\t",
+    "ua": "Мотузка підйомного мосту\t0\t"
+  },
+  {
+    "var": "WALLS_Moat",
+    "en": "Moat\t0\t",
+    "ua": "Рів\t0\t"
+  },
+  {
+    "var": "WALLS_Moat Lip",
+    "en": "Moat Lip\t0\t",
+    "ua": "Край рову\t0\t"
+  },
+  {
+    "var": "WALLS_Back Wall",
+    "en": "Back Wall\t0\t",
+    "ua": "Задня стіна\t0\t"
+  },
+  {
+    "var": "WALLS_Upper Tower",
+    "en": "Upper Tower\t2\t",
+    "ua": "Верхня вежа\t2\t"
+  },
+  {
+    "var": "WALLS_Upper Wall",
+    "en": "Upper Wall\t2\t",
+    "ua": "Найвища стіна\t2\t"
+  },
+  {
+    "var": "WALLS_Upper Buttress",
+    "en": "Upper Buttress\t0\t",
+    "ua": "Верхня опора\t0\t"
+  },
+  {
+    "var": "WALLS_Mid-Upper Wall",
+    "en": "Mid-Upper Wall\t2\t",
+    "ua": "Верхня стіна\t2\t"
+  },
+  {
+    "var": "WALLS_Gate",
+    "en": "Gate\t2\t",
+    "ua": "Ворота\t2\t"
+  },
+  {
+    "var": "WALLS_Mid-Lower Wall",
+    "en": "Mid-Lower Wall\t2\t",
+    "ua": "Нижня стіна\t2\t"
+  },
+  {
+    "var": "WALLS_Lower Buttress",
+    "en": "Lower Buttress\t0\t",
+    "ua": "Нижня опора\t0\t"
+  },
+  {
+    "var": "WALLS_Lower Wall",
+    "en": "Lower Wall\t2\t",
+    "ua": "Найнижча стіна\t2\t"
+  },
+  {
+    "var": "WALLS_Lower Tower",
+    "en": "Lower Tower\t2\t",
+    "ua": "Нижня вежа\t2\t"
+  },
+  {
+    "var": "WALLS_Main Building",
+    "en": "Main Building\t2\t",
+    "ua": "Головна будівля\t2\t"
+  },
+  {
+    "var": "WALLS_Main Bldg Cvr",
+    "en": "Main Bldg Cvr\t0\t",
+    "ua": "Головна будівля Cvr\t0\t"
+  },
+  {
+    "var": "WALLS_Lower Twr Cvr",
+    "en": "Lower Twr Cvr\t0\t",
+    "ua": "Дах нижньої вежі\t0\t"
+  },
+  {
+    "var": "WALLS_Upper Twr Cvr",
+    "en": "Upper Twr Cvr\t0\t",
+    "ua": "Дах верхньої вежі\t0\t"
+  },
+  {
+    "var": "WALLS_122",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "WALLS_Stronghold",
+    "en": "Stronghold\t\t",
+    "ua": "Stronghold\t\t"
+  },
+  {
+    "var": "WALLS_Drawbridge",
+    "en": "Drawbridge\t0\t",
+    "ua": "Підйомний міст\t0\t"
+  },
+  {
+    "var": "WALLS_Drawbridge Rope",
+    "en": "Drawbridge Rope\t0\t",
+    "ua": "Мотузка підйомного мосту\t0\t"
+  },
+  {
+    "var": "WALLS_Moat",
+    "en": "Moat\t0\t",
+    "ua": "Рів\t0\t"
+  },
+  {
+    "var": "WALLS_Moat Lip",
+    "en": "Moat Lip\t0\t",
+    "ua": "Край рову\t0\t"
+  },
+  {
+    "var": "WALLS_Back Wall",
+    "en": "Back Wall\t0\t",
+    "ua": "Задня стіна\t0\t"
+  },
+  {
+    "var": "WALLS_Upper Tower",
+    "en": "Upper Tower\t2\t",
+    "ua": "Верхня вежа\t2\t"
+  },
+  {
+    "var": "WALLS_Upper Wall",
+    "en": "Upper Wall\t2\t",
+    "ua": "Найвища стіна\t2\t"
+  },
+  {
+    "var": "WALLS_Upper Buttress",
+    "en": "Upper Buttress\t0\t",
+    "ua": "Верхня опора\t0\t"
+  },
+  {
+    "var": "WALLS_Mid-Upper Wall",
+    "en": "Mid-Upper Wall\t2\t",
+    "ua": "Верхня стіна\t2\t"
+  },
+  {
+    "var": "WALLS_Gate",
+    "en": "Gate\t2\t",
+    "ua": "Ворота\t2\t"
+  },
+  {
+    "var": "WALLS_Mid-Lower Wall",
+    "en": "Mid-Lower Wall\t2\t",
+    "ua": "Нижня стіна\t2\t"
+  },
+  {
+    "var": "WALLS_Lower Buttress",
+    "en": "Lower Buttress\t0\t",
+    "ua": "Нижня опора\t0\t"
+  },
+  {
+    "var": "WALLS_Lower Wall",
+    "en": "Lower Wall\t2\t",
+    "ua": "Найнижча стіна\t2\t"
+  },
+  {
+    "var": "WALLS_Lower Tower",
+    "en": "Lower Tower\t2\t",
+    "ua": "Нижня вежа\t2\t"
+  },
+  {
+    "var": "WALLS_Main Building",
+    "en": "Main Building\t2\t",
+    "ua": "Головна будівля\t2\t"
+  },
+  {
+    "var": "WALLS_Main Bldg Cvr",
+    "en": "Main Bldg Cvr\t0\t",
+    "ua": "Головна будівля Cvr\t0\t"
+  },
+  {
+    "var": "WALLS_Lower Twr Cvr",
+    "en": "Lower Twr Cvr\t0\t",
+    "ua": "Дах нижньої вежі\t0\t"
+  },
+  {
+    "var": "WALLS_Upper Twr Cvr",
+    "en": "Upper Twr Cvr\t0\t",
+    "ua": "Дах верхньої вежі\t0\t"
+  },
+  {
+    "var": "WALLS_142",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "WALLS_Fortress",
+    "en": "Fortress\t\t",
+    "ua": "Fortress\t\t"
+  },
+  {
+    "var": "WALLS_Drawbridge",
+    "en": "Drawbridge\t0\t",
+    "ua": "Підйомний міст\t0\t"
+  },
+  {
+    "var": "WALLS_Drawbridge Rope",
+    "en": "Drawbridge Rope\t0",
+    "ua": "Мотузка підйомного мосту\t0"
+  },
+  {
+    "var": "WALLS_Moat",
+    "en": "Moat\t0",
+    "ua": "Рів\t0"
+  },
+  {
+    "var": "WALLS_Moat Lip",
+    "en": "Moat Lip\t0",
+    "ua": "Край рову\t0"
+  },
+  {
+    "var": "WALLS_Back Wall",
+    "en": "Back Wall\t0",
+    "ua": "Задня стіна\t0"
+  },
+  {
+    "var": "WALLS_Upper Tower",
+    "en": "Upper Tower\t2",
+    "ua": "Верхня вежа\t2"
+  },
+  {
+    "var": "WALLS_Upper Wall",
+    "en": "Upper Wall\t2",
+    "ua": "Найвища стіна\t2"
+  },
+  {
+    "var": "WALLS_Upper Buttress",
+    "en": "Upper Buttress\t0",
+    "ua": "Верхня опора\t0"
+  },
+  {
+    "var": "WALLS_Mid-Upper Wall",
+    "en": "Mid-Upper Wall\t2",
+    "ua": "Верхня стіна\t2"
+  },
+  {
+    "var": "WALLS_Gate",
+    "en": "Gate\t2",
+    "ua": "Ворота\t2"
+  },
+  {
+    "var": "WALLS_Mid-Lower Wall",
+    "en": "Mid-Lower Wall\t2",
+    "ua": "Нижня стіна\t2"
+  },
+  {
+    "var": "WALLS_Lower Buttress",
+    "en": "Lower Buttress\t0",
+    "ua": "Нижня опора\t0"
+  },
+  {
+    "var": "WALLS_Lower Wall",
+    "en": "Lower Wall\t2",
+    "ua": "Найнижча стіна\t2"
+  },
+  {
+    "var": "WALLS_Lower Tower",
+    "en": "Lower Tower\t2",
+    "ua": "Нижня вежа\t2"
+  },
+  {
+    "var": "WALLS_Main Building",
+    "en": "Main Building\t2",
+    "ua": "Головна будівля\t2"
+  },
+  {
+    "var": "WALLS_Main Bldg Cvr",
+    "en": "Main Bldg Cvr\t0",
+    "ua": "Головна будівля Cvr\t0"
+  },
+  {
+    "var": "WALLS_Lower Twr Cvr",
+    "en": "Lower Twr Cvr\t0",
+    "ua": "Дах нижньої вежі\t0"
+  },
+  {
+    "var": "WALLS_Upper Twr Cvr",
+    "en": "Upper Twr Cvr\t0\t",
+    "ua": "Дах верхньої вежі\t0\t"
+  },
+  {
+    "var": "WALLS_162",
+    "en": "",
+    "ua": ""
+  },
+  {
+    "var": "WALLS_Forge",
+    "en": "Forge\t\t",
+    "ua": "Forge\t\t"
+  },
+  {
+    "var": "WALLS_Drawbridge",
+    "en": "Drawbridge\t0\t",
+    "ua": "Підйомний міст\t0\t"
+  },
+  {
+    "var": "WALLS_Drawbridge Rope",
+    "en": "Drawbridge Rope\t0\t",
+    "ua": "Мотузка підйомного мосту\t0\t"
+  },
+  {
+    "var": "WALLS_Moat",
+    "en": "Moat\t0\t",
+    "ua": "Рів\t0\t"
+  },
+  {
+    "var": "WALLS_Moat Lip",
+    "en": "Moat Lip\t0\t",
+    "ua": "Край рову\t0\t"
+  },
+  {
+    "var": "WALLS_Back Wall",
+    "en": "Back Wall\t0\t",
+    "ua": "Задня стіна\t0\t"
+  },
+  {
+    "var": "WALLS_Upper Tower",
+    "en": "Upper Tower\t2\t",
+    "ua": "Верхня вежа\t2\t"
+  },
+  {
+    "var": "WALLS_Upper Wall",
+    "en": "Upper Wall\t2\t",
+    "ua": "Найвища стіна\t2\t"
+  },
+  {
+    "var": "WALLS_Upper Buttress",
+    "en": "Upper Buttress\t0\t",
+    "ua": "Верхня опора\t0\t"
+  },
+  {
+    "var": "WALLS_Mid-Upper Wall",
+    "en": "Mid-Upper Wall\t2\t",
+    "ua": "Верхня стіна\t2\t"
+  },
+  {
+    "var": "WALLS_Gate",
+    "en": "Gate\t2\t",
+    "ua": "Ворота\t2\t"
+  },
+  {
+    "var": "WALLS_Mid-Lower Wall",
+    "en": "Mid-Lower Wall\t2\t",
+    "ua": "Нижня стіна\t2\t"
+  },
+  {
+    "var": "WALLS_Lower Buttress",
+    "en": "Lower Buttress\t0\t",
+    "ua": "Нижня опора\t0\t"
+  },
+  {
+    "var": "WALLS_Lower Wall",
+    "en": "Lower Wall\t2\t",
+    "ua": "Найнижча стіна\t2\t"
+  },
+  {
+    "var": "WALLS_Lower Tower",
+    "en": "Lower Tower\t2",
+    "ua": "Нижня вежа\t2"
+  },
+  {
+    "var": "WALLS_Main Building",
+    "en": "Main Building\t2",
+    "ua": "Головна будівля\t2"
+  },
+  {
+    "var": "WALLS_Main Bldg Cvr",
+    "en": "Main Bldg Cvr\t0",
+    "ua": "Головна будівля Cvr\t0"
+  },
+  {
+    "var": "WALLS_Lower Twr Cvr",
+    "en": "Lower Twr Cvr\t0",
+    "ua": "Дах нижньої вежі\t0"
+  },
+  {
+    "var": "WALLS_Upper Twr Cvr",
+    "en": "Upper Twr Cvr\t0",
+    "ua": "Дах верхньої вежі\t0"
+  }
+]

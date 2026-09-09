@@ -1,0 +1,176 @@
+[
+  {
+    "var": "CRAG_M1_prolog",
+    "field": "wrapper_prolog",
+    "en": "This relatively rocky part of Avauntnell has been home to many a Barbarian group over the centuries (probably due to it being close to Krewlod).  Numerous attempts at Erathian settlement in this area have mostly failed due to the harsh environment and the barbarian raids, but one or two towns might still be found.",
+    "ua": "Ця гориста частина Авонтнелу була багато століть домом для багатьох варварів (можливо, завдяки близькості до Крюлоду). Численні спроби будувати тут ерафійські міста закінчилися невдачею через надзвичайно суворий клімат і постійні візити варварів, але один або два міста все ще десь є."
+  },
+  {
+    "var": "CRAG_M1_epilog",
+    "field": "wrapper_epilog",
+    "en": "After watching me clobber a pack of goblins in a bar fight, a Wizard named Sandro asked me to come to his table.  He wants to pay me to find him something called a Skull Helmet.  I'll probably have to bash someone's head in to get it.  Sounds like it's going to be fun!",
+    "ua": "Одного разу в таверні я здорово нам'яв боки натовпу п'яних гоблінів. Після бійки чарівник на ім'я Сандро, який все бачив, покликав мене до свого столу. Він готовий заплатити, якщо я знайду йому якийсь Шолом-череп. Чую, поки я буду шукати цю штуку, доведеться проломити не одну голову. Ото сміху буде!"
+  },
+  {
+    "var": "CRAG_M1_map_name",
+    "field": "map_map_name",
+    "en": "Bashing Skulls",
+    "ua": "Добрий прочухан"
+  },
+  {
+    "var": "CRAG_M1_map_desc",
+    "field": "map_map_desc",
+    "en": "Crag Hack must seize the first artifact Sandro requires, the Skull Helmet, from Barshon the Barbarian to win the scenario.  However, if Crag Hack is defeated in combat, the scenario is lost.  Crag Hack is limited to level 10 but will carry his experience, skills and spells on to the next scenario.",
+    "ua": "Щоб перемогти, Краґ Хак повинен забрати Шолом-череп, який вимагає Сандро, у Баршона-варвара. Якщо Краґ Хак буде переможений у битві, він програє. Герой обмежений 10 рівнем. Якщо він переможе, його досвід, первинні та вторинні навички, а також Чарівна книга перейдуть у наступний сценарій разом із ним"
+  },
+  {
+    "var": "CRAG_M1_p0_hero_name",
+    "field": "map_p0_hero_name",
+    "en": "Gurnis",
+    "ua": "Гурніс"
+  },
+  {
+    "var": "CRAG_M1_p0_owned_hero_name",
+    "field": "map_p0_owned_hero_name",
+    "en": "Gurnis",
+    "ua": "Гурніс"
+  },
+  {
+    "var": "CRAG_M1_p2_hero_name",
+    "field": "map_p2_hero_name",
+    "en": "Barshon",
+    "ua": "Баршон"
+  },
+  {
+    "var": "CRAG_M1_p2_owned_hero_name",
+    "field": "map_p2_owned_hero_name",
+    "en": "Barshon",
+    "ua": "Баршон"
+  },
+  {
+    "var": "CRAG_M1_obj84_quest_proposal",
+    "field": "map_obj84_quest_proposal",
+    "en": "A small horde of Barbarian guards will let you pass only if you destroy the Trolls who have been plaguing the region.  Some of the Barbarians think they might be hiding underground.",
+    "ua": "Вартові-варвари пропустять вас, тільки якщо ви знищите тролів, які завдають чимало клопоту у цій місцевості. Варвари вважають, що вони можуть ховатися в підземеллях."
+  },
+  {
+    "var": "CRAG_M1_obj84_quest_progress",
+    "field": "map_obj84_quest_progress",
+    "en": "The Barbarian horde still will not let you pass, for you have not yet vanquished the Trolls of the central underground region.",
+    "ua": "Вартові-варвари все ще не хочуть пропускати вас, бо ви не перемогли тролів, що ховаються в центральних підземеллях."
+  },
+  {
+    "var": "CRAG_M1_obj84_quest_completion",
+    "field": "map_obj84_quest_completion",
+    "en": "News of your conquest of the Trolls living in the central underground region traveled quickly.  Do you wish to pass, oh worthy Barbarian?",
+    "ua": "Чутки про вашу перемогу над тролями, що жили в центральному підземеллі, облетіли всю округу. Чи хочеш ти увійти, гідний варвар?"
+  },
+  {
+    "var": "CRAG_M1_obj133_town_name",
+    "field": "map_obj133_town_name",
+    "en": "Timintal",
+    "ua": "Тимінтал"
+  },
+  {
+    "var": "CRAG_M1_obj599_hero_name",
+    "field": "map_obj599_hero_name",
+    "en": "Barshon",
+    "ua": "Баршон"
+  },
+  {
+    "var": "CRAG_M1_obj1128_monster_mesg",
+    "field": "map_obj1128_monster_mesg",
+    "en": "\"You leave.  Troll bosses below no see nobody.\"",
+    "ua": "\"Ви піти. Начальники тролів внизу не хотіти бачити нікого\"."
+  },
+  {
+    "var": "CRAG_M1_obj1360_guardian_mesg",
+    "field": "map_obj1360_guardian_mesg",
+    "en": "A message arrives from Barshon: \"I know you mean to take the Skull Helmet from me, but I will not give it up without a fight.  It is a family heirloom handed down from generations.  If you want it you will have to take it from my cold dead hands.\" \n\nAs you tear up the scroll you remember that Sandro said Barshon FOUND the Helmet.  You shrug.  Barshon is a lying snake.  Time to cut out his forked tongue!",
+    "ua": "Ви отримуєте послання від Баршона: \"Я знаю, що твоя мета - Шолом-череп. Але я не віддам його тобі без бою. Це наша сімейна цінність, яка передається з покоління в покоління. Ти зможеш забрати її тільки з рук трупа.\"\n\nПорвавши записку на частини, ви згадуєте слова Сандро про те, що Баршон ЗНАЙШОВ цей шолом. Ви знизує плечима. Баршон - брехлива тварюка. Прийшов час заткнути його брудну пащу!"
+  },
+  {
+    "var": "CRAG_M1_obj1375_quest_proposal",
+    "field": "map_obj1375_quest_proposal",
+    "en": "An old wizard claims that his Hut can show you Barshon's location.  He will let you pass for 2000 gold pieces.",
+    "ua": "Старий чародій стверджує, що його хижа може показати вам де перебуває Башрон. За послугу він просить 2000 золотих."
+  },
+  {
+    "var": "CRAG_M1_obj1375_quest_progress",
+    "field": "map_obj1375_quest_progress",
+    "en": "Since you have not brought 2000 gold pieces, the greedy wizard will not let you into the Hut.",
+    "ua": "У вас немає 2000 золотих, і жадібний чародій не пускає вас всередину."
+  },
+  {
+    "var": "CRAG_M1_obj1375_quest_completion",
+    "field": "map_obj1375_quest_completion",
+    "en": "The old wizard eyes the heavy purse of gold hanging from your belt.  He agrees to let you use his Hut for 2000 gold pieces.  Are you willing to pay his price?",
+    "ua": "Старий чародій вп'явся очима в об'ємистий мішечок із золотом, що висить у вас на поясі. Він згоден пустити вас всередину за 2000 золотих. Ви згодні заплатити?"
+  },
+  {
+    "var": "CRAG_M1_obj1612_sign_mesg",
+    "field": "map_obj1612_sign_mesg",
+    "en": "Timintal City.  Only Erathian citizens are permitted to enter.",
+    "ua": "Місто Тимінтал. Вхід дозволений тільки громадянам Ерафії."
+  },
+  {
+    "var": "CRAG_M1_obj1652_hero_name",
+    "field": "map_obj1652_hero_name",
+    "en": "Gurnis",
+    "ua": "Гурніс"
+  },
+  {
+    "var": "CRAG_M1_obj1655_guardian_mesg",
+    "field": "map_obj1655_guardian_mesg",
+    "en": "A young mounted barbarian shouts, \"I, Gurnis the Barbarian, demand that you shall go no further into these lands.  Turn back now or die!\"",
+    "ua": "Молодий варвар, озброєний до зубів, кричить вам: \"Я, варвар Ґарнісон, забороняю вам вступати на ці землі! Негайно забирайтеся, або ви помрете!\""
+  },
+  {
+    "var": "CRAG_M1_obj1695_monster_mesg",
+    "field": "map_obj1695_monster_mesg",
+    "en": "The trolls yell, \"Get out of our house!\"",
+    "ua": "Троль кричить: \"Забирайся з нашого дому!\""
+  },
+  {
+    "var": "CRAG_M1_obj1712_guardian_mesg",
+    "field": "map_obj1712_guardian_mesg",
+    "en": "Bones abound in what is obviously a troll's underground lair.",
+    "ua": "Швидше за все, це підземне житло троля. Всюди розкидані кістки."
+  },
+  {
+    "var": "CRAG_M1_mapevent0_name",
+    "field": "map_mapevent0_name",
+    "en": "Sandro meeting.",
+    "ua": "Sandro meeting."
+  },
+  {
+    "var": "CRAG_M1_mapevent0_mesg",
+    "field": "map_mapevent0_mesg",
+    "en": "\"You appear to be the right man for a series of tasks I need performed, Mister Hack,\" says Sandro, a slick-haired, beady-eyed man sitting across from you in the back of the Wingtail Tavern.  He nods in approval at your muscular frame, massive even by Barbarian standards.\n\n\"It's CRAG Hack,\" you snarl.  Wizards!  They think they're so smart.  Can't even get a first name right!\n\n\"I seek four items taken by some very evil men.  Individually, the items are worthless, mere tokens.  But together, they can be assembled into a great weapon, a weapon that I desperately require.\"\n\nYou spit a chicken leg at the puny magic user.  \"Why should I help you?\"\n\nSandro's eyes narrow.  \"Not only will I give you five hundred thousand gold pieces and a small land grant when you bring me these four items, but once they are assembled I will be able to destroy The Armor of the Damned, a magic artifact of unspeakable power and evil.  NOW are you interested?\"\n\nYou scratch your head in a rare contemplative moment.  Destroying anything - especially an evil magical item - appeals to your Barbarian code of ethics.  \"Do you know where these four items are?\" \n\n\"Yes, I do.  Here.\"  Sandro hands you a small map.  \"This is the land where Barshon the Barbarian lives.  He is a very evil man who has unearthed the first item I seek.  It is called the Skull Helmet.  Now, I warn you, do not listen to anything he tells you.  Although, like you, he is a Barbarian, he has no honor and lies like a snake.  Also, there are other rogue barbarians in the vicinity who will try to stop you.  This is very dangerous business, to be sure, but will you accept my offer?\"\n\nYou suddenly jump up, grab your battle-axe, and bury it into the table, inches from Sandro's clasped hands.  \"I'll do it!  But if you cheat me, Wizard, I'll skin you alive.\"",
+    "ua": "\"Здається, Ви цілком підходите для того, щоб доручити Вам декілька відповідальних завдань, містер Хак\", - говорить Сандро, людина з прилизаним волоссям і очима-намистинками, який сидить напроти вас у затишному куточку таверни Вінгтейлу. На знак підтвердження своїх слів він киває на ваші м'язи, значні навіть для варвара.\n\n\"Мене звуть Краґ Хак\", - бурчите ви. Чародії! Вони просто в захваті від свого розуму, а самі не можуть навіть запам'ятати простого імені.\n\n\"Мені потрібні чотири предмети, які забрав один дуже нехороший чоловік. Окремо вони марні. Але, зібрані разом, вони можуть стати великою зброєю, зброєю, яка мені вкрай потрібна.\"\n\nВи з незадоволенням тикаєте в цього початківця окультиста добре просмаженою курячою ніжкою. \"Чому я повинен допомагати тобі?\"\n\nОчі Сандро звужуються. \"По-перше, я заплачу вам п'ятсот тисяч золотих і подарую невелику ділянку землі, коли ви принесете мені всі чотири предмети. По-друге, вони допоможуть мені знищити Обладунок проклятого, магічний артефакт, що дає небачену силу і владу. Цього достатньо?\"\n\nВи в задумі потираєте лоб. Знищення чого-небудь, і в особливості магічного предмета, зачіпає за живе варварські струнки у вашій душі. \"Ти знаєш, де вони знаходяться, ці артефакти?”\n\n\"Так. Дивися.\" Сандро дає вам невелику карту. \"Баршон-варвар живе тут. Це дуже нехороша людина. Він заволодів шоломом-черепом, одним з артефактів, який мені потрібен. Хочу вас попередити: Не вірте жодному його слову. Хоча він і варвар, такий же як і ви, він не гідний. поваги, він брехливий до мозку кісток. Ви також можете натрапити на банди розбійників, які намагатимуться завадити вам. Це дуже небезпечне завдання. Отже, чи приймаєте ви мою пропозицію?\"\n\nНесподівано ви схоплюєтеся, вихоплюєте свою бойову сокиру і встромляєте його у стільницю в декількох дюймах від руки Сандро. \"Я зроблю це! Але врахуй, чарівник, якщо ти обдуриш мене, я живцем зніму з тебе скальп!\""
+  },
+  {
+    "var": "CRAG_M1_mapevent1_name",
+    "field": "map_mapevent1_name",
+    "en": "Entering region.",
+    "ua": "Entering region."
+  },
+  {
+    "var": "CRAG_M1_mapevent1_mesg",
+    "field": "map_mapevent1_mesg",
+    "en": "As you enter the region of Avautnell, you decide to first establish a Stronghold of your own.  The quickest way to do this is by seizing one of the area's rogue Barbarian towns.  After that, it's just a matter of finding this Barshon and taking the Helmet from him.",
+    "ua": "Коли ви опинилися в Авотнелі, то першим ділом вирішили обзавесьтись власною фортецею. Найшвидший спосіб зробити це - захопити одне з міст, що належать розбійникам-варварам. Після цього залишиться лише знайти цього Баршона і забрати у нього Шолом."
+  },
+  {
+    "var": "CRAG_M1_mapevent2_name",
+    "field": "map_mapevent2_name",
+    "en": "Rogue barbarians.",
+    "ua": "Rogue barbarians."
+  },
+  {
+    "var": "CRAG_M1_mapevent2_mesg",
+    "field": "map_mapevent2_mesg",
+    "en": "Scouts report Barshon has allied with the rogue Barbarians in the area.  Also, an Erathian village has also been located in the Northeast.",
+    "ua": "Розвідники повідомляють вам, що Баршон уклав договір із місцевими розбійниками-варварами. Також вам стало відомо, що ерафійське селище знаходиться на північному сході."
+  }
+]

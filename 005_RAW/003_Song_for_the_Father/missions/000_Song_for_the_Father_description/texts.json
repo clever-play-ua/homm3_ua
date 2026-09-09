@@ -1,0 +1,14 @@
+[
+  {
+    "var": "GOOD3_campaign_name",
+    "field": "wrapper_campaign_name",
+    "en": "Song for the Father",
+    "ua": "Хвала батьку"
+  },
+  {
+    "var": "GOOD3_campaign_desc",
+    "field": "wrapper_campaign_desc",
+    "en": "The final step in the Restoration of Erathia is to drive the Necormancers of Deyja back in to their barren homeland.  With the ressurrected body of King Gryphonheart leading them, this will prove to be a formidable task.",
+    "ua": "Відродження Ерафії підійшло до кінця. Залишилось вигнати некромантів Деї назад в їх кляті землі. Непросто буде це зробити: їх веде сам король-мрець Гріфонхарт."
+  }
+]
