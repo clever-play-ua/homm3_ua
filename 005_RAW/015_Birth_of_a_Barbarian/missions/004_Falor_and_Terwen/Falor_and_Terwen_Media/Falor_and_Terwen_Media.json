@@ -1,0 +1,14 @@
+{
+  "video": [
+    {
+      "local_file": "004_Falor_and_Terwen_Intro.mp4",
+      "source_entry": "H3x2_BBe.smk",
+      "target_archive": "VIDEO.VID"
+    }
+  ],
+  "audio_en": null,
+  "subtitles": {
+    "en": "004_Falor_and_Terwen_Intro_en.txt",
+    "ua": "004_Falor_and_Terwen_Intro_ua.txt"
+  }
+}

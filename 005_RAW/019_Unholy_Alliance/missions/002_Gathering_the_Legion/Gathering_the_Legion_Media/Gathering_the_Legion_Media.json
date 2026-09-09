@@ -1,0 +1,14 @@
+{
+  "video": [
+    {
+      "local_file": "002_Gathering_the_Legion_Intro.mp4",
+      "source_entry": "H3x2_UAc.smk",
+      "target_archive": "VIDEO.VID"
+    }
+  ],
+  "audio_en": null,
+  "subtitles": {
+    "en": "002_Gathering_the_Legion_Intro_en.txt",
+    "ua": "002_Gathering_the_Legion_Intro_ua.txt"
+  }
+}

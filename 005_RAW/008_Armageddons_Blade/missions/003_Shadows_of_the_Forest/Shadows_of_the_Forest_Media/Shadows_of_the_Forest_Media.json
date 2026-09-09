@@ -1,0 +1,14 @@
+{
+  "video": [
+    {
+      "local_file": "003_Shadows_of_the_Forest_Intro.mp4",
+      "source_entry": "H3ABab4.smk",
+      "target_archive": "VIDEO.VID"
+    }
+  ],
+  "audio_en": null,
+  "subtitles": {
+    "en": "003_Shadows_of_the_Forest_Intro_en.txt",
+    "ua": "003_Shadows_of_the_Forest_Intro_ua.txt"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "video": [
+    {
+      "local_file": "003_Kreegan_Alliance_Intro.mp4",
+      "source_entry": "H3x2_SPd.smk",
+      "target_archive": "VIDEO.VID"
+    }
+  ],
+  "audio_en": null,
+  "subtitles": {
+    "en": "003_Kreegan_Alliance_Intro_en.txt",
+    "ua": "003_Kreegan_Alliance_Intro_ua.txt"
+  }
+}

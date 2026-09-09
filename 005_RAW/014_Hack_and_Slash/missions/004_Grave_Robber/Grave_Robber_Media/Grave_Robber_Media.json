@@ -1,0 +1,14 @@
+{
+  "video": [
+    {
+      "local_file": "004_Grave_Robber_Intro.mp4",
+      "source_entry": "H3x2_HSe.smk",
+      "target_archive": "VIDEO.VID"
+    }
+  ],
+  "audio_en": null,
+  "subtitles": {
+    "en": "004_Grave_Robber_Intro_en.txt",
+    "ua": "004_Grave_Robber_Intro_ua.txt"
+  }
+}

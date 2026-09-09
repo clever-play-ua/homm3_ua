@@ -1,0 +1,14 @@
+{
+  "video": [
+    {
+      "local_file": "003_Burning_of_Tatalia_Intro.mp4",
+      "source_entry": "H3ABpf4.smk",
+      "target_archive": "VIDEO.VID"
+    }
+  ],
+  "audio_en": null,
+  "subtitles": {
+    "en": "003_Burning_of_Tatalia_Intro_en.txt",
+    "ua": "003_Burning_of_Tatalia_Intro_ua.txt"
+  }
+}

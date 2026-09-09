@@ -1,0 +1,14 @@
+{
+  "video": [
+    {
+      "local_file": "003_Finneas_Vilmar_Intro.mp4",
+      "source_entry": "H3x2_RNd.smk",
+      "target_archive": "VIDEO.VID"
+    }
+  ],
+  "audio_en": null,
+  "subtitles": {
+    "en": "003_Finneas_Vilmar_Intro_en.txt",
+    "ua": "003_Finneas_Vilmar_Intro_ua.txt"
+  }
+}

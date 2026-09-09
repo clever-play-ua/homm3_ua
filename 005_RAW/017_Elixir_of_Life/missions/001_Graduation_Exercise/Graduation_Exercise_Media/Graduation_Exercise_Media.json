@@ -1,0 +1,14 @@
+{
+  "video": [
+    {
+      "local_file": "001_Graduation_Exercise_Intro.mp4",
+      "source_entry": "H3x2_ELb.smk",
+      "target_archive": "VIDEO.VID"
+    }
+  ],
+  "audio_en": null,
+  "subtitles": {
+    "en": "001_Graduation_Exercise_Intro_en.txt",
+    "ua": "001_Graduation_Exercise_Intro_ua.txt"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "video": [
+    {
+      "local_file": "007_Wrath_of_Sandro_Intro.mp4",
+      "source_entry": "H3x2_UAh.smk",
+      "target_archive": "VIDEO.VID"
+    }
+  ],
+  "audio_en": null,
+  "subtitles": {
+    "en": "007_Wrath_of_Sandro_Intro_en.txt",
+    "ua": "007_Wrath_of_Sandro_Intro_ua.txt"
+  }
+}

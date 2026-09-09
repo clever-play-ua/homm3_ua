@@ -6,11 +6,19 @@
 006_EASY_INSTALL/gog_complete/Data/
 006_EASY_INSTALL/gog_complete/Maps/
 
-# Campaign intro/mission cutscenes, converted from the game's own copyrighted
-# video assets (VIDEO.VID / H3ab_ahd.vid) - regenerate with
-# 002_TOOLS/scripts/extract_campaign_videos.py, don't push to a public repo.
-005_RAW/*/videos/
-005_RAW/*/voiceover_en/
+# Campaign intro/mission cutscenes + voiceover, converted from the game's
+# own copyrighted assets (VIDEO.VID / H3ab_ahd.vid / Heroes3.snd) -
+# regenerate with 002_TOOLS/scripts/004_extract_campaign_videos.py +
+# 014_organize_mission_media.py, don't push to a public repo. Never commit
+# these - even if asked to "just commit everything" - this is the user's
+# call to make, not an agent's; see memory
+# homm3-never-commit-game-video-audio. Blanket-matched by extension at ANY
+# depth under 005_RAW (rather than a specific folder shape) since that
+# shape has already changed twice as this got reorganized - .mp4/.wav
+# under 005_RAW are never anything BUT extracted game video/audio, so this
+# is safe and won't need updating the next time the layout changes again.
+005_RAW/**/*.mp4
+005_RAW/**/*.wav
 
 # Python bytecode cache
 __pycache__/

@@ -1,0 +1,24 @@
+{
+  "video": [
+    {
+      "local_file": "002_Groundbreaking_Intro.mp4",
+      "source_entry": "EVIL1B.BIK",
+      "target_archive": "VIDEO.VID"
+    }
+  ],
+  "audio_en": {
+    "local_file": "002_Groundbreaking_Intro_en.wav",
+    "source_entry": "E1B",
+    "target_archive": "Heroes3.snd",
+    "format": {
+      "codec": "adpcm_ima_wav",
+      "sample_rate": 22050,
+      "channels": 1,
+      "bits_per_sample": 4
+    }
+  },
+  "subtitles": {
+    "en": "002_Groundbreaking_Intro_en.txt",
+    "ua": "002_Groundbreaking_Intro_ua.txt"
+  }
+}

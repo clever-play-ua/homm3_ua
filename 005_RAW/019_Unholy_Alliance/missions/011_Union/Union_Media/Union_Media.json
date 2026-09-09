@@ -1,0 +1,14 @@
+{
+  "video": [
+    {
+      "local_file": "011_Union_Intro.mp4",
+      "source_entry": "H3x2_UAl.smk",
+      "target_archive": "VIDEO.VID"
+    }
+  ],
+  "audio_en": null,
+  "subtitles": {
+    "en": "011_Union_Intro_en.txt",
+    "ua": "011_Union_Intro_ua.txt"
+  }
+}

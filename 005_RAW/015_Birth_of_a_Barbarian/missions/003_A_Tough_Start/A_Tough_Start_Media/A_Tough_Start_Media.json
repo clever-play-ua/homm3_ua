@@ -1,0 +1,14 @@
+{
+  "video": [
+    {
+      "local_file": "003_A_Tough_Start_Intro.mp4",
+      "source_entry": "H3x2_BBd.smk",
+      "target_archive": "VIDEO.VID"
+    }
+  ],
+  "audio_en": null,
+  "subtitles": {
+    "en": "003_A_Tough_Start_Intro_en.txt",
+    "ua": "003_A_Tough_Start_Intro_ua.txt"
+  }
+}

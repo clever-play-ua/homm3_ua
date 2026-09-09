@@ -9,8 +9,29 @@ alongside) - the resulting .mp4 is silent, that's not a conversion bug.
 Video filename -> campaign mapping was worked out by hand from `mmarch list`
 on VIDEO.VID / H3ab_ahd.vid: the 7 original RoE campaigns have one intro
 video per campaign ("CGOOD1.BIK" etc) plus one video per scenario/mission
-("GOOD1A.BIK", "GOOD1B.BIK", ...); the 13 AB/SoD-era campaigns only ever
-had a single video for the whole campaign, reused across missions.
+("GOOD1A.BIK", "GOOD1B.BIK", ...).
+
+**CORRECTED - the 13 AB/SoD campaigns are NOT single-video-only either**,
+they just use much less obvious naming that an early pass here missed
+entirely: AB campaigns have `H3AB<code><N>.smk` (e.g. `H3ABab1.smk`
+.. `H3ABab9.smk`), SoD campaigns have `H3x2_<CODE><letter>.smk` (e.g.
+`H3x2_ELa.smk` .. `H3x2_ELe.smk`) - both living in `VIDEO.VID`, NOT
+`H3ab_ahd.vid` (which only ever held the one already-known intro clip per
+AB campaign). The first numbered/lettered file in each series is that
+campaign's own intro (usually redundant with the separately-named
+`C1<code><N>.bik`/`<name>.bik` intro already listed below, kept here too
+since both exist as real distinct archive entries); the rest are one per
+mission, in order - confirmed by `ffprobe` duration sanity per file, not
+just letter/number counting. Two known irregularities, worth re-checking
+if a mapping ever looks wrong in-game: `H3ABdb4`+`H3ABdb4b`&
+`H3x2_RNe1`+`H3x2_RNe2` are 2-part missions (same shape as RoE's
+`EVIL2A`+`EVIL2AP1`+`EVIL2AP2`); `H3x2_HS` skips letter `b` entirely (only `a,c,d,e` exist) - mapped here
+consistently with every other SoD campaign (`a`=intro, then one letter per
+mission in order), which means mission 1 (`Bashing_Skulls`) simply has no
+dedicated transition clip of its own (`b` never existed) and mission 2
+onward uses `c,d,e`. This is inference from counting + consistency with
+the other 6 campaigns' clean pattern, not independently confirmed by
+watching the actual clips.
 
 Usage:
     python 004_extract_campaign_videos.py [--game "F:/Games/HoMM 3 Complete"]
@@ -62,6 +83,40 @@ VIDEOS = {
     "SANDRO":   ("018_Rise_of_the_Necromancer",   "VIDEO.VID", ["rise.bik"]),
     "FINAL":    ("019_Unholy_Alliance",           "VIDEO.VID", ["unholy.bik"]),
     "SECRET":   ("020_Specter_of_Power",          "VIDEO.VID", ["spectre.bik"]),
+
+    # Per-mission clips for the 13 AB/SoD campaigns - see the CORRECTED
+    # docstring note above. Kept as separate dict entries (not merged into
+    # the ones above) since they come from a different archive naming
+    # series and 003_extract_campaigns.py's stem keys above are already
+    # used as this dict's own keys - suffixed "_M" to stay unique.
+    "AB_M":       ("008_Armageddons_Blade",       "VIDEO.VID",
+                   [f"H3ABab{n}.smk" for n in range(1, 10)]),
+    "BLOOD_M":    ("009_Dragons_Blood",           "VIDEO.VID",
+                   ["H3ABdb1.smk", "H3ABdb2.smk", "H3ABdb3.smk", "H3ABdb4.smk",
+                    "H3ABdb4b.smk", "H3ABdb5.smk"]),
+    "SLAYER_M":   ("010_Dragon_Slayer",           "VIDEO.VID",
+                   [f"H3ABds{n}.smk" for n in range(1, 6)]),
+    "FESTIVAL_M": ("011_Festival_of_Life",        "VIDEO.VID",
+                   [f"H3ABfl{n}.smk" for n in range(1, 6)]),
+    "FOOL_M":     ("012_Foolhardy_Waywardness",   "VIDEO.VID",
+                   [f"H3ABfw{n}.smk" for n in range(1, 6)]),
+    "FIRE_M":     ("013_Playing_with_Fire",       "VIDEO.VID",
+                   [f"H3ABpf{n}.smk" for n in range(1, 5)]),
+    "CRAG_M":     ("014_Hack_and_Slash",          "VIDEO.VID",
+                   ["H3x2_HSa.smk", "H3x2_HSc.smk", "H3x2_HSd.smk", "H3x2_HSe.smk"]),
+    "YOG_M":      ("015_Birth_of_a_Barbarian",    "VIDEO.VID",
+                   [f"H3x2_BB{c}.smk" for c in "abcdef"]),
+    "GEM_M":      ("016_New_Beginning",           "VIDEO.VID",
+                   [f"H3x2_NB{c}.smk" for c in "abcde"]),
+    "GELU_M":     ("017_Elixir_of_Life",          "VIDEO.VID",
+                   [f"H3x2_EL{c}.smk" for c in "abcde"]),
+    "SANDRO_M":   ("018_Rise_of_the_Necromancer", "VIDEO.VID",
+                   ["H3x2_RNa.smk", "H3x2_RNb.smk", "H3x2_RNc.smk", "H3x2_RNd.smk",
+                    "H3x2_RNe1.smk", "H3x2_RNe2.smk"]),
+    "FINAL_M":    ("019_Unholy_Alliance",         "VIDEO.VID",
+                   [f"H3x2_UA{c}.smk" for c in "abcdefghijklm"]),
+    "SECRET_M":   ("020_Specter_of_Power",        "VIDEO.VID",
+                   [f"H3x2_SP{c}.smk" for c in "abcde"]),
 }
 
 

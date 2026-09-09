@@ -1,0 +1,14 @@
+{
+  "video": [
+    {
+      "local_file": "004_A_Thief_in_the_Night_Intro.mp4",
+      "source_entry": "H3x2_ELe.smk",
+      "target_archive": "VIDEO.VID"
+    }
+  ],
+  "audio_en": null,
+  "subtitles": {
+    "en": "004_A_Thief_in_the_Night_Intro_en.txt",
+    "ua": "004_A_Thief_in_the_Night_Intro_ua.txt"
+  }
+}

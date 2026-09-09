@@ -1,0 +1,14 @@
+{
+  "video": [
+    {
+      "local_file": "005_Returning_to_Bracada_Intro.mp4",
+      "source_entry": "H3x2_BBf.smk",
+      "target_archive": "VIDEO.VID"
+    }
+  ],
+  "audio_en": null,
+  "subtitles": {
+    "en": "005_Returning_to_Bracada_Intro_en.txt",
+    "ua": "005_Returning_to_Bracada_Intro_ua.txt"
+  }
+}

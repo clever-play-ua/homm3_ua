@@ -1,0 +1,14 @@
+{
+  "video": [
+    {
+      "local_file": "007_To_Kill_A_Hero_Intro.mp4",
+      "source_entry": "H3ABab8.smk",
+      "target_archive": "VIDEO.VID"
+    }
+  ],
+  "audio_en": null,
+  "subtitles": {
+    "en": "007_To_Kill_A_Hero_Intro_en.txt",
+    "ua": "007_To_Kill_A_Hero_Intro_ua.txt"
+  }
+}

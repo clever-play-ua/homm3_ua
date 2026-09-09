@@ -1,0 +1,14 @@
+{
+  "video": [
+    {
+      "local_file": "001_Rust_Dragons_Intro.mp4",
+      "source_entry": "H3ABds2.smk",
+      "target_archive": "VIDEO.VID"
+    }
+  ],
+  "audio_en": null,
+  "subtitles": {
+    "en": "001_Rust_Dragons_Intro_en.txt",
+    "ua": "001_Rust_Dragons_Intro_ua.txt"
+  }
+}

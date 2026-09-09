@@ -1,0 +1,14 @@
+{
+  "video": [
+    {
+      "local_file": "001_Target_Intro.mp4",
+      "source_entry": "H3x2_RNb.smk",
+      "target_archive": "VIDEO.VID"
+    }
+  ],
+  "audio_en": null,
+  "subtitles": {
+    "en": "001_Target_Intro_en.txt",
+    "ua": "001_Target_Intro_ua.txt"
+  }
+}

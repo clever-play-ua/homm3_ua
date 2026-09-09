@@ -1,0 +1,14 @@
+{
+  "video": [
+    {
+      "local_file": "002_To_Build_a_Tunnel_Intro.mp4",
+      "source_entry": "H3x2_SPc.smk",
+      "target_archive": "VIDEO.VID"
+    }
+  ],
+  "audio_en": null,
+  "subtitles": {
+    "en": "002_To_Build_a_Tunnel_Intro_en.txt",
+    "ua": "002_To_Build_a_Tunnel_Intro_ua.txt"
+  }
+}

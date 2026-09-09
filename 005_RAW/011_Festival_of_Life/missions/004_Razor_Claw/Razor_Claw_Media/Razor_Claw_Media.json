@@ -1,0 +1,14 @@
+{
+  "video": [
+    {
+      "local_file": "004_Razor_Claw_Intro.mp4",
+      "source_entry": "H3ABfl5.smk",
+      "target_archive": "VIDEO.VID"
+    }
+  ],
+  "audio_en": null,
+  "subtitles": {
+    "en": "004_Razor_Claw_Intro_en.txt",
+    "ua": "004_Razor_Claw_Intro_ua.txt"
+  }
+}

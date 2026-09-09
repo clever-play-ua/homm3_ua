@@ -1,0 +1,14 @@
+{
+  "video": [
+    {
+      "local_file": "004_Their_End_of_the_Bargain_Intro.mp4",
+      "source_entry": "H3ABfw5.smk",
+      "target_archive": "VIDEO.VID"
+    }
+  ],
+  "audio_en": null,
+  "subtitles": {
+    "en": "004_Their_End_of_the_Bargain_Intro_en.txt",
+    "ua": "004_Their_End_of_the_Bargain_Intro_ua.txt"
+  }
+}

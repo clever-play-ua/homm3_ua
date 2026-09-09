@@ -1,0 +1,14 @@
+{
+  "video": [
+    {
+      "local_file": "001_Lost_at_Sea_Intro.mp4",
+      "source_entry": "H3ABfw2.smk",
+      "target_archive": "VIDEO.VID"
+    }
+  ],
+  "audio_en": null,
+  "subtitles": {
+    "en": "001_Lost_at_Sea_Intro_en.txt",
+    "ua": "001_Lost_at_Sea_Intro_ua.txt"
+  }
+}

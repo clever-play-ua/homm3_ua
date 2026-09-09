@@ -1,0 +1,14 @@
+{
+  "video": [
+    {
+      "local_file": "003_Retrieving_the_Cowl_Intro.mp4",
+      "source_entry": "H3x2_NBd.smk",
+      "target_archive": "VIDEO.VID"
+    }
+  ],
+  "audio_en": null,
+  "subtitles": {
+    "en": "003_Retrieving_the_Cowl_Intro_en.txt",
+    "ua": "003_Retrieving_the_Cowl_Intro_ua.txt"
+  }
+}

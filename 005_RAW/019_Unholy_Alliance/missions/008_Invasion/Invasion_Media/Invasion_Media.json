@@ -1,0 +1,14 @@
+{
+  "video": [
+    {
+      "local_file": "008_Invasion_Intro.mp4",
+      "source_entry": "H3x2_UAi.smk",
+      "target_archive": "VIDEO.VID"
+    }
+  ],
+  "audio_en": null,
+  "subtitles": {
+    "en": "008_Invasion_Intro_en.txt",
+    "ua": "008_Invasion_Intro_ua.txt"
+  }
+}

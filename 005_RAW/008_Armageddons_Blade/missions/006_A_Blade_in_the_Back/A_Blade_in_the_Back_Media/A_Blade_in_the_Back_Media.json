@@ -1,0 +1,14 @@
+{
+  "video": [
+    {
+      "local_file": "006_A_Blade_in_the_Back_Intro.mp4",
+      "source_entry": "H3ABab7.smk",
+      "target_archive": "VIDEO.VID"
+    }
+  ],
+  "audio_en": null,
+  "subtitles": {
+    "en": "006_A_Blade_in_the_Back_Intro_en.txt",
+    "ua": "006_A_Blade_in_the_Back_Intro_ua.txt"
+  }
+}

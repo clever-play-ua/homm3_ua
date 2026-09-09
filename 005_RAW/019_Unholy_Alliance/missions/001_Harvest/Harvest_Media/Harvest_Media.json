@@ -1,0 +1,14 @@
+{
+  "video": [
+    {
+      "local_file": "001_Harvest_Intro.mp4",
+      "source_entry": "H3x2_UAb.smk",
+      "target_archive": "VIDEO.VID"
+    }
+  ],
+  "audio_en": null,
+  "subtitles": {
+    "en": "001_Harvest_Intro_en.txt",
+    "ua": "001_Harvest_Intro_ua.txt"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "video": [
+    {
+      "local_file": "002_March_of_the_Undead_Intro.mp4",
+      "source_entry": "H3ABpf3.smk",
+      "target_archive": "VIDEO.VID"
+    }
+  ],
+  "audio_en": null,
+  "subtitles": {
+    "en": "002_March_of_the_Undead_Intro_en.txt",
+    "ua": "002_March_of_the_Undead_Intro_ua.txt"
+  }
+}

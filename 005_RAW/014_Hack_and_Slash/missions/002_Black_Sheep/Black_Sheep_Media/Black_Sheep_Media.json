@@ -1,0 +1,14 @@
+{
+  "video": [
+    {
+      "local_file": "002_Black_Sheep_Intro.mp4",
+      "source_entry": "H3x2_HSc.smk",
+      "target_archive": "VIDEO.VID"
+    }
+  ],
+  "audio_en": null,
+  "subtitles": {
+    "en": "002_Black_Sheep_Intro_en.txt",
+    "ua": "002_Black_Sheep_Intro_ua.txt"
+  }
+}

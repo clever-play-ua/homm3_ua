@@ -1,0 +1,14 @@
+{
+  "video": [
+    {
+      "local_file": "006_Agents_of_Vengeance_Intro.mp4",
+      "source_entry": "H3x2_UAg.smk",
+      "target_archive": "VIDEO.VID"
+    }
+  ],
+  "audio_en": null,
+  "subtitles": {
+    "en": "006_Agents_of_Vengeance_Intro_en.txt",
+    "ua": "006_Agents_of_Vengeance_Intro_ua.txt"
+  }
+}

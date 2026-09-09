@@ -1,0 +1,14 @@
+{
+  "video": [
+    {
+      "local_file": "004_Maker_of_Sorrows_Intro.mp4",
+      "source_entry": "H3ABab5.smk",
+      "target_archive": "VIDEO.VID"
+    }
+  ],
+  "audio_en": null,
+  "subtitles": {
+    "en": "004_Maker_of_Sorrows_Intro_en.txt",
+    "ua": "004_Maker_of_Sorrows_Intro_ua.txt"
+  }
+}

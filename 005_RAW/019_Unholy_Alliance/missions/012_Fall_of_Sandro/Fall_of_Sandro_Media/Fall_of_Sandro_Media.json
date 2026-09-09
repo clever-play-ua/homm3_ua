@@ -1,0 +1,14 @@
+{
+  "video": [
+    {
+      "local_file": "012_Fall_of_Sandro_Intro.mp4",
+      "source_entry": "H3x2_UAm.smk",
+      "target_archive": "VIDEO.VID"
+    }
+  ],
+  "audio_en": null,
+  "subtitles": {
+    "en": "012_Fall_of_Sandro_Intro_en.txt",
+    "ua": "012_Fall_of_Sandro_Intro_ua.txt"
+  }
+}

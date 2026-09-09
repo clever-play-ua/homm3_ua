@@ -1,0 +1,14 @@
+{
+  "video": [
+    {
+      "local_file": "001_Culling_the_Weak_Intro.mp4",
+      "source_entry": "H3ABdb2.smk",
+      "target_archive": "VIDEO.VID"
+    }
+  ],
+  "audio_en": null,
+  "subtitles": {
+    "en": "001_Culling_the_Weak_Intro_en.txt",
+    "ua": "001_Culling_the_Weak_Intro_ua.txt"
+  }
+}

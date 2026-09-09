@@ -1,0 +1,14 @@
+{
+  "video": [
+    {
+      "local_file": "010_Barbarian_Brothers_Intro.mp4",
+      "source_entry": "H3x2_UAk.smk",
+      "target_archive": "VIDEO.VID"
+    }
+  ],
+  "audio_en": null,
+  "subtitles": {
+    "en": "010_Barbarian_Brothers_Intro_en.txt",
+    "ua": "010_Barbarian_Brothers_Intro_ua.txt"
+  }
+}

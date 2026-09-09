@@ -1,0 +1,14 @@
+{
+  "video": [
+    {
+      "local_file": "002_Master_Intro.mp4",
+      "source_entry": "H3x2_RNc.smk",
+      "target_archive": "VIDEO.VID"
+    }
+  ],
+  "audio_en": null,
+  "subtitles": {
+    "en": "002_Master_Intro_en.txt",
+    "ua": "002_Master_Intro_ua.txt"
+  }
+}

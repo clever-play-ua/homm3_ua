@@ -1,0 +1,14 @@
+{
+  "video": [
+    {
+      "local_file": "009_To_Strive_To_Seek_Intro.mp4",
+      "source_entry": "H3x2_UAj.smk",
+      "target_archive": "VIDEO.VID"
+    }
+  ],
+  "audio_en": null,
+  "subtitles": {
+    "en": "009_To_Strive_To_Seek_Intro_en.txt",
+    "ua": "009_To_Strive_To_Seek_Intro_ua.txt"
+  }
+}

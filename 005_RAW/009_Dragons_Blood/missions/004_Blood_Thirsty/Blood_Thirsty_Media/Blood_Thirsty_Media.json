@@ -1,0 +1,14 @@
+{
+  "video": [
+    {
+      "local_file": "004_Blood_Thirsty_Intro.mp4",
+      "source_entry": "H3ABdb5.smk",
+      "target_archive": "VIDEO.VID"
+    }
+  ],
+  "audio_en": null,
+  "subtitles": {
+    "en": "004_Blood_Thirsty_Intro_en.txt",
+    "ua": "004_Blood_Thirsty_Intro_ua.txt"
+  }
+}

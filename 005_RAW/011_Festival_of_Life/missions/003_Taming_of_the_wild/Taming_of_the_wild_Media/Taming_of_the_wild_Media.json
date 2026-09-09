@@ -1,0 +1,14 @@
+{
+  "video": [
+    {
+      "local_file": "003_Taming_of_the_wild_Intro.mp4",
+      "source_entry": "H3ABfl4.smk",
+      "target_archive": "VIDEO.VID"
+    }
+  ],
+  "audio_en": null,
+  "subtitles": {
+    "en": "003_Taming_of_the_wild_Intro_en.txt",
+    "ua": "003_Taming_of_the_wild_Intro_ua.txt"
+  }
+}

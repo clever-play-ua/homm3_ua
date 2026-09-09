@@ -1,0 +1,19 @@
+{
+  "video": [
+    {
+      "local_file": "004_Duke_Alarice_Intro_1.mp4",
+      "source_entry": "H3x2_RNe1.smk",
+      "target_archive": "VIDEO.VID"
+    },
+    {
+      "local_file": "004_Duke_Alarice_Intro_2.mp4",
+      "source_entry": "H3x2_RNe2.smk",
+      "target_archive": "VIDEO.VID"
+    }
+  ],
+  "audio_en": null,
+  "subtitles": {
+    "en": "004_Duke_Alarice_Intro_en.txt",
+    "ua": "004_Duke_Alarice_Intro_ua.txt"
+  }
+}

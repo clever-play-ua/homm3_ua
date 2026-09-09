@@ -1,0 +1,14 @@
+{
+  "video": [
+    {
+      "local_file": "002_Cutthroats_Intro.mp4",
+      "source_entry": "H3x2_ELc.smk",
+      "target_archive": "VIDEO.VID"
+    }
+  ],
+  "audio_en": null,
+  "subtitles": {
+    "en": "002_Cutthroats_Intro_en.txt",
+    "ua": "002_Cutthroats_Intro_ua.txt"
+  }
+}

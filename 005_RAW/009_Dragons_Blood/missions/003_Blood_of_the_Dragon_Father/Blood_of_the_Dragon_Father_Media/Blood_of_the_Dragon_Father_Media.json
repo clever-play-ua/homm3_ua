@@ -1,0 +1,19 @@
+{
+  "video": [
+    {
+      "local_file": "003_Blood_of_the_Dragon_Father_Intro_1.mp4",
+      "source_entry": "H3ABdb4.smk",
+      "target_archive": "VIDEO.VID"
+    },
+    {
+      "local_file": "003_Blood_of_the_Dragon_Father_Intro_2.mp4",
+      "source_entry": "H3ABdb4b.smk",
+      "target_archive": "VIDEO.VID"
+    }
+  ],
+  "audio_en": null,
+  "subtitles": {
+    "en": "003_Blood_of_the_Dragon_Father_Intro_en.txt",
+    "ua": "003_Blood_of_the_Dragon_Father_Intro_ua.txt"
+  }
+}
