@@ -2,27 +2,27 @@
 
 ## Totals by character
 
-| Character | Gender | Mission lines (files) | +Intro | **Total** | Campaigns |
-|---|---|---:|---:|---:|---|
-| **Catherine** | female | 11 | 3 | **14** | 001_Long_Live_the_Queen, 002_Liberation, 003_Song_for_the_Father, 008_Armageddons_Blade |
-| **Unnamed male general** | male | 10 | 3 | **13** | 004_Dungeons_and_Devils, 005_Long_Live_the_King, 007_Seeds_of_Discontent |
-| **Sandro** | male | 10 | 2 | **12** | 018_Rise_of_the_Necromancer, 019_Unholy_Alliance, 020_Specter_of_Power |
-| **Yog** | male | 8 | 1 | **9** | 015_Birth_of_a_Barbarian, 019_Unholy_Alliance |
-| **Gem** | female | 7 | 1 | **8** | 016_New_Beginning, 019_Unholy_Alliance |
-| **Crag Hack** | male | 5 | 1 | **6** | 014_Hack_and_Slash, 019_Unholy_Alliance |
-| **Gelu** | male | 5 | 0 | **5** | 008_Armageddons_Blade, 019_Unholy_Alliance |
-| **Mutare** | female | 4 | 1 | **5** | 009_Dragons_Blood |
-| **Dracon** | male | 4 | 1 | **5** | 010_Dragon_Slayer |
-| **Kilgor** | male | 4 | 1 | **5** | 011_Festival_of_Life |
-| **Sir Christian** | male | 4 | 1 | **5** | 012_Foolhardy_Waywardness |
-| **Forest Guard commander** | unspecified | 4 | 1 | **5** | 017_Elixir_of_Life |
-| **Unnamed female retainer** | female | 3 | 1 | **4** | 006_Spoils_of_War |
-| **Adrienne** | female | 3 | 1 | **4** | 013_Playing_with_Fire |
-| **Xeron** | male | 2 | 0 | **2** | 008_Armageddons_Blade |
-| **Dorrell** | male | 1 | 0 | **1** | 002_Liberation |
-| **Winstan Langer** | male | 1 | 0 | **1** | 002_Liberation |
-| **Roland** | male | 1 | 0 | **1** | 008_Armageddons_Blade |
-| **TOTAL** | | **87** | **18** | **105** | |
+| Character | Total | Gender | Campaigns |
+|---|---:|---|---|
+| **Catherine** | **14** | female | 001_Long_Live_the_Queen, 002_Liberation, 003_Song_for_the_Father, 008_Armageddons_Blade |
+| **Unnamed male general** | **13** | male | 004_Dungeons_and_Devils, 005_Long_Live_the_King, 007_Seeds_of_Discontent |
+| **Sandro** | **12** | male | 018_Rise_of_the_Necromancer, 019_Unholy_Alliance, 020_Specter_of_Power |
+| **Yog** | **9** | male | 015_Birth_of_a_Barbarian, 019_Unholy_Alliance |
+| **Gem** | **8** | female | 016_New_Beginning, 019_Unholy_Alliance |
+| **Crag Hack** | **6** | male | 014_Hack_and_Slash, 019_Unholy_Alliance |
+| **Gelu** | **5** | male | 008_Armageddons_Blade, 019_Unholy_Alliance |
+| **Mutare** | **5** | female | 009_Dragons_Blood |
+| **Dracon** | **5** | male | 010_Dragon_Slayer |
+| **Kilgor** | **5** | male | 011_Festival_of_Life |
+| **Sir Christian** | **5** | male | 012_Foolhardy_Waywardness |
+| **Forest Guard commander** | **5** | unspecified | 017_Elixir_of_Life |
+| **Unnamed female retainer** | **4** | female | 006_Spoils_of_War |
+| **Adrienne** | **4** | female | 013_Playing_with_Fire |
+| **Xeron** | **2** | male | 008_Armageddons_Blade |
+| **Dorrell** | **1** | male | 002_Liberation |
+| **Winstan Langer** | **1** | male | 002_Liberation |
+| **Roland** | **1** | male | 008_Armageddons_Blade |
+| **TOTAL** | **105** | | |
 
 **Gender** is determined from actual pronouns in the original
 `HEROBIOS.TXT` (`005_RAW/H3bitmap.lod/HEROBIOS.json`) and in the prolog
