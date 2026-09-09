@@ -1,20 +1,48 @@
-[
-  {
-    "var": "FIRE_campaign_name",
-    "field": "wrapper_campaign_name",
-    "en": "Playing with Fire",
-    "ua": "Ігри з вогнем"
-  },
-  {
-    "var": "FIRE_campaign_desc",
-    "field": "wrapper_campaign_desc",
-    "en": "Adrienne the Fire Witch discovers a Death Knight is turning the local population into a harvesting ground for Undead.  Restore to the land and hunt down this evil.  Utter extermination of the undead plague is your ultimate goal.",
-    "ua": "Адріана, Вогняна Відьма, дізналася про лицаря Смерті, що перетворив місцеве населення в нежить. Поверніть землі колишній вигляд і вистежіть це породження зла. Зупинити поширення нежиті - це ваша найголовніша мета."
-  },
-  {
-    "var": "FIRE_campaign_epilogue",
-    "field": "wrapper_campaign_epilogue",
-    "en": "Tomorrow, I will wake and this nightmare will end for both myself, Tatalia, and its people.  I do not know if I have buried a hero... or a villan.  In my travels I have heard many stories of Lord Haart's bravery and ultimate downfall.  When I lay to rest, I wonder if the stories my countrymen tell will speak of me as a fire witch in a land of earth and water... or as hero.",
-    "ua": "Коли я прокинусь, з цим кошмаром буде покінчено. Кошмаром для мене, моїх людей, для всієї Таталії. Не знаю, кого я опускала в могилу - лиходія чи героя. Я чула легенди про відвагу лорда Хаарта і його падіння. Заплющуючи очі, я все думаю - які легенди будуть складати про мене? Назвуть відьмою, що наслала вогонь на край піску і води... Чи героїнею?"
-  }
-]
+{
+  "campaign_fields": [
+    {
+      "var": "FIRE_campaign_name",
+      "field": "wrapper_campaign_name",
+      "en": "Playing with Fire",
+      "ua": "Ігри з вогнем"
+    },
+    {
+      "var": "FIRE_campaign_desc",
+      "field": "wrapper_campaign_desc",
+      "en": "Adrienne the Fire Witch discovers a Death Knight is turning the local population into a harvesting ground for Undead.  Restore to the land and hunt down this evil.  Utter extermination of the undead plague is your ultimate goal.",
+      "ua": "Адріана, Вогняна Відьма, дізналася про лицаря Смерті, що перетворив місцеве населення в нежить. Поверніть землі колишній вигляд і вистежіть це породження зла. Зупинити поширення нежиті - це ваша найголовніша мета."
+    },
+    {
+      "var": "FIRE_campaign_epilogue",
+      "field": "wrapper_campaign_epilogue",
+      "en": "Tomorrow, I will wake and this nightmare will end for both myself, Tatalia, and its people.  I do not know if I have buried a hero... or a villan.  In my travels I have heard many stories of Lord Haart's bravery and ultimate downfall.  When I lay to rest, I wonder if the stories my countrymen tell will speak of me as a fire witch in a land of earth and water... or as hero.",
+      "ua": "Коли я прокинусь, з цим кошмаром буде покінчено. Кошмаром для мене, моїх людей, для всієї Таталії. Не знаю, кого я опускала в могилу - лиходія чи героя. Я чула легенди про відвагу лорда Хаарта і його падіння. Заплющуючи очі, я все думаю - які легенди будуть складати про мене? Назвуть відьмою, що наслала вогонь на край піску і води... Чи героїнею?"
+    }
+  ],
+  "voice_over": [
+    {
+      "mission_number": 1,
+      "mission_name": "Farming Towns",
+      "audio_file": "001_Farming_Towns_Intro_en.wav",
+      "text_en": "The peasantry has been slaughtered to make an undead army.  It is as if someone is farming the people to grow a mammoth crop of mindless soldiers.  The purpose of this army is still unknown, but someone must restore order on the Ertahian-Tatalian border.  That someone is you.\n\nTraveling from Erathia to my homeland of Tatalia, I have passed through several towns.   I have yet to encounter a living soul.  There is only the lingering stench of the undead.  I fear a necromancer in the area is raising an army.  'Who...' is unknown.  'Why...' is unknown.",
+      "speaker": "Adrienne",
+      "speaker_gender": "female"
+    },
+    {
+      "mission_number": 2,
+      "mission_name": "March of the Undead",
+      "audio_file": "002_March_of_the_Undead_Intro_en.wav",
+      "text_en": "It has been confirmed.  Lord Haart was raised from the dead and is now sweeping through Tatalia creating an undead army of mammoth proportions.  Behind the Undead Knight lies a trail of death and destruction.  To track him down is the easy thing.  Restoring the land he has destroyed is another matter all together.  Free the inhabitants from their undead captors and they will join your cause.\n\nWith the conclusion of the Restoration War, Lord Haart's necromantic cult disbanded and went into hiding.  It appears they have resurfaced and resurrected their leader.   Now Lord Haart walks the Tatalian lands a Death Knight.  If I am to continue my hunt for the dead warrior, I will need help.  I hope my countrymen will be wise and not shun a hero who embraces fire magic.",
+      "speaker": "Adrienne",
+      "speaker_gender": "female"
+    },
+    {
+      "mission_number": 3,
+      "mission_name": "Burning of Tatalia",
+      "audio_file": "003_Burning_of_Tatalia_Intro_en.wav",
+      "text_en": "It is time to confront the Death Knight Lord Haart.  Take your armies and defeat the traitorous fiend.  His loyal followers assist this force of death as he mows a path through Tatalia several miles wide all the way to the ocean.\n\nI do not know what the dead remember from their time among the living.  If Lord Haart had memory of Tatalia, it has failed him.  Scouts report the dead knight has turned northwest and set up along the coast.  Now I have him trapped.  However, army morale is low.   My people do not like following a fire witch, yet they dislike becoming undead even more.  ",
+      "speaker": "Adrienne",
+      "speaker_gender": "female"
+    }
+  ]
+}

@@ -1,20 +1,56 @@
-[
-  {
-    "var": "SANDRO_campaign_name",
-    "field": "wrapper_campaign_name",
-    "en": "Rise of the Necromancer",
-    "ua": "Піднесення некроманта"
-  },
-  {
-    "var": "SANDRO_campaign_desc",
-    "field": "wrapper_campaign_desc",
-    "en": "Sandro must fight his way past his old master and several other lords who want the artifacts he carries.  Once in Deyja he will make allies and soon rise to the top of the Deyja hierarchy.",
-    "ua": "Сандро повинен битися зі своїм старим учителем і декількома іншими лордами, які хотіли б мати його артефакти. Він знайде собі соратників у Деї і незабаром дістанеться до вершин ієрархії некромантів."
-  },
-  {
-    "var": "SANDRO_campaign_epilogue",
-    "field": "wrapper_campaign_epilogue",
-    "en": "Our plan has been a great success!  We are quickly on the rise.  The King is impressed with Finneas' stunning show of force and ability.  Soon the King will understand the full view of my vision.  Then it will be too late for him.",
-    "ua": "Наш розрахунок увінчався блискучим успіхом! Справи наші швидко йдуть в гору. Короля дуже вразила демонстрація наших сил і можливостей, яку влаштував Фінеас. Скоро король зрозуміє всю грандіозність моїх планів, але буде вже пізно!"
-  }
-]
+{
+  "campaign_fields": [
+    {
+      "var": "SANDRO_campaign_name",
+      "field": "wrapper_campaign_name",
+      "en": "Rise of the Necromancer",
+      "ua": "Піднесення некроманта"
+    },
+    {
+      "var": "SANDRO_campaign_desc",
+      "field": "wrapper_campaign_desc",
+      "en": "Sandro must fight his way past his old master and several other lords who want the artifacts he carries.  Once in Deyja he will make allies and soon rise to the top of the Deyja hierarchy.",
+      "ua": "Сандро повинен битися зі своїм старим учителем і декількома іншими лордами, які хотіли б мати його артефакти. Він знайде собі соратників у Деї і незабаром дістанеться до вершин ієрархії некромантів."
+    },
+    {
+      "var": "SANDRO_campaign_epilogue",
+      "field": "wrapper_campaign_epilogue",
+      "en": "Our plan has been a great success!  We are quickly on the rise.  The King is impressed with Finneas' stunning show of force and ability.  Soon the King will understand the full view of my vision.  Then it will be too late for him.",
+      "ua": "Наш розрахунок увінчався блискучим успіхом! Справи наші швидко йдуть в гору. Короля дуже вразила демонстрація наших сил і можливостей, яку влаштував Фінеас. Скоро король зрозуміє всю грандіозність моїх планів, але буде вже пізно!"
+    }
+  ],
+  "voice_over": [
+    {
+      "mission_number": 1,
+      "mission_name": "Target",
+      "audio_file": "001_Target_Intro_en.wav",
+      "text_en": "Ethric is a sly old Warlock.  He has spread word of Sandro and the artifacts he carries to the lords of this region.  Some of the lords want these artifacts for their own use; others want to destroy them.  Sandro must defeat all these lords and get into Deyja.\n\nIt seems Ethric, my old master, has finally tracked me down.  He hasn't been too happy about me becoming a Necromancer and wants to remove the blight from his career.  Ethric is no fool.  He spread word of my location to those who would stop me.  It does not matter.  I will defeat these fools, soundly beat my master and continue on to Deyja, where they will appreciate my talents.",
+      "speaker": "Sandro",
+      "speaker_gender": "male"
+    },
+    {
+      "mission_number": 2,
+      "mission_name": "Master",
+      "audio_file": "002_Master_Intro_en.wav",
+      "text_en": "Sandro now faces Ethric and one of his allies.  He must defeat the old Warlock before moving on to Deyja.\n\nEthric just doesn't give up, but I have found an ally.  Vidomina is a young wizard with aspirations of being a Necromancer.  For the time being she will be useful, but we will part ways once we get past Ethric and into Deyja proper.",
+      "speaker": "Sandro",
+      "speaker_gender": "male"
+    },
+    {
+      "mission_number": 3,
+      "mission_name": "Finneas Vilmar",
+      "audio_file": "003_Finneas_Vilmar_Intro_en.wav",
+      "text_en": "Sandro and Finneas Vilmar are going to wipe out Lord Alarice before he can tell the others of Finneas' transgressions against the old King of Deyja.  Once they have completed this trivial task, they will be able to work on removing other bothersome lords from the Deyja court.\n\nTraveling to Deyja, I met Finneas Vilmar, an ambitious but slightly foolish Necromancer.  He has some holdings here and is trying to increase his realm of power.  With my skills of persuasion he should soon find himself in the position he craves.  Of course, I will be the shadow whispering orders into his ear.",
+      "speaker": "Sandro",
+      "speaker_gender": "male"
+    },
+    {
+      "mission_number": 4,
+      "mission_name": "Duke Alarice",
+      "audio_file": "004_Duke_Alarice_Intro_en.wav",
+      "text_en": "All Finneas or Sandro must do is remove the Duke of this area.  Once he is gone, they will be literally a step away from the throne.  The new king is still not settled into his throne and will be easily replaced.  With any luck, he will suffer an accident in the future.\n\nSoon Duke Alarice will find himself permanently among the dead.  Right now our plans go well as we prepare to launch an assault.  Finneas does not agree with my tactics, but I know that his tactics are certain death.  It is only a matter of time before he realizes his error and follows my direction.  Soon he will come to see that he cannot survive without my guidance.",
+      "speaker": "Sandro",
+      "speaker_gender": "male"
+    }
+  ]
+}

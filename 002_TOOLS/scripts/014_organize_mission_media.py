@@ -382,19 +382,38 @@ def narration_records_texts_json(mission_dir: str) -> list:
     """AB/SoD campaigns' narration source: the mission's own
     `<MissionFolder>_text.json` (build_mission_texts.py's per-mission
     output - see that file's docstring for why it's named this way, not a
-    bare `texts.json`)'s `wrapper_prolog`/`wrapper_epilog` fields (already
-    extracted, already translated - see module docstring for how this was
-    confirmed correct against a live screenshot). In: the mission folder's
-    path. Out: list of `{key, en, ua}` for whichever of the two fields are
-    present (empty list if the file is missing or has neither)."""
+    bare `texts.json`)'s `wrapper_prolog` field ONLY.
+
+    **`wrapper_epilog` is deliberately excluded** - this file also has one,
+    and an earlier version of this function included both, joined - but
+    duration-matching the actual narrated audio proved only the prolog is
+    spoken in this mission's own `_Intro` clip: on two independently
+    checked missions, `word_count / clip_duration` landed within ~1 word
+    of the *prolog's* word count using a speech rate calibrated from a
+    CONFIRMED RoE narration (`Homecoming`: 53 words / 22.9s = 2.31 w/s) -
+    e.g. `Maker of Sorrows`: 27.6s * 2.31 ~= 64 words, prolog is 61 words,
+    epilog is 90 (would need ~39s). Concatenating the epilog in as well
+    was silently attaching un-narrated text to the `_Intro_en/ua.txt`
+    pair, which would have produced a `.srt` with lines nobody says.
+    `wrapper_epilog` isn't lost - it's still sitting in this same mission's
+    `*_text.json`, just not copied into the `_Intro` bundle, since it
+    belongs to a different, not-yet-organized screen (shown transitioning
+    OUT of a mission, not this one's own intro).
+
+    In: the mission folder's path. Out: list of `{key, en, ua}` (empty
+    list if the file is missing or has no `wrapper_prolog`; the list
+    shape - even though there is at most one entry now - is kept so
+    `write_intro_texts()` doesn't need a separate code path)."""
     texts_candidates = glob.glob(os.path.join(mission_dir, "*_text.json"))
     if not texts_candidates:
         return []
     texts_path = texts_candidates[0]
     with open(texts_path, encoding="utf-8") as f:
         entries = {e["field"]: e for e in json.load(f) if "field" in e}
-    return [{"key": field, "en": entries[field]["en"], "ua": entries[field]["ua"]}
-            for field in ("wrapper_prolog", "wrapper_epilog") if field in entries]
+    if "wrapper_prolog" not in entries:
+        return []
+    e = entries["wrapper_prolog"]
+    return [{"key": "wrapper_prolog", "en": e["en"], "ua": e["ua"]}]
 
 
 def write_intro_texts(mission_dir: str, base_name: str, records: list) -> None:

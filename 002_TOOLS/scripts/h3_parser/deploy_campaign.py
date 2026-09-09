@@ -63,7 +63,15 @@ def deploy(h3c_path: str, missions_dir: str, out_path: str) -> None:
     campaign_root = os.path.dirname(os.path.normpath(missions_dir))
     desc_files = glob.glob(os.path.join(campaign_root, '*_description.json'))
     for desc_path in desc_files:
-        recs = json.load(open(desc_path, encoding='utf-8'))
+        loaded = json.load(open(desc_path, encoding='utf-8'))
+        # build_mission_texts.py originally wrote this file as a bare
+        # list of {var,field,en,ua} records; it may also be a dict with
+        # that same list under 'campaign_fields' plus other, unrelated
+        # top-level keys (e.g. 'voice_over' - reference data for a future
+        # .srt build, not consumed here) added by a later, separate pass.
+        # Accept either shape so adding new top-level keys never breaks
+        # this reader.
+        recs = loaded['campaign_fields'] if isinstance(loaded, dict) else loaded
         for r in recs:
             if r['field'].startswith('wrapper_') and r.get('ua'):
                 raw_field = r['field'][len('wrapper_'):]

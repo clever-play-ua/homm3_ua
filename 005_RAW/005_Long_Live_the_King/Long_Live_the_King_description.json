@@ -1,14 +1,50 @@
-[
-  {
-    "var": "EVIL2_campaign_name",
-    "field": "wrapper_campaign_name",
-    "en": "Long Live the King",
-    "ua": "Нехай живе Король!"
-  },
-  {
-    "var": "EVIL2_campaign_desc",
-    "field": "wrapper_campaign_desc",
-    "en": "The war in Erathia is the greatest thing that could have happened for the nation of Deyja.  A war of this scale is an endless harvest for our undead armies.  Today we shall feast, and tomorrow we shall conquer Erathia for ourselves.",
-    "ua": "Для Деї нічого вдаліше війни в Ерафії не можна було й придумати. Війна такого масштабу принесе нам багатий урожай скелетів. Сьогодні ми будемо бенкетувати. Завтра - оголосимо Ерафію царством нежиті."
-  }
-]
+{
+  "campaign_fields": [
+    {
+      "var": "EVIL2_campaign_name",
+      "field": "wrapper_campaign_name",
+      "en": "Long Live the King",
+      "ua": "Нехай живе Король!"
+    },
+    {
+      "var": "EVIL2_campaign_desc",
+      "field": "wrapper_campaign_desc",
+      "en": "The war in Erathia is the greatest thing that could have happened for the nation of Deyja.  A war of this scale is an endless harvest for our undead armies.  Today we shall feast, and tomorrow we shall conquer Erathia for ourselves.",
+      "ua": "Для Деї нічого вдаліше війни в Ерафії не можна було й придумати. Війна такого масштабу принесе нам багатий урожай скелетів. Сьогодні ми будемо бенкетувати. Завтра - оголосимо Ерафію царством нежиті."
+    }
+  ],
+  "voice_over": [
+    {
+      "mission_number": 1,
+      "mission_name": "A Gryphons Heart",
+      "audio_file": "001_A_Gryphons_Heart_Intro_en.wav",
+      "text_en": "\"Our nation's goal was to kill the man who banished us from Erathia. However, Nighon and Eeofol's subsequent invasion has done us an unexpected favor.  Erathia is strewn with the dead.  For the necromancers, this is a season of harvest. This is a season for war.  Queen Catherine is a formidable foe. To defeat Erathia's remaining military, we need a tactician greater than her. We have a plan... an ironic plan. While Catherine organizes the last stages of her war with Nighon and Eeofol, you will sneak into Erathia and locate King Gryphonheart’s grave. Be wary. The region is occupied by scattered Erathian. When the gravesite is found, we will resurrect the dead king and make him our pawn. With King Gryphonheart commanding our armies, his former home will become our land of the dead.\"\n\n\"While resurrecting King Gryphonheart from the dead, former King Vilmar met with an unfortunate accident. King Gryphonheart has taken command of the military... and the throne. His control over the dead is beyond anything we have seen. This bodes well for our invasion. However, our lords watch their new king, searching for a sign of weakness.\"",
+      "speaker": "Unnamed male general",
+      "speaker_gender": "male"
+    },
+    {
+      "mission_number": 2,
+      "mission_name": "Season of Harvest",
+      "audio_file": "002_Season_of_Harvest_Intro_en.wav",
+      "text_en": "\"Before we begin our large scale invasion of Erathia, we must fill our ranks. Erathia’s populous will provide the recruits we need. Invade the local region and resurrect the needed troops.\"",
+      "speaker": "Unnamed male general",
+      "speaker_gender": "male"
+    },
+    {
+      "mission_number": 3,
+      "mission_name": "Corporeal Punishment",
+      "audio_file": "003_Corporeal_Punishment_Intro_en.wav",
+      "text_en": "\"A Death Knight named Mot, refuses to obey King Gryphonheart’s orders.  An example must be made so others will not contemplate such traitorous action.  Mot has insulated himself with his armies.  Infiltrate his troops, kill him, and take his command.  When he is dead, resurrect his corpse and employ him in your ranks.\"",
+      "speaker": "Unnamed male general",
+      "speaker_gender": "male"
+    },
+    {
+      "mission_number": 4,
+      "mission_name": "From Day to Night",
+      "audio_file": "004_From_Day_to_Night_Intro_en.wav",
+      "text_en": "\"Erathia's military lies before us. It is time to make a bold strike. King Gryphonheart has trained their generals and knows their tactics. Morale will decide this battle.  Morale is not a factor for the undead.  Once we fill our ranks with their dead, our horde will grow and their morale will falter.  Then we will swarm over them. Soon King Gryphonheart will rule Erathia once again.\"",
+      "speaker": "Unnamed male general",
+      "speaker_gender": "male"
+    }
+  ]
+}

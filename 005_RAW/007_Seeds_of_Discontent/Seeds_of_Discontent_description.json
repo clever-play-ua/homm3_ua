@@ -1,14 +1,42 @@
-[
-  {
-    "var": "SECRET1_campaign_name",
-    "field": "wrapper_campaign_name",
-    "en": "Seeds of Discontent",
-    "ua": "Сім'я невдоволення"
-  },
-  {
-    "var": "SECRET1_campaign_desc",
-    "field": "wrapper_campaign_desc",
-    "en": "With the invaders finally driven out of the Contested Lands, the time has come to rebuild.  But one man, Faruk Wlenin, has chosen to free the Contested Lands from Erathia and AvLee forever.",
-    "ua": "Нарешті загарбники вигнані зі Спірних земель. Прийшла пора відродження. Але відважний воїн Фарук Вельнін вирішив навіки звільнити свою батьківщину від гніту Ерафії й Ав-Лі."
-  }
-]
+{
+  "campaign_fields": [
+    {
+      "var": "SECRET1_campaign_name",
+      "field": "wrapper_campaign_name",
+      "en": "Seeds of Discontent",
+      "ua": "Сім'я невдоволення"
+    },
+    {
+      "var": "SECRET1_campaign_desc",
+      "field": "wrapper_campaign_desc",
+      "en": "With the invaders finally driven out of the Contested Lands, the time has come to rebuild.  But one man, Faruk Wlenin, has chosen to free the Contested Lands from Erathia and AvLee forever.",
+      "ua": "Нарешті загарбники вигнані зі Спірних земель. Прийшла пора відродження. Але відважний воїн Фарук Вельнін вирішив навіки звільнити свою батьківщину від гніту Ерафії й Ав-Лі."
+    }
+  ],
+  "voice_over": [
+    {
+      "mission_number": 1,
+      "mission_name": "The Grail",
+      "audio_file": "001_The_Grail_Intro_en.wav",
+      "text_en": "\"For the first time in the history of the Contested Lands, humans and elves have fought alongside one another to defend the region from invaders. When the celebration is over, old hatreds will return and we will be citizens of a land in conflict. We must think about the future of the Contested Lands.  It is time to shape its future.  If our fight for independence is to succeed, we need something greater than our armies to motivate the populous. We need a symbolic cornerstone. Seek out the Grail in the enchanted lands where the Unicorns converse with the trees.\"",
+      "speaker": "Unnamed male general",
+      "speaker_gender": "male"
+    },
+    {
+      "mission_number": 2,
+      "mission_name": "Independence",
+      "audio_file": "002_Independence_Intro_en.wav",
+      "text_en": "\"Our cause is public.  Ironically, many humans have joined the elfin population in our vision of an independent state. Already, factions loyal to Erathia and AvLee organize to stop us. We cannot continue without a strong base of operations. Faruk Welnin, mayor of the town of Welnin, has sent a messenger.  He offers his protection and support. Our war for independence begins now. We must fight our way to Welnin and establish the Grail. When we have accomplished this, Welnin will become our foundation.\"",
+      "speaker": "Unnamed male general",
+      "speaker_gender": "male"
+    },
+    {
+      "mission_number": 3,
+      "mission_name": "The Road Home",
+      "audio_file": "003_The_Road_Home_Intro_en.wav",
+      "text_en": "\"We have come far very quickly. Armies from Erathia and AvLee have arrived to 'restore order.' This jeopardizes our quest for independence, and such hostile elements could ignite a larger war. It is our duty to establish Welnin as the capitol of the Contested Lands and the drive rule of Erathia and AvLee from this territory. If we do not, we will lose all we have fought for and two great nations may once again re-enact the carnage of the Timber Wars.  Today we declare our independence from the nations of Erathia and AvLee.\"",
+      "speaker": "Unnamed male general",
+      "speaker_gender": "male"
+    }
+  ]
+}

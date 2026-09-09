@@ -1,20 +1,64 @@
-[
-  {
-    "var": "YOG_campaign_name",
-    "field": "wrapper_campaign_name",
-    "en": "Birth of a Barbarian",
-    "ua": "Народження варвара"
-  },
-  {
-    "var": "YOG_campaign_desc",
-    "field": "wrapper_campaign_desc",
-    "en": "Yog has been at the Bracada magic academy learning to be a Wizard, but his Barbarian heritage beckons him to follow the path of a warrior.  Yog accepts Duke Winston Boragus' offer to join him in Krewlod.  Unfortunately, the Wizards of Bracada will use all their powers to prevent him from leaving.",
-    "ua": "Йоґ навчався в академії магів в Бракаді, але спадщина варварів направила його шляхом воїна. Йоґ приймає пропозицію герцога Вінстона Борагуса приєднатися до нього в Крюлоді. На нещастя, маги Бракади використовують всю свою силу, щоб зупинити початківця варвара."
-  },
-  {
-    "var": "YOG_campaign_epilogue",
-    "field": "wrapper_campaign_epilogue",
-    "en": "I have passed all the Duke's tests, proving I have given up magic forever, and he has accepted me into his Barbarian horde!  My mother would no doubt be disappointed in me, but now my new Krewlod family welcomes me with raised tankards and promises of many adventures to come!",
-    "ua": "Я з успіхом пройшов усі випробування, призначені герцогом. Я довів, що назавжди порвав з магією, і він прийняв мене до лав варварів! Звичайно, мати мене засудить, але зате моя нова сім'я витязів Крюлода вітає мене дзвоном кубків, і попереду мене чекає безліч славних пригод!"
-  }
-]
+{
+  "campaign_fields": [
+    {
+      "var": "YOG_campaign_name",
+      "field": "wrapper_campaign_name",
+      "en": "Birth of a Barbarian",
+      "ua": "Народження варвара"
+    },
+    {
+      "var": "YOG_campaign_desc",
+      "field": "wrapper_campaign_desc",
+      "en": "Yog has been at the Bracada magic academy learning to be a Wizard, but his Barbarian heritage beckons him to follow the path of a warrior.  Yog accepts Duke Winston Boragus' offer to join him in Krewlod.  Unfortunately, the Wizards of Bracada will use all their powers to prevent him from leaving.",
+      "ua": "Йоґ навчався в академії магів в Бракаді, але спадщина варварів направила його шляхом воїна. Йоґ приймає пропозицію герцога Вінстона Борагуса приєднатися до нього в Крюлоді. На нещастя, маги Бракади використовують всю свою силу, щоб зупинити початківця варвара."
+    },
+    {
+      "var": "YOG_campaign_epilogue",
+      "field": "wrapper_campaign_epilogue",
+      "en": "I have passed all the Duke's tests, proving I have given up magic forever, and he has accepted me into his Barbarian horde!  My mother would no doubt be disappointed in me, but now my new Krewlod family welcomes me with raised tankards and promises of many adventures to come!",
+      "ua": "Я з успіхом пройшов усі випробування, призначені герцогом. Я довів, що назавжди порвав з магією, і він прийняв мене до лав варварів! Звичайно, мати мене засудить, але зате моя нова сім'я витязів Крюлода вітає мене дзвоном кубків, і попереду мене чекає безліч славних пригод!"
+    }
+  ],
+  "voice_over": [
+    {
+      "mission_number": 1,
+      "mission_name": "On the Run",
+      "audio_file": "001_On_the_Run_Intro_en.wav",
+      "text_en": "You have never really been that good at magic.  Not even your Genie blood helped you much.  But still, life was fine up until a few months ago when the love of your life, Vidomina, became overconfident.  Her magic corrupted her and turned her into a Necromancer.  Since then, you have grown to despise magic.  Now you have made a decision to leave the life of a Wizard and become what you have always dreamed of... a Barbarian.\n\nAll my life I have been studying magic under the Wizards of Bracada to please my mother, a Genie.  But it is the blood of my Barbarian father that runs through my veins, and I feel that my hands were meant to carry a sword rather than a staff.  Fate seems to agree, for I have received an invitation from Duke Winston Boragus of Krewlod to join his army.  The time has come for me to leave this place, but I know that my teachers will not permit that without a fight.",
+      "speaker": "Yog",
+      "speaker_gender": "male"
+    },
+    {
+      "mission_number": 2,
+      "mission_name": "The Meeting",
+      "audio_file": "002_The_Meeting_Intro_en.wav",
+      "text_en": "Not long after you conquered the town of Groa a messenger arrived from Ulgak, the capital city of Krewlod.  To your surprise, it was from the Duke himself.  As you read through the letter you found out that the Barbarians of Krewlod are quite interested in your skills.\n\nSince escaping from Bracada, I have been attacked by a number of Krewlod's armies.  I do not understand why this would be, for I was invited here by the Duke himself!  I must travel to the capital to find out why Winston Boragus and all of his forces have turned against me.",
+      "speaker": "Yog",
+      "speaker_gender": "male"
+    },
+    {
+      "mission_number": 3,
+      "mission_name": "A Tough Start",
+      "audio_file": "003_A_Tough_Start_Intro_en.wav",
+      "text_en": "You left the meeting with Boragus in a very happy mood.  Wanting to prove yourself, you hurry off to Tatalia to deliver the first two pieces of the Armor of the Angelic.  At first you thought this would be an easy task: you would walk into town and give the first two pieces of the Angelic Alliance to Alendora.  After a few days ride from the border, you discover that Tatalians aren't going to make it that easy for you.\n\nWhen I confronted Winston Boragus, he admitted to setting Krewlod's armies against me to test my worthiness to join them.  At first I was angry at this deception until the Duke pointed out that it was I who wanted to be a fighter.  The Barbarian within me saw his point.  But Boragus has a test designed to see whether I am truly ready to part with the Wizards of Bracada.  I must take the magical Angelic Alliance sword, break it apart and distribute the pieces throughout Tatalia, Erathia and Bracada.",
+      "speaker": "Yog",
+      "speaker_gender": "male"
+    },
+    {
+      "mission_number": 4,
+      "mission_name": "Falor and Terwen",
+      "audio_file": "004_Falor_and_Terwen_Intro_en.wav",
+      "text_en": "The time spent in Tatalia wasn't very long, and you were quickly on your way to Erathia in search of Falor and Terwen.  With any luck, the Erathians will be less hostile than the Tatalians were.\n\nI gave up the first piece of the Sword, although I had to resist all of my wizardly training to do so.  Now I am to find the hut of a seer named Falor and give him two more pieces: the Celestial Necklace of Bliss and the Lion's Shield of Courage.  This will be no simple errand, for the Erathians don't take kindly to large armies traipsing across their country.",
+      "speaker": "Yog",
+      "speaker_gender": "male"
+    },
+    {
+      "mission_number": 5,
+      "mission_name": "Returning to Bracada",
+      "audio_file": "005_Returning_to_Bracada_Intro_en.wav",
+      "text_en": "The last leg of your journey has taken you back to Bracada.  You realize that Aine will probably be waiting for you.  Despite this, you decide you don't really have a choice, so you break camp and set out to search for Beleg and Orruk.\n\nThe last of Winston Boragus' tests will take me back to Bracada, my forsaken homeland.  I am to find a couple named Beleg and Orruk and give them the two most powerful pieces of the Angelic Alliance: the Sword of Judgment and the Helm of Heavenly Enlightenment.  That will be the easy part, now that I am certain I am ready to give up the ways of magic.  The hard part will be fighting my way past Bracada's armies, for they will not be as willing to give me up.",
+      "speaker": "Yog",
+      "speaker_gender": "male"
+    }
+  ]
+}

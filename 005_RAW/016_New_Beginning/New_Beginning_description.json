@@ -1,20 +1,56 @@
-[
-  {
-    "var": "GEM_campaign_name",
-    "field": "wrapper_campaign_name",
-    "en": "New Beginning",
-    "ua": "Новий початок"
-  },
-  {
-    "var": "GEM_campaign_desc",
-    "field": "wrapper_campaign_desc",
-    "en": "Gem arrives from Enroth fresh from the Succession Wars.  She first helps the Clovergreen Militia and then aids a wizard's apprentice against the Necromancers of Deyja.",
-    "ua": "Ґем прибула з Енрота, поповнивши сили після безперервних війн. Для початку їй необхідно допомогти ополченню міста Кловергрін. Потім вона повинна приєднатися до чарівників у їхній боротьбі з некромантами."
-  },
-  {
-    "var": "GEM_campaign_epilogue",
-    "field": "wrapper_campaign_epilogue",
-    "en": "Sandro has tricked me!  But to what purpose?  Why would he run off with the Dead Man's Boots without paying me?  Did he keep the money for himself?  Did he give Ethric the other artifacts?  He certainly couldn't have been an agent for Deyja - the undead troops I destroyed to get the artifacts were worth more than the artifacts themselves.  None of this makes sense!  I will have to write to Ethric in Bracada and tell Lord Fayette about this immediately.",
-    "ua": "Сандро мене обдурив! Але навіщо? Чому він втік з Черевиками мерця, не заплативши мені ні копійки? Чи залишив він ці гроші собі? Чи віддав він інші артефакти Етріку? Він не міг бути шпигуном Деї, бо натовпи нежиті, які я винищила, коштували набагато більше, ніж здобуті артефакти. У чому тут сенс? Не розумію! Доведеться написати про все Етріку в Бракаду, а заодно й негайно послати донесення лорду Файету."
-  }
-]
+{
+  "campaign_fields": [
+    {
+      "var": "GEM_campaign_name",
+      "field": "wrapper_campaign_name",
+      "en": "New Beginning",
+      "ua": "Новий початок"
+    },
+    {
+      "var": "GEM_campaign_desc",
+      "field": "wrapper_campaign_desc",
+      "en": "Gem arrives from Enroth fresh from the Succession Wars.  She first helps the Clovergreen Militia and then aids a wizard's apprentice against the Necromancers of Deyja.",
+      "ua": "Ґем прибула з Енрота, поповнивши сили після безперервних війн. Для початку їй необхідно допомогти ополченню міста Кловергрін. Потім вона повинна приєднатися до чарівників у їхній боротьбі з некромантами."
+    },
+    {
+      "var": "GEM_campaign_epilogue",
+      "field": "wrapper_campaign_epilogue",
+      "en": "Sandro has tricked me!  But to what purpose?  Why would he run off with the Dead Man's Boots without paying me?  Did he keep the money for himself?  Did he give Ethric the other artifacts?  He certainly couldn't have been an agent for Deyja - the undead troops I destroyed to get the artifacts were worth more than the artifacts themselves.  None of this makes sense!  I will have to write to Ethric in Bracada and tell Lord Fayette about this immediately.",
+      "ua": "Сандро мене обдурив! Але навіщо? Чому він втік з Черевиками мерця, не заплативши мені ні копійки? Чи залишив він ці гроші собі? Чи віддав він інші артефакти Етріку? Він не міг бути шпигуном Деї, бо натовпи нежиті, які я винищила, коштували набагато більше, ніж здобуті артефакти. У чому тут сенс? Не розумію! Доведеться написати про все Етріку в Бракаду, а заодно й негайно послати донесення лорду Файету."
+    }
+  ],
+  "voice_over": [
+    {
+      "mission_number": 1,
+      "mission_name": "Clearing the Border",
+      "audio_file": "001_Clearing_the_Border_Intro_en.wav",
+      "text_en": "You have agreed to take command of the town of Clovergreen's militia and clear this area of the border of undead raiders.\n\nIt is hard to believe a year has passed since Archibald and his Necromancer allies were defeated, ending the Succession Wars.  In that time I have been living a nightmare, for I see the ghosts of the fallen all throughout Enroth.  I hope my former teacher, Amanda, is right.  I hope moving to a new land, to Antagarich, will still the ghosts of the war.",
+      "speaker": "Gem",
+      "speaker_gender": "female"
+    },
+    {
+      "mission_number": 2,
+      "mission_name": "After the Amulet",
+      "audio_file": "002_After_the_Amulet_Intro_en.wav",
+      "text_en": "You have agreed to help a wizard's apprentice named Sandro.  Sandro's master, Ethric, needs an Amulet of the Undertaker to perform anti-necromancy research, but Ethric is an academician and Sandro is too inexperienced to go after the Amulet himself.\n\nI have met a Wizard named Sandro who is conducting research to combat necromancy.  He is creating a magical amulet, which will ward off the undead and wants to pay me a large sum of gold to find the pieces he needs to construct it.  He seems to think me quite the mercenary.",
+      "speaker": "Gem",
+      "speaker_gender": "female"
+    },
+    {
+      "mission_number": 3,
+      "mission_name": "Retrieving the Cowl",
+      "audio_file": "003_Retrieving_the_Cowl_Intro_en.wav",
+      "text_en": "Terek, Sandro's agent, managed to steal a Vampire's Cowl.  Unfortunately, on his way across the Border Lands bandits captured him.  You must ransom Terek and obtain the Cowl.\n\nWhen I delivered the Amulet of the Undertaker to Sandro, he told me he had also hired a Barbarian named Tarek to locate another artifact, The Vampire's Cowl.  However, Tarek is long overdue and Sandro fears for his life.  From what I can see, bandits have captured Tarek and are holding him for ransom in an underground prison near the Deyja border.",
+      "speaker": "Gem",
+      "speaker_gender": "female"
+    },
+    {
+      "mission_number": 4,
+      "mission_name": "Driving for the Boots",
+      "audio_file": "004_Driving_for_the_Boots_Intro_en.wav",
+      "text_en": "The last item Gem needs to acquire for Sandro's master is very close to the Deyja border, maybe even inside the border.  The Deyjan Border Lords are not going to be happy with Gem's presence.\n\nI begin my quest for the last item Sandro needs - the Dead Man's Boots.  Unlike the other artifacts, these may actually be inside Deyja, for the borders are in dispute.  One thing is certain: there will be several Deyjan Border Lords in the area, and they will not like me being there.  This is going to be a tough fight, but it will be worth it.  Important things are never free.",
+      "speaker": "Gem",
+      "speaker_gender": "female"
+    }
+  ]
+}

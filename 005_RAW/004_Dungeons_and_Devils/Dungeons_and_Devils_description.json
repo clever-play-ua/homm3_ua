@@ -1,14 +1,42 @@
-[
-  {
-    "var": "EVIL1_campaign_name",
-    "field": "wrapper_campaign_name",
-    "en": "Dungeons and Devils",
-    "ua": "Підземелля і дияволи"
-  },
-  {
-    "var": "EVIL1_campaign_desc",
-    "field": "wrapper_campaign_desc",
-    "en": "Erathian history has never recorded the fall of Steadwick to her enemies.  Today we start a glorious campaign to forever change this fact.  No longer will we allow Erathia to hamper our religious and economic ways of life.  We have the element of surprise.  We will soon have victory as well.",
-    "ua": "Ніколи за всю історію Ерафії Стедвік не корився ворогові. Сьогодні ми покладемо цьому край. Більше Ерафія не зможе вказувати нам, у що вірити і чим торгувати. Фактор несподіванки зіграє нам на руку. Перемога не за горами."
-  }
-]
+{
+  "campaign_fields": [
+    {
+      "var": "EVIL1_campaign_name",
+      "field": "wrapper_campaign_name",
+      "en": "Dungeons and Devils",
+      "ua": "Підземелля і дияволи"
+    },
+    {
+      "var": "EVIL1_campaign_desc",
+      "field": "wrapper_campaign_desc",
+      "en": "Erathian history has never recorded the fall of Steadwick to her enemies.  Today we start a glorious campaign to forever change this fact.  No longer will we allow Erathia to hamper our religious and economic ways of life.  We have the element of surprise.  We will soon have victory as well.",
+      "ua": "Ніколи за всю історію Ерафії Стедвік не корився ворогові. Сьогодні ми покладемо цьому край. Більше Ерафія не зможе вказувати нам, у що вірити і чим торгувати. Фактор несподіванки зіграє нам на руку. Перемога не за горами."
+    }
+  ],
+  "voice_over": [
+    {
+      "mission_number": 1,
+      "mission_name": "A Devilish Plan",
+      "audio_file": "001_A_Devilish_Plan_Intro_en.wav",
+      "text_en": "\"A large elvish population inhabits Erathia’s southeastern coast.  Green and gold dragons, native to the region, augment their military strength.  Before we conquer this region, and detour our forces to Steadwick, we must annihilate these dragons.  Our Kreegan allies from Eeofol requested the honor of this mission.  The Kreegans are fierce warriors.  They will enjoy the slaughter.\"",
+      "speaker": "Unnamed male general",
+      "speaker_gender": "male"
+    },
+    {
+      "mission_number": 2,
+      "mission_name": "Groundbreaking",
+      "audio_file": "002_Groundbreaking_Intro_en.wav",
+      "text_en": "\"Reports claim a fleet of Enrothian warships have landed on the southern coast of Erathia. We do not know who commands this force, or its size. Through sources in Eeofol, we know Roland Ironfist cannot lead this fleet. Regardless, our plans remain unchanged.  We start the last phase of our underground invasion and solidify our position along the southeastern coast.  Afterwards, we can transport more reinforcements from Nighon.  We have dug the last tunnels to this area.  You will have the tactical advantage.\"",
+      "speaker": "Unnamed male general",
+      "speaker_gender": "male"
+    },
+    {
+      "mission_number": 3,
+      "mission_name": "Steadwicks Fall",
+      "audio_file": "003_Steadwicks_Fall_Intro_en.wav",
+      "text_en": "\"Catherine Ironfist has enlisted aid from Bracada and AvLee.  She knows we are close to Steadwick.  We must occupy Steadwick before she arrives.  Once we own Erathia's capitol, not even Catherine Ironfist will wrench it from our hands.\"",
+      "speaker": "Unnamed male general",
+      "speaker_gender": "male"
+    }
+  ]
+}

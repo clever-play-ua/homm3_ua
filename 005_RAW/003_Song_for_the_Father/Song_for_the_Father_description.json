@@ -1,14 +1,42 @@
-[
-  {
-    "var": "GOOD3_campaign_name",
-    "field": "wrapper_campaign_name",
-    "en": "Song for the Father",
-    "ua": "Хвала батьку"
-  },
-  {
-    "var": "GOOD3_campaign_desc",
-    "field": "wrapper_campaign_desc",
-    "en": "The final step in the Restoration of Erathia is to drive the Necormancers of Deyja back in to their barren homeland.  With the ressurrected body of King Gryphonheart leading them, this will prove to be a formidable task.",
-    "ua": "Відродження Ерафії підійшло до кінця. Залишилось вигнати некромантів Деї назад в їх кляті землі. Непросто буде це зробити: їх веде сам король-мрець Гріфонхарт."
-  }
-]
+{
+  "campaign_fields": [
+    {
+      "var": "GOOD3_campaign_name",
+      "field": "wrapper_campaign_name",
+      "en": "Song for the Father",
+      "ua": "Хвала батьку"
+    },
+    {
+      "var": "GOOD3_campaign_desc",
+      "field": "wrapper_campaign_desc",
+      "en": "The final step in the Restoration of Erathia is to drive the Necormancers of Deyja back in to their barren homeland.  With the ressurrected body of King Gryphonheart leading them, this will prove to be a formidable task.",
+      "ua": "Відродження Ерафії підійшло до кінця. Залишилось вигнати некромантів Деї назад в їх кляті землі. Непросто буде це зробити: їх веде сам король-мрець Гріфонхарт."
+    }
+  ],
+  "voice_over": [
+    {
+      "mission_number": 1,
+      "mission_name": "Safe Passage",
+      "audio_file": "001_Safe_Passage_Intro_en.wav",
+      "text_en": "\"Upon liberating Steadwick, my fears were confirmed.  My father did not die of natural causes.  He was poisoned. Investigations conducted by General Morgan Kendal prior to the war yielded no suspects. Now I learn the necromancers, seeking a military tactician equal to myself, have resurrected my father, King Gryphonheart. After killing King Vilmar, he took command of their military and their throne.  Now they come to us.  They cannot stop the monster they have created.  As a gesture of good faith, they send a messenger to speak only to me. He will tell me who killed my father. Find this hero and deliver him to me safely.\"",
+      "speaker": "Catherine",
+      "speaker_gender": "female"
+    },
+    {
+      "mission_number": 2,
+      "mission_name": "United Front",
+      "audio_file": "002_United_Front_Intro_en.wav",
+      "text_en": "\"I grow weary of this war. So do the necromancers. We have agreed to co-operate in the destruction of King Gryphonheart. I never thought I would fight alongside the necromancers, but today we forge weapons for both our armies. With their help, along with the forces from Bracada and AvLee, we should be able to repel all undead from Erathia.\"",
+      "speaker": "Catherine",
+      "speaker_gender": "female"
+    },
+    {
+      "mission_number": 3,
+      "mission_name": "For King and Country",
+      "audio_file": "003_For_King_and_Country_Intro_en.wav",
+      "text_en": "\"What remains of my father's undead army is the Necropolis where he resides. His last legions of undead are significant.  I will join this difficult battle, but you will command the field.  There is one more order you must follow without question. Lord Haart must not die. He is our traitor. We have confirmed the information the necromancers gave to us. Lord Haart was part of King Vilmar's necromantic cult. With Lord Haart's access to Steadwick, poisoning King Gryphonheart's food was a simple task. Acting on orders from King Vilmar, he sought to avenge the banishment of the necromancers from Erathia. I have special plans for Lord Haart.\"",
+      "speaker": "Catherine",
+      "speaker_gender": "female"
+    }
+  ]
+}
