@@ -81,14 +81,26 @@ translator-facing.
 ## AB-era campaigns (different convention, already known-good)
 
 The 6 Armageddon's Blade campaigns (`ab`, `blood`, `slayer`, `festival`,
-`fool`, `fire`) use **one** narration clip per whole campaign (not per
-mission), named `ABVO<code><n>` in `Heroes3.snd` — e.g. `ABVOAB1`..`ABVOAB9`
-for the `ab` (Armageddon's Blade) campaign. These were already known from
-earlier extraction work, not part of this investigation. The 7 SoD hero
-campaigns (`crag`/`yog`/`gem`/`gelu`/`sandro`/`final`/`secret`) likewise use
-a single video per campaign (`hack.bik`, `Birth.bik`, etc., in `VIDEO.VID`)
-- whether *those* have real embedded audio or need the same Heroes3.snd
-  treatment has not been checked yet.
+`fool`, `fire`) have one narration clip per mission (`n` = mission number,
+`1` = the campaign intro), named `ABVO<code><n>` in `Heroes3.snd` — e.g.
+`ABVOAB1`..`ABVOAB9` for the `ab` (Armageddon's Blade) campaign, matching
+its 9 video parts 1:1. These were already known from earlier extraction
+work, not part of this investigation.
+
+**RESOLVED (was "not checked yet"):** the 7 SoD hero campaigns
+(`crag`/`yog`/`gem`/`gelu`/`sandro`/`final`/`secret`) also have real
+per-mission voiceover, one clip per video letter, named
+`H3X2<CODE><LETTER>` in `Heroes3.snd` (all uppercase, no underscore -
+`H3x2_HSb` the video is `H3X2HSB` the audio) - e.g. `H3X2ELB`..`H3X2ELE`
+for `gelu` (Elixir of Life). Missed for a whole extra round after this
+note already named the open question, because the initial pass checked
+whether the local `voiceover_en/` folder was non-empty (it was, correctly,
+always empty until someone actually extracted into it) instead of
+checking `Heroes3.snd` itself for the archive codes this note already
+predicted might exist. One genuine surprise: `014_Hack_and_Slash`'s
+`H3X2HSB` exists and has real narration even though its matching VIDEO
+letter (`H3x2_HSb`) does not exist at all - that one mission (`Bashing
+Skulls`) has audio-only narration, no accompanying video clip.
 
 ## Encoding NEW video back into the game (working pipeline, one open risk)
 

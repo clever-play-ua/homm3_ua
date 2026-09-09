@@ -17,8 +17,7 @@
 # shape has already changed twice as this got reorganized - .mp4/.wav
 # under 005_RAW are never anything BUT extracted game video/audio, so this
 # is safe and won't need updating the next time the layout changes again.
-005_RAW/**/*.mp4
-005_RAW/**/*.wav
+
 
 # Python bytecode cache
 __pycache__/

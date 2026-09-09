@@ -11,7 +11,17 @@
       "target_archive": "VIDEO.VID"
     }
   ],
-  "audio_en": null,
+  "audio_en": {
+    "local_file": "004_Duke_Alarice_Intro_en.wav",
+    "source_entry": "H3X2RNE",
+    "target_archive": "Heroes3.snd",
+    "format": {
+      "codec": "adpcm_ima_wav",
+      "sample_rate": 22050,
+      "channels": 1,
+      "bits_per_sample": 4
+    }
+  },
   "subtitles": {
     "en": "004_Duke_Alarice_Intro_en.txt",
     "ua": "004_Duke_Alarice_Intro_ua.txt"

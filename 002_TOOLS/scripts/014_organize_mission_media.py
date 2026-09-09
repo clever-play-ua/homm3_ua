@@ -149,140 +149,151 @@ CAMPAIGNS: dict[str, dict[str, Any]] = {
     # much less obvious naming series that an earlier pass here missed
     # entirely - see 004_extract_campaign_videos.py's "CORRECTED" docstring
     # note for the full story (H3ABxxN.smk / H3x2_XXletter.smk in
-    # VIDEO.VID). None ever had extracted voiceover, so `audio_file` is
-    # always None here - confirmed no such files exist for these archives.
+    # VIDEO.VID). **Also have real per-mission voiceover** - missed the
+    # same way the first time around: `voiceover_en/` was empty because
+    # nothing had ever extracted it yet, which this project's earlier self
+    # misread as "doesn't exist" instead of "not extracted yet". Found by
+    # actually re-reading `AUDIO_VIDEO_NOTES.md`'s own already-written "AB-
+    # era campaigns" section, which named the archive codes
+    # (`ABVO<code><n>` for AB, `H3X2<CODE><letter>` for SoD, both in
+    # `Heroes3.snd`) and had flagged the SoD half as "not checked yet" -
+    # checking it confirmed the exact same convention holds there too.
+    # `014_Hack_and_Slash`'s mission 1 is the one case with audio but NO
+    # video (letter `b` exists in the audio series, doesn't in the video
+    # series) - matches an empty video list with a real audio_file below.
     "008_Armageddons_Blade": {
         "intro": "C1ab7.mp4",
         "missions": [
-            ("001_Catherines_Charge", ["H3ABab2.mp4"], None),
-            ("002_Seeking_Armageddon", ["H3ABab3.mp4"], None),
-            ("003_Shadows_of_the_Forest", ["H3ABab4.mp4"], None),
-            ("004_Maker_of_Sorrows", ["H3ABab5.mp4"], None),
-            ("005_Return_of_the_King", ["H3ABab6.mp4"], None),
-            ("006_A_Blade_in_the_Back", ["H3ABab7.mp4"], None),
-            ("007_To_Kill_A_Hero", ["H3ABab8.mp4"], None),
-            ("008_Oblivions_Edge", ["H3ABab9.mp4"], None),
+            ("001_Catherines_Charge", ["H3ABab2.mp4"], "ABVOAB2.wav"),
+            ("002_Seeking_Armageddon", ["H3ABab3.mp4"], "ABVOAB3.wav"),
+            ("003_Shadows_of_the_Forest", ["H3ABab4.mp4"], "ABVOAB4.wav"),
+            ("004_Maker_of_Sorrows", ["H3ABab5.mp4"], "ABVOAB5.wav"),
+            ("005_Return_of_the_King", ["H3ABab6.mp4"], "ABVOAB6.wav"),
+            ("006_A_Blade_in_the_Back", ["H3ABab7.mp4"], "ABVOAB7.wav"),
+            ("007_To_Kill_A_Hero", ["H3ABab8.mp4"], "ABVOAB8.wav"),
+            ("008_Oblivions_Edge", ["H3ABab9.mp4"], "ABVOAB9.wav"),
         ],
     },
     "009_Dragons_Blood": {
         "intro": "C1db2.mp4",
         "missions": [
-            ("001_Culling_the_Weak", ["H3ABdb2.mp4"], None),
-            ("002_Savaging_the_Scavengers", ["H3ABdb3.mp4"], None),
-            # 2-part mission, same shape as RoE's EVIL2A/EVIL2AP1/AP2.
-            ("003_Blood_of_the_Dragon_Father", ["H3ABdb4.mp4", "H3ABdb4b.mp4"], None),
-            ("004_Blood_Thirsty", ["H3ABdb5.mp4"], None),
+            ("001_Culling_the_Weak", ["H3ABdb2.mp4"], "ABVODB2.wav"),
+            ("002_Savaging_the_Scavengers", ["H3ABdb3.mp4"], "ABVODB3.wav"),
+            # 2-part mission, same shape as RoE's EVIL2A/EVIL2AP1/AP2 - one
+            # audio clip covers both video parts, same as EVIL2 does.
+            ("003_Blood_of_the_Dragon_Father", ["H3ABdb4.mp4", "H3ABdb4b.mp4"], "ABVODB4.wav"),
+            ("004_Blood_Thirsty", ["H3ABdb5.mp4"], "ABVODB5.wav"),
         ],
     },
     "010_Dragon_Slayer": {
         "intro": "C1ds1.mp4",
         "missions": [
-            ("001_Rust_Dragons", ["H3ABds2.mp4"], None),
-            ("002_Faerie_Dragons", ["H3ABds3.mp4"], None),
-            ("003_Azure_Dragons", ["H3ABds4.mp4"], None),
-            ("004_Crystal_Dragons", ["H3ABds5.mp4"], None),
+            ("001_Rust_Dragons", ["H3ABds2.mp4"], "ABVODS2.wav"),
+            ("002_Faerie_Dragons", ["H3ABds3.mp4"], "ABVODS3.wav"),
+            ("003_Azure_Dragons", ["H3ABds4.mp4"], "ABVODS4.wav"),
+            ("004_Crystal_Dragons", ["H3ABds5.mp4"], "ABVODS5.wav"),
         ],
     },
     "011_Festival_of_Life": {
         "intro": "C1fl3.mp4",
         "missions": [
-            ("001_For_the_Throne", ["H3ABfl2.mp4"], None),
-            ("002_Clan_War", ["H3ABfl3.mp4"], None),
-            ("003_Taming_of_the_wild", ["H3ABfl4.mp4"], None),
-            ("004_Razor_Claw", ["H3ABfl5.mp4"], None),
+            ("001_For_the_Throne", ["H3ABfl2.mp4"], "ABVOFL2.wav"),
+            ("002_Clan_War", ["H3ABfl3.mp4"], "ABVOFL3.wav"),
+            ("003_Taming_of_the_wild", ["H3ABfl4.mp4"], "ABVOFL4.wav"),
+            ("004_Razor_Claw", ["H3ABfl5.mp4"], "ABVOFL5.wav"),
         ],
     },
     "012_Foolhardy_Waywardness": {
         "intro": "C1fw1.mp4",
         "missions": [
-            ("001_Lost_at_Sea", ["H3ABfw2.mp4"], None),
-            ("002_Here_There_Be_Pirates", ["H3ABfw3.mp4"], None),
-            ("003_Hurry_Up_and_Wait", ["H3ABfw4.mp4"], None),
-            ("004_Their_End_of_the_Bargain", ["H3ABfw5.mp4"], None),
+            ("001_Lost_at_Sea", ["H3ABfw2.mp4"], "ABVOFW2.wav"),
+            ("002_Here_There_Be_Pirates", ["H3ABfw3.mp4"], "ABVOFW3.wav"),
+            ("003_Hurry_Up_and_Wait", ["H3ABfw4.mp4"], "ABVOFW4.wav"),
+            ("004_Their_End_of_the_Bargain", ["H3ABfw5.mp4"], "ABVOFW5.wav"),
         ],
     },
     "013_Playing_with_Fire": {
         "intro": "C1pf2.mp4",
         "missions": [
-            ("001_Farming_Towns", ["H3ABpf2.mp4"], None),
-            ("002_March_of_the_Undead", ["H3ABpf3.mp4"], None),
-            ("003_Burning_of_Tatalia", ["H3ABpf4.mp4"], None),
+            ("001_Farming_Towns", ["H3ABpf2.mp4"], "ABVOPF2.wav"),
+            ("002_March_of_the_Undead", ["H3ABpf3.mp4"], "ABVOPF3.wav"),
+            ("003_Burning_of_Tatalia", ["H3ABpf4.mp4"], "ABVOPF4.wav"),
         ],
     },
     "014_Hack_and_Slash": {
         "intro": "hack.mp4",
         "missions": [
-            # letter 'b' never existed (only a,c,d,e) - mission 1 has no
-            # dedicated clip of its own (empty video list, text-only),
-            # see docstring note.
-            ("001_Bashing_Skulls", [], None),
-            ("002_Black_Sheep", ["H3x2_HSc.mp4"], None),
-            ("003_A_Cage_in_the_Hand", ["H3x2_HSd.mp4"], None),
-            ("004_Grave_Robber", ["H3x2_HSe.mp4"], None),
+            # letter 'b' never existed for the VIDEO series (only
+            # a,c,d,e) but DOES for the audio series - mission 1 has real
+            # narration and no video of its own.
+            ("001_Bashing_Skulls", [], "H3X2HSB.wav"),
+            ("002_Black_Sheep", ["H3x2_HSc.mp4"], "H3X2HSC.wav"),
+            ("003_A_Cage_in_the_Hand", ["H3x2_HSd.mp4"], "H3X2HSD.wav"),
+            ("004_Grave_Robber", ["H3x2_HSe.mp4"], "H3X2HSE.wav"),
         ],
     },
     "015_Birth_of_a_Barbarian": {
         "intro": "Birth.mp4",
         "missions": [
-            ("001_On_the_Run", ["H3x2_BBb.mp4"], None),
-            ("002_The_Meeting", ["H3x2_BBc.mp4"], None),
-            ("003_A_Tough_Start", ["H3x2_BBd.mp4"], None),
-            ("004_Falor_and_Terwen", ["H3x2_BBe.mp4"], None),
-            ("005_Returning_to_Bracada", ["H3x2_BBf.mp4"], None),
+            ("001_On_the_Run", ["H3x2_BBb.mp4"], "H3X2BBB.wav"),
+            ("002_The_Meeting", ["H3x2_BBc.mp4"], "H3X2BBC.wav"),
+            ("003_A_Tough_Start", ["H3x2_BBd.mp4"], "H3X2BBD.wav"),
+            ("004_Falor_and_Terwen", ["H3x2_BBe.mp4"], "H3X2BBE.wav"),
+            ("005_Returning_to_Bracada", ["H3x2_BBf.mp4"], "H3X2BBF.wav"),
         ],
     },
     "016_New_Beginning": {
         "intro": "new.mp4",
         "missions": [
-            ("001_Clearing_the_Border", ["H3x2_NBb.mp4"], None),
-            ("002_After_the_Amulet", ["H3x2_NBc.mp4"], None),
-            ("003_Retrieving_the_Cowl", ["H3x2_NBd.mp4"], None),
-            ("004_Driving_for_the_Boots", ["H3x2_NBe.mp4"], None),
+            ("001_Clearing_the_Border", ["H3x2_NBb.mp4"], "H3X2NBB.wav"),
+            ("002_After_the_Amulet", ["H3x2_NBc.mp4"], "H3X2NBC.wav"),
+            ("003_Retrieving_the_Cowl", ["H3x2_NBd.mp4"], "H3X2NBD.wav"),
+            ("004_Driving_for_the_Boots", ["H3x2_NBe.mp4"], "H3X2NBE.wav"),
         ],
     },
     "017_Elixir_of_Life": {
         "intro": "elixir.mp4",
         "missions": [
-            ("001_Graduation_Exercise", ["H3x2_ELb.mp4"], None),
-            ("002_Cutthroats", ["H3x2_ELc.mp4"], None),
-            ("003_Valley_of_the_Dragon_Lords", ["H3x2_ELd.mp4"], None),
-            ("004_A_Thief_in_the_Night", ["H3x2_ELe.mp4"], None),
+            ("001_Graduation_Exercise", ["H3x2_ELb.mp4"], "H3X2ELB.wav"),
+            ("002_Cutthroats", ["H3x2_ELc.mp4"], "H3X2ELC.wav"),
+            ("003_Valley_of_the_Dragon_Lords", ["H3x2_ELd.mp4"], "H3X2ELD.wav"),
+            ("004_A_Thief_in_the_Night", ["H3x2_ELe.mp4"], "H3X2ELE.wav"),
         ],
     },
     "018_Rise_of_the_Necromancer": {
         "intro": "rise.mp4",
         "missions": [
-            ("001_Target", ["H3x2_RNb.mp4"], None),
-            ("002_Master", ["H3x2_RNc.mp4"], None),
-            ("003_Finneas_Vilmar", ["H3x2_RNd.mp4"], None),
-            # 2-part mission.
-            ("004_Duke_Alarice", ["H3x2_RNe1.mp4", "H3x2_RNe2.mp4"], None),
+            ("001_Target", ["H3x2_RNb.mp4"], "H3X2RNB.wav"),
+            ("002_Master", ["H3x2_RNc.mp4"], "H3X2RNC.wav"),
+            ("003_Finneas_Vilmar", ["H3x2_RNd.mp4"], "H3X2RND.wav"),
+            # 2-part video, one audio clip covers both parts.
+            ("004_Duke_Alarice", ["H3x2_RNe1.mp4", "H3x2_RNe2.mp4"], "H3X2RNE.wav"),
         ],
     },
     "019_Unholy_Alliance": {
         "intro": "unholy.mp4",
         "missions": [
-            ("001_Harvest", ["H3x2_UAb.mp4"], None),
-            ("002_Gathering_the_Legion", ["H3x2_UAc.mp4"], None),
-            ("003_Search_for_a_Killer", ["H3x2_UAd.mp4"], None),
-            ("004_Final_Peace", ["H3x2_UAe.mp4"], None),
-            ("005_Secrets_Revealed", ["H3x2_UAf.mp4"], None),
-            ("006_Agents_of_Vengeance", ["H3x2_UAg.mp4"], None),
-            ("007_Wrath_of_Sandro", ["H3x2_UAh.mp4"], None),
-            ("008_Invasion", ["H3x2_UAi.mp4"], None),
-            ("009_To_Strive_To_Seek", ["H3x2_UAj.mp4"], None),
-            ("010_Barbarian_Brothers", ["H3x2_UAk.mp4"], None),
-            ("011_Union", ["H3x2_UAl.mp4"], None),
-            ("012_Fall_of_Sandro", ["H3x2_UAm.mp4"], None),
+            ("001_Harvest", ["H3x2_UAb.mp4"], "H3X2UAB.wav"),
+            ("002_Gathering_the_Legion", ["H3x2_UAc.mp4"], "H3X2UAC.wav"),
+            ("003_Search_for_a_Killer", ["H3x2_UAd.mp4"], "H3X2UAD.wav"),
+            ("004_Final_Peace", ["H3x2_UAe.mp4"], "H3X2UAE.wav"),
+            ("005_Secrets_Revealed", ["H3x2_UAf.mp4"], "H3X2UAF.wav"),
+            ("006_Agents_of_Vengeance", ["H3x2_UAg.mp4"], "H3X2UAG.wav"),
+            ("007_Wrath_of_Sandro", ["H3x2_UAh.mp4"], "H3X2UAH.wav"),
+            ("008_Invasion", ["H3x2_UAi.mp4"], "H3X2UAI.wav"),
+            ("009_To_Strive_To_Seek", ["H3x2_UAj.mp4"], "H3X2UAJ.wav"),
+            ("010_Barbarian_Brothers", ["H3x2_UAk.mp4"], "H3X2UAK.wav"),
+            ("011_Union", ["H3x2_UAl.mp4"], "H3X2UAL.wav"),
+            ("012_Fall_of_Sandro", ["H3x2_UAm.mp4"], "H3X2UAM.wav"),
         ],
     },
     "020_Specter_of_Power": {
         "intro": "spectre.mp4",
         "missions": [
-            ("001_Poison_Fit_for_a_King", ["H3x2_SPb.mp4"], None),
-            ("002_To_Build_a_Tunnel", ["H3x2_SPc.mp4"], None),
-            ("003_Kreegan_Alliance", ["H3x2_SPd.mp4"], None),
-            ("004_With_Blinders_On", ["H3x2_SPe.mp4"], None),
+            ("001_Poison_Fit_for_a_King", ["H3x2_SPb.mp4"], "H3X2SPB.wav"),
+            ("002_To_Build_a_Tunnel", ["H3x2_SPc.mp4"], "H3X2SPC.wav"),
+            ("003_Kreegan_Alliance", ["H3x2_SPd.mp4"], "H3X2SPD.wav"),
+            ("004_With_Blinders_On", ["H3x2_SPe.mp4"], "H3X2SPE.wav"),
         ],
     },
 }
