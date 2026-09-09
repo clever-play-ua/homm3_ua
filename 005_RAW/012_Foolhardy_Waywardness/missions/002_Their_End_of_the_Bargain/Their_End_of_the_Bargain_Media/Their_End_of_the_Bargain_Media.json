@@ -1,0 +1,25 @@
+{
+  "video": [
+    {
+      "local_file": "002_Their_End_of_the_Bargain_Intro.mp4",
+      "source_entry": "H3ABfw5.smk",
+      "target_archive": "VIDEO.VID"
+    }
+  ],
+  "audio_en": {
+    "local_file": "002_Their_End_of_the_Bargain_Intro_en.wav",
+    "source_entry": "ABVOFW5",
+    "target_archive": "Heroes3.snd",
+    "format": {
+      "codec": "adpcm_ima_wav",
+      "sample_rate": 22050,
+      "channels": 1,
+      "bits_per_sample": 4
+    }
+  },
+  "subtitles": {
+    "en": "002_Their_End_of_the_Bargain_Intro_en.txt",
+    "ua": "002_Their_End_of_the_Bargain_Intro_ua.txt"
+  },
+  "speaker": "Sir Christian"
+}

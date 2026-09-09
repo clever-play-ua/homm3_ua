@@ -1,0 +1,25 @@
+{
+  "video": [
+    {
+      "local_file": "001_Crystal_Dragons_Intro.mp4",
+      "source_entry": "H3ABds5.smk",
+      "target_archive": "VIDEO.VID"
+    }
+  ],
+  "audio_en": {
+    "local_file": "001_Crystal_Dragons_Intro_en.wav",
+    "source_entry": "ABVODS5",
+    "target_archive": "Heroes3.snd",
+    "format": {
+      "codec": "adpcm_ima_wav",
+      "sample_rate": 22050,
+      "channels": 1,
+      "bits_per_sample": 4
+    }
+  },
+  "subtitles": {
+    "en": "001_Crystal_Dragons_Intro_en.txt",
+    "ua": "001_Crystal_Dragons_Intro_ua.txt"
+  },
+  "speaker": "Dracon"
+}

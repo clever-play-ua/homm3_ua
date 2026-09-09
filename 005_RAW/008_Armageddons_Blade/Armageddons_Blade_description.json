@@ -30,18 +30,18 @@
     },
     {
       "mission_number": 2,
-      "mission_name": "Seeking Armageddon",
-      "audio_file": "002_Seeking_Armageddon_Intro_en.wav",
-      "text_en": "The greatest hero in all Eeofol is Xeron the Terrible.  He has been attempting to fulfill King Lucifer's vision for some time now, but every time he has gotten close to one of the objects needed to build Armageddon's Blade, a hero from the Elemental Conflux has arrived to take it.  Now he has them cornered in Avlee and they are ripe for the picking.\n\nMy quest is sacred, given to me by the king himself.  I have searched the continent for the relics he desires.  When I have come close, a mysterious hero has spirited my prize away.  I have pursued these heroes for months.  Now, I have them cornered.  They will either surrender the relics, their lives... or both.",
-      "speaker": "Xeron",
+      "mission_name": "Shadows of the Forest",
+      "audio_file": "002_Shadows_of_the_Forest_Intro_en.wav",
+      "text_en": "Gelu, the half-Vori elf leader of Erathia's elite unit known as the Forestguard, has been ordered to wage a shadow war along the Avlee-Eeofol border.  This area is rife with small garrisons and outposts.  It is from these levies that Gelu shall draw his guerilla force.\n\nMessengers inform me Queen Catherine and Roland Ironfist are retreating to the Erathian border.  Avlee has chosen to turn a blind eye toward the war, but have purposely left local heroes to their own will.  Under the Queen's orders we are to wage a 'hit-and-run' war along the Avlee border.  Our only support will be local militia hostile toward the Kreegans.  Should we be captured, Erathia and Avlee will disavow any knowledge of our actions.  Otherwise... this task is no different than before.",
+      "speaker": "Gelu",
       "speaker_gender": "male"
     },
     {
       "mission_number": 3,
-      "mission_name": "Shadows of the Forest",
-      "audio_file": "003_Shadows_of_the_Forest_Intro_en.wav",
-      "text_en": "Gelu, the half-Vori elf leader of Erathia's elite unit known as the Forestguard, has been ordered to wage a shadow war along the Avlee-Eeofol border.  This area is rife with small garrisons and outposts.  It is from these levies that Gelu shall draw his guerilla force.\n\nMessengers inform me Queen Catherine and Roland Ironfist are retreating to the Erathian border.  Avlee has chosen to turn a blind eye toward the war, but have purposely left local heroes to their own will.  Under the Queen's orders we are to wage a 'hit-and-run' war along the Avlee border.  Our only support will be local militia hostile toward the Kreegans.  Should we be captured, Erathia and Avlee will disavow any knowledge of our actions.  Otherwise... this task is no different than before.",
-      "speaker": "Gelu",
+      "mission_name": "Seeking Armageddon",
+      "audio_file": "003_Seeking_Armageddon_Intro_en.wav",
+      "text_en": "The greatest hero in all Eeofol is Xeron the Terrible.  He has been attempting to fulfill King Lucifer's vision for some time now, but every time he has gotten close to one of the objects needed to build Armageddon's Blade, a hero from the Elemental Conflux has arrived to take it.  Now he has them cornered in Avlee and they are ripe for the picking.\n\nMy quest is sacred, given to me by the king himself.  I have searched the continent for the relics he desires.  When I have come close, a mysterious hero has spirited my prize away.  I have pursued these heroes for months.  Now, I have them cornered.  They will either surrender the relics, their lives... or both.",
+      "speaker": "Xeron",
       "speaker_gender": "male"
     },
     {
