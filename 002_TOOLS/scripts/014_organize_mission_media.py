@@ -5,7 +5,7 @@ dump every cutscene into one flat `005_RAW/<NNN>_<Campaign>/videos/` folder
 per campaign, using the game's own cryptic short codes as filenames
 (`GOOD1A.mp4`, `G1A.wav`, `EVIL2AP1.mp4`, ...) - fine for extraction, but
 awkward for actually working mission-by-mission, since `.../missions/<NNN>_<Mission>/`
-already holds that mission's `texts.json` and is where a future `.srt` +
+already holds that mission's `<Mission>_text.json` and is where a future `.srt` +
 translation would naturally belong too. This script copies (never moves -
 the flat `videos/`/`voiceover_en/` folders stay put, nothing here depends
 on them going away) each cutscene/voiceover file into the mission folder
@@ -14,7 +14,7 @@ it actually belongs to, renamed to `<MissionFolder>_Intro.mp4` /
 `_Intro_2.mp4`, ...) plus a plain-text `<MissionFolder>_Intro_en.txt` (and
 `..._ua.txt`, since Hurtom's translation of this text already exists -
 see below) - so `.../missions/<NNN>_<Mission>/` ends up self-contained:
-`texts.json` (the mission's OTHER text - quests, map events, etc, a
+`<Mission>_text.json` (the mission's OTHER text - quests, map events, etc, a
 separate concern from this) + this intro package, ready to hand to a
 translator or build a `.srt` from later. **Deliberately does NOT copy the
 campaign-level intro clip anywhere** - that one plays on the campaign
@@ -54,9 +54,9 @@ as the video/audio filenames (`Good1a`, `Evil2ap`, `Neutral1c/d`, ...).
 For the other 13 (AB/SoD), there's no `CAMPDIAG.TXT` entry at all - their
 per-mission intro screen shows the `.h3c` wrapper's own
 `wrapper_prolog`/`wrapper_epilog` text instead, already extracted (EN+UA,
-already translated) into each mission's own `texts.json` - confirmed by
+already translated) into each mission's own `<Mission>_text.json` - confirmed by
 matching a live screenshot's on-screen text word-for-word against
-`017_Elixir_of_Life/missions/002_Cutthroats/texts.json`'s
+`017_Elixir_of_Life/missions/002_Cutthroats/002_Cutthroats_text.json`'s
 `wrapper_epilog`. Either way, this script joins however many text records
 a mission has (some have 2 - one narration entry per video part, or
 prolog+epilog) into one EN and one UA plain-text file, records separated
@@ -68,6 +68,7 @@ Usage:
     python 014_organize_mission_media.py [--raw ../../005_RAW]
 """
 import argparse
+import glob
 import json
 import os
 import shutil
@@ -367,15 +368,18 @@ def narration_records_campdiag(campaign: str, mission_folder: str, campdiag: dic
 
 
 def narration_records_texts_json(mission_dir: str) -> list:
-    """AB/SoD campaigns' narration source: the mission's own `texts.json`
-    `wrapper_prolog`/`wrapper_epilog` fields (already extracted, already
-    translated - see module docstring for how this was confirmed correct
-    against a live screenshot). In: the mission folder's path. Out: list
-    of `{key, en, ua}` for whichever of the two fields are present (empty
-    list if `texts.json` is missing or has neither)."""
-    texts_path = os.path.join(mission_dir, "texts.json")
-    if not os.path.isfile(texts_path):
+    """AB/SoD campaigns' narration source: the mission's own
+    `<MissionFolder>_text.json` (build_mission_texts.py's per-mission
+    output - see that file's docstring for why it's named this way, not a
+    bare `texts.json`)'s `wrapper_prolog`/`wrapper_epilog` fields (already
+    extracted, already translated - see module docstring for how this was
+    confirmed correct against a live screenshot). In: the mission folder's
+    path. Out: list of `{key, en, ua}` for whichever of the two fields are
+    present (empty list if the file is missing or has neither)."""
+    texts_candidates = glob.glob(os.path.join(mission_dir, "*_text.json"))
+    if not texts_candidates:
         return []
+    texts_path = texts_candidates[0]
     with open(texts_path, encoding="utf-8") as f:
         entries = {e["field"]: e for e in json.load(f) if "field" in e}
     return [{"key": field, "en": entries[field]["en"], "ua": entries[field]["ua"]}

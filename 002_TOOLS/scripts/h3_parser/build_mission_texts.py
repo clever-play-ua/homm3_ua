@@ -9,12 +9,24 @@ the rest of this project's 005_RAW convention (build_raw.py's LOD-file
 JSONs, extract_campaigns.py's per-campaign JSONs).
 
 Folder layout produced:
-    005_RAW/<NNN>_<CampaignName>/missions/
-        001_<MapName>/texts.json
-        002_<MapName>/texts.json
-        ...
+    005_RAW/<NNN>_<CampaignName>/
+        <CampaignName>_description.json   (campaign-level fields only -
+                                            name/desc/epilogue, belongs to
+                                            no single scenario)
+        missions/
+            001_<MapName>/001_<MapName>_text.json
+            002_<MapName>/002_<MapName>_text.json
+            ...
 (map name is read from the scenario's own map_name field, English, with
 spaces/punctuation replaced so it's filesystem-safe)
+
+**File names are prefixed with their own folder's name on purpose**
+(`001_Homecoming_text.json`, not a bare `texts.json`) - every mission
+folder across every campaign used to produce an identically-named
+`texts.json`, which made it impossible to drop a handful of them into one
+place (e.g. to hand off to a translator) without them colliding/
+overwriting each other. `deploy_campaign.py` reads this same naming
+convention back - if you rename the pattern here, update it there too.
 
 "ua" values are pre-filled from a Hurtom-translated .h3c of the same
 campaign when given (--ua-source) - same source used by both
@@ -139,11 +151,11 @@ def map_records_for_scenario(data: bytes, ua_data: bytes | None, stem: str,
 def main() -> None:
     """CLI entry point - see module docstring's Usage line for the exact
     argv shape. In: h3c_path, out_missions_dir, --ua-source, --stem (all
-    via argparse). Out: None (writes the `missions/000_..._description/`
-    and `missions/NNN_<MapName>/` folders described in the module
-    docstring; also prints, per scenario, a parse-health line - anything
-    other than "clean parse" means that scenario didn't fully parse and
-    its extracted text may be incomplete/wrong)."""
+    via argparse). Out: None (writes the campaign-root `*_description.json`
+    and `missions/NNN_<MapName>/NNN_<MapName>_text.json` files described in
+    the module docstring; also prints, per scenario, a parse-health line -
+    anything other than "clean parse" means that scenario didn't fully
+    parse and its extracted text may be incomplete/wrong)."""
     ap = argparse.ArgumentParser()
     ap.add_argument('h3c_path')
     ap.add_argument('out_missions_dir')
@@ -197,12 +209,15 @@ def main() -> None:
             'en': en_text,
             'ua': ua_campaign_values.get(field_name, ''),
         })
-    campaign_folder = os.path.join(args.out_missions_dir,
-                                    f'000_{safe_name(campaign_display_name or stem)}_description')
-    os.makedirs(campaign_folder, exist_ok=True)
-    with open(os.path.join(campaign_folder, 'texts.json'), 'w', encoding='utf-8') as f:
+    # Campaign root is out_missions_dir's parent (out_missions_dir is
+    # conventionally "<campaign_root>/missions") - the description file
+    # lives there, a sibling of missions/, not nested inside it.
+    campaign_root = os.path.dirname(os.path.normpath(args.out_missions_dir))
+    campaign_name_safe = safe_name(campaign_display_name or stem)
+    desc_path = os.path.join(campaign_root, f'{campaign_name_safe}_description.json')
+    with open(desc_path, 'w', encoding='utf-8') as f:
         json.dump(campaign_records, f, ensure_ascii=False, indent=2)
-    print(f"{campaign_folder}: {len(campaign_records)} field(s)")
+    print(f"{desc_path}: {len(campaign_records)} field(s)")
 
     for i in range(scenario_count):
         data = gzip.decompress(scenario_members[i])
@@ -212,11 +227,12 @@ def main() -> None:
         wrapper_records = wrapper_records_for_scenario(header, ua_header, scenario_count, i, stem)
 
         map_name = next((rec['en'] for rec in map_records if rec['field'] == 'map_map_name'), f'Scenario{i}')
-        folder = os.path.join(args.out_missions_dir, f'{i + 1:03d}_{safe_name(map_name)}')
+        folder_name = f'{i + 1:03d}_{safe_name(map_name)}'
+        folder = os.path.join(args.out_missions_dir, folder_name)
         os.makedirs(folder, exist_ok=True)
 
         all_records = wrapper_records + map_records
-        with open(os.path.join(folder, 'texts.json'), 'w', encoding='utf-8') as f:
+        with open(os.path.join(folder, f'{folder_name}_text.json'), 'w', encoding='utf-8') as f:
             json.dump(all_records, f, ensure_ascii=False, indent=2)
 
         clean = 'clean' if r.remaining() in (0, 124) else f'DRIFT (remaining={r.remaining()})'

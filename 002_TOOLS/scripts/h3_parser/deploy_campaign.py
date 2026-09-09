@@ -1,15 +1,17 @@
 #!/usr/bin/env python3
 """
 Problem this solves: build_mission_texts.py lays out a campaign's text as
-one {var,field,en,ua} JSON per mission folder (005_RAW/<campaign>/missions/
-000_..._description, 001_<Map>, 002_<Map>, ...) for easy hand-editing, but
-h3c_writer.rebuild()/h3m_writer.rebuild() each expect a flat JSON keyed by
-the RAW field name they use internally (e.g. 'scenario0_prolog',
-'map_name', not build_mission_texts.py's 'wrapper_prolog'/'map_map_name').
-This script bridges the two: read every mission folder's texts.json for a
-campaign, re-key each record back to what the writers expect, and chain
-h3c_writer.rebuild + h3m_writer.rebuild (one call per scenario) into a
-single final translated .h3c.
+one {var,field,en,ua} JSON per mission folder (005_RAW/<campaign>/
+<CampaignName>_description.json for the campaign-level fields, then
+missions/001_<Map>/001_<Map>_text.json, missions/002_<Map>/..., etc for
+each scenario) for easy hand-editing, but h3c_writer.rebuild()/
+h3m_writer.rebuild() each expect a flat JSON keyed by the RAW field name
+they use internally (e.g. 'scenario0_prolog', 'map_name', not
+build_mission_texts.py's 'wrapper_prolog'/'map_map_name'). This script
+bridges the two: read the campaign-level description file plus every
+mission folder's `*_text.json`, re-key each record back to what the
+writers expect, and chain h3c_writer.rebuild + h3m_writer.rebuild (one
+call per scenario) into a single final translated .h3c.
 
 Usage:
     python deploy_campaign.py Ab.h3c 005_RAW/008_Armageddons_Blade/missions out_Ab.h3c
@@ -51,28 +53,33 @@ def deploy(h3c_path: str, missions_dir: str, out_path: str) -> None:
     _, scenario_members = split_h3c(raw)
     scenario_count = len(scenario_members)
 
-    # campaign-level fields (000_..._description folder): field is
-    # 'wrapper_campaign_name' / 'wrapper_campaign_desc' -> raw field is
-    # 'campaign_name' / 'campaign_desc' (no scenario prefix).
+    # campaign-level fields (campaign-root "<Name>_description.json",
+    # a sibling of missions_dir - see build_mission_texts.py's docstring
+    # for why this isn't nested inside missions_dir as its own fake
+    # "mission 0" anymore): field is 'wrapper_campaign_name'/
+    # 'wrapper_campaign_desc' -> raw field is 'campaign_name'/
+    # 'campaign_desc' (no scenario prefix).
     wrapper_records: list[Field] = []
-    desc_folders = glob.glob(os.path.join(missions_dir, '000_*'))
-    for folder in desc_folders:
-        recs = json.load(open(os.path.join(folder, 'texts.json'), encoding='utf-8'))
+    campaign_root = os.path.dirname(os.path.normpath(missions_dir))
+    desc_files = glob.glob(os.path.join(campaign_root, '*_description.json'))
+    for desc_path in desc_files:
+        recs = json.load(open(desc_path, encoding='utf-8'))
         for r in recs:
             if r['field'].startswith('wrapper_') and r.get('ua'):
                 raw_field = r['field'][len('wrapper_'):]
                 wrapper_records.append({'field': raw_field, 'ua': r['ua']})
 
-    scenario_folders = sorted(
-        f for f in glob.glob(os.path.join(missions_dir, '*')) if not os.path.basename(f).startswith('000_')
-    )
+    scenario_folders = sorted(glob.glob(os.path.join(missions_dir, '*')))
     if len(scenario_folders) != scenario_count:
         sys.exit(f"folder count mismatch: {h3c_path} has {scenario_count} scenarios, "
-                 f"{missions_dir} has {len(scenario_folders)} non-000 folders")
+                 f"{missions_dir} has {len(scenario_folders)} mission folders")
 
     map_records_per_scenario: list[list[Field]] = []
     for i, folder in enumerate(scenario_folders):
-        recs = json.load(open(os.path.join(folder, 'texts.json'), encoding='utf-8'))
+        text_files = glob.glob(os.path.join(folder, '*_text.json'))
+        if len(text_files) != 1:
+            sys.exit(f"{folder}: expected exactly one *_text.json, found {len(text_files)}")
+        recs = json.load(open(text_files[0], encoding='utf-8'))
         map_recs: list[Field] = []
         for r in recs:
             if not r.get('ua'):
