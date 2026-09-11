@@ -1,5 +1,6 @@
-# Heroes of Might and Magic III: Complete (GOG) — Chronological Content Map
+<img width="500"  alt="Heroes of Might and Magic III: Complete Logo Ukrainian" src="https://github.com/user-attachments/assets/a309290a-3636-4d4a-92fd-7f1e887b2d17" />
 
+## Heroes of Might and Magic III: Complete (GOG) — Chronological Content Map
 ## The Restoration of Erathia
 
 ```mermaid
